@@ -1,0 +1,18 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "ConnectionStrings__Postgres": "Host=localhost;Port=5432;Database=congnex_dev;Username=postgres;Password=postgres",
+    "Azure__BlobStorage__ConnectionString": "UseDevelopmentStorage=true",
+    "Azure__BlobStorage__ImagesContainer": "images",
+    "Azure__BlobStorage__AudioContainer": "audio",
+    "Azure__BlobStorage__VideoContainer": "video",
+    "Azure__BlobStorage__SasTokenExpiryMinutes": "60",
+    "Azure__CommunicationServices__ConnectionString": "endpoint=https://YOUR_RESOURCE.communication.azure.com/;accesskey=YOUR_KEY",
+    "Azure__CommunicationServices__SenderEmail": "noreply@congnex.com",
+    "Azure__CommunicationServices__SenderName": "Congnex",
+    "Azure__NotificationHubs__ConnectionString": "Endpoint=sb://YOUR_NAMESPACE.servicebus.windows.net/;SharedAccessKeyName=DefaultFullSharedAccessSignature;SharedAccessKey=YOUR_KEY",
+    "Azure__NotificationHubs__HubName": "congnex-hub"
+  }
+}

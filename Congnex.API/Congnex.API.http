@@ -1,0 +1,6 @@
+@Congnex.API_HostAddress = http://localhost:5190
+
+GET {{Congnex.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
