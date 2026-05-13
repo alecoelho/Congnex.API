@@ -47,14 +47,7 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
 builder.Services.AddAuthorization();
 
 // ── Controllers ────────────────────────────────────────────────────────────
-// Stripe webhook needs raw request body — disable default input formatters for that route
-builder.Services.AddControllers(opts =>
-    opts.InputFormatters.Insert(0,
-        new Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonInputFormatter(
-            new Microsoft.AspNetCore.Mvc.JsonOptions(),
-            builder.Services.BuildServiceProvider()
-                .GetRequiredService<Microsoft.Extensions.Logging.ILoggerFactory>()
-                .CreateLogger<Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonInputFormatter>())));
+builder.Services.AddControllers();
 
 // ── Swagger ────────────────────────────────────────────────────────────────
 builder.Services.AddEndpointsApiExplorer();
@@ -90,10 +83,17 @@ var app = builder.Build();
 // Auto-migrate + seed on startup (dev convenience — use explicit migration in prod)
 if (app.Environment.IsDevelopment())
 {
-    using var scope = app.Services.CreateScope();
-    var db = scope.ServiceProvider.GetRequiredService<CongnexDbContext>();
-    await db.Database.MigrateAsync();
-    await Congnex.Infrastructure.Persistence.DbSeeder.SeedAsync(db);
+    try
+    {
+        using var scope = app.Services.CreateScope();
+        var db = scope.ServiceProvider.GetRequiredService<CongnexDbContext>();
+        await db.Database.MigrateAsync();
+        await Congnex.Infrastructure.Persistence.DbSeeder.SeedAsync(db);
+    }
+    catch (Exception ex)
+    {
+        app.Logger.LogWarning(ex, "Could not apply migrations — is the database running?");
+    }
 }
 
 app.UseSerilogRequestLogging();

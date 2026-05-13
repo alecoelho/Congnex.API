@@ -9,7 +9,7 @@ using Microsoft.Extensions.Options;
 
 namespace Congnex.Application.Auth.Commands;
 
-public record RegisterCommand(string FirstName, string LastName, string Email, string Password) : IRequest<AuthResult>;
+public record RegisterCommand(string FirstName, string LastName, string Email, string Password, string? Motivations = null) : IRequest<AuthResult>;
 
 public sealed class RegisterCommandHandler(
     ICongnexDbContext db,
@@ -35,6 +35,7 @@ public sealed class RegisterCommandHandler(
             LastName              = req.LastName,
             Email                 = req.Email,
             PasswordHash          = hasher.Hash(req.Password),
+            Motivations           = req.Motivations,
             RefreshTokenHash      = hasher.Hash(refreshToken),
             RefreshTokenExpiresAt = DateTime.UtcNow.AddDays(_jwt.RefreshTokenExpiryDays)
         };

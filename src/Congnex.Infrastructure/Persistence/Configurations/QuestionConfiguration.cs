@@ -38,6 +38,7 @@ public class QuestionConfiguration : IEntityTypeConfiguration<Question>
          .HasForeignKey(q => q.LessonId)
          .OnDelete(DeleteBehavior.Cascade);
 
-        b.HasIndex(q => new { q.LessonId, q.OrderIndex });
+        // Unique index ensures no duplicate order within a lesson
+        b.HasIndex(q => new { q.LessonId, q.OrderIndex }).IsUnique();
     }
 }

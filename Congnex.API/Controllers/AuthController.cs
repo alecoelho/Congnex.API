@@ -11,7 +11,7 @@ namespace Congnex.API.Controllers;
 [Route("api/auth")]
 public class AuthController(IMediator mediator) : ControllerBase
 {
-    public record RegisterRequest(string FirstName, string LastName, string Email, string Password);
+    public record RegisterRequest(string FirstName, string LastName, string Email, string Password, string? Motivations = null);
     public record LoginRequest(string Email, string Password);
     public record GoogleAuthRequest(string IdToken);
     public record GoogleCodeAuthRequest(string Code, string RedirectUri);
@@ -26,7 +26,7 @@ public class AuthController(IMediator mediator) : ControllerBase
         try
         {
             var result = await mediator.Send(
-                new RegisterCommand(req.FirstName, req.LastName, req.Email, req.Password), ct);
+                new RegisterCommand(req.FirstName, req.LastName, req.Email, req.Password, req.Motivations), ct);
             return Ok(ApiResponse<object>.Ok(result));
         }
         catch (InvalidOperationException ex)
