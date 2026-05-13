@@ -27,7 +27,7 @@ public static class DependencyInjection
         services.AddDbContext<CongnexDbContext>(opts =>
             opts.UseMySql(
                 connStr,
-                ServerVersion.AutoDetect(connStr),
+                new MySqlServerVersion(new Version(8, 0, 36)),
                 b => b.MigrationsAssembly(typeof(CongnexDbContext).Assembly.FullName)));
 
         services.AddScoped<ICongnexDbContext>(sp =>

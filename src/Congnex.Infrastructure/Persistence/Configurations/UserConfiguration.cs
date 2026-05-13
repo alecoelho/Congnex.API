@@ -33,7 +33,7 @@ public class UserConfiguration : IEntityTypeConfiguration<User>
             .HasConversion<string>().HasDefaultValue(UserPlan.Free);
         b.Property(u => u.DailyMinutes).HasColumnName("daily_minutes").HasDefaultValue(10);
         b.Property(u => u.Language).HasColumnName("language").HasMaxLength(10).HasDefaultValue("en");
-        b.Property(u => u.Motivations).HasColumnName("motivations").HasColumnType("json");
+        b.Property(u => u.Motivations).HasColumnName("motivations").HasMaxLength(500);
         b.Property(u => u.RefreshTokenHash).HasColumnName("refresh_token_hash");
         b.Property(u => u.RefreshTokenExpiresAt).HasColumnName("refresh_token_expires_at");
         b.Property(u => u.CreatedAt).HasColumnName("created_at");

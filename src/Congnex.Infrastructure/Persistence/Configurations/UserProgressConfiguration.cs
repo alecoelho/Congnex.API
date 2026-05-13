@@ -22,7 +22,7 @@ public class UserProgressConfiguration : IEntityTypeConfiguration<UserProgress>
         b.Property(p => p.UpdatedAt).HasColumnName("updated_at");
 
         b.HasOne(p => p.User)
-         .WithMany()
+         .WithMany(u => u.Progress)
          .HasForeignKey(p => p.UserId)
          .OnDelete(DeleteBehavior.Cascade);
 

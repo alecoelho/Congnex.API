@@ -2,13 +2,12 @@ namespace Congnex.Domain.Enums;
 
 public enum QuestionType
 {
-    Image,
-    Translate,
-    MultipleChoice,
-    FillBlank,
-    MatchPairs,
-    ListenAndTap,
-    ImageWordChoice,
-    ListeningWordSelection,
-    VideoListening
+    imageWordChoice,
+    multipleChoice,
+    translate,
+    fillBlank,
+    matchPairs,
+    listenAndTap,
+    listeningWordSelection,
+    videoListening
 }
