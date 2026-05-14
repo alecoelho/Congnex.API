@@ -17,6 +17,7 @@ public interface ICongnexDbContext
     DbSet<Subscription> Subscriptions { get; }
     DbSet<NotificationPreference> NotificationPreferences { get; }
     DbSet<DeviceToken> DeviceTokens { get; }
+    DbSet<FlashcardReview> FlashcardReviews { get; }
 
     Task<int> SaveChangesAsync(CancellationToken cancellationToken = default);
 }

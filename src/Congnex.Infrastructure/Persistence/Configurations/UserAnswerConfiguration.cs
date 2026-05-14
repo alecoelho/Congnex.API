@@ -30,7 +30,7 @@ public class UserAnswerConfiguration : IEntityTypeConfiguration<UserAnswer>
         b.Property(a => a.UpdatedAt).HasColumnName("updated_at");
 
         b.HasOne(a => a.User)
-         .WithMany()
+         .WithMany(u => u.Answers)
          .HasForeignKey(a => a.UserId)
          .OnDelete(DeleteBehavior.Cascade);
 
