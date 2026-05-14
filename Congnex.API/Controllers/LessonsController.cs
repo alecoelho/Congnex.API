@@ -55,6 +55,18 @@ public class LessonsController(IMediator mediator) : ControllerBase
         catch (KeyNotFoundException ex) { return NotFound(ApiResponse.Fail(ex.Message)); }
     }
 
+    // ── GET /api/lessons/{lessonId}/flashcards ──────────────────────────────
+    [HttpGet("{lessonId:guid}/flashcards")]
+    public async Task<IActionResult> GetFlashcards(Guid lessonId, CancellationToken ct)
+    {
+        try
+        {
+            var flashcards = await mediator.Send(new GetLessonFlashcardsQuery(lessonId), ct);
+            return Ok(ApiResponse<object>.Ok(flashcards));
+        }
+        catch (KeyNotFoundException ex) { return NotFound(ApiResponse.Fail(ex.Message)); }
+    }
+
     private Guid GetUserId() =>
         Guid.Parse(User.FindFirstValue(ClaimTypes.NameIdentifier)
             ?? User.FindFirstValue("sub")
