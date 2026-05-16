@@ -6,6 +6,8 @@ public sealed class AzureSettings
     public BlobStorageSettings BlobStorage { get; init; } = new();
     public NotificationHubsSettings NotificationHubs { get; init; } = new();
     public CommunicationServicesSettings CommunicationServices { get; init; } = new();
+    public BraveSearchSettings BraveSearch { get; init; } = new();
+    public YouTubeSettings YouTube { get; init; } = new();
 }
 
 public sealed class AIFoundrySettings
@@ -38,4 +40,14 @@ public sealed class CommunicationServicesSettings
     public string SenderEmail { get; init; } = string.Empty;
     public string SenderName { get; init; } = "Congnex";
     public string SenderSmsFrom { get; init; } = string.Empty;
+}
+
+public sealed class BraveSearchSettings
+{
+    public string ApiKey { get; init; } = string.Empty;
+}
+
+public sealed class YouTubeSettings
+{
+    public string ApiKey { get; init; } = string.Empty;
 }

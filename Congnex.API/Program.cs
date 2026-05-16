@@ -1,9 +1,11 @@
 using System.Text;
+using System.Threading.RateLimiting;
 using Congnex.Application.Settings;
 using Congnex.Infrastructure;
 using Congnex.Infrastructure.Persistence;
 using MediatR;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.RateLimiting;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
@@ -70,6 +72,28 @@ builder.Services.AddSwaggerGen(c =>
     });
 });
 
+// ── Rate limiting ──────────────────────────────────────────────────────────
+builder.Services.AddRateLimiter(o =>
+{
+    // 10 Xyla messages per minute per user
+    o.AddPolicy("xyla", context =>
+    {
+        var userId = context.User.FindFirst(System.Security.Claims.ClaimTypes.NameIdentifier)?.Value
+                  ?? context.Connection.RemoteIpAddress?.ToString()
+                  ?? "anon";
+
+        return RateLimitPartition.GetFixedWindowLimiter(userId, _ => new FixedWindowRateLimiterOptions
+        {
+            Window            = TimeSpan.FromMinutes(1),
+            PermitLimit       = 10,
+            QueueLimit        = 0,
+            QueueProcessingOrder = QueueProcessingOrder.OldestFirst
+        });
+    });
+
+    o.RejectionStatusCode = 429;
+});
+
 // ── Health checks ──────────────────────────────────────────────────────────
 builder.Services.AddHealthChecks();
 
@@ -97,6 +121,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseSerilogRequestLogging();
+app.UseRateLimiter();
 app.UseSwagger();
 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Congnex API v1"));
 app.UseHttpsRedirection();

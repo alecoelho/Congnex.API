@@ -11,8 +11,9 @@ public class CongnexDbContextFactory : IDesignTimeDbContextFactory<CongnexDbCont
         var connStr = Environment.GetEnvironmentVariable("ConnectionStrings__MySQL")
             ?? "Server=127.0.0.1;Port=3306;Database=congnex;User=root;Password=admin;SslMode=None;";
 
+        var serverVersion = new MySqlServerVersion(new Version(8, 0, 0));
         var opts = new DbContextOptionsBuilder<CongnexDbContext>()
-            .UseMySql(connStr, ServerVersion.AutoDetect(connStr))
+            .UseMySql(connStr, serverVersion)
             .Options;
 
         return new CongnexDbContext(opts);

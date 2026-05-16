@@ -4,6 +4,7 @@ using Congnex.Infrastructure.Persistence;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Congnex.Infrastructure.Migrations
 {
     [DbContext(typeof(CongnexDbContext))]
-    partial class CongnexDbContextModelSnapshot : ModelSnapshot
+    [Migration("20260516011343_AddXylaTables")]
+    partial class AddXylaTables
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -795,50 +798,6 @@ namespace Congnex.Infrastructure.Migrations
                     b.ToTable("user_answers", (string)null);
                 });
 
-            modelBuilder.Entity("Congnex.Domain.Entities.UserInterviewAnswer", b =>
-                {
-                    b.Property<Guid>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("char(36)")
-                        .HasColumnName("id");
-
-                    b.Property<DateTime>("CreatedAt")
-                        .HasColumnType("datetime(6)")
-                        .HasColumnName("created_at");
-
-                    b.Property<string>("EnglishLevel")
-                        .IsRequired()
-                        .HasMaxLength(5)
-                        .HasColumnType("varchar(5)")
-                        .HasColumnName("english_level");
-
-                    b.Property<DateTime>("UpdatedAt")
-                        .HasColumnType("datetime(6)")
-                        .HasColumnName("updated_at");
-
-                    b.Property<Guid>("UserId")
-                        .HasColumnType("char(36)")
-                        .HasColumnName("user_id");
-
-                    b.Property<string>("VideoCategory")
-                        .IsRequired()
-                        .HasMaxLength(100)
-                        .HasColumnType("varchar(100)")
-                        .HasColumnName("video_category");
-
-                    b.Property<string>("VideoUrl")
-                        .IsRequired()
-                        .HasMaxLength(1000)
-                        .HasColumnType("varchar(1000)")
-                        .HasColumnName("video_url");
-
-                    b.HasKey("Id");
-
-                    b.HasIndex("UserId");
-
-                    b.ToTable("user_interview_answers", (string)null);
-                });
-
             modelBuilder.Entity("Congnex.Domain.Entities.UserProgress", b =>
                 {
                     b.Property<Guid>("Id")
@@ -886,6 +845,99 @@ namespace Congnex.Infrastructure.Migrations
                         .IsUnique();
 
                     b.ToTable("user_progress", (string)null);
+                });
+
+            modelBuilder.Entity("Congnex.Domain.Entities.XylaMessage", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("char(36)")
+                        .HasColumnName("id");
+
+                    b.Property<string>("Content")
+                        .IsRequired()
+                        .HasColumnType("text")
+                        .HasColumnName("content");
+
+                    b.Property<DateTime>("CreatedAt")
+                        .HasColumnType("datetime(6)")
+                        .HasColumnName("created_at");
+
+                    b.Property<string>("Role")
+                        .IsRequired()
+                        .HasMaxLength(10)
+                        .HasColumnType("varchar(10)")
+                        .HasColumnName("role");
+
+                    b.Property<Guid>("SessionId")
+                        .HasColumnType("char(36)")
+                        .HasColumnName("session_id");
+
+                    b.Property<DateTime>("UpdatedAt")
+                        .HasColumnType("datetime(6)")
+                        .HasColumnName("updated_at");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("SessionId");
+
+                    b.ToTable("xyla_messages", (string)null);
+                });
+
+            modelBuilder.Entity("Congnex.Domain.Entities.XylaSession", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("char(36)")
+                        .HasColumnName("id");
+
+                    b.Property<string>("CefrLevel")
+                        .HasMaxLength(5)
+                        .HasColumnType("varchar(5)")
+                        .HasColumnName("cefr_level");
+
+                    b.Property<DateTime?>("CompletedAt")
+                        .HasColumnType("datetime(6)")
+                        .HasColumnName("completed_at");
+
+                    b.Property<DateTime>("CreatedAt")
+                        .HasColumnType("datetime(6)")
+                        .HasColumnName("created_at");
+
+                    b.Property<string>("Status")
+                        .IsRequired()
+                        .HasMaxLength(20)
+                        .HasColumnType("varchar(20)")
+                        .HasColumnName("status");
+
+                    b.Property<int?>("StudentAge")
+                        .HasColumnType("int")
+                        .HasColumnName("student_age");
+
+                    b.Property<string>("StudentGoal")
+                        .HasMaxLength(100)
+                        .HasColumnType("varchar(100)")
+                        .HasColumnName("student_goal");
+
+                    b.Property<string>("StudyPlanJson")
+                        .HasColumnType("json")
+                        .HasColumnName("study_plan_json");
+
+                    b.Property<DateTime>("UpdatedAt")
+                        .HasColumnType("datetime(6)")
+                        .HasColumnName("updated_at");
+
+                    b.Property<Guid>("UserId")
+                        .HasColumnType("char(36)")
+                        .HasColumnName("user_id");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("UserId");
+
+                    b.HasIndex("UserId", "Status");
+
+                    b.ToTable("xyla_sessions", (string)null);
                 });
 
             modelBuilder.Entity("Congnex.Domain.Entities.AiQuestion", b =>
@@ -1040,17 +1092,6 @@ namespace Congnex.Infrastructure.Migrations
                     b.Navigation("User");
                 });
 
-            modelBuilder.Entity("Congnex.Domain.Entities.UserInterviewAnswer", b =>
-                {
-                    b.HasOne("Congnex.Domain.Entities.User", "User")
-                        .WithMany()
-                        .HasForeignKey("UserId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("User");
-                });
-
             modelBuilder.Entity("Congnex.Domain.Entities.UserProgress", b =>
                 {
                     b.HasOne("Congnex.Domain.Entities.Lesson", "Lesson")
@@ -1066,6 +1107,28 @@ namespace Congnex.Infrastructure.Migrations
                         .IsRequired();
 
                     b.Navigation("Lesson");
+
+                    b.Navigation("User");
+                });
+
+            modelBuilder.Entity("Congnex.Domain.Entities.XylaMessage", b =>
+                {
+                    b.HasOne("Congnex.Domain.Entities.XylaSession", "Session")
+                        .WithMany("Messages")
+                        .HasForeignKey("SessionId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Session");
+                });
+
+            modelBuilder.Entity("Congnex.Domain.Entities.XylaSession", b =>
+                {
+                    b.HasOne("Congnex.Domain.Entities.User", "User")
+                        .WithMany()
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
 
                     b.Navigation("User");
                 });
@@ -1109,6 +1172,11 @@ namespace Congnex.Infrastructure.Migrations
                     b.Navigation("StudyPlan");
 
                     b.Navigation("Subscriptions");
+                });
+
+            modelBuilder.Entity("Congnex.Domain.Entities.XylaSession", b =>
+                {
+                    b.Navigation("Messages");
                 });
 #pragma warning restore 612, 618
         }

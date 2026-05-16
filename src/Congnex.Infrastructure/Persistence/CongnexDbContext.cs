@@ -20,6 +20,7 @@ public class CongnexDbContext(DbContextOptions<CongnexDbContext> options)
     public DbSet<NotificationPreference> NotificationPreferences => Set<NotificationPreference>();
     public DbSet<DeviceToken> DeviceTokens => Set<DeviceToken>();
     public DbSet<FlashcardReview> FlashcardReviews => Set<FlashcardReview>();
+    public DbSet<UserInterviewAnswer> UserInterviewAnswers => Set<UserInterviewAnswer>();
 
     protected override void OnModelCreating(ModelBuilder b)
     {
