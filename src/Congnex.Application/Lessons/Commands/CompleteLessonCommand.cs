@@ -1,4 +1,4 @@
-using Congnex.Application.Interfaces;
+using Congnex.Application.Common;
 using Congnex.Domain.Entities;
 using Congnex.Domain.Enums;
 using MediatR;
@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Congnex.Application.Lessons.Commands;
 
-public record AnswerDto(Guid QuestionId, List<string> GivenAnswers, bool IsCorrect);
+public record AnswerDto(Guid QuestionId, Guid? SelectedOptionId, string? TextAnswer, bool IsCorrect, int TimeSpentSeconds = 0);
 
 public record CompleteLessonResult(int XpEarned, int TotalXp, int NewStreak);
 
@@ -41,20 +41,26 @@ public sealed class CompleteLessonCommandHandler(ICongnexDbContext db)
             db.UserProgress.Add(progress);
         }
 
-        progress.Status      = LessonStatus.Completed;
-        progress.Score       = req.Score;
-        progress.CompletedAt = DateTime.UtcNow;
+        progress.Status         = LessonStatus.Completed;
+        progress.Score          = req.Score;
+        progress.CorrectAnswers = req.Answers.Count(a => a.IsCorrect);
+        progress.TotalQuestions  = req.Answers.Count;
+        progress.XpEarned       = lesson.XpReward;
+        progress.CompletedAt    = DateTime.UtcNow;
 
         // Persist answers
         foreach (var a in req.Answers)
         {
-            db.UserAnswers.Add(new UserAnswer
+            db.UserQuestionAnswers.Add(new UserQuestionAnswer
             {
-                UserId      = req.UserId,
-                QuestionId  = a.QuestionId,
-                GivenAnswers = a.GivenAnswers,
-                IsCorrect   = a.IsCorrect,
-                AnsweredAt  = DateTime.UtcNow
+                UserId           = req.UserId,
+                LessonId         = req.LessonId,
+                QuestionId       = a.QuestionId,
+                SelectedOptionId = a.SelectedOptionId,
+                TextAnswer       = a.TextAnswer,
+                IsCorrect        = a.IsCorrect,
+                TimeSpentSeconds = a.TimeSpentSeconds,
+                AnsweredAt       = DateTime.UtcNow
             });
         }
 

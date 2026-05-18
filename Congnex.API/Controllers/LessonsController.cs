@@ -13,7 +13,7 @@ namespace Congnex.API.Controllers;
 [Authorize]
 public class LessonsController(IMediator mediator) : ControllerBase
 {
-    public record AnswerRequest(Guid QuestionId, List<string> GivenAnswers, bool IsCorrect);
+    public record AnswerRequest(Guid QuestionId, Guid? SelectedOptionId, string? TextAnswer, bool IsCorrect, int TimeSpentSeconds = 0);
     public record CompleteLessonRequest(int Score, List<AnswerRequest> Answers);
 
     // ── GET /api/lessons/units ──────────────────────────────────────────────
@@ -44,7 +44,7 @@ public class LessonsController(IMediator mediator) : ControllerBase
         try
         {
             var answers = req.Answers
-                .Select(a => new AnswerDto(a.QuestionId, a.GivenAnswers, a.IsCorrect))
+                .Select(a => new AnswerDto(a.QuestionId, a.SelectedOptionId, a.TextAnswer, a.IsCorrect, a.TimeSpentSeconds))
                 .ToList();
 
             var result = await mediator.Send(

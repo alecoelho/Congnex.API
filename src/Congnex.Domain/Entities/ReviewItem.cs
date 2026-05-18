@@ -6,8 +6,7 @@ namespace Congnex.Domain.Entities;
 public class ReviewItem : Entity
 {
     public Guid UserId { get; set; }
-    public Guid? QuestionId { get; set; }          // null when source = AiGenerated
-    public Guid? AiQuestionId { get; set; }        // null when source = Lesson
+    public Guid? QuestionId { get; set; }
 
     // "lesson" | "ai_generated"
     public string Source { get; set; } = "lesson";
@@ -23,5 +22,4 @@ public class ReviewItem : Entity
 
     public User User { get; set; } = null!;
     public Question? Question { get; set; }
-    public AiQuestion? AiQuestion { get; set; }
 }

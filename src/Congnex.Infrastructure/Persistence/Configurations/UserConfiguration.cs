@@ -17,6 +17,7 @@ public class UserConfiguration : IEntityTypeConfiguration<User>
         b.Ignore(u => u.FullName);
         b.Property(u => u.Email).HasColumnName("email").HasMaxLength(320).IsRequired();
         b.HasIndex(u => u.Email).IsUnique();
+        b.Property(u => u.DateOfBirth).HasColumnName("date_of_birth");
         b.Property(u => u.PasswordHash).HasColumnName("password_hash");
         b.Property(u => u.GoogleSub).HasColumnName("google_sub");
         b.HasIndex(u => u.GoogleSub).IsUnique();
@@ -30,7 +31,7 @@ public class UserConfiguration : IEntityTypeConfiguration<User>
         b.Property(u => u.LastLessonAt).HasColumnName("last_lesson_at");
         b.Property(u => u.LastLifeRegenAt).HasColumnName("last_life_regen_at");
         b.Property(u => u.Plan).HasColumnName("plan")
-            .HasConversion<string>().HasDefaultValue(UserPlan.Free);
+            .HasConversion<string>().HasMaxLength(20).HasDefaultValue(UserPlan.Free);
         b.Property(u => u.DailyMinutes).HasColumnName("daily_minutes").HasDefaultValue(10);
         b.Property(u => u.Language).HasColumnName("language").HasMaxLength(10).HasDefaultValue("en");
         b.Property(u => u.Motivations).HasColumnName("motivations").HasMaxLength(500);
