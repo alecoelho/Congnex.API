@@ -9,6 +9,7 @@ public class User : Entity
     public string LastName { get; set; } = string.Empty;
     public string FullName => $"{FirstName} {LastName}".Trim();
     public string Email { get; set; } = string.Empty;
+    public DateTime? DateOfBirth { get; set; }
     public string? PasswordHash { get; set; }
     public string? GoogleSub { get; set; }
     public string? AppleSub { get; set; }
@@ -34,7 +35,7 @@ public class User : Entity
 
     // Navigation
     public ICollection<UserProgress> Progress { get; set; } = [];
-    public ICollection<UserAnswer> Answers { get; set; } = [];
+    public ICollection<UserQuestionAnswer> QuestionAnswers { get; set; } = [];
     public ICollection<ReviewItem> ReviewItems { get; set; } = [];
     public ICollection<Subscription> Subscriptions { get; set; } = [];
     public ICollection<DeviceToken> DeviceTokens { get; set; } = [];

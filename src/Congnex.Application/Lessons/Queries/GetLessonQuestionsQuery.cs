@@ -1,16 +1,26 @@
-using Congnex.Application.Interfaces;
+using Congnex.Application.Common;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
 
 namespace Congnex.Application.Lessons.Queries;
 
+public record QuestionOptionDto(Guid Id, string Text, string? ImageUrl, string? AudioUrl, bool IsCorrect, int OrderIndex);
+public record QuestionPairDto(Guid Id, string LeftText, string RightText, string? LeftAudioUrl, string? RightAudioUrl, int OrderIndex);
+
 public record QuestionDto(
-    Guid          Id,
-    string        Type,
-    string        Label,
-    string        Question,
-    object        Data,
-    int           OrderIndex);
+    Guid            Id,
+    string          Type,
+    string?         Label,
+    string          QuestionText,
+    string?         Prompt,
+    string?         Instruction,
+    string?         CorrectAnswer,
+    string?         AudioText,
+    string?         ImageUrl,
+    string          Difficulty,
+    int             OrderIndex,
+    List<QuestionOptionDto> Options,
+    List<QuestionPairDto> Pairs);
 
 public record GetLessonQuestionsQuery(Guid LessonId) : IRequest<List<QuestionDto>>;
 
@@ -25,23 +35,24 @@ public sealed class GetLessonQuestionsQueryHandler(ICongnexDbContext db)
         var questions = await db.Questions
             .Where(q => q.LessonId == req.LessonId)
             .OrderBy(q => q.OrderIndex)
+            .Include(q => q.Options.OrderBy(o => o.OrderIndex))
+            .Include(q => q.Pairs.OrderBy(p => p.OrderIndex))
             .ToListAsync(ct);
 
-        return questions.Select(q =>
-        {
-            // Options stores the full JSON "data" object for the frontend
-            // MediaUrl stores the "label" (e.g. "PALAVRA NOVA", "TRADUÇÃO")
-            var data = q.Options is not null
-                ? System.Text.Json.JsonSerializer.Deserialize<object>(q.Options)!
-                : new { };
-
-            return new QuestionDto(
-                Id:         q.Id,
-                Type:       q.Type.ToString(),
-                Label:      q.MediaUrl ?? "QUESTÃO",
-                Question:   q.Prompt,
-                Data:       data,
-                OrderIndex: q.OrderIndex);
-        }).ToList();
+        return questions.Select(q => new QuestionDto(
+            Id:            q.Id,
+            Type:          q.Type,
+            Label:         q.Label,
+            QuestionText:  q.QuestionText,
+            Prompt:        q.Prompt,
+            Instruction:   q.Instruction,
+            CorrectAnswer: q.CorrectAnswer,
+            AudioText:     q.AudioText,
+            ImageUrl:      q.ImageUrl,
+            Difficulty:    q.Difficulty,
+            OrderIndex:    q.OrderIndex,
+            Options:       q.Options.Select(o => new QuestionOptionDto(o.Id, o.OptionText, o.OptionImageUrl, o.OptionAudioUrl, o.IsCorrect, o.OrderIndex)).ToList(),
+            Pairs:         q.Pairs.Select(p => new QuestionPairDto(p.Id, p.LeftText, p.RightText, p.LeftAudioUrl, p.RightAudioUrl, p.OrderIndex)).ToList()
+        )).ToList();
     }
 }

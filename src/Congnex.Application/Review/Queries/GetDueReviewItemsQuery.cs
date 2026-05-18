@@ -1,4 +1,4 @@
-using Congnex.Application.Interfaces;
+using Congnex.Application.Common;
 using Congnex.Application.Review.Dtos;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
@@ -19,29 +19,20 @@ public sealed class GetDueReviewItemsQueryHandler(ICongnexDbContext db)
             .OrderBy(r => r.DueDate)
             .Take(req.Limit)
             .Include(r => r.Question)
-            .Include(r => r.AiQuestion)
             .ToListAsync(ct);
 
         return items.Select(r =>
         {
-            var prompt  = r.Source == "lesson"
-                ? r.Question?.Prompt ?? ""
-                : r.AiQuestion?.Prompt ?? "";
-
-            var options = r.Source == "lesson"
-                ? r.Question?.Options ?? "[]"
-                : r.AiQuestion?.Options ?? "[]";
-
-            var correctAnswers = r.Source == "lesson"
-                ? r.Question?.CorrectAnswers ?? []
-                : [r.AiQuestion?.CorrectIndex.ToString() ?? "0"];
+            var prompt = r.Question?.Prompt ?? "";
+            var questionText = r.Question?.QuestionText ?? "";
+            var correctAnswer = r.Question?.CorrectAnswer ?? "";
 
             return new ReviewItemDto(
                 Id:             r.Id,
                 Source:         r.Source,
                 Prompt:         prompt,
-                Options:        options,
-                CorrectAnswers: correctAnswers,
+                Options:        "[]",
+                CorrectAnswers: string.IsNullOrEmpty(correctAnswer) ? [] : [correctAnswer],
                 DueDate:        r.DueDate,
                 Reps:           r.Reps,
                 State:          r.State.ToString());

@@ -14,7 +14,6 @@ public class ReviewItemConfiguration : IEntityTypeConfiguration<ReviewItem>
         b.Property(r => r.Id).HasColumnName("id");
         b.Property(r => r.UserId).HasColumnName("user_id");
         b.Property(r => r.QuestionId).HasColumnName("question_id");
-        b.Property(r => r.AiQuestionId).HasColumnName("ai_question_id");
         b.Property(r => r.Source).HasColumnName("source").HasMaxLength(20);
         b.Property(r => r.Stability).HasColumnName("stability");
         b.Property(r => r.Difficulty).HasColumnName("difficulty").HasDefaultValue(5f);
@@ -33,7 +32,5 @@ public class ReviewItemConfiguration : IEntityTypeConfiguration<ReviewItem>
             .HasForeignKey(r => r.UserId).OnDelete(DeleteBehavior.Cascade);
         b.HasOne(r => r.Question).WithMany(q => q.ReviewItems)
             .HasForeignKey(r => r.QuestionId).OnDelete(DeleteBehavior.SetNull);
-        b.HasOne(r => r.AiQuestion).WithMany(q => q.ReviewItems)
-            .HasForeignKey(r => r.AiQuestionId).OnDelete(DeleteBehavior.SetNull);
     }
 }

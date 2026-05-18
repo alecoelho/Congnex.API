@@ -13,4 +13,6 @@ public class Lesson : Entity
     public Unit Unit { get; set; } = null!;
     public ICollection<Question> Questions { get; set; } = [];
     public ICollection<UserProgress> UserProgress { get; set; } = [];
+    public ICollection<LessonVideo> Videos { get; set; } = [];
+    public ICollection<UserQuestionAnswer> UserQuestionAnswers { get; set; } = [];
 }

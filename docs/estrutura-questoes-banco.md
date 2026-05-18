@@ -1,325 +1,413 @@
-# Estrutura das Questões no Banco de Dados
+# Estrutura de Questões no Banco de Dados (v2)
 
-## Tabela: `questions`
+> **Atualizado em:** Maio 2026
+> **Versão:** 2.0 — Estrutura relacional (sem JSON para questões/alternativas/respostas)
+
+---
+
+## Visão Geral da Arquitetura
+
+```text
+YouTube video
+→ extrai roteiro/transcrição
+→ salva roteiro em JSON (único uso de JSON)
+→ IA analisa roteiro
+→ extrai objetos, palavras, frases e expressões
+→ gera questões
+→ salva questões em tabelas relacionais
+→ aluno responde
+→ sistema salva resposta individual
+→ erros alimentam revisão/flashcards
+```
+
+---
+
+## Regra Principal
+
+- **JSON** existe apenas para `transcript_json` (roteiro bruto do vídeo)
+- **Questões, alternativas e respostas** usam tabelas relacionais normais
+
+---
+
+## Tabelas
+
+---
+
+### 1. `lesson_videos`
+
+Vídeos do YouTube vinculados a aulas.
 
 | Coluna | Tipo | Descrição |
 |--------|------|-----------|
-| `id` | CHAR(36) / GUID | ID único da questão |
-| `lesson_id` | CHAR(36) / GUID | FK para a lição |
-| `type` | VARCHAR | Tipo da questão (enum) |
-| `prompt` | TEXT | Texto da pergunta exibido ao usuário |
-| `correct_answers` | JSON | Array de respostas corretas (legado, usar `["_"]`) |
-| `options` | JSON/TEXT | **Campo principal**: JSON com o objeto `data` completo |
-| `media_url` | VARCHAR | **Usado como `label`** (ex: "PALAVRA NOVA", "ESCUTA") |
-| `order_index` | INT | Ordem de exibição na lição (1-10) |
-| `created_at` | DATETIME | Data de criação |
-| `updated_at` | DATETIME | Data de atualização |
+| `id` | CHAR(36) | PK |
+| `lesson_id` | CHAR(36) | FK → lessons |
+| `youtube_video_id` | VARCHAR(50) | ID do vídeo no YouTube |
+| `youtube_url` | VARCHAR(500) | URL completa |
+| `title` | VARCHAR(200) | Título do vídeo |
+| `transcript_json` | LONGTEXT | Roteiro/transcrição em JSON |
+| `language` | VARCHAR(10) | Idioma (default: "en") |
+| `duration_seconds` | INT | Duração em segundos |
+| `created_at` | DATETIME | Criação |
+| `updated_at` | DATETIME | Atualização |
 
----
-
-## Mapeamento dos Campos
-
-| Campo no Banco | Campo na API | Descrição |
-|----------------|--------------|-----------|
-| `type` | `type` | Tipo da questão (camelCase) |
-| `media_url` | `label` | Label exibido no topo da tela |
-| `prompt` | `question` | Texto da pergunta |
-| `options` | `data` | JSON com dados específicos do tipo |
-| `order_index` | `orderIndex` | Ordem de exibição |
-
----
-
-## Tipos de Questão (enum `QuestionType`)
-
-```
-imageWordChoice
-multipleChoice
-translate
-fillBlank
-matchPairs
-listenAndTap
-listeningWordSelection
-videoListening
-```
-
----
-
-## Formato de Inserção por Tipo
-
-### 1. `imageWordChoice`
-
-Escolher imagem/emoji que corresponde à palavra.
-
-**Campos no banco:**
-```
-type:          imageWordChoice
-media_url:     PALAVRA NOVA
-prompt:        Qual destas imagens é 'tea'?
-correct_answers: ["_"]
-options:       (JSON abaixo)
-```
-
-**JSON do campo `options`:**
+**Formato do `transcript_json`:**
 ```json
-{
-  "targetWord": "tea",
-  "correctOptionId": 2,
-  "options": [
-    { "id": 1, "label": "coffee", "emoji": "☕" },
-    { "id": 2, "label": "tea", "emoji": "🍵" },
-    { "id": 3, "label": "milk", "emoji": "🥛" }
-  ]
-}
-```
-
----
-
-### 2. `multipleChoice`
-
-Múltipla escolha com áudio.
-
-**Campos no banco:**
-```
-type:          multipleChoice
-media_url:     PALAVRA NOVA
-prompt:        Qual é a tradução de 'coffee'?
-correct_answers: ["_"]
-options:       (JSON abaixo)
-```
-
-**JSON do campo `options`:**
-```json
-{
-  "audioText": "coffee",
-  "choices": ["café", "chá", "água"],
-  "correctAnswer": "café"
-}
-```
-
----
-
-### 3. `translate`
-
-Traduzir usando banco de palavras.
-
-**Campos no banco:**
-```
-type:          translate
-media_url:     TRADUÇÃO
-prompt:        Escreva em português:
-correct_answers: ["_"]
-options:       (JSON abaixo)
-```
-
-**JSON do campo `options`:**
-```json
-{
-  "audioText": "thank you",
-  "wordOptions": ["obrigado", "por favor", "olá", "tchau"],
-  "correctAnswer": "obrigado"
-}
-```
-
----
-
-### 4. `fillBlank`
-
-Preencher lacuna na frase.
-
-**Campos no banco:**
-```
-type:          fillBlank
-media_url:     COMPLETE A FRASE
-prompt:        Complete a frase:
-correct_answers: ["_"]
-options:       (JSON abaixo)
-```
-
-**JSON do campo `options`:**
-```json
-{
-  "sentence": "I ____ coffee every morning.",
-  "choices": ["drink", "drinks", "drinking"],
-  "correctAnswer": "drink"
-}
-```
-
----
-
-### 5. `matchPairs`
-
-Conectar pares (português ↔ inglês).
-
-**Campos no banco:**
-```
-type:          matchPairs
-media_url:     VOCABULÁRIO
-prompt:        Combine os pares:
-correct_answers: ["_"]
-options:       (JSON abaixo)
-```
-
-**JSON do campo `options`:**
-```json
-{
-  "leftWords": ["chá", "olá", "água"],
-  "rightWords": ["water", "hello", "tea"],
-  "correctPairs": {
-    "chá": "tea",
-    "olá": "hello",
-    "água": "water"
+[
+  {
+    "start": 0.5,
+    "end": 3.2,
+    "speaker": "person_1",
+    "text": "Hi! Can I have some milk, please?"
   }
-}
+]
 ```
+
+**Índice:** `lesson_id`
 
 ---
 
-### 6. `listenAndTap`
+### 2. `video_learning_items`
 
-Ouvir e montar a frase com palavras.
+Conteúdos extraídos pela IA a partir da transcrição.
 
-**Campos no banco:**
+| Coluna | Tipo | Descrição |
+|--------|------|-----------|
+| `id` | CHAR(36) | PK |
+| `video_id` | CHAR(36) | FK → lesson_videos |
+| `item_type` | VARCHAR(50) | Tipo do item |
+| `text_en` | VARCHAR(500) | Texto em inglês |
+| `text_pt` | VARCHAR(500) | Tradução em português |
+| `category` | VARCHAR(100) | Categoria (food, greetings, etc.) |
+| `difficulty` | VARCHAR(20) | easy, medium, hard |
+| `timestamp_start` | DOUBLE | Início no vídeo (segundos) |
+| `timestamp_end` | DOUBLE | Fim no vídeo (segundos) |
+| `created_at` | DATETIME | Criação |
+| `updated_at` | DATETIME | Atualização |
+
+**Valores de `item_type`:**
 ```
-type:          listenAndTap
-media_url:     ESCUTA
-prompt:        Toque no que escutar:
-correct_answers: ["_"]
-options:       (JSON abaixo)
+object | word | phrase | expression | grammar
 ```
 
-**JSON do campo `options`:**
-```json
-{
-  "audioText": "milk",
-  "choices": ["hello", "milk", "water", "thanks"],
-  "correctAnswer": "milk"
-}
-```
+**Exemplos:**
+| item_type | text_en | text_pt |
+|-----------|---------|---------|
+| object | milk | leite |
+| word | coffee | café |
+| phrase | Can I have some milk, please? | Posso ter um pouco de leite, por favor? |
+| expression | here you go | aqui está |
+
+**Índice:** `video_id`
 
 ---
 
-### 7. `listeningWordSelection`
+### 3. `questions`
 
-Ouvir e selecionar a palavra correta.
+Tabela principal de perguntas. Sem JSON.
 
-**Campos no banco:**
+| Coluna | Tipo | Descrição |
+|--------|------|-----------|
+| `id` | CHAR(36) | PK |
+| `lesson_id` | CHAR(36) | FK → lessons |
+| `video_id` | CHAR(36) | FK → lesson_videos (opcional) |
+| `learning_item_id` | CHAR(36) | FK → video_learning_items (opcional) |
+| `type` | VARCHAR(50) | Tipo da questão |
+| `label` | VARCHAR(100) | Label visual (ex: "PALAVRA NOVA") |
+| `prompt` | VARCHAR(2000) | Instrução curta |
+| `instruction` | VARCHAR(500) | Instrução adicional |
+| `question_text` | VARCHAR(2000) | Texto principal da pergunta |
+| `correct_answer` | VARCHAR(500) | Resposta correta (texto) |
+| `audio_text` | VARCHAR(500) | Texto para TTS/áudio |
+| `image_url` | VARCHAR(500) | URL da imagem (se aplicável) |
+| `order_index` | INT | Ordem na lição (1-10) |
+| `difficulty` | VARCHAR(20) | easy, medium, hard |
+| `created_at` | DATETIME | Criação |
+| `updated_at` | DATETIME | Atualização |
+
+**Tipos de questão (`type`):**
 ```
-type:          listeningWordSelection
-media_url:     ESCUTA
-prompt:        Toque no que escutar
-correct_answers: ["_"]
-options:       (JSON abaixo)
-```
-
-**JSON do campo `options`:**
-```json
-{
-  "audioWord": "tea",
-  "options": ["water", "coffee", "sugar", "tea"],
-  "correctAnswer": "tea"
-}
-```
-
----
-
-### 8. `videoListening`
-
-Assistir vídeo de conversa e identificar estrutura.
-
-**Campos no banco:**
-```
-type:          videoListening
-media_url:     ESCUTA
-prompt:        Assista ao vídeo e toque na estrutura que ouviu:
-correct_answers: ["_"]
-options:       (JSON abaixo)
-```
-
-**JSON do campo `options`:**
-```json
-{
-  "videoSource": "conversation_milk",
-  "conversationText": "— Hi! Can I have some milk, please?\n— Sure, here you go!",
-  "targetPhrase": "milk",
-  "options": ["hello", "milk", "water", "thanks"],
-  "correctAnswer": "milk"
-}
+multiple_choice
+image_choice
+listening_choice
+translation_pt
+translation_en
+complete_sentence
+match_pairs
+video_listening
+pronunciation
 ```
 
----
-
-## Labels Disponíveis (campo `media_url`)
-
+**Labels disponíveis (`label`):**
 | Label | Quando usar |
 |-------|-------------|
-| `PALAVRA NOVA` | Introduzindo vocabulário novo |
-| `ESCUTA` | Questões de áudio/listening |
-| `TRADUÇÃO` | Questões de tradução |
-| `COMPLETE A FRASE` | Fill in the blank |
-| `VOCABULÁRIO` | Match pairs / revisão de vocabulário |
-| `REVISÃO` | Questões de revisão de conteúdo anterior |
-| `QUESTÃO` | Label genérico (fallback) |
+| PALAVRA NOVA | Introduzindo vocabulário novo |
+| ESCUTA | Questões de áudio/listening |
+| TRADUÇÃO | Questões de tradução |
+| COMPLETE A FRASE | Fill in the blank |
+| VOCABULÁRIO | Match pairs / revisão |
+| REVISÃO | Revisão de conteúdo anterior |
+| PRONÚNCIA | Exercícios de pronúncia |
+
+**Índices:** `lesson_id`, `video_id`, `learning_item_id`
 
 ---
 
-## Exemplo SQL de Inserção
+### 4. `question_options`
 
-```sql
-INSERT INTO questions (id, lesson_id, type, prompt, correct_answers, options, media_url, order_index, created_at, updated_at)
-VALUES (
-  UUID(),
-  'GUID-DA-LICAO',
-  'multipleChoice',
-  'Qual é a tradução de ''coffee''?',
-  '["_"]',
-  '{"audioText":"coffee","choices":["café","chá","água"],"correctAnswer":"café"}',
-  'PALAVRA NOVA',
-  1,
-  NOW(),
-  NOW()
-);
+Alternativas das questões. Cada alternativa é uma linha.
+
+| Coluna | Tipo | Descrição |
+|--------|------|-----------|
+| `id` | CHAR(36) | PK |
+| `question_id` | CHAR(36) | FK → questions |
+| `option_text` | VARCHAR(500) | Texto da alternativa |
+| `option_image_url` | VARCHAR(500) | Imagem (para image_choice) |
+| `option_audio_url` | VARCHAR(500) | Áudio (para listening) |
+| `is_correct` | BOOLEAN | Se é a resposta correta |
+| `order_index` | INT | Ordem de exibição |
+| `created_at` | DATETIME | Criação |
+| `updated_at` | DATETIME | Atualização |
+
+**Regras:**
+- A alternativa correta tem `is_correct = true`
+- Nunca usar JSON para alternativas
+
+**Índice:** `question_id`
+
+---
+
+### 5. `question_pairs`
+
+Pares para exercícios de associação (match_pairs).
+
+| Coluna | Tipo | Descrição |
+|--------|------|-----------|
+| `id` | CHAR(36) | PK |
+| `question_id` | CHAR(36) | FK → questions |
+| `left_text` | VARCHAR(500) | Texto esquerdo (português) |
+| `right_text` | VARCHAR(500) | Texto direito (inglês) |
+| `left_audio_url` | VARCHAR(500) | Áudio esquerdo |
+| `right_audio_url` | VARCHAR(500) | Áudio direito |
+| `left_image_url` | VARCHAR(500) | Imagem esquerda |
+| `right_image_url` | VARCHAR(500) | Imagem direita |
+| `order_index` | INT | Ordem |
+| `created_at` | DATETIME | Criação |
+| `updated_at` | DATETIME | Atualização |
+
+**Índice:** `question_id`
+
+---
+
+### 6. `user_question_answers`
+
+Respostas individuais do aluno.
+
+| Coluna | Tipo | Descrição |
+|--------|------|-----------|
+| `id` | CHAR(36) | PK |
+| `user_id` | CHAR(36) | FK → users |
+| `lesson_id` | CHAR(36) | FK → lessons |
+| `question_id` | CHAR(36) | FK → questions |
+| `selected_option_id` | CHAR(36) | FK → question_options (para múltipla escolha) |
+| `text_answer` | VARCHAR(1000) | Resposta escrita (tradução) |
+| `audio_url` | VARCHAR(500) | Áudio gravado (pronúncia) |
+| `is_correct` | BOOLEAN | Se acertou |
+| `time_spent_seconds` | INT | Tempo gasto na questão |
+| `answered_at` | DATETIME | Quando respondeu |
+| `created_at` | DATETIME | Criação |
+
+**Uso por tipo de questão:**
+| Tipo | Campo usado |
+|------|-------------|
+| multiple_choice, image_choice, listening_choice | `selected_option_id` |
+| translation_pt, translation_en, complete_sentence | `text_answer` |
+| pronunciation | `audio_url` |
+| match_pairs | `is_correct` (validado no backend) |
+
+**Índices:** `user_id`, `lesson_id`, `question_id`
+
+---
+
+### 7. `user_progress`
+
+Progresso geral do aluno por lição.
+
+| Coluna | Tipo | Descrição |
+|--------|------|-----------|
+| `id` | CHAR(36) | PK |
+| `user_id` | CHAR(36) | FK → users |
+| `unit_id` | CHAR(36) | FK → units (opcional) |
+| `block_id` | CHAR(36) | Bloco (opcional) |
+| `lesson_id` | CHAR(36) | FK → lessons |
+| `status` | VARCHAR(50) | locked, available, in_progress, completed |
+| `score` | INT | Pontuação (0-100) |
+| `correct_answers` | INT | Quantidade de acertos |
+| `total_questions` | INT | Total de questões |
+| `xp_earned` | INT | XP ganho |
+| `completed_at` | DATETIME | Quando completou |
+| `created_at` | DATETIME | Criação |
+| `updated_at` | DATETIME | Atualização |
+
+**Responsabilidade:** Apenas progresso geral. Respostas individuais ficam em `user_question_answers`.
+
+---
+
+## Relacionamentos (Foreign Keys)
+
+```
+lessons ──────────→ lesson_videos
+lesson_videos ────→ video_learning_items
+lesson_videos ────→ questions
+video_learning_items → questions
+questions ────────→ question_options
+questions ────────→ question_pairs
+users ────────────→ user_question_answers
+lessons ──────────→ user_question_answers
+questions ────────→ user_question_answers
+question_options ─→ user_question_answers
 ```
 
 ---
 
-## Exemplo Completo — Inserir uma Lição com 10 Questões
+## Exemplos de Inserção por Tipo
+
+### multiple_choice
 
 ```sql
--- Supondo que a lição já existe com ID = 'abc123...'
-SET @lesson_id = 'abc123-guid-da-licao';
+-- Questão
+INSERT INTO questions (id, lesson_id, type, label, question_text, correct_answer, audio_text, order_index, difficulty, created_at, updated_at)
+VALUES (UUID(), @lesson_id, 'multiple_choice', 'PALAVRA NOVA', 'Qual é a tradução de "coffee"?', 'café', 'coffee', 1, 'easy', NOW(), NOW());
 
-INSERT INTO questions (id, lesson_id, type, prompt, correct_answers, options, media_url, order_index, created_at, updated_at) VALUES
-(UUID(), @lesson_id, 'imageWordChoice', 'Qual destas imagens é ''hello''?', '["_"]', '{"targetWord":"hello","correctOptionId":1,"options":[{"id":1,"label":"hello","emoji":"👋"},{"id":2,"label":"goodbye","emoji":"🙋"},{"id":3,"label":"thanks","emoji":"🙏"}]}', 'PALAVRA NOVA', 1, NOW(), NOW()),
-(UUID(), @lesson_id, 'multipleChoice', 'Qual é a tradução de ''hello''?', '["_"]', '{"audioText":"hello","choices":["olá","tchau","obrigado"],"correctAnswer":"olá"}', 'PALAVRA NOVA', 2, NOW(), NOW()),
-(UUID(), @lesson_id, 'listeningWordSelection', 'Toque no que escutar', '["_"]', '{"audioWord":"hello","options":["goodbye","hello","thanks","please"],"correctAnswer":"hello"}', 'ESCUTA', 3, NOW(), NOW()),
-(UUID(), @lesson_id, 'translate', 'Escreva em português:', '["_"]', '{"audioText":"good morning","wordOptions":["bom dia","boa noite","boa tarde","olá"],"correctAnswer":"bom dia"}', 'TRADUÇÃO', 4, NOW(), NOW()),
-(UUID(), @lesson_id, 'fillBlank', 'Complete a frase:', '["_"]', '{"sentence":"____, how are you?","choices":["Hello","Goodbye","Thanks"],"correctAnswer":"Hello"}', 'COMPLETE A FRASE', 5, NOW(), NOW()),
-(UUID(), @lesson_id, 'multipleChoice', 'Qual é a tradução de ''goodbye''?', '["_"]', '{"audioText":"goodbye","choices":["olá","tchau","por favor"],"correctAnswer":"tchau"}', 'PALAVRA NOVA', 6, NOW(), NOW()),
-(UUID(), @lesson_id, 'matchPairs', 'Combine os pares:', '["_"]', '{"leftWords":["olá","tchau","obrigado"],"rightWords":["thanks","hello","goodbye"],"correctPairs":{"olá":"hello","tchau":"goodbye","obrigado":"thanks"}}', 'VOCABULÁRIO', 7, NOW(), NOW()),
-(UUID(), @lesson_id, 'translate', 'Escreva em inglês:', '["_"]', '{"audioText":"tchau","wordOptions":["hello","goodbye","thanks","please"],"correctAnswer":"goodbye"}', 'TRADUÇÃO', 8, NOW(), NOW()),
-(UUID(), @lesson_id, 'listeningWordSelection', 'Toque no que escutar', '["_"]', '{"audioWord":"good morning","options":["good night","good morning","good afternoon","goodbye"],"correctAnswer":"good morning"}', 'ESCUTA', 9, NOW(), NOW()),
-(UUID(), @lesson_id, 'multipleChoice', 'Qual é a tradução de ''thank you''?', '["_"]', '{"audioText":"thank you","choices":["obrigado","por favor","desculpa"],"correctAnswer":"obrigado"}', 'REVISÃO', 10, NOW(), NOW());
+-- Alternativas
+INSERT INTO question_options (id, question_id, option_text, is_correct, order_index, created_at, updated_at) VALUES
+(UUID(), @question_id, 'café', true, 1, NOW(), NOW()),
+(UUID(), @question_id, 'chá', false, 2, NOW(), NOW()),
+(UUID(), @question_id, 'água', false, 3, NOW(), NOW());
+```
+
+### image_choice
+
+```sql
+-- Questão
+INSERT INTO questions (id, lesson_id, type, label, question_text, correct_answer, order_index, difficulty, created_at, updated_at)
+VALUES (UUID(), @lesson_id, 'image_choice', 'PALAVRA NOVA', 'Qual destas imagens é "tea"?', 'tea', 2, 'easy', NOW(), NOW());
+
+-- Alternativas com imagem/emoji
+INSERT INTO question_options (id, question_id, option_text, option_image_url, is_correct, order_index, created_at, updated_at) VALUES
+(UUID(), @question_id, 'coffee', '☕', false, 1, NOW(), NOW()),
+(UUID(), @question_id, 'tea', '🍵', true, 2, NOW(), NOW()),
+(UUID(), @question_id, 'milk', '🥛', false, 3, NOW(), NOW());
+```
+
+### translation_pt (traduzir para português)
+
+```sql
+INSERT INTO questions (id, lesson_id, type, label, question_text, correct_answer, audio_text, order_index, difficulty, created_at, updated_at)
+VALUES (UUID(), @lesson_id, 'translation_pt', 'TRADUÇÃO', 'Escreva em português:', 'obrigado', 'thank you', 3, 'easy', NOW(), NOW());
+```
+
+### complete_sentence
+
+```sql
+INSERT INTO questions (id, lesson_id, type, label, question_text, correct_answer, order_index, difficulty, created_at, updated_at)
+VALUES (UUID(), @lesson_id, 'complete_sentence', 'COMPLETE A FRASE', 'I ____ coffee every morning.', 'drink', 4, 'medium', NOW(), NOW());
+
+-- Alternativas
+INSERT INTO question_options (id, question_id, option_text, is_correct, order_index, created_at, updated_at) VALUES
+(UUID(), @question_id, 'drink', true, 1, NOW(), NOW()),
+(UUID(), @question_id, 'drinks', false, 2, NOW(), NOW()),
+(UUID(), @question_id, 'drinking', false, 3, NOW(), NOW());
+```
+
+### match_pairs
+
+```sql
+INSERT INTO questions (id, lesson_id, type, label, question_text, order_index, difficulty, created_at, updated_at)
+VALUES (UUID(), @lesson_id, 'match_pairs', 'VOCABULÁRIO', 'Combine os pares:', 5, 'easy', NOW(), NOW());
+
+-- Pares
+INSERT INTO question_pairs (id, question_id, left_text, right_text, order_index, created_at, updated_at) VALUES
+(UUID(), @question_id, 'chá', 'tea', 1, NOW(), NOW()),
+(UUID(), @question_id, 'olá', 'hello', 2, NOW(), NOW()),
+(UUID(), @question_id, 'água', 'water', 3, NOW(), NOW());
+```
+
+### listening_choice
+
+```sql
+INSERT INTO questions (id, lesson_id, type, label, question_text, correct_answer, audio_text, order_index, difficulty, created_at, updated_at)
+VALUES (UUID(), @lesson_id, 'listening_choice', 'ESCUTA', 'Toque no que escutar:', 'milk', 'milk', 6, 'easy', NOW(), NOW());
+
+-- Alternativas
+INSERT INTO question_options (id, question_id, option_text, is_correct, order_index, created_at, updated_at) VALUES
+(UUID(), @question_id, 'hello', false, 1, NOW(), NOW()),
+(UUID(), @question_id, 'milk', true, 2, NOW(), NOW()),
+(UUID(), @question_id, 'water', false, 3, NOW(), NOW()),
+(UUID(), @question_id, 'thanks', false, 4, NOW(), NOW());
+```
+
+### video_listening
+
+```sql
+INSERT INTO questions (id, lesson_id, video_id, type, label, question_text, correct_answer, audio_text, order_index, difficulty, created_at, updated_at)
+VALUES (UUID(), @lesson_id, @video_id, 'video_listening', 'ESCUTA', 'Assista ao vídeo e toque na estrutura que ouviu:', 'milk', 'Can I have some milk please', 7, 'medium', NOW(), NOW());
+
+-- Alternativas
+INSERT INTO question_options (id, question_id, option_text, is_correct, order_index, created_at, updated_at) VALUES
+(UUID(), @question_id, 'hello', false, 1, NOW(), NOW()),
+(UUID(), @question_id, 'milk', true, 2, NOW(), NOW()),
+(UUID(), @question_id, 'water', false, 3, NOW(), NOW()),
+(UUID(), @question_id, 'thanks', false, 4, NOW(), NOW());
 ```
 
 ---
 
 ## Regras de Negócio
 
-1. Cada lição deve ter **exatamente 10 questões**
+1. Cada lição deve ter **10 questões**
 2. Variar os tipos (não repetir o mesmo tipo mais de 3x por lição)
 3. O `order_index` vai de 1 a 10
-4. O campo `correct_answers` é legado — sempre usar `["_"]`
-5. Toda a lógica de resposta correta está dentro do JSON do campo `options`
-6. O `media_url` é usado como label visual — não é uma URL real
+4. A resposta correta fica em `correct_answer` (questão) e `is_correct = true` (opção)
+5. Alternativas são linhas individuais em `question_options`
+6. Pares são linhas individuais em `question_pairs`
+7. Respostas do aluno são linhas individuais em `user_question_answers`
+8. **Nunca usar JSON** para questões, alternativas ou respostas
 
 ---
 
-## Estrutura Geral do Banco
+## Estrutura Geral
 
 ```
-10 unidades (units)
-  └── 5 lições cada (lessons)
-       └── 10 questões cada (questions)
+units (10)
+  └── lessons (5 por unidade)
+       └── lesson_videos (1+ por lição)
+       │    └── video_learning_items (N por vídeo)
+       └── questions (10 por lição)
+            ├── question_options (3-4 por questão)
+            └── question_pairs (3-5 por questão match_pairs)
 
-Total: 10 × 5 × 10 = 500 questões
+Total estimado: 10 × 5 × 10 = 500 questões
 ```
+
+---
+
+## Resumo
+
+| O que mudou | Antes | Agora |
+|-------------|-------|-------|
+| Alternativas | JSON dentro de `options` | Tabela `question_options` (1 linha por alternativa) |
+| Resposta correta | JSON em `correct_answers` | Coluna `correct_answer` + `is_correct` na opção |
+| Pares (match) | JSON em `options` | Tabela `question_pairs` (1 linha por par) |
+| Respostas do aluno | JSON em `given_answers` | Tabela `user_question_answers` (1 linha por resposta) |
+| Tipo da questão | Enum C# | String no banco (`multiple_choice`, etc.) |
+| Label | Campo `media_url` | Campo `label` |
+| Vídeos | Não existia | Tabela `lesson_videos` com transcrição |
+| Conteúdo extraído | Não existia | Tabela `video_learning_items` |
+| Progresso | Básico | Inclui `correct_answers`, `total_questions`, `xp_earned` |
+
+**Benefícios:**
+- Consultas SQL simples para erros, estatísticas e relatórios
+- Revisão automática baseada em respostas individuais
+- Flashcards gerados a partir de erros reais
+- IA personalizada com dados granulares
+- Escalável para novos tipos de questão sem alterar schema

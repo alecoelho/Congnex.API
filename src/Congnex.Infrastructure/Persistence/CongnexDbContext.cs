@@ -11,10 +11,13 @@ public class CongnexDbContext(DbContextOptions<CongnexDbContext> options)
     public DbSet<Unit> Units => Set<Unit>();
     public DbSet<Lesson> Lessons => Set<Lesson>();
     public DbSet<Question> Questions => Set<Question>();
+    public DbSet<LessonVideo> LessonVideos => Set<LessonVideo>();
+    public DbSet<VideoLearningItem> VideoLearningItems => Set<VideoLearningItem>();
+    public DbSet<QuestionOption> QuestionOptions => Set<QuestionOption>();
+    public DbSet<QuestionPair> QuestionPairs => Set<QuestionPair>();
     public DbSet<UserProgress> UserProgress => Set<UserProgress>();
-    public DbSet<UserAnswer> UserAnswers => Set<UserAnswer>();
+    public DbSet<UserQuestionAnswer> UserQuestionAnswers => Set<UserQuestionAnswer>();
     public DbSet<ReviewItem> ReviewItems => Set<ReviewItem>();
-    public DbSet<AiQuestion> AiQuestions => Set<AiQuestion>();
     public DbSet<StudyPlan> StudyPlans => Set<StudyPlan>();
     public DbSet<Subscription> Subscriptions => Set<Subscription>();
     public DbSet<NotificationPreference> NotificationPreferences => Set<NotificationPreference>();
