@@ -27,7 +27,8 @@ public class User : Entity
     public UserPlan Plan { get; set; } = UserPlan.Free;
     public int DailyMinutes { get; set; } = 10;
     public string Language { get; set; } = "en";
-    public string? Motivations { get; set; }    // JSON array
+    public string? Motivations { get; set; }    // trabalho, viagem, estudos
+    public string? Interest { get; set; }       // profissão ou área específica
 
     // Refresh token (hashed)
     public string? RefreshTokenHash { get; set; }

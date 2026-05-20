@@ -22,6 +22,8 @@ public interface ICongnexDbContext
     DbSet<DeviceToken> DeviceTokens { get; }
     DbSet<FlashcardReview> FlashcardReviews { get; }
     DbSet<UserInterviewAnswer> UserInterviewAnswers { get; }
+    DbSet<XylaConversation> XylaConversations { get; }
+    DbSet<XylaMessage> XylaMessages { get; }
 
     Task<int> SaveChangesAsync(CancellationToken cancellationToken = default);
 }

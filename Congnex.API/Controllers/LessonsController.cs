@@ -36,6 +36,15 @@ public class LessonsController(IMediator mediator) : ControllerBase
         catch (KeyNotFoundException ex) { return NotFound(ApiResponse.Fail(ex.Message)); }
     }
 
+    // ── GET /api/lessons/{lessonId}/video ───────────────────────────────────
+    [HttpGet("{lessonId:guid}/video")]
+    public async Task<IActionResult> GetLessonVideo(Guid lessonId, CancellationToken ct)
+    {
+        var video = await mediator.Send(new GetLessonVideoQuery(lessonId), ct);
+        if (video is null) return NotFound(ApiResponse.Fail("No video found for this lesson."));
+        return Ok(ApiResponse<object>.Ok(video));
+    }
+
     // ── POST /api/lessons/{lessonId}/complete ───────────────────────────────
     [HttpPost("{lessonId:guid}/complete")]
     public async Task<IActionResult> CompleteLesson(

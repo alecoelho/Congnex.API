@@ -25,4 +25,10 @@
     <ProjectReference Include="..\src\Congnex.Infrastructure\Congnex.Infrastructure.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="prompts\**\*">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
