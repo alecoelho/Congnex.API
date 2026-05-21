@@ -9,6 +9,7 @@ public class LessonVideo : Entity
     public string YoutubeUrl { get; set; } = string.Empty;
     public string Title { get; set; } = string.Empty;
     public string? TranscriptJson { get; set; }
+    public string? TargetStructures { get; set; } // JSON array of target phrases
     public string Language { get; set; } = "en";
     public int DurationSeconds { get; set; }
 

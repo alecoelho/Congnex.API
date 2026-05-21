@@ -17,6 +17,7 @@ public class LessonVideoConfiguration : IEntityTypeConfiguration<LessonVideo>
         b.Property(v => v.YoutubeUrl).HasColumnName("youtube_url").HasMaxLength(500).IsRequired();
         b.Property(v => v.Title).HasColumnName("title").HasMaxLength(500).IsRequired();
         b.Property(v => v.TranscriptJson).HasColumnName("transcript_json").HasColumnType("json");
+        b.Property(v => v.TargetStructures).HasColumnName("target_structures").HasColumnType("json");
         b.Property(v => v.Language).HasColumnName("language").HasMaxLength(10).HasDefaultValue("en");
         b.Property(v => v.DurationSeconds).HasColumnName("duration_seconds").HasDefaultValue(0);
         b.Property(v => v.CreatedAt).HasColumnName("created_at");

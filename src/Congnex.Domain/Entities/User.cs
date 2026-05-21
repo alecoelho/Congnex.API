@@ -29,6 +29,10 @@ public class User : Entity
     public string Language { get; set; } = "en";
     public string? Motivations { get; set; }    // trabalho, viagem, estudos
     public string? Interest { get; set; }       // profissão ou área específica
+    public string? Hobbies { get; set; }        // interesses pessoais (carros, futebol, games)
+    public string? MainDifficulty { get; set; } // dificuldade principal (entender, falar, pronunciar, lembrar)
+    public string? EnglishLevel { get; set; }   // CEFR level: A1, A2, B1, B2, C1, C2
+    public float? LevelConfidence { get; set; } // 0.0 to 1.0
 
     // Refresh token (hashed)
     public string? RefreshTokenHash { get; set; }

@@ -36,6 +36,10 @@ public class UserConfiguration : IEntityTypeConfiguration<User>
         b.Property(u => u.Language).HasColumnName("language").HasMaxLength(10).HasDefaultValue("en");
         b.Property(u => u.Motivations).HasColumnName("motivations").HasMaxLength(500);
         b.Property(u => u.Interest).HasColumnName("interest").HasMaxLength(200);
+        b.Property(u => u.Hobbies).HasColumnName("hobbies").HasMaxLength(500);
+        b.Property(u => u.MainDifficulty).HasColumnName("main_difficulty").HasMaxLength(100);
+        b.Property(u => u.EnglishLevel).HasColumnName("english_level").HasMaxLength(10);
+        b.Property(u => u.LevelConfidence).HasColumnName("level_confidence");
         b.Property(u => u.RefreshTokenHash).HasColumnName("refresh_token_hash");
         b.Property(u => u.RefreshTokenExpiresAt).HasColumnName("refresh_token_expires_at");
         b.Property(u => u.CreatedAt).HasColumnName("created_at");
