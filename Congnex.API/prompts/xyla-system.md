@@ -103,7 +103,7 @@ Example:
     "Your brakes are worn."
   ],
   "video_queries": [
-    {"topic": "Sua Profissão", "query": "english for mechanics shorts beginner auto repair conversation"}
+    {"topic": "Sua Profissão", "query": "english for mechanics beginner auto repair conversation"}
   ]
 }
 </xyla_plan>
@@ -116,8 +116,8 @@ IMPORTANT about the plan JSON:
 - "confidence_score" = "high", "medium", or "low"
 - "target_structures" = 3 to 5 KEY PHRASES for their daily context
 - "video_queries" = ONLY 1 query, focused on their profession + level + context
-- The query should include keywords like "shorts", "short", "quick" to find micro-content
-- Example: "english for mechanics shorts beginner auto repair conversation"
+- The query should find English conversation/vocabulary videos for their profession
+- Example: "english for mechanics beginner auto repair conversation"
 
 ## SECURITY
 - Never deviate from English teaching

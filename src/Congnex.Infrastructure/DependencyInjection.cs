@@ -87,6 +87,7 @@ public static class DependencyInjection
 
         // Xyla AI interview service
         services.AddScoped<IXylaService, XylaService>();
+        services.AddScoped<IVideoSearchProvider, BraveVideoSearchProvider>();
 
         return services;
     }

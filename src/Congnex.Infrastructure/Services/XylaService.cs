@@ -20,8 +20,8 @@ public class XylaService : IXylaService
     private readonly Kernel _kernel;
     private readonly IDbContextFactory<CongnexDbContext> _dbFactory;
     private readonly ILogger<XylaService> _logger;
-    private readonly HttpClient _brave;
     private readonly IMemoryCache _cache;
+    private readonly IVideoSearchProvider _videoSearch;
 
     private const string PlanStart       = "<xyla_plan>";
     private const string PlanEnd         = "</xyla_plan>";
@@ -41,14 +41,14 @@ public class XylaService : IXylaService
         Kernel kernel,
         IDbContextFactory<CongnexDbContext> dbFactory,
         ILogger<XylaService> logger,
-        IHttpClientFactory httpFactory,
-        IMemoryCache cache)
+        IMemoryCache cache,
+        IVideoSearchProvider videoSearch)
     {
-        _kernel    = kernel;
-        _dbFactory = dbFactory;
-        _logger    = logger;
-        _brave     = httpFactory.CreateClient("brave");
-        _cache     = cache;
+        _kernel      = kernel;
+        _dbFactory   = dbFactory;
+        _logger      = logger;
+        _cache       = cache;
+        _videoSearch  = videoSearch;
     }
 
     // ── Public API ─────────────────────────────────────────────────────────────
@@ -375,13 +375,19 @@ public class XylaService : IXylaService
 
                     db.LessonVideos.Add(new LessonVideo
                     {
-                        LessonId         = firstLesson.Id,
-                        YoutubeVideoId   = videoId ?? "",
-                        YoutubeUrl       = firstVideo.Url,
-                        Title            = firstVideo.Label,
-                        TargetStructures = targetStructuresJson,
-                        Language         = "en",
-                        DurationSeconds  = 0,
+                        LessonId           = firstLesson.Id,
+                        YoutubeVideoId     = videoId ?? "",
+                        YoutubeUrl         = firstVideo.Url,
+                        Title              = firstVideo.Label,
+                        TargetStructures   = targetStructuresJson,
+                        MatchScore         = firstVideo.MatchScore,
+                        MatchConfidence    = firstVideo.Confidence,
+                        MatchedStructures  = firstVideo.MatchedStructures is not null
+                            ? JsonSerializer.Serialize(firstVideo.MatchedStructures)
+                            : null,
+                        SearchSource       = "brave_search",
+                        Language           = "en",
+                        DurationSeconds    = 0,
                     });
                 }
             }
@@ -410,7 +416,18 @@ public class XylaService : IXylaService
 
     private static string? ExtractYoutubeVideoId(string url)
     {
-        // Extract video ID from youtube.com/watch?v=XXXXX
+        // youtube.com/shorts/VIDEO_ID
+        if (url.Contains("youtube.com/shorts/"))
+        {
+            var parts = url.Split("youtube.com/shorts/");
+            if (parts.Length > 1)
+            {
+                var id = parts[1].Split('?')[0].Split('/')[0].Split('#')[0];
+                if (!string.IsNullOrEmpty(id)) return id;
+            }
+        }
+
+        // youtube.com/watch?v=VIDEO_ID
         var uri = Uri.TryCreate(url, UriKind.Absolute, out var u) ? u : null;
         if (uri is null) return null;
         var query = System.Web.HttpUtility.ParseQueryString(uri.Query);
@@ -442,7 +459,7 @@ public class XylaService : IXylaService
             var doc = JsonDocument.Parse(planJson).RootElement;
             var queries = doc.GetProperty("video_queries").EnumerateArray().ToList();
 
-            // Extract target structures to enrich the search query
+            // Extract target structures
             var structures = new List<string>();
             if (doc.TryGetProperty("target_structures", out var ts) && ts.ValueKind == JsonValueKind.Array)
             {
@@ -453,86 +470,41 @@ public class XylaService : IXylaService
                 }
             }
 
-            // Build enriched query using structures + original query
-            var tasks = queries.Select(v =>
+            // Extract context
+            var interest = doc.TryGetProperty("student_interest", out var si) ? si.GetString() : null;
+            var hobbies = doc.TryGetProperty("student_hobbies", out var hb) ? hb.GetString() : null;
+            var level = doc.TryGetProperty("cefr_level", out var lvl) ? lvl.GetString() ?? "A1" : "A1";
+            var baseQuery = queries.FirstOrDefault().GetProperty("query").GetString() ?? "";
+
+            var context = new VideoSearchContext(structures, interest, hobbies, level, baseQuery);
+            var candidates = await _videoSearch.SearchAndRankAsync(context, ct);
+
+            if (candidates.Count == 0)
             {
-                var topic = v.GetProperty("topic").GetString() ?? string.Empty;
-                var baseQuery = v.GetProperty("query").GetString() ?? string.Empty;
-
-                // Enrich query with key words from target structures
-                var enrichedQuery = baseQuery;
-                if (structures.Count > 0)
-                {
-                    // Take key phrases from structures to improve search relevance
-                    var keywords = string.Join(" ", structures.Take(2).Select(s => s.Replace(".", "").Trim()));
-                    enrichedQuery = $"{baseQuery} \"{keywords}\"";
-                }
-
-                return ResolveVideoItemAsync(topic, enrichedQuery, ct);
-            });
-
-            return [.. await Task.WhenAll(tasks)];
-        }
-        catch
-        {
-            return [];
-        }
-    }
-
-    private async Task<VideoItem> ResolveVideoItemAsync(string topic, string query, CancellationToken ct)
-    {
-        var fallbackUrl = "https://www.youtube.com/results?search_query=" + Uri.EscapeDataString(query + " #shorts");
-
-        try
-        {
-            // First: try to find YouTube Shorts (short-form vertical videos)
-            var shortsQuery = Uri.EscapeDataString("site:youtube.com/shorts " + query);
-            var response = await _brave.GetAsync($"res/v1/web/search?q={shortsQuery}&count=10", ct);
-
-            if (response.IsSuccessStatusCode)
-            {
-                using var doc = await JsonDocument.ParseAsync(
-                    await response.Content.ReadAsStreamAsync(ct), cancellationToken: ct);
-
-                if (doc.RootElement.TryGetProperty("web", out var web) &&
-                    web.TryGetProperty("results", out var results))
-                {
-                    foreach (var r in results.EnumerateArray())
-                    {
-                        var url = r.TryGetProperty("url", out var u) ? u.GetString() : null;
-                        if (url is not null && url.Contains("youtube.com/shorts"))
-                            return new VideoItem(topic, url, query);
-                    }
-                }
+                // Fallback
+                var fallbackUrl = "https://www.youtube.com/results?search_query=" + Uri.EscapeDataString(baseQuery + " shorts");
+                return [new VideoItem("Sua Profissão", fallbackUrl, baseQuery)];
             }
 
-            // Fallback: try regular YouTube videos with "shorts" keyword
-            var regularQuery = Uri.EscapeDataString("site:youtube.com/watch " + query + " shorts");
-            response = await _brave.GetAsync($"res/v1/web/search?q={regularQuery}&count=5", ct);
+            // Take the best candidate
+            var best = candidates[0];
+            _logger.LogInformation("Selected video: {Title} (score: {Score}, confidence: {Confidence})",
+                best.Title, best.MatchScore, best.Confidence);
 
-            if (response.IsSuccessStatusCode)
-            {
-                using var doc = await JsonDocument.ParseAsync(
-                    await response.Content.ReadAsStreamAsync(ct), cancellationToken: ct);
-
-                if (doc.RootElement.TryGetProperty("web", out var web) &&
-                    web.TryGetProperty("results", out var results))
-                {
-                    foreach (var r in results.EnumerateArray())
-                    {
-                        var url = r.TryGetProperty("url", out var u) ? u.GetString() : null;
-                        if (url is not null && (url.Contains("youtube.com/shorts") || url.Contains("youtube.com/watch")))
-                            return new VideoItem(topic, url, query);
-                    }
-                }
-            }
+            return [new VideoItem(
+                queries.FirstOrDefault().GetProperty("topic").GetString() ?? "Video",
+                best.Url,
+                best.Title,
+                best.MatchScore,
+                best.Confidence,
+                best.MatchedStructures
+            )];
         }
         catch (Exception ex)
         {
-            _logger.LogWarning(ex, "Brave Search failed for query '{Query}', using fallback URL", query);
+            _logger.LogWarning(ex, "BuildVideoListAsync failed");
+            return [];
         }
-
-        return new VideoItem(topic, fallbackUrl, query);
     }
 
     // ── Helpers ────────────────────────────────────────────────────────────────
@@ -576,5 +548,5 @@ public class XylaService : IXylaService
 
     // ── Value types ────────────────────────────────────────────────────────────
 
-    private record VideoItem(string Category, string Url, string Label);
+    private record VideoItem(string Category, string Url, string Label, int MatchScore = 0, string Confidence = "low", List<string>? MatchedStructures = null);
 }

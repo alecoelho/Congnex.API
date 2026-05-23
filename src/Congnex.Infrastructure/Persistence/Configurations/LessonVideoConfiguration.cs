@@ -18,6 +18,10 @@ public class LessonVideoConfiguration : IEntityTypeConfiguration<LessonVideo>
         b.Property(v => v.Title).HasColumnName("title").HasMaxLength(500).IsRequired();
         b.Property(v => v.TranscriptJson).HasColumnName("transcript_json").HasColumnType("json");
         b.Property(v => v.TargetStructures).HasColumnName("target_structures").HasColumnType("json");
+        b.Property(v => v.MatchScore).HasColumnName("match_score");
+        b.Property(v => v.MatchConfidence).HasColumnName("match_confidence").HasMaxLength(20);
+        b.Property(v => v.MatchedStructures).HasColumnName("matched_structures").HasColumnType("json");
+        b.Property(v => v.SearchSource).HasColumnName("search_source").HasMaxLength(50);
         b.Property(v => v.Language).HasColumnName("language").HasMaxLength(10).HasDefaultValue("en");
         b.Property(v => v.DurationSeconds).HasColumnName("duration_seconds").HasDefaultValue(0);
         b.Property(v => v.CreatedAt).HasColumnName("created_at");
