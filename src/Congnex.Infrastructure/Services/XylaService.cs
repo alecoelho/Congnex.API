@@ -89,15 +89,25 @@ public class XylaService : IXylaService
                     ? (int)((DateTime.UtcNow - user.DateOfBirth.Value).TotalDays / 365.25)
                     : (int?)null;
 
+                // Format motivations from comma-separated to readable list with priority
+                var motivationsFormatted = "not specified";
+                if (!string.IsNullOrEmpty(user.Motivations))
+                {
+                    var motList = user.Motivations.Split(',', StringSplitOptions.TrimEntries);
+                    motivationsFormatted = string.Join(", ", motList.Select((m, i) => $"{i + 1}. {m}"));
+                }
+
                 var studentContext = $"""
 
                     ## STUDENT DATA (use naturally in conversation)
                     - Name: {user.FirstName}
                     - Age: {(age.HasValue ? $"{age} years old" : "not provided")}
-                    - Motivations: {user.Motivations ?? "not specified"}
+                    - Motivations (in priority order): {motivationsFormatted}
                     - Daily study time: {user.DailyMinutes} minutes
 
                     Use this information to personalize the conversation. Call the student by name.
+                    The motivations are ordered by priority — the first one is the most important to the student.
+                    Use the primary motivation to guide video selection and target_structures.
                     {(age.HasValue ? "You already know their age, do NOT ask for it again." : "Ask their age during the conversation.")}
                     Reference their motivations and available time naturally.
                     """;
@@ -639,11 +649,11 @@ public class XylaService : IXylaService
         You MUST ask exactly 6 questions in order before calling complete_plan.
         Do NOT call complete_plan before completing all 6 questions.
 
-        ### Pergunta 1 — Boas-vindas + Objetivo
+        ### Pergunta 1 — Boas-vindas + Profissão/Contexto
         - Greet the student warmly in Portuguese using their name (from STUDENT DATA below)
-        - Say you'll help personalize their learning journey
-        - Ask: "Qual é o seu principal objetivo ao aprender inglês?"
-        - Give 4 options: trabalho / viagem / estudos / se conectar com pessoas
+        - You ALREADY KNOW their motivations from STUDENT DATA — do NOT ask again
+        - Acknowledge their motivation naturally: "Sei que você quer aprender inglês para [motivação principal]!"
+        - Ask about their profession/context: "Com o que você trabalha ou estuda?"
 
         ### Pergunta 2 — Diagnóstico inicial
         - Respond naturally to their goal in Portuguese
