@@ -58,6 +58,15 @@ public static class DependencyInjection
             client.Timeout = TimeSpan.FromSeconds(10);
         });
 
+        // YouTube HTTP client (used by YouTubeTranscriptService for transcript scraping)
+        services.AddHttpClient("youtube", client =>
+        {
+            client.DefaultRequestHeaders.UserAgent.ParseAdd(
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 " +
+                "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36");
+            client.Timeout = TimeSpan.FromSeconds(15);
+        });
+
         // Semantic Kernel — singleton Kernel with the "xyla" chat completion service
         services.AddSingleton(sp =>
         {
@@ -87,6 +96,7 @@ public static class DependencyInjection
 
         // Xyla AI interview service
         services.AddScoped<IXylaService, XylaService>();
+        services.AddScoped<IYouTubeTranscriptService, YouTubeTranscriptService>();
 
         return services;
     }

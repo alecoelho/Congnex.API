@@ -22,8 +22,8 @@ public class NotificationPreferenceConfiguration : IEntityTypeConfiguration<Noti
         b.Property(p => p.UpdatedAt).HasColumnName("updated_at");
 
         b.HasOne(p => p.User)
-         .WithMany()
-         .HasForeignKey(p => p.UserId)
+         .WithOne(u => u.NotificationPreference)
+         .HasForeignKey<NotificationPreference>(p => p.UserId)
          .OnDelete(DeleteBehavior.Cascade);
 
         // One preference row per user

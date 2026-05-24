@@ -19,7 +19,7 @@ public class SubscriptionConfiguration : IEntityTypeConfiguration<Subscription>
         b.HasIndex(s => s.StripeCustomerId);
         b.Property(s => s.StripePriceId).HasColumnName("stripe_price_id").HasMaxLength(100);
         b.Property(s => s.Status).HasColumnName("status")
-            .HasConversion<string>().HasDefaultValue(SubscriptionStatus.Active);
+            .HasConversion<string>();
         b.Property(s => s.CancelAtPeriodEnd).HasColumnName("cancel_at_period_end").HasDefaultValue(false);
         b.Property(s => s.CancelAt).HasColumnName("cancel_at");
         b.Property(s => s.CanceledAt).HasColumnName("canceled_at");

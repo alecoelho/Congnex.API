@@ -13,6 +13,7 @@ public class LessonConfiguration : IEntityTypeConfiguration<Lesson>
 
         b.Property(l => l.Id).HasColumnName("id");
         b.Property(l => l.UnitId).HasColumnName("unit_id").IsRequired();
+        b.Property(l => l.UserId).HasColumnName("user_id");
         b.Property(l => l.OrderIndex).HasColumnName("order_index").IsRequired();
         b.Property(l => l.Title).HasColumnName("title").HasMaxLength(200).IsRequired();
         b.Property(l => l.Description).HasColumnName("description").HasMaxLength(1000);
@@ -25,6 +26,12 @@ public class LessonConfiguration : IEntityTypeConfiguration<Lesson>
          .HasForeignKey(l => l.UnitId)
          .OnDelete(DeleteBehavior.Cascade);
 
-        b.HasIndex(l => new { l.UnitId, l.OrderIndex }).IsUnique();
+        b.HasOne(l => l.User)
+         .WithMany()
+         .HasForeignKey(l => l.UserId)
+         .OnDelete(DeleteBehavior.SetNull);
+
+        b.HasIndex(l => new { l.UnitId, l.OrderIndex });
+        b.HasIndex(l => l.UserId);
     }
 }

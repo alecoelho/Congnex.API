@@ -4,6 +4,7 @@ using Congnex.Infrastructure.Persistence;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Congnex.Infrastructure.Migrations
 {
     [DbContext(typeof(CongnexDbContext))]
-    partial class CongnexDbContextModelSnapshot : ModelSnapshot
+    [Migration("20260524012552_FixRelationshipsAndSubscriptionDefault")]
+    partial class FixRelationshipsAndSubscriptionDefault
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

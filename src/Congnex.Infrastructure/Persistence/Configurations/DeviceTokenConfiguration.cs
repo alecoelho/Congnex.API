@@ -21,7 +21,7 @@ public class DeviceTokenConfiguration : IEntityTypeConfiguration<DeviceToken>
         b.Property(t => t.UpdatedAt).HasColumnName("updated_at");
 
         b.HasOne(t => t.User)
-         .WithMany()
+         .WithMany(u => u.DeviceTokens)
          .HasForeignKey(t => t.UserId)
          .OnDelete(DeleteBehavior.Cascade);
 

@@ -3,9 +3,11 @@ using System.Text.Json;
 using Congnex.API.Controllers.Xyla;
 using Congnex.Application.Common;
 using Congnex.Application.Interfaces;
+using Congnex.Infrastructure.Persistence;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.RateLimiting;
+using Microsoft.EntityFrameworkCore;
 
 namespace Congnex.API.Controllers;
 
@@ -16,11 +18,13 @@ public class XylaController : ControllerBase
 {
     private readonly IXylaService _xyla;
     private readonly ILogger<XylaController> _logger;
+    private readonly IDbContextFactory<CongnexDbContext> _dbFactory;
 
-    public XylaController(IXylaService xyla, ILogger<XylaController> logger)
+    public XylaController(IXylaService xyla, ILogger<XylaController> logger, IDbContextFactory<CongnexDbContext> dbFactory)
     {
-        _xyla   = xyla;
-        _logger = logger;
+        _xyla      = xyla;
+        _logger    = logger;
+        _dbFactory = dbFactory;
     }
 
     /// <summary>
@@ -69,24 +73,10 @@ public class XylaController : ControllerBase
             await foreach (var token in _xyla.StreamMessageAsync(
                 request.SessionId, userId, request.Message, ct))
             {
-                if (token.StartsWith("[PLAN_READY:"))
+                if (token == "[INTERVIEW_COMPLETE]")
                 {
-                    try
-                    {
-                        var videosJson = token["[PLAN_READY:".Length..];
-                        using var videosDoc = JsonDocument.Parse(videosJson);
-                        var evt = JsonSerializer.Serialize(new
-                        {
-                            event_type = "plan_ready",
-                            sessionId  = request.SessionId,
-                            videos     = videosDoc.RootElement
-                        });
-                        await Response.WriteAsync($"data: {evt}\n\n", CancellationToken.None);
-                    }
-                    catch (Exception ex)
-                    {
-                        _logger.LogError(ex, "Failed to parse plan_ready token for user {UserId}", userId);
-                    }
+                    var evt = JsonSerializer.Serialize(new { event_type = "interview_complete" });
+                    await Response.WriteAsync($"data: {evt}\n\n", CancellationToken.None);
                 }
                 else
                 {
@@ -125,6 +115,34 @@ public class XylaController : ControllerBase
                 catch { /* response may be closed */ }
             }
         }
+    }
+
+    /// <summary>
+    /// Polls whether the user's personalized lessons have been generated.
+    /// Returns unit info and lesson count so the LoadingPlan screen can render real data.
+    /// </summary>
+    [HttpGet("ready")]
+    public async Task<ActionResult> Ready(CancellationToken ct)
+    {
+        var userId = ParseUserId();
+        if (userId == Guid.Empty) return Unauthorized();
+
+        await using var db = await _dbFactory.CreateDbContextAsync(ct);
+
+        var lessonCount = await db.Lessons
+            .CountAsync(l => l.UserId == userId, ct);
+
+        var unit = await db.Units
+            .Where(u => u.OrderIndex == 1 && u.LanguageCode == "en")
+            .Select(u => new { u.Title, u.Description })
+            .FirstOrDefaultAsync(ct);
+
+        return Ok(new
+        {
+            ready       = lessonCount >= 5,
+            lessonCount,
+            unit        = unit is null ? null : new { unit.Title, unit.Description }
+        });
     }
 
     private Guid ParseUserId()

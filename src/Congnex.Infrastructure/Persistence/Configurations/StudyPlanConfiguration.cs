@@ -20,8 +20,8 @@ public class StudyPlanConfiguration : IEntityTypeConfiguration<StudyPlan>
         b.Property(p => p.UpdatedAt).HasColumnName("updated_at");
 
         b.HasOne(p => p.User)
-         .WithMany()
-         .HasForeignKey(p => p.UserId)
+         .WithOne(u => u.StudyPlan)
+         .HasForeignKey<StudyPlan>(p => p.UserId)
          .OnDelete(DeleteBehavior.Cascade);
 
         b.HasIndex(p => new { p.UserId, p.GeneratedAt });

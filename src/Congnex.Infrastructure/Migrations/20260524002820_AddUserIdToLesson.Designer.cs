@@ -4,6 +4,7 @@ using Congnex.Infrastructure.Persistence;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Congnex.Infrastructure.Migrations
 {
     [DbContext(typeof(CongnexDbContext))]
-    partial class CongnexDbContextModelSnapshot : ModelSnapshot
+    [Migration("20260524002820_AddUserIdToLesson")]
+    partial class AddUserIdToLesson
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -58,12 +61,17 @@ namespace Congnex.Infrastructure.Migrations
                         .HasColumnType("char(36)")
                         .HasColumnName("user_id");
 
+                    b.Property<Guid?>("UserId1")
+                        .HasColumnType("char(36)");
+
                     b.HasKey("Id");
 
                     b.HasIndex("Token")
                         .IsUnique();
 
                     b.HasIndex("UserId");
+
+                    b.HasIndex("UserId1");
 
                     b.ToTable("device_tokens", (string)null);
                 });
@@ -302,9 +310,15 @@ namespace Congnex.Infrastructure.Migrations
                         .HasColumnType("char(36)")
                         .HasColumnName("user_id");
 
+                    b.Property<Guid?>("UserId1")
+                        .HasColumnType("char(36)");
+
                     b.HasKey("Id");
 
                     b.HasIndex("UserId")
+                        .IsUnique();
+
+                    b.HasIndex("UserId1")
                         .IsUnique();
 
                     b.ToTable("notification_preferences", (string)null);
@@ -625,9 +639,12 @@ namespace Congnex.Infrastructure.Migrations
                         .HasColumnType("char(36)")
                         .HasColumnName("user_id");
 
+                    b.Property<Guid?>("UserId1")
+                        .HasColumnType("char(36)");
+
                     b.HasKey("Id");
 
-                    b.HasIndex("UserId")
+                    b.HasIndex("UserId1")
                         .IsUnique();
 
                     b.HasIndex("UserId", "GeneratedAt");
@@ -670,7 +687,9 @@ namespace Congnex.Infrastructure.Migrations
 
                     b.Property<string>("Status")
                         .IsRequired()
+                        .ValueGeneratedOnAdd()
                         .HasColumnType("longtext")
+                        .HasDefaultValue("Active")
                         .HasColumnName("status");
 
                     b.Property<string>("StripeCustomerId")
@@ -1148,10 +1167,14 @@ namespace Congnex.Infrastructure.Migrations
             modelBuilder.Entity("Congnex.Domain.Entities.DeviceToken", b =>
                 {
                     b.HasOne("Congnex.Domain.Entities.User", "User")
-                        .WithMany("DeviceTokens")
+                        .WithMany()
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+
+                    b.HasOne("Congnex.Domain.Entities.User", null)
+                        .WithMany("DeviceTokens")
+                        .HasForeignKey("UserId1");
 
                     b.Navigation("User");
                 });
@@ -1207,10 +1230,14 @@ namespace Congnex.Infrastructure.Migrations
             modelBuilder.Entity("Congnex.Domain.Entities.NotificationPreference", b =>
                 {
                     b.HasOne("Congnex.Domain.Entities.User", "User")
-                        .WithOne("NotificationPreference")
-                        .HasForeignKey("Congnex.Domain.Entities.NotificationPreference", "UserId")
+                        .WithMany()
+                        .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+
+                    b.HasOne("Congnex.Domain.Entities.User", null)
+                        .WithOne("NotificationPreference")
+                        .HasForeignKey("Congnex.Domain.Entities.NotificationPreference", "UserId1");
 
                     b.Navigation("User");
                 });
@@ -1283,10 +1310,14 @@ namespace Congnex.Infrastructure.Migrations
             modelBuilder.Entity("Congnex.Domain.Entities.StudyPlan", b =>
                 {
                     b.HasOne("Congnex.Domain.Entities.User", "User")
-                        .WithOne("StudyPlan")
-                        .HasForeignKey("Congnex.Domain.Entities.StudyPlan", "UserId")
+                        .WithMany()
+                        .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+
+                    b.HasOne("Congnex.Domain.Entities.User", null)
+                        .WithOne("StudyPlan")
+                        .HasForeignKey("Congnex.Domain.Entities.StudyPlan", "UserId1");
 
                     b.Navigation("User");
                 });
