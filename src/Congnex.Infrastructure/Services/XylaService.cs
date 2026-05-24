@@ -234,6 +234,40 @@ public class XylaService : IXylaService
             yield return token;
     }
 
+    // ── Answer explanation ─────────────────────────────────────────────────────
+
+    public async Task<string> GenerateAnswerExplanationAsync(
+        string questionText,
+        string correctAnswer,
+        string? wrongAnswer,
+        CancellationToken ct = default)
+    {
+        var prompt = $"""
+            You are a friendly English tutor. A student answered an English question incorrectly.
+            Question: {questionText}
+            Correct answer: {correctAnswer}
+            Student's answer: {wrongAnswer ?? "(no answer given)"}
+
+            In 2-3 short sentences in Portuguese (pt-BR), explain why "{correctAnswer}" is the correct answer.
+            Be encouraging and clear. Do NOT use markdown formatting.
+            """;
+
+        try
+        {
+#pragma warning disable SKEXP0001
+            var result = await _kernel.InvokePromptAsync(prompt, new KernelArguments(
+                new AzureOpenAIPromptExecutionSettings { ServiceId = "xyla", MaxTokens = 150, Temperature = 0.5 }
+            ), cancellationToken: ct);
+#pragma warning restore SKEXP0001
+            return result.ToString().Trim();
+        }
+        catch (Exception ex)
+        {
+            _logger.LogWarning(ex, "Failed to generate answer explanation");
+            return $"A resposta correta é \"{correctAnswer}\".";
+        }
+    }
+
     // ── Question generation ────────────────────────────────────────────────────
 
     private async Task<LessonPlanDto?> GenerateQuestionsAsync(
@@ -437,13 +471,16 @@ public class XylaService : IXylaService
     private static readonly JsonSerializerOptions CamelCaseOptions =
         new() { PropertyNamingPolicy = JsonNamingPolicy.CamelCase };
 
+    private const int MaxVideoDurationSeconds = 330; // 5 minutes 30 seconds
+
     private async Task<VideoItem> ResolveVideoItemAsync(string topic, string query, CancellationToken ct)
     {
         var fallbackUrl = "https://www.youtube.com/results?search_query=" + Uri.EscapeDataString(query);
         try
         {
-            var encoded  = Uri.EscapeDataString("site:youtube.com/watch " + query);
-            var response = await _brave.GetAsync($"res/v1/web/search?q={encoded}&count=5", ct);
+            // Request more candidates so we have fallbacks after duration filtering
+            var encoded  = Uri.EscapeDataString("site:youtube.com/watch short " + query);
+            var response = await _brave.GetAsync($"res/v1/web/search?q={encoded}&count=10", ct);
 
             if (!response.IsSuccessStatusCode)
                 return new VideoItem(topic, fallbackUrl, query);
@@ -451,11 +488,27 @@ public class XylaService : IXylaService
             using var doc = await JsonDocument.ParseAsync(
                 await response.Content.ReadAsStreamAsync(ct), cancellationToken: ct);
 
-            foreach (var r in doc.RootElement.GetProperty("web").GetProperty("results").EnumerateArray())
+            var candidates = doc.RootElement
+                .GetProperty("web").GetProperty("results").EnumerateArray()
+                .Select(r => r.TryGetProperty("url", out var u) ? u.GetString() : null)
+                .Where(url => url is not null && url.Contains("youtube.com/watch"))
+                .ToList();
+
+            foreach (var url in candidates)
             {
-                var url = r.TryGetProperty("url", out var u) ? u.GetString() : null;
-                if (url is not null && url.Contains("youtube.com/watch"))
-                    return new VideoItem(topic, url, query);
+                var seconds = await GetYouTubeDurationAsync(url!, ct);
+                if (seconds.HasValue && seconds.Value <= MaxVideoDurationSeconds)
+                {
+                    _logger.LogInformation("Selected video {Url} ({Duration}s)", url, seconds.Value);
+                    return new VideoItem(topic, url!, query);
+                }
+            }
+
+            // All candidates exceeded limit — return first result anyway (better than nothing)
+            if (candidates.Count > 0)
+            {
+                _logger.LogWarning("No video under {Max}s found for '{Query}', using first result", MaxVideoDurationSeconds, query);
+                return new VideoItem(topic, candidates[0]!, query);
             }
         }
         catch (Exception ex)
@@ -464,6 +517,29 @@ public class XylaService : IXylaService
         }
 
         return new VideoItem(topic, fallbackUrl, query);
+    }
+
+    private async Task<int?> GetYouTubeDurationAsync(string videoUrl, CancellationToken ct)
+    {
+        try
+        {
+            var videoId = ExtractYouTubeId(videoUrl);
+            if (videoId is null) return null;
+
+            using var httpClient = new HttpClient { Timeout = TimeSpan.FromSeconds(8) };
+            var html = await httpClient.GetStringAsync(
+                $"https://www.youtube.com/watch?v={videoId}", ct);
+
+            // ytInitialPlayerResponse contains "lengthSeconds":"330"
+            var match = Regex.Match(html, @"""lengthSeconds""\s*:\s*""?(\d+)""?");
+            if (match.Success && int.TryParse(match.Groups[1].Value, out var seconds))
+                return seconds;
+        }
+        catch (Exception ex)
+        {
+            _logger.LogDebug(ex, "Could not fetch duration for {Url}", videoUrl);
+        }
+        return null;
     }
 
     // ── Helpers ────────────────────────────────────────────────────────────────
@@ -605,7 +681,7 @@ public class XylaService : IXylaService
         - confidenceScore: "low" / "medium" / "high" based on English responses
         - preferredLearningStyle: infer from Perguntas 4 and 5 — visual / auditory / reading
         - videoTopic: brief English description, e.g. "English for Work"
-        - videoQuery: YouTube search query optimised for level and goal, e.g. "english conversation practice B1 intermediate work professional"
+        - videoQuery: YouTube search query optimised for level and goal, targeting short videos (under 5 minutes), e.g. "english conversation practice B1 intermediate short 3 minutes"
 
         ## SAFE OPTIONS
         The student can always:

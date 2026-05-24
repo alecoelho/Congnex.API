@@ -30,10 +30,34 @@ public class LessonsController(IMediator mediator) : ControllerBase
     {
         try
         {
-            var questions = await mediator.Send(new GetLessonQuestionsQuery(lessonId), ct);
+            var questions = await mediator.Send(new GetLessonQuestionsQuery(lessonId, GetUserId()), ct);
             return Ok(ApiResponse<object>.Ok(questions));
         }
         catch (KeyNotFoundException ex) { return NotFound(ApiResponse.Fail(ex.Message)); }
+    }
+
+    // ── POST /api/lessons/{lessonId}/answer ────────────────────────────────
+    public record SaveAnswerRequest(
+        Guid    QuestionId,
+        Guid?   SelectedOptionId,
+        string? TextAnswer,
+        bool    IsCorrect);
+
+    [HttpPost("{lessonId:guid}/answer")]
+    public async Task<IActionResult> SaveAnswer(Guid lessonId, SaveAnswerRequest req, CancellationToken ct)
+    {
+        await mediator.Send(new SaveQuestionAnswerCommand(
+            GetUserId(), lessonId, req.QuestionId, req.SelectedOptionId, req.TextAnswer, req.IsCorrect), ct);
+        return Ok(ApiResponse.Ok());
+    }
+
+    // ── GET /api/lessons/{lessonId}/wrong-answers ──────────────────────────
+    [HttpGet("{lessonId:guid}/wrong-answers")]
+    public async Task<IActionResult> GetWrongAnswers(Guid lessonId, CancellationToken ct)
+    {
+        var flashcards = await mediator.Send(
+            new GetWrongAnswerFlashcardsQuery(lessonId, GetUserId()), ct);
+        return Ok(ApiResponse<object>.Ok(flashcards));
     }
 
     // ── POST /api/lessons/{lessonId}/complete ───────────────────────────────

@@ -9,4 +9,10 @@ public interface IXylaService
         Guid userId,
         string message,
         CancellationToken ct = default);
+
+    Task<string> GenerateAnswerExplanationAsync(
+        string questionText,
+        string correctAnswer,
+        string? wrongAnswer,
+        CancellationToken ct = default);
 }

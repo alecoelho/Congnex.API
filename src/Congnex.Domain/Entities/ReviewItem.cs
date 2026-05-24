@@ -1,3 +1,4 @@
+using System.ComponentModel.DataAnnotations.Schema;
 using Congnex.Domain.Common;
 using Congnex.Domain.Enums;
 
@@ -18,6 +19,8 @@ public class ReviewItem : Entity
     public DateTime? LastReviewAt { get; set; }
     public int Reps { get; set; }
     public int Lapses { get; set; }
+
+    [DatabaseGenerated(DatabaseGeneratedOption.None)]
     public FsrsCardState State { get; set; } = FsrsCardState.New;
 
     public User User { get; set; } = null!;

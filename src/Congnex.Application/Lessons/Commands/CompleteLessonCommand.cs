@@ -41,31 +41,60 @@ public sealed class CompleteLessonCommandHandler(ICongnexDbContext db)
             db.UserProgress.Add(progress);
         }
 
+        // When answers were already saved incrementally, req.Answers may be empty.
+        // In that case, read existing answers from DB to compute stats.
+        int correctCount;
+        int totalCount;
+        List<Guid> correctIds;
+
+        if (req.Answers.Count > 0)
+        {
+            // Save any answers not yet in DB (idempotent: skip existing)
+            var existingIds = await db.UserQuestionAnswers
+                .Where(a => a.LessonId == req.LessonId && a.UserId == req.UserId)
+                .Select(a => a.QuestionId)
+                .ToListAsync(ct);
+
+            foreach (var a in req.Answers.Where(a => !existingIds.Contains(a.QuestionId)))
+            {
+                db.UserQuestionAnswers.Add(new UserQuestionAnswer
+                {
+                    UserId           = req.UserId,
+                    LessonId         = req.LessonId,
+                    QuestionId       = a.QuestionId,
+                    SelectedOptionId = a.SelectedOptionId,
+                    TextAnswer       = a.TextAnswer,
+                    IsCorrect        = a.IsCorrect,
+                    TimeSpentSeconds = a.TimeSpentSeconds,
+                    AnsweredAt       = DateTime.UtcNow
+                });
+            }
+
+            correctCount = req.Answers.Count(a => a.IsCorrect);
+            totalCount   = req.Answers.Count;
+            correctIds   = req.Answers.Where(a => a.IsCorrect).Select(a => a.QuestionId).ToList();
+        }
+        else
+        {
+            // Answers already saved incrementally — read from DB
+            var dbAnswers = await db.UserQuestionAnswers
+                .Where(a => a.LessonId == req.LessonId && a.UserId == req.UserId)
+                .Select(a => new { a.QuestionId, a.IsCorrect })
+                .ToListAsync(ct);
+
+            correctCount = dbAnswers.Count(a => a.IsCorrect);
+            totalCount   = dbAnswers.Count;
+            correctIds   = dbAnswers.Where(a => a.IsCorrect).Select(a => a.QuestionId).ToList();
+        }
+
         progress.Status         = LessonStatus.Completed;
-        progress.Score          = req.Score;
-        progress.CorrectAnswers = req.Answers.Count(a => a.IsCorrect);
-        progress.TotalQuestions  = req.Answers.Count;
+        progress.Score          = totalCount > 0 ? (int)Math.Round((double)correctCount / totalCount * 100) : req.Score;
+        progress.CorrectAnswers = correctCount;
+        progress.TotalQuestions = totalCount;
         progress.XpEarned       = lesson.XpReward;
         progress.CompletedAt    = DateTime.UtcNow;
 
-        // Persist answers
-        foreach (var a in req.Answers)
-        {
-            db.UserQuestionAnswers.Add(new UserQuestionAnswer
-            {
-                UserId           = req.UserId,
-                LessonId         = req.LessonId,
-                QuestionId       = a.QuestionId,
-                SelectedOptionId = a.SelectedOptionId,
-                TextAnswer       = a.TextAnswer,
-                IsCorrect        = a.IsCorrect,
-                TimeSpentSeconds = a.TimeSpentSeconds,
-                AnsweredAt       = DateTime.UtcNow
-            });
-        }
-
         // Create/reset ReviewItems for correct answers
-        var correctIds = req.Answers.Where(a => a.IsCorrect).Select(a => a.QuestionId).ToList();
         foreach (var qId in correctIds)
         {
             var existing = await db.ReviewItems.FirstOrDefaultAsync(
@@ -95,7 +124,15 @@ public sealed class CompleteLessonCommandHandler(ICongnexDbContext db)
 
         user.LastLessonAt = DateTime.UtcNow;
 
-        await db.SaveChangesAsync(ct);
+        try
+        {
+            await db.SaveChangesAsync(ct);
+        }
+        catch (DbUpdateException ex) when (ex.InnerException?.Message.Contains("Duplicate", StringComparison.OrdinalIgnoreCase) == true
+                                        || ex.InnerException?.Message.Contains("1062") == true)
+        {
+            // Concurrent completion call — ignore duplicate key violations
+        }
 
         return new CompleteLessonResult(xpEarned, user.Xp, user.Streak);
     }
