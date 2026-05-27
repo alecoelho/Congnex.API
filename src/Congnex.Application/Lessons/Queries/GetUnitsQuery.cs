@@ -18,6 +18,17 @@ public sealed class GetUnitsQueryHandler(ICongnexDbContext db)
             .Include(u => u.Lessons.OrderBy(l => l.OrderIndex))
             .ToListAsync(ct);
 
+        // For each unit, prefer user-specific lessons over generic ones
+        foreach (var unit in units)
+        {
+            var userLessons = unit.Lessons.Where(l => l.UserId == req.UserId).ToList();
+            var genericLessons = unit.Lessons.Where(l => l.UserId == null).ToList();
+
+            // Use user-specific lessons if available, otherwise generic
+            unit.Lessons = (userLessons.Count > 0 ? userLessons : genericLessons)
+                .OrderBy(l => l.OrderIndex).ToList();
+        }
+
         var progressMap = await db.UserProgress
             .Where(p => p.UserId == req.UserId)
             .ToDictionaryAsync(p => p.LessonId, ct);
