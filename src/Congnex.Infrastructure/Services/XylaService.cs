@@ -26,6 +26,7 @@ public class XylaService : IXylaService
     private readonly HttpClient _brave;
     private readonly IMemoryCache _cache;
     private readonly IYouTubeTranscriptService _transcriptService;
+    private readonly TranscriptSegmentService _segmentService;
 
     private const string InterviewComplete = "[INTERVIEW_COMPLETE]";
     private static readonly TimeSpan SessionTtl = TimeSpan.FromMinutes(30);
@@ -38,7 +39,8 @@ public class XylaService : IXylaService
         ILogger<XylaService> logger,
         IHttpClientFactory httpFactory,
         IMemoryCache cache,
-        IYouTubeTranscriptService transcriptService)
+        IYouTubeTranscriptService transcriptService,
+        TranscriptSegmentService segmentService)
     {
         _kernel            = kernel;
         _dbFactory         = dbFactory;
@@ -47,6 +49,7 @@ public class XylaService : IXylaService
         _brave             = httpFactory.CreateClient("brave");
         _cache             = cache;
         _transcriptService = transcriptService;
+        _segmentService    = segmentService;
     }
 
     // ── Public API ─────────────────────────────────────────────────────────────
@@ -207,7 +210,15 @@ public class XylaService : IXylaService
                             var questions = await GenerateQuestionsAsync(capturedPlan, transcript, CancellationToken.None);
 
                             if (questions is not null)
-                                await SaveLessonsAndQuestionsAsync(dbFactory, capturedUserId, capturedVideo, questions, CancellationToken.None);
+                            {
+                                var targetStructures = new List<string>();
+                                if (!string.IsNullOrEmpty(capturedPlan.VideoTopic))
+                                    targetStructures.Add(capturedPlan.VideoTopic);
+                                if (!string.IsNullOrEmpty(capturedPlan.StudentGoal))
+                                    targetStructures.Add(capturedPlan.StudentGoal);
+
+                                await SaveLessonsAndQuestionsAsync(dbFactory, capturedUserId, capturedVideo, questions, transcript, targetStructures, CancellationToken.None);
+                            }
 
                             await SaveInterviewAnswerAsync(dbFactory, capturedUserId, capturedPlan, capturedVideo, CancellationToken.None);
                         }
@@ -361,6 +372,8 @@ public class XylaService : IXylaService
         Guid userId,
         VideoItem? video,
         LessonPlanDto plan,
+        string? transcript,
+        List<string> targetStructures,
         CancellationToken ct)
     {
         try
@@ -423,13 +436,70 @@ public class XylaService : IXylaService
                     var youtubeId = ExtractYouTubeId(video.Url);
                     if (youtubeId is not null)
                     {
+                        int? startTime = null;
+                        int? endTime = null;
+                        int? videoDuration = null;
+                        string fallbackReason = "none";
+
+                        try
+                        {
+                            videoDuration = await GetYouTubeDurationAsync(video.Url, ct);
+                        }
+                        catch { /* duration unknown */ }
+
+                        var hasTranscript = transcript is { Length: > 0 };
+
+                        if (videoDuration.HasValue && videoDuration.Value > 600)
+                        {
+                            if (hasTranscript)
+                            {
+                                // Video > 10 min WITH transcript → find best segment
+                                var segment = _segmentService.FindBestSegment(transcript!, targetStructures, videoDuration.Value);
+                                if (segment is not null)
+                                {
+                                    startTime = segment.StartTime;
+                                    endTime = segment.EndTime;
+                                    _logger.LogInformation(
+                                        "[VideoSegment] userId={UserId} duration={Duration}s hasTranscript=true startTime={Start} endTime={End} score={Score}",
+                                        userId, videoDuration.Value, startTime, endTime, segment.Score);
+                                }
+                                else
+                                {
+                                    fallbackReason = "no_matching_segment";
+                                    // Limit to first 10 minutes as fallback
+                                    startTime = 0;
+                                    endTime = 600;
+                                }
+                            }
+                            else
+                            {
+                                // Video > 10 min WITHOUT transcript → limit to first 10 min
+                                fallbackReason = "no_transcript_long_video";
+                                startTime = 0;
+                                endTime = 600;
+                                _logger.LogWarning(
+                                    "[VideoSegment] userId={UserId} duration={Duration}s hasTranscript=false fallback=first_10_min",
+                                    userId, videoDuration.Value);
+                            }
+                        }
+                        else
+                        {
+                            // Video ≤ 10 min → play full
+                            _logger.LogInformation(
+                                "[VideoSegment] userId={UserId} duration={Duration}s hasTranscript={HasTranscript} action=play_full",
+                                userId, videoDuration ?? 0, hasTranscript);
+                        }
+
                         db.LessonVideos.Add(new LessonVideo
                         {
                             LessonId       = lesson.Id,
                             YoutubeVideoId = youtubeId,
                             YoutubeUrl     = video.Url,
                             Title          = video.Category,
-                            Language       = "en"
+                            Language       = "en",
+                            DurationSeconds = videoDuration ?? 0,
+                            StartTime      = startTime,
+                            EndTime        = endTime,
                         });
                     }
                 }
