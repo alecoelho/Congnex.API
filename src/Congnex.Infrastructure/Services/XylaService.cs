@@ -566,61 +566,85 @@ public class XylaService : IXylaService
 
     private static string BuildQuestionGenerationPrompt(
         string cefrLevel, string goal, string age, string transcript) => $$"""
-        You are an English language curriculum designer for Brazilian students.
-        Generate exactly 50 English learning questions in JSON format.
+        VOCÊ É UM DESIGNER DE CURRÍCULO DE INGLÊS PARA ALUNOS BRASILEIROS INICIANTES.
+        O ALUNO NÃO SABE LER INGLÊS. TODAS AS PERGUNTAS DEVEM ESTAR EM PORTUGUÊS.
 
-        Student Profile:
-        - CEFR Level: {{cefrLevel}}
-        - Learning Goal: {{goal}}
-        - Age: {{age}}
+        ⚠️ REGRA ABSOLUTA: NUNCA ESCREVA PERGUNTAS EM INGLÊS ⚠️
+        ⚠️ questionText DEVE SEMPRE ESTAR EM PORTUGUÊS ⚠️
 
-        Video Transcript (extract vocabulary and topics from this):
+        Perfil do Aluno:
+        - Nível CEFR: {{cefrLevel}}
+        - Objetivo: {{goal}}
+        - Idade: {{age}}
+
+        Transcrição do vídeo (extraia vocabulário daqui):
         {{transcript}}
 
-        RESPOND WITH ONLY THIS JSON (no markdown, no explanation):
+        FORMATO OBRIGATÓRIO DAS PERGUNTAS:
+
+        Tipo 1 — Português → Inglês:
+        questionText: "Como se diz \"Olá\" em inglês?"
+        options: ["Hello", "Goodbye", "Please", "Thank you"]
+        correctAnswer: "Hello"
+
+        Tipo 2 — Inglês → Português:
+        questionText: "O que significa \"Hello\" em português?"
+        options: ["Olá", "Tchau", "Por favor", "Obrigado"]
+        correctAnswer: "Olá"
+
+        Tipo 3 — Completar (Bloco 5):
+        questionText: "Complete: \"Bom dia\" em inglês é ___"
+        options: ["Good morning", "Good night", "Good afternoon", "Goodbye"]
+        correctAnswer: "Good morning"
+
+        RESPONDA APENAS COM ESTE JSON (sem markdown, sem explicação):
         {
           "lessons": [
             {
               "title": "Funções Comunicativas",
-              "questions": [10 multiple_choice questions about communication functions]
+              "questions": [10 perguntas tipo "Como se diz X em inglês?" com opções em inglês]
             },
             {
               "title": "Vocabulário",
-              "questions": [10 multiple_choice questions about vocabulary]
+              "questions": [10 perguntas misturando PT→EN e EN→PT]
             },
             {
               "title": "Gramática",
-              "questions": [10 multiple_choice questions about grammar]
+              "questions": [10 perguntas tipo "Como se diz a frase X em inglês?" com opções em inglês]
             },
             {
               "title": "Habilidades Receptivas",
-              "questions": [10 multiple_choice questions about reading/listening comprehension]
+              "questions": [10 perguntas tipo "O que significa X em português?" com opções em português]
             },
             {
               "title": "Completar a Frase",
-              "questions": [10 fill-in-the-blank questions]
+              "questions": [10 perguntas tipo "Complete: X em inglês é ___" com opções em inglês]
             }
           ]
         }
 
-        Each question object format:
+        Formato de cada questão:
         {
-          "questionText": "the question or sentence with ___ for fill-in-the-blank",
+          "questionText": "SEMPRE EM PORTUGUÊS - Como se diz X em inglês?",
           "type": "multiple_choice",
-          "correctAnswer": "exact text of correct option",
-          "options": ["option A", "option B", "option C", "option D"],
+          "correctAnswer": "texto exato de uma das opções",
+          "options": ["opção A", "opção B", "opção C", "opção D"],
           "difficulty": "easy"
         }
 
-        Rules:
-        1. Exactly 5 lessons, each with exactly 10 questions
-        2. Blocks 1-4: use type "multiple_choice"
-        3. Block 5 (Completar a Frase): use type "complete_sentence" and questionText must contain ___
-        4. correctAnswer must exactly match one of the 4 options
-        5. Adapt difficulty to CEFR level {{cefrLevel}}
-        6. All questions and options in English
-        7. Use vocabulary and topics from the transcript when possible
-        8. Questions should support the student's goal: {{goal}}
+        REGRAS INVIOLÁVEIS:
+        1. Exatamente 5 lições, cada uma com exatamente 10 questões
+        2. questionText SEMPRE em português — NUNCA em inglês
+        3. NUNCA começar questionText com "What", "How", "Which", "Choose", "You read"
+        4. SEMPRE começar questionText com: "Como se diz", "O que significa", "Qual a tradução", "Complete:"
+        5. Se a pergunta é PT→EN: opções TODAS em inglês
+        6. Se a pergunta é EN→PT: opções TODAS em português
+        7. NUNCA misturar idiomas nas opções
+        8. correctAnswer deve ser EXATAMENTE igual a uma das 4 opções
+        9. Bloco 5: type = "complete_sentence", questionText deve conter ___
+        10. Adaptar vocabulário ao nível {{cefrLevel}} e objetivo: {{goal}}
+        11. Usar vocabulário da transcrição quando possível
+        12. Para A1/A2: usar apenas palavras simples e frases curtas
         """;
 
     // ── Agent instructions ─────────────────────────────────────────────────────
