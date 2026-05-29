@@ -347,7 +347,44 @@ public class XylaService : IXylaService
                                           .ToList();
                     var difficulty    = qEl.TryGetProperty("difficulty", out var d)  ? d.GetString() ?? "easy" : "easy";
 
+                    // ── Validation ──
+                    // 1. Must have exactly 4 options
+                    if (options.Count != 4) continue;
+
+                    // 2. correctAnswer must be in options
+                    if (!options.Any(o => string.Equals(o, correctAnswer, StringComparison.OrdinalIgnoreCase)))
+                        continue;
+
+                    // 3. Options must not be duplicates
+                    if (options.Distinct(StringComparer.OrdinalIgnoreCase).Count() < 4)
+                        continue;
+
+                    // 4. questionText must be in Portuguese (reject English questions)
+                    if (questionText.StartsWith("How ", StringComparison.OrdinalIgnoreCase) ||
+                        questionText.StartsWith("What ", StringComparison.OrdinalIgnoreCase) ||
+                        questionText.StartsWith("Which ", StringComparison.OrdinalIgnoreCase) ||
+                        questionText.StartsWith("Choose ", StringComparison.OrdinalIgnoreCase) ||
+                        questionText.StartsWith("You read", StringComparison.OrdinalIgnoreCase))
+                        continue;
+
+                    // 5. Normalize difficulty
+                    if (difficulty != "easy" && difficulty != "medium" && difficulty != "hard")
+                        difficulty = "easy";
+
                     questions.Add(new QuestionDto(type, questionText, correctAnswer, options, difficulty));
+                }
+
+                // Ensure difficulty distribution if AI didn't follow instructions
+                if (questions.Count >= 10)
+                {
+                    for (int i = 0; i < questions.Count; i++)
+                    {
+                        var expectedDiff = i < 3 ? "easy" : i < 7 ? "medium" : "hard";
+                        if (questions[i].Difficulty == "easy" && expectedDiff != "easy")
+                        {
+                            questions[i] = questions[i] with { Difficulty = expectedDiff };
+                        }
+                    }
                 }
 
                 lessons.Add(new LessonBlockDto(title, questions));
@@ -558,9 +595,11 @@ public class XylaService : IXylaService
         var fallbackUrl = "https://www.youtube.com/results?search_query=" + Uri.EscapeDataString(query);
         try
         {
-            // Request more candidates so we have fallbacks after duration filtering
-            var encoded  = Uri.EscapeDataString("site:youtube.com/watch short " + query);
+            _logger.LogInformation("[VideoResolve] Searching for: '{Query}'", query);
+            var encoded  = Uri.EscapeDataString("site:youtube.com/watch " + query);
             var response = await _brave.GetAsync($"res/v1/web/search?q={encoded}&count=10", ct);
+
+            _logger.LogInformation("[VideoResolve] Brave response: {Status}", response.StatusCode);
 
             if (!response.IsSuccessStatusCode)
                 return new VideoItem(topic, fallbackUrl, query);
@@ -574,28 +613,30 @@ public class XylaService : IXylaService
                 .Where(url => url is not null && url.Contains("youtube.com/watch"))
                 .ToList();
 
+            _logger.LogInformation("[VideoResolve] Found {Count} candidates", candidates.Count);
+
             foreach (var url in candidates)
             {
                 var seconds = await GetYouTubeDurationAsync(url!, ct);
                 if (seconds.HasValue && seconds.Value <= MaxVideoDurationSeconds)
                 {
-                    _logger.LogInformation("Selected video {Url} ({Duration}s)", url, seconds.Value);
+                    _logger.LogInformation("[VideoResolve] Selected: {Url} ({Duration}s)", url, seconds.Value);
                     return new VideoItem(topic, url!, query);
                 }
             }
 
-            // All candidates exceeded limit — return first result anyway (better than nothing)
             if (candidates.Count > 0)
             {
-                _logger.LogWarning("No video under {Max}s found for '{Query}', using first result", MaxVideoDurationSeconds, query);
+                _logger.LogWarning("[VideoResolve] No video under {Max}s, using first result", MaxVideoDurationSeconds);
                 return new VideoItem(topic, candidates[0]!, query);
             }
         }
         catch (Exception ex)
         {
-            _logger.LogWarning(ex, "Brave Search failed for query '{Query}', using fallback URL", query);
+            _logger.LogError(ex, "[VideoResolve] FAILED for query '{Query}'", query);
         }
 
+        _logger.LogWarning("[VideoResolve] Using fallback URL for '{Query}'", query);
         return new VideoItem(topic, fallbackUrl, query);
     }
 
@@ -636,85 +677,104 @@ public class XylaService : IXylaService
 
     private static string BuildQuestionGenerationPrompt(
         string cefrLevel, string goal, string age, string transcript) => $$"""
-        VOCÊ É UM DESIGNER DE CURRÍCULO DE INGLÊS PARA ALUNOS BRASILEIROS INICIANTES.
+        VOCÊ É UM DESIGNER DE CURRÍCULO DE INGLÊS PARA ALUNOS BRASILEIROS.
         O ALUNO NÃO SABE LER INGLÊS. TODAS AS PERGUNTAS DEVEM ESTAR EM PORTUGUÊS.
 
-        ⚠️ REGRA ABSOLUTA: NUNCA ESCREVA PERGUNTAS EM INGLÊS ⚠️
-        ⚠️ questionText DEVE SEMPRE ESTAR EM PORTUGUÊS ⚠️
+        ⚠️ REGRA ABSOLUTA: questionText DEVE SEMPRE ESTAR EM PORTUGUÊS ⚠️
 
         Perfil do Aluno:
         - Nível CEFR: {{cefrLevel}}
         - Objetivo: {{goal}}
         - Idade: {{age}}
 
-        Transcrição do vídeo (extraia vocabulário daqui):
+        Transcrição do vídeo (USE este vocabulário nas questões):
         {{transcript}}
 
-        FORMATO OBRIGATÓRIO DAS PERGUNTAS:
-
-        Tipo 1 — Português → Inglês:
-        questionText: "Como se diz \"Olá\" em inglês?"
-        options: ["Hello", "Goodbye", "Please", "Thank you"]
-        correctAnswer: "Hello"
-
-        Tipo 2 — Inglês → Português:
-        questionText: "O que significa \"Hello\" em português?"
-        options: ["Olá", "Tchau", "Por favor", "Obrigado"]
-        correctAnswer: "Olá"
-
-        Tipo 3 — Completar (Bloco 5):
-        questionText: "Complete: \"Bom dia\" em inglês é ___"
-        options: ["Good morning", "Good night", "Good afternoon", "Goodbye"]
-        correctAnswer: "Good morning"
-
-        RESPONDA APENAS COM ESTE JSON (sem markdown, sem explicação):
+        RESPONDA APENAS COM JSON (sem markdown, sem explicação):
         {
           "lessons": [
             {
               "title": "Funções Comunicativas",
-              "questions": [10 perguntas tipo "Como se diz X em inglês?" com opções em inglês]
+              "questions": [10 questões — tradução de frases úteis do dia a dia]
             },
             {
               "title": "Vocabulário",
-              "questions": [10 perguntas misturando PT→EN e EN→PT]
+              "questions": [10 questões — palavras do transcript e do contexto do aluno]
             },
             {
               "title": "Gramática",
-              "questions": [10 perguntas tipo "Como se diz a frase X em inglês?" com opções em inglês]
+              "questions": [10 questões — frases com pequenas diferenças gramaticais]
             },
             {
               "title": "Habilidades Receptivas",
-              "questions": [10 perguntas tipo "O que significa X em português?" com opções em português]
+              "questions": [10 questões — compreensão de frases em contexto]
             },
             {
               "title": "Completar a Frase",
-              "questions": [10 perguntas tipo "Complete: X em inglês é ___" com opções em inglês]
+              "questions": [10 questões — completar com a palavra correta]
             }
           ]
         }
 
-        Formato de cada questão:
+        FORMATO DE CADA QUESTÃO:
         {
-          "questionText": "SEMPRE EM PORTUGUÊS - Como se diz X em inglês?",
+          "questionText": "pergunta em português",
           "type": "multiple_choice",
           "correctAnswer": "texto exato de uma das opções",
           "options": ["opção A", "opção B", "opção C", "opção D"],
-          "difficulty": "easy"
+          "difficulty": "easy" ou "medium" ou "hard"
         }
 
-        REGRAS INVIOLÁVEIS:
-        1. Exatamente 5 lições, cada uma com exatamente 10 questões
-        2. questionText SEMPRE em português — NUNCA em inglês
-        3. NUNCA começar questionText com "What", "How", "Which", "Choose", "You read"
-        4. SEMPRE começar questionText com: "Como se diz", "O que significa", "Qual a tradução", "Complete:"
-        5. Se a pergunta é PT→EN: opções TODAS em inglês
-        6. Se a pergunta é EN→PT: opções TODAS em português
-        7. NUNCA misturar idiomas nas opções
-        8. correctAnswer deve ser EXATAMENTE igual a uma das 4 opções
-        9. Bloco 5: type = "complete_sentence", questionText deve conter ___
-        10. Adaptar vocabulário ao nível {{cefrLevel}} e objetivo: {{goal}}
-        11. Usar vocabulário da transcrição quando possível
-        12. Para A1/A2: usar apenas palavras simples e frases curtas
+        ═══════════════════════════════════════════════
+        REGRA DE DIFICULDADE (OBRIGATÓRIA):
+        ═══════════════════════════════════════════════
+
+        Cada lição tem 10 questões com esta distribuição:
+        - Questões 1-3: difficulty = "easy"
+        - Questões 4-7: difficulty = "medium"
+        - Questões 8-10: difficulty = "hard"
+
+        EASY = tradução direta com distratores da mesma categoria
+        Exemplo: "Como se diz 'passport' em português?"
+        Opções: passaporte | passagem | mala | documento
+
+        MEDIUM = pergunta com contexto simples
+        Exemplo: "Você está no aeroporto e precisa mostrar um documento. Qual palavra combina?"
+        Opções: passport | boarding | suitcase | ticket
+
+        HARD = frases com diferenças gramaticais sutis ou erros comuns
+        Exemplo: "Qual frase está correta para perguntar se alguém fala inglês?"
+        Opções: Do you speak English? | You speak English? | Are you speak English? | Do you speaks English?
+
+        ═══════════════════════════════════════════════
+        REGRA DE DISTRATORES (OBRIGATÓRIA):
+        ═══════════════════════════════════════════════
+
+        As alternativas erradas DEVEM ser plausíveis:
+        - SEMPRE da mesma categoria semântica
+        - SEMPRE palavras que um aluno brasileiro poderia confundir
+        - NUNCA palavras aleatórias sem relação
+
+        PROIBIDO: Book → opções: chair, pizza, car (sem relação)
+        CORRETO: Book → opções: notebook, page, library (mesma categoria)
+
+        PROIBIDO: Airport → opções: banana, dog, happy
+        CORRETO: Airport → opções: station, terminal, port
+
+        ═══════════════════════════════════════════════
+        REGRA DE FORMATO (OBRIGATÓRIA):
+        ═══════════════════════════════════════════════
+
+        1. questionText SEMPRE em português
+        2. NUNCA começar com "What", "How", "Which", "Choose"
+        3. SEMPRE começar com: "Como se diz", "O que significa", "Qual a tradução", "Complete:", "Qual frase", "Você está em"
+        4. Se pergunta PT→EN: opções em inglês
+        5. Se pergunta EN→PT: opções em português
+        6. NUNCA misturar idiomas nas opções
+        7. correctAnswer EXATAMENTE igual a uma das 4 opções
+        8. Bloco 5: type = "complete_sentence", questionText com ___
+        9. Usar vocabulário da transcrição quando possível
+        10. Adaptar ao nível {{cefrLevel}} e objetivo: {{goal}}
         """;
 
     // ── Agent instructions ─────────────────────────────────────────────────────
