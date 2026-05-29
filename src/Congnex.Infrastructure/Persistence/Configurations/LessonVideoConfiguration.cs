@@ -19,6 +19,8 @@ public class LessonVideoConfiguration : IEntityTypeConfiguration<LessonVideo>
         b.Property(v => v.TranscriptJson).HasColumnName("transcript_json").HasColumnType("json");
         b.Property(v => v.Language).HasColumnName("language").HasMaxLength(10).HasDefaultValue("en");
         b.Property(v => v.DurationSeconds).HasColumnName("duration_seconds").HasDefaultValue(0);
+        b.Property(v => v.StartTime).HasColumnName("start_time");
+        b.Property(v => v.EndTime).HasColumnName("end_time");
         b.Property(v => v.CreatedAt).HasColumnName("created_at");
         b.Property(v => v.UpdatedAt).HasColumnName("updated_at");
 

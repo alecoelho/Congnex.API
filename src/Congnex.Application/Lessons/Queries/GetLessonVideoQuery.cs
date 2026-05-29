@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Congnex.Application.Lessons.Queries;
 
-public record LessonVideoDto(Guid Id, string YoutubeVideoId, string YoutubeUrl, string? Title);
+public record LessonVideoDto(Guid Id, string YoutubeVideoId, string YoutubeUrl, string? Title, int? StartTime, int? EndTime);
 
 public record GetLessonVideoQuery(Guid LessonId) : IRequest<LessonVideoDto?>;
 
@@ -18,7 +18,7 @@ public sealed class GetLessonVideoQueryHandler(ICongnexDbContext db)
         var video = await db.LessonVideos
             .Where(v => v.LessonId == req.LessonId)
             .OrderBy(v => v.Id)
-            .Select(v => new LessonVideoDto(v.Id, v.YoutubeVideoId, v.YoutubeUrl, v.Title))
+            .Select(v => new LessonVideoDto(v.Id, v.YoutubeVideoId, v.YoutubeUrl, v.Title, v.StartTime, v.EndTime))
             .FirstOrDefaultAsync(ct);
 
         if (video is not null) return video;
@@ -43,7 +43,7 @@ public sealed class GetLessonVideoQueryHandler(ICongnexDbContext db)
         var youtubeId = ExtractYouTubeId(answer.VideoUrl);
         if (youtubeId is null) return null;
 
-        return new LessonVideoDto(Guid.Empty, youtubeId, answer.VideoUrl, answer.VideoCategory);
+        return new LessonVideoDto(Guid.Empty, youtubeId, answer.VideoUrl, answer.VideoCategory, null, null);
     }
 
     private static string? ExtractYouTubeId(string url)

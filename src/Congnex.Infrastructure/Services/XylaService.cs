@@ -26,6 +26,7 @@ public class XylaService : IXylaService
     private readonly HttpClient _brave;
     private readonly IMemoryCache _cache;
     private readonly IYouTubeTranscriptService _transcriptService;
+    private readonly TranscriptSegmentService _segmentService;
 
     private const string InterviewComplete = "[INTERVIEW_COMPLETE]";
     private static readonly TimeSpan SessionTtl = TimeSpan.FromMinutes(30);
@@ -38,7 +39,8 @@ public class XylaService : IXylaService
         ILogger<XylaService> logger,
         IHttpClientFactory httpFactory,
         IMemoryCache cache,
-        IYouTubeTranscriptService transcriptService)
+        IYouTubeTranscriptService transcriptService,
+        TranscriptSegmentService segmentService)
     {
         _kernel            = kernel;
         _dbFactory         = dbFactory;
@@ -47,6 +49,7 @@ public class XylaService : IXylaService
         _brave             = httpFactory.CreateClient("brave");
         _cache             = cache;
         _transcriptService = transcriptService;
+        _segmentService    = segmentService;
     }
 
     // ── Public API ─────────────────────────────────────────────────────────────
@@ -207,7 +210,15 @@ public class XylaService : IXylaService
                             var questions = await GenerateQuestionsAsync(capturedPlan, transcript, CancellationToken.None);
 
                             if (questions is not null)
-                                await SaveLessonsAndQuestionsAsync(dbFactory, capturedUserId, capturedVideo, questions, CancellationToken.None);
+                            {
+                                var targetStructures = new List<string>();
+                                if (!string.IsNullOrEmpty(capturedPlan.VideoTopic))
+                                    targetStructures.Add(capturedPlan.VideoTopic);
+                                if (!string.IsNullOrEmpty(capturedPlan.StudentGoal))
+                                    targetStructures.Add(capturedPlan.StudentGoal);
+
+                                await SaveLessonsAndQuestionsAsync(dbFactory, capturedUserId, capturedVideo, questions, transcript, targetStructures, CancellationToken.None);
+                            }
 
                             await SaveInterviewAnswerAsync(dbFactory, capturedUserId, capturedPlan, capturedVideo, CancellationToken.None);
                         }
@@ -336,7 +347,44 @@ public class XylaService : IXylaService
                                           .ToList();
                     var difficulty    = qEl.TryGetProperty("difficulty", out var d)  ? d.GetString() ?? "easy" : "easy";
 
+                    // ── Validation ──
+                    // 1. Must have exactly 4 options
+                    if (options.Count != 4) continue;
+
+                    // 2. correctAnswer must be in options
+                    if (!options.Any(o => string.Equals(o, correctAnswer, StringComparison.OrdinalIgnoreCase)))
+                        continue;
+
+                    // 3. Options must not be duplicates
+                    if (options.Distinct(StringComparer.OrdinalIgnoreCase).Count() < 4)
+                        continue;
+
+                    // 4. questionText must be in Portuguese (reject English questions)
+                    if (questionText.StartsWith("How ", StringComparison.OrdinalIgnoreCase) ||
+                        questionText.StartsWith("What ", StringComparison.OrdinalIgnoreCase) ||
+                        questionText.StartsWith("Which ", StringComparison.OrdinalIgnoreCase) ||
+                        questionText.StartsWith("Choose ", StringComparison.OrdinalIgnoreCase) ||
+                        questionText.StartsWith("You read", StringComparison.OrdinalIgnoreCase))
+                        continue;
+
+                    // 5. Normalize difficulty
+                    if (difficulty != "easy" && difficulty != "medium" && difficulty != "hard")
+                        difficulty = "easy";
+
                     questions.Add(new QuestionDto(type, questionText, correctAnswer, options, difficulty));
+                }
+
+                // Ensure difficulty distribution if AI didn't follow instructions
+                if (questions.Count >= 10)
+                {
+                    for (int i = 0; i < questions.Count; i++)
+                    {
+                        var expectedDiff = i < 3 ? "easy" : i < 7 ? "medium" : "hard";
+                        if (questions[i].Difficulty == "easy" && expectedDiff != "easy")
+                        {
+                            questions[i] = questions[i] with { Difficulty = expectedDiff };
+                        }
+                    }
                 }
 
                 lessons.Add(new LessonBlockDto(title, questions));
@@ -361,6 +409,8 @@ public class XylaService : IXylaService
         Guid userId,
         VideoItem? video,
         LessonPlanDto plan,
+        string? transcript,
+        List<string> targetStructures,
         CancellationToken ct)
     {
         try
@@ -423,13 +473,70 @@ public class XylaService : IXylaService
                     var youtubeId = ExtractYouTubeId(video.Url);
                     if (youtubeId is not null)
                     {
+                        int? startTime = null;
+                        int? endTime = null;
+                        int? videoDuration = null;
+                        string fallbackReason = "none";
+
+                        try
+                        {
+                            videoDuration = await GetYouTubeDurationAsync(video.Url, ct);
+                        }
+                        catch { /* duration unknown */ }
+
+                        var hasTranscript = transcript is { Length: > 0 };
+
+                        if (videoDuration.HasValue && videoDuration.Value > 600)
+                        {
+                            if (hasTranscript)
+                            {
+                                // Video > 10 min WITH transcript → find best segment
+                                var segment = _segmentService.FindBestSegment(transcript!, targetStructures, videoDuration.Value);
+                                if (segment is not null)
+                                {
+                                    startTime = segment.StartTime;
+                                    endTime = segment.EndTime;
+                                    _logger.LogInformation(
+                                        "[VideoSegment] userId={UserId} duration={Duration}s hasTranscript=true startTime={Start} endTime={End} score={Score}",
+                                        userId, videoDuration.Value, startTime, endTime, segment.Score);
+                                }
+                                else
+                                {
+                                    fallbackReason = "no_matching_segment";
+                                    // Limit to first 10 minutes as fallback
+                                    startTime = 0;
+                                    endTime = 600;
+                                }
+                            }
+                            else
+                            {
+                                // Video > 10 min WITHOUT transcript → limit to first 10 min
+                                fallbackReason = "no_transcript_long_video";
+                                startTime = 0;
+                                endTime = 600;
+                                _logger.LogWarning(
+                                    "[VideoSegment] userId={UserId} duration={Duration}s hasTranscript=false fallback=first_10_min",
+                                    userId, videoDuration.Value);
+                            }
+                        }
+                        else
+                        {
+                            // Video ≤ 10 min → play full
+                            _logger.LogInformation(
+                                "[VideoSegment] userId={UserId} duration={Duration}s hasTranscript={HasTranscript} action=play_full",
+                                userId, videoDuration ?? 0, hasTranscript);
+                        }
+
                         db.LessonVideos.Add(new LessonVideo
                         {
                             LessonId       = lesson.Id,
                             YoutubeVideoId = youtubeId,
                             YoutubeUrl     = video.Url,
                             Title          = video.Category,
-                            Language       = "en"
+                            Language       = "en",
+                            DurationSeconds = videoDuration ?? 0,
+                            StartTime      = startTime,
+                            EndTime        = endTime,
                         });
                     }
                 }
@@ -488,9 +595,11 @@ public class XylaService : IXylaService
         var fallbackUrl = "https://www.youtube.com/results?search_query=" + Uri.EscapeDataString(query);
         try
         {
-            // Request more candidates so we have fallbacks after duration filtering
-            var encoded  = Uri.EscapeDataString("site:youtube.com/watch short " + query);
+            _logger.LogInformation("[VideoResolve] Searching for: '{Query}'", query);
+            var encoded  = Uri.EscapeDataString("site:youtube.com/watch " + query);
             var response = await _brave.GetAsync($"res/v1/web/search?q={encoded}&count=10", ct);
+
+            _logger.LogInformation("[VideoResolve] Brave response: {Status}", response.StatusCode);
 
             if (!response.IsSuccessStatusCode)
                 return new VideoItem(topic, fallbackUrl, query);
@@ -504,28 +613,30 @@ public class XylaService : IXylaService
                 .Where(url => url is not null && url.Contains("youtube.com/watch"))
                 .ToList();
 
+            _logger.LogInformation("[VideoResolve] Found {Count} candidates", candidates.Count);
+
             foreach (var url in candidates)
             {
                 var seconds = await GetYouTubeDurationAsync(url!, ct);
                 if (seconds.HasValue && seconds.Value <= MaxVideoDurationSeconds)
                 {
-                    _logger.LogInformation("Selected video {Url} ({Duration}s)", url, seconds.Value);
+                    _logger.LogInformation("[VideoResolve] Selected: {Url} ({Duration}s)", url, seconds.Value);
                     return new VideoItem(topic, url!, query);
                 }
             }
 
-            // All candidates exceeded limit — return first result anyway (better than nothing)
             if (candidates.Count > 0)
             {
-                _logger.LogWarning("No video under {Max}s found for '{Query}', using first result", MaxVideoDurationSeconds, query);
+                _logger.LogWarning("[VideoResolve] No video under {Max}s, using first result", MaxVideoDurationSeconds);
                 return new VideoItem(topic, candidates[0]!, query);
             }
         }
         catch (Exception ex)
         {
-            _logger.LogWarning(ex, "Brave Search failed for query '{Query}', using fallback URL", query);
+            _logger.LogError(ex, "[VideoResolve] FAILED for query '{Query}'", query);
         }
 
+        _logger.LogWarning("[VideoResolve] Using fallback URL for '{Query}'", query);
         return new VideoItem(topic, fallbackUrl, query);
     }
 
@@ -566,61 +677,104 @@ public class XylaService : IXylaService
 
     private static string BuildQuestionGenerationPrompt(
         string cefrLevel, string goal, string age, string transcript) => $$"""
-        You are an English language curriculum designer for Brazilian students.
-        Generate exactly 50 English learning questions in JSON format.
+        VOCÊ É UM DESIGNER DE CURRÍCULO DE INGLÊS PARA ALUNOS BRASILEIROS.
+        O ALUNO NÃO SABE LER INGLÊS. TODAS AS PERGUNTAS DEVEM ESTAR EM PORTUGUÊS.
 
-        Student Profile:
-        - CEFR Level: {{cefrLevel}}
-        - Learning Goal: {{goal}}
-        - Age: {{age}}
+        ⚠️ REGRA ABSOLUTA: questionText DEVE SEMPRE ESTAR EM PORTUGUÊS ⚠️
 
-        Video Transcript (extract vocabulary and topics from this):
+        Perfil do Aluno:
+        - Nível CEFR: {{cefrLevel}}
+        - Objetivo: {{goal}}
+        - Idade: {{age}}
+
+        Transcrição do vídeo (USE este vocabulário nas questões):
         {{transcript}}
 
-        RESPOND WITH ONLY THIS JSON (no markdown, no explanation):
+        RESPONDA APENAS COM JSON (sem markdown, sem explicação):
         {
           "lessons": [
             {
               "title": "Funções Comunicativas",
-              "questions": [10 multiple_choice questions about communication functions]
+              "questions": [10 questões — tradução de frases úteis do dia a dia]
             },
             {
               "title": "Vocabulário",
-              "questions": [10 multiple_choice questions about vocabulary]
+              "questions": [10 questões — palavras do transcript e do contexto do aluno]
             },
             {
               "title": "Gramática",
-              "questions": [10 multiple_choice questions about grammar]
+              "questions": [10 questões — frases com pequenas diferenças gramaticais]
             },
             {
               "title": "Habilidades Receptivas",
-              "questions": [10 multiple_choice questions about reading/listening comprehension]
+              "questions": [10 questões — compreensão de frases em contexto]
             },
             {
               "title": "Completar a Frase",
-              "questions": [10 fill-in-the-blank questions]
+              "questions": [10 questões — completar com a palavra correta]
             }
           ]
         }
 
-        Each question object format:
+        FORMATO DE CADA QUESTÃO:
         {
-          "questionText": "the question or sentence with ___ for fill-in-the-blank",
+          "questionText": "pergunta em português",
           "type": "multiple_choice",
-          "correctAnswer": "exact text of correct option",
-          "options": ["option A", "option B", "option C", "option D"],
-          "difficulty": "easy"
+          "correctAnswer": "texto exato de uma das opções",
+          "options": ["opção A", "opção B", "opção C", "opção D"],
+          "difficulty": "easy" ou "medium" ou "hard"
         }
 
-        Rules:
-        1. Exactly 5 lessons, each with exactly 10 questions
-        2. Blocks 1-4: use type "multiple_choice"
-        3. Block 5 (Completar a Frase): use type "complete_sentence" and questionText must contain ___
-        4. correctAnswer must exactly match one of the 4 options
-        5. Adapt difficulty to CEFR level {{cefrLevel}}
-        6. All questions and options in English
-        7. Use vocabulary and topics from the transcript when possible
-        8. Questions should support the student's goal: {{goal}}
+        ═══════════════════════════════════════════════
+        REGRA DE DIFICULDADE (OBRIGATÓRIA):
+        ═══════════════════════════════════════════════
+
+        Cada lição tem 10 questões com esta distribuição:
+        - Questões 1-3: difficulty = "easy"
+        - Questões 4-7: difficulty = "medium"
+        - Questões 8-10: difficulty = "hard"
+
+        EASY = tradução direta com distratores da mesma categoria
+        Exemplo: "Como se diz 'passport' em português?"
+        Opções: passaporte | passagem | mala | documento
+
+        MEDIUM = pergunta com contexto simples
+        Exemplo: "Você está no aeroporto e precisa mostrar um documento. Qual palavra combina?"
+        Opções: passport | boarding | suitcase | ticket
+
+        HARD = frases com diferenças gramaticais sutis ou erros comuns
+        Exemplo: "Qual frase está correta para perguntar se alguém fala inglês?"
+        Opções: Do you speak English? | You speak English? | Are you speak English? | Do you speaks English?
+
+        ═══════════════════════════════════════════════
+        REGRA DE DISTRATORES (OBRIGATÓRIA):
+        ═══════════════════════════════════════════════
+
+        As alternativas erradas DEVEM ser plausíveis:
+        - SEMPRE da mesma categoria semântica
+        - SEMPRE palavras que um aluno brasileiro poderia confundir
+        - NUNCA palavras aleatórias sem relação
+
+        PROIBIDO: Book → opções: chair, pizza, car (sem relação)
+        CORRETO: Book → opções: notebook, page, library (mesma categoria)
+
+        PROIBIDO: Airport → opções: banana, dog, happy
+        CORRETO: Airport → opções: station, terminal, port
+
+        ═══════════════════════════════════════════════
+        REGRA DE FORMATO (OBRIGATÓRIA):
+        ═══════════════════════════════════════════════
+
+        1. questionText SEMPRE em português
+        2. NUNCA começar com "What", "How", "Which", "Choose"
+        3. SEMPRE começar com: "Como se diz", "O que significa", "Qual a tradução", "Complete:", "Qual frase", "Você está em"
+        4. Se pergunta PT→EN: opções em inglês
+        5. Se pergunta EN→PT: opções em português
+        6. NUNCA misturar idiomas nas opções
+        7. correctAnswer EXATAMENTE igual a uma das 4 opções
+        8. Bloco 5: type = "complete_sentence", questionText com ___
+        9. Usar vocabulário da transcrição quando possível
+        10. Adaptar ao nível {{cefrLevel}} e objetivo: {{goal}}
         """;
 
     // ── Agent instructions ─────────────────────────────────────────────────────

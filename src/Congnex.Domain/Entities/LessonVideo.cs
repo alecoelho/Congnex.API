@@ -11,6 +11,8 @@ public class LessonVideo : Entity
     public string? TranscriptJson { get; set; }
     public string Language { get; set; } = "en";
     public int DurationSeconds { get; set; }
+    public int? StartTime { get; set; } // seconds
+    public int? EndTime { get; set; }   // seconds
 
     public Lesson Lesson { get; set; } = null!;
     public ICollection<VideoLearningItem> LearningItems { get; set; } = [];
