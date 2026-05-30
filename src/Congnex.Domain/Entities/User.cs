@@ -29,6 +29,9 @@ public class User : Entity
     public string Language { get; set; } = "en";
     public string? Motivations { get; set; }    // JSON array
 
+    // Token usage tracking
+    public long TotalTokensUsed { get; set; }
+
     // Refresh token (hashed)
     public string? RefreshTokenHash { get; set; }
     public DateTime? RefreshTokenExpiresAt { get; set; }
