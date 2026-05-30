@@ -15,6 +15,7 @@ public sealed class AIFoundrySettings
     public string Endpoint { get; init; } = string.Empty;
     public string ApiKey { get; init; } = string.Empty;
     public string DeploymentName { get; init; } = "gpt-4o";
+    public string MiniDeploymentName { get; init; } = "gpt-4.1-mini";
     public string ApiVersion { get; init; } = "2025-01-01-preview";
     public string EmbeddingDeploymentName { get; init; } = "text-embedding-3-small";
 }

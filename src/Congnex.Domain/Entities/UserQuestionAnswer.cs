@@ -13,6 +13,7 @@ public class UserQuestionAnswer : Entity
     public bool IsCorrect { get; set; }
     public int TimeSpentSeconds { get; set; }
     public DateTime AnsweredAt { get; set; } = DateTime.UtcNow;
+    public string? AiExplanation { get; set; }
 
     public User User { get; set; } = null!;
     public Lesson Lesson { get; set; } = null!;

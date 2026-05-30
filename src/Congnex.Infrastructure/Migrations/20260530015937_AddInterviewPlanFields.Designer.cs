@@ -4,6 +4,7 @@ using Congnex.Infrastructure.Persistence;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Congnex.Infrastructure.Migrations
 {
     [DbContext(typeof(CongnexDbContext))]
-    partial class CongnexDbContextModelSnapshot : ModelSnapshot
+    [Migration("20260530015937_AddInterviewPlanFields")]
+    partial class AddInterviewPlanFields
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -1039,9 +1042,6 @@ namespace Congnex.Infrastructure.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("char(36)")
                         .HasColumnName("id");
-
-                    b.Property<string>("AiExplanation")
-                        .HasColumnType("longtext");
 
                     b.Property<DateTime>("AnsweredAt")
                         .HasColumnType("datetime(6)")

@@ -1,4 +1,5 @@
 using Congnex.Application.Common;
+using Congnex.Application.Interfaces;
 using Congnex.Domain.Entities;
 using Congnex.Domain.Enums;
 using MediatR;
@@ -16,7 +17,7 @@ public record CompleteLessonCommand(
     int          Score,
     List<AnswerDto> Answers) : IRequest<CompleteLessonResult>;
 
-public sealed class CompleteLessonCommandHandler(ICongnexDbContext db)
+public sealed class CompleteLessonCommandHandler(ICongnexDbContext db, IXylaService xylaService)
     : IRequestHandler<CompleteLessonCommand, CompleteLessonResult>
 {
     public async Task<CompleteLessonResult> Handle(CompleteLessonCommand req, CancellationToken ct)
@@ -133,6 +134,9 @@ public sealed class CompleteLessonCommandHandler(ICongnexDbContext db)
         {
             // Concurrent completion call — ignore duplicate key violations
         }
+
+        // Fire-and-forget: generate next lesson (or first lesson of next unit) in background
+        await xylaService.GenerateNextLessonAsync(req.UserId, req.LessonId, ct);
 
         return new CompleteLessonResult(xpEarned, user.Xp, user.Streak);
     }

@@ -15,4 +15,11 @@ public interface IXylaService
         string correctAnswer,
         string? wrongAnswer,
         CancellationToken ct = default);
+
+    /// <summary>
+    /// Called after a lesson is completed. Generates the next lesson in the same unit,
+    /// or the first lesson of the next unit if the completed lesson was the last one.
+    /// Fire-and-forget internally; returns immediately.
+    /// </summary>
+    Task GenerateNextLessonAsync(Guid userId, Guid completedLessonId, CancellationToken ct = default);
 }

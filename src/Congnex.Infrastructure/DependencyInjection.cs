@@ -67,7 +67,9 @@ public static class DependencyInjection
             client.Timeout = TimeSpan.FromSeconds(15);
         });
 
-        // Semantic Kernel — singleton Kernel with the "xyla" chat completion service
+        // Semantic Kernel — singleton Kernel with "xyla" (gpt-4.1) and "xyla-mini" (gpt-4.1-mini)
+        // xyla      → interview agent (conversational, needs full model)
+        // xyla-mini → question generation (structured/deterministic, mini is sufficient)
         services.AddSingleton(sp =>
         {
             var azureOpts = sp.GetRequiredService<IOptions<AzureSettings>>().Value.AIFoundry;
@@ -77,6 +79,11 @@ public static class DependencyInjection
                     endpoint:       azureOpts.Endpoint,
                     apiKey:         azureOpts.ApiKey,
                     serviceId:      "xyla")
+                .AddAzureOpenAIChatCompletion(
+                    deploymentName: azureOpts.MiniDeploymentName,
+                    endpoint:       azureOpts.Endpoint,
+                    apiKey:         azureOpts.ApiKey,
+                    serviceId:      "xyla-mini")
                 .Build();
         });
 

@@ -207,9 +207,16 @@ public class XylaService : IXylaService
                                 transcript = await capturedTranscript.GetTranscriptAsync(
                                     capturedVideo.Url, CancellationToken.None);
 
-                            var questions = await GenerateQuestionsAsync(capturedPlan, transcript, CancellationToken.None);
+                            // Generate only Lesson 1 (index 0) — remaining lessons generated lazily on completion
+                            var block = await GenerateSingleLessonAsync(
+                                capturedPlan.CefrLevel,
+                                capturedPlan.StudentGoal,
+                                capturedPlan.Age?.ToString(),
+                                transcript,
+                                lessonIndex: 0,
+                                CancellationToken.None);
 
-                            if (questions is not null)
+                            if (block is not null)
                             {
                                 var targetStructures = new List<string>();
                                 if (!string.IsNullOrEmpty(capturedPlan.VideoTopic))
@@ -217,7 +224,9 @@ public class XylaService : IXylaService
                                 if (!string.IsNullOrEmpty(capturedPlan.StudentGoal))
                                     targetStructures.Add(capturedPlan.StudentGoal);
 
-                                await SaveLessonsAndQuestionsAsync(dbFactory, capturedUserId, capturedVideo, questions, transcript, targetStructures, CancellationToken.None);
+                                await SaveSingleLessonAsync(dbFactory, capturedUserId, capturedVideo,
+                                    block, unitOrderIndex: 1, lessonOrderIndex: 1,
+                                    transcript, targetStructures, CancellationToken.None);
                             }
 
                             await SaveInterviewAnswerAsync(dbFactory, capturedUserId, capturedPlan, capturedVideo, CancellationToken.None);
@@ -277,7 +286,7 @@ public class XylaService : IXylaService
         {
 #pragma warning disable SKEXP0001
             var result = await _kernel.InvokePromptAsync(prompt, new KernelArguments(
-                new AzureOpenAIPromptExecutionSettings { ServiceId = "xyla", MaxTokens = 150, Temperature = 0.5 }
+                new AzureOpenAIPromptExecutionSettings { ServiceId = "xyla-mini", MaxTokens = 150, Temperature = 0.5 }
             ), cancellationToken: ct);
 #pragma warning restore SKEXP0001
             return result.ToString().Trim();
@@ -289,38 +298,41 @@ public class XylaService : IXylaService
         }
     }
 
-    // ── Question generation ────────────────────────────────────────────────────
+    // ── Question generation (single lesson) ────────────────────────────────────
 
-    private async Task<LessonPlanDto?> GenerateQuestionsAsync(
-        InterviewPlanData plan,
+    // lessonIndex 0-4: Funções Comunicativas, Vocabulário, Gramática, Habilidades Receptivas, Completar a Frase
+    private async Task<LessonBlockDto?> GenerateSingleLessonAsync(
+        string cefrLevel,
+        string goal,
+        string? ageStr,
         string? transcript,
+        int lessonIndex,
         CancellationToken ct)
     {
         try
         {
-            var cefrLevel = plan.CefrLevel;
-            var goal      = plan.StudentGoal;
-            var age       = plan.Age?.ToString() ?? "adult";
-
+            var age = ageStr ?? "adult";
             var transcriptContext = transcript is { Length: > 0 }
                 ? transcript[..Math.Min(2500, transcript.Length)]
                 : "No transcript available. Generate questions appropriate for the student's level and goal.";
 
-            var prompt = BuildQuestionGenerationPrompt(cefrLevel, goal, age, transcriptContext);
+            var prompt = BuildSingleLessonPrompt(cefrLevel, goal, age, transcriptContext, lessonIndex);
 
 #pragma warning disable SKEXP0001
             var result = await _kernel.InvokePromptAsync(prompt, new KernelArguments(
                 new AzureOpenAIPromptExecutionSettings
                 {
-                    ServiceId   = "xyla",
-                    MaxTokens   = 4000,
+                    ServiceId   = "xyla-mini",
+                    MaxTokens   = 1200,
                     Temperature = 0.2
                 }
             ), cancellationToken: ct);
 #pragma warning restore SKEXP0001
 
-            var json = (result.GetValue<string>() ?? string.Empty).Trim();
+            var usage = result.Metadata?.GetValueOrDefault("Usage");
+            _logger.LogInformation("[AI] GenerateSingleLesson lessonIndex={Index} usage={Usage}", lessonIndex, usage);
 
+            var json = (result.GetValue<string>() ?? string.Empty).Trim();
             if (json.StartsWith("```"))
             {
                 json = Regex.Replace(json, @"^```(?:json)?\s*", "");
@@ -328,87 +340,64 @@ public class XylaService : IXylaService
                 json = json.Trim();
             }
 
-            var planDoc   = JsonDocument.Parse(json);
-            var lessonsEl = planDoc.RootElement.GetProperty("lessons");
-            var lessons   = new List<LessonBlockDto>();
+            var doc       = JsonDocument.Parse(json);
+            var title     = doc.RootElement.TryGetProperty("title", out var t) ? t.GetString() ?? LessonTitles[lessonIndex] : LessonTitles[lessonIndex];
+            var questions = new List<QuestionDto>();
 
-            foreach (var lessonEl in lessonsEl.EnumerateArray())
+            foreach (var qEl in doc.RootElement.GetProperty("questions").EnumerateArray())
             {
-                var title     = lessonEl.GetProperty("title").GetString() ?? "Lesson";
-                var questions = new List<QuestionDto>();
+                var questionText  = qEl.GetProperty("questionText").GetString()  ?? string.Empty;
+                var type          = qEl.TryGetProperty("type",      out var qt)  ? qt.GetString() ?? "multiple_choice" : "multiple_choice";
+                var correctAnswer = qEl.GetProperty("correctAnswer").GetString() ?? string.Empty;
+                var options       = qEl.GetProperty("options").EnumerateArray()
+                                       .Select(o => o.GetString() ?? string.Empty)
+                                       .ToList();
+                var difficulty    = qEl.TryGetProperty("difficulty", out var d)  ? d.GetString() ?? "easy" : "easy";
 
-                foreach (var qEl in lessonEl.GetProperty("questions").EnumerateArray())
-                {
-                    var questionText  = qEl.GetProperty("questionText").GetString()  ?? string.Empty;
-                    var type          = qEl.TryGetProperty("type",      out var t)   ? t.GetString() ?? "multiple_choice" : "multiple_choice";
-                    var correctAnswer = qEl.GetProperty("correctAnswer").GetString() ?? string.Empty;
-                    var options       = qEl.GetProperty("options").EnumerateArray()
-                                          .Select(o => o.GetString() ?? string.Empty)
-                                          .ToList();
-                    var difficulty    = qEl.TryGetProperty("difficulty", out var d)  ? d.GetString() ?? "easy" : "easy";
+                if (options.Count != 4) continue;
+                if (!options.Any(o => string.Equals(o, correctAnswer, StringComparison.OrdinalIgnoreCase))) continue;
+                if (options.Distinct(StringComparer.OrdinalIgnoreCase).Count() < 4) continue;
+                if (questionText.StartsWith("How ",    StringComparison.OrdinalIgnoreCase) ||
+                    questionText.StartsWith("What ",   StringComparison.OrdinalIgnoreCase) ||
+                    questionText.StartsWith("Which ",  StringComparison.OrdinalIgnoreCase) ||
+                    questionText.StartsWith("Choose ", StringComparison.OrdinalIgnoreCase) ||
+                    questionText.StartsWith("You read", StringComparison.OrdinalIgnoreCase))
+                    continue;
+                if (difficulty != "easy" && difficulty != "medium" && difficulty != "hard")
+                    difficulty = "easy";
 
-                    // ── Validation ──
-                    // 1. Must have exactly 4 options
-                    if (options.Count != 4) continue;
-
-                    // 2. correctAnswer must be in options
-                    if (!options.Any(o => string.Equals(o, correctAnswer, StringComparison.OrdinalIgnoreCase)))
-                        continue;
-
-                    // 3. Options must not be duplicates
-                    if (options.Distinct(StringComparer.OrdinalIgnoreCase).Count() < 4)
-                        continue;
-
-                    // 4. questionText must be in Portuguese (reject English questions)
-                    if (questionText.StartsWith("How ", StringComparison.OrdinalIgnoreCase) ||
-                        questionText.StartsWith("What ", StringComparison.OrdinalIgnoreCase) ||
-                        questionText.StartsWith("Which ", StringComparison.OrdinalIgnoreCase) ||
-                        questionText.StartsWith("Choose ", StringComparison.OrdinalIgnoreCase) ||
-                        questionText.StartsWith("You read", StringComparison.OrdinalIgnoreCase))
-                        continue;
-
-                    // 5. Normalize difficulty
-                    if (difficulty != "easy" && difficulty != "medium" && difficulty != "hard")
-                        difficulty = "easy";
-
-                    questions.Add(new QuestionDto(type, questionText, correctAnswer, options, difficulty));
-                }
-
-                // Ensure difficulty distribution if AI didn't follow instructions
-                if (questions.Count >= 10)
-                {
-                    for (int i = 0; i < questions.Count; i++)
-                    {
-                        var expectedDiff = i < 3 ? "easy" : i < 7 ? "medium" : "hard";
-                        if (questions[i].Difficulty == "easy" && expectedDiff != "easy")
-                        {
-                            questions[i] = questions[i] with { Difficulty = expectedDiff };
-                        }
-                    }
-                }
-
-                lessons.Add(new LessonBlockDto(title, questions));
+                questions.Add(new QuestionDto(type, questionText, correctAnswer, options, difficulty));
             }
 
-            _logger.LogInformation("Generated {LessonCount} lessons with {QuestionCount} total questions",
-                lessons.Count, lessons.Sum(l => l.Questions.Count));
+            // Enforce difficulty distribution
+            for (int i = 0; i < questions.Count; i++)
+            {
+                var expected = i < 3 ? "easy" : i < 7 ? "medium" : "hard";
+                if (questions[i].Difficulty == "easy" && expected != "easy")
+                    questions[i] = questions[i] with { Difficulty = expected };
+            }
 
-            return new LessonPlanDto(lessons);
+            _logger.LogInformation("[AI] Lesson {Index} generated: '{Title}' — {Count} questions",
+                lessonIndex, title, questions.Count);
+
+            return new LessonBlockDto(title, questions);
         }
         catch (Exception ex)
         {
-            _logger.LogError(ex, "Failed to generate questions");
+            _logger.LogError(ex, "Failed to generate lesson index {Index}", lessonIndex);
             return null;
         }
     }
 
-    // ── Persist lessons & questions ────────────────────────────────────────────
+    // ── Persist a single lesson ────────────────────────────────────────────────
 
-    private async Task SaveLessonsAndQuestionsAsync(
+    private async Task SaveSingleLessonAsync(
         IDbContextFactory<CongnexDbContext> dbFactory,
         Guid userId,
         VideoItem? video,
-        LessonPlanDto plan,
+        LessonBlockDto block,
+        int unitOrderIndex,
+        int lessonOrderIndex,
         string? transcript,
         List<string> targetStructures,
         CancellationToken ct)
@@ -417,140 +406,335 @@ public class XylaService : IXylaService
         {
             await using var db = await dbFactory.CreateDbContextAsync(ct);
 
-            var unit1 = await db.Units.FirstOrDefaultAsync(
-                u => u.OrderIndex == 1 && u.LanguageCode == "en", ct);
+            var unit = await db.Units.FirstOrDefaultAsync(
+                u => u.OrderIndex == unitOrderIndex && u.LanguageCode == "en", ct);
 
-            if (unit1 is null)
+            if (unit is null)
             {
-                _logger.LogWarning("Unit 1 not found, skipping lesson save for user {UserId}", userId);
+                _logger.LogWarning("Unit {UnitIndex} not found, skipping lesson save for user {UserId}",
+                    unitOrderIndex, userId);
                 return;
             }
 
-            for (int blockIndex = 0; blockIndex < plan.Lessons.Count; blockIndex++)
+            // Idempotency: skip if this lesson slot already exists for this user
+            var exists = await db.Lessons.AnyAsync(
+                l => l.UnitId == unit.Id && l.UserId == userId && l.OrderIndex == lessonOrderIndex, ct);
+            if (exists)
             {
-                var block  = plan.Lessons[blockIndex];
-                var lesson = new Lesson
+                _logger.LogDebug("Lesson {LessonIndex} unit {UnitIndex} already exists for user {UserId}, skipping",
+                    lessonOrderIndex, unitOrderIndex, userId);
+                return;
+            }
+
+            var lesson = new Lesson
+            {
+                UnitId     = unit.Id,
+                UserId     = userId,
+                OrderIndex = lessonOrderIndex,
+                Title      = block.Title,
+                XpReward   = 10
+            };
+
+            int qOrder = 0;
+            foreach (var qDto in block.Questions)
+            {
+                var question = new Question
                 {
-                    UnitId     = unit1.Id,
-                    UserId     = userId,
-                    OrderIndex = blockIndex + 1,
-                    Title      = block.Title,
-                    XpReward   = 10
+                    LessonId      = lesson.Id,
+                    Type          = qDto.Type,
+                    QuestionText  = qDto.QuestionText,
+                    CorrectAnswer = qDto.CorrectAnswer,
+                    OrderIndex    = qOrder++,
+                    Difficulty    = qDto.Difficulty
                 };
 
-                int qOrder = 0;
-                foreach (var qDto in block.Questions)
+                int optOrder = 0;
+                foreach (var optText in qDto.Options)
                 {
-                    var question = new Question
+                    question.Options.Add(new QuestionOption
                     {
-                        LessonId      = lesson.Id,
-                        Type          = qDto.Type,
-                        QuestionText  = qDto.QuestionText,
-                        CorrectAnswer = qDto.CorrectAnswer,
-                        OrderIndex    = qOrder++,
-                        Difficulty    = qDto.Difficulty
-                    };
-
-                    int optOrder = 0;
-                    foreach (var optText in qDto.Options)
-                    {
-                        question.Options.Add(new QuestionOption
-                        {
-                            QuestionId = question.Id,
-                            OptionText = optText,
-                            IsCorrect  = string.Equals(optText, qDto.CorrectAnswer, StringComparison.OrdinalIgnoreCase),
-                            OrderIndex = optOrder++
-                        });
-                    }
-
-                    lesson.Questions.Add(question);
+                        QuestionId = question.Id,
+                        OptionText = optText,
+                        IsCorrect  = string.Equals(optText, qDto.CorrectAnswer, StringComparison.OrdinalIgnoreCase),
+                        OrderIndex = optOrder++
+                    });
                 }
 
-                db.Lessons.Add(lesson);
+                lesson.Questions.Add(question);
+            }
 
-                if (blockIndex == 0 && video is not null)
+            db.Lessons.Add(lesson);
+
+            // Only attach video to lesson 1 of each unit
+            if (lessonOrderIndex == 1 && video is not null)
+            {
+                var youtubeId = ExtractYouTubeId(video.Url);
+                if (youtubeId is not null)
                 {
-                    var youtubeId = ExtractYouTubeId(video.Url);
-                    if (youtubeId is not null)
+                    int? startTime = null;
+                    int? endTime = null;
+                    int? videoDuration = null;
+
+                    try { videoDuration = await GetYouTubeDurationAsync(video.Url, ct); }
+                    catch { /* duration unknown */ }
+
+                    var hasTranscript = transcript is { Length: > 0 };
+
+                    if (videoDuration.HasValue && videoDuration.Value > 600)
                     {
-                        int? startTime = null;
-                        int? endTime = null;
-                        int? videoDuration = null;
-                        string fallbackReason = "none";
-
-                        try
+                        if (hasTranscript)
                         {
-                            videoDuration = await GetYouTubeDurationAsync(video.Url, ct);
-                        }
-                        catch { /* duration unknown */ }
-
-                        var hasTranscript = transcript is { Length: > 0 };
-
-                        if (videoDuration.HasValue && videoDuration.Value > 600)
-                        {
-                            if (hasTranscript)
+                            var segment = _segmentService.FindBestSegment(transcript!, targetStructures, videoDuration.Value);
+                            if (segment is not null)
                             {
-                                // Video > 10 min WITH transcript → find best segment
-                                var segment = _segmentService.FindBestSegment(transcript!, targetStructures, videoDuration.Value);
-                                if (segment is not null)
-                                {
-                                    startTime = segment.StartTime;
-                                    endTime = segment.EndTime;
-                                    _logger.LogInformation(
-                                        "[VideoSegment] userId={UserId} duration={Duration}s hasTranscript=true startTime={Start} endTime={End} score={Score}",
-                                        userId, videoDuration.Value, startTime, endTime, segment.Score);
-                                }
-                                else
-                                {
-                                    fallbackReason = "no_matching_segment";
-                                    // Limit to first 10 minutes as fallback
-                                    startTime = 0;
-                                    endTime = 600;
-                                }
+                                startTime = segment.StartTime;
+                                endTime   = segment.EndTime;
+                                _logger.LogInformation(
+                                    "[VideoSegment] userId={UserId} duration={Duration}s startTime={Start} endTime={End}",
+                                    userId, videoDuration.Value, startTime, endTime);
                             }
-                            else
-                            {
-                                // Video > 10 min WITHOUT transcript → limit to first 10 min
-                                fallbackReason = "no_transcript_long_video";
-                                startTime = 0;
-                                endTime = 600;
-                                _logger.LogWarning(
-                                    "[VideoSegment] userId={UserId} duration={Duration}s hasTranscript=false fallback=first_10_min",
-                                    userId, videoDuration.Value);
-                            }
+                            else { startTime = 0; endTime = 600; }
                         }
-                        else
-                        {
-                            // Video ≤ 10 min → play full
-                            _logger.LogInformation(
-                                "[VideoSegment] userId={UserId} duration={Duration}s hasTranscript={HasTranscript} action=play_full",
-                                userId, videoDuration ?? 0, hasTranscript);
-                        }
-
-                        db.LessonVideos.Add(new LessonVideo
-                        {
-                            LessonId       = lesson.Id,
-                            YoutubeVideoId = youtubeId,
-                            YoutubeUrl     = video.Url,
-                            Title          = video.Category,
-                            Language       = "en",
-                            DurationSeconds = videoDuration ?? 0,
-                            StartTime      = startTime,
-                            EndTime        = endTime,
-                        });
+                        else { startTime = 0; endTime = 600; }
                     }
+
+                    db.LessonVideos.Add(new LessonVideo
+                    {
+                        LessonId        = lesson.Id,
+                        YoutubeVideoId  = youtubeId,
+                        YoutubeUrl      = video.Url,
+                        Title           = video.Category,
+                        Language        = "en",
+                        DurationSeconds = videoDuration ?? 0,
+                        StartTime       = startTime,
+                        EndTime         = endTime,
+                    });
                 }
             }
 
             await db.SaveChangesAsync(ct);
-            _logger.LogInformation("Saved {LessonCount} personalized lessons for user {UserId}",
-                plan.Lessons.Count, userId);
+            _logger.LogInformation("Saved lesson {LessonIndex} unit {UnitIndex} for user {UserId}",
+                lessonOrderIndex, unitOrderIndex, userId);
         }
         catch (Exception ex)
         {
-            _logger.LogError(ex, "Failed to save lessons for user {UserId}", userId);
+            _logger.LogError(ex, "Failed to save lesson {LessonIndex} unit {UnitIndex} for user {UserId}",
+                lessonOrderIndex, unitOrderIndex, userId);
         }
     }
+
+    // ── Lazy lesson / unit generation (called after lesson completion) ─────────
+
+    public Task GenerateNextLessonAsync(Guid userId, Guid completedLessonId, CancellationToken ct = default)
+    {
+        // Capture scope factory — the request scope is disposed after this call returns,
+        // so we must create a fresh scope inside the background task (same pattern as StreamMessageAsync).
+        var scopeFactory = _scopeFactory;
+        var logger       = _logger;
+
+        _ = Task.Run(async () =>
+        {
+            await using var scope     = scopeFactory.CreateAsyncScope();
+            var dbFactory = scope.ServiceProvider.GetRequiredService<IDbContextFactory<CongnexDbContext>>();
+            try
+            {
+                await using var db = await dbFactory.CreateDbContextAsync(CancellationToken.None);
+
+                var lesson = await db.Lessons.FindAsync([completedLessonId], CancellationToken.None);
+                if (lesson is null) return;
+
+                var unitOrderIndex = await db.Units
+                    .Where(u => u.Id == lesson.UnitId)
+                    .Select(u => u.OrderIndex)
+                    .FirstOrDefaultAsync(CancellationToken.None);
+
+                if (lesson.OrderIndex < 5)
+                {
+                    await GenerateAndSaveLessonAsync(
+                        dbFactory, userId,
+                        unitOrderIndex,
+                        lesson.OrderIndex + 1,
+                        lesson.UnitId,
+                        CancellationToken.None);
+                }
+                else
+                {
+                    await GenerateNextUnitInternalAsync(dbFactory, userId, unitOrderIndex, CancellationToken.None);
+                }
+            }
+            catch (Exception ex)
+            {
+                logger.LogError(ex, "GenerateNextLessonAsync failed for user {UserId} completedLesson {LessonId}",
+                    userId, completedLessonId);
+            }
+        }, CancellationToken.None);
+
+        return Task.CompletedTask;
+    }
+
+    // Generates and saves a single lesson for an existing unit
+    private async Task GenerateAndSaveLessonAsync(
+        IDbContextFactory<CongnexDbContext> dbFactory,
+        Guid userId,
+        int unitOrderIndex,
+        int lessonOrderIndex,
+        Guid unitId,
+        CancellationToken ct)
+    {
+        await using var db = await dbFactory.CreateDbContextAsync(ct);
+
+        // Idempotency check
+        var exists = await db.Lessons.AnyAsync(
+            l => l.UnitId == unitId && l.UserId == userId && l.OrderIndex == lessonOrderIndex, ct);
+        if (exists)
+        {
+            _logger.LogDebug("Lesson {L} unit {U} already exists for user {UserId}", lessonOrderIndex, unitOrderIndex, userId);
+            return;
+        }
+
+        var interview = await db.UserInterviewAnswers
+            .Where(a => a.UserId == userId)
+            .OrderByDescending(a => a.CreatedAt)
+            .FirstOrDefaultAsync(ct);
+
+        if (interview is null)
+        {
+            _logger.LogWarning("No interview answer found for user {UserId}", userId);
+            return;
+        }
+
+        // Re-fetch transcript from the unit's video (stored in lesson 1)
+        var videoUrl = await db.Lessons
+            .Where(l => l.UnitId == unitId && l.UserId == userId && l.OrderIndex == 1)
+            .Join(db.LessonVideos, l => l.Id, v => v.LessonId, (l, v) => v.YoutubeUrl)
+            .FirstOrDefaultAsync(ct);
+
+        string? transcript = null;
+        if (!string.IsNullOrEmpty(videoUrl))
+        {
+            try { transcript = await _transcriptService.GetTranscriptAsync(videoUrl, ct); }
+            catch (Exception ex) { _logger.LogWarning(ex, "Failed to fetch transcript for {Url}", videoUrl); }
+        }
+
+        var lessonIndex = lessonOrderIndex - 1; // 0-based index for lesson type
+        var block = await GenerateSingleLessonAsync(
+            interview.EnglishLevel,
+            interview.StudentGoal,
+            interview.Age?.ToString(),
+            transcript,
+            lessonIndex,
+            ct);
+
+        if (block is null) return;
+
+        var targetStructures = new List<string>();
+        if (!string.IsNullOrEmpty(interview.VideoTopic)) targetStructures.Add(interview.VideoTopic);
+        if (!string.IsNullOrEmpty(interview.StudentGoal)) targetStructures.Add(interview.StudentGoal);
+
+        await SaveSingleLessonAsync(dbFactory, userId, video: null,
+            block, unitOrderIndex, lessonOrderIndex,
+            transcript, targetStructures, ct);
+    }
+
+    // Generates lesson 1 of the next unit with a new video (CEFR progression)
+    private async Task GenerateNextUnitInternalAsync(
+        IDbContextFactory<CongnexDbContext> dbFactory,
+        Guid userId,
+        int completedUnitOrderIndex,
+        CancellationToken ct)
+    {
+        var nextUnitOrderIndex = completedUnitOrderIndex + 1;
+        if (nextUnitOrderIndex > 10)
+        {
+            _logger.LogInformation("User {UserId} completed all 10 units", userId);
+            return;
+        }
+
+        await using var db = await dbFactory.CreateDbContextAsync(ct);
+
+        var nextUnit = await db.Units.FirstOrDefaultAsync(
+            u => u.OrderIndex == nextUnitOrderIndex && u.LanguageCode == "en", ct);
+        if (nextUnit is null)
+        {
+            _logger.LogWarning("Unit {UnitIndex} not found", nextUnitOrderIndex);
+            return;
+        }
+
+        // Idempotency — skip if lesson 1 already exists for user in this unit
+        var exists = await db.Lessons.AnyAsync(
+            l => l.UnitId == nextUnit.Id && l.UserId == userId, ct);
+        if (exists) return;
+
+        var interview = await db.UserInterviewAnswers
+            .Where(a => a.UserId == userId)
+            .OrderByDescending(a => a.CreatedAt)
+            .FirstOrDefaultAsync(ct);
+        if (interview is null) return;
+
+        // Progress CEFR level across units (pair of units per level: 1-2=A1, 3-4=A2, 5-6=B1, 7-8=B2, 9-10=C1)
+        var progressedCefr = ProgressCefrLevel(interview.EnglishLevel, nextUnitOrderIndex);
+
+        // Build a new unit-specific video query
+        var unitTopic = UnitTopics[Math.Min(nextUnitOrderIndex - 1, UnitTopics.Length - 1)];
+        var newVideoQuery = $"{interview.StudentGoal} english {progressedCefr} {unitTopic} lesson";
+        var newVideoTopic = $"{unitTopic} ({progressedCefr})";
+
+        VideoItem? video = null;
+        string? transcript = null;
+        try
+        {
+            video = await ResolveVideoItemAsync(newVideoTopic, newVideoQuery, ct);
+            if (video is not null)
+                transcript = await _transcriptService.GetTranscriptAsync(video.Url, ct);
+        }
+        catch (Exception ex)
+        {
+            _logger.LogWarning(ex, "Failed to resolve video for unit {Unit} user {UserId}", nextUnitOrderIndex, userId);
+        }
+
+        var block = await GenerateSingleLessonAsync(
+            progressedCefr,
+            interview.StudentGoal,
+            interview.Age?.ToString(),
+            transcript,
+            lessonIndex: 0,
+            ct);
+
+        if (block is null) return;
+
+        var targetStructures = new List<string> { unitTopic, interview.StudentGoal };
+
+        await SaveSingleLessonAsync(dbFactory, userId, video,
+            block, nextUnitOrderIndex, lessonOrderIndex: 1,
+            transcript, targetStructures, ct);
+
+        _logger.LogInformation("Generated unit {Unit} lesson 1 for user {UserId} (level {Level})",
+            nextUnitOrderIndex, userId, progressedCefr);
+    }
+
+    private static string ProgressCefrLevel(string baseLevel, int unitOrderIndex)
+    {
+        // Units 1-2 = base level, units 3-4 = +1, units 5-6 = +2, units 7-8 = +3, units 9-10 = +4
+        string[] levels = ["A1", "A2", "B1", "B2", "C1", "C2"];
+        var baseIdx = Array.IndexOf(levels, baseLevel.ToUpperInvariant());
+        if (baseIdx < 0) baseIdx = 0;
+        var steps = (unitOrderIndex - 1) / 2; // 0 for units 1-2, 1 for 3-4, etc.
+        return levels[Math.Min(baseIdx + steps, levels.Length - 1)];
+    }
+
+    private static readonly string[] UnitTopics =
+    [
+        "daily routines and greetings",       // unit 1
+        "family and personal life",           // unit 2
+        "shopping and money",                 // unit 3
+        "work and office",                    // unit 4
+        "travel and transport",               // unit 5
+        "health and appointments",            // unit 6
+        "technology and social media",        // unit 7
+        "culture and entertainment",          // unit 8
+        "business and negotiations",          // unit 9
+        "advanced conversation and debate",   // unit 10
+    ];
 
     // ── Persist interview answer ───────────────────────────────────────────────
 
@@ -565,10 +749,18 @@ public class XylaService : IXylaService
         {
             await using var db = await dbFactory.CreateDbContextAsync(ct);
 
+            // Idempotency: only one interview record per user
+            var alreadySaved = await db.UserInterviewAnswers.AnyAsync(a => a.UserId == userId, ct);
+            if (alreadySaved) return;
+
             db.UserInterviewAnswers.Add(new UserInterviewAnswer
             {
                 UserId        = userId,
                 EnglishLevel  = plan.CefrLevel,
+                StudentGoal   = plan.StudentGoal,
+                Age           = plan.Age,
+                VideoTopic    = plan.VideoTopic,
+                VideoQuery    = plan.VideoQuery,
                 VideoUrl      = video?.Url ?? string.Empty,
                 VideoCategory = video?.Category ?? string.Empty,
             });
@@ -675,107 +867,67 @@ public class XylaService : IXylaService
         return match.Success ? match.Groups[1].Value : null;
     }
 
-    private static string BuildQuestionGenerationPrompt(
-        string cefrLevel, string goal, string age, string transcript) => $$"""
-        VOCÊ É UM DESIGNER DE CURRÍCULO DE INGLÊS PARA ALUNOS BRASILEIROS.
-        O ALUNO NÃO SABE LER INGLÊS. TODAS AS PERGUNTAS DEVEM ESTAR EM PORTUGUÊS.
+    private static readonly string[] LessonTitles =
+    [
+        "Funcoes Comunicativas",
+        "Vocabulario",
+        "Gramatica",
+        "Habilidades Receptivas",
+        "Completar a Frase",
+    ];
 
-        ⚠️ REGRA ABSOLUTA: questionText DEVE SEMPRE ESTAR EM PORTUGUÊS ⚠️
-
-        Perfil do Aluno:
-        - Nível CEFR: {{cefrLevel}}
-        - Objetivo: {{goal}}
-        - Idade: {{age}}
-
-        Transcrição do vídeo (USE este vocabulário nas questões):
-        {{transcript}}
-
-        RESPONDA APENAS COM JSON (sem markdown, sem explicação):
+    private static string BuildSingleLessonPrompt(
+        string cefrLevel, string goal, string age, string transcript, int lessonIndex)
+    {
+        var lessonType = lessonIndex switch
         {
-          "lessons": [
+            0 => "FUNCOES COMUNICATIVAS: 10 questoes de traducao de frases uteis do dia a dia",
+            1 => "VOCABULARIO: 10 questoes sobre palavras do transcript e do contexto do aluno",
+            2 => "GRAMATICA: 10 questoes com frases com pequenas diferencas gramaticais",
+            3 => "HABILIDADES RECEPTIVAS: 10 questoes de compreensao de frases em contexto",
+            _ => "COMPLETAR A FRASE: 10 questoes completar com a palavra correta (type=complete_sentence, questionText com ___)",
+        };
+
+        return $$"""
+            VOCE E UM DESIGNER DE CURRICULO DE INGLES PARA ALUNOS BRASILEIROS.
+            O ALUNO NAO SABE LER INGLES. TODAS AS PERGUNTAS DEVEM ESTAR EM PORTUGUES.
+
+            Perfil do Aluno:
+            - Nivel CEFR: {{cefrLevel}}
+            - Objetivo: {{goal}}
+            - Idade: {{age}}
+
+            Transcricao do video (USE este vocabulario nas questoes):
+            {{transcript}}
+
+            GERE EXATAMENTE 1 LICAO do tipo: {{lessonType}}
+
+            RESPONDA APENAS COM JSON (sem markdown, sem explicacao):
             {
-              "title": "Funções Comunicativas",
-              "questions": [10 questões — tradução de frases úteis do dia a dia]
-            },
-            {
-              "title": "Vocabulário",
-              "questions": [10 questões — palavras do transcript e do contexto do aluno]
-            },
-            {
-              "title": "Gramática",
-              "questions": [10 questões — frases com pequenas diferenças gramaticais]
-            },
-            {
-              "title": "Habilidades Receptivas",
-              "questions": [10 questões — compreensão de frases em contexto]
-            },
-            {
-              "title": "Completar a Frase",
-              "questions": [10 questões — completar com a palavra correta]
+              "title": "{{LessonTitles[lessonIndex]}}",
+              "questions": [ ...10 questoes... ]
             }
-          ]
-        }
 
-        FORMATO DE CADA QUESTÃO:
-        {
-          "questionText": "pergunta em português",
-          "type": "multiple_choice",
-          "correctAnswer": "texto exato de uma das opções",
-          "options": ["opção A", "opção B", "opção C", "opção D"],
-          "difficulty": "easy" ou "medium" ou "hard"
-        }
+            FORMATO DE CADA QUESTAO:
+            {
+              "questionText": "pergunta em portugues",
+              "type": "multiple_choice",
+              "correctAnswer": "texto exato de uma das opcoes",
+              "options": ["opcao A", "opcao B", "opcao C", "opcao D"],
+              "difficulty": "easy" ou "medium" ou "hard"
+            }
 
-        ═══════════════════════════════════════════════
-        REGRA DE DIFICULDADE (OBRIGATÓRIA):
-        ═══════════════════════════════════════════════
-
-        Cada lição tem 10 questões com esta distribuição:
-        - Questões 1-3: difficulty = "easy"
-        - Questões 4-7: difficulty = "medium"
-        - Questões 8-10: difficulty = "hard"
-
-        EASY = tradução direta com distratores da mesma categoria
-        Exemplo: "Como se diz 'passport' em português?"
-        Opções: passaporte | passagem | mala | documento
-
-        MEDIUM = pergunta com contexto simples
-        Exemplo: "Você está no aeroporto e precisa mostrar um documento. Qual palavra combina?"
-        Opções: passport | boarding | suitcase | ticket
-
-        HARD = frases com diferenças gramaticais sutis ou erros comuns
-        Exemplo: "Qual frase está correta para perguntar se alguém fala inglês?"
-        Opções: Do you speak English? | You speak English? | Are you speak English? | Do you speaks English?
-
-        ═══════════════════════════════════════════════
-        REGRA DE DISTRATORES (OBRIGATÓRIA):
-        ═══════════════════════════════════════════════
-
-        As alternativas erradas DEVEM ser plausíveis:
-        - SEMPRE da mesma categoria semântica
-        - SEMPRE palavras que um aluno brasileiro poderia confundir
-        - NUNCA palavras aleatórias sem relação
-
-        PROIBIDO: Book → opções: chair, pizza, car (sem relação)
-        CORRETO: Book → opções: notebook, page, library (mesma categoria)
-
-        PROIBIDO: Airport → opções: banana, dog, happy
-        CORRETO: Airport → opções: station, terminal, port
-
-        ═══════════════════════════════════════════════
-        REGRA DE FORMATO (OBRIGATÓRIA):
-        ═══════════════════════════════════════════════
-
-        1. questionText SEMPRE em português
-        2. NUNCA começar com "What", "How", "Which", "Choose"
-        3. SEMPRE começar com: "Como se diz", "O que significa", "Qual a tradução", "Complete:", "Qual frase", "Você está em"
-        4. Se pergunta PT→EN: opções em inglês
-        5. Se pergunta EN→PT: opções em português
-        6. NUNCA misturar idiomas nas opções
-        7. correctAnswer EXATAMENTE igual a uma das 4 opções
-        8. Bloco 5: type = "complete_sentence", questionText com ___
-        9. Usar vocabulário da transcrição quando possível
-        10. Adaptar ao nível {{cefrLevel}} e objetivo: {{goal}}
-        """;
+            REGRA DE DIFICULDADE: questoes 1-3=easy, 4-7=medium, 8-10=hard
+            REGRA DE DISTRATORERS: alternativas erradas da mesma categoria semantica
+            REGRA DE FORMATO:
+            1. questionText SEMPRE em portugues
+            2. NUNCA comecar com "What", "How", "Which", "Choose"
+            3. SEMPRE comecar com: "Como se diz", "O que significa", "Qual a traducao", "Complete:", "Qual frase", "Voce esta em"
+            4. correctAnswer EXATAMENTE igual a uma das 4 opcoes
+            5. NUNCA misturar idiomas nas opcoes
+            6. Adaptar ao nivel {{cefrLevel}} e objetivo: {{goal}}
+            """;
+    }
 
     // ── Agent instructions ─────────────────────────────────────────────────────
 
