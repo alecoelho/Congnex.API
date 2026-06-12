@@ -1,0 +1,37 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+*.vs/
+.vs/
+*.DotSettings.user
+
+## Secrets / config
+appsettings.Development.json
+appsettings.Production.json
+*.pfx
+*.p12
+secrets.json
+
+## Migrations output (keep migrations source, ignore snapshots if desired)
+# Uncomment if you don't want to track migrations:
+# **/Migrations/
+
+## Rider / VS / VSCode
+.idea/
+*.sln.iml
+.vscode/
+*.DS_Store
+
+## Test results
+TestResults/
+coverage/
+*.trx
+*.coveragexml
+
+## NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
