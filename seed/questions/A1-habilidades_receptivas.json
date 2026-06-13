@@ -1,0 +1,1202 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você lê: 'I wake up at 7am'. O que isso significa?",
+    "correctAnswer": "Eu acordo às 7 da manhã",
+    "options": ["Eu acordo às 7 da manhã", "Eu vou dormir às 7 da manhã", "Eu tomo café às 7 da noite", "Eu saio de casa às 7 da manhã"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você lê: 'I go to bed at 10pm'. O que isso significa?",
+    "correctAnswer": "Eu vou dormir às 10 da noite",
+    "options": ["Eu vou dormir às 10 da noite", "Eu acordo às 10 da manhã", "Eu janto às 10 da noite", "Eu arrumo a cama às 10 da manhã"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você lê: 'She brushes her teeth every morning'. O que isso significa?",
+    "correctAnswer": "Ela escova os dentes toda manhã",
+    "options": ["Ela escova os dentes toda manhã", "Ela escova o cabelo toda noite", "Ela lava o rosto toda manhã", "Ela vai ao dentista toda semana"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você lê: 'I take a shower before breakfast'. O que isso significa?",
+    "correctAnswer": "Eu tomo banho antes do café da manhã",
+    "options": ["Eu tomo banho antes do café da manhã", "Eu tomo banho depois do café da manhã", "Eu tomo café da manhã no banheiro", "Eu lavo a louça antes do café da manhã"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você lê: 'He walks to school every day'. O que isso significa?",
+    "correctAnswer": "Ele vai à escola a pé todos os dias",
+    "options": ["Ele vai à escola a pé todos os dias", "Ele vai à escola de ônibus todos os dias", "Ele caminha no parque todos os dias", "Ele corre para a escola uma vez por semana"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você recebe a mensagem: 'We have lunch at noon'. O que a pessoa quer dizer?",
+    "correctAnswer": "Nós almoçamos ao meio-dia",
+    "options": ["Nós almoçamos ao meio-dia", "Nós jantamos à meia-noite", "Nós tomamos café ao meio-dia", "Nós almoçamos à noite"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você lê: 'I watch TV at night'. O que isso significa?",
+    "correctAnswer": "Eu assisto televisão à noite",
+    "options": ["Eu assisto televisão à noite", "Eu assisto televisão de manhã", "Eu ouço rádio à noite", "Eu desligo a televisão à noite"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você lê: 'I usually get up early on weekdays'. O que isso significa?",
+    "correctAnswer": "Eu geralmente me levanto cedo nos dias de semana",
+    "options": ["Eu geralmente me levanto cedo nos dias de semana", "Eu sempre me levanto tarde nos fins de semana", "Eu nunca me levanto cedo durante a semana", "Eu geralmente durmo cedo nos dias de semana"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você lê: 'She sometimes reads a book before sleeping'. O que isso significa?",
+    "correctAnswer": "Ela às vezes lê um livro antes de dormir",
+    "options": ["Ela às vezes lê um livro antes de dormir", "Ela sempre lê um livro depois de acordar", "Ela nunca lê livros à noite", "Ela escreve um livro antes de dormir"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você recebe a mensagem: 'I am always busy in the morning'. O que a pessoa quer dizer?",
+    "correctAnswer": "Ela está sempre ocupada de manhã",
+    "options": ["Ela está sempre ocupada de manhã", "Ela está sempre livre de manhã", "Ela está sempre cansada à noite", "Ela está ocupada somente à tarde"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você lê: 'The meeting is at 9am'. O que isso significa?",
+    "correctAnswer": "A reunião é às 9 da manhã",
+    "options": ["A reunião é às 9 da manhã", "A reunião é às 9 da noite", "O almoço é às 9 da manhã", "A reunião foi cancelada"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você lê: 'I work in an office'. O que isso significa?",
+    "correctAnswer": "Eu trabalho em um escritório",
+    "options": ["Eu trabalho em um escritório", "Eu trabalho em uma loja", "Eu moro em um escritório", "Eu estudo em um escritório"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você recebe a mensagem: 'My boss is very nice'. O que a pessoa quer dizer?",
+    "correctAnswer": "O chefe dela é muito simpático",
+    "options": ["O chefe dela é muito simpático", "O chefe dela é muito bravo", "O colega dela é muito simpático", "O chefe dela está muito ocupado"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você recebe o e-mail: 'Please call me today'. O que a pessoa quer dizer?",
+    "correctAnswer": "Ela pede para você ligar para ela hoje",
+    "options": ["Ela pede para você ligar para ela hoje", "Ela vai ligar para você amanhã", "Ela pede para você visitá-la hoje", "Ela pede para você escrever um e-mail hoje"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você vê o aviso: 'The printer is broken'. O que ele indica?",
+    "correctAnswer": "A impressora está quebrada",
+    "options": ["A impressora está quebrada", "A impressora é nova", "O computador está quebrado", "A impressora está sem papel"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você vê a placa no escritório: 'Staff only'. O que ela indica?",
+    "correctAnswer": "Entrada permitida somente para funcionários",
+    "options": ["Entrada permitida somente para funcionários", "Entrada permitida somente para clientes", "Sala de reunião ocupada", "Funcionários em horário de almoço"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você recebe a mensagem: 'I am late for work'. O que a pessoa quer dizer?",
+    "correctAnswer": "Ela está atrasada para o trabalho",
+    "options": ["Ela está atrasada para o trabalho", "Ela chegou cedo ao trabalho", "Ela está saindo do trabalho", "Ela está de folga do trabalho"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você recebe o e-mail: 'Please send the report before Friday'. O que a pessoa quer dizer?",
+    "correctAnswer": "Ela pede o relatório antes de sexta-feira",
+    "options": ["Ela pede o relatório antes de sexta-feira", "Ela vai enviar o relatório na sexta-feira", "Ela pede o relatório depois de sexta-feira", "Ela pede uma reunião na sexta-feira"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você vê o aviso: 'The office is closed today'. O que ele indica?",
+    "correctAnswer": "O escritório está fechado hoje",
+    "options": ["O escritório está fechado hoje", "O escritório abre mais tarde hoje", "O escritório está aberto hoje", "O escritório fecha amanhã"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você recebe a mensagem: 'Can you help me with this task?'. O que a pessoa quer dizer?",
+    "correctAnswer": "Ela está pedindo sua ajuda com uma tarefa",
+    "options": ["Ela está pedindo sua ajuda com uma tarefa", "Ela está oferecendo ajuda com uma tarefa", "Ela terminou a tarefa sozinha", "Ela quer cancelar a tarefa"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você vê a placa no aeroporto: 'Exit'. O que ela indica?",
+    "correctAnswer": "Saída",
+    "options": ["Saída", "Entrada", "Embarque", "Banheiro"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você vê a placa no aeroporto: 'Gate 5'. O que ela indica?",
+    "correctAnswer": "Portão de embarque número 5",
+    "options": ["Portão de embarque número 5", "Assento número 5", "Voo número 5", "Esteira de bagagem número 5"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você lê: 'The hotel is near the beach'. O que isso significa?",
+    "correctAnswer": "O hotel fica perto da praia",
+    "options": ["O hotel fica perto da praia", "O hotel fica longe da praia", "O hotel fica perto do aeroporto", "O hotel tem vista para a montanha"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você vê o aviso no painel: 'Your flight is delayed'. O que ele indica?",
+    "correctAnswer": "Seu voo está atrasado",
+    "options": ["Seu voo está atrasado", "Seu voo foi cancelado", "Seu voo está adiantado", "Seu voo já partiu"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você vê a placa no aeroporto: 'Baggage claim'. O que ela indica?",
+    "correctAnswer": "Local de retirada de bagagem",
+    "options": ["Local de retirada de bagagem", "Local de despacho de bagagem", "Achados e perdidos", "Loja de malas"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você recebe a mensagem do hotel: 'Breakfast is from 7 to 10am'. O que ela quer dizer?",
+    "correctAnswer": "O café da manhã é servido das 7 às 10 da manhã",
+    "options": ["O café da manhã é servido das 7 às 10 da manhã", "O jantar é servido das 7 às 10 da noite", "O café da manhã custa 10 dólares", "O restaurante fecha às 7 da manhã"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você lê: 'The bus leaves at 8pm'. O que isso significa?",
+    "correctAnswer": "O ônibus parte às 8 da noite",
+    "options": ["O ônibus parte às 8 da noite", "O ônibus chega às 8 da manhã", "O trem parte às 8 da noite", "O ônibus está atrasado 8 minutos"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você vê o aviso: 'Please show your passport at the desk'. O que ele indica?",
+    "correctAnswer": "Você deve mostrar seu passaporte no balcão",
+    "options": ["Você deve mostrar seu passaporte no balcão", "Você deve deixar seu passaporte no hotel", "Você pode retirar seu passaporte no balcão", "Você deve renovar seu passaporte no balcão"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você lê no quarto do hotel: 'Check-out is at noon'. O que isso significa?",
+    "correctAnswer": "A saída do hotel deve ser feita até o meio-dia",
+    "options": ["A saída do hotel deve ser feita até o meio-dia", "A entrada no hotel é à meia-noite", "O almoço é servido ao meio-dia", "A limpeza do quarto é ao meio-dia"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você vê a placa: 'No entry without a boarding pass'. O que ela indica?",
+    "correctAnswer": "É proibido entrar sem o cartão de embarque",
+    "options": ["É proibido entrar sem o cartão de embarque", "É proibido entrar sem o passaporte", "O embarque está fechado no momento", "Cartões de embarque são vendidos aqui"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você lê: 'I have a headache'. O que isso significa?",
+    "correctAnswer": "Eu estou com dor de cabeça",
+    "options": ["Eu estou com dor de cabeça", "Eu estou com dor de barriga", "Eu estou com febre", "Eu estou com sono"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você lê: 'The doctor is here'. O que isso significa?",
+    "correctAnswer": "O médico está aqui",
+    "options": ["O médico está aqui", "O médico está de férias", "O dentista está aqui", "O médico chegará amanhã"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você vê a placa na rua: 'Pharmacy'. O que ela indica?",
+    "correctAnswer": "Farmácia",
+    "options": ["Farmácia", "Hospital", "Consultório médico", "Laboratório"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você lê na receita: 'Take this medicine twice a day'. O que isso significa?",
+    "correctAnswer": "Tome este remédio duas vezes ao dia",
+    "options": ["Tome este remédio duas vezes ao dia", "Tome este remédio uma vez ao dia", "Tome dois remédios por semana", "Tome este remédio a cada duas horas"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você recebe a mensagem: 'My arm hurts'. O que a pessoa quer dizer?",
+    "correctAnswer": "O braço dela está doendo",
+    "options": ["O braço dela está doendo", "A perna dela está doendo", "Ela quebrou o braço", "O braço dela está melhor"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você recebe a mensagem da clínica: 'Your appointment is at 3pm'. O que ela quer dizer?",
+    "correctAnswer": "Sua consulta é às 3 da tarde",
+    "options": ["Sua consulta é às 3 da tarde", "Sua consulta é às 3 da manhã", "Sua consulta foi cancelada", "Sua consulta é daqui a 3 dias"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você vê o aviso no hospital: 'Wash your hands'. O que ele indica?",
+    "correctAnswer": "Lave as mãos",
+    "options": ["Lave as mãos", "Use luvas", "Lave o rosto", "Mantenha silêncio"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você lê a orientação do médico: 'Drink water and rest at home'. O que isso significa?",
+    "correctAnswer": "Beba água e descanse em casa",
+    "options": ["Beba água e descanse em casa", "Beba suco e volte ao trabalho", "Tome remédio e fique no hospital", "Evite água e faça exercícios em casa"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você lê a instrução: 'Do not eat before the exam'. O que isso significa?",
+    "correctAnswer": "Não coma antes do exame",
+    "options": ["Não coma antes do exame", "Coma bem antes do exame", "Não beba depois do exame", "Não durma antes do exame"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você recebe a mensagem: 'She feels sick today'. O que a pessoa quer dizer?",
+    "correctAnswer": "Ela está se sentindo doente hoje",
+    "options": ["Ela está se sentindo doente hoje", "Ela está se sentindo bem hoje", "Ela está no médico hoje", "Ela ficou doente na semana passada"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você lê: 'Our client is from Japan'. O que isso significa?",
+    "correctAnswer": "Nosso cliente é do Japão",
+    "options": ["Nosso cliente é do Japão", "Nosso chefe é do Japão", "Nosso cliente está no Japão agora", "Nossa empresa fica no Japão"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você lê: 'The company is big'. O que isso significa?",
+    "correctAnswer": "A empresa é grande",
+    "options": ["A empresa é grande", "A empresa é pequena", "A empresa é nova", "A empresa é famosa"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você vê a placa: 'The meeting room is on the second floor'. O que ela indica?",
+    "correctAnswer": "A sala de reunião fica no segundo andar",
+    "options": ["A sala de reunião fica no segundo andar", "A sala de reunião fica no térreo", "O escritório fica no segundo andar", "A recepção fica no segundo andar"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você recebe a mensagem: 'We have a new project'. O que a pessoa quer dizer?",
+    "correctAnswer": "Eles têm um novo projeto",
+    "options": ["Eles têm um novo projeto", "Eles cancelaram um projeto", "Eles terminaram um projeto", "Eles têm um novo escritório"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você recebe o e-mail: 'Thank you for your order'. O que a empresa quer dizer?",
+    "correctAnswer": "A empresa agradece pelo seu pedido",
+    "options": ["A empresa agradece pelo seu pedido", "A empresa cancelou seu pedido", "A empresa pede um novo pedido", "A empresa agradece pela sua visita"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você recebe a mensagem: 'The contract is ready'. O que a pessoa quer dizer?",
+    "correctAnswer": "O contrato está pronto",
+    "options": ["O contrato está pronto", "O contrato foi cancelado", "O contrato está atrasado", "O contrato precisa de mudanças"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você lê no relatório: 'Our sales are good this month'. O que isso significa?",
+    "correctAnswer": "As vendas estão boas neste mês",
+    "options": ["As vendas estão boas neste mês", "As vendas estão ruins neste mês", "As vendas foram boas no ano passado", "Os preços estão bons neste mês"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você recebe o e-mail: 'Please sign the document and send it back'. O que a pessoa quer dizer?",
+    "correctAnswer": "Ela pede para você assinar o documento e devolvê-lo",
+    "options": ["Ela pede para você assinar o documento e devolvê-lo", "Ela pede para você ler o documento e guardá-lo", "Ela vai assinar o documento e enviá-lo a você", "Ela pede para você imprimir o documento e arquivá-lo"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você recebe a mensagem: 'The deadline is next week'. O que a pessoa quer dizer?",
+    "correctAnswer": "O prazo final é na próxima semana",
+    "options": ["O prazo final é na próxima semana", "A reunião é na próxima semana", "O prazo final foi na semana passada", "O projeto começa na próxima semana"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você recebe o e-mail: 'We need more time for this project'. O que a empresa quer dizer?",
+    "correctAnswer": "Eles precisam de mais tempo para o projeto",
+    "options": ["Eles precisam de mais tempo para o projeto", "Eles precisam de mais dinheiro para o projeto", "Eles terminaram o projeto antes do prazo", "Eles querem cancelar o projeto"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você vê o aviso: 'Turn off your phone'. O que ele indica?",
+    "correctAnswer": "Desligue o seu celular",
+    "options": ["Desligue o seu celular", "Ligue o seu celular", "Carregue o seu celular", "Coloque o celular no silencioso"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você lê: 'The computer is new'. O que isso significa?",
+    "correctAnswer": "O computador é novo",
+    "options": ["O computador é novo", "O computador é velho", "O celular é novo", "O computador está quebrado"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você recebe a mensagem: 'I have a new laptop'. O que a pessoa quer dizer?",
+    "correctAnswer": "Ela tem um notebook novo",
+    "options": ["Ela tem um notebook novo", "Ela quer comprar um notebook", "Ela perdeu o notebook", "Ela tem um tablet novo"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você vê a placa no café: 'Free Wi-Fi here'. O que ela indica?",
+    "correctAnswer": "Há Wi-Fi gratuito neste local",
+    "options": ["Há Wi-Fi gratuito neste local", "O Wi-Fi é pago neste local", "Não há Wi-Fi neste local", "O Wi-Fi está fora do ar"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você vê o aviso no celular: 'The battery is low'. O que ele indica?",
+    "correctAnswer": "A bateria está fraca",
+    "options": ["A bateria está fraca", "A bateria está cheia", "O celular está desligado", "O carregador está conectado"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você lê no site: 'Click here to download'. O que isso significa?",
+    "correctAnswer": "Clique aqui para baixar",
+    "options": ["Clique aqui para baixar", "Clique aqui para enviar", "Clique aqui para pagar", "Clique aqui para imprimir"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você recebe a mensagem: 'The internet is slow today'. O que a pessoa quer dizer?",
+    "correctAnswer": "A internet está lenta hoje",
+    "options": ["A internet está lenta hoje", "A internet está rápida hoje", "A internet caiu hoje", "A internet ficará lenta amanhã"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você lê o aviso do sistema: 'Please update your password every month'. O que ele indica?",
+    "correctAnswer": "Você deve atualizar sua senha todo mês",
+    "options": ["Você deve atualizar sua senha todo mês", "Você deve criar uma senha nova todo dia", "Sua senha expira hoje", "Você esqueceu sua senha este mês"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você lê no computador: 'Restart your computer to install updates'. O que isso significa?",
+    "correctAnswer": "Reinicie o computador para instalar as atualizações",
+    "options": ["Reinicie o computador para instalar as atualizações", "Desligue o computador para apagar as atualizações", "Compre um computador novo com atualizações", "As atualizações já foram instaladas com sucesso"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você lê no aplicativo: 'This app is free for seven days'. O que isso significa?",
+    "correctAnswer": "O aplicativo é gratuito por sete dias",
+    "options": ["O aplicativo é gratuito por sete dias", "O aplicativo é sempre gratuito", "O aplicativo custa sete dólares", "O aplicativo será lançado em sete dias"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você vê a etiqueta na loja: 'Sale - 50% off'. O que ela indica?",
+    "correctAnswer": "Promoção com 50% de desconto",
+    "options": ["Promoção com 50% de desconto", "Aumento de 50% no preço", "Restam apenas 50 unidades", "Promoção válida por 50 dias"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você vê a placa na porta da loja: 'Open'. O que ela indica?",
+    "correctAnswer": "A loja está aberta",
+    "options": ["A loja está aberta", "A loja está fechada", "A loja está em reforma", "A loja abre em breve"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você lê a etiqueta: 'This shirt is ten dollars'. O que isso significa?",
+    "correctAnswer": "Esta camisa custa dez dólares",
+    "options": ["Esta camisa custa dez dólares", "Esta calça custa dez dólares", "Esta camisa custa dois dólares", "Esta camisa está com dez por cento de desconto"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você vê o cartaz: 'Buy one, get one free'. O que ele indica?",
+    "correctAnswer": "Compre um e leve outro grátis",
+    "options": ["Compre um e leve outro grátis", "Compre um e ganhe um desconto", "Compre dois e pague três", "O primeiro produto é grátis"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você vê o aviso no caixa: 'Cash only'. O que ele indica?",
+    "correctAnswer": "Aceitamos somente dinheiro",
+    "options": ["Aceitamos somente dinheiro", "Aceitamos somente cartão", "Não aceitamos dinheiro", "Caixa fechado no momento"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você vê o aviso: 'The fitting room is closed'. O que ele indica?",
+    "correctAnswer": "O provador está fechado",
+    "options": ["O provador está fechado", "O provador está ocupado", "A loja está fechada", "O caixa está fechado"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você vê a placa: 'The store closes at 8pm'. O que ela indica?",
+    "correctAnswer": "A loja fecha às 8 da noite",
+    "options": ["A loja fecha às 8 da noite", "A loja abre às 8 da noite", "A loja fecha às 8 da manhã", "A loja fica aberta por 8 horas"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você lê no caixa: 'You can pay by card or cash'. O que isso significa?",
+    "correctAnswer": "Você pode pagar com cartão ou dinheiro",
+    "options": ["Você pode pagar com cartão ou dinheiro", "Você só pode pagar com cartão", "Você só pode pagar com dinheiro", "Você pode pagar em duas parcelas"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você vê o aviso na prateleira: 'This product is out of stock'. O que ele indica?",
+    "correctAnswer": "Este produto está esgotado",
+    "options": ["Este produto está esgotado", "Este produto está em promoção", "Este produto é novo na loja", "Este produto está fora da caixa"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você vê o aviso: 'Show your receipt at the exit'. O que ele indica?",
+    "correctAnswer": "Mostre sua nota fiscal na saída",
+    "options": ["Mostre sua nota fiscal na saída", "Guarde sua nota fiscal em casa", "Pegue sua nota fiscal na entrada", "Pague sua compra na saída"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você lê: 'The class starts at 8am'. O que isso significa?",
+    "correctAnswer": "A aula começa às 8 da manhã",
+    "options": ["A aula começa às 8 da manhã", "A aula termina às 8 da manhã", "A aula começa às 8 da noite", "A escola abre às 8 da noite"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você lê no quadro: 'Open your books'. O que isso significa?",
+    "correctAnswer": "Abram seus livros",
+    "options": ["Abram seus livros", "Fechem seus livros", "Guardem seus livros", "Comprem seus livros"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você recebe a mensagem: 'The test is tomorrow'. O que ela quer dizer?",
+    "correctAnswer": "A prova é amanhã",
+    "options": ["A prova é amanhã", "A prova foi ontem", "A prova é hoje", "A prova foi cancelada"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você vê a placa: 'Library - silence please'. O que ela indica?",
+    "correctAnswer": "Biblioteca - faça silêncio, por favor",
+    "options": ["Biblioteca - faça silêncio, por favor", "Biblioteca - fechada para almoço", "Biblioteca - entrada somente com cartão", "Biblioteca - devolva os livros aqui"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você lê no caderno: 'Do your homework tonight'. O que isso significa?",
+    "correctAnswer": "Faça sua lição de casa hoje à noite",
+    "options": ["Faça sua lição de casa hoje à noite", "Entregue sua lição de casa amanhã de manhã", "Faça sua lição de casa na escola", "Estude para a prova hoje à noite"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você recebe a mensagem da escola: 'The teacher is absent today'. O que ela quer dizer?",
+    "correctAnswer": "O professor está ausente hoje",
+    "options": ["O professor está ausente hoje", "O professor está atrasado hoje", "O professor é novo na escola", "O professor está doente há uma semana"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você lê a instrução: 'Read pages ten to twenty'. O que isso significa?",
+    "correctAnswer": "Leia das páginas dez até vinte",
+    "options": ["Leia das páginas dez até vinte", "Leia dez páginas em vinte minutos", "Escreva nas páginas dez e vinte", "Leia vinte páginas até as dez horas"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você lê o recado: 'Bring your dictionary to the next class'. O que isso significa?",
+    "correctAnswer": "Traga seu dicionário para a próxima aula",
+    "options": ["Traga seu dicionário para a próxima aula", "Compre um dicionário depois da aula", "Deixe seu dicionário na sala de aula", "Devolva o dicionário na próxima aula"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você vê o aviso na escola: 'There is no class on Friday'. O que ele indica?",
+    "correctAnswer": "Não haverá aula na sexta-feira",
+    "options": ["Não haverá aula na sexta-feira", "Haverá aula extra na sexta-feira", "A aula de sexta-feira será mais cedo", "Não haverá prova na sexta-feira"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você lê na prova: 'Write your name at the top of the page'. O que isso significa?",
+    "correctAnswer": "Escreva seu nome no topo da página",
+    "options": ["Escreva seu nome no topo da página", "Escreva seu nome no final da página", "Escreva a data no topo da página", "Assine a prova no verso da página"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você lê: 'I have two brothers'. O que isso significa?",
+    "correctAnswer": "Eu tenho dois irmãos",
+    "options": ["Eu tenho dois irmãos", "Eu tenho duas irmãs", "Eu tenho dois primos", "Eu tenho dois filhos"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você lê: 'My mother is a teacher'. O que isso significa?",
+    "correctAnswer": "Minha mãe é professora",
+    "options": ["Minha mãe é professora", "Minha mãe é médica", "Minha irmã é professora", "Minha mãe é estudante"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você lê: 'This is my husband'. O que isso significa?",
+    "correctAnswer": "Este é meu marido",
+    "options": ["Este é meu marido", "Esta é minha esposa", "Este é meu irmão", "Este é meu pai"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você recebe a mensagem: 'My sister lives in London'. O que a pessoa quer dizer?",
+    "correctAnswer": "A irmã dela mora em Londres",
+    "options": ["A irmã dela mora em Londres", "A irmã dela está viajando para Londres", "A prima dela mora em Londres", "A irmã dela trabalha em Londres"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você lê: 'We visit our grandmother on Sundays'. O que isso significa?",
+    "correctAnswer": "Nós visitamos nossa avó aos domingos",
+    "options": ["Nós visitamos nossa avó aos domingos", "Nossa avó nos visita aos domingos", "Nós visitamos nossa tia aos sábados", "Nós moramos com nossa avó"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você recebe a mensagem: 'My son is five years old'. O que a pessoa quer dizer?",
+    "correctAnswer": "O filho dela tem cinco anos",
+    "options": ["O filho dela tem cinco anos", "A filha dela tem cinco anos", "O filho dela faz aniversário em cinco dias", "Ela tem cinco filhos"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você recebe a mensagem: 'Happy birthday, my love!'. O que a pessoa quer dizer?",
+    "correctAnswer": "Ela está desejando feliz aniversário a alguém querido",
+    "options": ["Ela está desejando feliz aniversário a alguém querido", "Ela está desejando feliz Natal a alguém querido", "Ela está convidando alguém para uma festa", "Ela está parabenizando alguém pelo casamento"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você recebe a mensagem: 'My cousin is getting married next month'. O que a pessoa quer dizer?",
+    "correctAnswer": "O primo dela vai se casar no próximo mês",
+    "options": ["O primo dela vai se casar no próximo mês", "O primo dela se casou no mês passado", "O irmão dela vai se casar no próximo mês", "O primo dela vai viajar no próximo mês"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você recebe a mensagem: 'I miss you very much'. O que a pessoa quer dizer?",
+    "correctAnswer": "Ela está com muita saudade de você",
+    "options": ["Ela está com muita saudade de você", "Ela gosta muito de você", "Ela quer visitar você amanhã", "Ela está muito brava com você"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você recebe a mensagem: 'My parents are visiting us this weekend'. O que a pessoa quer dizer?",
+    "correctAnswer": "Os pais dela vão visitá-los neste fim de semana",
+    "options": ["Os pais dela vão visitá-los neste fim de semana", "Ela vai visitar os pais neste fim de semana", "Os avós dela vão visitá-los neste fim de semana", "Os pais dela visitaram no fim de semana passado"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você lê: 'I like pizza'. O que isso significa?",
+    "correctAnswer": "Eu gosto de pizza",
+    "options": ["Eu gosto de pizza", "Eu não gosto de pizza", "Eu quero comprar pizza", "Eu sei fazer pizza"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você lê no cardápio: 'Coffee - two dollars'. O que isso significa?",
+    "correctAnswer": "O café custa dois dólares",
+    "options": ["O café custa dois dólares", "O chá custa dois dólares", "Dois cafés custam um dólar", "O café está em promoção hoje"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você vê a placa: 'The restaurant is open'. O que ela indica?",
+    "correctAnswer": "O restaurante está aberto",
+    "options": ["O restaurante está aberto", "O restaurante está fechado", "O restaurante está cheio", "O restaurante é novo"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você recebe a mensagem: 'I am vegetarian'. O que a pessoa quer dizer?",
+    "correctAnswer": "Ela é vegetariana e não come carne",
+    "options": ["Ela é vegetariana e não come carne", "Ela adora comer carne", "Ela está de dieta esta semana", "Ela é alérgica a verduras"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você vê o aviso: 'No food or drinks inside'. O que ele indica?",
+    "correctAnswer": "É proibido entrar com comida ou bebida",
+    "options": ["É proibido entrar com comida ou bebida", "Comida e bebida são vendidas lá dentro", "Comida e bebida são grátis lá dentro", "É proibido fumar lá dentro"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você lê no cardápio: 'The soup is hot'. O que isso significa?",
+    "correctAnswer": "A sopa está quente",
+    "options": ["A sopa está quente", "A sopa está fria", "A sopa é apimentada demais", "A sopa acabou"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você recebe a mensagem: 'Lunch is ready'. O que a pessoa quer dizer?",
+    "correctAnswer": "O almoço está pronto",
+    "options": ["O almoço está pronto", "O jantar está pronto", "O almoço vai atrasar", "O almoço foi cancelado"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você lê no rótulo: 'This dish contains nuts'. O que isso significa?",
+    "correctAnswer": "Este prato contém castanhas",
+    "options": ["Este prato contém castanhas", "Este prato não contém castanhas", "Este prato é feito só de castanhas", "Este prato combina com castanhas"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você lê no restaurante: 'Would you like something to drink?'. O que isso significa?",
+    "correctAnswer": "Estão perguntando se você quer algo para beber",
+    "options": ["Estão perguntando se você quer algo para beber", "Estão perguntando se você quer algo para comer", "Estão oferecendo uma bebida grátis", "Estão perguntando se você quer a conta"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você vê o aviso no café: 'We do not serve breakfast after 11am'. O que ele indica?",
+    "correctAnswer": "O café da manhã não é servido depois das 11 da manhã",
+    "options": ["O café da manhã não é servido depois das 11 da manhã", "O café da manhã começa às 11 da manhã", "O almoço não é servido antes das 11 da manhã", "O café fecha às 11 da manhã"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você lê: 'The movie starts at 7pm'. O que isso significa?",
+    "correctAnswer": "O filme começa às 7 da noite",
+    "options": ["O filme começa às 7 da noite", "O filme termina às 7 da noite", "O filme começa às 7 da manhã", "O cinema abre às 7 da noite"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você lê: 'I like rock music'. O que isso significa?",
+    "correctAnswer": "Eu gosto de música rock",
+    "options": ["Eu gosto de música rock", "Eu não gosto de música rock", "Eu toco em uma banda de rock", "Eu gosto de música clássica"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você recebe a mensagem: 'The concert is tonight'. O que ela quer dizer?",
+    "correctAnswer": "O show é hoje à noite",
+    "options": ["O show é hoje à noite", "O show é amanhã à noite", "O show foi ontem à noite", "O show foi cancelado"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você vê o aviso: 'No photos in the museum'. O que ele indica?",
+    "correctAnswer": "É proibido tirar fotos no museu",
+    "options": ["É proibido tirar fotos no museu", "Fotos são vendidas no museu", "É permitido tirar fotos no museu", "O museu está sem fotos hoje"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você vê o aviso na bilheteria: 'Tickets are sold out'. O que ele indica?",
+    "correctAnswer": "Os ingressos estão esgotados",
+    "options": ["Os ingressos estão esgotados", "Os ingressos estão em promoção", "Os ingressos estão à venda", "Os ingressos são vendidos na saída"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você vê o cartaz: 'The show is free today'. O que ele indica?",
+    "correctAnswer": "O espetáculo é gratuito hoje",
+    "options": ["O espetáculo é gratuito hoje", "O espetáculo está esgotado hoje", "O espetáculo foi adiado para hoje", "O espetáculo é mais barato hoje"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você recebe a mensagem: 'This song is famous in Brazil'. O que a pessoa quer dizer?",
+    "correctAnswer": "Esta música é famosa no Brasil",
+    "options": ["Esta música é famosa no Brasil", "Esta música é do Brasil", "Este cantor é famoso no Brasil", "Esta música é nova no Brasil"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você lê o cartaz: 'The festival starts next Saturday in the park'. O que isso significa?",
+    "correctAnswer": "O festival começa no próximo sábado no parque",
+    "options": ["O festival começa no próximo sábado no parque", "O festival termina no próximo sábado no parque", "O festival começou no sábado passado no parque", "O festival será no próximo domingo na praça"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você lê na bilheteria: 'Children under five enter for free'. O que isso significa?",
+    "correctAnswer": "Crianças menores de cinco anos entram de graça",
+    "options": ["Crianças menores de cinco anos entram de graça", "Crianças maiores de cinco anos entram de graça", "Crianças pagam cinco dólares para entrar", "Apenas cinco crianças podem entrar de graça"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você vê o aviso no cinema: 'Please turn off your phone during the movie'. O que ele indica?",
+    "correctAnswer": "Desligue o celular durante o filme",
+    "options": ["Desligue o celular durante o filme", "Não use flash durante o filme", "Desligue o celular antes de entrar no cinema", "Não converse durante o filme"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você vê o aviso: 'Save water'. O que ele indica?",
+    "correctAnswer": "Economize água",
+    "options": ["Economize água", "Beba mais água", "Água potável aqui", "Não nade aqui"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você lê: 'It is raining today'. O que isso significa?",
+    "correctAnswer": "Está chovendo hoje",
+    "options": ["Está chovendo hoje", "Está ensolarado hoje", "Vai chover amanhã", "Está nevando hoje"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você vê a placa: 'Recycle here'. O que ela indica?",
+    "correctAnswer": "Recicle aqui",
+    "options": ["Recicle aqui", "Jogue o lixo aqui", "Não recicle aqui", "Estacione aqui"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você vê a placa no parque: 'Do not throw trash here'. O que ela indica?",
+    "correctAnswer": "Não jogue lixo aqui",
+    "options": ["Não jogue lixo aqui", "Jogue o lixo somente aqui", "Lixeira em manutenção", "Coleta de lixo às quintas"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você lê: 'The air is clean in the mountains'. O que isso significa?",
+    "correctAnswer": "O ar é limpo nas montanhas",
+    "options": ["O ar é limpo nas montanhas", "O ar é poluído nas montanhas", "A água é limpa nas montanhas", "Faz frio nas montanhas"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você vê o aviso: 'Turn off the lights'. O que ele indica?",
+    "correctAnswer": "Apague as luzes",
+    "options": ["Apague as luzes", "Acenda as luzes", "Troque as lâmpadas", "Feche as janelas"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você lê: 'The river is dirty'. O que isso significa?",
+    "correctAnswer": "O rio está sujo",
+    "options": ["O rio está sujo", "O rio está limpo", "O lago está sujo", "O rio está cheio"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você lê o cartaz: 'Use less plastic to help the planet'. O que isso significa?",
+    "correctAnswer": "Use menos plástico para ajudar o planeta",
+    "options": ["Use menos plástico para ajudar o planeta", "Use mais plástico reciclado no planeta", "Compre menos produtos de vidro", "Recicle todo o plástico do planeta"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você vê a placa: 'This park is a protected area'. O que ela indica?",
+    "correctAnswer": "Este parque é uma área protegida",
+    "options": ["Este parque é uma área protegida", "Este parque é uma área particular", "Este parque está fechado para reforma", "Este parque é vigiado por câmeras"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você lê o aviso: 'Bring your own bag to the store'. O que ele indica?",
+    "correctAnswer": "Traga sua própria sacola para a loja",
+    "options": ["Traga sua própria sacola para a loja", "Compre uma sacola nova na loja", "Deixe sua sacola na entrada da loja", "A loja oferece sacolas grátis"],
+    "difficulty": "hard"
+  }
+]

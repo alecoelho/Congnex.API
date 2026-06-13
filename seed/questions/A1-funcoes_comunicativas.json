@@ -1,0 +1,1202 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'Bom dia' em inglês?",
+    "correctAnswer": "Good morning",
+    "options": ["Good night", "Good morning", "Good afternoon", "Good evening"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'Boa noite' (ao se despedir antes de dormir) em inglês?",
+    "correctAnswer": "Good night",
+    "options": ["Good evening", "Good afternoon", "Good night", "Good morning"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'See you tomorrow'?",
+    "correctAnswer": "Até amanhã",
+    "options": ["Até amanhã", "Até logo", "Boa tarde", "Bom dia"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber as horas. O que você diz?",
+    "correctAnswer": "What time is it?",
+    "options": ["What day is it?", "What time is it?", "How old are you?", "Where are you?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você está acordando seu irmão de manhã. Qual frase você usa?",
+    "correctAnswer": "Wake up!",
+    "options": ["Sit down!", "Come in!", "Wake up!", "Stand up!"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que está com sono. Qual frase você usa?",
+    "correctAnswer": "I am sleepy.",
+    "options": ["I am sleepy.", "I am hungry.", "I am angry.", "I am late."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que acorda às sete horas. Qual frase está correta?",
+    "correctAnswer": "I wake up at seven o'clock.",
+    "options": ["I go to bed at seven o'clock.", "I wake up at seven o'clock.", "I have lunch at seven o'clock.", "I watch TV at seven o'clock."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você está atrasado para o trabalho. O que você diz para se desculpar?",
+    "correctAnswer": "Sorry, I am late.",
+    "options": ["Sorry, I am tired.", "Sorry, I am late.", "Sorry, I am busy.", "Sorry, I am sick."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual a tradução de 'Eu escovo os dentes todas as manhãs'?",
+    "correctAnswer": "I brush my teeth every morning.",
+    "options": ["I wash my hands every morning.", "I brush my hair every morning.", "I brush my teeth every morning.", "I clean my room every morning."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar a um amigo o que ele faz aos domingos. O que você diz?",
+    "correctAnswer": "What do you do on Sundays?",
+    "options": ["What do you eat on Sundays?", "What do you do on Sundays?", "Where do you go on Sundays?", "When do you sleep on Sundays?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'Até segunda-feira' em inglês?",
+    "correctAnswer": "See you on Monday.",
+    "options": ["See you on Friday.", "See you on Monday.", "See you tomorrow.", "See you tonight."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'I work in an office'?",
+    "correctAnswer": "Eu trabalho em um escritório",
+    "options": ["Eu moro em um escritório", "Eu trabalho em um escritório", "Eu estudo em um escritório", "Eu trabalho em uma loja"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Seu chefe diz 'Good job!'. O que isso significa?",
+    "correctAnswer": "Bom trabalho!",
+    "options": ["Boa sorte!", "Bom dia!", "Bom trabalho!", "Boa viagem!"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você quer se apresentar a um novo colega de trabalho. Qual frase você usa?",
+    "correctAnswer": "Hello, my name is Pedro. I am new here.",
+    "options": ["Hello, my name is Pedro. I am new here.", "Hello, his name is Pedro. He is new here.", "Hello, my name is Pedro. I am at home.", "Goodbye, my name is Pedro. See you soon."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você precisa de ajuda com o computador no trabalho. O que você diz?",
+    "correctAnswer": "Can you help me with my computer, please?",
+    "options": ["Can you help me with my homework, please?", "Can you help me with my computer, please?", "Can you help me with my car, please?", "Can you help me with my bags, please?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar a profissão de uma pessoa. O que você diz?",
+    "correctAnswer": "What do you do?",
+    "options": ["How do you do?", "What do you do?", "What do you like?", "Where do you go?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que está ocupado agora. Qual frase você usa?",
+    "correctAnswer": "I am busy now.",
+    "options": ["I am free now.", "I am ready now.", "I am busy now.", "I am happy now."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você precisa sair mais cedo do trabalho hoje. O que você diz ao seu chefe?",
+    "correctAnswer": "May I leave early today?",
+    "options": ["May I arrive early today?", "May I leave early today?", "May I work late today?", "May I start early today?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual a tradução de 'Eu trabalho de segunda a sexta'?",
+    "correctAnswer": "I work from Monday to Friday.",
+    "options": ["I work from Tuesday to Saturday.", "I work on Saturday and Sunday.", "I work from Monday to Friday.", "I work every Sunday."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você não entendeu o que seu colega disse. O que você fala?",
+    "correctAnswer": "Can you repeat that, please?",
+    "options": ["Can you spell my name, please?", "Can you repeat that, please?", "Can you call me later, please?", "Can you bring that, please?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'Boa viagem' em inglês?",
+    "correctAnswer": "Have a good trip!",
+    "options": ["Have a good day!", "Have a good trip!", "Have a good meal!", "Have a good night!"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'Where is the airport?'?",
+    "correctAnswer": "Onde fica o aeroporto?",
+    "options": ["Onde fica o hotel?", "Onde fica o aeroporto?", "Onde fica a estação?", "Onde fica o banco?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer um táxi. O que você diz?",
+    "correctAnswer": "I need a taxi, please.",
+    "options": ["I need a ticket, please.", "I need a table, please.", "I need a taxi, please.", "I need a map, please."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está no aeroporto e quer fazer o check-in. O que você diz?",
+    "correctAnswer": "I would like to check in, please.",
+    "options": ["I would like to check in, please.", "I would like to check out, please.", "I would like to come back, please.", "I would like to sit down, please."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está perdido na cidade e quer ajuda. O que você diz?",
+    "correctAnswer": "I am lost. Can you help me?",
+    "options": ["I am late. Can you hurry?", "I am lost. Can you help me?", "I am tired. Can you stop?", "I am cold. Can you close the window?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber a que horas o ônibus parte. O que você pergunta?",
+    "correctAnswer": "What time does the bus leave?",
+    "options": ["What time does the bus arrive?", "Where does the bus stop?", "What time does the bus leave?", "How much is the bus ticket?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'One ticket to London, please'?",
+    "correctAnswer": "Uma passagem para Londres, por favor",
+    "options": ["Duas passagens para Londres, por favor", "Uma passagem para Londres, por favor", "Uma passagem para Paris, por favor", "Um mapa de Londres, por favor"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está no hotel e quer saber o horário do café da manhã. O que você pergunta?",
+    "correctAnswer": "What time is breakfast?",
+    "options": ["What time is dinner?", "What time is breakfast?", "Where is the gym?", "How much is the room?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual frase você usa para perguntar onde fica o portão de embarque?",
+    "correctAnswer": "Where is the boarding gate?",
+    "options": ["Where is the bus stop?", "Where is the taxi stand?", "Where is the boarding gate?", "Where is the train station?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer reservar um quarto de hotel. O que você diz?",
+    "correctAnswer": "I would like to book a room, please.",
+    "options": ["I would like to clean a room, please.", "I would like to book a room, please.", "I would like to book a table, please.", "I would like to buy a house, please."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'Estou doente' em inglês?",
+    "correctAnswer": "I am sick.",
+    "options": ["I am tired.", "I am sick.", "I am cold.", "I am sad."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'I have a headache'?",
+    "correctAnswer": "Eu estou com dor de cabeça",
+    "options": ["Eu estou com dor de barriga", "Eu estou com febre", "Eu estou com dor de cabeça", "Eu estou com gripe"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer chamar um médico. O que você diz?",
+    "correctAnswer": "I need a doctor.",
+    "options": ["I need a doctor.", "I need a teacher.", "I need a driver.", "I need a waiter."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você está na farmácia e quer um remédio para dor. O que você diz?",
+    "correctAnswer": "Do you have medicine for pain?",
+    "options": ["Do you have medicine for the flu?", "Do you have medicine for pain?", "Do you have vitamins for children?", "Do you have cream for the skin?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer marcar uma consulta médica. O que você diz?",
+    "correctAnswer": "I would like to make an appointment.",
+    "options": ["I would like to make a question.", "I would like to make an appointment.", "I would like to make a reservation.", "I would like to make a call."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O médico pergunta 'How do you feel?'. O que ele quer saber?",
+    "correctAnswer": "Como você se sente",
+    "options": ["Onde você mora", "Como você se sente", "O que você come", "Quando você dorme"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que está com febre. Qual frase você usa?",
+    "correctAnswer": "I have a fever.",
+    "options": ["I have a cold.", "I have a cough.", "I have a fever.", "I have a backache."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer ao médico que sua garganta dói. Qual frase está correta?",
+    "correctAnswer": "My throat hurts.",
+    "options": ["My head hurts.", "My throat hurts.", "My back hurts.", "My arm hurts."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual a tradução de 'Tome este remédio duas vezes ao dia'?",
+    "correctAnswer": "Take this medicine two times a day.",
+    "options": ["Take this medicine two times a week.", "Take this water two times a day.", "Take this medicine two times a day.", "Buy this medicine two times a day."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você liga para a clínica porque precisa desmarcar a consulta. O que você diz?",
+    "correctAnswer": "I need to cancel my appointment.",
+    "options": ["I want to buy some medicine.", "I need to cancel my appointment.", "I want to see the nurse now.", "I need to find the hospital."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'Prazer em conhecê-lo' em inglês?",
+    "correctAnswer": "Nice to meet you.",
+    "options": ["See you later.", "Nice to meet you.", "You are welcome.", "Excuse me."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'Thank you for your time'?",
+    "correctAnswer": "Obrigado pelo seu tempo",
+    "options": ["Obrigado pela sua ajuda", "Obrigado pelo seu tempo", "Obrigado pela sua visita", "Obrigado pelo seu presente"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você atende o telefone na empresa. O que você diz?",
+    "correctAnswer": "Hello, how can I help you?",
+    "options": ["Hello, how can I help you?", "Hello, what do you want?", "Goodbye, see you soon.", "Sorry, I am busy."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você recebe um cliente no escritório. O que você diz?",
+    "correctAnswer": "Welcome to our company.",
+    "options": ["Welcome to my house.", "Welcome to our company.", "Welcome back home.", "Welcome to the party."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você quer dar seu cartão de visita a um cliente. O que você diz?",
+    "correctAnswer": "Here is my card.",
+    "options": ["Here is my phone.", "Here is my bag.", "Here is my card.", "Here is my key."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'Let's start the meeting'?",
+    "correctAnswer": "Vamos começar a reunião",
+    "options": ["Vamos terminar a reunião", "Vamos cancelar a reunião", "Vamos começar a reunião", "Vamos marcar a reunião"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você quer marcar uma reunião com um cliente para amanhã. O que você diz?",
+    "correctAnswer": "Can we meet tomorrow?",
+    "options": ["Can we talk now?", "Can we meet tomorrow?", "Can we eat together today?", "Can we travel next week?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você termina uma ligação de negócios. Qual frase você usa para se despedir?",
+    "correctAnswer": "Thank you for calling. Goodbye.",
+    "options": ["Thank you for coming. Sit down.", "Thank you for calling. Goodbye.", "Hello, how are you today?", "Sorry, wrong number."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Qual a tradução de 'Podemos conversar sobre o contrato?'?",
+    "correctAnswer": "Can we talk about the contract?",
+    "options": ["Can we sign the contract?", "Can we talk about the contract?", "Can we read about the company?", "Can we talk about the meeting?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que sua empresa vende computadores. Qual frase está correta?",
+    "correctAnswer": "Our company sells computers.",
+    "options": ["Our company buys computers.", "Our company makes phones.", "Our company sells computers.", "Our company needs computers."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'Meu celular está quebrado' em inglês?",
+    "correctAnswer": "My phone is broken.",
+    "options": ["My phone is new.", "My phone is broken.", "My phone is old.", "My phone is off."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'Turn on the computer'?",
+    "correctAnswer": "Ligue o computador",
+    "options": ["Desligue o computador", "Ligue o computador", "Conserte o computador", "Compre o computador"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber o número de telefone de uma pessoa. O que você pergunta?",
+    "correctAnswer": "What is your phone number?",
+    "options": ["What is your phone number?", "What is your address?", "What is your last name?", "What is your job?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você está em um café e quer a senha do Wi-Fi. O que você pergunta?",
+    "correctAnswer": "What is the Wi-Fi password?",
+    "options": ["Where is the computer store?", "What is the Wi-Fi password?", "How much is the coffee?", "What time do you close?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir o e-mail de um colega. O que você diz?",
+    "correctAnswer": "What is your email address?",
+    "options": ["What is your favorite website?", "What is your email address?", "What is your user name?", "What is your computer model?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'My internet is not working'?",
+    "correctAnswer": "Minha internet não está funcionando",
+    "options": ["Minha internet está lenta", "Minha internet não está funcionando", "Minha internet está cara", "Minha internet está rápida"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer ajuda para instalar um aplicativo. O que você diz?",
+    "correctAnswer": "Can you help me install this app?",
+    "options": ["Can you help me delete this photo?", "Can you help me install this app?", "Can you help me charge my phone?", "Can you help me find the store?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual a tradução de 'Eu preciso carregar meu celular'?",
+    "correctAnswer": "I need to charge my phone.",
+    "options": ["I need to change my phone.", "I need to clean my phone.", "I need to charge my phone.", "I need to check my phone."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que não sabe usar o computador. Qual frase está correta?",
+    "correctAnswer": "I can't use the computer.",
+    "options": ["I can't buy the computer.", "I can't use the computer.", "I can't see the computer.", "I can't open the computer."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir para alguém tirar uma foto sua com o celular. O que você diz?",
+    "correctAnswer": "Can you take a photo of me, please?",
+    "options": ["Can you send a photo to me, please?", "Can you take a photo of me, please?", "Can you delete a photo for me, please?", "Can you look at my photo, please?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você está em uma loja e quer saber o preço de um produto. O que você diz?",
+    "correctAnswer": "How much is it?",
+    "options": ["What time is it?", "How much is it?", "Where is it?", "How old is it?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'It's too expensive'?",
+    "correctAnswer": "Está muito caro",
+    "options": ["Está muito barato", "Está muito caro", "Está muito grande", "Está muito pequeno"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer pagar com cartão. O que você diz?",
+    "correctAnswer": "Can I pay by card?",
+    "options": ["Can I pay in cash?", "Can I pay by card?", "Can I have a bag?", "Can I try it on?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer experimentar uma camiseta na loja. O que você diz?",
+    "correctAnswer": "Can I try it on?",
+    "options": ["Can I turn it on?", "Can I try it on?", "Can I put it away?", "Can I give it back?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O vendedor pergunta 'Can I help you?'. O que ele quer dizer?",
+    "correctAnswer": "Posso ajudar você?",
+    "options": ["Posso acompanhar você?", "Posso ajudar você?", "Posso pagar para você?", "Posso ligar para você?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer um tamanho maior. O que você diz?",
+    "correctAnswer": "Do you have a bigger size?",
+    "options": ["Do you have a smaller size?", "Do you have a bigger size?", "Do you have another color?", "Do you have a new model?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual a tradução de 'Onde fica o caixa?'?",
+    "correctAnswer": "Where is the cashier?",
+    "options": ["Where is the manager?", "Where is the cashier?", "Where is the exit?", "Where is the fitting room?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer devolver um produto na loja. O que você diz?",
+    "correctAnswer": "I want to return this, please.",
+    "options": ["I want to wrap this, please.", "I want to return this, please.", "I want to order this, please.", "I want to keep this, please."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber se a loja tem desconto. O que você pergunta?",
+    "correctAnswer": "Is there a discount?",
+    "options": ["Is there a problem?", "Is there a discount?", "Is there a bathroom?", "Is there a manager?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual frase você usa para pedir o recibo da compra?",
+    "correctAnswer": "Can I have the receipt, please?",
+    "options": ["Can I have the menu, please?", "Can I have the receipt, please?", "Can I have the key, please?", "Can I have the bill, please?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'Posso entrar?' em inglês?",
+    "correctAnswer": "May I come in?",
+    "options": ["May I go out?", "May I come in?", "May I sit down?", "May I speak now?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'Open your books'?",
+    "correctAnswer": "Abram seus livros",
+    "options": ["Fechem seus livros", "Abram seus livros", "Peguem seus lápis", "Guardem seus cadernos"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você não entendeu a explicação do professor. O que você diz?",
+    "correctAnswer": "I don't understand.",
+    "options": ["I don't know.", "I don't understand.", "I don't like it.", "I don't remember."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer ir ao banheiro durante a aula. O que você pergunta?",
+    "correctAnswer": "May I go to the bathroom?",
+    "options": ["May I go to the library?", "May I go to the bathroom?", "May I open the window?", "May I close the door?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber como se escreve uma palavra. O que você pergunta?",
+    "correctAnswer": "How do you spell it?",
+    "options": ["How do you say it?", "How do you spell it?", "How do you read it?", "How do you use it?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'Raise your hand'?",
+    "correctAnswer": "Levante a mão",
+    "options": ["Abaixe a mão", "Levante a mão", "Levante-se", "Sente-se"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir um lápis emprestado a um colega. O que você diz?",
+    "correctAnswer": "Can I borrow your pencil?",
+    "options": ["Can I buy your pencil?", "Can I borrow your pencil?", "Can I break your pencil?", "Can I keep your pencil?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual a tradução de 'A aula começa às oito horas'?",
+    "correctAnswer": "The class starts at eight o'clock.",
+    "options": ["The class ends at eight o'clock.", "The class starts at eight o'clock.", "The class starts at nine o'clock.", "The test starts at eight o'clock."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar o significado de uma palavra ao professor. O que você diz?",
+    "correctAnswer": "What does this word mean?",
+    "options": ["What does this book cost?", "What does this word mean?", "Where does this word go?", "How does this word sound?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber quando é a prova. O que você pergunta?",
+    "correctAnswer": "When is the test?",
+    "options": ["Where is the test?", "When is the test?", "How is the test?", "What is the test?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'Eu tenho dois irmãos' em inglês?",
+    "correctAnswer": "I have two brothers.",
+    "options": ["I have two sisters.", "I have two brothers.", "I have two cousins.", "I have two uncles."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'I love you'?",
+    "correctAnswer": "Eu te amo",
+    "options": ["Eu te conheço", "Eu te amo", "Eu te vejo", "Eu te ouço"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você quer apresentar seu irmão Lucas a um amigo. O que você diz?",
+    "correctAnswer": "This is my brother, Lucas.",
+    "options": ["This is my father, Lucas.", "This is my brother, Lucas.", "This is my friend, Lucas.", "This is my cousin, Lucas."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar se uma pessoa tem filhos. O que você diz?",
+    "correctAnswer": "Do you have children?",
+    "options": ["Do you have brothers?", "Do you have children?", "Do you have pets?", "Do you have time?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber a idade do filho de uma amiga. O que você pergunta?",
+    "correctAnswer": "How old is your son?",
+    "options": ["How old is your daughter?", "How old is your son?", "How tall is your son?", "How old are you?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'Are you married?'?",
+    "correctAnswer": "Você é casado?",
+    "options": ["Você é solteiro?", "Você é casado?", "Você tem filhos?", "Você mora sozinho?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você quer convidar um amigo para jantar na sua casa. O que você diz?",
+    "correctAnswer": "Do you want to have dinner at my house?",
+    "options": ["Do you want to see my new car?", "Do you want to have dinner at my house?", "Do you want to play soccer tomorrow?", "Do you want to go to the bank?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual a tradução de 'Minha avó mora conosco'?",
+    "correctAnswer": "My grandmother lives with us.",
+    "options": ["My grandmother works with us.", "My grandmother lives with us.", "My grandmother travels with us.", "My mother lives with us."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você quer parabenizar um amigo pelo aniversário dele. O que você diz?",
+    "correctAnswer": "Happy birthday!",
+    "options": ["Happy new year!", "Happy birthday!", "Good luck!", "Congratulations on your new job!"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que sente saudade de um amigo. Qual frase você usa?",
+    "correctAnswer": "I miss you.",
+    "options": ["I know you.", "I miss you.", "I need you.", "I hear you."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você está em um restaurante e quer ver o cardápio. O que você diz?",
+    "correctAnswer": "Can I see the menu, please?",
+    "options": ["Can I see the kitchen, please?", "Can I see the menu, please?", "Can I see the table, please?", "Can I see the chef, please?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'Estou com fome' em inglês?",
+    "correctAnswer": "I am hungry.",
+    "options": ["I am thirsty.", "I am hungry.", "I am full.", "I am tired."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'The bill, please'?",
+    "correctAnswer": "A conta, por favor",
+    "options": ["O cardápio, por favor", "A conta, por favor", "A mesa, por favor", "O prato, por favor"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir uma água no restaurante. O que você diz?",
+    "correctAnswer": "Can I have some water, please?",
+    "options": ["Can I have some coffee, please?", "Can I have some water, please?", "Can I have some juice, please?", "Can I have some milk, please?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O garçom pergunta 'Are you ready to order?'. O que ele quer saber?",
+    "correctAnswer": "Se você está pronto para pedir",
+    "options": ["Se você quer a conta", "Se você está pronto para pedir", "Se você gostou da comida", "Se você quer sobremesa"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que a comida está deliciosa. Qual frase você usa?",
+    "correctAnswer": "The food is delicious.",
+    "options": ["The food is cold.", "The food is delicious.", "The food is expensive.", "The food is ready."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber se o prato tem carne. O que você pergunta?",
+    "correctAnswer": "Does it have meat?",
+    "options": ["Does it have cheese?", "Does it have meat?", "Does it have sugar?", "Does it have fish?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Qual a tradução de 'Eu gostaria de uma mesa para dois'?",
+    "correctAnswer": "I would like a table for two.",
+    "options": ["I would like a table for four.", "I would like a table for two.", "I would like a menu for two.", "I would like a room for two."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir a sobremesa ao garçom. O que você diz?",
+    "correctAnswer": "I would like some dessert, please.",
+    "options": ["I would like some bread, please.", "I would like some dessert, please.", "I would like some salad, please.", "I would like some soup, please."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você não come peixe e quer avisar o garçom. O que você diz?",
+    "correctAnswer": "I don't eat fish.",
+    "options": ["I don't cook fish.", "I don't eat fish.", "I don't buy fish.", "I don't see fish."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'Vamos ao cinema' em inglês?",
+    "correctAnswer": "Let's go to the movies.",
+    "options": ["Let's go to the park.", "Let's go to the movies.", "Let's go to the beach.", "Let's go to the mall."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'Do you like music?'?",
+    "correctAnswer": "Você gosta de música?",
+    "options": ["Você ouve música?", "Você gosta de música?", "Você toca música?", "Você canta música?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer convidar um amigo para a sua festa. O que você diz?",
+    "correctAnswer": "Do you want to come to my party?",
+    "options": ["Do you want to go to the bank?", "Do you want to come to my party?", "Do you want to study English?", "Do you want to work on Sunday?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber a que horas o filme começa. O que você pergunta?",
+    "correctAnswer": "What time does the movie start?",
+    "options": ["What time does the movie end?", "What time does the movie start?", "How long is the movie?", "How much is the ticket?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer comprar dois ingressos para o show. O que você diz?",
+    "correctAnswer": "Two tickets, please.",
+    "options": ["Two coffees, please.", "Two tickets, please.", "Two menus, please.", "Two books, please."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'The concert is tonight'?",
+    "correctAnswer": "O show é hoje à noite",
+    "options": ["O show é amanhã à noite", "O show é hoje à noite", "O show é hoje de manhã", "O show é hoje à tarde"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar qual é o filme favorito de uma pessoa. O que você diz?",
+    "correctAnswer": "What is your favorite movie?",
+    "options": ["What is your favorite song?", "What is your favorite movie?", "What is your favorite book?", "What is your favorite color?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Qual a tradução de 'Eu toco violão nos fins de semana'?",
+    "correctAnswer": "I play the guitar on weekends.",
+    "options": ["I play the piano on weekends.", "I play the guitar on weekends.", "I play soccer on weekends.", "I listen to the guitar on weekends."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber se há ingressos para hoje. O que você pergunta?",
+    "correctAnswer": "Are there tickets for today?",
+    "options": ["Are there tickets for tomorrow?", "Are there tickets for today?", "Are there movies for children?", "Are there discounts for students?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que o filme é ótimo. Qual frase você usa?",
+    "correctAnswer": "The movie is great.",
+    "options": ["The movie is long.", "The movie is great.", "The movie is old.", "The movie is sad."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'Não jogue lixo no chão' em inglês?",
+    "correctAnswer": "Don't throw trash on the ground.",
+    "options": ["Don't walk on the grass.", "Don't throw trash on the ground.", "Don't drink this water.", "Don't open the window."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'Save water'?",
+    "correctAnswer": "Economize água",
+    "options": ["Beba água", "Economize água", "Compre água", "Esquente água"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber onde fica a lixeira. O que você pergunta?",
+    "correctAnswer": "Where is the trash can?",
+    "options": ["Where is the garden?", "Where is the trash can?", "Where is the park?", "Where is the river?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir para alguém apagar a luz para economizar energia. O que você diz?",
+    "correctAnswer": "Please turn off the light.",
+    "options": ["Please turn on the light.", "Please turn off the light.", "Please open the door.", "Please close the window."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'Recycle your bottles'?",
+    "correctAnswer": "Recicle suas garrafas",
+    "options": ["Jogue fora suas garrafas", "Recicle suas garrafas", "Lave suas garrafas", "Compre novas garrafas"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que o dia está ensolarado. Qual frase você usa?",
+    "correctAnswer": "It is sunny today.",
+    "options": ["It is rainy today.", "It is sunny today.", "It is cold today.", "It is windy today."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar como vai estar o tempo amanhã. O que você diz?",
+    "correctAnswer": "What is the weather like tomorrow?",
+    "options": ["What is the time tomorrow?", "What is the weather like tomorrow?", "What is the date tomorrow?", "What is the plan for tomorrow?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual a tradução de 'Nós plantamos árvores no parque'?",
+    "correctAnswer": "We plant trees in the park.",
+    "options": ["We cut trees in the park.", "We plant trees in the park.", "We water flowers in the park.", "We clean trash in the park."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer convidar um amigo para limpar a praia com você. O que você diz?",
+    "correctAnswer": "Do you want to clean the beach with me?",
+    "options": ["Do you want to swim at the beach with me?", "Do you want to clean the beach with me?", "Do you want to run in the park with me?", "Do you want to walk in the garden with me?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que recicla papel em casa. Qual frase está correta?",
+    "correctAnswer": "I recycle paper at home.",
+    "options": ["I recycle glass at school.", "I recycle paper at home.", "I throw paper at home.", "I burn paper at home."],
+    "difficulty": "hard"
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'breakfast'?",
+    "correctAnswer": "café da manhã",
+    "options": ["café da manhã", "almoço", "jantar", "lanche"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'dormir' em inglês?",
+    "correctAnswer": "sleep",
+    "options": ["sleep", "eat", "rest", "dream"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'morning'?",
+    "correctAnswer": "manhã",
+    "options": ["manhã", "tarde", "noite", "madrugada"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual a tradução de 'acordar' em inglês?",
+    "correctAnswer": "wake up",
+    "options": ["wake up", "stand up", "sit down", "lie down"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'shower'?",
+    "correctAnswer": "banho",
+    "options": ["banho", "toalha", "sabonete", "pia"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'escovar os dentes' em inglês?",
+    "correctAnswer": "brush your teeth",
+    "options": ["brush your teeth", "wash your hands", "comb your hair", "cut your nails"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'dinner'?",
+    "correctAnswer": "jantar",
+    "options": ["jantar", "sobremesa", "merenda", "ceia"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual a tradução de 'travesseiro' em inglês?",
+    "correctAnswer": "pillow",
+    "options": ["pillow", "blanket", "sheet", "mattress"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'alarm clock'?",
+    "correctAnswer": "despertador",
+    "options": ["despertador", "relógio de parede", "calendário", "cronômetro"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'cedo' em inglês?",
+    "correctAnswer": "early",
+    "options": ["early", "late", "soon", "never"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'job'?",
+    "correctAnswer": "emprego",
+    "options": ["emprego", "férias", "carreira", "tarefa"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'escritório' em inglês?",
+    "correctAnswer": "office",
+    "options": ["office", "factory", "warehouse", "workshop"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'boss'?",
+    "correctAnswer": "chefe",
+    "options": ["chefe", "colega", "cliente", "estagiário"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual a tradução de 'reunião' em inglês?",
+    "correctAnswer": "meeting",
+    "options": ["meeting", "interview", "presentation", "conference"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'salary'?",
+    "correctAnswer": "salário",
+    "options": ["salário", "bônus", "imposto", "comissão"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'mesa de escritório' em inglês?",
+    "correctAnswer": "desk",
+    "options": ["desk", "chair", "shelf", "drawer"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'employee'?",
+    "correctAnswer": "funcionário",
+    "options": ["funcionário", "empregador", "gerente", "fornecedor"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'colega de trabalho' em inglês?",
+    "correctAnswer": "coworker",
+    "options": ["coworker", "manager", "customer", "assistant"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'schedule'?",
+    "correctAnswer": "horário",
+    "options": ["horário", "relatório", "pagamento", "descanso"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'part-time'?",
+    "correctAnswer": "meio período",
+    "options": ["meio período", "período integral", "hora extra", "turno da noite"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'airport'?",
+    "correctAnswer": "aeroporto",
+    "options": ["aeroporto", "rodoviária", "estação de trem", "porto"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual a tradução de 'praia' em inglês?",
+    "correctAnswer": "beach",
+    "options": ["beach", "mountain", "island", "lake"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'ticket'?",
+    "correctAnswer": "passagem",
+    "options": ["passagem", "mala", "reserva", "mapa"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'mala' em inglês?",
+    "correctAnswer": "suitcase",
+    "options": ["suitcase", "backpack", "handbag", "wallet"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'passport'?",
+    "correctAnswer": "passaporte",
+    "options": ["passaporte", "visto", "identidade", "ingresso"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual a tradução de 'mapa' em inglês?",
+    "correctAnswer": "map",
+    "options": ["map", "guide", "sign", "road"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'train'?",
+    "correctAnswer": "trem",
+    "options": ["trem", "ônibus", "avião", "navio"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'voo' em inglês?",
+    "correctAnswer": "flight",
+    "options": ["flight", "trip", "ride", "tour"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'luggage'?",
+    "correctAnswer": "bagagem",
+    "options": ["bagagem", "hospedagem", "chegada", "partida"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual a tradução de 'estrangeiro' em inglês?",
+    "correctAnswer": "foreigner",
+    "options": ["foreigner", "traveler", "tourist", "passenger"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'doctor'?",
+    "correctAnswer": "médico",
+    "options": ["médico", "enfermeiro", "dentista", "paciente"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual a tradução de 'remédio' em inglês?",
+    "correctAnswer": "medicine",
+    "options": ["medicine", "vaccine", "bandage", "injection"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'sick'?",
+    "correctAnswer": "doente",
+    "options": ["doente", "cansado", "ferido", "fraco"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'enfermeira' em inglês?",
+    "correctAnswer": "nurse",
+    "options": ["nurse", "dentist", "surgeon", "pharmacist"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'pain'?",
+    "correctAnswer": "dor",
+    "options": ["dor", "tosse", "gripe", "tontura"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual a tradução de 'febre' em inglês?",
+    "correctAnswer": "fever",
+    "options": ["fever", "flu", "cough", "cold"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'headache'?",
+    "correctAnswer": "dor de cabeça",
+    "options": ["dor de cabeça", "dor de dente", "dor de barriga", "dor nas costas"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'consulta médica' em inglês?",
+    "correctAnswer": "appointment",
+    "options": ["appointment", "treatment", "prescription", "surgery"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'healthy'?",
+    "correctAnswer": "saudável",
+    "options": ["saudável", "adoecido", "magro", "forte"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual a tradução de 'farmácia' em inglês?",
+    "correctAnswer": "pharmacy",
+    "options": ["pharmacy", "clinic", "laboratory", "emergency room"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'money'?",
+    "correctAnswer": "dinheiro",
+    "options": ["dinheiro", "cartão", "moeda", "cheque"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'empresa' em inglês?",
+    "correctAnswer": "company",
+    "options": ["company", "agency", "branch", "department"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'client'?",
+    "correctAnswer": "cliente",
+    "options": ["cliente", "vendedor", "sócio", "investidor"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Qual a tradução de 'vender' em inglês?",
+    "correctAnswer": "sell",
+    "options": ["sell", "buy", "rent", "trade"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'businessman'?",
+    "correctAnswer": "empresário",
+    "options": ["empresário", "advogado", "contador", "consultor"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'banco' em inglês?",
+    "correctAnswer": "bank",
+    "options": ["bank", "shop", "mall", "stock"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'contract'?",
+    "correctAnswer": "contrato",
+    "options": ["contrato", "recibo", "fatura", "proposta"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Qual a tradução de 'lucro' em inglês?",
+    "correctAnswer": "profit",
+    "options": ["profit", "loss", "debt", "income"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'partner'?",
+    "correctAnswer": "sócio",
+    "options": ["sócio", "concorrente", "fornecedor", "acionista"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'negociação' em inglês?",
+    "correctAnswer": "negotiation",
+    "options": ["negotiation", "conversation", "presentation", "decision"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'computer'?",
+    "correctAnswer": "computador",
+    "options": ["computador", "televisão", "rádio", "calculadora"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'tela' em inglês?",
+    "correctAnswer": "screen",
+    "options": ["screen", "mouse", "speaker", "camera"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'phone'?",
+    "correctAnswer": "telefone",
+    "options": ["telefone", "tablet", "câmera", "relógio"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual a tradução de 'teclado' em inglês?",
+    "correctAnswer": "keyboard",
+    "options": ["keyboard", "charger", "cable", "monitor"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'password'?",
+    "correctAnswer": "senha",
+    "options": ["senha", "usuário", "conta", "mensagem"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'impressora' em inglês?",
+    "correctAnswer": "printer",
+    "options": ["printer", "scanner", "router", "projector"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'email'?",
+    "correctAnswer": "correio eletrônico",
+    "options": ["correio eletrônico", "mensagem de texto", "ligação", "videochamada"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual a tradução de 'arquivo' em inglês?",
+    "correctAnswer": "file",
+    "options": ["file", "folder", "document", "program"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'wireless'?",
+    "correctAnswer": "sem fio",
+    "options": ["sem fio", "com fio", "sem bateria", "sem sinal"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'fone de ouvido' em inglês?",
+    "correctAnswer": "headphones",
+    "options": ["headphones", "speakers", "microphone", "earrings"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'store'?",
+    "correctAnswer": "loja",
+    "options": ["loja", "mercado", "padaria", "feira"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'sapato' em inglês?",
+    "correctAnswer": "shoes",
+    "options": ["shoes", "socks", "boots", "sandals"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'price'?",
+    "correctAnswer": "preço",
+    "options": ["preço", "marca", "tamanho", "etiqueta"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual a tradução de 'barato' em inglês?",
+    "correctAnswer": "cheap",
+    "options": ["cheap", "expensive", "free", "new"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'expensive'?",
+    "correctAnswer": "caro",
+    "options": ["caro", "gratuito", "usado", "novo"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'pagar' em inglês?",
+    "correctAnswer": "pay",
+    "options": ["pay", "spend", "cost", "choose"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'discount'?",
+    "correctAnswer": "desconto",
+    "options": ["desconto", "taxa", "oferta", "promoção"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual a tradução de 'troco' em inglês?",
+    "correctAnswer": "change",
+    "options": ["change", "cash", "coin", "bill"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'shopping cart'?",
+    "correctAnswer": "carrinho de compras",
+    "options": ["carrinho de compras", "sacola", "cesta", "caixa"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'provador' em inglês?",
+    "correctAnswer": "fitting room",
+    "options": ["fitting room", "checkout", "shelf", "entrance"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'school'?",
+    "correctAnswer": "escola",
+    "options": ["escola", "universidade", "creche", "curso"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'professor' em inglês?",
+    "correctAnswer": "teacher",
+    "options": ["teacher", "student", "principal", "writer"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'book'?",
+    "correctAnswer": "livro",
+    "options": ["livro", "caderno", "revista", "dicionário"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual a tradução de 'caneta' em inglês?",
+    "correctAnswer": "pen",
+    "options": ["pen", "pencil", "eraser", "ruler"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'homework'?",
+    "correctAnswer": "lição de casa",
+    "options": ["lição de casa", "aula", "recreio", "trabalho em grupo"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'aluno' em inglês?",
+    "correctAnswer": "student",
+    "options": ["student", "classmate", "teenager", "child"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'classroom'?",
+    "correctAnswer": "sala de aula",
+    "options": ["sala de aula", "pátio", "secretaria", "laboratório"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual a tradução de 'prova' em inglês?",
+    "correctAnswer": "test",
+    "options": ["test", "task", "lesson", "grade"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'subject'?",
+    "correctAnswer": "matéria",
+    "options": ["matéria", "nota", "tarefa", "diploma"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'biblioteca' em inglês?",
+    "correctAnswer": "library",
+    "options": ["library", "bookstore", "museum", "auditorium"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'mother'?",
+    "correctAnswer": "mãe",
+    "options": ["mãe", "pai", "irmã", "tia"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'irmão' em inglês?",
+    "correctAnswer": "brother",
+    "options": ["brother", "sister", "cousin", "uncle"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'friend'?",
+    "correctAnswer": "amigo",
+    "options": ["amigo", "vizinho", "primo", "conhecido"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual a tradução de 'avó' em inglês?",
+    "correctAnswer": "grandmother",
+    "options": ["grandmother", "grandfather", "aunt", "stepmother"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'daughter'?",
+    "correctAnswer": "filha",
+    "options": ["filha", "filho", "sobrinha", "neta"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'marido' em inglês?",
+    "correctAnswer": "husband",
+    "options": ["husband", "son", "father", "grandfather"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'uncle'?",
+    "correctAnswer": "tio",
+    "options": ["tio", "avô", "padrinho", "genro"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual a tradução de 'sobrinho' em inglês?",
+    "correctAnswer": "nephew",
+    "options": ["nephew", "niece", "grandson", "godson"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'wife'?",
+    "correctAnswer": "esposa",
+    "options": ["esposa", "namorada", "noiva", "cunhada"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'sogra' em inglês?",
+    "correctAnswer": "mother-in-law",
+    "options": ["mother-in-law", "sister-in-law", "godmother", "stepdaughter"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'apple'?",
+    "correctAnswer": "maçã",
+    "options": ["maçã", "banana", "laranja", "uva"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'pão' em inglês?",
+    "correctAnswer": "bread",
+    "options": ["bread", "cake", "butter", "rice"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'milk'?",
+    "correctAnswer": "leite",
+    "options": ["leite", "suco", "água", "café"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Qual a tradução de 'frango' em inglês?",
+    "correctAnswer": "chicken",
+    "options": ["chicken", "beef", "pork", "fish"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'cheese'?",
+    "correctAnswer": "queijo",
+    "options": ["queijo", "manteiga", "presunto", "iogurte"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'suco' em inglês?",
+    "correctAnswer": "juice",
+    "options": ["juice", "soda", "tea", "wine"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'egg'?",
+    "correctAnswer": "ovo",
+    "options": ["ovo", "arroz", "feijão", "farinha"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Qual a tradução de 'garfo' em inglês?",
+    "correctAnswer": "fork",
+    "options": ["fork", "knife", "spoon", "plate"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'vegetables'?",
+    "correctAnswer": "legumes",
+    "options": ["legumes", "frutas", "carnes", "grãos"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'sobremesa' em inglês?",
+    "correctAnswer": "dessert",
+    "options": ["dessert", "appetizer", "snack", "meal"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'movie'?",
+    "correctAnswer": "filme",
+    "options": ["filme", "novela", "série", "desenho"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Qual a tradução de 'teatro' em inglês?",
+    "correctAnswer": "theater",
+    "options": ["theater", "cinema", "circus", "stadium"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'game'?",
+    "correctAnswer": "jogo",
+    "options": ["jogo", "brinquedo", "esporte", "concurso"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Qual a tradução de 'cantor' em inglês?",
+    "correctAnswer": "singer",
+    "options": ["singer", "dancer", "actor", "painter"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'party'?",
+    "correctAnswer": "festa",
+    "options": ["festa", "show", "encontro", "feriado"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'dançar' em inglês?",
+    "correctAnswer": "dance",
+    "options": ["dance", "sing", "play", "act"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'painting'?",
+    "correctAnswer": "pintura",
+    "options": ["pintura", "desenho", "escultura", "fotografia"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'palco' em inglês?",
+    "correctAnswer": "stage",
+    "options": ["stage", "seat", "row", "hall"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'audience'?",
+    "correctAnswer": "plateia",
+    "options": ["plateia", "elenco", "banda", "orquestra"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Qual a tradução de 'desenho animado' em inglês?",
+    "correctAnswer": "cartoon",
+    "options": ["cartoon", "comedy", "drama", "documentary"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'tree'?",
+    "correctAnswer": "árvore",
+    "options": ["árvore", "flor", "grama", "folha"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'água' em inglês?",
+    "correctAnswer": "water",
+    "options": ["water", "fire", "air", "earth"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'sun'?",
+    "correctAnswer": "sol",
+    "options": ["sol", "lua", "estrela", "nuvem"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual a tradução de 'rio' em inglês?",
+    "correctAnswer": "river",
+    "options": ["river", "lake", "sea", "ocean"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'rain'?",
+    "correctAnswer": "chuva",
+    "options": ["chuva", "neve", "vento", "tempestade"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'pássaro' em inglês?",
+    "correctAnswer": "bird",
+    "options": ["bird", "fish", "snake", "frog"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'sky'?",
+    "correctAnswer": "céu",
+    "options": ["céu", "mar", "terra", "horizonte"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual a tradução de 'floresta' em inglês?",
+    "correctAnswer": "forest",
+    "options": ["forest", "desert", "field", "garden"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'pollution'?",
+    "correctAnswer": "poluição",
+    "options": ["poluição", "reciclagem", "sujeira", "queimada"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'lixo' em inglês?",
+    "correctAnswer": "trash",
+    "options": ["trash", "dust", "mud", "smoke"],
+    "difficulty": "hard"
+  }
+]

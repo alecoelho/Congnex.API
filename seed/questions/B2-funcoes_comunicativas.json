@@ -1,0 +1,402 @@
+[
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você pede educadamente ao seu colega de apartamento para lavar a louça?",
+    "correctAnswer": "Would you mind washing the dishes when you get a chance?",
+    "options": ["Would you mind washing the dishes when you get a chance?", "Wash the dishes now, it is your obligation.", "Can you to wash the dishes today?", "You must to wash the dishes, please."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você precisa recusar educadamente um convite de um vizinho para jantar. O que dizer?",
+    "correctAnswer": "That's very kind of you, but I'm afraid I already have plans.",
+    "options": ["That's very kind of you, but I'm afraid I already have plans.", "No, I don't want to go to your dinner.", "I pretend to go another day, thanks.", "Thanks, but I have compromise tonight."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como se diz, de forma educada, que você vai se atrasar para um compromisso pela manhã?",
+    "correctAnswer": "I'm terribly sorry, but I'm running a bit late this morning.",
+    "options": ["I'm terribly sorry, but I'm running a bit late this morning.", "I'm actually late because the traffic.", "Sorry, I will delay me a little today.", "Excuse me, I am with a late this morning."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você precisa reclamar educadamente do barulho do vizinho durante a noite. Qual frase é mais diplomática?",
+    "correctAnswer": "I was wondering if you could possibly keep the noise down after 10 p.m.",
+    "options": ["I was wondering if you could possibly keep the noise down after 10 p.m.", "Stop making noise after 10 p.m., okay?", "You need to low the volume in the night.", "I demand you to finish the noise immediately."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você sugere com diplomacia que sua família mude o horário do jantar?",
+    "correctAnswer": "Perhaps we could consider having dinner a little earlier, what do you think?",
+    "options": ["Perhaps we could consider having dinner a little earlier, what do you think?", "We will have dinner earlier from now, decided.", "I want that we dinner more early.", "Why you don't make the dinner before?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual frase expressa sua opinião com cautela (hedging) sobre a divisão das tarefas domésticas?",
+    "correctAnswer": "It seems to me that we could share the household chores a bit more evenly.",
+    "options": ["It seems to me that we could share the household chores a bit more evenly.", "You never help with nothing in this house.", "Is obvious that I do all the works of house.", "I have sure you don't do your part at home."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você precisa interromper educadamente uma conversa em casa para dar um aviso importante. O que dizer?",
+    "correctAnswer": "Sorry to interrupt, but there's something I need to mention.",
+    "options": ["Sorry to interrupt, but there's something I need to mention.", "Stop talking, I have a thing to say.", "Give me license, I will speak now.", "Attention please, my subject is more important."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual a forma correta de transformar 'What time does the gym open?' em uma pergunta indireta mais formal?",
+    "correctAnswer": "Could you tell me what time the gym opens?",
+    "options": ["Could you tell me what time the gym opens?", "Could you tell me what time does the gym open?", "Could you say me what time the gym opens?", "Do you know what time does the gym opens?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você precisa recusar um pedido de favor de um vizinho sem parecer rude. Qual a forma mais adequada?",
+    "correctAnswer": "I'd love to help, but I'm afraid I won't be able to this week.",
+    "options": ["I'd love to help, but I'm afraid I won't be able to this week.", "I can't help you, I have my own problems.", "Actually no, because I am very occupied.", "Impossible, ask to another person this time."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual frase usa hedging adequado para reclamar dos atrasos constantes do serviço de limpeza do seu prédio?",
+    "correctAnswer": "There seems to be a recurring issue with the cleaning schedule lately.",
+    "options": ["There seems to be a recurring issue with the cleaning schedule lately.", "The cleaning service is always late and I hate it.", "Your service is a complete disaster every week.", "The cleaning never works because you are irresponsibles."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você está em uma reunião e discorda de um colega. Como expressar desacordo educadamente em inglês?",
+    "correctAnswer": "I see your point, but I'm afraid I have to disagree.",
+    "options": ["I see your point, but I'm afraid I have to disagree.", "You are completely wrong about this.", "I don't agree with nothing you said.", "That idea doesn't have sense for me."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Como você pede formalmente um dia de folga ao seu chefe?",
+    "correctAnswer": "Would it be possible for me to take a day off next Friday?",
+    "options": ["Would it be possible for me to take a day off next Friday?", "I will take a day off Friday, just informing.", "Give me a free day on Friday, please.", "I pretend to take a day off next Friday."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você precisa interromper uma reunião para acrescentar uma informação relevante. O que dizer?",
+    "correctAnswer": "May I just come in here for a moment?",
+    "options": ["May I just come in here for a moment?", "Silence, I need to talk now.", "Wait a moment, my information is better.", "Let me to speak one thing quickly."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual a forma mais diplomática de dar um feedback negativo sobre o relatório de um colega?",
+    "correctAnswer": "I think the report is solid overall, but it might benefit from a few adjustments.",
+    "options": ["I think the report is solid overall, but it might benefit from a few adjustments.", "Your report is full of errors, redo it.", "This report is very weak, sincerely.", "I didn't like your report, it's bad done."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Como você inicia educadamente uma conversa com seu gestor sobre aumento salarial?",
+    "correctAnswer": "I was hoping we could discuss the possibility of reviewing my salary.",
+    "options": ["I was hoping we could discuss the possibility of reviewing my salary.", "I want more money or I will leave the company.", "You need to augment my salary this month.", "I deserve a raise because I work more than everybody."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você precisa recusar uma tarefa extra sem soar negativo. Qual frase é a mais adequada?",
+    "correctAnswer": "I'd be glad to help, but my current workload wouldn't allow me to do it justice.",
+    "options": ["I'd be glad to help, but my current workload wouldn't allow me to do it justice.", "No way, I already have too much things to do.", "This is not my function, ask other person.", "I refuse this task because I am very full."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual frase expressa uma opinião com hedging adequado durante a discussão de um projeto?",
+    "correctAnswer": "I may be wrong, but I believe the deadline is somewhat optimistic.",
+    "options": ["I may be wrong, but I believe the deadline is somewhat optimistic.", "This deadline is impossible, everybody knows.", "I have total certainty the deadline will fail.", "The deadline is wrong and the planning too."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Como você comunica formalmente ao seu gerente um problema recorrente com um fornecedor?",
+    "correctAnswer": "I'd like to bring to your attention an ongoing issue with one of our suppliers.",
+    "options": ["I'd like to bring to your attention an ongoing issue with one of our suppliers.", "Boss, that supplier is terrible, we need to cut them.", "I want to denounce a problem with the supplier.", "Attention: the supplier made a mess again."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual a forma mais indireta e educada de pedir que um colega revise seu relatório ainda hoje?",
+    "correctAnswer": "I don't suppose you could have a look at my report today, could you?",
+    "options": ["I don't suppose you could have a look at my report today, could you?", "Revise my report today, it is urgent.", "You have to check my report until the end of the day.", "Look my report now because I need it."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você precisa discordar do seu chefe sobre uma decisão estratégica. Qual frase é a mais apropriada?",
+    "correctAnswer": "With all due respect, I see the situation somewhat differently.",
+    "options": ["With all due respect, I see the situation somewhat differently.", "Sorry boss, but your decision is a mistake.", "I think you decided wrong this time.", "Your strategy will not work, believe me."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Como você pede educadamente na recepção do hotel para trocar de quarto?",
+    "correctAnswer": "Would it be possible to change rooms? Ours is rather noisy.",
+    "options": ["Would it be possible to change rooms? Ours is rather noisy.", "I want other room now, this one is horrible.", "Change my room because it has much noise.", "Give me a new room, the actual is noisy."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Como se diz, de forma educada, ao pedir informações sobre o caminho para a estação de trem?",
+    "correctAnswer": "Excuse me, could you tell me how to get to the station?",
+    "options": ["Excuse me, could you tell me how to get to the station?", "Hey, where is the station of train?", "Excuse me, how I arrive in the station?", "Tell me the way for the station, please."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você precisa pedir um check-out mais tarde no hotel. Qual frase é a mais adequada?",
+    "correctAnswer": "I was wondering if a late check-out would be possible.",
+    "options": ["I was wondering if a late check-out would be possible.", "I will leave the hotel later, okay?", "I need that you give me more time in the room.", "Let me to stay until 2 p.m. in the room."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Como você reclama educadamente no balcão da companhia aérea sobre um voo atrasado?",
+    "correctAnswer": "I understand these things happen, but could you explain what compensation is available?",
+    "options": ["I understand these things happen, but could you explain what compensation is available?", "Your company is a shame, I want my money.", "This delay is absurd, resolve it now.", "I am very angry, you lost my time today."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual frase é a mais adequada para negociar o preço de um passeio turístico?",
+    "correctAnswer": "Is there any flexibility on the price if we book for a group?",
+    "options": ["Is there any flexibility on the price if we book for a group?", "This price is a robbery, make it cheaper.", "I only pay the half of this value.", "Low the price or we go to other agency."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está em um hotel e o quarto não corresponde ao que foi reservado. O que dizer educadamente?",
+    "correctAnswer": "I'm afraid the room doesn't quite match what was advertised in the booking.",
+    "options": ["I'm afraid the room doesn't quite match what was advertised in the booking.", "This room is a lie, the photos were false.", "You made propaganda enganosa of this room.", "The room is different and I am very disappointed with you."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Como você pede educadamente a outro passageiro para trocar de assento no avião?",
+    "correctAnswer": "Would you mind swapping seats so I can sit with my family?",
+    "options": ["Would you mind swapping seats so I can sit with my family?", "Change of place with me, my family is there.", "I need your seat because of my family.", "Can you to change your seat with me?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual frase abre formalmente um e-mail de reclamação para uma agência de viagens?",
+    "correctAnswer": "I am writing to express my dissatisfaction with the service provided during my trip.",
+    "options": ["I am writing to express my dissatisfaction with the service provided during my trip.", "I am writing because your agency ruined my vacations.", "This email is to say that I hated the trip.", "I write you for to complain about everything."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Como você sugere com diplomacia mudar o itinerário do grupo de viagem por causa do clima?",
+    "correctAnswer": "It might be worth considering an alternative route, given the weather forecast.",
+    "options": ["It might be worth considering an alternative route, given the weather forecast.", "We will change the route because the weather, period.", "Forget this itinerary, it is a bad idea with rain.", "I am sure this route is wrong for tomorrow."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual a forma indireta e educada de perguntar no aeroporto se o seu voo provavelmente será cancelado?",
+    "correctAnswer": "Do you happen to know whether the flight is likely to be cancelled?",
+    "options": ["Do you happen to know whether the flight is likely to be cancelled?", "Do you know if will be cancelled the flight?", "The flight will cancel or not? Tell me.", "Can you say me if the flight cancels today?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você descreve detalhadamente ao médico uma dor de cabeça persistente?",
+    "correctAnswer": "I've been having a constant, throbbing headache for the past three days.",
+    "options": ["I've been having a constant, throbbing headache for the past three days.", "My head is exploding since three days.", "I have a pain in the head very strong actually.", "Doctor, my head hurts me yesterday and today."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você pede educadamente para remarcar uma consulta médica?",
+    "correctAnswer": "I'd like to reschedule my appointment, if that's possible.",
+    "options": ["I'd like to reschedule my appointment, if that's possible.", "I want to remark my consultation for other day.", "Change my appointment, I can't go anymore.", "I will not come tomorrow, mark other day."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você está na farmácia e precisa de orientação sobre um medicamento. O que dizer?",
+    "correctAnswer": "Could you advise me on how often I should take this medication?",
+    "options": ["Could you advise me on how often I should take this medication?", "How many times I take this remedy?", "Explain me the recipe of this medicine.", "Say me when I need to drink this medication."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual frase descreve sintomas de forma detalhada e precisa durante uma consulta?",
+    "correctAnswer": "The pain comes and goes, and it gets worse when I bend over.",
+    "options": ["The pain comes and goes, and it gets worse when I bend over.", "The pain comes and backs, and is more worse when I low down.", "I feel pain sometimes, others not, depending.", "It hurts more or less in some moments of the day."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você pede educadamente que o médico explique o diagnóstico em termos mais simples?",
+    "correctAnswer": "Would you mind explaining that in simpler terms? I want to make sure I understand.",
+    "options": ["Would you mind explaining that in simpler terms? I want to make sure I understand.", "I don't understand nothing, speak easier.", "Your explanation is too difficult, repeat in simple.", "Doctor, talk like a normal person, please."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você precisa expressar dúvida sobre o tratamento sugerido sem ser rude. Qual frase usar?",
+    "correctAnswer": "I appreciate your recommendation, but I'd like to explore other options first.",
+    "options": ["I appreciate your recommendation, but I'd like to explore other options first.", "I pretend to try another treatment first.", "I don't trust in this treatment, sorry.", "This treatment seems wrong, I will not do."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual a forma mais diplomática de dizer ao médico que você gostaria de uma segunda opinião?",
+    "correctAnswer": "I hope you don't mind, but I'd feel more comfortable getting a second opinion.",
+    "options": ["I hope you don't mind, but I'd feel more comfortable getting a second opinion.", "I will search other doctor better than you.", "Your opinion is not enough for me.", "I need a doctor with more experience, sorry."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você reclama educadamente da demora no atendimento da clínica?",
+    "correctAnswer": "I don't mean to be difficult, but I've been waiting for over an hour now.",
+    "options": ["I don't mean to be difficult, but I've been waiting for over an hour now.", "This delay is a lack of respect with the patients.", "I am waiting since one hour, this is absurd.", "Your clinic doesn't respect the hour of nobody."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual frase usa hedging adequado para falar sobre a possível causa dos seus sintomas?",
+    "correctAnswer": "I'm not entirely sure, but it could be related to the new medication.",
+    "options": ["I'm not entirely sure, but it could be related to the new medication.", "I have sure it is the new remedy causing this.", "It is the medication, without doubt any.", "Obviously the new medicine is the problem."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você solicita formalmente uma cópia do seu prontuário médico ao hospital?",
+    "correctAnswer": "I would like to formally request a copy of my medical records.",
+    "options": ["I would like to formally request a copy of my medical records.", "Give me my medical papers, they are mine.", "I want my prontuary copied for me today.", "Send me all my documents of health now."],
+    "difficulty": "hard"
+  }
+]

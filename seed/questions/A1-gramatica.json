@@ -1,0 +1,1202 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está correta?",
+    "correctAnswer": "I am tired in the morning",
+    "options": ["I am tired in the morning", "I is tired in the morning", "I are tired in the morning", "I be tired in the morning"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está escrita corretamente?",
+    "correctAnswer": "I wake up at six o'clock",
+    "options": ["I wake up at six o'clock", "I wakes up at six o'clock", "I waking up at six o'clock", "I am wake up at six o'clock"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual é a forma correta da frase?",
+    "correctAnswer": "This is my bed",
+    "options": ["This is my bed", "This is me bed", "This is mine bed", "This is the my bed"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está correta?",
+    "correctAnswer": "She brushes her teeth every day",
+    "options": ["She brushes her teeth every day", "She brush her teeth every day", "She brushs her teeth every day", "She brushing her teeth every day"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está gramaticalmente correta?",
+    "correctAnswer": "There is a clock in my room",
+    "options": ["There is a clock in my room", "There are a clock in my room", "Have a clock in my room", "It has a clock in my room"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual frase usa a preposição correta?",
+    "correctAnswer": "I sleep at night",
+    "options": ["I sleep at night", "I sleep in night", "I sleep on night", "I sleep at the night"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está escrita corretamente?",
+    "correctAnswer": "I take a shower every morning",
+    "options": ["I take a shower every morning", "I take an shower every morning", "I take shower every morning", "I take a showers every morning"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está correta?",
+    "correctAnswer": "He has breakfast at eight",
+    "options": ["He has breakfast at eight", "He have breakfast at eight", "He haves breakfast at eight", "He is have breakfast at eight"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está gramaticalmente correta?",
+    "correctAnswer": "These towels are clean",
+    "options": ["These towels are clean", "This towels are clean", "These towel are clean", "These towels is clean"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual é a forma correta da frase?",
+    "correctAnswer": "She can cook dinner",
+    "options": ["She can cook dinner", "She cans cook dinner", "She can cooks dinner", "She can to cook dinner"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está correta?",
+    "correctAnswer": "My boss is nice",
+    "options": ["My boss is nice", "My boss are nice", "My boss am nice", "My boss be nice"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está escrita corretamente?",
+    "correctAnswer": "This is her desk",
+    "options": ["This is her desk", "This is she desk", "This is hers desk", "This is he desk"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual é a forma correta da frase?",
+    "correctAnswer": "I work in an office",
+    "options": ["I work in an office", "I works in an office", "I work in a office", "I working in an office"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está correta?",
+    "correctAnswer": "He works on Mondays",
+    "options": ["He works on Mondays", "He work on Mondays", "He is work on Mondays", "He workes on Mondays"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está gramaticalmente correta?",
+    "correctAnswer": "There are two meetings today",
+    "options": ["There are two meetings today", "There is two meetings today", "There are two meeting today", "Have two meetings today"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual frase usa a preposição correta?",
+    "correctAnswer": "The meeting is at three o'clock",
+    "options": ["The meeting is at three o'clock", "The meeting is in three o'clock", "The meeting is on three o'clock", "The meeting is to three o'clock"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está escrita corretamente?",
+    "correctAnswer": "She is an engineer",
+    "options": ["She is an engineer", "She is a engineer", "She is engineer", "She is an engineers"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está correta?",
+    "correctAnswer": "My boss has a big office",
+    "options": ["My boss has a big office", "My boss have a big office", "My boss haves a big office", "My boss has a big offices"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual é a forma correta da frase?",
+    "correctAnswer": "Can you send the email?",
+    "options": ["Can you send the email?", "Can you to send the email?", "Do you can send the email?", "Can you sends the email?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está gramaticalmente correta?",
+    "correctAnswer": "She doesn't work on Sundays",
+    "options": ["She doesn't work on Sundays", "She don't work on Sundays", "She doesn't works on Sundays", "She not work on Sundays"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está correta?",
+    "correctAnswer": "The hotel is big",
+    "options": ["The hotel is big", "The hotel are big", "The hotel big", "The hotel be big"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está escrita corretamente?",
+    "correctAnswer": "I have a ticket",
+    "options": ["I have a ticket", "I have an ticket", "I have ticket", "I have a tickets"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual é a forma correta da frase?",
+    "correctAnswer": "The bags are heavy",
+    "options": ["The bags are heavy", "The bags is heavy", "The bag are heavy", "The bags are heavys"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está gramaticalmente correta?",
+    "correctAnswer": "There is a bus to the airport",
+    "options": ["There is a bus to the airport", "There are a bus to the airport", "Have a bus to the airport", "There is a bus to airport"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual frase usa a preposição correta?",
+    "correctAnswer": "The plane arrives at ten",
+    "options": ["The plane arrives at ten", "The plane arrives in ten", "The plane arrives on ten", "The plane arrive at ten"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está correta?",
+    "correctAnswer": "Where is your passport?",
+    "options": ["Where is your passport?", "Where is you passport?", "Where is yours passport?", "Where your passport is?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está escrita corretamente?",
+    "correctAnswer": "The train leaves at nine",
+    "options": ["The train leaves at nine", "The train leave at nine", "The train leaving at nine", "The train is leave at nine"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual é a forma correta da frase?",
+    "correctAnswer": "Can I see the map?",
+    "options": ["Can I see the map?", "Can I to see the map?", "Do I can see the map?", "Can I seeing the map?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está gramaticalmente correta?",
+    "correctAnswer": "That suitcase is blue",
+    "options": ["That suitcase is blue", "That suitcases is blue", "Those suitcase is blue", "That suitcase are blue"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está correta?",
+    "correctAnswer": "The hotel has a pool",
+    "options": ["The hotel has a pool", "The hotel have a pool", "The hotel haves a pool", "The hotel is has a pool"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está correta?",
+    "correctAnswer": "I am sick",
+    "options": ["I am sick", "I is sick", "I are sick", "Me am sick"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está escrita corretamente?",
+    "correctAnswer": "She is a doctor",
+    "options": ["She is a doctor", "She is an doctor", "She is doctor", "She is a doctors"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual é a forma correta da frase?",
+    "correctAnswer": "My head hurts",
+    "options": ["My head hurts", "Me head hurts", "Mine head hurts", "The my head hurts"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está gramaticalmente correta?",
+    "correctAnswer": "There is a hospital near here",
+    "options": ["There is a hospital near here", "There are a hospital near here", "Have a hospital near here", "Is a hospital near here"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está correta?",
+    "correctAnswer": "The doctor works at the hospital",
+    "options": ["The doctor works at the hospital", "The doctor work at the hospital", "The doctor working at the hospital", "The doctor is work at the hospital"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual frase usa a preposição correta?",
+    "correctAnswer": "My appointment is on Monday",
+    "options": ["My appointment is on Monday", "My appointment is in Monday", "My appointment is at Monday", "My appointment is to Monday"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está escrita corretamente?",
+    "correctAnswer": "The nurses are kind",
+    "options": ["The nurses are kind", "The nurses is kind", "The nurse are kind", "The nurses are kinds"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está correta?",
+    "correctAnswer": "He has a headache",
+    "options": ["He has a headache", "He have a headache", "He haves a headache", "He is has a headache"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual é a forma correta da frase?",
+    "correctAnswer": "You can take this medicine",
+    "options": ["You can take this medicine", "You can takes this medicine", "You can to take this medicine", "You cans take this medicine"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está gramaticalmente correta?",
+    "correctAnswer": "These pills are small",
+    "options": ["These pills are small", "This pills are small", "These pill are small", "These pills is small"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está correta?",
+    "correctAnswer": "The company is new",
+    "options": ["The company is new", "The company are new", "The company be new", "The company new"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está escrita corretamente?",
+    "correctAnswer": "This is our client",
+    "options": ["This is our client", "This is we client", "This is ours client", "This is us client"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Qual é a forma correta da frase?",
+    "correctAnswer": "He is a manager",
+    "options": ["He is a manager", "He is an manager", "He is manager", "He is a managers"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está correta?",
+    "correctAnswer": "She sells products",
+    "options": ["She sells products", "She sell products", "She is sell products", "She selling products"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está gramaticalmente correta?",
+    "correctAnswer": "There are many clients today",
+    "options": ["There are many clients today", "There is many clients today", "Have many clients today", "There are many client today"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Qual frase usa a preposição correta?",
+    "correctAnswer": "The conference is in May",
+    "options": ["The conference is in May", "The conference is on May", "The conference is at May", "The conference is of May"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está escrita corretamente?",
+    "correctAnswer": "The prices are high",
+    "options": ["The prices are high", "The prices is high", "The price are high", "The prices are highs"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está correta?",
+    "correctAnswer": "The company has ten employees",
+    "options": ["The company has ten employees", "The company have ten employees", "The company haves ten employees", "The company has ten employee"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Qual é a forma correta da frase?",
+    "correctAnswer": "Can we sign the contract?",
+    "options": ["Can we sign the contract?", "Can we to sign the contract?", "Do we can sign the contract?", "Can we signs the contract?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está gramaticalmente correta?",
+    "correctAnswer": "This is an important project",
+    "options": ["This is an important project", "This is a important project", "This is important project", "These is an important project"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está correta?",
+    "correctAnswer": "My phone is new",
+    "options": ["My phone is new", "My phone are new", "My phone am new", "My phone be new"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está escrita corretamente?",
+    "correctAnswer": "I have a computer",
+    "options": ["I have a computer", "I have an computer", "I have computer", "I have a computers"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual é a forma correta da frase?",
+    "correctAnswer": "The computers are fast",
+    "options": ["The computers are fast", "The computers is fast", "The computer are fast", "The computers are fasts"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está correta?",
+    "correctAnswer": "She uses the internet every day",
+    "options": ["She uses the internet every day", "She use the internet every day", "She is use the internet every day", "She using the internet every day"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está gramaticalmente correta?",
+    "correctAnswer": "There is a problem with my laptop",
+    "options": ["There is a problem with my laptop", "There are a problem with my laptop", "Have a problem with my laptop", "Is a problem with my laptop"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual frase usa a preposição correta?",
+    "correctAnswer": "The photo is on the screen",
+    "options": ["The photo is on the screen", "The photo is in the screen", "The photo is at the screen", "The photo is of the screen"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está escrita corretamente?",
+    "correctAnswer": "This is his tablet",
+    "options": ["This is his tablet", "This is he tablet", "This is him tablet", "This is his tablets"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual é a forma correta da frase?",
+    "correctAnswer": "Can you fix my computer?",
+    "options": ["Can you fix my computer?", "Can you fixes my computer?", "Can you to fix my computer?", "Do you can fix my computer?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está correta?",
+    "correctAnswer": "The phone has a good camera",
+    "options": ["The phone has a good camera", "The phone have a good camera", "The phone haves a good camera", "The phone is have a good camera"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está gramaticalmente correta?",
+    "correctAnswer": "Those cables are old",
+    "options": ["Those cables are old", "That cables are old", "Those cable are old", "Those cables is old"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está correta?",
+    "correctAnswer": "The store is open",
+    "options": ["The store is open", "The store are open", "The store be open", "The store open"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está escrita corretamente?",
+    "correctAnswer": "I want a new bag",
+    "options": ["I want a new bag", "I want an new bag", "I want new bag", "I want a new bags"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é a forma correta da frase?",
+    "correctAnswer": "The shoes are expensive",
+    "options": ["The shoes are expensive", "The shoes is expensive", "The shoe are expensive", "The shoes are expensives"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está correta?",
+    "correctAnswer": "She buys fruit at the market",
+    "options": ["She buys fruit at the market", "She buy fruit at the market", "She buying fruit at the market", "She is buy fruit at the market"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está gramaticalmente correta?",
+    "correctAnswer": "There are many shops here",
+    "options": ["There are many shops here", "There is many shops here", "Have many shops here", "There are many shop here"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está escrita corretamente?",
+    "correctAnswer": "This is your receipt",
+    "options": ["This is your receipt", "This is you receipt", "This is yours receipt", "This is your receipts"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual frase usa a preposição correta?",
+    "correctAnswer": "The supermarket opens at nine",
+    "options": ["The supermarket opens at nine", "The supermarket opens in nine", "The supermarket opens on nine", "The supermarket open at nine"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é a forma correta da frase?",
+    "correctAnswer": "Can I pay with a card?",
+    "options": ["Can I pay with a card?", "Can I to pay with a card?", "Do I can pay with a card?", "Can I pays with a card?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está correta?",
+    "correctAnswer": "This store has good prices",
+    "options": ["This store has good prices", "This store have good prices", "This store haves good prices", "This stores has good prices"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está gramaticalmente correta?",
+    "correctAnswer": "That dress is beautiful",
+    "options": ["That dress is beautiful", "That dress are beautiful", "Those dress is beautiful", "That dresses is beautiful"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está correta?",
+    "correctAnswer": "I am a student",
+    "options": ["I am a student", "I is a student", "I are a student", "I be a student"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está escrita corretamente?",
+    "correctAnswer": "My book is blue",
+    "options": ["My book is blue", "Me book is blue", "Mine book is blue", "The my book is blue"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é a forma correta da frase?",
+    "correctAnswer": "The students are young",
+    "options": ["The students are young", "The students is young", "The student are young", "The students are youngs"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está correta?",
+    "correctAnswer": "The teacher teaches English",
+    "options": ["The teacher teaches English", "The teacher teach English", "The teacher teachs English", "The teacher is teach English"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está gramaticalmente correta?",
+    "correctAnswer": "There is a library in the school",
+    "options": ["There is a library in the school", "There are a library in the school", "Have a library in the school", "Is a library in the school"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está escrita corretamente?",
+    "correctAnswer": "She reads an interesting book",
+    "options": ["She reads an interesting book", "She reads a interesting book", "She reads an interesting books", "She read an interesting book"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual frase usa a preposição correta?",
+    "correctAnswer": "The class starts at eight",
+    "options": ["The class starts at eight", "The class starts in eight", "The class starts on eight", "The class start at eight"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é a forma correta da frase?",
+    "correctAnswer": "Can you repeat the question?",
+    "options": ["Can you repeat the question?", "Can you repeats the question?", "Can you to repeat the question?", "Do you can repeat the question?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está correta?",
+    "correctAnswer": "The school has many classrooms",
+    "options": ["The school has many classrooms", "The school have many classrooms", "The school haves many classrooms", "The school has many classroom"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está gramaticalmente correta?",
+    "correctAnswer": "Those notebooks are new",
+    "options": ["Those notebooks are new", "Those notebook are new", "That notebooks are new", "Those notebooks is new"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está correta?",
+    "correctAnswer": "My mother is happy",
+    "options": ["My mother is happy", "My mother are happy", "My mother be happy", "My mother happy"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está escrita corretamente?",
+    "correctAnswer": "This is his sister",
+    "options": ["This is his sister", "This is he sister", "This is him sister", "This is his sisters"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual é a forma correta da frase?",
+    "correctAnswer": "My brothers are tall",
+    "options": ["My brothers are tall", "My brothers is tall", "My brother are tall", "My brothers are talls"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está correta?",
+    "correctAnswer": "My sister lives with us",
+    "options": ["My sister lives with us", "My sister live with us", "My sister living with us", "My sister is live with us"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está gramaticalmente correta?",
+    "correctAnswer": "There are four people in my family",
+    "options": ["There are four people in my family", "There is four people in my family", "There are four peoples in my family", "Have four people in my family"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está escrita corretamente?",
+    "correctAnswer": "I have two cousins",
+    "options": ["I have two cousins", "I has two cousins", "I haves two cousins", "I am have two cousins"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual frase usa a preposição correta?",
+    "correctAnswer": "My birthday is in July",
+    "options": ["My birthday is in July", "My birthday is on July", "My birthday is at July", "My birthday are in July"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está correta?",
+    "correctAnswer": "She has a baby",
+    "options": ["She has a baby", "She have a baby", "She haves a baby", "She is has a baby"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual é a forma correta da frase?",
+    "correctAnswer": "My grandfather can tell good stories",
+    "options": ["My grandfather can tell good stories", "My grandfather cans tell good stories", "My grandfather can tells good stories", "My grandfather can to tell good stories"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está gramaticalmente correta?",
+    "correctAnswer": "Those girls are my daughters",
+    "options": ["Those girls are my daughters", "Those girls is my daughters", "That girls are my daughters", "Those girl are my daughters"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está correta?",
+    "correctAnswer": "The food is delicious",
+    "options": ["The food is delicious", "The food are delicious", "The food be delicious", "The food delicious"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está escrita corretamente?",
+    "correctAnswer": "I want a sandwich",
+    "options": ["I want a sandwich", "I want an sandwich", "I want sandwich", "I want a sandwiches"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é a forma correta da frase?",
+    "correctAnswer": "The bananas are yellow",
+    "options": ["The bananas are yellow", "The bananas is yellow", "The banana are yellow", "The bananas are yellows"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está correta?",
+    "correctAnswer": "He eats rice and beans",
+    "options": ["He eats rice and beans", "He eat rice and beans", "He eating rice and beans", "He is eat rice and beans"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está gramaticalmente correta?",
+    "correctAnswer": "There is milk in the fridge",
+    "options": ["There is milk in the fridge", "There are milk in the fridge", "Have milk in the fridge", "Is milk in the fridge"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Qual frase usa a preposição correta?",
+    "correctAnswer": "We have dinner at seven",
+    "options": ["We have dinner at seven", "We have dinner in seven", "We have dinner on seven", "We has dinner at seven"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está escrita corretamente?",
+    "correctAnswer": "She wants an orange",
+    "options": ["She wants an orange", "She wants a orange", "She wants an oranges", "She want an orange"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está correta?",
+    "correctAnswer": "She has tea every afternoon",
+    "options": ["She has tea every afternoon", "She have tea every afternoon", "She haves tea every afternoon", "She is has tea every afternoon"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é a forma correta da frase?",
+    "correctAnswer": "Can you make a salad?",
+    "options": ["Can you make a salad?", "Can you makes a salad?", "Can you to make a salad?", "Do you can make a salad?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está gramaticalmente correta?",
+    "correctAnswer": "These tomatoes are fresh",
+    "options": ["These tomatoes are fresh", "This tomatoes are fresh", "These tomato are fresh", "These tomatoes is fresh"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está correta?",
+    "correctAnswer": "The movie is funny",
+    "options": ["The movie is funny", "The movie are funny", "The movie be funny", "The movie funny"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está escrita corretamente?",
+    "correctAnswer": "This is my favorite song",
+    "options": ["This is my favorite song", "This is me favorite song", "This is mine favorite song", "This is the my favorite song"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Qual é a forma correta da frase?",
+    "correctAnswer": "The songs are beautiful",
+    "options": ["The songs are beautiful", "The songs is beautiful", "The song are beautiful", "The songs are beautifuls"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está correta?",
+    "correctAnswer": "He plays the guitar",
+    "options": ["He plays the guitar", "He play the guitar", "He playing the guitar", "He is play the guitar"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está gramaticalmente correta?",
+    "correctAnswer": "There is a party on Saturday",
+    "options": ["There is a party on Saturday", "There are a party on Saturday", "Have a party on Saturday", "Is a party on Saturday"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Qual frase usa a preposição correta?",
+    "correctAnswer": "The concert is on Friday",
+    "options": ["The concert is on Friday", "The concert is in Friday", "The concert is at Friday", "The concert are on Friday"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está escrita corretamente?",
+    "correctAnswer": "We watch a film every weekend",
+    "options": ["We watch a film every weekend", "We watch an film every weekend", "We watch film every weekend", "We watches a film every weekend"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Qual é a forma correta da frase?",
+    "correctAnswer": "Can you play the piano?",
+    "options": ["Can you play the piano?", "Can you plays the piano?", "Can you to play the piano?", "Do you can play the piano?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está correta?",
+    "correctAnswer": "The city has a big theater",
+    "options": ["The city has a big theater", "The city have a big theater", "The city haves a big theater", "The city is has a big theater"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está gramaticalmente correta?",
+    "correctAnswer": "That band is famous",
+    "options": ["That band is famous", "That band are famous", "Those band is famous", "That bands is famous"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está correta?",
+    "correctAnswer": "The sky is blue",
+    "options": ["The sky is blue", "The sky are blue", "The sky be blue", "The sky blue"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual é a forma correta da frase?",
+    "correctAnswer": "The trees are green",
+    "options": ["The trees are green", "The trees is green", "The tree are green", "The trees are greens"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está escrita corretamente?",
+    "correctAnswer": "We have a garden",
+    "options": ["We have a garden", "We have an garden", "We have garden", "We have a gardens"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está correta?",
+    "correctAnswer": "It rains a lot here",
+    "options": ["It rains a lot here", "It rain a lot here", "It raining a lot here", "It is rain a lot here"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está gramaticalmente correta?",
+    "correctAnswer": "There are many animals in the forest",
+    "options": ["There are many animals in the forest", "There is many animals in the forest", "Have many animals in the forest", "There are many animal in the forest"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual frase usa a preposição correta?",
+    "correctAnswer": "The birds are in the sky",
+    "options": ["The birds are in the sky", "The birds are on the sky", "The birds are at the sky", "The birds is in the sky"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está escrita corretamente?",
+    "correctAnswer": "Our planet is beautiful",
+    "options": ["Our planet is beautiful", "We planet is beautiful", "Ours planet is beautiful", "Our planet are beautiful"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual é a forma correta da frase?",
+    "correctAnswer": "We can plant a tree",
+    "options": ["We can plant a tree", "We cans plant a tree", "We can plants a tree", "We can to plant a tree"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está correta?",
+    "correctAnswer": "The park has many flowers",
+    "options": ["The park has many flowers", "The park have many flowers", "The park haves many flowers", "The park is has many flowers"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual frase está gramaticalmente correta?",
+    "correctAnswer": "Those mountains are high",
+    "options": ["Those mountains are high", "That mountains are high", "Those mountain are high", "Those mountains is high"],
+    "difficulty": "hard"
+  }
+]

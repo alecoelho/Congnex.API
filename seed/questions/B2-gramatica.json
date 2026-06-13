@@ -1,0 +1,402 @@
+[
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual frase usa a segunda condicional corretamente para falar de rotina?",
+    "correctAnswer": "If I had more time, I would exercise every morning.",
+    "options": ["If I had more time, I would exercise every morning.", "If I would have more time, I would exercise every morning.", "If I have more time, I would exercise every morning.", "If I had more time, I will exercise every morning."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual frase usa 'used to' corretamente para um hábito do passado?",
+    "correctAnswer": "I used to wake up at six when I worked downtown.",
+    "options": ["I used to wake up at six when I worked downtown.", "I use to wake up at six when I worked downtown.", "I used to waking up at six when I worked downtown.", "I am used to wake up at six when I worked downtown."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual opção usa o gerúndio corretamente depois do verbo 'enjoy'?",
+    "correctAnswer": "She enjoys reading before going to bed.",
+    "options": ["She enjoys reading before going to bed.", "She enjoys to read before going to bed.", "She enjoys read before going to bed.", "She enjoys to reading before going to bed."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como fica em discurso indireto a fala 'I clean the house every Saturday'?",
+    "correctAnswer": "He said that he cleaned the house every Saturday.",
+    "options": ["He said that he cleaned the house every Saturday.", "He said me that he cleaned the house every Saturday.", "He told that he cleaned the house every Saturday.", "He said me he cleans the house every Saturday."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual a forma correta de dizer que você está acostumado a acordar cedo?",
+    "correctAnswer": "I'm used to getting up early on weekdays.",
+    "options": ["I'm used to getting up early on weekdays.", "I'm used to get up early on weekdays.", "I used to getting up early on weekdays.", "I'm use to get up early on weekdays."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual frase usa a terceira condicional corretamente para falar do atraso de hoje cedo?",
+    "correctAnswer": "If I had set my alarm, I wouldn't have been late this morning.",
+    "options": ["If I had set my alarm, I wouldn't have been late this morning.", "If I would have set my alarm, I wouldn't have been late this morning.", "If I had set my alarm, I wouldn't have be late this morning.", "If I set my alarm, I wouldn't have been late this morning."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual opção completa corretamente a tag question sobre arrumar a cama?",
+    "correctAnswer": "You make your bed every day, don't you?",
+    "options": ["You make your bed every day, don't you?", "You make your bed every day, no?", "You make your bed every day, isn't it?", "You make your bed every day, do you?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual frase usa corretamente um modal de dedução sobre o passado?",
+    "correctAnswer": "She must have forgotten to set her alarm — she's still asleep.",
+    "options": ["She must have forgotten to set her alarm — she's still asleep.", "She must forgot to set her alarm — she's still asleep.", "She must have forgot to set her alarm — she's still asleep.", "She must to have forgotten to set her alarm — she's still asleep."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual frase expressa corretamente um desejo sobre a rotina atual com 'wish'?",
+    "correctAnswer": "I wish I didn't have to commute two hours every day.",
+    "options": ["I wish I didn't have to commute two hours every day.", "I wish I don't have to commute two hours every day.", "I wish I hadn't to commute two hours every day.", "I wish I must not commute two hours every day."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual frase usa a voz passiva no present perfect corretamente?",
+    "correctAnswer": "The laundry has already been done this morning.",
+    "options": ["The laundry has already been done this morning.", "The laundry has already done this morning.", "The laundry has already been did this morning.", "The laundry have already been done this morning."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual frase usa a segunda condicional corretamente no contexto de trabalho?",
+    "correctAnswer": "If I got a promotion, I would move to a bigger office.",
+    "options": ["If I got a promotion, I would move to a bigger office.", "If I would get a promotion, I would move to a bigger office.", "If I get a promotion, I would move to a bigger office.", "If I got a promotion, I will move to a bigger office."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual a forma correta de relatar que a reunião foi adiada?",
+    "correctAnswer": "She told me that the meeting had been postponed.",
+    "options": ["She told me that the meeting had been postponed.", "She said me that the meeting had been postponed.", "She told to me that the meeting had been postponed.", "She told me that the meeting has be postponed."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual opção usa o infinitivo corretamente depois do verbo 'want'?",
+    "correctAnswer": "The manager wants to hire two new developers.",
+    "options": ["The manager wants to hire two new developers.", "The manager wants hiring two new developers.", "The manager wants hire two new developers.", "The manager wants to hiring two new developers."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual frase usa a voz passiva com modal corretamente sobre o relatório?",
+    "correctAnswer": "The report must be submitted by Friday.",
+    "options": ["The report must be submitted by Friday.", "The report must be submit by Friday.", "The report must submitted by Friday.", "The report must to be submitted by Friday."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual frase usa a terceira condicional corretamente sobre a entrevista de emprego?",
+    "correctAnswer": "If she had prepared better, she would have got the job.",
+    "options": ["If she had prepared better, she would have got the job.", "If she would have prepared better, she would have got the job.", "If she had prepared better, she would got the job.", "If she has prepared better, she would have got the job."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Como se diz corretamente que você gostaria que seu chefe ouvisse as sugestões?",
+    "correctAnswer": "I wish my boss listened to our suggestions.",
+    "options": ["I wish my boss listened to our suggestions.", "I wish my boss listens to our suggestions.", "I wish my boss would to listen to our suggestions.", "I wish my boss listen to our suggestions."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual frase usa o pronome relativo corretamente para falar do colega?",
+    "correctAnswer": "The colleague who sits next to me speaks three languages.",
+    "options": ["The colleague who sits next to me speaks three languages.", "The colleague which sits next to me speaks three languages.", "The colleague who he sits next to me speaks three languages.", "The colleague what sits next to me speaks three languages."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual frase usa corretamente 'can't have' para uma dedução sobre o projeto?",
+    "correctAnswer": "He can't have finished the project already — it's too complex.",
+    "options": ["He can't have finished the project already — it's too complex.", "He can't has finished the project already — it's too complex.", "He can't have finish the project already — it's too complex.", "He mustn't have finished the project already — it's too complex."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Como fica em discurso indireto a pergunta 'Where did you work before?' feita pelo entrevistador?",
+    "correctAnswer": "The interviewer asked me where I had worked before.",
+    "options": ["The interviewer asked me where I had worked before.", "The interviewer asked me where had I worked before.", "The interviewer asked me where did I work before.", "The interviewer said me where I had worked before."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual opção usa a voz passiva no present perfect corretamente sobre os candidatos?",
+    "correctAnswer": "Three candidates have been interviewed so far.",
+    "options": ["Three candidates have been interviewed so far.", "Three candidates have been interview so far.", "Three candidates has been interviewed so far.", "Three candidates have interviewed so far."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual frase usa a segunda condicional corretamente para falar de férias?",
+    "correctAnswer": "If I had more vacation days, I would travel to Asia.",
+    "options": ["If I had more vacation days, I would travel to Asia.", "If I would have more vacation days, I would travel to Asia.", "If I have more vacation days, I would travel to Asia.", "If I had more vacation days, I will travel to Asia."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual a forma correta de usar 'look forward to' sobre a viagem a Roma?",
+    "correctAnswer": "We're looking forward to visiting Rome next summer.",
+    "options": ["We're looking forward to visiting Rome next summer.", "We're looking forward to visit Rome next summer.", "We're looking forward visiting Rome next summer.", "We're looking forward to visits Rome next summer."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual frase usa 'used to' corretamente sobre os verões na praia?",
+    "correctAnswer": "We used to spend every summer at the beach.",
+    "options": ["We used to spend every summer at the beach.", "We use to spend every summer at the beach.", "We used to spending every summer at the beach.", "We are used to spend every summer at the beach."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual opção usa a voz passiva corretamente para falar do voo atrasado?",
+    "correctAnswer": "Our flight has been delayed because of the storm.",
+    "options": ["Our flight has been delayed because of the storm.", "Our flight has delayed because of the storm.", "Our flight has been delay because of the storm.", "Our flight have been delayed because of the storm."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Como fica em discurso indireto a fala 'I have never been to Portugal'?",
+    "correctAnswer": "She said that she had never been to Portugal.",
+    "options": ["She said that she had never been to Portugal.", "She said me that she had never been to Portugal.", "She said that she has never be to Portugal.", "She told that she had never been to Portugal."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual frase usa a terceira condicional corretamente sobre a compra das passagens?",
+    "correctAnswer": "If we had booked earlier, we would have paid less for the tickets.",
+    "options": ["If we had booked earlier, we would have paid less for the tickets.", "If we would have booked earlier, we would have paid less for the tickets.", "If we had booked earlier, we would have pay less for the tickets.", "If we had book earlier, we would have paid less for the tickets."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual opção completa corretamente a tag question sobre o passaporte?",
+    "correctAnswer": "You've packed your passport, haven't you?",
+    "options": ["You've packed your passport, haven't you?", "You've packed your passport, isn't it?", "You've packed your passport, didn't you?", "You've packed your passport, have you?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual frase usa corretamente 'might have' para uma dedução sobre a conexão?",
+    "correctAnswer": "They might have missed the connection — the first flight landed late.",
+    "options": ["They might have missed the connection — the first flight landed late.", "They might have miss the connection — the first flight landed late.", "They might had missed the connection — the first flight landed late.", "They might to have missed the connection — the first flight landed late."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual frase usa 'if only' corretamente para um arrependimento sobre a viagem?",
+    "correctAnswer": "If only we had checked the weather before booking the trip.",
+    "options": ["If only we had checked the weather before booking the trip.", "If only we would have checked the weather before booking the trip.", "If only we have checked the weather before booking the trip.", "If only we had check the weather before booking the trip."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Como se diz corretamente que você está acostumado a dormir em hostels?",
+    "correctAnswer": "After years of backpacking, I'm used to sleeping in hostels.",
+    "options": ["After years of backpacking, I'm used to sleeping in hostels.", "After years of backpacking, I'm used to sleep in hostels.", "After years of backpacking, I used to sleeping in hostels.", "After years of backpacking, I'm use to sleeping in hostels."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual frase usa a segunda condicional corretamente sobre alimentação e saúde?",
+    "correctAnswer": "If I ate less sugar, I would feel much better.",
+    "options": ["If I ate less sugar, I would feel much better.", "If I would eat less sugar, I would feel much better.", "If I eat less sugar, I would feel much better.", "If I ate less sugar, I will feel much better."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual opção usa o gerúndio corretamente depois do verbo 'suggest'?",
+    "correctAnswer": "The doctor suggested doing more exercise.",
+    "options": ["The doctor suggested doing more exercise.", "The doctor suggested to do more exercise.", "The doctor suggested do more exercise.", "The doctor suggested me to doing more exercise."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual a forma correta de dizer que o remédio deve ser tomado duas vezes ao dia?",
+    "correctAnswer": "This medicine must be taken twice a day.",
+    "options": ["This medicine must be taken twice a day.", "This medicine must be take twice a day.", "This medicine must taken twice a day.", "This medicine must to be taken twice a day."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como fica em discurso indireto a recomendação 'You need to rest for a week'?",
+    "correctAnswer": "The doctor told me that I needed to rest for a week.",
+    "options": ["The doctor told me that I needed to rest for a week.", "The doctor said me that I needed to rest for a week.", "The doctor told to me that I needed to rest for a week.", "The doctor told me that I need rested for a week."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual frase usa a terceira condicional corretamente sobre a ida ao médico?",
+    "correctAnswer": "If he had gone to the doctor earlier, the treatment would have been easier.",
+    "options": ["If he had gone to the doctor earlier, the treatment would have been easier.", "If he would have gone to the doctor earlier, the treatment would have been easier.", "If he had went to the doctor earlier, the treatment would have been easier.", "If he had gone to the doctor earlier, the treatment would have be easier."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual frase expressa corretamente um arrependimento com 'wish' sobre exercícios?",
+    "correctAnswer": "I wish I had started exercising years ago.",
+    "options": ["I wish I had started exercising years ago.", "I wish I have started exercising years ago.", "I wish I would started exercising years ago.", "I wish I had start exercising years ago."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual opção usa o pronome relativo corretamente para falar da enfermeira?",
+    "correctAnswer": "The nurse who took care of my grandmother was very patient.",
+    "options": ["The nurse who took care of my grandmother was very patient.", "The nurse which took care of my grandmother was very patient.", "The nurse who she took care of my grandmother was very patient.", "The nurse what took care of my grandmother was very patient."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual frase usa corretamente 'must have' para deduzir onde ele pegou a gripe?",
+    "correctAnswer": "He must have caught the flu at the office — everyone there is sick.",
+    "options": ["He must have caught the flu at the office — everyone there is sick.", "He must have catch the flu at the office — everyone there is sick.", "He must caught the flu at the office — everyone there is sick.", "He must has caught the flu at the office — everyone there is sick."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como fica em discurso indireto a ordem 'Don't eat sweets before bed' dita pelo dentista?",
+    "correctAnswer": "The dentist told me not to eat sweets before bed.",
+    "options": ["The dentist told me not to eat sweets before bed.", "The dentist told me to not eating sweets before bed.", "The dentist said me not to eat sweets before bed.", "The dentist told me don't eat sweets before bed."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual opção usa a voz passiva no present perfect corretamente sobre a vacinação?",
+    "correctAnswer": "Hundreds of patients have been vaccinated at this clinic.",
+    "options": ["Hundreds of patients have been vaccinated at this clinic.", "Hundreds of patients has been vaccinated at this clinic.", "Hundreds of patients have been vaccinate at this clinic.", "Hundreds of patients have vaccinated at this clinic."],
+    "difficulty": "hard"
+  }
+]
