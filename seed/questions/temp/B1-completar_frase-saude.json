@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "A healthy diet should include plenty of ___ and vegetables.",
+        "correctAnswer":  "fruits",
+        "options":  [
+                        "fruits",
+                        "candies",
+                        "desserts",
+                        "fast food"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Drinking enough ___ is important for your health.",
+        "correctAnswer":  "water",
+        "options":  [
+                        "water",
+                        "coffee",
+                        "soda",
+                        "alcohol"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Regular ___ helps reduce stress and improve fitness.",
+        "correctAnswer":  "exercise",
+        "options":  [
+                        "exercise",
+                        "smoking",
+                        "eating",
+                        "sleeping"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "You should get at least 8 hours of ___ every night.",
+        "correctAnswer":  "sleep",
+        "options":  [
+                        "sleep",
+                        "rest",
+                        "dreams",
+                        "work"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "It\u0027s important to wash your ___ regularly to prevent illness.",
+        "correctAnswer":  "hands",
+        "options":  [
+                        "hands",
+                        "face",
+                        "feet",
+                        "hair"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Smoking is ___ for your health and should be avoided.",
+        "correctAnswer":  "bad",
+        "options":  [
+                        "bad",
+                        "good",
+                        "neutral",
+                        "beneficial"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "A balanced ___ includes proteins, carbohydrates, and fats.",
+        "correctAnswer":  "diet",
+        "options":  [
+                        "diet",
+                        "meal",
+                        "snack",
+                        "dessert"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "If you feel ___, you should see a doctor.",
+        "correctAnswer":  "sick",
+        "options":  [
+                        "sick",
+                        "happy",
+                        "tired",
+                        "energetic"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Taking ___ is a good way to stay healthy.",
+        "correctAnswer":  "vitamins",
+        "options":  [
+                        "vitamins",
+                        "medicines",
+                        "pills",
+                        "drugs"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Mental ___ is as important as physical health.",
+        "correctAnswer":  "health",
+        "options":  [
+                        "health",
+                        "fitness",
+                        "exercise",
+                        "strength"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "You should brush your ___ twice a day.",
+        "correctAnswer":  "teeth",
+        "options":  [
+                        "teeth",
+                        "hair",
+                        "skin",
+                        "tongue"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Sunscreen protects your ___ from harmful rays.",
+        "correctAnswer":  "skin",
+        "options":  [
+                        "skin",
+                        "eyes",
+                        "hair",
+                        "teeth"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Eating too much ___ can lead to weight gain.",
+        "correctAnswer":  "sugar",
+        "options":  [
+                        "sugar",
+                        "vegetables",
+                        "salad",
+                        "fiber"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Regular check-ups at the ___ are important.",
+        "correctAnswer":  "doctor",
+        "options":  [
+                        "doctor",
+                        "gym",
+                        "store",
+                        "home"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "A healthy lifestyle includes good ___ and nutrition.",
+        "correctAnswer":  "habits",
+        "options":  [
+                        "habits",
+                        "talents",
+                        "hobbies",
+                        "games"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "The doctor prescribed ___ to treat the infection.",
+        "correctAnswer":  "antibiotics",
+        "options":  [
+                        "antibiotics",
+                        "vitamins",
+                        "supplements",
+                        "tonics"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Staying ___ is essential for good health and longevity.",
+        "correctAnswer":  "active",
+        "options":  [
+                        "active",
+                        "passive",
+                        "quiet",
+                        "still"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Yoga and meditation help ___ stress and anxiety.",
+        "correctAnswer":  "reduce",
+        "options":  [
+                        "reduce",
+                        "increase",
+                        "maintain",
+                        "develop"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "People who exercise regularly tend to have stronger ___ systems.",
+        "correctAnswer":  "immune",
+        "options":  [
+                        "immune",
+                        "nervous",
+                        "digestive",
+                        "respiratory"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Proper ___ is crucial for maintaining a healthy weight.",
+        "correctAnswer":  "nutrition",
+        "options":  [
+                        "nutrition",
+                        "exercise",
+                        "sleep",
+                        "meditation"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "The nurse took my blood ___ to check my health.",
+        "correctAnswer":  "pressure",
+        "options":  [
+                        "pressure",
+                        "temperature",
+                        "sample",
+                        "test"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "A ___ lifestyle involves regular activity and good eating habits.",
+        "correctAnswer":  "healthy",
+        "options":  [
+                        "healthy",
+                        "sedentary",
+                        "active",
+                        "balanced"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Breakfast is an important ___ that gives you energy.",
+        "correctAnswer":  "meal",
+        "options":  [
+                        "meal",
+                        "moment",
+                        "time",
+                        "activity"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Swimming is an excellent ___ for cardiovascular health.",
+        "correctAnswer":  "exercise",
+        "options":  [
+                        "exercise",
+                        "sport",
+                        "activity",
+                        "skill"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Lack of sleep can ___ your ability to concentrate.",
+        "correctAnswer":  "affect",
+        "options":  [
+                        "affect",
+                        "improve",
+                        "increase",
+                        "boost"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "A ___ balanced diet should include all food groups.",
+        "correctAnswer":  "well",
+        "options":  [
+                        "well",
+                        "very",
+                        "properly",
+                        "correctly"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "The ___ recommended that I exercise at least 30 minutes daily.",
+        "correctAnswer":  "doctor",
+        "options":  [
+                        "doctor",
+                        "friend",
+                        "nurse",
+                        "pharmacist"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Eating fresh produce ___ in nutrient content compared to processed foods.",
+        "correctAnswer":  "is higher",
+        "options":  [
+                        "is higher",
+                        "is lower",
+                        "is equal",
+                        "remains same"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Physical activity helps ___ your cardiovascular system.",
+        "correctAnswer":  "strengthen",
+        "options":  [
+                        "strengthen",
+                        "weaken",
+                        "relax",
+                        "stretch"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Hydration is ___ for maintaining healthy skin and organs.",
+        "correctAnswer":  "essential",
+        "options":  [
+                        "essential",
+                        "optional",
+                        "unnecessary",
+                        "secondary"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Regular health ___ can detect problems early.",
+        "correctAnswer":  "screenings",
+        "options":  [
+                        "screenings",
+                        "appointments",
+                        "visits",
+                        "consultations"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Stress management ___ include breathing exercises and relaxation techniques.",
+        "correctAnswer":  "methods",
+        "options":  [
+                        "methods",
+                        "techniques",
+                        "strategies",
+                        "ways"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Excessive sugar ___ can lead to tooth decay and diabetes.",
+        "correctAnswer":  "consumption",
+        "options":  [
+                        "consumption",
+                        "intake",
+                        "eating",
+                        "digestion"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "A proper sleep ___ is vital for physical recovery and mental clarity.",
+        "correctAnswer":  "schedule",
+        "options":  [
+                        "schedule",
+                        "routine",
+                        "pattern",
+                        "cycle"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Chronic ___ can be managed through proper treatment and lifestyle changes.",
+        "correctAnswer":  "diseases",
+        "options":  [
+                        "diseases",
+                        "pain",
+                        "fatigue",
+                        "illnesses"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "The ___ of exercise on mental health is well documented by scientists.",
+        "correctAnswer":  "impact",
+        "options":  [
+                        "impact",
+                        "effect",
+                        "influence",
+                        "benefit"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Dietary ___ such as sodium and saturated fats should be limited.",
+        "correctAnswer":  "components",
+        "options":  [
+                        "components",
+                        "elements",
+                        "substances",
+                        "factors"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Preventive healthcare involves ___ measures to avoid illness.",
+        "correctAnswer":  "proactive",
+        "options":  [
+                        "proactive",
+                        "passive",
+                        "reactive",
+                        "inactive"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "The ___ between diet and disease prevention is increasingly recognized.",
+        "correctAnswer":  "correlation",
+        "options":  [
+                        "correlation",
+                        "relation",
+                        "connection",
+                        "link"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Obesity is a ___ factor for many cardiovascular conditions.",
+        "correctAnswer":  "risk",
+        "options":  [
+                        "risk",
+                        "health",
+                        "major",
+                        "main"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Mental health ____ requires ongoing attention and sometimes professional support.",
+        "correctAnswer":  "maintenance",
+        "options":  [
+                        "maintenance",
+                        "care",
+                        "support",
+                        "treatment"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Consistent physical activity can ___ the risk of developing heart disease.",
+        "correctAnswer":  "decrease",
+        "options":  [
+                        "decrease",
+                        "increase",
+                        "maintain",
+                        "stabilize"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "The ___ of lifestyle factors on longevity cannot be overstated.",
+        "correctAnswer":  "significance",
+        "options":  [
+                        "significance",
+                        "importance",
+                        "value",
+                        "weight"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Nutritionists ___ a balanced approach combining exercise and healthy eating.",
+        "correctAnswer":  "recommend",
+        "options":  [
+                        "recommend",
+                        "suggest",
+                        "propose",
+                        "advise"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Sleep ___ is a common problem in modern society.",
+        "correctAnswer":  "deprivation",
+        "options":  [
+                        "deprivation",
+                        "loss",
+                        "lack",
+                        "deficit"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "A ____ approach to health considers physical, mental, and emotional aspects.",
+        "correctAnswer":  "holistic",
+        "options":  [
+                        "holistic",
+                        "complete",
+                        "full",
+                        "comprehensive"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Sedentary ____ over long periods can lead to metabolic problems.",
+        "correctAnswer":  "behavior",
+        "options":  [
+                        "behavior",
+                        "activity",
+                        "lifestyle",
+                        "habits"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Social connections contribute positively to overall health and ____ longevity.",
+        "correctAnswer":  "increase",
+        "options":  [
+                        "increase",
+                        "decrease",
+                        "affect",
+                        "improve"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Antibiotics should only be taken when ___ by a medical professional.",
+        "correctAnswer":  "prescribed",
+        "options":  [
+                        "prescribed",
+                        "recommended",
+                        "suggested",
+                        "advised"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "The human body ___ hundreds of biochemical processes daily.",
+        "correctAnswer":  "undergoes",
+        "options":  [
+                        "undergoes",
+                        "experiences",
+                        "performs",
+                        "executes"
+                    ],
+        "difficulty":  "hard"
+    }
+]

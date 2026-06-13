@@ -1,0 +1,502 @@
+[
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The movie was so interesting that I ___ until the end without leaving my seat.",
+    "correctAnswer": "stayed",
+    "options": ["stayed", "left", "sat", "watched"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "I really enjoyed the concert last night. The band ___ great songs for two hours.",
+    "correctAnswer": "played",
+    "options": ["played", "danced", "sang", "performed"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "She loves reading books about ___ history and ancient civilizations.",
+    "correctAnswer": "ancient",
+    "options": ["ancient", "modern", "current", "recent"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "My favorite TV show is ___ every Wednesday at 8 PM.",
+    "correctAnswer": "on",
+    "options": ["on", "at", "in", "by"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The artist ___ a beautiful painting that won first prize in the exhibition.",
+    "correctAnswer": "created",
+    "options": ["created", "made", "built", "drew"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "I ___ going to the theater because I enjoy live performances.",
+    "correctAnswer": "enjoy",
+    "options": ["enjoy", "like", "love", "prefer"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The documentary was ___ interesting that everyone in the class watched it.",
+    "correctAnswer": "so",
+    "options": ["so", "very", "quite", "rather"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "She is a famous ___ who has won several international awards.",
+    "correctAnswer": "actress",
+    "options": ["actress", "actor", "star", "performer"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The museum is open from 9 AM ___ 5 PM every day.",
+    "correctAnswer": "to",
+    "options": ["to", "till", "until", "through"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "I have never ___ to a live music festival before.",
+    "correctAnswer": "been",
+    "options": ["been", "went", "go", "visited"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The ___ of the film was exciting and kept me on the edge of my seat.",
+    "correctAnswer": "plot",
+    "options": ["plot", "scene", "setting", "story"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "My brother ___ into comedy films recently.",
+    "correctAnswer": "got",
+    "options": ["got", "turned", "became", "went"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The photographer ___ some amazing pictures at the cultural festival.",
+    "correctAnswer": "took",
+    "options": ["took", "caught", "shot", "grabbed"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "She has a ___ for traditional music and plays the violin beautifully.",
+    "correctAnswer": "passion",
+    "options": ["passion", "love", "interest", "hobby"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The ballet performance was so elegant that the audience ___ for several minutes.",
+    "correctAnswer": "applauded",
+    "options": ["applauded", "cheered", "clapped", "shouted"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "I ___ that movie because it had great acting and interesting dialogue.",
+    "correctAnswer": "loved",
+    "options": ["loved", "enjoyed", "liked", "found"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The art gallery is ___ free admission for students on Fridays.",
+    "correctAnswer": "offering",
+    "options": ["offering", "providing", "giving", "making"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The lead actor gave such a ___ performance that everyone remembered his character.",
+    "correctAnswer": "memorable",
+    "options": ["memorable", "good", "wonderful", "excellent"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "Although the book was lengthy, the author ___ to keep readers engaged throughout.",
+    "correctAnswer": "managed",
+    "options": ["managed", "succeeded", "tried", "worked"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The ___ of the play were so realistic that the audience felt emotionally connected.",
+    "correctAnswer": "characters",
+    "options": ["characters", "actors", "people", "roles"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The director's latest film has ___ critical acclaim and multiple award nominations.",
+    "correctAnswer": "received",
+    "options": ["received", "gotten", "taken", "achieved"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "She is well-___ for her contributions to contemporary art and design.",
+    "correctAnswer": "known",
+    "options": ["known", "regarded", "recognized", "famous"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The ___ of the novel reveals a complex relationship between the main characters.",
+    "correctAnswer": "narrative",
+    "options": ["narrative", "story", "plot", "setting"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "Most teenagers ___ music videos on social media rather than watching full albums.",
+    "correctAnswer": "prefer",
+    "options": ["prefer", "choose", "like", "enjoy"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The documentary ___ light on important cultural issues that are often overlooked.",
+    "correctAnswer": "shed",
+    "options": ["shed", "threw", "cast", "put"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "He has ___ his entire collection of vinyl records to his local museum.",
+    "correctAnswer": "donated",
+    "options": ["donated", "given", "contributed", "transferred"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The film festival attracts filmmakers from all over the world who ___ to showcase their work.",
+    "correctAnswer": "come",
+    "options": ["come", "arrive", "go", "gather"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The stage design was so ___ that it created a unique atmosphere for the performance.",
+    "correctAnswer": "creative",
+    "options": ["creative", "original", "artistic", "unique"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "I ___ that the best way to appreciate art is to visit museums and galleries in person.",
+    "correctAnswer": "believe",
+    "options": ["believe", "think", "feel", "consider"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The rock band ___ a sold-out concert at the arena last weekend.",
+    "correctAnswer": "performed",
+    "options": ["performed", "played", "gave", "held"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The screenplay was ___ by one of the most talented writers in the industry.",
+    "correctAnswer": "written",
+    "options": ["written", "created", "made", "composed"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "She decided to ___ traditional dance classes after watching a cultural performance.",
+    "correctAnswer": "take",
+    "options": ["take", "attend", "join", "start"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The museum's collection includes artwork that ___ back several centuries.",
+    "correctAnswer": "dates",
+    "options": ["dates", "goes", "comes", "returns"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The mystery series has been ___ by audiences worldwide for its suspenseful plot.",
+    "correctAnswer": "praised",
+    "options": ["praised", "loved", "appreciated", "recognized"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The novel ___ with themes of identity, love, and personal growth throughout the narrative.",
+    "correctAnswer": "deals",
+    "options": ["deals", "concerns", "treats", "covers"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The film's cinematography was so breathtaking that it deserved recognition all by ___.",
+    "correctAnswer": "itself",
+    "options": ["itself", "own", "alone", "self"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The artist's work has been ___ with breaking conventions and challenging traditional artistic boundaries.",
+    "correctAnswer": "associated",
+    "options": ["associated", "linked", "connected", "identified"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The theatrical production ___ the audience with its innovative staging and powerful performances.",
+    "correctAnswer": "captivated",
+    "options": ["captivated", "impressed", "amazed", "moved"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The composer's latest symphony is considered a ___ in modern classical music.",
+    "correctAnswer": "masterpiece",
+    "options": ["masterpiece", "work", "creation", "piece"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The documentary ___ into the lives of street artists and their impact on urban culture.",
+    "correctAnswer": "delves",
+    "options": ["delves", "goes", "looks", "dives"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The museum has ___ a significant portion of its budget to acquiring rare artifacts.",
+    "correctAnswer": "allocated",
+    "options": ["allocated", "assigned", "devoted", "given"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The film's ending was so ___ that critics debated its meaning for weeks afterward.",
+    "correctAnswer": "ambiguous",
+    "options": ["ambiguous", "unclear", "confusing", "vague"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The actor's ___ transformation for the role earned him critical acclaim and numerous awards.",
+    "correctAnswer": "remarkable",
+    "options": ["remarkable", "noticeable", "obvious", "stunning"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The sculpture was so intricately detailed that it ___ close examination for full appreciation.",
+    "correctAnswer": "warranted",
+    "options": ["warranted", "deserved", "required", "needed"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The orchestral composition ___ elements of traditional and contemporary music seamlessly.",
+    "correctAnswer": "blends",
+    "options": ["blends", "mixes", "combines", "fuses"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The film festival served as a ___ for emerging talent to showcase their skills to industry professionals.",
+    "correctAnswer": "platform",
+    "options": ["platform", "stage", "venue", "setting"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The author's exploration of cultural identity ___ throughout her entire body of work.",
+    "correctAnswer": "permeates",
+    "options": ["permeates", "runs", "flows", "spreads"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The theatrical adaptation successfully ___ the novel's complex themes for a modern audience.",
+    "correctAnswer": "interprets",
+    "options": ["interprets", "translates", "conveys", "presents"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The museum's curatorial approach ___ historical artifacts with contemporary artistic installations.",
+    "correctAnswer": "juxtaposes",
+    "options": ["juxtaposes", "combines", "pairs", "matches"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The director's latest film serves as a poignant ___ on the consequences of societal neglect.",
+    "correctAnswer": "commentary",
+    "options": ["commentary", "observation", "reflection", "statement"],
+    "difficulty": "hard"
+  }
+]

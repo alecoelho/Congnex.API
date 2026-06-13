@@ -1,0 +1,492 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você está com fome e quer pedir um hambúrguer no restaurante. O que você diz ao garçom?",
+    "correctAnswer": "I want a hamburger, please.",
+    "options": ["I want a hamburger, please.", "I have a hamburger.", "Hamburger is good.", "Where is the hamburger?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que está com sede. O que você fala?",
+    "correctAnswer": "I am thirsty.",
+    "options": ["I am thirsty.", "I am hungry.", "I am tired.", "I am cold."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir um copo de água. O que você diz?",
+    "correctAnswer": "A glass of water, please.",
+    "options": ["A glass of water, please.", "A cup of water, please.", "Water is good.", "I like water."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que a comida é deliciosa. O que você fala?",
+    "correctAnswer": "The food is delicious!",
+    "options": ["The food is delicious!", "The food is bad.", "I don't like food.", "Food is here."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber se há pão disponível. O que você pergunta?",
+    "correctAnswer": "Do you have bread?",
+    "options": ["Do you have bread?", "I want bread.", "Where is the bread?", "The bread is good."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir a conta no restaurante. O que você diz?",
+    "correctAnswer": "The bill, please.",
+    "options": ["The bill, please.", "The food, please.", "The menu, please.", "The table, please."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que gosta de maçãs. O que você fala?",
+    "correctAnswer": "I like apples.",
+    "options": ["I like apples.", "I eat apples.", "Apples are red.", "I have apples."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você está com fome e quer expressar isso. O que você diz?",
+    "correctAnswer": "I am hungry.",
+    "options": ["I am hungry.", "I am full.", "I am thirsty.", "I am happy."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir um suco de laranja. Como você pede?",
+    "correctAnswer": "An orange juice, please.",
+    "options": ["An orange juice, please.", "I want orange.", "Orange is good.", "Give me orange."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que não gosta de leite. O que você fala?",
+    "correctAnswer": "I don't like milk.",
+    "options": ["I don't like milk.", "I like milk.", "Milk is bad.", "I have no milk."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer cumprimentar alguém antes de comer e dizer 'bom apetite'. O que você fala em inglês?",
+    "correctAnswer": "Enjoy your meal!",
+    "options": ["Enjoy your meal!", "Good morning!", "Have a nice day!", "Thank you!"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar onde fica o restaurante. O que você diz?",
+    "correctAnswer": "Where is the restaurant?",
+    "options": ["Where is the restaurant?", "What is the restaurant?", "The restaurant is here.", "I like the restaurant."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir um café. Como você faz o pedido?",
+    "correctAnswer": "A coffee, please.",
+    "options": ["A coffee, please.", "I want coffee now.", "Coffee is hot.", "Give me the coffee."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que come arroz todos os dias. O que você fala?",
+    "correctAnswer": "I eat rice every day.",
+    "options": ["I eat rice every day.", "I like rice sometimes.", "Rice is good for me.", "I cook rice always."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar ao seu amigo o que ele quer beber. O que você pergunta?",
+    "correctAnswer": "What do you want to drink?",
+    "options": ["What do you want to drink?", "Do you like drinks?", "What is your drink?", "Can I drink?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que a sopa está quente. O que você fala?",
+    "correctAnswer": "The soup is hot.",
+    "options": ["The soup is hot.", "The soup is cold.", "I like the soup.", "Soup is food."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir mais pão na mesa. Como você pede educadamente?",
+    "correctAnswer": "More bread, please.",
+    "options": ["More bread, please.", "I need bread now.", "Bread here!", "Give bread."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar ao garçom o que tem no cardápio. O que você diz?",
+    "correctAnswer": "Can I see the menu, please?",
+    "options": ["Can I see the menu, please?", "Where is the food?", "I want the menu now.", "What is the menu?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar quanto custa um sanduíche. O que você pergunta?",
+    "correctAnswer": "How much is the sandwich?",
+    "options": ["How much is the sandwich?", "What is the sandwich?", "Where is the sandwich?", "Is the sandwich good?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que prefere chá a café. Como você expressa isso?",
+    "correctAnswer": "I prefer tea to coffee.",
+    "options": ["I prefer tea to coffee.", "I like tea and coffee.", "Tea is better coffee.", "I want tea not coffee."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer reclamar educadamente que sua comida está fria. O que você diz ao garçom?",
+    "correctAnswer": "Excuse me, my food is cold.",
+    "options": ["Excuse me, my food is cold.", "My food is not here.", "I don't want my food.", "The food is very bad."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar se o restaurante está aberto agora. O que você diz?",
+    "correctAnswer": "Is the restaurant open now?",
+    "options": ["Is the restaurant open now?", "When the restaurant opens?", "The restaurant is open?", "Does the restaurant open?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que toma café da manhã às 7 horas. O que você fala?",
+    "correctAnswer": "I have breakfast at seven.",
+    "options": ["I have breakfast at seven.", "I eat in the morning seven.", "My breakfast is at seven o'clock.", "Breakfast I eat at seven."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir para reservar uma mesa para duas pessoas. O que você diz?",
+    "correctAnswer": "A table for two, please.",
+    "options": ["A table for two, please.", "Two tables, please.", "I want two seats.", "We need a table."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber se o prato tem muito açúcar. Como você pergunta?",
+    "correctAnswer": "Does it have a lot of sugar?",
+    "options": ["Does it have a lot of sugar?", "Is there any sugar?", "How much sugar is it?", "Sugar is in it?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que seu prato favorito é frango grelhado. Como você expressa isso?",
+    "correctAnswer": "My favorite dish is grilled chicken.",
+    "options": ["My favorite dish is grilled chicken.", "I always eat grilled chicken.", "Grilled chicken is a good food.", "I like to eat chicken grilled."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você está em um café e quer saber se eles têm bolo de chocolate. O que você pergunta?",
+    "correctAnswer": "Do you have chocolate cake?",
+    "options": ["Do you have chocolate cake?", "Is there a chocolate cake?", "Can I have chocolate cake?", "Where is the chocolate cake?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que come frutas de manhã. O que você fala?",
+    "correctAnswer": "I eat fruit in the morning.",
+    "options": ["I eat fruit in the morning.", "I like fruit for morning.", "Morning I eat fruits.", "Fruit is my morning."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir ao garçom para trazer mais sal. Como você pede?",
+    "correctAnswer": "Can I have some salt, please?",
+    "options": ["Can I have some salt, please?", "Salt here, please.", "I need the salt now.", "Give me salt."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que não come carne. Como você expressa isso?",
+    "correctAnswer": "I don't eat meat.",
+    "options": ["I don't eat meat.", "I no like meat.", "Meat is not good.", "I can't meat."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar ao seu amigo se ele almoçou. O que você pergunta?",
+    "correctAnswer": "Did you have lunch?",
+    "options": ["Did you have lunch?", "Do you eat lunch?", "Are you eating lunch?", "Have you lunch?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer elogiar o jantar que seu amigo preparou. O que você diz?",
+    "correctAnswer": "This dinner is very good!",
+    "options": ["This dinner is very good!", "I like the dinner food.", "Dinner is nice here.", "Your dinner good!"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que bebe dois copos de água por dia. Como você expressa isso?",
+    "correctAnswer": "I drink two glasses of water a day.",
+    "options": ["I drink two glasses of water a day.", "I drink water two times day.", "Two water glasses I drink.", "I take two water each day."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você está num restaurante e quer saber quais são as opções de sobremesa. O que você pergunta?",
+    "correctAnswer": "What desserts do you have?",
+    "options": ["What desserts do you have?", "Do you have sweets?", "What is the sweet menu?", "Can I see dessert?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que o sorvete é muito doce para você. Como você expressa isso?",
+    "correctAnswer": "The ice cream is too sweet for me.",
+    "options": ["The ice cream is too sweet for me.", "Ice cream is very sweet.", "I don't like sweet ice cream.", "Ice cream has much sweet."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer informar ao garçom que é alérgico a nozes. O que você diz?",
+    "correctAnswer": "I am allergic to nuts.",
+    "options": ["I am allergic to nuts.", "I don't eat nuts please.", "Nuts are bad for me.", "No nuts in my food."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar se o prato do dia inclui acompanhamento. O que você pergunta?",
+    "correctAnswer": "Does the daily special come with a side dish?",
+    "options": ["Does the daily special come with a side dish?", "What is included in the menu?", "Is the daily food with sides?", "The special has food with it?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir ao garçom para trocar seu prato porque veio errado. O que você diz?",
+    "correctAnswer": "Excuse me, this is not what I ordered.",
+    "options": ["Excuse me, this is not what I ordered.", "I don't want this food.", "My order is wrong please.", "Change my food, please."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar se o restaurante aceita cartão de crédito. O que você diz?",
+    "correctAnswer": "Do you accept credit cards?",
+    "options": ["Do you accept credit cards?", "Can I pay with card?", "Is card payment ok?", "You take credit card?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que segue uma dieta vegetariana. Como você informa isso ao garçom?",
+    "correctAnswer": "I am a vegetarian.",
+    "options": ["I am a vegetarian.", "I only eat vegetables.", "No meat for me please.", "I eat no animals."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar se a pizza é feita na hora. Como você pergunta?",
+    "correctAnswer": "Is the pizza freshly made?",
+    "options": ["Is the pizza freshly made?", "Is the pizza new?", "Do you make pizza now?", "The pizza is fresh today?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir para separar a conta com seu amigo. O que você diz ao garçom?",
+    "correctAnswer": "Can we have separate bills, please?",
+    "options": ["Can we have separate bills, please?", "We pay two bills.", "Split the bill please.", "Two accounts for us."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber se o prato contém glúten. Como você pergunta?",
+    "correctAnswer": "Does this dish contain gluten?",
+    "options": ["Does this dish contain gluten?", "Is there gluten here?", "Has gluten in this food?", "Gluten is in this plate?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer ao garçom que gostaria de fazer o pedido agora. O que você fala?",
+    "correctAnswer": "I would like to order now, please.",
+    "options": ["I would like to order now, please.", "I want to order food.", "Can I order my food?", "Ready to order, thank you."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar se há opção sem lactose no cardápio. O que você pergunta?",
+    "correctAnswer": "Do you have any dairy-free options?",
+    "options": ["Do you have any dairy-free options?", "Is there food without milk?", "Can I have no dairy?", "No milk food please."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar ao garçom qual é a recomendação do chef. O que você diz?",
+    "correctAnswer": "What do you recommend?",
+    "options": ["What do you recommend?", "What is the best food?", "Which food is good today?", "What should I order?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer informar que prefere o bife bem passado. Como você expressa isso?",
+    "correctAnswer": "I would like my steak well done.",
+    "options": ["I would like my steak well done.", "My steak very cooked please.", "I want steak done well.", "Cook my steak a lot."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar se pode levar a sobra da comida para casa. O que você diz ao garçom?",
+    "correctAnswer": "Can I have a box for the leftovers?",
+    "options": ["Can I have a box for the leftovers?", "I want to take my food home.", "Can I bring food outside?", "Box for food to go please."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer agradecer ao cozinheiro pela ótima refeição. O que você diz?",
+    "correctAnswer": "Thank you, the meal was excellent!",
+    "options": ["Thank you, the meal was excellent!", "The cook is very good.", "Food was nice, thanks.", "I liked the cooking, bye."],
+    "difficulty": "hard"
+  }
+]

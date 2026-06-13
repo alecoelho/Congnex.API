@@ -1,0 +1,502 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'job' em inglês?",
+    "correctAnswer": "Emprego / Trabalho",
+    "options": ["Emprego / Trabalho", "Escola", "Casa", "Carro"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'boss' em inglês?",
+    "correctAnswer": "Chefe",
+    "options": ["Chefe", "Colega", "Cliente", "Funcionário"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'office' em inglês?",
+    "correctAnswer": "Escritório",
+    "options": ["Escritório", "Fábrica", "Loja", "Hospital"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'work' em inglês?",
+    "correctAnswer": "Trabalho / Trabalhar",
+    "options": ["Trabalho / Trabalhar", "Descanso", "Férias", "Estudo"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'money' em inglês?",
+    "correctAnswer": "Dinheiro",
+    "options": ["Dinheiro", "Tempo", "Trabalho", "Contrato"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'name' no contexto de um formulário de emprego?",
+    "correctAnswer": "Nome",
+    "options": ["Nome", "Endereço", "Telefone", "Cargo"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'phone' em inglês?",
+    "correctAnswer": "Telefone",
+    "options": ["Telefone", "Computador", "Impressora", "Mesa"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'email' em inglês?",
+    "correctAnswer": "Correio eletrônico / Email",
+    "options": ["Correio eletrônico / Email", "Carta impressa", "Reunião", "Relatório"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'meeting' em inglês?",
+    "correctAnswer": "Reunião",
+    "options": ["Reunião", "Almoço", "Intervalo", "Treinamento"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'desk' em inglês?",
+    "correctAnswer": "Mesa de trabalho",
+    "options": ["Mesa de trabalho", "Cadeira", "Armário", "Janela"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'computer' em inglês?",
+    "correctAnswer": "Computador",
+    "options": ["Computador", "Impressora", "Telefone", "Tablet"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'I work here' em inglês?",
+    "correctAnswer": "Eu trabalho aqui",
+    "options": ["Eu trabalho aqui", "Eu moro aqui", "Eu estudo aqui", "Eu compro aqui"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'company' em inglês?",
+    "correctAnswer": "Empresa",
+    "options": ["Empresa", "Cidade", "Escola", "Governo"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'salary' em inglês?",
+    "correctAnswer": "Salário",
+    "options": ["Salário", "Imposto", "Desconto", "Bônus"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'break' no contexto do trabalho?",
+    "correctAnswer": "Intervalo / Pausa",
+    "options": ["Intervalo / Pausa", "Reunião", "Tarefa", "Relatório"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'full-time' no contexto de trabalho?",
+    "correctAnswer": "Tempo integral",
+    "options": ["Tempo integral", "Meio período", "Freelancer", "Temporário"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'team' em inglês?",
+    "correctAnswer": "Equipe / Time",
+    "options": ["Equipe / Time", "Projeto", "Meta", "Departamento"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'hire' em inglês, no contexto de trabalho?",
+    "correctAnswer": "Contratar",
+    "options": ["Contratar", "Demitir", "Promover", "Transferir"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'resume' em inglês, no contexto de emprego?",
+    "correctAnswer": "Currículo",
+    "options": ["Currículo", "Contrato", "Carta de demissão", "Crachá"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'job interview' em inglês?",
+    "correctAnswer": "Entrevista de emprego",
+    "options": ["Entrevista de emprego", "Reunião de equipe", "Avaliação de desempenho", "Treinamento de pessoal"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'coworker' em inglês?",
+    "correctAnswer": "Colega de trabalho",
+    "options": ["Colega de trabalho", "Supervisor", "Cliente", "Fornecedor"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'department' em inglês?",
+    "correctAnswer": "Departamento / Setor",
+    "options": ["Departamento / Setor", "Filial", "Escritório", "Andar"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'part-time' no contexto de trabalho?",
+    "correctAnswer": "Meio período",
+    "options": ["Meio período", "Tempo integral", "Horas extras", "Plantão"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'deadline' em inglês?",
+    "correctAnswer": "Prazo final",
+    "options": ["Prazo final", "Meta de vendas", "Horário de almoço", "Reunião semanal"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'task' em inglês?",
+    "correctAnswer": "Tarefa",
+    "options": ["Tarefa", "Cargo", "Turno", "Habilidade"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'work hours' em inglês?",
+    "correctAnswer": "Horário de trabalho",
+    "options": ["Horário de trabalho", "Horas extras pagas", "Carga horária semanal", "Folga compensatória"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'manager' em inglês?",
+    "correctAnswer": "Gerente",
+    "options": ["Gerente", "Estagiário", "Técnico", "Contador"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'job application' em inglês?",
+    "correctAnswer": "Candidatura a uma vaga",
+    "options": ["Candidatura a uma vaga", "Contrato de trabalho", "Proposta de salário", "Carta de recomendação"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'colleague' em inglês?",
+    "correctAnswer": "Colega",
+    "options": ["Colega", "Funcionário subordinado", "Sócio", "Supervisor direto"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'schedule' em inglês, no contexto de trabalho?",
+    "correctAnswer": "Agenda / Horário",
+    "options": ["Agenda / Horário", "Relatório", "Projeto", "Meta"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'overtime' em inglês?",
+    "correctAnswer": "Hora extra",
+    "options": ["Hora extra", "Férias remuneradas", "Intervalo de almoço", "Trabalho remoto"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'I am unemployed' em inglês?",
+    "correctAnswer": "Estou desempregado",
+    "options": ["Estou desempregado", "Estou de férias", "Estou aposentado", "Estou doente"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'vacancy' em inglês, no contexto de emprego?",
+    "correctAnswer": "Vaga de emprego",
+    "options": ["Vaga de emprego", "Cargo ocupado", "Promoção interna", "Rescisão de contrato"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'shift' no contexto de trabalho?",
+    "correctAnswer": "Turno",
+    "options": ["Turno", "Cargo", "Bônus", "Treinamento"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'sick leave' em inglês?",
+    "correctAnswer": "Licença médica / Atestado",
+    "options": ["Licença médica / Atestado", "Férias coletivas", "Folga compensatória", "Licença maternidade"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'paycheck' em inglês?",
+    "correctAnswer": "Contracheque / Holerite",
+    "options": ["Contracheque / Holerite", "Imposto de renda", "Fundo de pensão", "Vale-refeição"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'annual leave' em inglês?",
+    "correctAnswer": "Férias anuais",
+    "options": ["Férias anuais", "Licença sem vencimento", "Afastamento temporário", "Plantão anual"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'intern' em inglês?",
+    "correctAnswer": "Estagiário",
+    "options": ["Estagiário", "Trainee efetivado", "Funcionário terceirizado", "Consultor externo"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'cover letter' em inglês, no contexto de emprego?",
+    "correctAnswer": "Carta de apresentação",
+    "options": ["Carta de apresentação", "Contrato de confidencialidade", "Carta de demissão", "Atestado de experiência"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'promotion' em inglês, no contexto profissional?",
+    "correctAnswer": "Promoção (de cargo)",
+    "options": ["Promoção (de cargo)", "Demissão voluntária", "Transferência de setor", "Suspensão disciplinar"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'resignation' em inglês?",
+    "correctAnswer": "Pedido de demissão",
+    "options": ["Pedido de demissão", "Readmissão", "Suspensão", "Aviso prévio"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'remote work' em inglês?",
+    "correctAnswer": "Trabalho remoto / Home office",
+    "options": ["Trabalho remoto / Home office", "Trabalho em turno noturno", "Trabalho em campo externo", "Trabalho temporário"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'reference' em inglês, no contexto de candidatura a emprego?",
+    "correctAnswer": "Referência profissional",
+    "options": ["Referência profissional", "Cargo pretendido", "Pretensão salarial", "Experiência mínima"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'job offer' em inglês?",
+    "correctAnswer": "Oferta de emprego / Proposta de trabalho",
+    "options": ["Oferta de emprego / Proposta de trabalho", "Recusa de candidatura", "Aviso de demissão", "Contraproposta salarial"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'benefits' em inglês, no contexto de trabalho?",
+    "correctAnswer": "Benefícios (plano de saúde, vale, etc.)",
+    "options": ["Benefícios (plano de saúde, vale, etc.)", "Descontos salariais", "Obrigações contratuais", "Impostos trabalhistas"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'work experience' em inglês?",
+    "correctAnswer": "Experiência profissional",
+    "options": ["Experiência profissional", "Formação acadêmica", "Habilidades técnicas", "Objetivo profissional"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'fired' em inglês, no contexto de trabalho?",
+    "correctAnswer": "Demitido",
+    "options": ["Demitido", "Contratado", "Promovido", "Suspenso temporariamente"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'human resources' (HR) em inglês?",
+    "correctAnswer": "Recursos Humanos (RH)",
+    "options": ["Recursos Humanos (RH)", "Departamento Financeiro", "Departamento Jurídico", "Tecnologia da Informação"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'probation period' em inglês?",
+    "correctAnswer": "Período de experiência / Período probatório",
+    "options": ["Período de experiência / Período probatório", "Período de férias obrigatórias", "Período de aviso prévio", "Período de licença médica"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'feedback' em inglês, no contexto profissional?",
+    "correctAnswer": "Retorno / Avaliação sobre o desempenho",
+    "options": ["Retorno / Avaliação sobre o desempenho", "Meta de produção", "Relatório financeiro", "Reunião de diretoria"],
+    "difficulty": "hard"
+  }
+]

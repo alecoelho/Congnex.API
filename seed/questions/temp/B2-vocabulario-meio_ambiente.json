@@ -1,0 +1,502 @@
+[
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'renewable energy' em português?",
+    "correctAnswer": "energia renovável",
+    "options": ["energia solar direta", "energia renovável", "energia armazenada", "energia sintética"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'biodiversity'?",
+    "correctAnswer": "biodiversidade",
+    "options": ["diversidade cultural", "biodiversidade", "variedade de plantas", "riqueza animal"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'deforestation'?",
+    "correctAnswer": "desmatamento",
+    "options": ["reflorestamento planejado", "desmatamento", "proteção florestal", "estudo de árvores"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que é 'climate change'?",
+    "correctAnswer": "mudança climática",
+    "options": ["variação de temperatura diária", "mudança climática", "mudança de estação", "fenômeno local"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'carbon footprint'?",
+    "correctAnswer": "pegada de carbono",
+    "options": ["marcas no solo carbonizado", "pegada de carbono", "tamanho de floresta", "medição de passos"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'pollution'?",
+    "correctAnswer": "poluição",
+    "options": ["limpeza ambiental", "poluição", "aumento de vida selvagem", "regeneração natural"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O termo 'sustainability' refere-se a:",
+    "correctAnswer": "sustentabilidade",
+    "options": ["destruição de recursos", "sustentabilidade", "desperdício planejado", "redução total"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que é 'recycling'?",
+    "correctAnswer": "reciclagem",
+    "options": ["queima de lixo", "reciclagem", "enterro de resíduos", "descarte oceânico"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'ecosystem'?",
+    "correctAnswer": "ecossistema",
+    "options": ["sistema econômico", "ecossistema", "ambiente de trabalho", "conjunto de máquinas"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'conservation'?",
+    "correctAnswer": "conservação",
+    "options": ["exploração máxima", "conservação", "consumo descontrolado", "poluição ambiental"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O termo 'fossil fuels' refere-se a:",
+    "correctAnswer": "combustíveis fósseis",
+    "options": ["combustíveis de plástico", "combustíveis fósseis", "combustíveis de laboratório", "combustíveis de resíduos"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que é 'greenhouse gas'?",
+    "correctAnswer": "gás de efeito estufa",
+    "options": ["gás de estufa agrícola", "gás de efeito estufa", "gás tóxico de fábricas", "gás do solo"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'habitat'?",
+    "correctAnswer": "habitat",
+    "options": ["edifício residencial", "habitat", "local de trabalho", "estrutura artificial"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'extinction'?",
+    "correctAnswer": "extinção",
+    "options": ["reprodução rápida", "extinção", "crescimento populacional", "migração de animais"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O termo 'drought' refere-se a:",
+    "correctAnswer": "seca",
+    "options": ["chuva intensa", "seca", "solo fértil", "estação específica"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que é 'organic farming'?",
+    "correctAnswer": "agricultura orgânica",
+    "options": ["agricultura industrial", "agricultura orgânica", "plantio de árvores", "criação em laboratório"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O significado de 'carbon dioxide' é:",
+    "correctAnswer": "dióxido de carbono",
+    "options": ["sal mineral", "dióxido de carbono", "energia renovável", "fertilizante"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'mitigation' em contexto ambiental?",
+    "correctAnswer": "mitigação",
+    "options": ["aumento de danos", "mitigação", "aceleração de aquecimento", "destruição de ecossistemas"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'resilience' ambiental?",
+    "correctAnswer": "resiliência",
+    "options": ["resistência ao movimento", "resiliência", "idade do organismo", "velocidade de crescimento"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que é 'carbon sequestration'?",
+    "correctAnswer": "sequestro de carbono",
+    "options": ["liberação de carbono", "sequestro de carbono", "combustão de combustíveis", "decomposição rápida"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O significado de 'watershed' é:",
+    "correctAnswer": "bacia hidrográfica",
+    "options": ["estrutura de armazenamento", "bacia hidrográfica", "período de chuva", "tratamento de água"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'ecosystem services'?",
+    "correctAnswer": "serviços ecossistêmicos",
+    "options": ["serviços de limpeza", "serviços ecossistêmicos", "programas de governo", "sistemas climáticos"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O termo 'biodegradable' refere-se a:",
+    "correctAnswer": "biodegradável",
+    "options": ["não reciclável", "biodegradável", "muito resistente", "sinteticamente produzido"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'anthropogenic'?",
+    "correctAnswer": "causado por humanos",
+    "options": ["relacionado a animais", "causado por humanos", "de origem natural", "causado por clima"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O significado de 'eutrophication' é:",
+    "correctAnswer": "eutrofização",
+    "options": ["limpeza de água", "eutrofização", "redução de salinidade", "melhoria da água"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que é 'agroforestry'?",
+    "correctAnswer": "agrofloresta",
+    "options": ["desmatamento planejado", "agrofloresta", "criação de gado", "construção em florestas"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'trophic level'?",
+    "correctAnswer": "nível trófico",
+    "options": ["habitat tropical", "nível trófico", "nível de poluição", "profundidade oceânica"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O termo 'invasive species' refere-se a:",
+    "correctAnswer": "espécie invasora",
+    "options": ["espécie oceânica profunda", "espécie invasora", "espécie árida", "espécie extinta"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'stratification' aquática?",
+    "correctAnswer": "estratificação",
+    "options": ["erosão de camadas", "estratificação", "formação de sedimentos", "compactação de rochas"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O significado de 'phytoremediation' é:",
+    "correctAnswer": "fitorremediação",
+    "options": ["tratamento de plantas", "fitorremediação", "fertilizantes químicos", "plantas modificadas"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que é 'permaculture'?",
+    "correctAnswer": "permacultura",
+    "options": ["agricultura poluída", "permacultura", "cultivo em estufa", "armazenamento de sementes"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'albedo'?",
+    "correctAnswer": "albedo",
+    "options": ["tipo de mineral", "albedo", "profundidade de lago", "densidade do solo"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'pedogenesis'?",
+    "correctAnswer": "pedogênese",
+    "options": ["movimento de rochas", "pedogênese", "erosão de montanhas", "deposição de sedimentos"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O termo 'bioaccumulation' refere-se a:",
+    "correctAnswer": "bioacumulação",
+    "options": ["reprodução bacteriana", "bioacumulação", "crescimento de plantas", "decomposição orgânica"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O significado de 'hydrological cycle' é:",
+    "correctAnswer": "ciclo hidrológico",
+    "options": ["geração hidrelétrica", "ciclo hidrológico", "período de chuva", "tratamento de água"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que é 'chelation'?",
+    "correctAnswer": "quelação",
+    "options": ["tipo de fotossíntese", "quelação", "decomposição de compostos", "reação de oxidação"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O termo 'biomagnification' refere-se a:",
+    "correctAnswer": "biomagnificação",
+    "options": ["aumento de tamanho", "biomagnificação", "ampliação microscópica", "aumento de biodiversidade"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'denudation'?",
+    "correctAnswer": "denudação",
+    "options": ["plantio de árvores", "denudação", "construção de edifícios", "limpeza de água"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O significado de 'lithosphere' é:",
+    "correctAnswer": "litosfera",
+    "options": ["camada atmosférica", "litosfera", "camada oceânica", "camada de gelo"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que é 'succession' em ecologia?",
+    "correctAnswer": "sucessão ecológica",
+    "options": ["herança de propriedades", "sucessão ecológica", "sequência de cores", "ordem de ocupação"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O termo 'mycorrhizal' refere-se a:",
+    "correctAnswer": "micorrízico",
+    "options": ["fungo venenoso", "micorrízico", "doença vegetal", "alga marinha"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'percolation'?",
+    "correctAnswer": "percolação",
+    "options": ["ebulição de água", "percolação", "congelamento de água", "evaporação rápida"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O significado de 'anthropogenic emissions' é:",
+    "correctAnswer": "emissões antropogênicas",
+    "options": ["emissões vulcânicas", "emissões antropogênicas", "luz solar refletida", "ondas oceânicas"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que é 'osmosis' aquática?",
+    "correctAnswer": "osmose",
+    "options": ["absorção de nutrientes", "osmose", "fotossíntese aquática", "decomposição de matéria"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O termo 'biotic potential' refere-se a:",
+    "correctAnswer": "potencial biótico",
+    "options": ["energia de seres vivos", "potencial biótico", "quantidade de alimento", "número de predadores"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'anoxia'?",
+    "correctAnswer": "anoxia",
+    "options": ["presença de oxigênio", "anoxia", "tipo de alga verde", "processo de fotossíntese"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O significado de 'denitrification' é:",
+    "correctAnswer": "desnitrificação",
+    "options": ["adição de nitrogênio", "desnitrificação", "absorção de nitrogênio", "liberação de amônia"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O significado de 'wildlife corridor' é:",
+    "correctAnswer": "corredor ecológico",
+    "options": ["caminho para turismo", "corredor ecológico", "estrada de conservação", "passagem de animais"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que é 'carbon offset'?",
+    "correctAnswer": "compensação de carbono",
+    "options": ["desconto de carbono", "compensação de carbono", "redução de consumo", "taxa de poluição"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O termo 'ecological restoration' refere-se a:",
+    "correctAnswer": "restauração ecológica",
+    "options": ["limpeza de terrenos", "restauração ecológica", "construção sustentável", "proteção de parques"],
+    "difficulty": "medium"
+  }
+]

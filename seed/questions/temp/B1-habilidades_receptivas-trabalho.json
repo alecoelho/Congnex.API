@@ -1,0 +1,502 @@
+﻿[
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Eu trabalho em uma empresa de tecnologia.",
+    "correctAnswer": "I work in a technology company.",
+    "options": ["I work on a technology company.", "I work in a technology company.", "I work at technology company.", "I work to a technology company."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Meu chefe é muito exigente.",
+    "correctAnswer": "My boss is very demanding.",
+    "options": ["My boss is very demanding.", "My chief is very demanding.", "My boss is very demanding me.", "My boss is very asked."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Preciso entregar o relatório até sexta-feira.",
+    "correctAnswer": "I need to submit the report by Friday.",
+    "options": ["I need deliver the report until Friday.", "I need to submit the report by Friday.", "I need to give the report in Friday.", "I need to present the report until Friday."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Tenho uma reunião com os clientes amanhã.",
+    "correctAnswer": "I have a meeting with the clients tomorrow.",
+    "options": ["I have a meeting to the clients tomorrow.", "I have a meeting with the clients tomorrow.", "I have meeting with clients tomorrow.", "I have a reunion with the clients tomorrow."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Vou tirar duas semanas de férias em julho.",
+    "correctAnswer": "I will take two weeks of vacation in July.",
+    "options": ["I will take two weeks vacation in July.", "I will take two weeks of vacation in July.", "I will do two weeks of vacation in July.", "I will have two weeks vacation until July."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Meu salário aumentou este ano.",
+    "correctAnswer": "My salary increased this year.",
+    "options": ["My salary increased this year.", "My wage raised this year.", "My payment increased this year.", "My salary was increased in this year."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Ela trabalha como enfermeira no hospital.",
+    "correctAnswer": "She works as a nurse at the hospital.",
+    "options": ["She works like a nurse in the hospital.", "She works as a nurse at the hospital.", "She works to nurse in the hospital.", "She is working as nurse in the hospital."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Preciso enviar um e-mail para o departamento de vendas.",
+    "correctAnswer": "I need to send an email to the sales department.",
+    "options": ["I need to send a mail to sales department.", "I need to send an email to the sales department.", "I need to send an email in the sales department.", "I need mail to the sales department."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "O projeto foi concluído no prazo.",
+    "correctAnswer": "The project was completed on time.",
+    "options": ["The project was finished at time.", "The project was completed on time.", "The project was done in deadline.", "The project was finished in the time."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Trabalho com um time de dez pessoas.",
+    "correctAnswer": "I work with a team of ten people.",
+    "options": ["I work with a team of ten people.", "I work at a team of ten people.", "I work in a team ten people.", "I work to a team of ten persons."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Ela recebeu uma promoção no mês passado.",
+    "correctAnswer": "She received a promotion last month.",
+    "options": ["She received a promotion in the last month.", "She received a promotion last month.", "She got a promotion in last month.", "She achieved promotion last month."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "O horário de trabalho é das 9 às 17 horas.",
+    "correctAnswer": "The working hours are from 9 to 5.",
+    "options": ["The hours of work are from 9 to 5.", "The working hours are from 9 to 5.", "The work time is from 9 until 5.", "The schedule is from 9 at 5."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Preciso me preparar para a entrevista de emprego.",
+    "correctAnswer": "I need to prepare for the job interview.",
+    "options": ["I need to prepare to the job interview.", "I need to prepare for the job interview.", "I need to prepare myself for interview.", "I need prepare myself for the job interview."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "A empresa oferece benefícios muito bons.",
+    "correctAnswer": "The company offers very good benefits.",
+    "options": ["The company offers very good benefits.", "The company provides benefits very good.", "The company gives very good advantages.", "The company has very benefits good."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Tive que lidar com um cliente difícil hoje.",
+    "correctAnswer": "I had to deal with a difficult customer today.",
+    "options": ["I had to deal with a difficult client today.", "I had to deal with a difficult customer today.", "I had deal with difficult customer today.", "I had to manage a difficult client today."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Estou procurando um novo emprego.",
+    "correctAnswer": "I am looking for a new job.",
+    "options": ["I am looking to a new job.", "I am looking for a new job.", "I am searching a new job.", "I am seeking a new employment."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Tenho que rever os documentos antes de assinar.",
+    "correctAnswer": "I have to review the documents before signing.",
+    "options": ["I have to check the documents before to sign.", "I have to review the documents before signing.", "I have review the documents before signing.", "I have to look at documents before to sign."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "A empresa está investindo em treinamento profissional.",
+    "correctAnswer": "The company is investing in professional training.",
+    "options": ["The company is investing in professional training.", "The company is putting money in professional training.", "The company invests on professional training.", "The company is investing for professional training."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Devemos melhorar nossa comunicação com o departamento de marketing.",
+    "correctAnswer": "We should improve our communication with the marketing department.",
+    "options": ["We should improve our communication to the marketing department.", "We should improve our communication with the marketing department.", "We must better our communication with marketing department.", "We should improve communication to marketing department."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Ele foi demitido por não cumprir as metas.",
+    "correctAnswer": "He was fired for not meeting the goals.",
+    "options": ["He was fired because not meeting goals.", "He was fired for not meeting the goals.", "He was dismissed to not meet the goals.", "He was fired because he did not reach goals."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Preciso de um aumento de salário para cobrir meus gastos.",
+    "correctAnswer": "I need a salary raise to cover my expenses.",
+    "options": ["I need a salary raise to cover my expenses.", "I need a salary increase for cover my expenses.", "I need raise of salary to cover expenses.", "I need salary to increase to cover expenses."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "O contrato de trabalho tem uma cláusula de confidencialidade.",
+    "correctAnswer": "The employment contract has a confidentiality clause.",
+    "options": ["The employment contract has a confidentiality clause.", "The work contract has clause of confidentiality.", "The contract of work has confidentiality clause.", "The employment agreement has secrecy clause."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Vou solicitar uma semana de folga para recuperação.",
+    "correctAnswer": "I will request a week off for recovery.",
+    "options": ["I will request a week of holidays for recovery.", "I will request a week off for recovery.", "I will ask for a week free for recovery.", "I will ask a week off for recovery period."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "A reunião foi adiada para a próxima semana.",
+    "correctAnswer": "The meeting was postponed to next week.",
+    "options": ["The meeting was postponed until next week.", "The meeting was postponed to next week.", "The meeting was delayed for next week.", "The meeting was rescheduled in next week."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Enviei meu currículo para três empresas.",
+    "correctAnswer": "I sent my resume to three companies.",
+    "options": ["I sent my CV for three companies.", "I sent my resume to three companies.", "I have sent my curriculum to three companies.", "I sent my resume at three companies."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "O departamento está reorganizando a estrutura de trabalho.",
+    "correctAnswer": "The department is reorganizing the work structure.",
+    "options": ["The department is reorganizing the structure of work.", "The department is reorganizing the work structure.", "The department reorganizes work structure.", "The department is changing the working organization."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Precisamos de feedback sobre o desempenho.",
+    "correctAnswer": "We need feedback about the performance.",
+    "options": ["We need feedback about the performance.", "We need opinion on performance.", "We need feedbacks for the performance.", "We need comments on the performance results."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "O gerente aprovou o pedido de home office.",
+    "correctAnswer": "The manager approved the work from home request.",
+    "options": ["The manager approved the home office request.", "The manager approved the work from home request.", "The manager allowed the home office petition.", "The manager approved request for home office."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Preciso de uma carta de recomendação para meu novo emprego.",
+    "correctAnswer": "I need a letter of recommendation for my new job.",
+    "options": ["I need a recommendation letter to my new job.", "I need a letter of recommendation for my new job.", "I need recommendation letter for my new position.", "I need letter recommending for my new job."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "O projeto enfrenta desafios significativos.",
+    "correctAnswer": "The project faces significant challenges.",
+    "options": ["The project is facing to significant challenges.", "The project faces significant challenges.", "The project encounters challenges very significant.", "The project is challenged by significances."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Vou participar de um curso de desenvolvimento profissional.",
+    "correctAnswer": "I will attend a professional development course.",
+    "options": ["I will participate in a course of professional development.", "I will attend a professional development course.", "I will join a professional developing course.", "I will take a course for professional development."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "A equipe trabalha de forma colaborativa para atingir os objetivos.",
+    "correctAnswer": "The team works collaboratively to achieve the goals.",
+    "options": ["The team works in a collaborative way to achieve goals.", "The team works collaboratively to achieve the goals.", "The team is working collaborative for achieve goals.", "The team works together collaborative for goals."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "O programa de mentoria ajuda os funcionários a desenvolverem suas carreiras.",
+    "correctAnswer": "The mentorship program helps employees develop their careers.",
+    "options": ["The mentorship program helps employees to develop their careers.", "The mentorship program helps employees develop their careers.", "The program of mentoring helps staff develop career.", "The mentoring program assists employees developing their careers."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "A empresa implementou novas políticas de segurança no local de trabalho.",
+    "correctAnswer": "The company implemented new workplace safety policies.",
+    "options": ["The company implemented new safety politics at workplace.", "The company implemented new workplace safety policies.", "The company has implemented new work safety regulations.", "The company put in place new safety policies."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "O contrato inclui benefícios como seguro saúde e pensão.",
+    "correctAnswer": "The contract includes benefits such as health insurance and pension.",
+    "options": ["The contract includes benefits such as health insurance and pension.", "The contract has benefits like insurance and pension.", "The contract includes benefits as health insurance and pension.", "The contract covers benefits such health insurance and pension."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "A empresa está buscando profissionais experientes para preencher as vagas.",
+    "correctAnswer": "The company is seeking experienced professionals to fill the vacancies.",
+    "options": ["The company is seeking experienced professionals to fill the vacancies.", "The company searches experienced professionals for fill vacancies.", "The company is looking experienced professionals to fill positions.", "The company wants professionals experienced to fill the vacant positions."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Apresentei uma proposta de melhoria nos processos de trabalho.",
+    "correctAnswer": "I presented a proposal to improve the work processes.",
+    "options": ["I presented a proposal for improvement in work processes.", "I presented a proposal to improve the work processes.", "I showed proposal of improving work processes.", "I presented improvement proposal about work processes."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "O departamento de recursos humanos está recrutando novos talentos.",
+    "correctAnswer": "The human resources department is recruiting new talent.",
+    "options": ["The human resources department is recruiting new talent.", "The department of human resources recruits new talents.", "The HR department is recruiting talented people.", "The human resources is recruiting new professional talents."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Necessito concluir este projeto antes de começar o próximo.",
+    "correctAnswer": "I need to complete this project before starting the next one.",
+    "options": ["I need complete this project before to start the next.", "I need to complete this project before starting the next one.", "I must finish this project before begin the next.", "I need to finish this project previous to starting the next."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "A avaliação de desempenho ocorre a cada seis meses.",
+    "correctAnswer": "The performance evaluation takes place every six months.",
+    "options": ["The performance evaluation happens every six months.", "The performance evaluation takes place every six months.", "The performance evaluation occurs each six months.", "The performance appraisal is done every six-month."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Estou desenvolvendo novas competências através de cursos online.",
+    "correctAnswer": "I am developing new skills through online courses.",
+    "options": ["I am developing new competencies through online courses.", "I am developing new skills through online courses.", "I develop new skills via online courses.", "I am building new competencies in online courses."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "O gestor solicitou um relatório detalhado sobre os resultados do trimestre.",
+    "correctAnswer": "The manager requested a detailed report on the quarterly results.",
+    "options": ["The manager requested a detailed report about the quarterly results.", "The manager requested a detailed report on the quarterly results.", "The manager asked a detailed report of quarterly results.", "The manager requested report detailed of results quarterly."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Decidi aceitar a oferta de emprego da nova empresa.",
+    "correctAnswer": "I decided to accept the job offer from the new company.",
+    "options": ["I decided accepting the job offer from the new company.", "I decided to accept the job offer from the new company.", "I decided accept offer of job in new company.", "I decided accepting offer of job for new company."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "A empresa oferece oportunidades de crescimento profissional.",
+    "correctAnswer": "The company offers opportunities for professional growth.",
+    "options": ["The company offers opportunities for professional growth.", "The company provides opportunities of professional development.", "The company gives opportunities to professional growth.", "The company offers chances to professional growing."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Participei de uma negociação importante com os fornecedores.",
+    "correctAnswer": "I participated in an important negotiation with the suppliers.",
+    "options": ["I participated in an important negotiation with the suppliers.", "I took part of important negotiation with suppliers.", "I participated to important negotiation with the suppliers.", "I involved in important negotiation of suppliers."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "A candidata possui experiência relevante para a posição.",
+    "correctAnswer": "The candidate has relevant experience for the position.",
+    "options": ["The candidate has relevant experience for the position.", "The candidate possesses experience relevant to the position.", "The candidate has experience relevant to position.", "The applicant has relevant experiences for the position."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "O treinamento fornecido preparou-nos bem para as responsabilidades.",
+    "correctAnswer": "The training provided prepared us well for the responsibilities.",
+    "options": ["The training provided prepared us well for the responsibilities.", "The training given prepared us good for responsibilities.", "The training provided has prepared us well for the responsibilities.", "The training offered prepared well us for the responsibilities."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Conquistei o respeito dos meus colegas através do trabalho duro.",
+    "correctAnswer": "I earned the respect of my colleagues through hard work.",
+    "options": ["I earned the respect of my colleagues through hard work.", "I achieved respect of my colleagues with hard work.", "I got the respect from my colleagues by hard work.", "I obtained respect of my colleagues for hard work."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Comecei a trabalhar nesta empresa há três anos.",
+    "correctAnswer": "I started working at this company three years ago.",
+    "options": ["I started working at this company three years ago.", "I begun to work in this company three years ago.", "I started work at this company three years before.", "I have started working this company three years ago."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "A empresa oferece um programa de benefícios muito competitivo no mercado.",
+    "correctAnswer": "The company offers a very competitive benefits program in the market.",
+    "options": ["The company offers a very competitive benefits program in the market.", "The company gives a competitive program of benefits in market.", "The company is offering competitive benefits very much in the market.", "The company has benefits program very competitive at market."],
+    "difficulty": "medium"
+  }
+]

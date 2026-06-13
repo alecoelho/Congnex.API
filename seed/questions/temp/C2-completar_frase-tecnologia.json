@@ -1,0 +1,512 @@
+[
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "O servidor apresentou um erro de ___ ao tentar processar a requisição HTTP enviada pelo cliente.",
+    "correctAnswer": "timeout",
+    "options": ["timeout", "reboot", "firewall", "latency"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Para proteger sua conta, é essencial ativar a autenticação de ___ fatores.",
+    "correctAnswer": "two",
+    "options": ["two", "multi", "double", "extra"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "O desenvolvedor fez o ___ do código para a branch principal do repositório.",
+    "correctAnswer": "merge",
+    "options": ["merge", "push", "commit", "fork"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "O aplicativo sofreu uma queda porque o banco de dados ficou sem espaço em ___ .",
+    "correctAnswer": "disk",
+    "options": ["disk", "cache", "memory", "buffer"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "O administrador precisou reiniciar o serviço após atualizar as configurações do ___ .",
+    "correctAnswer": "server",
+    "options": ["server", "router", "modem", "switch"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "A empresa adotou uma estratégia de ___ first para migrar todos os seus sistemas para a nuvem.",
+    "correctAnswer": "cloud",
+    "options": ["cloud", "mobile", "digital", "remote"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "O time de desenvolvimento utiliza metodologia ___ para entregar valor de forma iterativa.",
+    "correctAnswer": "agile",
+    "options": ["agile", "scrum", "lean", "kanban"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Para visualizar o histórico de mudanças no projeto, o desenvolvedor executou o comando git ___ .",
+    "correctAnswer": "log",
+    "options": ["log", "diff", "show", "status"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "O site utiliza o protocolo HTTPS para garantir uma conexão ___ entre o usuário e o servidor.",
+    "correctAnswer": "secure",
+    "options": ["secure", "stable", "private", "encrypted"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "O engenheiro de software criou um ___ para automatizar o processo de build e deploy da aplicação.",
+    "correctAnswer": "pipeline",
+    "options": ["pipeline", "workflow", "script", "scheduler"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "A interface do usuário foi desenvolvida com foco em ___ , garantindo que pessoas com deficiência possam usá-la sem dificuldades.",
+    "correctAnswer": "accessibility",
+    "options": ["accessibility", "usability", "scalability", "performance"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "O programador utilizou um ___ de dados para armazenar os itens em ordem de inserção.",
+    "correctAnswer": "queue",
+    "options": ["queue", "stack", "heap", "tree"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "A equipe de suporte abriu um ___ para registrar o problema relatado pelo cliente.",
+    "correctAnswer": "ticket",
+    "options": ["ticket", "report", "request", "task"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "O navegador armazenou os dados temporariamente no ___ para melhorar o desempenho do carregamento das páginas.",
+    "correctAnswer": "cache",
+    "options": ["cache", "cookie", "session", "storage"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "O sistema de controle de versão mantém um ___ completo de todas as alterações feitas no código-fonte.",
+    "correctAnswer": "history",
+    "options": ["history", "backup", "snapshot", "record"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "O dispositivo IoT envia dados ao servidor central por meio de uma conexão ___ .",
+    "correctAnswer": "wireless",
+    "options": ["wireless", "wired", "optical", "serial"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "O desenvolvedor front-end utilizou ___ para estilizar os componentes visuais da página web.",
+    "correctAnswer": "CSS",
+    "options": ["CSS", "SQL", "XML", "JSON"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "A aplicação web utiliza uma arquitetura ___ para separar a lógica de negócio da interface do usuário.",
+    "correctAnswer": "MVC",
+    "options": ["MVC", "REST", "SOAP", "CRUD"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "O time de DevOps implementou práticas de ___ para detectar e corrigir falhas antes de chegarem ao ambiente de produção.",
+    "correctAnswer": "continuous integration",
+    "options": ["continuous integration", "load balancing", "fault tolerance", "version control"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "O sistema distribuído utiliza um algoritmo de ___ para garantir que todos os nós cheguem ao mesmo estado.",
+    "correctAnswer": "consensus",
+    "options": ["consensus", "replication", "sharding", "partitioning"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "A empresa implementou uma política de ___ para evitar que informações sensíveis sejam expostas em caso de violação de dados.",
+    "correctAnswer": "data masking",
+    "options": ["data masking", "data mining", "data warehousing", "data streaming"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "O engenheiro configurou um ___ para distribuir o tráfego de rede entre os servidores de forma equilibrada.",
+    "correctAnswer": "load balancer",
+    "options": ["load balancer", "proxy server", "DNS resolver", "API gateway"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "A vulnerabilidade do tipo ___ permite que um atacante execute código malicioso no banco de dados da aplicação.",
+    "correctAnswer": "SQL injection",
+    "options": ["SQL injection", "buffer overflow", "cross-site scripting", "man-in-the-middle"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "O time adotou uma abordagem de ___ testing para validar o comportamento do sistema a partir da perspectiva do usuário.",
+    "correctAnswer": "end-to-end",
+    "options": ["end-to-end", "unit", "integration", "regression"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "O desenvolvedor utilizou ___ para serializar os objetos e enviá-los pela API REST.",
+    "correctAnswer": "JSON",
+    "options": ["JSON", "YAML", "XML", "CSV"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "A equipe implementou uma camada de ___ para evitar que chamadas excessivas sobrecarreguem a API.",
+    "correctAnswer": "rate limiting",
+    "options": ["rate limiting", "caching", "throttling", "queuing"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "O sistema de recomendação utiliza um modelo de ___ colaborativa para sugerir produtos com base no comportamento de outros usuários.",
+    "correctAnswer": "filtering",
+    "options": ["filtering", "learning", "clustering", "ranking"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "A plataforma utiliza ___ para garantir que os dados armazenados na nuvem não sejam acessados por terceiros não autorizados.",
+    "correctAnswer": "encryption at rest",
+    "options": ["encryption at rest", "hashing in transit", "tokenization in storage", "obfuscation in cache"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "O time usou ___ para desacoplar os microsserviços e permitir que se comuniquem de forma assíncrona.",
+    "correctAnswer": "message queuing",
+    "options": ["message queuing", "HTTP polling", "direct calling", "shared memory"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "A arquitetura ___ permite que os componentes do sistema sejam implantados e escalados de forma independente.",
+    "correctAnswer": "microservices",
+    "options": ["microservices", "monolithic", "serverless", "event-driven"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "O desenvolvedor utilizou ___ para garantir que as transações no banco de dados sejam atômicas e consistentes.",
+    "correctAnswer": "ACID compliance",
+    "options": ["ACID compliance", "BASE principles", "CAP theorem", "CRUD operations"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "A aplicação usa ___ para autenticar usuários sem armazenar credenciais diretamente, delegando ao provedor de identidade.",
+    "correctAnswer": "OAuth",
+    "options": ["OAuth", "JWT", "LDAP", "SAML"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "O engenheiro de dados configurou um ___ para ingerir e processar fluxos contínuos de eventos em tempo real.",
+    "correctAnswer": "stream processing",
+    "options": ["stream processing", "batch processing", "ETL pipeline", "data lake"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "O sistema de detecção de intrusão identifica padrões de ___ no tráfego de rede que podem indicar um ataque em andamento.",
+    "correctAnswer": "anomaly",
+    "options": ["anomaly", "latency", "redundancy", "fragmentation"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "O ___ pattern é utilizado para criar objetos sem expor a lógica de instância ao cliente, fornecendo uma interface comum.",
+    "correctAnswer": "factory",
+    "options": ["factory", "singleton", "observer", "decorator"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "O protocolo ___ é utilizado para garantir a entrega ordenada e confiável de pacotes em redes TCP/IP.",
+    "correctAnswer": "three-way handshake",
+    "options": ["three-way handshake", "sliding window", "checksum validation", "port scanning"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "O modelo de linguagem apresentou ___ ao gerar respostas factualmente incorretas com alta confiança aparente.",
+    "correctAnswer": "hallucination",
+    "options": ["hallucination", "overfitting", "underfitting", "bias amplification"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "A técnica de ___ permite que o modelo de machine learning seja treinado com dados de domínios diferentes para generalizar melhor.",
+    "correctAnswer": "transfer learning",
+    "options": ["transfer learning", "federated learning", "reinforcement learning", "contrastive learning"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "O ataque de ___ explora vulnerabilidades na cadeia de fornecimento de software para comprometer múltiplas organizações simultaneamente.",
+    "correctAnswer": "supply chain",
+    "options": ["supply chain", "zero-day", "privilege escalation", "lateral movement"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "A técnica de ___ em criptografia assimétrica garante que apenas o destinatário com a chave privada possa decifrar a mensagem.",
+    "correctAnswer": "public key encryption",
+    "options": ["public key encryption", "symmetric key exchange", "digital signature", "hash chaining"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "O ___ é um padrão arquitetural que expõe operações como eventos imutáveis, permitindo reconstruir o estado do sistema a qualquer ponto no tempo.",
+    "correctAnswer": "event sourcing",
+    "options": ["event sourcing", "CQRS", "saga pattern", "outbox pattern"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "O engenheiro utilizou ___ para instrumentar o sistema distribuído e correlacionar traces entre múltiplos microsserviços.",
+    "correctAnswer": "distributed tracing",
+    "options": ["distributed tracing", "centralized logging", "metric aggregation", "health monitoring"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "A estratégia de ___ deployment permite lançar uma nova versão para um subconjunto de usuários enquanto a versão anterior permanece ativa.",
+    "correctAnswer": "canary",
+    "options": ["canary", "blue-green", "rolling", "shadow"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "O mecanismo de ___ no kernel do sistema operacional gerencia de forma transparente o acesso concorrente a recursos compartilhados.",
+    "correctAnswer": "mutex",
+    "options": ["mutex", "semaphore", "spinlock", "deadlock"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "A propriedade de ___ garante que os dados armazenados em sistemas distribuídos reflitam sempre a versão mais recente após qualquer operação de escrita.",
+    "correctAnswer": "strong consistency",
+    "options": ["strong consistency", "eventual consistency", "causal consistency", "monotonic consistency"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "O conceito de ___ refere-se à capacidade do sistema de recuperar automaticamente falhas sem intervenção humana, mantendo a disponibilidade do serviço.",
+    "correctAnswer": "self-healing",
+    "options": ["self-healing", "fault isolation", "graceful degradation", "circuit breaking"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "O modelo de ___ computing elimina a necessidade de gerenciar infraestrutura, executando código apenas em resposta a eventos específicos.",
+    "correctAnswer": "serverless",
+    "options": ["serverless", "edge", "quantum", "neuromorphic"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "A técnica de ___ permite que algoritmos de machine learning sejam treinados em dados distribuídos sem que esses dados precisem sair dos dispositivos locais.",
+    "correctAnswer": "federated learning",
+    "options": ["federated learning", "transfer learning", "meta-learning", "self-supervised learning"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "O ___ é uma estrutura de dados probabilística que permite verificar com eficiência se um elemento já pertence a um conjunto, com risco controlado de falso positivo.",
+    "correctAnswer": "Bloom filter",
+    "options": ["Bloom filter", "skip list", "trie", "B-tree"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "O padrão ___ isola falhas em sistemas distribuídos interrompendo chamadas a serviços indisponíveis após um número configurável de falhas consecutivas.",
+    "correctAnswer": "circuit breaker",
+    "options": ["circuit breaker", "bulkhead", "retry", "timeout"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "A vulnerabilidade de ___ ocorre quando dados não confiáveis são deserializados sem validação, permitindo execução arbitrária de código no servidor.",
+    "correctAnswer": "insecure deserialization",
+    "options": ["insecure deserialization", "path traversal", "SSRF", "XXE injection"],
+    "difficulty": "hard"
+  }
+]

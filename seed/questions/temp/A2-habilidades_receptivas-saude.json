@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "Eu tenho dor de cabeça.",
+        "correctAnswer":  "I have a headache.",
+        "options":  [
+                        "I have a head pain.",
+                        "I have a headache.",
+                        "My head is broken.",
+                        "I have a pain head."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "Ele está doente.",
+        "correctAnswer":  "He is sick.",
+        "options":  [
+                        "He is ill.",
+                        "He is sick.",
+                        "He has sickness.",
+                        "He is disease."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "Ela toma remédio todos os dias.",
+        "correctAnswer":  "She takes medicine every day.",
+        "options":  [
+                        "She takes medicine all days.",
+                        "She takes medicine every day.",
+                        "She drinks medicine daily.",
+                        "She has medicine every day."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "Preciso ir ao médico.",
+        "correctAnswer":  "I need to go to the doctor.",
+        "options":  [
+                        "I need go to doctor.",
+                        "I need to go to the doctor.",
+                        "I must go at doctor.",
+                        "I need to the doctor."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "Você se sente bem?",
+        "correctAnswer":  "Do you feel well?",
+        "options":  [
+                        "Do you feeling good?",
+                        "Do you feel well?",
+                        "You feel good?",
+                        "Are you feeling good?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "Ela tem febre.",
+        "correctAnswer":  "She has a fever.",
+        "options":  [
+                        "She has fever.",
+                        "She has a fever.",
+                        "She is fever.",
+                        "She has hot."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "Estou com gripe.",
+        "correctAnswer":  "I have the flu.",
+        "options":  [
+                        "I have a cold.",
+                        "I have the flu.",
+                        "I have flue.",
+                        "I am flu."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "Ele dorme oito horas por noite.",
+        "correctAnswer":  "He sleeps eight hours per night.",
+        "options":  [
+                        "He sleep eight hours per night.",
+                        "He sleeps eight hours per night.",
+                        "He is sleeping eight hours at night.",
+                        "He sleeps eight hour a night."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "Você faz exercício?",
+        "correctAnswer":  "Do you exercise?",
+        "options":  [
+                        "Do you exercising?",
+                        "You exercise?",
+                        "Do you exercise?",
+                        "Are you exercising?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "Tenho dor de dente.",
+        "correctAnswer":  "I have a toothache.",
+        "options":  [
+                        "I have a tooth pain.",
+                        "I have a toothache.",
+                        "My tooth hurts me.",
+                        "I have tooth ache."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "A saúde é importante.",
+        "correctAnswer":  "Health is important.",
+        "options":  [
+                        "The health is important.",
+                        "Health is important.",
+                        "Healthy is important.",
+                        "Health are important."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "Ela está melhor agora.",
+        "correctAnswer":  "She is better now.",
+        "options":  [
+                        "She is good now.",
+                        "She is better now.",
+                        "She feel better now.",
+                        "She is more well now."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "Você precisa descansar.",
+        "correctAnswer":  "You need to rest.",
+        "options":  [
+                        "You need rest.",
+                        "You need to rest.",
+                        "You must resting.",
+                        "You should to rest."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "Tenho alergia a leite.",
+        "correctAnswer":  "I am allergic to milk.",
+        "options":  [
+                        "I have allergy of milk.",
+                        "I am allergic to milk.",
+                        "I am allergy to milk.",
+                        "I have allergy in milk."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "Ele come comida saudável.",
+        "correctAnswer":  "He eats healthy food.",
+        "options":  [
+                        "He eats food healthy.",
+                        "He eats healthy food.",
+                        "He is eating healthy foods.",
+                        "He eat healthy food."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "Vou à farmácia comprar remédio.",
+        "correctAnswer":  "I go to the pharmacy to buy medicine.",
+        "options":  [
+                        "I go to pharmacy buy medicine.",
+                        "I go to the pharmacy to buy medicine.",
+                        "I am going pharmacy for buy medicine.",
+                        "I go at pharmacy to buy medicine."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "O médico examina os pacientes.",
+        "correctAnswer":  "The doctor examines the patients.",
+        "options":  [
+                        "The doctor exams patients.",
+                        "The doctor examines the patients.",
+                        "The doctor examine the patients.",
+                        "The doctor examines patients."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "Meu ombro dói muito.",
+        "correctAnswer":  "My shoulder hurts a lot.",
+        "options":  [
+                        "My shoulder is hurting much.",
+                        "My shoulder hurts a lot.",
+                        "My shoulder aches much.",
+                        "My shoulder is pain."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "Ela costuma beber muita água.",
+        "correctAnswer":  "She usually drinks a lot of water.",
+        "options":  [
+                        "She usually drinks very water.",
+                        "She usually drinks a lot of water.",
+                        "She use to drink much water.",
+                        "She usually drink a lot water."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "Quando você se machuca, o que faz?",
+        "correctAnswer":  "When you get hurt, what do you do?",
+        "options":  [
+                        "When you are hurt, what you do?",
+                        "When you get hurt, what do you do?",
+                        "When you hurt yourself, what do you do?",
+                        "When you injure, what are you doing?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "Ele deixou de fumar há dois anos.",
+        "correctAnswer":  "He quit smoking two years ago.",
+        "options":  [
+                        "He stopped smoking two years ago.",
+                        "He quit smoking two years ago.",
+                        "He left smoking for two years.",
+                        "He is not smoking since two years."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "Ela se recuperou completamente.",
+        "correctAnswer":  "She recovered completely.",
+        "options":  [
+                        "She was recovered completely.",
+                        "She recovered completely.",
+                        "She is recovered totally.",
+                        "She has completely recovered."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "O hospital fica perto daqui.",
+        "correctAnswer":  "The hospital is near here.",
+        "options":  [
+                        "The hospital is near from here.",
+                        "The hospital is near here.",
+                        "The hospital is close of here.",
+                        "The hospital is nearly."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "Você tem ferimentos?",
+        "correctAnswer":  "Do you have injuries?",
+        "options":  [
+                        "Do you have wounds?",
+                        "Do you have injuries?",
+                        "Are you have injuries?",
+                        "You have injuries?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "Preciso fazer um exame.",
+        "correctAnswer":  "I need to have a test.",
+        "options":  [
+                        "I need do a test.",
+                        "I need to have a test.",
+                        "I need make an exam.",
+                        "I need to taking a test."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "Ele bebe café todas as manhãs.",
+        "correctAnswer":  "He drinks coffee every morning.",
+        "options":  [
+                        "He drinks coffee all mornings.",
+                        "He drinks coffee every morning.",
+                        "He is drinking coffee each morning.",
+                        "He drinks a coffee daily."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "Ela tem uma consulta marcada.",
+        "correctAnswer":  "She has an appointment scheduled.",
+        "options":  [
+                        "She has an appointment marked.",
+                        "She has an appointment scheduled.",
+                        "She makes a scheduled appointment.",
+                        "She has appointment booked."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "Você deveria parar de comer açúcar.",
+        "correctAnswer":  "You should stop eating sugar.",
+        "options":  [
+                        "You should stop to eat sugar.",
+                        "You should stop eating sugar.",
+                        "You must stop eat sugar.",
+                        "You would stop eating sugar."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "A pressão dele está alta.",
+        "correctAnswer":  "His blood pressure is high.",
+        "options":  [
+                        "His pressure is high.",
+                        "His blood pressure is high.",
+                        "His tension is high.",
+                        "His blood pressure is tall."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "Você toma vitaminas?",
+        "correctAnswer":  "Do you take vitamins?",
+        "options":  [
+                        "Do you take vitamin?",
+                        "Do you taking vitamins?",
+                        "You take vitamins?",
+                        "Do you take vitamins?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "Ela se sente fraca.",
+        "correctAnswer":  "She feels weak.",
+        "options":  [
+                        "She feels weakness.",
+                        "She feels weak.",
+                        "She is feeling weak.",
+                        "She feels weakly."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "O coração bate rápido demais.",
+        "correctAnswer":  "The heart beats too fast.",
+        "options":  [
+                        "The heart is beating too quickly.",
+                        "The heart beats too fast.",
+                        "The heart beats very quick.",
+                        "The heart is beating so fast."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "Ele sofre de insônia há meses.",
+        "correctAnswer":  "He has suffered from insomnia for months.",
+        "options":  [
+                        "He suffers of insomnia for months.",
+                        "He has suffered from insomnia for months.",
+                        "He is suffering insomnia since months.",
+                        "He suffers insomnia during months."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "Você deveria consultar um especialista.",
+        "correctAnswer":  "You should consult a specialist.",
+        "options":  [
+                        "You should consult to a specialist.",
+                        "You should consult a specialist.",
+                        "You must see a specialist.",
+                        "You should consult with specialist."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "Ela está grávida de três meses.",
+        "correctAnswer":  "She is three months pregnant.",
+        "options":  [
+                        "She is pregnant of three months.",
+                        "She is three months pregnant.",
+                        "She is expecting for three months.",
+                        "She has three months pregnant."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "O médico prescreveu antibiótico.",
+        "correctAnswer":  "The doctor prescribed antibiotics.",
+        "options":  [
+                        "The doctor prescribe antibiotics.",
+                        "The doctor prescribed antibiotics.",
+                        "The doctor has prescribed the antibiotic.",
+                        "The doctor make prescription for antibiotic."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "Ela teve uma cirurgia bem-sucedida.",
+        "correctAnswer":  "She had a successful surgery.",
+        "options":  [
+                        "She had a successfully surgery.",
+                        "She had a successful surgery.",
+                        "She made a successful surgery.",
+                        "She had surgery successfully."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "Você pode ficar internado por uma semana.",
+        "correctAnswer":  "You may stay in the hospital for a week.",
+        "options":  [
+                        "You can stay hospital for one week.",
+                        "You may stay in the hospital for a week.",
+                        "You could stay at hospital one week.",
+                        "You might be hospitalized during week."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "Ele ficou inconsciente por alguns minutos.",
+        "correctAnswer":  "He was unconscious for a few minutes.",
+        "options":  [
+                        "He was unconsious during some minutes.",
+                        "He was unconscious for a few minutes.",
+                        "He became unconscious for minutes.",
+                        "He was not conscious some minutes."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "A epidemia afetou a região inteira.",
+        "correctAnswer":  "The epidemic affected the entire region.",
+        "options":  [
+                        "The epidemic affected entire region.",
+                        "The epidemic affected the entire region.",
+                        "The epidemic has affected all region.",
+                        "The epidemic touch the whole region."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "Você deve evitar alimentos gordurosos.",
+        "correctAnswer":  "You should avoid fatty foods.",
+        "options":  [
+                        "You should avoid fattening foods.",
+                        "You should avoid fatty foods.",
+                        "You must avoid foods with fat.",
+                        "You need to avoid food with grease."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "Ela está se recuperando lentamente.",
+        "correctAnswer":  "She is recovering slowly.",
+        "options":  [
+                        "She is recover slowly.",
+                        "She is recovering slowly.",
+                        "She recovers in slow way.",
+                        "She slowly is recovering."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "O tratamento requer paciência e tempo.",
+        "correctAnswer":  "The treatment requires patience and time.",
+        "options":  [
+                        "The treatment is requiring patience and time.",
+                        "The treatment requires patience and time.",
+                        "The treatment need patience and time.",
+                        "The treatment demands patient and time."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "Você pode ter uma reação alérgica.",
+        "correctAnswer":  "You may have an allergic reaction.",
+        "options":  [
+                        "You can have a reaction allergy.",
+                        "You may have an allergic reaction.",
+                        "You might have reaction allergic.",
+                        "You could develop an allergy reaction."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "Ele foi diagnosticado com diabetes.",
+        "correctAnswer":  "He was diagnosed with diabetes.",
+        "options":  [
+                        "He was diagnosed of diabetes.",
+                        "He was diagnosed with diabetes.",
+                        "He have been diagnosed diabetes.",
+                        "He got diagnosed in diabetes."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "O paciente precisa de uma transfusão de sangue.",
+        "difficulty":  "hard",
+        "options":  [
+                        "The patient needs a blood transfusion.",
+                        "The patient requires a blood transfusion.",
+                        "The patient is needing blood transfusion.",
+                        "The patient must have a transfusion blood."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "The patient needs a blood transfusion."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "Ela sofre de ansiedade.",
+        "difficulty":  "hard",
+        "options":  [
+                        "She suffers anxiety.",
+                        "She suffers from anxiety.",
+                        "She has anxiety suffering.",
+                        "She is anxiety."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "She suffers from anxiety."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "O exercício é bom para a saúde.",
+        "difficulty":  "medium",
+        "options":  [
+                        "Exercise is good for the health.",
+                        "Exercise is good for health.",
+                        "To exercise is good for health.",
+                        "Exercises are good to health."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Exercise is good for health."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "Você tira sangue para fazer exames?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Do they take blood for tests?",
+                        "Do they take blood for examination?",
+                        "They take blood to exams?",
+                        "Is blood taken for tests?"
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Do they take blood for tests?"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "saude",
+        "type":  "translation",
+        "questionText":  "A inflamação diminuiu após o tratamento.",
+        "difficulty":  "medium",
+        "options":  [
+                        "The inflammation was decreased after the treatment.",
+                        "The inflammation decreased after the treatment.",
+                        "The inflammation has decreased following treatment.",
+                        "The inflammation diminished after treatment."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "The inflammation decreased after the treatment."
+    }
+]

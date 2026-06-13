@@ -1,0 +1,502 @@
+﻿[
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir permissão ao professor para sair da sala durante a aula. O que você diz?",
+    "correctAnswer": "Can I leave the classroom, please?",
+    "options": ["Can I leave the classroom, please?", "I leave the classroom now", "Leave the classroom!", "The classroom is leaving"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Sua colega não entendeu a explicação do professor. Como você oferece ajuda?",
+    "correctAnswer": "Do you need help? I can explain it to you.",
+    "options": ["Do you need help? I can explain it to you.", "I understand nothing too", "You don't understand anything", "Help is impossible now"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O professor fez uma pergunta e você não sabe a resposta. O que você diz?",
+    "correctAnswer": "I don't know the answer.",
+    "options": ["I don't know the answer.", "The answer is wrong", "I know nothing", "Answer me quickly"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar o significado de uma palavra desconhecida. Como faz?",
+    "correctAnswer": "What does this word mean?",
+    "options": ["What does this word mean?", "This word is new for me", "Tell me a new word", "The word has no meaning"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O professor pediu para você fazer um dever de casa e você não ouviu completamente. O que você diz?",
+    "correctAnswer": "Can you repeat the homework, please?",
+    "options": ["Can you repeat the homework, please?", "Homework is difficult today", "I forget the homework", "Repeat me now"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer sugerir um tópico para estudar em classe. Como você faz?",
+    "correctAnswer": "Can we study this topic?",
+    "options": ["Can we study this topic?", "Study this topic now", "This topic is easy", "We never study topics"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O professor fez uma crítica sobre seu trabalho. Como você responde educadamente?",
+    "correctAnswer": "Thank you for your feedback.",
+    "options": ["Thank you for your feedback.", "Your criticism is wrong", "I don't like your comment", "Feedback is not important"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você chegou atrasado à aula. O que você diz ao professor?",
+    "correctAnswer": "Sorry, I'm late.",
+    "options": ["Sorry, I'm late.", "I arrive late always", "Late is my schedule", "I'm never on time"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer avisar que não vai à aula amanhã. Como você informa?",
+    "correctAnswer": "I won't be at school tomorrow.",
+    "options": ["I won't be at school tomorrow.", "School is closed tomorrow", "Tomorrow is my holiday", "I don't go to school"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você não pode fazer o dever de casa no prazo. Como você comunica isso?",
+    "correctAnswer": "I can't finish the homework on time.",
+    "options": ["I can't finish the homework on time.", "Homework is not finished", "Time is my problem", "I do nothing today"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Sua colega fez algo bom em um projeto. Como você a elogia?",
+    "correctAnswer": "Your project is very good!",
+    "options": ["Your project is very good!", "You work very slow", "The project has problems", "Good projects are rare"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O professor fez uma pergunta difícil. Como você pede clarificação?",
+    "correctAnswer": "Can you explain this question, please?",
+    "options": ["Can you explain this question, please?", "This question is very hard", "I understand the question", "Questions are difficult always"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você precisa emprestar um material escolar de um colega. Como você pede?",
+    "correctAnswer": "Can I borrow your pen, please?",
+    "options": ["Can I borrow your pen, please?", "Give me your pen now", "Your pen is mine", "Pens are very expensive"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer sugerir um intervalo durante a aula. O que você diz?",
+    "correctAnswer": "Can we have a break now?",
+    "options": ["Can we have a break now?", "We never take breaks", "Breaks are not allowed", "I work without rest"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Um colega pediu sua ajuda com o dever. Como você responde positivamente?",
+    "correctAnswer": "Of course, I can help you.",
+    "options": ["Of course, I can help you.", "Your homework is easy", "I never help anyone", "Help is very difficult"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber quando é o próximo teste. Como você pergunta?",
+    "correctAnswer": "When is the next test?",
+    "options": ["When is the next test?", "Tests are every day", "I never take tests", "Tests have no date"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Seu colega sugeriu estudar em grupo e você concorda. Como você responde?",
+    "correctAnswer": "Yes, that's a good idea. Let's study together.",
+    "options": ["Yes, that's a good idea. Let's study together.", "Study alone is better", "Groups don't work", "I study never"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você fez um erro em um exercício e quer se desculpar. Como você faz?",
+    "correctAnswer": "I'm sorry, I made a mistake.",
+    "options": ["I'm sorry, I made a mistake.", "Mistakes are normal for me", "I never make errors", "Error is your fault"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O professor sugeriu melhorar seu trabalho. Como você expressa sua concordância?",
+    "correctAnswer": "I understand. I'll do better next time.",
+    "options": ["I understand. I'll do better next time.", "My work is perfect always", "I won't change anything", "Better is impossible for me"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você não entendeu a lição. Como você comunica isso de forma educada?",
+    "correctAnswer": "I don't understand this lesson. Can you help me?",
+    "options": ["I don't understand this lesson. Can you help me?", "Lessons are too easy for me", "I understand everything always", "Help me immediately"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber a nota que recebeu em um teste. Como você pergunta?",
+    "correctAnswer": "What mark did I get on the test?",
+    "options": ["What mark did I get on the test?", "Tests have no marks", "My mark is always high", "Marks are not important"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Uma colega está com dificuldades e você quer incentivá-la. O que você diz?",
+    "correctAnswer": "Don't worry. You can do it!",
+    "options": ["Don't worry. You can do it!", "You will never succeed", "Difficulty is permanent", "Giving up is easy"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O professor fez uma pergunta e você quer responder, mas não tem certeza. Como você procede?",
+    "correctAnswer": "I think the answer is... but I'm not sure.",
+    "options": ["I think the answer is... but I'm not sure.", "I know all the answers", "The answer is definitely correct", "Answers are impossible"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber qual é o assunto da próxima aula. Como você pergunta?",
+    "correctAnswer": "What's the topic for the next class?",
+    "options": ["What's the topic for the next class?", "Classes have no topics", "Topics are always the same", "Next class is cancelled"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Seu colega emprestou seu livro. Como você pergunta para tê-lo de volta?",
+    "correctAnswer": "Can I have my book back, please?",
+    "options": ["Can I have my book back, please?", "You keep my book forever", "Books are not important", "I don't need my book"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você está conversando com um colega sobre preferências de matérias. Qual resposta é apropriada?",
+    "correctAnswer": "I like English classes. They are interesting.",
+    "options": ["I like English classes. They are interesting.", "Classes are all boring", "I hate every subject", "No class is good"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você pergunta a um colega se ele fez o dever de casa. Qual é a forma correta?",
+    "correctAnswer": "Did you do your homework?",
+    "options": ["Did you do your homework?", "You always forget homework", "Homework is my problem", "Do your homework now"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O professor perguntou sua opinião sobre um tópico. Como você responde com uma opinião simples?",
+    "correctAnswer": "In my opinion, this is important.",
+    "options": ["In my opinion, this is important.", "I have no opinions ever", "My opinion is the best", "Opinions are not useful"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você recebeu um resultado ruim na prova e o professor quer saber por quê. Como você explica?",
+    "correctAnswer": "I studied, but I didn't understand everything.",
+    "options": ["I studied, but I didn't understand everything.", "I didn't study at all", "The test was unfair", "I never fail normally"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Um colega ofereceu explicar uma matéria complexa para você. Como você agradece e aceita?",
+    "correctAnswer": "That's very kind of you. Thank you!",
+    "options": ["That's very kind of you. Thank you!", "You cannot explain anything", "I don't need your help", "Explanations are useless"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você precisa avisar que não pode participar de um projeto em grupo. Como você comunica de forma educada?",
+    "correctAnswer": "I'm sorry, but I can't join the group project this time.",
+    "options": ["I'm sorry, but I can't join the group project this time.", "Group projects are stupid", "I never work in groups", "You don't need my help"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O professor está explicando um conceito e você tem uma dúvida. Como você a expressa durante a aula?",
+    "correctAnswer": "Excuse me, I have a question about this concept.",
+    "options": ["Excuse me, I have a question about this concept.", "Concepts are too hard for me", "I understand everything always", "Questions interrupt the class"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir uma extensão de prazo para entregar um dever. Como você faz isso apropriadamente?",
+    "correctAnswer": "Could I have more time to finish this assignment?",
+    "options": ["Could I have more time to finish this assignment?", "I never meet deadlines", "Assignments are too easy", "Extensions are forbidden always"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer sugerir um método de estudo diferente para a classe. Como você expressa isso?",
+    "correctAnswer": "Perhaps we could try a different way to study this material.",
+    "options": ["Perhaps we could try a different way to study this material.", "Our method is perfect always", "Change is never good", "Study methods are all the same"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer confirmar se entendeu corretamente uma instrução do professor. O que você diz?",
+    "correctAnswer": "If I understand correctly, I should do this assignment by Friday, right?",
+    "options": ["If I understand correctly, I should do this assignment by Friday, right?", "Instructions are always clear to me", "I never understand anything", "Assignments have no deadlines"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você deseja expressar que uma tarefa é mais fácil do que esperava. Como você comunica?",
+    "correctAnswer": "This assignment is easier than I thought!",
+    "options": ["This assignment is easier than I thought!", "All assignments are very hard", "I expected the worst", "Easy tasks don't exist"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer discutir as razões pelas quais é importante estudar inglês. Como você inicia a conversa?",
+    "correctAnswer": "I think English is important because I want to work internationally.",
+    "options": ["I think English is important because I want to work internationally.", "English is useless for everyone", "No language is really important", "Work doesn't need languages"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você cometeu plágio involuntariamente em um trabalho e quer explicar ao professor. Como você aborda?",
+    "correctAnswer": "I apologize. I didn't realize that I used the same words from the book.",
+    "options": ["I apologize. I didn't realize that I used the same words from the book.", "Plagiarism is not a problem", "I copied on purpose", "Books are meant to be copied"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Um colega pediu sua opinião sobre um método de estudo que ele está tentando. Como você responde?",
+    "correctAnswer": "I think your method is interesting, but maybe you could also try this way.",
+    "options": ["I think your method is interesting, but maybe you could also try this way.", "Your method is completely wrong", "No method works ever", "I don't have opinions about study"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber mais detalhes sobre um projeto que será desenvolvido em classe. Como você pede essas informações?",
+    "correctAnswer": "Can you give us more information about how this project should be done?",
+    "options": ["Can you give us more information about how this project should be done?", "Projects are always confusing", "Information is never helpful", "I understand everything without details"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você está com dificuldade em um assunto e quer pedir ajuda extra ao professor. Como você faz?",
+    "correctAnswer": "Could you give me some extra help with this topic?",
+    "options": ["Could you give me some extra help with this topic?", "Extra help is not available", "I don't need any help ever", "Teachers never help students"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Seu colega está ajudando você com lição de casa, mas a explicação não ficou clara. Como você pede clareza?",
+    "correctAnswer": "Thank you for helping me, but can you explain this part again, please?",
+    "options": ["Thank you for helping me, but can you explain this part again, please?", "Your explanation is always wrong", "I understand everything you say", "Repeat yourself constantly"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer expressar que está nervoso antes de um teste. Como você comunica isso?",
+    "correctAnswer": "I'm nervous about the test tomorrow.",
+    "options": ["I'm nervous about the test tomorrow.", "The test makes me happy", "I never feel nervous", "Nervous is not a feeling"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Um colega pergunta se você quer trabalhar com ele em um projeto. Como você recusa educadamente?",
+    "correctAnswer": "That's nice, but I already have a partner.",
+    "options": ["That's nice, but I already have a partner.", "I don't like you", "Work with someone else", "Partners are not important"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer parabenizar um colega por seu bom desempenho. O que você diz?",
+    "correctAnswer": "Congratulations! You did very well on the test.",
+    "options": ["Congratulations! You did very well on the test.", "You always fail tests", "Good marks are rare", "I never congratulate anyone"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você precisa pedir uma caneta emprestada durante o teste. Como você faz?",
+    "correctAnswer": "Can I borrow a pen during the test?",
+    "options": ["Can I borrow a pen during the test?", "Give me a pen immediately", "Pens are expensive items", "I never write with pens"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O professor está falando muito rápido e você não consegue acompanhar. Como você pede para ele falar mais devagar?",
+    "correctAnswer": "Could you speak more slowly, please?",
+    "options": ["Could you speak more slowly, please?", "You speak very fast always", "Speak slowly is difficult", "I understand your fast speech"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber se o professor pode revisar sua redação antes de entregar. Como você pede isso?",
+    "correctAnswer": "Could you review my essay before I submit it?",
+    "options": ["Could you review my essay before I submit it?", "Essays are always perfect from me", "Reviews are not necessary", "I never ask for help"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer indicar que um determinado tópico era mais fácil do que tópicos anteriores. Como você expressa isso?",
+    "correctAnswer": "This topic was easier than the last one.",
+    "options": ["This topic was easier than the last one.", "All topics are equally difficult", "Previous topics were simpler", "Topics never change difficulty"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você deseja expressar preocupação sobre sua nota atual na matéria. Como você comunica isso ao professor?",
+    "correctAnswer": "I'm worried about my grade in this subject. Can you help me improve?",
+    "options": ["I'm worried about my grade in this subject. Can you help me improve?", "My grades are always perfect", "Grades don't matter at all", "Teachers never improve grades"],
+    "difficulty": "hard"
+  }
+]

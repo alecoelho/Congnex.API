@@ -1,0 +1,532 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'I want to go to the ___.' (Eu quero ir ao aeroporto.)",
+    "correctAnswer": "airport",
+    "options": ["airport", "school", "hospital", "library"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'My ___ is in the bag.' (Meu passaporte está na bolsa.)",
+    "correctAnswer": "passport",
+    "options": ["passport", "pencil", "phone", "shirt"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'We stay in a ___.' (Nós ficamos em um hotel.)",
+    "correctAnswer": "hotel",
+    "options": ["hotel", "car", "train", "bus"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'The ___ is very big.' (O avião é muito grande.)",
+    "correctAnswer": "plane",
+    "options": ["plane", "book", "table", "chair"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'I need a ___.' (Eu preciso de um bilhete/passagem.)",
+    "correctAnswer": "ticket",
+    "options": ["ticket", "pillow", "window", "lamp"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'I have one ___.' (Eu tenho uma mala.)",
+    "correctAnswer": "suitcase",
+    "options": ["suitcase", "sandwich", "camera", "umbrella"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'The ___ goes to the city.' (O ônibus vai para a cidade.)",
+    "correctAnswer": "bus",
+    "options": ["bus", "cup", "door", "floor"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'I travel by ___.' (Eu viajo de trem.)",
+    "correctAnswer": "train",
+    "options": ["train", "bed", "pen", "clock"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'The beach is ___.' (A praia é bonita.)",
+    "correctAnswer": "beautiful",
+    "options": ["beautiful", "cold", "small", "dark"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'I go on ___.' (Eu vou de férias.)",
+    "correctAnswer": "vacation",
+    "options": ["vacation", "walk", "sleep", "work"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'Where is the ___?' (Onde fica o banheiro?)",
+    "correctAnswer": "bathroom",
+    "options": ["bathroom", "ocean", "map", "sky"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'I take a ___ to the beach.' (Eu pego um táxi para a praia.)",
+    "correctAnswer": "taxi",
+    "options": ["taxi", "fork", "bottle", "box"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'The ___ is near the hotel.' (A praia fica perto do hotel.)",
+    "correctAnswer": "beach",
+    "options": ["beach", "notebook", "mirror", "office"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'I sleep in a ___.' (Eu durmo em uma cama.)",
+    "correctAnswer": "bed",
+    "options": ["bed", "river", "tree", "wall"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'This is my ___.' (Este é o meu quarto.)",
+    "correctAnswer": "room",
+    "options": ["room", "flight", "tour", "trip"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'I see the ___.' (Eu vejo o mapa.)",
+    "correctAnswer": "map",
+    "options": ["map", "juice", "dress", "shoe"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'The ___ is hot today.' (O sol está quente hoje.)",
+    "correctAnswer": "sun",
+    "options": ["sun", "taxi", "bag", "seat"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'The flight ___ at eight o'clock.' (O voo parte às oito horas.)",
+    "correctAnswer": "departs",
+    "options": ["departs", "sleeps", "reads", "cooks"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'I need to ___ in at the hotel.' (Eu preciso fazer check-in no hotel.)",
+    "correctAnswer": "check",
+    "options": ["check", "look", "walk", "drive"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'Can I have a window ___?' (Posso ter um assento na janela?)",
+    "correctAnswer": "seat",
+    "options": ["seat", "bag", "key", "door"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'The hotel has a swimming ___.' (O hotel tem uma piscina.)",
+    "correctAnswer": "pool",
+    "options": ["pool", "park", "farm", "shop"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'We visit the ___ in the city.' (Nós visitamos o museu na cidade.)",
+    "correctAnswer": "museum",
+    "options": ["museum", "bedroom", "kitchen", "garden"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'I buy a ___ at the market.' (Eu compro um souvenir no mercado.)",
+    "correctAnswer": "souvenir",
+    "options": ["souvenir", "battery", "stapler", "eraser"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'What ___ does the bus arrive?' (A que horas chega o ônibus?)",
+    "correctAnswer": "time",
+    "options": ["time", "color", "size", "name"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'He shows his ___ at the border.' (Ele mostra seu passaporte na fronteira.)",
+    "correctAnswer": "passport",
+    "options": ["passport", "wallet", "photo", "letter"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'We take a ___ around the old town.' (Nós fazemos um tour pelo centro histórico.)",
+    "correctAnswer": "tour",
+    "options": ["tour", "test", "class", "break"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'She puts her bag in the ___.' (Ela coloca a bolsa no compartimento acima.)",
+    "correctAnswer": "overhead compartment",
+    "options": ["overhead compartment", "swimming pool", "bus stop", "parking lot"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'The ___ takes us to the hotel.' (O transfer nos leva ao hotel.)",
+    "correctAnswer": "shuttle",
+    "options": ["shuttle", "ladder", "pillow", "blanket"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'I want a room with an ___ view.' (Eu quero um quarto com vista para o oceano.)",
+    "correctAnswer": "ocean",
+    "options": ["ocean", "indoor", "extra", "single"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'We need to ___ our tickets before the trip.' (Precisamos reservar nossos bilhetes antes da viagem.)",
+    "correctAnswer": "book",
+    "options": ["book", "lose", "break", "forget"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'The ___ helps us at the front desk.' (O recepcionista nos ajuda na recepção.)",
+    "correctAnswer": "receptionist",
+    "options": ["receptionist", "passenger", "pilot", "tourist"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'How much is the ___?' (Quanto custa a diária?)",
+    "correctAnswer": "rate",
+    "options": ["rate", "beach", "food", "view"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'We arrive at the ___ station.' (Chegamos na estação de trem.)",
+    "correctAnswer": "train",
+    "options": ["train", "river", "forest", "mountain"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'She takes a ___ of the famous tower.' (Ela tira uma foto da torre famosa.)",
+    "correctAnswer": "photo",
+    "options": ["photo", "break", "nap", "walk"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'The airline ___ our flight by two hours.' (A companhia aérea atrasou nosso voo em duas horas.)",
+    "correctAnswer": "delayed",
+    "options": ["delayed", "cleaned", "opened", "painted"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'I need to ___ the local currency.' (Eu preciso trocar a moeda local.)",
+    "correctAnswer": "exchange",
+    "options": ["exchange", "eat", "swim", "speak"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'Passengers must go through ___ before boarding.' (Os passageiros devem passar pela segurança antes de embarcar.)",
+    "correctAnswer": "security",
+    "options": ["security", "breakfast", "reception", "checkout"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'Please fasten your ___ belt.' (Por favor, afivele seu cinto de segurança.)",
+    "correctAnswer": "seat",
+    "options": ["seat", "hand", "travel", "neck"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'The ___ announces the gate number.' (O painel anuncia o número do portão.)",
+    "correctAnswer": "board",
+    "options": ["board", "clock", "plate", "cup"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'We collect our ___ at the baggage claim.' (Coletamos nossa bagagem na esteira.)",
+    "correctAnswer": "luggage",
+    "options": ["luggage", "dinner", "laundry", "payment"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'The traveler needs a ___ to enter the country.' (O viajante precisa de um visto para entrar no país.)",
+    "correctAnswer": "visa",
+    "options": ["visa", "receipt", "coupon", "label"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'The hotel offers a free ___ every morning.' (O hotel oferece café da manhã gratuito todas as manhãs.)",
+    "correctAnswer": "breakfast",
+    "options": ["breakfast", "discount", "transport", "upgrade"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'She asks the ___ for directions to the monument.' (Ela pede ao guia turístico instruções para chegar ao monumento.)",
+    "correctAnswer": "tour guide",
+    "options": ["tour guide", "flight attendant", "hotel manager", "bus driver"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'The ___ tells us about the history of the castle.' (O guia nos conta sobre a história do castelo.)",
+    "correctAnswer": "guide",
+    "options": ["guide", "waiter", "driver", "captain"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'We need to ___ our reservation two days before.' (Precisamos confirmar nossa reserva dois dias antes.)",
+    "correctAnswer": "confirm",
+    "options": ["confirm", "cancel", "ignore", "forget"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'The ___ weighs more than 20 kilos.' (A bagagem pesa mais de 20 quilos.)",
+    "correctAnswer": "baggage",
+    "options": ["baggage", "journey", "schedule", "currency"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'The flight ___ shows that the plane is on time.' (O painel de chegadas mostra que o avião está no horário.)",
+    "correctAnswer": "board",
+    "options": ["board", "menu", "sign", "form"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'He changes money at the ___ office.' (Ele troca dinheiro no escritório de câmbio.)",
+    "correctAnswer": "exchange",
+    "options": ["exchange", "luggage", "customs", "lounge"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'The tourists wait in the ___ lounge.' (Os turistas esperam na sala de embarque.)",
+    "correctAnswer": "departure",
+    "options": ["departure", "arrival", "baggage", "transit"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'We go through ___ with our bags.' (Passamos pela alfândega com nossas malas.)",
+    "correctAnswer": "customs",
+    "options": ["customs", "boarding", "check-in", "security"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'The ___ attendant brings us food on the plane.' (A comissária nos traz comida no avião.)",
+    "correctAnswer": "flight",
+    "options": ["flight", "hotel", "travel", "cruise"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'I look for a ___ to sleep near the beach.' (Eu procuro uma hospedagem para dormir perto da praia.)",
+    "correctAnswer": "hostel",
+    "options": ["hostel", "canteen", "station", "counter"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: 'She fills out the ___ form at the airport.' (Ela preenche o formulário de imigração no aeroporto.)",
+    "correctAnswer": "immigration",
+    "options": ["immigration", "reservation", "cancellation", "registration"],
+    "difficulty": "hard"
+  }
+]

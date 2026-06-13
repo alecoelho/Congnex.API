@@ -1,0 +1,512 @@
+[
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Doctors recommend that patients with hypertension ___ their sodium intake to reduce cardiovascular risk.",
+    "correctAnswer": "restrict",
+    "options": ["restrict", "expand", "neglect", "elevate"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Regular physical activity helps to ___ the immune system and improve overall health.",
+    "correctAnswer": "strengthen",
+    "options": ["strengthen", "weaken", "ignore", "dissolve"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "A balanced diet rich in fruits and vegetables can ___ the risk of developing chronic diseases.",
+    "correctAnswer": "lower",
+    "options": ["lower", "raise", "confirm", "delay"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Getting enough sleep is essential to ___ mental and physical health.",
+    "correctAnswer": "maintain",
+    "options": ["maintain", "abandon", "disturb", "suspend"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Smoking has been proven to ___ lung cancer and other respiratory illnesses.",
+    "correctAnswer": "cause",
+    "options": ["cause", "cure", "prevent", "examine"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Patients are advised to ___ their medication as prescribed by their physician.",
+    "correctAnswer": "take",
+    "options": ["take", "refuse", "lose", "sell"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Drinking enough water throughout the day is crucial to stay properly ___.",
+    "correctAnswer": "hydrated",
+    "options": ["hydrated", "infected", "sedated", "stimulated"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Mental health professionals encourage patients to ___ their feelings rather than suppress them.",
+    "correctAnswer": "express",
+    "options": ["express", "hide", "deny", "remove"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Obesity is often ___ to a combination of poor diet, lack of exercise, and genetic factors.",
+    "correctAnswer": "attributed",
+    "options": ["attributed", "compared", "referred", "attached"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Vaccines work by stimulating the body to ___ antibodies against specific pathogens.",
+    "correctAnswer": "produce",
+    "options": ["produce", "consume", "destroy", "absorb"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "High levels of stress can ___ the body's ability to fight infections.",
+    "correctAnswer": "impair",
+    "options": ["impair", "improve", "replace", "extend"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "A sedentary lifestyle is closely ___ with an increased risk of heart disease.",
+    "correctAnswer": "associated",
+    "options": ["associated", "contrasted", "compared", "combined"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Physicians often advise patients to ___ alcohol consumption to protect liver health.",
+    "correctAnswer": "limit",
+    "options": ["limit", "increase", "celebrate", "repeat"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Chronic pain can significantly ___ a person's quality of life and daily functioning.",
+    "correctAnswer": "affect",
+    "options": ["affect", "improve", "support", "recover"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "The doctor ordered a blood test to ___ the patient's cholesterol levels.",
+    "correctAnswer": "check",
+    "options": ["check", "ignore", "increase", "replace"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Mindfulness practices are known to help people ___ stress and anxiety effectively.",
+    "correctAnswer": "manage",
+    "options": ["manage", "create", "worsen", "avoid"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Early detection of cancer greatly ___ the chances of successful treatment.",
+    "correctAnswer": "increases",
+    "options": ["increases", "eliminates", "removes", "complicates"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "The patient exhibited several ___ symptoms that were consistent with an autoimmune disorder.",
+    "correctAnswer": "hallmark",
+    "options": ["hallmark", "trivial", "unexpected", "irrelevant"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "The clinical trial failed to ___ the hypothesis that the new drug reduced inflammation more effectively.",
+    "correctAnswer": "corroborate",
+    "options": ["corroborate", "fabricate", "undermine", "replicate"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Prolonged exposure to pollutants can ___ pulmonary function over time.",
+    "correctAnswer": "deteriorate",
+    "options": ["deteriorate", "reinforce", "accelerate", "stimulate"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "The physician recommended a ___ approach to treatment, combining medication with lifestyle changes.",
+    "correctAnswer": "holistic",
+    "options": ["holistic", "superficial", "partial", "singular"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Despite its widespread use, the efficacy of this supplement remains ___ due to conflicting studies.",
+    "correctAnswer": "contentious",
+    "options": ["contentious", "conclusive", "evident", "undeniable"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "The nurse administered the injection with ___ technique to minimize discomfort.",
+    "correctAnswer": "meticulous",
+    "options": ["meticulous", "reckless", "careless", "hasty"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Researchers have identified a strong ___ between gut microbiota composition and mental health outcomes.",
+    "correctAnswer": "correlation",
+    "options": ["correlation", "contradiction", "distinction", "division"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "The new treatment protocol was designed to ___ the adverse effects associated with conventional chemotherapy.",
+    "correctAnswer": "mitigate",
+    "options": ["mitigate", "amplify", "provoke", "confirm"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Epidemiologists work to ___ the sources of disease outbreaks to prevent further spread.",
+    "correctAnswer": "trace",
+    "options": ["trace", "disregard", "fabricate", "accelerate"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "The surgeon's decision to operate was ___ by the patient's deteriorating condition.",
+    "correctAnswer": "warranted",
+    "options": ["warranted", "dismissed", "questioned", "postponed"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "The patient's recovery was ___ by complications arising from a secondary infection.",
+    "correctAnswer": "hampered",
+    "options": ["hampered", "expedited", "facilitated", "guaranteed"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Cognitive behavioral therapy aims to ___ maladaptive thought patterns that contribute to depression.",
+    "correctAnswer": "restructure",
+    "options": ["restructure", "reinforce", "ignore", "suppress"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "The proliferation of antibiotic-resistant bacteria poses a ___ threat to global public health.",
+    "correctAnswer": "grave",
+    "options": ["grave", "negligible", "trivial", "manageable"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "The committee ___ the use of experimental treatments without proper ethical oversight.",
+    "correctAnswer": "condemned",
+    "options": ["condemned", "endorsed", "facilitated", "encouraged"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Physicians must obtain ___ consent before performing any invasive procedure on a patient.",
+    "correctAnswer": "informed",
+    "options": ["informed", "reluctant", "partial", "verbal"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "The pathogen's ability to ___ host immune defenses makes it particularly dangerous.",
+    "correctAnswer": "evade",
+    "options": ["evade", "strengthen", "activate", "support"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "The longitudinal study aimed to ___ the long-term effects of poor nutrition on cognitive decline.",
+    "correctAnswer": "elucidate",
+    "options": ["elucidate", "obscure", "disregard", "estimate"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "The ___ nature of Alzheimer's disease requires ongoing support for both patients and caregivers.",
+    "correctAnswer": "degenerative",
+    "options": ["degenerative", "transient", "reversible", "benign"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "The administration of immunosuppressants post-transplant is necessary to prevent ___ rejection.",
+    "correctAnswer": "allograft",
+    "options": ["allograft", "autologous", "iatrogenic", "idiopathic"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "The cytokine storm observed in severe COVID-19 cases is an example of an ___ immune response.",
+    "correctAnswer": "aberrant",
+    "options": ["aberrant", "attenuated", "innate", "adaptive"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "The oncologist explained that the tumor's ___ potential significantly worsened the patient's prognosis.",
+    "correctAnswer": "metastatic",
+    "options": ["metastatic", "benign", "dormant", "regressive"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "The phenomenon known as ___ refers to the worsening of a patient's condition due to the treatment itself.",
+    "correctAnswer": "iatrogenesis",
+    "options": ["iatrogenesis", "homeostasis", "pathogenesis", "neurogenesis"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "The drug's ___ half-life necessitates careful dose titration to avoid toxic accumulation.",
+    "correctAnswer": "prolonged",
+    "options": ["prolonged", "negligible", "predictable", "variable"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Epigenetic modifications can ___ gene expression without altering the underlying DNA sequence.",
+    "correctAnswer": "modulate",
+    "options": ["modulate", "replicate", "transcribe", "terminate"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "The patient's ___ presentation confounded the initial diagnosis, as symptoms overlapped with several conditions.",
+    "correctAnswer": "equivocal",
+    "options": ["equivocal", "pathognomonic", "acute", "pronounced"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "The mechanism of action of the new antiviral involves ___ the viral protease, thereby halting replication.",
+    "correctAnswer": "inhibiting",
+    "options": ["inhibiting", "amplifying", "activating", "replicating"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Telomere ___ is increasingly recognized as a biomarker of cellular aging and age-related disease susceptibility.",
+    "correctAnswer": "attrition",
+    "options": ["attrition", "elongation", "replication", "synthesis"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "The concept of ___ refers to the body's tendency to maintain a stable internal environment despite external fluctuations.",
+    "correctAnswer": "homeostasis",
+    "options": ["homeostasis", "apoptosis", "necrosis", "catabolism"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "The use of ___ biomarkers allows clinicians to detect organ damage before overt symptoms manifest.",
+    "correctAnswer": "subclinical",
+    "options": ["subclinical", "acute", "terminal", "obvious"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "The cardiologist noted significant ___ changes in the ECG, suggesting ischemic heart disease.",
+    "correctAnswer": "ischemic",
+    "options": ["ischemic", "arrhythmic", "hypertrophic", "valvular"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "The pharmacokinetic profile of the drug revealed significant ___ variability among the study population.",
+    "correctAnswer": "interindividual",
+    "options": ["interindividual", "intravenous", "intramuscular", "intracellular"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "The concept of ___ immunity refers to indirect protection conferred upon unvaccinated individuals when a sufficient proportion of the population is immune.",
+    "correctAnswer": "herd",
+    "options": ["herd", "passive", "cellular", "humoral"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "The inflammatory cascade was ___ by the binding of cytokines to their respective receptors on endothelial cells.",
+    "correctAnswer": "triggered",
+    "options": ["triggered", "resolved", "suppressed", "neutralized"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "The pathophysiology of type 2 diabetes involves both insulin ___ and impaired insulin secretion by pancreatic beta cells.",
+    "correctAnswer": "resistance",
+    "options": ["resistance", "abundance", "synthesis", "retention"],
+    "difficulty": "hard"
+  }
+]

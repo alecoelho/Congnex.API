@@ -1,0 +1,512 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você está chegando ao escritório pela primeira vez e quer se apresentar a um colega. O que você diz?",
+    "correctAnswer": "Hello, my name is Carlos.",
+    "options": ["Hello, my name is Carlos.", "Hello, your name is Carlos.", "Hello, his name is Carlos.", "Hello, name Carlos is."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar o preço de um produto ao vendedor. O que você diz?",
+    "correctAnswer": "How much is it?",
+    "options": ["How much is it?", "How many is it?", "What time is it?", "Where is it?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Seu chefe pergunta se você entendeu as instruções. Você entendeu. O que você responde?",
+    "correctAnswer": "Yes, I understand.",
+    "options": ["Yes, I understand.", "No, I understand.", "Yes, I not understand.", "Yes, understand I."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você precisa pedir ao colega para repetir o que ele disse. O que você diz?",
+    "correctAnswer": "Please, repeat that.",
+    "options": ["Please, repeat that.", "Please, say nothing.", "Please, stop talking.", "Please, speak faster."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer ao cliente que o produto está disponível. O que você diz?",
+    "correctAnswer": "We have this product.",
+    "options": ["We have this product.", "We not have this product.", "We want this product.", "We buy this product."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar o nome da empresa onde seu novo contato trabalha. O que você diz?",
+    "correctAnswer": "What is your company name?",
+    "options": ["What is your company name?", "Where is your company name?", "Who is your company name?", "When is your company name?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você quer agradecer ao cliente pela compra. O que você diz?",
+    "correctAnswer": "Thank you for your purchase.",
+    "options": ["Thank you for your purchase.", "Sorry for your purchase.", "Please for your purchase.", "Hello for your purchase."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer ao cliente que a loja abre às 9 horas. O que você diz?",
+    "correctAnswer": "We open at nine o'clock.",
+    "options": ["We open at nine o'clock.", "We close at nine o'clock.", "We work nine o'clock.", "We start nine o'clock."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir ao colega o número de telefone dele. O que você diz?",
+    "correctAnswer": "What is your phone number?",
+    "options": ["What is your phone number?", "What is your address?", "What is your email?", "What is your name?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você quer confirmar para o cliente que o pedido foi recebido. O que você diz?",
+    "correctAnswer": "We have your order.",
+    "options": ["We have your order.", "We want your order.", "We send your order.", "We make your order."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer ao seu chefe que o trabalho está pronto. O que você diz?",
+    "correctAnswer": "The work is ready.",
+    "options": ["The work is ready.", "The work is not ready.", "The work is bad.", "The work is start."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar a um cliente se ele precisa de ajuda. O que você diz?",
+    "correctAnswer": "Can I help you?",
+    "options": ["Can I help you?", "Can you help me?", "Do I help you?", "Am I help you?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer ao colega que você trabalha nesta empresa. O que você diz?",
+    "correctAnswer": "I work here.",
+    "options": ["I work here.", "I live here.", "I study here.", "I play here."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer ao fornecedor que o pagamento foi feito. O que você diz?",
+    "correctAnswer": "We paid.",
+    "options": ["We paid.", "We buy.", "We sell.", "We owe."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você quer cumprimentar um cliente durante a manhã. O que você diz?",
+    "correctAnswer": "Good morning!",
+    "options": ["Good morning!", "Good night!", "Good evening!", "Goodbye!"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer ao cliente que o preço é dez reais. O que você diz?",
+    "correctAnswer": "The price is ten reais.",
+    "options": ["The price is ten reais.", "The price are ten reais.", "The price has ten reais.", "The price do ten reais."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você quer se despedir de um cliente ao final do atendimento. O que você diz?",
+    "correctAnswer": "Goodbye! Have a nice day.",
+    "options": ["Goodbye! Have a nice day.", "Hello! Have a nice day.", "Sorry! Have a nice day.", "Please! Have a nice day."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar a um colega em qual departamento ele trabalha. O que você diz?",
+    "correctAnswer": "What department do you work in?",
+    "options": ["What department do you work in?", "What department are you work in?", "Where department do you work?", "Which department is you work?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você quer informar ao cliente que a entrega leva dois dias. O que você diz?",
+    "correctAnswer": "Delivery takes two days.",
+    "options": ["Delivery takes two days.", "Delivery is two days ago.", "Delivery does two days.", "Delivery have two days."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir ao cliente para assinar um documento. O que você diz?",
+    "correctAnswer": "Please, sign here.",
+    "options": ["Please, sign here.", "Please, read here.", "Please, pay here.", "Please, wait here."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer ao seu chefe que você não tem o relatório ainda. O que você diz?",
+    "correctAnswer": "I don't have the report yet.",
+    "options": ["I don't have the report yet.", "I have the report yet.", "I not the report yet.", "I am the report yet."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar a um novo cliente se ele tem uma conta na empresa. O que você diz?",
+    "correctAnswer": "Do you have an account with us?",
+    "options": ["Do you have an account with us?", "Are you have an account with us?", "Have you an account to us?", "Is you have an account for us?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você quer informar ao fornecedor sobre o horário de funcionamento do escritório. O que você diz?",
+    "correctAnswer": "Our office is open from nine to five.",
+    "options": ["Our office is open from nine to five.", "Our office open from nine to five.", "Our office are open from nine to five.", "Our office opens nine five."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir ao cliente para aguardar enquanto verifica informações. O que você diz?",
+    "correctAnswer": "Please wait a moment.",
+    "options": ["Please wait a moment.", "Please go away.", "Please come back.", "Please sit down now."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar se o cliente deseja pagar com cartão ou dinheiro. O que você diz?",
+    "correctAnswer": "Do you want to pay by card or cash?",
+    "options": ["Do you want to pay by card or cash?", "Do you want to buy by card or cash?", "Do you want to sell by card or cash?", "Do you want to work by card or cash?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer ao cliente que este produto não está em estoque. O que você diz?",
+    "correctAnswer": "This product is not in stock.",
+    "options": ["This product is not in stock.", "This product is not on sale.", "This product is not in order.", "This product is not in list."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar a um fornecedor quando o produto vai chegar. O que você diz?",
+    "correctAnswer": "When does the product arrive?",
+    "options": ["When does the product arrive?", "Where does the product arrive?", "Why does the product arrive?", "Who does the product arrive?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você quer informar ao cliente que a fatura já foi enviada por e-mail. O que você diz?",
+    "correctAnswer": "We sent the invoice by email.",
+    "options": ["We sent the invoice by email.", "We send the invoice by email.", "We sends the invoice by email.", "We sended the invoice by email."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir ao seu colega para ligar para um cliente. O que você diz?",
+    "correctAnswer": "Please call the client.",
+    "options": ["Please call the client.", "Please email the client.", "Please visit the client.", "Please write the client."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer a um colega que a reunião começa às três da tarde. O que você diz?",
+    "correctAnswer": "The meeting starts at three in the afternoon.",
+    "options": ["The meeting starts at three in the afternoon.", "The meeting starts at three in the morning.", "The meeting starts at three at night.", "The meeting starts at three in the evening."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar ao cliente quantas unidades ele deseja comprar. O que você diz?",
+    "correctAnswer": "How many units do you want?",
+    "options": ["How many units do you want?", "How much units do you want?", "How many units are you want?", "How many units does you want?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer ao cliente que a empresa aceita cartão de crédito. O que você diz?",
+    "correctAnswer": "We accept credit cards.",
+    "options": ["We accept credit cards.", "We use credit cards.", "We give credit cards.", "We have credit cards."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você quer informar ao chefe que você vai chegar tarde amanhã. O que você diz?",
+    "correctAnswer": "I will be late tomorrow.",
+    "options": ["I will be late tomorrow.", "I am late tomorrow.", "I be late tomorrow.", "I was late tomorrow."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir ao colega o endereço de e-mail de um fornecedor. O que você diz?",
+    "correctAnswer": "What is the supplier's email address?",
+    "options": ["What is the supplier's email address?", "Where is the supplier's email address?", "Who is the supplier's email address?", "How is the supplier's email address?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você quer confirmar ao cliente o valor total da compra dele. O que você diz?",
+    "correctAnswer": "Your total is fifty dollars.",
+    "options": ["Your total is fifty dollars.", "Your total are fifty dollars.", "Your total has fifty dollars.", "Your total do fifty dollars."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você quer informar ao cliente que a empresa tem um desconto especial esta semana. O que você diz?",
+    "correctAnswer": "We have a special discount this week.",
+    "options": ["We have a special discount this week.", "We has a special discount this week.", "We having a special discount this week.", "We are have a special discount this week."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você está em uma reunião de negócios e precisa pedir licença para sair brevemente. O que você diz de forma mais adequada e profissional?",
+    "correctAnswer": "Excuse me, I need to step out for a moment.",
+    "options": ["Excuse me, I need to step out for a moment.", "Sorry, I go now, bye.", "Wait, I am going outside.", "I must leave, see you."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Um cliente reclama de um produto com defeito. Você precisa se desculpar e oferecer uma solução. O que você diz?",
+    "correctAnswer": "I'm sorry about that. We can replace the product.",
+    "options": ["I'm sorry about that. We can replace the product.", "That's not our problem. Buy another one.", "The product is fine. You are wrong.", "Sorry, we don't have more products."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você precisa deixar uma mensagem para um gerente que não está disponível agora. O que você diz à recepcionista?",
+    "correctAnswer": "Can I leave a message for the manager, please?",
+    "options": ["Can I leave a message for the manager, please?", "Can I speak to message for manager please?", "Can the manager leave a message for me?", "Can I give the manager a call, please?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você precisa confirmar os detalhes de um pedido para evitar erros. O que você diz ao cliente?",
+    "correctAnswer": "Let me confirm your order details.",
+    "options": ["Let me confirm your order details.", "Let me cancel your order details.", "Let me change your order details.", "Let me delete your order details."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você precisa explicar para um fornecedor estrangeiro que o pagamento será feito em trinta dias. O que você diz?",
+    "correctAnswer": "We pay in thirty days.",
+    "options": ["We pay in thirty days.", "We paid in thirty days.", "We pays in thirty days.", "We are pay in thirty days."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você está ao telefone com um cliente importante e a ligação está com ruído. O que você diz de forma profissional?",
+    "correctAnswer": "I'm sorry, the line is bad. Can you speak louder?",
+    "options": ["I'm sorry, the line is bad. Can you speak louder?", "Your phone is broken. Call again.", "I don't hear you. Goodbye.", "The phone has problem. You fix it."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você precisa perguntar a um cliente se ele já trabalhou com sua empresa antes. O que você diz?",
+    "correctAnswer": "Have you worked with us before?",
+    "options": ["Have you worked with us before?", "Did you work to us before?", "Are you working with us before?", "Do you work for us before?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você está apresentando sua empresa a um novo parceiro de negócios e quer dizer que ela tem dez anos de mercado. O que você diz?",
+    "correctAnswer": "Our company has been in business for ten years.",
+    "options": ["Our company has been in business for ten years.", "Our company is in business since ten years.", "Our company has ten years of open.", "Our company works for ten years ago."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Um cliente pede um desconto e você precisa dizer que vai consultar seu gerente. O que você diz?",
+    "correctAnswer": "I need to check with my manager first.",
+    "options": ["I need to check with my manager first.", "I need to ask the client first.", "I need to buy from manager first.", "I need to sell to manager first."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você recebe um e-mail de um cliente pedindo informações e precisa confirmar que entendeu o pedido dele. O que você escreve?",
+    "correctAnswer": "I understand. I will send the information soon.",
+    "options": ["I understand. I will send the information soon.", "I understand. I send the information now.", "I understood. I sends the information soon.", "I am understand. I will sending the information soon."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você precisa apresentar dois colegas um ao outro em uma reunião de negócios. O que você diz?",
+    "correctAnswer": "This is Ana. She works in finance.",
+    "options": ["This is Ana. She works in finance.", "This is Ana. She work in finance.", "This is Ana. Her works in finance.", "This is Ana. She is work in finance."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você precisa informar ao cliente que o contrato está pronto para assinatura, mas que ele deve revisar antes. O que você diz?",
+    "correctAnswer": "The contract is ready. Please read it first.",
+    "options": ["The contract is ready. Please read it first.", "The contract is ready. Please sign it now.", "The contract is ready. Please pay it first.", "The contract is ready. Please send it back."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Um parceiro estrangeiro pergunta sobre sua função na empresa. Você é o gerente de vendas. O que você diz?",
+    "correctAnswer": "I am the sales manager.",
+    "options": ["I am the sales manager.", "I am the buy manager.", "I am the money manager.", "I am the stock manager."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você precisa informar por e-mail a um fornecedor que o pedido foi cancelado. Qual é a frase mais adequada?",
+    "correctAnswer": "We would like to cancel our order.",
+    "options": ["We would like to cancel our order.", "We want cancel our order.", "We like cancel our order.", "We are cancel our order."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Você está em uma negociação e precisa pedir um tempo para pensar antes de tomar uma decisão. O que você diz de forma profissional?",
+    "correctAnswer": "Can I have some time to think about it?",
+    "options": ["Can I have some time to think about it?", "Can I have some money to think about it?", "Can you wait for my answer forever?", "Can you give me the answer now?"],
+    "difficulty": "hard"
+  }
+]

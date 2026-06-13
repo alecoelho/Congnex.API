@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Um profissional que não comparece regularmente ao trabalho tem o quê?",
+        "correctAnswer":  "Poor attendance",
+        "options":  [
+                        "Poor attendance",
+                        "Low performance",
+                        "Bad behavior",
+                        "Weak commitment"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o termo para um acordo de trabalho sem contrato permanente?",
+        "correctAnswer":  "Freelance contract",
+        "options":  [
+                        "Freelance contract",
+                        "Permanent position",
+                        "Full-time job",
+                        "Contract renewal"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027\u0027bonus\u0027\u0027 no contexto de remuneração?",
+        "correctAnswer":  "Extra payment beyond regular salary",
+        "options":  [
+                        "Extra payment beyond regular salary",
+                        "Penalty for mistakes",
+                        "Training course",
+                        "Health insurance"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como chamamos a pessoa responsável por contratar e gerenciar funcionários?",
+        "correctAnswer":  "Human Resources Manager",
+        "options":  [
+                        "Human Resources Manager",
+                        "Project Coordinator",
+                        "Finance Officer",
+                        "Sales Director"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o termo para trabalhar de um local diferente do escritório?",
+        "correctAnswer":  "Remote work",
+        "options":  [
+                        "Remote work",
+                        "Business travel",
+                        "Temporary assignment",
+                        "Seasonal job"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "O que é uma \u0027\u0027job description\u0027\u0027?",
+        "correctAnswer":  "A detailed outline of job responsibilities",
+        "options":  [
+                        "A detailed outline of job responsibilities",
+                        "A company\u0027\u0027s mission statement",
+                        "A salary negotiation",
+                        "A performance review"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como chamamos o período entre duas empregos?",
+        "correctAnswer":  "Gap period",
+        "options":  [
+                        "Gap period",
+                        "Transition time",
+                        "Career break",
+                        "Unemployment"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Qual termo descreve trabalhar mais horas que o contratado?",
+        "correctAnswer":  "Overtime",
+        "options":  [
+                        "Overtime",
+                        "Extra shift",
+                        "Flexible schedule",
+                        "Extended hours"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027\u0027promotion\u0027\u0027?",
+        "correctAnswer":  "Advancement to a higher position",
+        "options":  [
+                        "Advancement to a higher position",
+                        "Marketing campaign",
+                        "Job training",
+                        "Wage increase"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como chamamos o documento enviado ao candidatar-se a um emprego?",
+        "correctAnswer":  "Resume or CV",
+        "options":  [
+                        "Resume or CV",
+                        "Employment contract",
+                        "Job offer",
+                        "Reference letter"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o termo para encerrar um empregado?",
+        "correctAnswer":  "Dismissal",
+        "options":  [
+                        "Dismissal",
+                        "Resignation",
+                        "Promotion",
+                        "Retirement"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027\u0027internship\u0027\u0027?",
+        "correctAnswer":  "A temporary position for gaining experience",
+        "options":  [
+                        "A temporary position for gaining experience",
+                        "A full-time job",
+                        "A management role",
+                        "A training program"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como chamamos a avaliação periódica de desempenho?",
+        "correctAnswer":  "Performance review",
+        "options":  [
+                        "Performance review",
+                        "Job interview",
+                        "Training session",
+                        "Annual meeting"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027\u0027benefits\u0027\u0027 em um pacote de emprego?",
+        "correctAnswer":  "Additional advantages like health insurance",
+        "options":  [
+                        "Additional advantages like health insurance",
+                        "Salary and wages",
+                        "Job title",
+                        "Work schedule"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como chamamos alguém que deixa voluntariamente seu emprego?",
+        "correctAnswer":  "Resignation",
+        "options":  [
+                        "Resignation",
+                        "Termination",
+                        "Dismissal",
+                        "Retirement"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027\u0027deadline\u0027\u0027?",
+        "correctAnswer":  "The final date for completion of a task",
+        "options":  [
+                        "The final date for completion of a task",
+                        "The starting point of a project",
+                        "A meeting schedule",
+                        "A budget allocation"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como chamamos o padrão de trabalho durante a semana?",
+        "correctAnswer":  "Work schedule",
+        "options":  [
+                        "Work schedule",
+                        "Career path",
+                        "Job requirement",
+                        "Employment contract"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Qual termo descreve a capacidade de fazer múltiplas tarefas simultaneamente?",
+        "correctAnswer":  "Multitasking",
+        "options":  [
+                        "Multitasking",
+                        "Specialization",
+                        "Delegation",
+                        "Prioritization"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027\u0027streamline\u0027\u0027 no contexto de negócios?",
+        "correctAnswer":  "To make a process more efficient",
+        "options":  [
+                        "To make a process more efficient",
+                        "To increase prices",
+                        "To expand the team",
+                        "To delay production"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como chamamos o aumento de responsabilidades sem promoção?",
+        "correctAnswer":  "Scope creep",
+        "options":  [
+                        "Scope creep",
+                        "Career advancement",
+                        "Role expansion",
+                        "Skill development"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027\u0027mentorship\u0027\u0027?",
+        "correctAnswer":  "Guidance from an experienced professional",
+        "options":  [
+                        "Guidance from an experienced professional",
+                        "Formal training course",
+                        "Job promotion",
+                        "Team collaboration"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027\u0027leverage\u0027\u0027 em negócios?",
+        "correctAnswer":  "To use something to maximum advantage",
+        "options":  [
+                        "To use something to maximum advantage",
+                        "To borrow money",
+                        "To reduce costs",
+                        "To hire staff"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027\u0027outsourcing\u0027\u0027?",
+        "correctAnswer":  "Hiring external companies for services",
+        "options":  [
+                        "Hiring external companies for services",
+                        "Training employees internally",
+                        "Reducing staff",
+                        "Expanding business"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como chamamos a negociação de condições de trabalho?",
+        "correctAnswer":  "Collective bargaining",
+        "options":  [
+                        "Collective bargaining",
+                        "Performance evaluation",
+                        "Career planning",
+                        "Job analysis"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027\u0027synergy\u0027\u0027 no contexto de trabalho em equipe?",
+        "correctAnswer":  "Combined effect greater than individual parts",
+        "options":  [
+                        "Combined effect greater than individual parts",
+                        "Competition between colleagues",
+                        "Individual achievement",
+                        "Separate tasks"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Qual termo descreve trabalhar em objetivos compartilhados?",
+        "correctAnswer":  "Team collaboration",
+        "options":  [
+                        "Team collaboration",
+                        "Independent work",
+                        "Competitive work",
+                        "Freelance work"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027\u0027burnout\u0027\u0027?",
+        "correctAnswer":  "Physical and emotional exhaustion from work",
+        "options":  [
+                        "Physical and emotional exhaustion from work",
+                        "Successful project completion",
+                        "Career advancement",
+                        "Skill improvement"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como chamamos um objetivo medível para um período específico?",
+        "correctAnswer":  "KPI (Key Performance Indicator)",
+        "options":  [
+                        "KPI (Key Performance Indicator)",
+                        "Job description",
+                        "Employment contract",
+                        "Salary review"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027\u0027networking\u0027\u0027?",
+        "correctAnswer":  "Building professional relationships",
+        "options":  [
+                        "Building professional relationships",
+                        "Installing computer systems",
+                        "Marketing products",
+                        "Organizing data"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Qual termo descreve a capacidade de se adaptar a mudanças?",
+        "correctAnswer":  "Flexibility",
+        "options":  [
+                        "Flexibility",
+                        "Specialization",
+                        "Consistency",
+                        "Rigidity"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027\u0027delegation\u0027\u0027?",
+        "correctAnswer":  "Assigning tasks to other team members",
+        "options":  [
+                        "Assigning tasks to other team members",
+                        "Taking on all work",
+                        "Avoiding responsibility",
+                        "Supervising closely"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como chamamos o período de adaptação em um novo cargo?",
+        "correctAnswer":  "Onboarding",
+        "options":  [
+                        "Onboarding",
+                        "Training program",
+                        "Performance review",
+                        "Job interview"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027\u0027corporate culture\u0027\u0027?",
+        "correctAnswer":  "Values and practices of an organization",
+        "options":  [
+                        "Values and practices of an organization",
+                        "Corporate spending",
+                        "Employee handbook",
+                        "Job description"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Qual termo descreve a pessoa que deixa uma posição anterior?",
+        "correctAnswer":  "Predecessor",
+        "options":  [
+                        "Predecessor",
+                        "Successor",
+                        "Colleague",
+                        "Manager"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como chamamos a transferência para uma posição de igual hierarquia?",
+        "correctAnswer":  "Lateral move",
+        "options":  [
+                        "Lateral move",
+                        "Demotion",
+                        "Promotion",
+                        "Termination"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027\u0027attrition\u0027\u0027 em uma empresa?",
+        "correctAnswer":  "Gradual loss of employees",
+        "options":  [
+                        "Gradual loss of employees",
+                        "Increase in profits",
+                        "Employee training",
+                        "Skill development"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Qual termo descreve fazer mais trabalho com menos recursos?",
+        "correctAnswer":  "Doing more with less",
+        "options":  [
+                        "Doing more with less",
+                        "Expanding the budget",
+                        "Hiring more staff",
+                        "Reducing responsibilities"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027\u0027succession planning\u0027\u0027?",
+        "correctAnswer":  "Identifying future leaders and filling key roles",
+        "options":  [
+                        "Identifying future leaders and filling key roles",
+                        "Annual salary increase",
+                        "Employee benefits",
+                        "Company expansion"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como chamamos a avaliação de habilidades necessárias para um cargo?",
+        "correctAnswer":  "Competency assessment",
+        "options":  [
+                        "Competency assessment",
+                        "Salary negotiation",
+                        "Background check",
+                        "Reference verification"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027\u0027disruptive innovation\u0027\u0027?",
+        "correctAnswer":  "Creating new market by changing industry practices",
+        "options":  [
+                        "Creating new market by changing industry practices",
+                        "Maintaining current practices",
+                        "Reducing workforce",
+                        "Cutting budgets"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Qual termo descreve a falta de comunicação efetiva?",
+        "correctAnswer":  "Communication breakdown",
+        "options":  [
+                        "Communication breakdown",
+                        "Team synergy",
+                        "Effective collaboration",
+                        "Strong leadership"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027\u0027stakeholder engagement\u0027\u0027?",
+        "correctAnswer":  "Involving interested parties in decision-making",
+        "options":  [
+                        "Involving interested parties in decision-making",
+                        "Hiding information from employees",
+                        "Making unilateral decisions",
+                        "Avoiding feedback"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como chamamos o padrão estabelecido pela empresa para trabalho?",
+        "correctAnswer":  "Standard operating procedure",
+        "options":  [
+                        "Standard operating procedure",
+                        "Personal preference",
+                        "Individual style",
+                        "Temporary guideline"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027\u0027upskilling\u0027\u0027?",
+        "correctAnswer":  "Learning new skills to improve job performance",
+        "options":  [
+                        "Learning new skills to improve job performance",
+                        "Reducing job responsibilities",
+                        "Decreasing salary",
+                        "Limiting career growth"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Qual termo descreve trabalho que não requer qualificações específicas?",
+        "correctAnswer":  "Unskilled labor",
+        "options":  [
+                        "Unskilled labor",
+                        "Specialized work",
+                        "Professional position",
+                        "Management role"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027\u0027work-life balance\u0027\u0027?",
+        "correctAnswer":  "Equilibrium between work and personal time",
+        "options":  [
+                        "Equilibrium between work and personal time",
+                        "Focusing only on career",
+                        "Ignoring personal responsibilities",
+                        "Working all hours"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como chamamos a análise de cargo antes de contratar?",
+        "correctAnswer":  "Job analysis",
+        "options":  [
+                        "Job analysis",
+                        "Employee evaluation",
+                        "Performance review",
+                        "Salary survey"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027\u0027vertical mobility\u0027\u0027 em carreiras?",
+        "correctAnswer":  "Advancement to higher positions",
+        "options":  [
+                        "Advancement to higher positions",
+                        "Moving to different departments",
+                        "Reducing responsibilities",
+                        "Job rotation"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Qual termo descreve a reação negativa a mudanças organizacionais?",
+        "correctAnswer":  "Resistance to change",
+        "options":  [
+                        "Resistance to change",
+                        "Organizational growth",
+                        "Team enthusiasm",
+                        "Employee satisfaction"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027employee engagement\u0027?",
+        "correctAnswer":  "Level of commitment and involvement at work",
+        "options":  [
+                        "Level of commitment and involvement at work",
+                        "Physical presence only",
+                        "Following orders blindly",
+                        "Minimal contribution"
+                    ],
+        "difficulty":  "hard"
+    }
+]

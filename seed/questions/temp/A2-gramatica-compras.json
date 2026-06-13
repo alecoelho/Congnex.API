@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Eu _____ uma camiseta no shopping ontem.",
+        "difficulty":  "easy",
+        "options":  [
+                        "buy",
+                        "bought",
+                        "am buying",
+                        "will buy"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "bought"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Você _____ comprar leite no supermercado?",
+        "difficulty":  "easy",
+        "options":  [
+                        "needs to",
+                        "need to",
+                        "needing to",
+                        "needed to"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "need to"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "A loja _____ aberta no domingo.",
+        "difficulty":  "easy",
+        "options":  [
+                        "are",
+                        "is",
+                        "am",
+                        "been"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "is"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Eles _____ roupas na loja de departamentos.",
+        "difficulty":  "easy",
+        "options":  [
+                        "sells",
+                        "sell",
+                        "selling",
+                        "sold"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "sell"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Eu não _____ dinheiro suficiente para este produto.",
+        "difficulty":  "easy",
+        "options":  [
+                        "has",
+                        "have",
+                        "having",
+                        "had"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "have"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Este sapato é muito _____ para mim.",
+        "difficulty":  "easy",
+        "options":  [
+                        "expensives",
+                        "expensive",
+                        "more expensive",
+                        "most expensive"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "expensive"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Você _____ pagar com cartão de crédito?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Can",
+                        "Cans",
+                        "Could",
+                        "Will"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "Can"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Ela _____ compra roupas caras.",
+        "difficulty":  "easy",
+        "options":  [
+                        "always",
+                        "never",
+                        "ever",
+                        "just"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "never"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Os preços _____ muito altos este mês.",
+        "difficulty":  "easy",
+        "options":  [
+                        "is",
+                        "are",
+                        "am",
+                        "being"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "are"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Nós _____ ir ao shopping no próximo sábado.",
+        "difficulty":  "easy",
+        "options":  [
+                        "going to",
+                        "are going to",
+                        "will going to",
+                        "is going to"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "are going to"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Você precisa _____ este formulário no caixa.",
+        "difficulty":  "easy",
+        "options":  [
+                        "fill out",
+                        "filling out",
+                        "fills out",
+                        "filled out"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "fill out"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Aqueles _____ são mais bonitos do que esses.",
+        "difficulty":  "easy",
+        "options":  [
+                        "shoe",
+                        "shoes",
+                        "shoesing",
+                        "shoed"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "shoes"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Quantas _____ você precisa comprar?",
+        "difficulty":  "easy",
+        "options":  [
+                        "shirt",
+                        "shirts",
+                        "shirtings",
+                        "shirteds"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "shirts"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Este supermercado tem _____ variedade de produtos.",
+        "difficulty":  "easy",
+        "options":  [
+                        "good",
+                        "a good",
+                        "the good",
+                        "good a"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "a good"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Eu _____ comprei este vestido com desconto.",
+        "difficulty":  "easy",
+        "options":  [
+                        "already",
+                        "just",
+                        "yet",
+                        "still"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "just"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Ela disse que _____ voltar à loja amanhã.",
+        "difficulty":  "easy",
+        "options":  [
+                        "would",
+                        "will",
+                        "was",
+                        "is"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "will"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Este produto _____ ser pago em parcelas.",
+        "difficulty":  "easy",
+        "options":  [
+                        "can",
+                        "cans",
+                        "could",
+                        "will"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "can"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Se você _____ a loja, você vê muitas promoções.",
+        "difficulty":  "medium",
+        "options":  [
+                        "visits",
+                        "visit",
+                        "visited",
+                        "visiting"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "visit"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Ele _____ bolsas na loja há cinco anos.",
+        "difficulty":  "medium",
+        "options":  [
+                        "sells",
+                        "has been selling",
+                        "is selling",
+                        "was selling"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "has been selling"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Nós podíamos _____ este desconto se comprássemos hoje.",
+        "difficulty":  "medium",
+        "options":  [
+                        "gets",
+                        "get",
+                        "getting",
+                        "gotten"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "get"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "A vendedora recomendou que eu _____ esta marca.",
+        "difficulty":  "medium",
+        "options":  [
+                        "tries",
+                        "try",
+                        "tried",
+                        "trying"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "try"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Você já _____ este tipo de produto antes?",
+        "difficulty":  "medium",
+        "options":  [
+                        "buy",
+                        "bought",
+                        "buying",
+                        "buys"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "bought"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Se você _____ mais, você ganha um desconto especial.",
+        "difficulty":  "medium",
+        "options":  [
+                        "spends",
+                        "spend",
+                        "spent",
+                        "spending"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "spend"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Eles _____ toda compra com um brinde.",
+        "difficulty":  "medium",
+        "options":  [
+                        "includes",
+                        "include",
+                        "included",
+                        "including"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "include"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O preço deste artigo _____ reduzido em 30 por cento.",
+        "difficulty":  "medium",
+        "options":  [
+                        "were",
+                        "was",
+                        "is",
+                        "are"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "was"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Quando você _____ essa jaqueta, você vai gostar.",
+        "difficulty":  "medium",
+        "options":  [
+                        "tries",
+                        "try",
+                        "trying",
+                        "tried"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "try"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Ela _____ encontrado uma boa oportunidade de compra.",
+        "difficulty":  "medium",
+        "options":  [
+                        "have",
+                        "has",
+                        "having",
+                        "had"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "has"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Se você _____ este cupom, você pode usar o desconto.",
+        "difficulty":  "medium",
+        "options":  [
+                        "uses",
+                        "use",
+                        "used",
+                        "using"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "use"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Eles _____ comprar apenas o que precisam para economizar.",
+        "difficulty":  "medium",
+        "options":  [
+                        "must",
+                        "should",
+                        "might",
+                        "could"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "should"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O garoto _____ ir com a mãe ao shopping.",
+        "difficulty":  "medium",
+        "options":  [
+                        "want to",
+                        "wants to",
+                        "wanted to",
+                        "wanting to"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "wanted to"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Esta promoção _____ válida apenas este fim de semana.",
+        "difficulty":  "medium",
+        "options":  [
+                        "are",
+                        "is",
+                        "am",
+                        "being"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "is"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Nós _____ estado procurando por este produto por meses.",
+        "difficulty":  "medium",
+        "options":  [
+                        "has",
+                        "have",
+                        "having",
+                        "had"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "have"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Você _____ ter o talão fiscal para reclamar a garantia.",
+        "difficulty":  "medium",
+        "options":  [
+                        "may",
+                        "must",
+                        "can",
+                        "could"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "must"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Embora _____ caro, eu comprei aquele relógio.",
+        "difficulty":  "hard",
+        "options":  [
+                        "it is",
+                        "it was",
+                        "it were",
+                        "it being"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "it was"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Se ele _____ economizado dinheiro, teria comprado um carro novo.",
+        "difficulty":  "hard",
+        "options":  [
+                        "has",
+                        "have",
+                        "had",
+                        "having"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "had"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Quanto mais você _____, mais desconto você recebe.",
+        "difficulty":  "hard",
+        "options":  [
+                        "buys",
+                        "buy",
+                        "buying",
+                        "bought"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "buy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "A loja _____ que todos os clientes sejam bem-vindos.",
+        "difficulty":  "hard",
+        "options":  [
+                        "insist",
+                        "insists",
+                        "insisting",
+                        "insisted"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "insists"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Ele teria _____ naquela loja se tivesse tempo.",
+        "difficulty":  "hard",
+        "options":  [
+                        "shop",
+                        "shops",
+                        "shopping",
+                        "shopped"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "shopped"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Não apenas ela _____ roupas, mas também acessórios.",
+        "difficulty":  "hard",
+        "options":  [
+                        "buy",
+                        "buys",
+                        "buying",
+                        "bought"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "buys"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O cliente pediu que o vendedor _____ o preço.",
+        "difficulty":  "hard",
+        "options":  [
+                        "reduces",
+                        "reduce",
+                        "reducing",
+                        "reduced"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "reduce"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Eles continuaram _____ mesmo após o encerramento da promoção.",
+        "difficulty":  "hard",
+        "options":  [
+                        "buy",
+                        "buys",
+                        "buying",
+                        "bought"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "buying"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Por mais que _____ à loja, não encontro o que procuro.",
+        "difficulty":  "hard",
+        "options":  [
+                        "I go",
+                        "I goes",
+                        "I going",
+                        "I went"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "I go"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Considerando que você _____ cliente antigo, terá um desconto especial.",
+        "difficulty":  "hard",
+        "options":  [
+                        "is",
+                        "are",
+                        "be",
+                        "being"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "are"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O gerente sugeriu que as vendas _____ aumentadas durante as festas.",
+        "difficulty":  "hard",
+        "options":  [
+                        "are",
+                        "be",
+                        "being",
+                        "been"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "be"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Desde que começou a trabalhar lá, ele _____ muitas coisas sobre varejo.",
+        "difficulty":  "hard",
+        "options":  [
+                        "learns",
+                        "has learned",
+                        "is learning",
+                        "was learning"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "has learned"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Se você _____ todas as ofertas, pode economizar bastante.",
+        "difficulty":  "hard",
+        "options":  [
+                        "compares",
+                        "compare",
+                        "comparing",
+                        "compared"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "compare"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "A política da loja _____ que devoluções sejam feitas em 30 dias.",
+        "difficulty":  "hard",
+        "options":  [
+                        "require",
+                        "requires",
+                        "requiring",
+                        "required"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "requires"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Embora _____ pago bem, ele ainda é cuidadoso com suas compras.",
+        "difficulty":  "hard",
+        "options":  [
+                        "he is",
+                        "he be",
+                        "he being",
+                        "he been"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "he be"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qualquer que _____ o preço, eu preciso deste item.",
+        "difficulty":  "hard",
+        "options":  [
+                        "is",
+                        "be",
+                        "being",
+                        "been"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "be"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Os clientes _____ satisfeitos com a qualidade dos produtos.",
+        "difficulty":  "medium",
+        "options":  [
+                        "seems",
+                        "seem",
+                        "seemed",
+                        "seeming"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "seem"
+    }
+]

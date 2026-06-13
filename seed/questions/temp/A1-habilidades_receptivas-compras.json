@@ -1,0 +1,512 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Eu quero comprar uma maçã.",
+    "correctAnswer": "I want to buy an apple.",
+    "options": ["I want to buy an apple.", "I want to sell an apple.", "I want to eat an apple.", "I want to find an apple."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "A loja está aberta.",
+    "correctAnswer": "The store is open.",
+    "options": ["The store is open.", "The store is closed.", "The store is big.", "The store is new."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Quanto custa isso?",
+    "correctAnswer": "How much does it cost?",
+    "options": ["How much does it cost?", "Where can I buy it?", "What is this?", "Do you have this?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Eu preciso de dinheiro.",
+    "correctAnswer": "I need money.",
+    "options": ["I need money.", "I have money.", "I want money.", "I spend money."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "O preço é barato.",
+    "correctAnswer": "The price is cheap.",
+    "options": ["The price is cheap.", "The price is expensive.", "The price is good.", "The price is high."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Eu quero pagar.",
+    "correctAnswer": "I want to pay.",
+    "options": ["I want to pay.", "I want to save.", "I want to buy.", "I want to sell."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Eu tenho um carrinho de compras.",
+    "correctAnswer": "I have a shopping cart.",
+    "options": ["I have a shopping cart.", "I have a shopping bag.", "I have a shopping list.", "I have a shopping mall."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "A loja vende frutas.",
+    "correctAnswer": "The store sells fruits.",
+    "options": ["The store sells fruits.", "The store buys fruits.", "The store has fruits.", "The store gives fruits."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Eu quero um desconto.",
+    "correctAnswer": "I want a discount.",
+    "options": ["I want a discount.", "I want a receipt.", "I want a refund.", "I want a coupon."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "O mercado é grande.",
+    "correctAnswer": "The market is big.",
+    "options": ["The market is big.", "The market is small.", "The market is new.", "The market is close."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Eu compro pão todo dia.",
+    "correctAnswer": "I buy bread every day.",
+    "options": ["I buy bread every day.", "I eat bread every day.", "I sell bread every day.", "I make bread every day."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Isso é muito caro.",
+    "correctAnswer": "This is very expensive.",
+    "options": ["This is very expensive.", "This is very cheap.", "This is very good.", "This is very big."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Eu vou ao supermercado.",
+    "correctAnswer": "I go to the supermarket.",
+    "options": ["I go to the supermarket.", "I go to the store.", "I go to the market.", "I go to the mall."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Onde fica o caixa?",
+    "correctAnswer": "Where is the cashier?",
+    "options": ["Where is the cashier?", "Where is the exit?", "Where is the entrance?", "Where is the manager?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Eu pago com cartão.",
+    "correctAnswer": "I pay with a card.",
+    "options": ["I pay with a card.", "I pay with cash.", "I pay with a check.", "I pay with my phone."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "O leite está na geladeira.",
+    "correctAnswer": "The milk is in the fridge.",
+    "options": ["The milk is in the fridge.", "The milk is on the shelf.", "The milk is in the cart.", "The milk is at the store."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Eu gosto de fazer compras.",
+    "correctAnswer": "I like to go shopping.",
+    "options": ["I like to go shopping.", "I like to buy things.", "I like to sell things.", "I like to save money."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Você tem troco?",
+    "correctAnswer": "Do you have change?",
+    "options": ["Do you have change?", "Do you have money?", "Do you have a receipt?", "Do you have a bag?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "A promoção termina amanhã.",
+    "correctAnswer": "The sale ends tomorrow.",
+    "options": ["The sale ends tomorrow.", "The sale starts tomorrow.", "The store closes tomorrow.", "The price changes tomorrow."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Eu preciso de uma sacola.",
+    "correctAnswer": "I need a bag.",
+    "options": ["I need a bag.", "I need a box.", "I need a receipt.", "I need a basket."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Este produto está em falta.",
+    "correctAnswer": "This product is out of stock.",
+    "options": ["This product is out of stock.", "This product is on sale.", "This product is very good.", "This product is expensive."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Onde fica a seção de roupas?",
+    "correctAnswer": "Where is the clothing section?",
+    "options": ["Where is the clothing section?", "Where is the food section?", "Where is the shoe section?", "Where is the toy section?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Eu quero devolver este produto.",
+    "correctAnswer": "I want to return this product.",
+    "options": ["I want to return this product.", "I want to exchange this product.", "I want to buy this product.", "I want to keep this product."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "O recibo está na sacola.",
+    "correctAnswer": "The receipt is in the bag.",
+    "options": ["The receipt is in the bag.", "The money is in the bag.", "The product is in the bag.", "The ticket is in the bag."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Eu quero experimentar esta roupa.",
+    "correctAnswer": "I want to try on this clothes.",
+    "options": ["I want to try on this clothes.", "I want to buy this clothes.", "I want to wear this clothes.", "I want to wash this clothes."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "O supermercado fecha às dez.",
+    "correctAnswer": "The supermarket closes at ten.",
+    "options": ["The supermarket closes at ten.", "The supermarket opens at ten.", "The supermarket is at ten.", "The supermarket starts at ten."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Eu faço uma lista de compras.",
+    "correctAnswer": "I make a shopping list.",
+    "options": ["I make a shopping list.", "I have a shopping list.", "I read a shopping list.", "I write a shopping list."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Posso pagar em dinheiro?",
+    "correctAnswer": "Can I pay in cash?",
+    "options": ["Can I pay in cash?", "Can I pay by card?", "Can I pay later?", "Can I pay online?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Este item está em promoção.",
+    "correctAnswer": "This item is on sale.",
+    "options": ["This item is on sale.", "This item is very good.", "This item is new.", "This item is popular."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Eu não tenho dinheiro suficiente.",
+    "correctAnswer": "I don't have enough money.",
+    "options": ["I don't have enough money.", "I don't have any money.", "I don't want to spend money.", "I don't need money."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "A fila do caixa é longa.",
+    "correctAnswer": "The checkout line is long.",
+    "options": ["The checkout line is long.", "The checkout line is short.", "The checkout line is fast.", "The checkout line is slow."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Você aceita cartão de crédito?",
+    "correctAnswer": "Do you accept credit cards?",
+    "options": ["Do you accept credit cards?", "Do you accept debit cards?", "Do you accept cash?", "Do you accept checks?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Existe alguma outra cor disponível?",
+    "correctAnswer": "Is there another color available?",
+    "options": ["Is there another color available?", "Is there another size available?", "Is there another style available?", "Is there another brand available?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "A loja tem entrega em domicílio.",
+    "correctAnswer": "The store has home delivery.",
+    "options": ["The store has home delivery.", "The store has free delivery.", "The store has fast delivery.", "The store has online delivery."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Eu comprei muitas coisas hoje.",
+    "correctAnswer": "I bought many things today.",
+    "options": ["I bought many things today.", "I sold many things today.", "I spent many things today.", "I found many things today."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Esta camiseta é do tamanho certo para mim.",
+    "correctAnswer": "This shirt is the right size for me.",
+    "options": ["This shirt is the right size for me.", "This shirt is the right color for me.", "This shirt is the right price for me.", "This shirt is the right style for me."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Os produtos orgânicos custam mais.",
+    "correctAnswer": "Organic products cost more.",
+    "options": ["Organic products cost more.", "Organic products are better.", "Organic products are cheaper.", "Organic products are rare."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Eu prefiro comprar na loja física.",
+    "correctAnswer": "I prefer to shop at the physical store.",
+    "options": ["I prefer to shop at the physical store.", "I prefer to shop online.", "I prefer to shop at the mall.", "I prefer to shop at the market."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Este produto tem garantia de um ano.",
+    "correctAnswer": "This product has a one-year warranty.",
+    "options": ["This product has a one-year warranty.", "This product has a one-year return policy.", "This product has a one-year discount.", "This product has a one-year subscription."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "O desconto é de vinte por cento.",
+    "correctAnswer": "The discount is twenty percent.",
+    "options": ["The discount is twenty percent.", "The price is twenty percent.", "The sale is twenty percent.", "The offer is twenty percent."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Você pode me mostrar algo mais barato?",
+    "correctAnswer": "Can you show me something cheaper?",
+    "options": ["Can you show me something cheaper?", "Can you give me something cheaper?", "Can you find me something cheaper?", "Can you sell me something cheaper?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "A etiqueta de preço está rasgada.",
+    "correctAnswer": "The price tag is torn.",
+    "options": ["The price tag is torn.", "The price tag is missing.", "The price tag is small.", "The price tag is wrong."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Eu sempre comparo preços antes de comprar.",
+    "correctAnswer": "I always compare prices before buying.",
+    "options": ["I always compare prices before buying.", "I always check quality before buying.", "I always read reviews before buying.", "I always ask questions before buying."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "A loja oferece embrulho para presente.",
+    "correctAnswer": "The store offers gift wrapping.",
+    "options": ["The store offers gift wrapping.", "The store offers free shipping.", "The store offers gift cards.", "The store offers free bags."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Este produto é importado.",
+    "correctAnswer": "This product is imported.",
+    "options": ["This product is imported.", "This product is exported.", "This product is local.", "This product is homemade."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Eu gasto muito dinheiro no supermercado.",
+    "correctAnswer": "I spend a lot of money at the supermarket.",
+    "options": ["I spend a lot of money at the supermarket.", "I save a lot of money at the supermarket.", "I lose a lot of money at the supermarket.", "I earn a lot of money at the supermarket."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "O vendedor foi muito atencioso.",
+    "correctAnswer": "The salesperson was very helpful.",
+    "options": ["The salesperson was very helpful.", "The salesperson was very friendly.", "The salesperson was very busy.", "The salesperson was very rude."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Esta loja tem uma boa variedade de produtos.",
+    "correctAnswer": "This store has a good variety of products.",
+    "options": ["This store has a good variety of products.", "This store has a good selection of clothes.", "This store has a good range of prices.", "This store has a good number of items."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Preciso verificar meu extrato bancário.",
+    "correctAnswer": "I need to check my bank statement.",
+    "options": ["I need to check my bank statement.", "I need to check my credit card.", "I need to check my receipt.", "I need to check my balance."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "A loja online tem frete grátis para pedidos acima de cem reais.",
+    "correctAnswer": "The online store has free shipping for orders over one hundred reais.",
+    "options": ["The online store has free shipping for orders over one hundred reais.", "The online store has free delivery for orders over one hundred reais.", "The online store has fast shipping for orders over one hundred reais.", "The online store has discounts for orders over one hundred reais."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Eu costumo guardar os recibos das compras.",
+    "correctAnswer": "I usually keep my shopping receipts.",
+    "options": ["I usually keep my shopping receipts.", "I usually throw away my shopping receipts.", "I usually scan my shopping receipts.", "I usually lose my shopping receipts."],
+    "difficulty": "hard"
+  }
+]

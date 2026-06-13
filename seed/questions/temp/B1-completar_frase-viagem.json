@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "I need to ___ my flight ticket before going to the airport.",
+        "difficulty":  "easy",
+        "options":  [
+                        "book",
+                        "make",
+                        "do",
+                        "take"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "book"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The hotel is ___ the beach, so we can walk there easily.",
+        "difficulty":  "easy",
+        "options":  [
+                        "near",
+                        "far",
+                        "under",
+                        "above"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "near"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "We ___ a taxi to get to the train station.",
+        "difficulty":  "easy",
+        "options":  [
+                        "took",
+                        "make",
+                        "did",
+                        "go"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "took"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "My passport ___ for another two years.",
+        "difficulty":  "easy",
+        "options":  [
+                        "is valid",
+                        "was valid",
+                        "will be",
+                        "has been"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "is valid"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "I usually ___ a backpack when I go camping.",
+        "difficulty":  "easy",
+        "options":  [
+                        "carry",
+                        "bring",
+                        "take",
+                        "wear"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "carry"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The tour ___ starts at 10 am every morning.",
+        "difficulty":  "easy",
+        "options":  [
+                        "guide",
+                        "director",
+                        "leader",
+                        "manager"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "guide"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "We stayed ___ a nice hotel in the city center.",
+        "difficulty":  "easy",
+        "options":  [
+                        "at",
+                        "in",
+                        "on",
+                        "by"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "at"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ my luggage at the hotel reception.",
+        "difficulty":  "easy",
+        "options":  [
+                        "left",
+                        "put",
+                        "placed",
+                        "dropped"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "left"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The beach resort ___ swimming pools and restaurants.",
+        "difficulty":  "easy",
+        "options":  [
+                        "has",
+                        "have",
+                        "does",
+                        "do"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "has"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "We ___ the museum yesterday morning.",
+        "difficulty":  "easy",
+        "options":  [
+                        "visited",
+                        "visit",
+                        "have visited",
+                        "visiting"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "visited"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "I need a return ___ to London.",
+        "difficulty":  "easy",
+        "options":  [
+                        "ticket",
+                        "pass",
+                        "card",
+                        "receipt"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "ticket"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "Can you ___ me the way to the airport?",
+        "difficulty":  "easy",
+        "options":  [
+                        "show",
+                        "tell",
+                        "give",
+                        "direct"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "show"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The flight was delayed ___ two hours.",
+        "difficulty":  "easy",
+        "options":  [
+                        "by",
+                        "for",
+                        "during",
+                        "in"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "by"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ breakfast at the hotel every morning.",
+        "difficulty":  "easy",
+        "options":  [
+                        "have",
+                        "take",
+                        "eat",
+                        "make"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "have"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "They went sightseeing ___ foot in the historic center.",
+        "difficulty":  "easy",
+        "options":  [
+                        "on",
+                        "by",
+                        "in",
+                        "with"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "on"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The hotel room ___ a beautiful view of the mountains.",
+        "difficulty":  "easy",
+        "options":  [
+                        "had",
+                        "has",
+                        "have",
+                        "having"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "had"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "What time does the bus ___ the station?",
+        "difficulty":  "easy",
+        "options":  [
+                        "leave",
+                        "depart from",
+                        "go from",
+                        "start from"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "leave"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ a travel insurance before my trip to Asia.",
+        "difficulty":  "medium",
+        "options":  [
+                        "bought",
+                        "made",
+                        "did",
+                        "got"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "bought"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The accommodation ___ all meals, so we don\u0027t need to eat out.",
+        "difficulty":  "medium",
+        "options":  [
+                        "includes",
+                        "contain",
+                        "have",
+                        "possesses"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "includes"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "We need to ___ our reservation at least 24 hours in advance.",
+        "difficulty":  "medium",
+        "options":  [
+                        "confirm",
+                        "check",
+                        "verify",
+                        "approve"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "confirm"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The travel agency ___ us with detailed information about the tour.",
+        "difficulty":  "medium",
+        "options":  [
+                        "provided",
+                        "gave",
+                        "offered",
+                        "delivered"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "provided"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "I will ___ my luggage at the hotel tomorrow morning.",
+        "difficulty":  "medium",
+        "options":  [
+                        "check out",
+                        "take out",
+                        "bring out",
+                        "get out"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "check out"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The hostel ___ young travelers because it\u0027s affordable.",
+        "difficulty":  "medium",
+        "options":  [
+                        "attracts",
+                        "draws",
+                        "pulls",
+                        "brings"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "attracts"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "You should ___ for a visa before traveling to that country.",
+        "difficulty":  "medium",
+        "options":  [
+                        "apply",
+                        "request",
+                        "ask",
+                        "demand"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "apply"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The hotel ___ free Wi-Fi in all rooms and common areas.",
+        "difficulty":  "medium",
+        "options":  [
+                        "offers",
+                        "gives",
+                        "provides",
+                        "supplies"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "offers"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "We ___ the old city walls during our sightseeing tour.",
+        "difficulty":  "medium",
+        "options":  [
+                        "explored",
+                        "discovered",
+                        "searched",
+                        "examined"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "explored"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The travel guide ___ us about the local customs and traditions.",
+        "difficulty":  "medium",
+        "options":  [
+                        "informed",
+                        "told",
+                        "explained",
+                        "described"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "informed"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "I need to ___ my car at the rental office before leaving town.",
+        "difficulty":  "medium",
+        "options":  [
+                        "return",
+                        "bring",
+                        "take",
+                        "deliver"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "return"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The summer resort ___ with tourists during the holiday season.",
+        "difficulty":  "medium",
+        "options":  [
+                        "is crowded",
+                        "is full",
+                        "is packed",
+                        "is busy"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "is crowded"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "We ___ the hotel receptionist for restaurant recommendations.",
+        "difficulty":  "medium",
+        "options":  [
+                        "asked",
+                        "questioned",
+                        "inquired",
+                        "requested"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "asked"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The camping site ___ basic facilities like toilets and showers.",
+        "difficulty":  "medium",
+        "options":  [
+                        "has",
+                        "includes",
+                        "contains",
+                        "provides"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "has"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "Our itinerary ___ visits to three major cities in one week.",
+        "difficulty":  "medium",
+        "options":  [
+                        "includes",
+                        "contains",
+                        "has",
+                        "consists"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "includes"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "I\u0027ll ___ you at the hotel entrance in the morning.",
+        "difficulty":  "medium",
+        "options":  [
+                        "pick up",
+                        "get",
+                        "collect",
+                        "fetch"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "pick up"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The flight ___ at 8 PM and arrives at midnight.",
+        "difficulty":  "medium",
+        "options":  [
+                        "departs",
+                        "takes off",
+                        "goes",
+                        "leaves"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "departs"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "Most travelers ___ their money in traveler\u0027s checks or a credit card.",
+        "difficulty":  "hard",
+        "options":  [
+                        "carry",
+                        "bring",
+                        "take",
+                        "hold"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "carry"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The hotel ___ that we exchange our currency at their desk.",
+        "difficulty":  "hard",
+        "options":  [
+                        "recommends",
+                        "suggests",
+                        "advises",
+                        "proposes"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "recommends"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ a guided tour because I wanted to learn about the history.",
+        "difficulty":  "hard",
+        "options":  [
+                        "chose",
+                        "picked",
+                        "selected",
+                        "decided"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "chose"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The accommodation was so ___ that we decided to extend our stay.",
+        "difficulty":  "hard",
+        "options":  [
+                        "pleasant",
+                        "comfortable",
+                        "nice",
+                        "good"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "pleasant"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "We ___ to take the scenic route instead of the highway.",
+        "difficulty":  "hard",
+        "options":  [
+                        "preferred",
+                        "chose",
+                        "decided",
+                        "wanted"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "preferred"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The resort ___ excellent customer service and a friendly atmosphere.",
+        "difficulty":  "hard",
+        "options":  [
+                        "boasts",
+                        "has",
+                        "features",
+                        "displays"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "boasts"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "We ___ the travel documents carefully before departing.",
+        "difficulty":  "hard",
+        "options":  [
+                        "reviewed",
+                        "checked",
+                        "examined",
+                        "verified"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "reviewed"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The tour ___ several archaeological sites and museums.",
+        "difficulty":  "hard",
+        "options":  [
+                        "encompasses",
+                        "covers",
+                        "includes",
+                        "consists"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "encompasses"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ my hotel reservation through an online travel website.",
+        "difficulty":  "hard",
+        "options":  [
+                        "secured",
+                        "booked",
+                        "made",
+                        "arranged"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "secured"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The destination ___ breathtaking natural landscapes and pristine beaches.",
+        "difficulty":  "hard",
+        "options":  [
+                        "features",
+                        "has",
+                        "displays",
+                        "shows"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "features"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "We ___ an unforgettable experience during our expedition through the rainforest.",
+        "difficulty":  "hard",
+        "options":  [
+                        "gained",
+                        "had",
+                        "obtained",
+                        "acquired"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "gained"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The airline ___ to compensate passengers for the flight delay.",
+        "difficulty":  "hard",
+        "options":  [
+                        "agreed",
+                        "promised",
+                        "offered",
+                        "consented"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "agreed"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ about changing my departure date due to unexpected circumstances.",
+        "difficulty":  "hard",
+        "options":  [
+                        "inquired",
+                        "asked",
+                        "requested",
+                        "wondered"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "inquired"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The travel itinerary ___ diverse activities suited for all age groups.",
+        "difficulty":  "hard",
+        "options":  [
+                        "incorporates",
+                        "includes",
+                        "features",
+                        "comprises"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "incorporates"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "We ___ the local cuisine and traditional dishes during our cultural tour.",
+        "difficulty":  "hard",
+        "options":  [
+                        "sampled",
+                        "tasted",
+                        "tried",
+                        "tested"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "sampled"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The package tour ___ comprehensive insurance coverage against any unforeseen events.",
+        "difficulty":  "hard",
+        "options":  [
+                        "encompasses",
+                        "includes",
+                        "provides",
+                        "covers"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "encompasses"
+    }
+]

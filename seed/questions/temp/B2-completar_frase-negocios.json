@@ -1,0 +1,502 @@
+[
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'The company decided to ___ a new product line to increase revenue.'",
+    "correctAnswer": "launch",
+    "options": ["launch", "discover", "remove", "delay"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'We need to ___ the budget before the end of the quarter.'",
+    "correctAnswer": "review",
+    "options": ["review", "ignore", "expand", "cancel"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'The market ___ shows that our competitors are gaining ground.'",
+    "correctAnswer": "analysis",
+    "options": ["analysis", "product", "office", "meeting"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'Our sales team managed to ___ a major contract with the new client.'",
+    "correctAnswer": "secure",
+    "options": ["secure", "lose", "cancel", "decline"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'The CEO announced a ___ restructuring plan to improve efficiency.'",
+    "correctAnswer": "comprehensive",
+    "options": ["comprehensive", "tiny", "simple", "temporary"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'We should ___ the investment before making any final decision.'",
+    "correctAnswer": "evaluate",
+    "options": ["evaluate", "ignore", "rush", "forget"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'The financial report ___ a significant increase in profits.'",
+    "correctAnswer": "indicates",
+    "options": ["indicates", "denies", "hides", "prevents"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'Our business model needs to ___ to stay competitive in the market.'",
+    "correctAnswer": "adapt",
+    "options": ["adapt", "stagnate", "retreat", "disappear"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'The shareholders ___ the merger between the two companies.'",
+    "correctAnswer": "approved",
+    "options": ["approved", "rejected", "ignored", "questioned"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'We must ___ our marketing strategy to reach younger audiences.'",
+    "correctAnswer": "revise",
+    "options": ["revise", "abandon", "simplify", "hide"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'The company's growth rate ___ last year exceeded expectations.'",
+    "correctAnswer": "over",
+    "options": ["over", "under", "within", "beyond"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'A successful business ___ depends on clear communication.'",
+    "correctAnswer": "strategy",
+    "options": ["strategy", "accident", "failure", "chaos"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'The quarterly earnings ___ showed improved operational efficiency.'",
+    "correctAnswer": "report",
+    "options": ["report", "mistake", "forecast", "plan"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'We need to ___ our expenses to maintain profitability.'",
+    "correctAnswer": "reduce",
+    "options": ["reduce", "increase", "ignore", "multiply"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'The partnership will ___ our market reach significantly.'",
+    "correctAnswer": "expand",
+    "options": ["expand", "limit", "reduce", "prevent"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'Our client base has ___ by 30% in the last year.'",
+    "correctAnswer": "grown",
+    "options": ["grown", "shrunk", "disappeared", "remained"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'The board will ___ the proposal in the next meeting.'",
+    "correctAnswer": "consider",
+    "options": ["consider", "ignore", "dismiss", "reject"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'We should ___ our suppliers to ensure quality standards.'",
+    "correctAnswer": "negotiate",
+    "options": ["negotiate", "ignore", "accept", "abandon"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'The company's debt ___ has become a serious concern for investors.'",
+    "correctAnswer": "burden",
+    "options": ["burden", "benefit", "opportunity", "advantage"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'Our digital transformation initiative aims to ___ customer experience.'",
+    "correctAnswer": "enhance",
+    "options": ["enhance", "worsen", "complicate", "ignore"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'The investment portfolio showed ___ returns over the quarter.'",
+    "correctAnswer": "impressive",
+    "options": ["impressive", "poor", "minimal", "negative"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'We must ___ the supply chain to reduce delivery times.'",
+    "correctAnswer": "streamline",
+    "options": ["streamline", "complicate", "extend", "ignore"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'The regulatory ___ forced the company to adjust its operations.'",
+    "correctAnswer": "compliance",
+    "options": ["compliance", "violation", "freedom", "leniency"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'Our revenue streams are too ___ on a single product line.'",
+    "correctAnswer": "dependent",
+    "options": ["dependent", "independent", "diverse", "flexible"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'The merger aims to ___ costs through operational synergies.'",
+    "correctAnswer": "minimize",
+    "options": ["minimize", "maximize", "ignore", "sustain"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'We need to ___ our competitive advantage in the market.'",
+    "correctAnswer": "maintain",
+    "options": ["maintain", "lose", "abandon", "surrender"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'The market volatility has ___ stakeholder confidence recently.'",
+    "correctAnswer": "eroded",
+    "options": ["eroded", "strengthened", "built", "restored"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'Our fiscal strategy ___ on sustainable growth and profitability.'",
+    "correctAnswer": "focuses",
+    "options": ["focuses", "ignores", "avoids", "prevents"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'The company is ___ into new emerging markets in Southeast Asia.'",
+    "correctAnswer": "expanding",
+    "options": ["expanding", "retreating", "closing", "avoiding"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'We should ___ the financial risks before proceeding with the acquisition.'",
+    "correctAnswer": "assess",
+    "options": ["assess", "ignore", "magnify", "exaggerate"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'The business model needs to be more ___ to accommodate market changes.'",
+    "correctAnswer": "flexible",
+    "options": ["flexible", "rigid", "fixed", "static"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'Our brand reputation has been ___ by consistent quality and service.'",
+    "correctAnswer": "built",
+    "options": ["built", "damaged", "destroyed", "undermined"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'The cash flow projection indicates we can ___ our dividend payments.'",
+    "correctAnswer": "sustain",
+    "options": ["sustain", "cancel", "reduce", "eliminate"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'To remain competitive, we must ___ in technology and innovation.'",
+    "correctAnswer": "invest",
+    "options": ["invest", "divest", "withdraw", "avoid"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'The strategic partnership will ___ our distribution network across three continents.'",
+    "correctAnswer": "fortify",
+    "options": ["fortify", "weaken", "fragment", "scatter"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'Our acquisition strategy is designed to ___ economies of scale and reduce unit costs.'",
+    "correctAnswer": "leverage",
+    "options": ["leverage", "squander", "waste", "forfeit"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'The financial controller must ___ to strict accounting principles and regulations.'",
+    "correctAnswer": "adhere",
+    "options": ["adhere", "deviate", "ignore", "circumvent"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'Market saturation has forced competitors to ___ their pricing strategies significantly.'",
+    "correctAnswer": "recalibrate",
+    "options": ["recalibrate", "maintain", "ignore", "dismiss"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'The venture capital firm will ___ the startup's growth potential before investing.'",
+    "correctAnswer": "scrutinize",
+    "options": ["scrutinize", "overlook", "accept", "ignore"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'We must ___ our market positioning to differentiate ourselves from competitors.'",
+    "correctAnswer": "reinforce",
+    "options": ["reinforce", "undermine", "weaken", "dilute"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'The board's decision to ___ the controversial policy faced significant resistance.'",
+    "correctAnswer": "implement",
+    "options": ["implement", "shelve", "abandon", "postpone"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'Economic forecasts suggest that inflation will ___ our profit margins considerably.'",
+    "correctAnswer": "compress",
+    "options": ["compress", "expand", "improve", "enhance"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'The company's financial metrics have consistently ___ investor expectations.'",
+    "correctAnswer": "exceeded",
+    "options": ["exceeded", "fallen short of", "missed", "disappointed"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'Our corporate governance framework must ___ the highest ethical standards.'",
+    "correctAnswer": "exemplify",
+    "options": ["exemplify", "compromise", "violate", "undermine"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'The chief financial officer will ___ the annual budget to the stakeholders next week.'",
+    "correctAnswer": "present",
+    "options": ["present", "conceal", "withhold", "hide"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'We need to ___ our inventory management system to prevent stockouts.'",
+    "correctAnswer": "optimize",
+    "options": ["optimize", "complicate", "deteriorate", "worsen"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'The loan agreement will ___ for early repayment without penalties.'",
+    "correctAnswer": "provide",
+    "options": ["provide", "exclude", "prevent", "prohibit"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'Stakeholder concerns about sustainability must be ___ in our business strategy.'",
+    "correctAnswer": "integrated",
+    "options": ["integrated", "ignored", "dismissed", "excluded"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'The company's pension fund must ___ sufficient capital reserves for future liabilities.'",
+    "correctAnswer": "maintain",
+    "options": ["maintain", "deplete", "reduce", "drain"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Preencha a lacuna: 'The shareholder value creation depends on ___ and sustainable business practices.'",
+    "correctAnswer": "innovation",
+    "options": ["innovation", "stagnation", "complacency", "regression"],
+    "difficulty": "hard"
+  }
+]

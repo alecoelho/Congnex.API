@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027invoice\u0027 em português?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Fatura",
+                        "Reclamação",
+                        "Contrato",
+                        "Desconto"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Fatura"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027profit\u0027 em português?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Lucro",
+                        "Despesa",
+                        "Débito",
+                        "Crédito"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Lucro"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027budget\u0027 em português?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Orçamento",
+                        "Salário",
+                        "Taxa",
+                        "Juros"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Orçamento"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027contract\u0027 em português?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Contrato",
+                        "Acordo verbal",
+                        "Proposta",
+                        "Memorando"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Contrato"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027payment\u0027 em português?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Pagamento",
+                        "Empréstimo",
+                        "Investimento",
+                        "Benefício"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Pagamento"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027salary\u0027 em português?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Salário",
+                        "Comissão",
+                        "Bônus",
+                        "Prêmio"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Salário"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027expense\u0027 em português?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Despesa",
+                        "Receita",
+                        "Patrimônio",
+                        "Passivo"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Despesa"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027client\u0027 em português?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Cliente",
+                        "Concorrente",
+                        "Fornecedor",
+                        "Investidor"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Cliente"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027market\u0027 em português?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Mercado",
+                        "Loja",
+                        "Compra",
+                        "Venda"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Mercado"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027risk\u0027 em português?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Risco",
+                        "Oportunidade",
+                        "Benefício",
+                        "Segurança"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Risco"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027profit margin\u0027 em português?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Margem de lucro",
+                        "Limite de crédito",
+                        "Taxa de câmbio",
+                        "Juros compostos"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Margem de lucro"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027supplier\u0027 em português?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Fornecedor",
+                        "Distribuidor",
+                        "Varejista",
+                        "Fabricante"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Fornecedor"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027deadline\u0027 em português?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Prazo",
+                        "Atraso",
+                        "Extensão",
+                        "Intervalo"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Prazo"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027employee\u0027 em português?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Funcionário",
+                        "Gerente",
+                        "Diretor",
+                        "Executivo"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Funcionário"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027investment\u0027 em português?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Investimento",
+                        "Empréstimo",
+                        "Doação",
+                        "Devolução"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Investimento"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027revenue\u0027 em português?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Receita",
+                        "Imposto",
+                        "Tarifa",
+                        "Comissão"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Receita"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027debt\u0027 em português?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Dívida",
+                        "Empréstimo",
+                        "Hipoteca",
+                        "Crédito"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Dívida"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027quarterly report\u0027 em português?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Relatório trimestral",
+                        "Balanço anual",
+                        "Auditoría financeira",
+                        "Demonstração contábil"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Relatório trimestral"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027cash flow\u0027 em português?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Fluxo de caixa",
+                        "Saldo bancário",
+                        "Liquidez",
+                        "Circulante"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Fluxo de caixa"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027dividend\u0027 em português?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Dividendo",
+                        "Juros",
+                        "Bônus",
+                        "Comissão"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Dividendo"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027depreciation\u0027 em português?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Depreciação",
+                        "Amortização",
+                        "Provisionamento",
+                        "Reversão"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Depreciação"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027acquisition\u0027 em português?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Aquisição",
+                        "Fusão",
+                        "Incorporação",
+                        "Associação"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Aquisição"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027audit\u0027 em português?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Auditoria",
+                        "Inspeção",
+                        "Fiscalização",
+                        "Revisão"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Auditoria"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027liability\u0027 em português?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Passivo",
+                        "Ativo",
+                        "Patrimônio",
+                        "Reserva"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Passivo"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027leverage\u0027 em português?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Alavancagem",
+                        "Lucro bruto",
+                        "Margem operacional",
+                        "Rentabilidade"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Alavancagem"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027stakeholder\u0027 em português?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Parte interessada",
+                        "Sócio",
+                        "Acionista",
+                        "Gerente"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Parte interessada"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027portfolio\u0027 em português?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Carteira",
+                        "Pasta",
+                        "Documento",
+                        "Arquivo"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Carteira"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027merger\u0027 em português?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Fusão",
+                        "Incorporação",
+                        "Aquisição",
+                        "Aliança"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Fusão"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027competitiveness\u0027 em português?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Competitividade",
+                        "Concorrência",
+                        "Eficiência",
+                        "Produtividade"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Competitividade"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027benchmark\u0027 em português?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Parâmetro",
+                        "Amostra",
+                        "Padrão",
+                        "Comparação"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Parâmetro"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027inflation\u0027 em português?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Inflação",
+                        "Deflação",
+                        "Desvalorização",
+                        "Volatilidade"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Inflação"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027equity\u0027 em português?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Patrimônio líquido",
+                        "Dívida",
+                        "Crédito",
+                        "Reserva"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Patrimônio líquido"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027amortization\u0027 em português?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Amortização",
+                        "Depreciação",
+                        "Provisão",
+                        "Reversão"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Amortização"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027default\u0027 em contexto financeiro?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Inadimplência",
+                        "Atraso",
+                        "Suspensão",
+                        "Cancelamento"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Inadimplência"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027volatility\u0027 em português?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Volatilidade",
+                        "Estabilidade",
+                        "Risco",
+                        "Incerteza"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Volatilidade"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027hedging\u0027 em português?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Proteção de riscos",
+                        "Especulação",
+                        "Arbitragem",
+                        "Investimento"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Proteção de riscos"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027derivative\u0027 em contexto financeiro?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Derivativo",
+                        "Instrumento",
+                        "Ativo",
+                        "Fundo"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Derivativo"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027arbitrage\u0027 em português?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Arbitragem",
+                        "Especulação",
+                        "Proteção",
+                        "Investimento"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Arbitragem"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027collateral\u0027 em português?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Garantia",
+                        "Empréstimo",
+                        "Hipoteca",
+                        "Penhor"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Garantia"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027covenant\u0027 em contexto legal/financeiro?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Cláusula restritiva",
+                        "Contrato",
+                        "Acordo",
+                        "Termo"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Cláusula restritiva"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027subordinated\u0027 em português?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Subordinado",
+                        "Privilegiado",
+                        "Garantido",
+                        "Senhor"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Subordinado"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027syndication\u0027 em português?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Sindicação",
+                        "Fusão",
+                        "Incorporação",
+                        "Aquisição"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Sindicação"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027tranch\u0027 (ou \u0027tranche\u0027) em português?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Parcela",
+                        "Título",
+                        "Instrumento",
+                        "Classe"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Parcela"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027underwriting\u0027 em português?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Subscrição",
+                        "Risco",
+                        "Seguro",
+                        "Proteção"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Subscrição"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027securitization\u0027 em português?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Securitização",
+                        "Titularização",
+                        "Empacotamento",
+                        "Transformação"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Securitização"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027covenant\u0027 em um contrato de empréstimo?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Condição obrigatória",
+                        "Cláusula de rescisão",
+                        "Pena contratual",
+                        "Taxa de juros"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Condição obrigatória"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027impairment\u0027 em português?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Redução ao valor recuperável",
+                        "Depreciação",
+                        "Perda",
+                        "Provisão"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Redução ao valor recuperável"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027deferral\u0027 em português?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Diferimento",
+                        "Atraso",
+                        "Suspensão",
+                        "Postergação"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Diferimento"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027maturity\u0027 em contexto de títulos financeiros?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Vencimento",
+                        "Prazo",
+                        "Data final",
+                        "Expiração"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Vencimento"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027disbursement\u0027 em português?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Desembolso",
+                        "Reembolso",
+                        "Devolução",
+                        "Compensação"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Desembolso"
+    }
+]

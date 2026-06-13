@@ -1,0 +1,532 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "She is my ___. We have the same mother and father.",
+    "correctAnswer": "sister",
+    "options": ["sister", "friend", "teacher", "neighbor"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "My ___ and father are married.",
+    "correctAnswer": "mother",
+    "options": ["mother", "brother", "son", "uncle"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "He is my ___. We have the same parents.",
+    "correctAnswer": "brother",
+    "options": ["brother", "father", "cousin", "husband"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "My ___ is my mother's mother.",
+    "correctAnswer": "grandmother",
+    "options": ["grandmother", "aunt", "sister", "daughter"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "My ___ is my father's father.",
+    "correctAnswer": "grandfather",
+    "options": ["grandfather", "uncle", "brother", "son"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "I have one ___. She is five years old.",
+    "correctAnswer": "daughter",
+    "options": ["daughter", "wife", "mother", "aunt"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "My ___ is my father's sister.",
+    "correctAnswer": "aunt",
+    "options": ["aunt", "cousin", "niece", "grandmother"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "My ___ is my mother's brother.",
+    "correctAnswer": "uncle",
+    "options": ["uncle", "nephew", "grandfather", "son"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "He is married. His ___ is very kind.",
+    "correctAnswer": "wife",
+    "options": ["wife", "daughter", "sister", "mother"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "She is married. Her ___ works in a hospital.",
+    "correctAnswer": "husband",
+    "options": ["husband", "son", "father", "brother"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "I have a baby ___. He is one year old.",
+    "correctAnswer": "son",
+    "options": ["son", "nephew", "uncle", "grandfather"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "My ___ is my parent's parent.",
+    "correctAnswer": "grandparent",
+    "options": ["grandparent", "sibling", "cousin", "nephew"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "Tom and Lisa are ___. They love each other.",
+    "correctAnswer": "married",
+    "options": ["married", "single", "young", "happy"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "My ___ is my aunt's child.",
+    "correctAnswer": "cousin",
+    "options": ["cousin", "nephew", "sibling", "niece"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "I live with my ___. We are a happy family.",
+    "correctAnswer": "parents",
+    "options": ["parents", "friends", "neighbors", "teachers"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "My ___ is my brother's daughter.",
+    "correctAnswer": "niece",
+    "options": ["niece", "cousin", "aunt", "sister"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "My ___ is my sister's son.",
+    "correctAnswer": "nephew",
+    "options": ["nephew", "cousin", "uncle", "brother"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "My mother's ___ is my grandmother.",
+    "correctAnswer": "mother",
+    "options": ["mother", "sister", "daughter", "aunt"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "Anna and her sister are very ___. They talk every day.",
+    "correctAnswer": "close",
+    "options": ["close", "tall", "old", "busy"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "My parents have three children. I am their ___ child.",
+    "correctAnswer": "youngest",
+    "options": ["youngest", "tallest", "happiest", "biggest"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "My father's brother is my ___.",
+    "correctAnswer": "uncle",
+    "options": ["uncle", "cousin", "nephew", "grandfather"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "They are ___. They have the same parents.",
+    "correctAnswer": "siblings",
+    "options": ["siblings", "neighbors", "classmates", "colleagues"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "My grandmother has four ___. My mother is one of them.",
+    "correctAnswer": "children",
+    "options": ["children", "friends", "students", "neighbors"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "Paul is my best ___. We play together every day.",
+    "correctAnswer": "friend",
+    "options": ["friend", "cousin", "teacher", "uncle"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "My uncle is ___. He does not have a wife.",
+    "correctAnswer": "single",
+    "options": ["single", "young", "tall", "happy"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "My aunt and uncle have two ___.",
+    "correctAnswer": "children",
+    "options": ["children", "parents", "uncles", "grandparents"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "My parents ___ every morning together.",
+    "correctAnswer": "have breakfast",
+    "options": ["have breakfast", "play soccer", "go swimming", "read books"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "I ___ my grandmother every Sunday.",
+    "correctAnswer": "visit",
+    "options": ["visit", "write", "call", "meet"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "My brother is two years ___ than me.",
+    "correctAnswer": "older",
+    "options": ["older", "taller", "faster", "bigger"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "We are a big family. We ___ together on holidays.",
+    "correctAnswer": "celebrate",
+    "options": ["celebrate", "study", "work", "sleep"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "My parents ___ in love since they were young.",
+    "correctAnswer": "are",
+    "options": ["are", "go", "have", "do"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "My sister ___ two children.",
+    "correctAnswer": "has",
+    "options": ["has", "have", "is", "are"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "My grandmother lives ___ us.",
+    "correctAnswer": "with",
+    "options": ["with", "from", "for", "at"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "My cousin ___ in Brazil.",
+    "correctAnswer": "lives",
+    "options": ["lives", "livs", "live", "living"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "My father ___ to work every day.",
+    "correctAnswer": "goes",
+    "options": ["goes", "go", "going", "gone"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "Our family ___ dinner together every night.",
+    "correctAnswer": "eats",
+    "options": ["eats", "eat", "eaten", "eating"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "My parents ___ very proud of me.",
+    "correctAnswer": "are",
+    "options": ["are", "is", "was", "be"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "My mother's ___ is my aunt.",
+    "correctAnswer": "sister",
+    "options": ["sister", "mother", "daughter", "cousin"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "My brother's wife is my ___.",
+    "correctAnswer": "sister-in-law",
+    "options": ["sister-in-law", "niece", "aunt", "cousin"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "My wife's father is my ___.",
+    "correctAnswer": "father-in-law",
+    "options": ["father-in-law", "stepfather", "uncle", "grandfather"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "After the divorce, my father married again. His new wife is my ___.",
+    "correctAnswer": "stepmother",
+    "options": ["stepmother", "aunt", "grandmother", "sister-in-law"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "My stepmother's son is my ___.",
+    "correctAnswer": "stepbrother",
+    "options": ["stepbrother", "half-brother", "cousin", "nephew"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "Tom and Mary are not married. They are ___.",
+    "correctAnswer": "dating",
+    "options": ["dating", "working", "studying", "traveling"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "My parents are not together anymore. They are ___.",
+    "correctAnswer": "divorced",
+    "options": ["divorced", "married", "single", "retired"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "My grandfather died last year. Now my grandmother is a ___.",
+    "correctAnswer": "widow",
+    "options": ["widow", "sister", "aunt", "niece"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "I do not have brothers or sisters. I am an ___ child.",
+    "correctAnswer": "only",
+    "options": ["only", "single", "alone", "one"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "My aunt and uncle ___ a child from another country.",
+    "correctAnswer": "adopted",
+    "options": ["adopted", "married", "divorced", "visited"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "My husband's mother is my ___.",
+    "correctAnswer": "mother-in-law",
+    "options": ["mother-in-law", "stepmother", "aunt", "grandmother"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "My parents have the same father but different mothers. We are ___.",
+    "correctAnswer": "half-siblings",
+    "options": ["half-siblings", "stepbrothers", "cousins", "twins"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "They were born on the same day. They are ___.",
+    "correctAnswer": "twins",
+    "options": ["twins", "siblings", "cousins", "neighbors"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "My sister's husband is my ___.",
+    "correctAnswer": "brother-in-law",
+    "options": ["brother-in-law", "nephew", "uncle", "stepbrother"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "She takes care of children who are not her own. She is a ___ mother.",
+    "correctAnswer": "foster",
+    "options": ["foster", "step", "single", "young"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "My father is not alive anymore. I am ___.",
+    "correctAnswer": "fatherless",
+    "options": ["fatherless", "single", "divorced", "alone"],
+    "difficulty": "hard"
+  }
+]

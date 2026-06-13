@@ -1,0 +1,502 @@
+﻿[
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "A floresta _____ árvores muito antigas.",
+    "correctAnswer": "has",
+    "options": ["has", "have", "is having", "had"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Nós _____ reciclar plástico todas as semanas.",
+    "correctAnswer": "should",
+    "options": ["should", "are should", "must to", "can to"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Os animais _____ água limpa para sobreviver.",
+    "correctAnswer": "need",
+    "options": ["need", "needs", "are needing", "do need to"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Ele _____ usar menos energia na sua casa.",
+    "correctAnswer": "wants to",
+    "options": ["wants to", "want to", "is want", "wanting"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Que tipo de lixo _____ você reciclar?",
+    "correctAnswer": "can",
+    "options": ["can", "can you", "do you can", "are you can"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Os rios _____ muito poluídos agora.",
+    "correctAnswer": "are",
+    "options": ["are", "is", "have", "do"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Ela _____ trabalhar com sustentabilidade.",
+    "correctAnswer": "likes to",
+    "options": ["likes to", "like to", "is liking", "likes"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "As plantas _____ energia do sol.",
+    "correctAnswer": "get",
+    "options": ["get", "gets", "are getting", "do get"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você _____ proteger os pássaros?",
+    "correctAnswer": "want to",
+    "options": ["want to", "wants to", "wanting", "are wanting"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Nós não _____ usar sacolas plásticas.",
+    "correctAnswer": "should",
+    "options": ["should", "are should", "must", "can"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O lixo _____ um grande problema no mundo.",
+    "correctAnswer": "is",
+    "options": ["is", "are", "have", "has"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Eles _____ aprender mais sobre energia renovável.",
+    "correctAnswer": "need to",
+    "options": ["need to", "needs to", "needing", "needs"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você _____ uma garrafa de água reutilizável?",
+    "correctAnswer": "have",
+    "options": ["have", "has", "is having", "does have"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O oceano _____ muita vida marinha.",
+    "correctAnswer": "has",
+    "options": ["has", "have", "is", "does"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Elas _____ plantar mais árvores todos os meses.",
+    "correctAnswer": "want to",
+    "options": ["want to", "wants to", "wanting", "are wanting"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O ar _____ poluído nas cidades grandes.",
+    "correctAnswer": "is",
+    "options": ["is", "are", "have", "has"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você _____ ser mais responsável com o meio ambiente?",
+    "correctAnswer": "can",
+    "options": ["can", "can to", "are can", "do can"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Eles _____ viver em uma casa ecológica agora.",
+    "correctAnswer": "are living",
+    "options": ["are living", "living", "is living", "live"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Se nós _____ carbono, o planeta fica mais quente.",
+    "correctAnswer": "produce",
+    "options": ["produce", "produces", "are producing", "producing"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "A empresa _____ reduzir emissões nos últimos dois anos.",
+    "correctAnswer": "has",
+    "options": ["has", "have", "is having", "had"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Nós _____ usar luz solar em vez de eletricidade.",
+    "correctAnswer": "could",
+    "options": ["could", "could to", "can to", "must"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O animal _____ vivido nesta floresta há dez anos.",
+    "correctAnswer": "has",
+    "options": ["has", "have", "is", "does"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você já _____ visitado uma reserva natural?",
+    "correctAnswer": "have",
+    "options": ["have", "has", "are", "do"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Os peixes _____ porque a água está suja.",
+    "correctAnswer": "are dying",
+    "options": ["are dying", "dying", "is dying", "die"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Ela _____ comida orgânica desde o ano passado.",
+    "correctAnswer": "has been eating",
+    "options": ["has been eating", "has eating", "is eating", "was eating"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Se você _____ água, o solo fica mais seco.",
+    "correctAnswer": "don't save",
+    "options": ["don't save", "doesn't save", "not save", "saves not"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O governo _____ criar leis para proteger a natureza.",
+    "correctAnswer": "should",
+    "options": ["should", "should to", "must to", "can to"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Eles _____ nunca visto uma floresta tão grande.",
+    "correctAnswer": "have",
+    "options": ["have", "has", "are", "do"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você _____ conseguir viver sem plástico?",
+    "correctAnswer": "can",
+    "options": ["can", "must", "should", "could"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "As emissões de carbono _____ aumentando cada ano.",
+    "correctAnswer": "are",
+    "options": ["are", "is", "have", "does"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "A energia eólica _____ importante para o futuro.",
+    "correctAnswer": "is",
+    "options": ["is", "are", "have", "has"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Nós _____ parado de usar sacolas plásticas há três meses.",
+    "correctAnswer": "have",
+    "options": ["have", "has", "are", "do"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Se a temperatura _____ muito, o gelo vai derreter.",
+    "correctAnswer": "rises",
+    "options": ["rises", "rise", "rising", "rose"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual tipo de lixo _____ você composto na sua casa?",
+    "correctAnswer": "do you make",
+    "options": ["do you make", "you make", "are you making", "you are making"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Se você _____ carro todos os dias, vai poluir o ar.",
+    "correctAnswer": "drive",
+    "options": ["drive", "drives", "are driving", "driving"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Os cientistas _____ que o aquecimento global é real.",
+    "correctAnswer": "have proven",
+    "options": ["have proven", "has proven", "prove", "are proving"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Quando nós _____ a floresta, vimos muitos pássaros.",
+    "correctAnswer": "visited",
+    "options": ["visited", "visit", "are visiting", "have visited"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "A energia solar _____ utilizada em muitos países agora.",
+    "correctAnswer": "is being",
+    "options": ["is being", "is", "has been", "was"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Se nós _____ continuar poluindo, não haverá ar limpo.",
+    "correctAnswer": "keep",
+    "options": ["keep", "keeps", "kept", "are keeping"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O oceano _____ subindo de nível devido ao aquecimento global.",
+    "correctAnswer": "is rising",
+    "options": ["is rising", "rising", "is risen", "has rose"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Depois que eles _____ a lei, a poluição diminuiu.",
+    "correctAnswer": "passed",
+    "options": ["passed", "pass", "have passed", "are passing"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Os animais _____ se adaptar às mudanças climáticas.",
+    "correctAnswer": "need to",
+    "options": ["need to", "needs to", "are needing", "needed to"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Enquanto ela _____ na reciclagem, encontrou um material novo.",
+    "correctAnswer": "was working",
+    "options": ["was working", "is working", "working", "works"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "A poluição do ar _____ aumentado significativamente no último ano.",
+    "correctAnswer": "has",
+    "options": ["has", "have", "is", "does"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Se você _____ reutilizar bolsas, vai economizar dinheiro.",
+    "correctAnswer": "continue to",
+    "options": ["continue to", "continues to", "continuing", "continued"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Os projetos de sustentabilidade _____ implementados em várias cidades.",
+    "correctAnswer": "are being",
+    "options": ["are being", "are", "have been", "were"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Quando ele _____ o rio, notou que estava muito sujo.",
+    "correctAnswer": "saw",
+    "options": ["saw", "see", "sees", "is seeing"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "A floresta tropical _____ destruída rapidamente.",
+    "correctAnswer": "is being",
+    "options": ["is being", "is", "has been", "was"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Desde que eles _____ organizar campanhas, muitas pessoas participaram.",
+    "correctAnswer": "started to",
+    "options": ["started to", "starts to", "starting", "start"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Os resíduos plásticos _____ no oceano há décadas.",
+    "correctAnswer": "have been accumulating",
+    "options": ["have been accumulating", "are accumulating", "accumulate", "has been accumulating"],
+    "difficulty": "hard"
+  }
+]

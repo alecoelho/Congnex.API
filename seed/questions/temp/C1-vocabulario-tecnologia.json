@@ -1,0 +1,442 @@
+﻿[
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual é o sinônimo de 'interface' em tecnologia?",
+    "correctAnswer": "user interaction layer",
+    "options": ["user interaction layer", "database connector", "memory allocation", "software license"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'download' em português?",
+    "correctAnswer": "baixar dados de um servidor",
+    "options": ["baixar dados de um servidor", "armazenar em nuvem", "enviar arquivo", "deletar programa"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'firewall'?",
+    "correctAnswer": "security system that filters network traffic",
+    "options": ["security system that filters network traffic", "type of antivirus software", "internet provider service", "computer cooling system"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que é um 'browser'?",
+    "correctAnswer": "programa para acessar a internet",
+    "options": ["programa para acessar a internet", "disco rígido externo", "placa de vídeo", "teclado especial"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual é o sinônimo de 'backup'?",
+    "correctAnswer": "cópia de segurança dos dados",
+    "options": ["cópia de segurança dos dados", "limpeza do disco", "atualização de software", "restauração de sistema"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'upload'?",
+    "correctAnswer": "enviar dados para um servidor",
+    "options": ["enviar dados para um servidor", "receber informações online", "instalar um programa", "atualizar o sistema operacional"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual é a definição de 'malware'?",
+    "correctAnswer": "software malicioso que prejudica o computador",
+    "options": ["software malicioso que prejudica o computador", "programa de edição de imagens", "sistema operacional antigo", "aplicativo de navegação"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que é um 'servidor'?",
+    "correctAnswer": "computador que fornece recursos para outros computadores",
+    "options": ["computador que fornece recursos para outros computadores", "tipo de impressora rápida", "conexão de rede local", "antivírus mais potente"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'cache'?",
+    "correctAnswer": "memória temporária de acesso rápido",
+    "options": ["memória temporária de acesso rápido", "arquivo de vídeo comprimido", "pasta de downloads", "lista de histórico"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'bug' em programação?",
+    "correctAnswer": "erro ou defeito no software",
+    "options": ["erro ou defeito no software", "versão preliminar de um programa", "proteção contra vírus", "atualizações automáticas"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual é a definição de 'bandwidth'?",
+    "correctAnswer": "capacidade de transferência de dados",
+    "options": ["capacidade de transferência de dados", "tipo de processador", "velocidade do monitor", "tamanho do disco rígido"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que é 'criptografia'?",
+    "correctAnswer": "técnica para proteger dados através de codificação",
+    "options": ["técnica para proteger dados através de codificação", "processo de compressão de arquivos", "sistema de backup automático", "software de gestão de senhas"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual é o sinônimo de 'phishing'?",
+    "correctAnswer": "fraude eletrônica para roubo de dados pessoais",
+    "options": ["fraude eletrônica para roubo de dados pessoais", "programa de gerenciamento de arquivos", "atualização de segurança", "backup automático da nuvem"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'SSL'?",
+    "correctAnswer": "protocolo de segurança para comunicação criptografada",
+    "options": ["protocolo de segurança para comunicação criptografada", "tipo de arquivo de texto", "sistema de localização de satélite", "marca de impressora"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual é a definição de 'cloud computing'?",
+    "correctAnswer": "armazenamento e processamento de dados na internet",
+    "options": ["armazenamento e processamento de dados na internet", "tipo de navegador web", "velocidade de conexão muito rápida", "antivírus na nuvem"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'latência' em redes?",
+    "correctAnswer": "atraso na transmissão de dados",
+    "options": ["atraso na transmissão de dados", "capacidade total de conexão", "tipo de protocolo de internet", "frequência de atualização"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual é o sinônimo de 'middleware'?",
+    "correctAnswer": "software intermediário que conecta aplicações",
+    "options": ["software intermediário que conecta aplicações", "atualização do sistema", "programa de limpeza de disco", "extensão de navegador"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que é 'API' em contexto de desenvolvimento?",
+    "correctAnswer": "interface de programação que permite comunicação entre aplicações",
+    "options": ["interface de programação que permite comunicação entre aplicações", "tipo de banco de dados", "protocolo de internet antigo", "serviço de armazenamento em nuvem"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual é a definição de 'framework'?",
+    "correctAnswer": "estrutura pronta para desenvolvimento de aplicações",
+    "options": ["estrutura pronta para desenvolvimento de aplicações", "tipo de processador dual-core", "ferramenta de compressão de vídeo", "extensão de arquivo de imagem"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'deployment' em TI?",
+    "correctAnswer": "implementação ou lançamento de um sistema",
+    "options": ["implementação ou lançamento de um sistema", "teste de segurança de rede", "backup automático de dados", "atualização de patches"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual é o sinônimo de 'repository'?",
+    "correctAnswer": "armazém de código-fonte com controle de versão",
+    "options": ["armazém de código-fonte com controle de versão", "disco de backup externo", "pasta de downloads", "histórico de navegação"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que é 'refactoring' em programação?",
+    "correctAnswer": "reestruturação do código sem alterar sua funcionalidade",
+    "options": ["reestruturação do código sem alterar sua funcionalidade", "correção de erros de sintaxe", "adição de novas funcionalidades", "compilação de código-fonte"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual é a definição de 'scalability'?",
+    "correctAnswer": "capacidade de um sistema crescer sem perda de desempenho",
+    "options": ["capacidade de um sistema crescer sem perda de desempenho", "velocidade de processamento", "tamanho da memória RAM", "capacidade de armazenamento"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'legacy system'?",
+    "correctAnswer": "sistema antigo que continua em funcionamento",
+    "options": ["sistema antigo que continua em funcionamento", "novo software de código aberto", "aplicativo em desenvolvimento", "sistema operacional mais recente"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual é o sinônimo de 'debugging'?",
+    "correctAnswer": "processo de identificar e corrigir erros no software",
+    "options": ["processo de identificar e corrigir erros no software", "limpeza de arquivos temporários", "atualização de drivers", "reinstalação do sistema operacional"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que é 'redundancy' em sistemas de TI?",
+    "correctAnswer": "duplicação de componentes para garantir continuidade",
+    "options": ["duplicação de componentes para garantir continuidade", "processamento de dados em paralelo", "criptografia de informações", "sincronização de arquivos"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual é a definição de 'virtualization'?",
+    "correctAnswer": "criação de versões virtuais de recursos computacionais",
+    "options": ["criação de versões virtuais de recursos computacionais", "simulação de jogos 3D", "realidade aumentada em aplicativos", "compressão de vídeo"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'DevOps'?",
+    "correctAnswer": "integração entre desenvolvimento e operações de sistemas",
+    "options": ["integração entre desenvolvimento e operações de sistemas", "tipo de programação orientada a objetos", "ferramenta de design gráfico", "protocolo de rede sem fio"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual é o sinônimo de 'compliance' em TI?",
+    "correctAnswer": "conformidade com regulamentações e normas",
+    "options": ["conformidade com regulamentações e normas", "performance de um sistema", "compatibilidade de software", "atualização automática"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que é 'containerization' em desenvolvimento?",
+    "correctAnswer": "empacotamento de aplicações com suas dependências",
+    "options": ["empacotamento de aplicações com suas dependências", "divisão de disco rígido em partições", "compressão de arquivos ZIP", "sincronização de nuvem"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual é a definição de 'tokenization'?",
+    "correctAnswer": "processo de converter dados sensíveis em tokens",
+    "options": ["processo de converter dados sensíveis em tokens", "fragmentação de disco rígido", "sincronização de dispositivos", "codificação de vídeo"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'orchestration' em sistemas?",
+    "correctAnswer": "coordenação automatizada de múltiplos processos",
+    "options": ["coordenação automatizada de múltiplos processos", "sincronização manual de arquivos", "backup em tempo real", "monitoramento de performance"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual é o sinônimo de 'microservices'?",
+    "correctAnswer": "arquitetura com pequenos serviços independentes",
+    "options": ["arquitetura com pequenos serviços independentes", "divisão física de servidores", "particionamento de banco de dados", "compressão de aplicação"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que é 'idempotency' em operações de dados?",
+    "correctAnswer": "capacidade de uma operação produzir mesmo resultado se repetida",
+    "options": ["capacidade de uma operação produzir mesmo resultado se repetida", "tipo de indexação de banco de dados", "método de compressão de arquivo", "protocolo de sincronização"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual é a definição de 'immutability'?",
+    "correctAnswer": "propriedade de dados não poderem ser modificados após criação",
+    "options": ["propriedade de dados não poderem ser modificados após criação", "tipo de arquivo protegido", "criptografia de ponta a ponta", "sistema de backup versioning"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'eventual consistency'?",
+    "correctAnswer": "garantia de que dados serão consistentes após certo tempo",
+    "options": ["garantia de que dados serão consistentes após certo tempo", "sincronização imediata de base de dados", "backup em tempo real", "replicação de dados"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual é o sinônimo de 'denormalization'?",
+    "correctAnswer": "adição de redundância em banco de dados para otimizar leitura",
+    "options": ["adição de redundância em banco de dados para otimizar leitura", "remoção de chaves estrangeiras", "compressão de tabelas", "fragmentação de índices"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que é 'polymorphism' em programação orientada a objetos?",
+    "correctAnswer": "capacidade de objetos assumirem múltiplas formas",
+    "options": ["capacidade de objetos assumirem múltiplas formas", "tipo de herança simples", "encapsulamento de código", "integração de componentes"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual é a definição de 'observability'?",
+    "correctAnswer": "capacidade de entender estado interno de um sistema através de saídas",
+    "options": ["capacidade de entender estado interno de um sistema através de saídas", "visibilidade de rede", "acesso remoto a servidores", "monitoramento de processamento"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'circuit breaker'?",
+    "correctAnswer": "padrão para prevenir falhas em cascata em sistemas distribuídos",
+    "options": ["padrão para prevenir falhas em cascata em sistemas distribuídos", "dispositivo de segurança elétrica", "proteção contra picos de energia", "interruptor de rede"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual é o sinônimo de 'memoization'?",
+    "correctAnswer": "técnica de armazenar resultados de computações para reutilização",
+    "options": ["técnica de armazenar resultados de computações para reutilização", "alocação de memória dinâmica", "fragmentação de memória", "compressão de RAM"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que é 'sharding' em arquitetura de banco de dados?",
+    "correctAnswer": "particionamento horizontal de dados entre múltiplos servidores",
+    "options": ["particionamento horizontal de dados entre múltiplos servidores", "compressão de índices", "replicação de tabelas", "sincronização de cache"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual é a definição de 'replication lag'?",
+    "correctAnswer": "atraso na cópia de dados entre sistemas replicados",
+    "options": ["atraso na cópia de dados entre sistemas replicados", "falha de conexão de rede", "corrupção de dados", "erro de sincronização"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'graceful degradation'?",
+    "correctAnswer": "capacidade de sistema manter funcionalidades reduzidas quando falhas ocorrem",
+    "options": ["capacidade de sistema manter funcionalidades reduzidas quando falhas ocorrem", "recuperação automática de erro", "reinicialização de serviço", "limpeza de cache"],
+    "difficulty": "hard"
+  }
+]

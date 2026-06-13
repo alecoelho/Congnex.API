@@ -1,0 +1,502 @@
+[
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O médico recomendou que o paciente _____ mais água durante o tratamento.",
+    "correctAnswer": "drink",
+    "options": ["drink", "drinks", "drank", "drinking"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "A enfermeira está _____ o pulso do paciente agora mesmo.",
+    "correctAnswer": "checking",
+    "options": ["checking", "checks", "checked", "check"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O hospital _____ aberto 24 horas por dia para atender emergências.",
+    "correctAnswer": "is",
+    "options": ["is", "are", "be", "being"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Os pacientes devem _____ os medicamentos na hora certa.",
+    "correctAnswer": "take",
+    "options": ["take", "takes", "took", "taken"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Minha irmã _____ ao médico toda vez que se sente mal.",
+    "correctAnswer": "goes",
+    "options": ["goes", "go", "went", "going"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O cirurgião _____ a operação com sucesso ontem à tarde.",
+    "correctAnswer": "performed",
+    "options": ["performed", "performs", "perform", "performing"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você _____ se exercitar regularmente para manter a saúde.",
+    "correctAnswer": "should",
+    "options": ["should", "would", "could", "might"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O dentista _____ um dente do paciente na semana passada.",
+    "correctAnswer": "extracted",
+    "options": ["extracted", "extracts", "extract", "extracting"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Ela _____ de dor de cabeça desde ontem à noite.",
+    "correctAnswer": "has been suffering",
+    "options": ["has been suffering", "suffered", "is suffering", "suffers"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "A clínica _____ novos pacientes toda segunda-feira de manhã.",
+    "correctAnswer": "accepts",
+    "options": ["accepts", "accept", "accepted", "accepting"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O nutricionista me disse _____ menos açúcar.",
+    "correctAnswer": "to eat",
+    "options": ["to eat", "eating", "eat", "ate"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Meu avô _____ pressão alta há mais de dez anos.",
+    "correctAnswer": "has had",
+    "options": ["has had", "had", "have had", "is having"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "A vacina _____ distribuída gratuitamente em todos os postos de saúde.",
+    "correctAnswer": "was",
+    "options": ["was", "were", "is", "be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Ele _____ ao pronto-socorro quando a dor piorou.",
+    "correctAnswer": "went",
+    "options": ["went", "go", "goes", "gone"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O farmacêutico explicou _____ tomar o antibiótico corretamente.",
+    "correctAnswer": "how to",
+    "options": ["how to", "how", "what to", "that to"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Os resultados dos exames _____ prontos amanhã de manhã.",
+    "correctAnswer": "will be",
+    "options": ["will be", "are", "were", "would be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "A paciente _____ internada há três dias quando recebeu alta.",
+    "correctAnswer": "had been",
+    "options": ["had been", "has been", "was", "were"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Se o paciente _____ as instruções, ele teria se recuperado mais rápido.",
+    "correctAnswer": "had followed",
+    "options": ["had followed", "followed", "follows", "would follow"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O médico insistiu que o paciente _____ repouso absoluto por uma semana.",
+    "correctAnswer": "take",
+    "options": ["take", "takes", "took", "would take"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "A pesquisa clínica _____ por especialistas renomados há dois anos.",
+    "correctAnswer": "has been conducted",
+    "options": ["has been conducted", "was conducted", "is being conducted", "had been conducted"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Quanto mais você _____, mais rápido será sua recuperação.",
+    "correctAnswer": "rest",
+    "options": ["rest", "rests", "rested", "resting"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O hospital _____ um novo departamento de cardiologia até o final do ano.",
+    "correctAnswer": "will have opened",
+    "options": ["will have opened", "will open", "opens", "has opened"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "É essencial que todos os profissionais de saúde _____ luvas durante os procedimentos.",
+    "correctAnswer": "wear",
+    "options": ["wear", "wears", "wore", "wearing"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O medicamento _____ ser tomado com alimentos para evitar náuseas.",
+    "correctAnswer": "must",
+    "options": ["must", "shall", "ought", "need"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Apesar _____ seguir a dieta, o paciente não perdeu peso.",
+    "correctAnswer": "of",
+    "options": ["of", "for", "to", "in"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "A cirurgia _____ por um especialista renomado quando o equipamento falhou.",
+    "correctAnswer": "was being performed",
+    "options": ["was being performed", "was performed", "had been performed", "is being performed"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O psicólogo sugeriu que ela _____ meditar todas as manhãs para reduzir o estresse.",
+    "correctAnswer": "try",
+    "options": ["try", "tries", "tried", "trying"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Não há evidências suficientes _____ esse tratamento alternativo seja eficaz.",
+    "correctAnswer": "that",
+    "options": ["that", "which", "what", "how"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Seria melhor que você _____ um segundo diagnóstico antes de optar pela cirurgia.",
+    "correctAnswer": "sought",
+    "options": ["sought", "seek", "seeks", "have sought"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O fisiologista recomendou que os atletas _____ o treinamento de alta intensidade com cautela.",
+    "correctAnswer": "approach",
+    "options": ["approach", "approaches", "approached", "approaching"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "A paciente negou _____ os sintomas antes da consulta.",
+    "correctAnswer": "having noticed",
+    "options": ["having noticed", "to notice", "noticing", "noticed"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O tratamento é menos invasivo do que _____ inicialmente previsto.",
+    "correctAnswer": "was",
+    "options": ["was", "is", "were", "has been"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "A enfermeira pediu ao paciente que _____ quieto durante o procedimento.",
+    "correctAnswer": "remain",
+    "options": ["remain", "remains", "remained", "remaining"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Não é somente a dieta, mas também o estilo de vida _____ contribui para a hipertensão.",
+    "correctAnswer": "that",
+    "options": ["that", "which", "who", "what"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Caso o paciente _____ alérgico ao medicamento, deve notificar o médico imediatamente.",
+    "correctAnswer": "be",
+    "options": ["be", "is", "was", "were"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O estudo revelou que a privação de sono _____ consequências neurológicas graves a longo prazo.",
+    "correctAnswer": "may have",
+    "options": ["may have", "might had", "could have had", "must have"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Dada a gravidade do quadro, o paciente _____ a cirurgia antes de receber alta.",
+    "correctAnswer": "should have undergone",
+    "options": ["should have undergone", "should undergo", "should have been underwent", "should had undergone"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Não apenas a genética, mas também os hábitos alimentares _____ determinantes na progressão do diabetes.",
+    "correctAnswer": "are",
+    "options": ["are", "is", "were", "was"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O protocolo exige que cada paciente _____ submetido a uma triagem antes de ser encaminhado.",
+    "correctAnswer": "be",
+    "options": ["be", "is", "was", "were"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Fosse o diagnóstico feito mais cedo, o paciente _____ evitado complicações sérias.",
+    "correctAnswer": "would have",
+    "options": ["would have", "could have had", "would had", "might had"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Os pesquisadores estão cada vez mais convictos de que o estresse crônico _____ ao desenvolvimento de doenças autoimunes.",
+    "correctAnswer": "contributes",
+    "options": ["contributes", "contribute", "contributing", "is contributed"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "É imperativo que o hospital _____ medidas preventivas contra infecções hospitalares.",
+    "correctAnswer": "implement",
+    "options": ["implement", "implements", "implemented", "implementing"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O médico agiu como se _____ certeza absoluta do diagnóstico, mas depois admitiu suas dúvidas.",
+    "correctAnswer": "he had",
+    "options": ["he had", "he has", "he would have", "he were having"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Independentemente de _____ os pacientes seguirem as orientações, os médicos devem continuar monitorando.",
+    "correctAnswer": "whether",
+    "options": ["whether", "if", "that", "what"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "A terapia genética _____ revolucionar o tratamento de doenças hereditárias nas próximas décadas.",
+    "correctAnswer": "is likely to",
+    "options": ["is likely to", "is liable to", "is probable to", "is possible to"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O fato de que tantos pacientes _____ sintomas semelhantes sugere uma origem viral comum.",
+    "correctAnswer": "are presenting",
+    "options": ["are presenting", "presenting", "present", "have presented"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Nenhum dos tratamentos convencionais _____ eficaz para esse tipo raro de câncer.",
+    "correctAnswer": "has proven",
+    "options": ["has proven", "have proven", "had proven", "is proven"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O cardiologista recomendou que o paciente _____ atividade física intensa por pelo menos três meses.",
+    "correctAnswer": "avoid",
+    "options": ["avoid", "avoids", "avoided", "avoiding"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Considerando que o paciente _____ tratamento intensivo, os médicos esperavam uma recuperação mais rápida.",
+    "correctAnswer": "had been receiving",
+    "options": ["had been receiving", "has been receiving", "was receiving", "received"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O novo protocolo clínico exige que os médicos _____ o consentimento informado antes de qualquer intervenção cirúrgica.",
+    "correctAnswer": "obtain",
+    "options": ["obtain", "obtains", "obtained", "obtaining"],
+    "difficulty": "hard"
+  }
+]

@@ -1,0 +1,752 @@
+[
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Você deve beber água regularmente para manter uma boa hidratação.",
+    "correctAnswer": "You should drink water regularly to maintain good hydration.",
+    "options": [
+      "You should drink water regularly to maintain good hydration.",
+      "You must eat water frequently to stay hydrating.",
+      "You ought to drink water constantly for hydration maintenance.",
+      "You can drink water regularly so that hydration is good."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "O exercício físico é essencial para a saúde do coração.",
+    "correctAnswer": "Physical exercise is essential for heart health.",
+    "options": [
+      "Physical exercise is essential for heart health.",
+      "Physical exercising are necessary for the heart.",
+      "Exercise in physics is vital for cardiac wellness.",
+      "Physical activities is essential to hearts."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Uma alimentação equilibrada inclui frutas, vegetais e proteínas.",
+    "correctAnswer": "A balanced diet includes fruits, vegetables, and proteins.",
+    "options": [
+      "A balanced diet includes fruits, vegetables, and proteins.",
+      "One balanced eating includes fruit, vegetable and protein.",
+      "A diet equilibrium needs fruits, vegetables or proteins.",
+      "Balanced food contains fruits, vegetables with proteins."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Dormir bem é fundamental para recuperar a energia durante o dia.",
+    "correctAnswer": "Sleeping well is fundamental to recover energy during the day.",
+    "options": [
+      "Sleeping well is fundamental to recover energy during the day.",
+      "Sleep good is important for recovering day energy.",
+      "Sleeping well fundamentally recovers daytime energies.",
+      "To sleep well recovers the day fundamental energy."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A meditação reduz o stress e promove relaxamento mental.",
+    "correctAnswer": "Meditation reduces stress and promotes mental relaxation.",
+    "options": [
+      "Meditation reduces stress and promotes mental relaxation.",
+      "Meditating reduce stress and promoted mental relaxing.",
+      "The meditation is reducing stress with mental relaxation.",
+      "Meditation can reduce stress for promoting mental relax."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Evitar açúcar em excesso previne doenças como diabetes.",
+    "correctAnswer": "Avoiding excess sugar prevents diseases like diabetes.",
+    "options": [
+      "Avoiding excess sugar prevents diseases like diabetes.",
+      "To avoid sugar excess prevent disease as diabetes.",
+      "Excess sugar avoiding prevents diabetic diseases.",
+      "Avoid excess sugars prevent for diseases like diabetes."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "O médico recomendou fazer exames de rotina anualmente.",
+    "correctAnswer": "The doctor recommended doing routine check-ups annually.",
+    "options": [
+      "The doctor recommended doing routine check-ups annually.",
+      "The doctor recommend to do routines check-up yearly.",
+      "A doctor recommended for doing exams routinely each year.",
+      "The doctor recommends doing routine examinations per year."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Caminhar diariamente melhora a capacidade cardiovascular.",
+    "correctAnswer": "Walking daily improves cardiovascular capacity.",
+    "options": [
+      "Walking daily improves cardiovascular capacity.",
+      "To walk daily improve the cardiovascular capacities.",
+      "Walking every day improve cardiovascular ability.",
+      "Daily walking improving capacities of cardiovascular."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Vacinas protegem contra diversas doenças infecciosas.",
+    "correctAnswer": "Vaccines protect against various infectious diseases.",
+    "options": [
+      "Vaccines protect against various infectious diseases.",
+      "Vaccine protects from diverse infectious disease.",
+      "Vaccinations are protecting for several infectious illnesses.",
+      "Vaccines are protectors of various diseases infection."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "O tabaco é prejudicial à saúde dos pulmões e coração.",
+    "correctAnswer": "Tobacco is harmful to the health of the lungs and heart.",
+    "options": [
+      "Tobacco is harmful to the health of the lungs and heart.",
+      "Tobacco harms health from lungs and heart.",
+      "The tobacco is prejudicial of health lungs and heart.",
+      "Tobacco damage the healthy lungs and the heart."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Consumir frutas cítricas fortalece o sistema imunológico.",
+    "correctAnswer": "Consuming citrus fruits strengthens the immune system.",
+    "options": [
+      "Consuming citrus fruits strengthens the immune system.",
+      "Consume fruits citric strengthen immune systems.",
+      "Consuming citrus fruit strengthening the immunologic system.",
+      "To consume citric fruits is strengthening immunity."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Manter um peso saudável reduz riscos de diversas patologias.",
+    "correctAnswer": "Maintaining a healthy weight reduces the risk of various diseases.",
+    "options": [
+      "Maintaining a healthy weight reduces the risk of various diseases.",
+      "Maintaining healthy weight reduce various pathologies risks.",
+      "A healthy weight maintains for reducing disease risks.",
+      "Keep weight healthy reducing diverse pathology risks."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Praticar yoga melhora a flexibilidade e o equilibrio corporal.",
+    "correctAnswer": "Practicing yoga improves flexibility and body balance.",
+    "options": [
+      "Practicing yoga improves flexibility and body balance.",
+      "To practice yoga improve flexibility and corporal balance.",
+      "Practicing yogas improve the body flexibility and equilibrium.",
+      "Yoga practice improving flexibility in bodily equilibrium."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "O colesterol alto aumenta o risco de infarto.",
+    "correctAnswer": "High cholesterol increases the risk of heart attack.",
+    "options": [
+      "High cholesterol increases the risk of heart attack.",
+      "The cholesterol high increase infarcation risks.",
+      "High cholesterol is increasing of infarction risk.",
+      "Cholesterol elevated increases risk for infarctions."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Usar protetor solar diariamente previne câncer de pele.",
+    "correctAnswer": "Using sunscreen daily prevents skin cancer.",
+    "options": [
+      "Using sunscreen daily prevents skin cancer.",
+      "Using sun protection daily prevent cancers of skin.",
+      "To use solar protector daily prevent skin malignancy.",
+      "Sunscreen use daily preventing cancerous skins."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A pressão arterial deve ser monitorada regularmente.",
+    "correctAnswer": "Blood pressure should be monitored regularly.",
+    "options": [
+      "Blood pressure should be monitored regularly.",
+      "Arterial pressure must be monitoring on regular basis.",
+      "The pressure of arteries should monitor regularly.",
+      "Blood pressures are needing regular monitoring always."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Consumir álcool em excesso causa danos ao fígado.",
+    "correctAnswer": "Consuming alcohol excessively causes liver damage.",
+    "options": [
+      "Consuming alcohol excessively causes liver damage.",
+      "Consume excessive alcohol cause damages to the liver.",
+      "Alcohol excess consumption is causing liver damages.",
+      "Excessive drinking cause liver's harmful effects."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A falta de sono afeta negativamente a cognição e o humor.",
+    "correctAnswer": "Lack of sleep negatively affects cognition and mood.",
+    "options": [
+      "Lack of sleep negatively affects cognition and mood.",
+      "Sleep absence negative affect cognition and moods.",
+      "The lacking sleep negatively affecting cognitive and humors.",
+      "Sleep deprivation negative affect moods and cognitive."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A nutrição adequada é fundamental para o desenvolvimento infantil.",
+    "correctAnswer": "Adequate nutrition is fundamental for child development.",
+    "options": [
+      "Adequate nutrition is fundamental for child development.",
+      "Nutrition adequately is essential for infantile growth.",
+      "Proper nutrients are fundamental in children's development.",
+      "Adequate feeding is fundamental to childhood developing."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A atividade física regular reduz o risco de obesidade.",
+    "correctAnswer": "Regular physical activity reduces the risk of obesity.",
+    "options": [
+      "Regular physical activity reduces the risk of obesity.",
+      "Physical activities regular reduce risks of obese.",
+      "Activity physical regularly reducing obesity risk factors.",
+      "Regular exercise reduce the obesity's risk significantly."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "O estresse crônico pode contribuir para hipertensão arterial.",
+    "correctAnswer": "Chronic stress can contribute to high blood pressure.",
+    "options": [
+      "Chronic stress can contribute to high blood pressure.",
+      "The stress chronic can contribute in arterial hypertension.",
+      "Chronic stressing contribute for high arterial pressure.",
+      "Stress chronic may contribute to blood pressure elevated."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A hidratação adequada melhora o funcionamento renal.",
+    "correctAnswer": "Proper hydration improves kidney function.",
+    "options": [
+      "Proper hydration improves kidney function.",
+      "Hydration adequately improve the kidneys functioning.",
+      "Adequate hydrating improve renal functions better.",
+      "The hydration proper is improving kidney's function."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Fibras alimentares promovem saúde digestiva e regulam intestinos.",
+    "correctAnswer": "Dietary fiber promotes digestive health and regulates bowels.",
+    "options": [
+      "Dietary fiber promotes digestive health and regulates bowels.",
+      "Fibers dietary promote health digestive and intestines regulate.",
+      "Dietary fibers promote the digestive wellness and bowel regulation.",
+      "Fiber foods promote digestion health and intestinal regulation."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A hipertensão é uma condição que deve ser controlada com medicação.",
+    "correctAnswer": "Hypertension is a condition that must be controlled with medication.",
+    "options": [
+      "Hypertension is a condition that must be controlled with medication.",
+      "Hypertension are conditions that should control with medicines.",
+      "The high blood pressure is condition must be medicating.",
+      "Hypertension is a condition to be controlled by drugs."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "O colesterol LDL é considerado prejudicial à saúde cardiovascular.",
+    "correctAnswer": "LDL cholesterol is considered harmful to cardiovascular health.",
+    "options": [
+      "LDL cholesterol is considered harmful to cardiovascular health.",
+      "Cholesterol LDL are considered prejudicial to cardiac health.",
+      "The LDL cholesterol consider harmful for cardiovascular wellness.",
+      "LDL cholesterol is seen as harmful in heart health."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A depressão é um transtorno mental que requer tratamento profissional.",
+    "correctAnswer": "Depression is a mental disorder that requires professional treatment.",
+    "options": [
+      "Depression is a mental disorder that requires professional treatment.",
+      "Depression are a mental disorder what require professional help.",
+      "Depression is a mental disturb that requiring professional treatment.",
+      "The depression are mental disorder needing professional treatments."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Manter contatos sociais favorece o bem-estar emocional.",
+    "correctAnswer": "Maintaining social contacts favors emotional well-being.",
+    "options": [
+      "Maintaining social contacts favors emotional well-being.",
+      "Maintain social contact favor the emotional wellness.",
+      "Keeping social contacts are favoring emotional well.",
+      "Social contacts maintaining favorable emotional well-being."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A osteoporose é uma doença degenerativa que fragiliza os ossos.",
+    "correctAnswer": "Osteoporosis is a degenerative disease that weakens bones.",
+    "options": [
+      "Osteoporosis is a degenerative disease that weakens bones.",
+      "Osteoporosis are disease degenerating that fragile the bones.",
+      "The osteoporosis is degenerate disease weakening bone.",
+      "Osteoporosis disease degenerative fragilizing the skeleton."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "O exercício aeróbico aumenta a resistência cardiopulmonar.",
+    "correctAnswer": "Aerobic exercise increases cardiopulmonary resistance.",
+    "options": [
+      "Aerobic exercise increases cardiopulmonary resistance.",
+      "Aerobic exercising increase the cardiopulmonary resistances.",
+      "Aerobic exercises are increasing cardiopulmonary resistency.",
+      "Exercise aerobic increase the resistance cardiopulmonary."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A falta de vitamina D causa enfraquecimento ósseo.",
+    "correctAnswer": "Lack of vitamin D causes bone weakening.",
+    "options": [
+      "Lack of vitamin D causes bone weakening.",
+      "The absence vitamin D cause the bones weakening.",
+      "Vitamin D deficiency is causing weakened bones.",
+      "The missing vitamin D cause bone weak structure."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A ansiedade pode ser reduzida através de técnicas de respiração.",
+    "correctAnswer": "Anxiety can be reduced through breathing techniques.",
+    "options": [
+      "Anxiety can be reduced through breathing techniques.",
+      "Anxiety can be reducing by techniques of breathing.",
+      "The anxiety can reduced through respiration techniques.",
+      "Breathing techniques can reduce anxious feelings."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "O diabetes tipo 2 está associado a hábitos sedentários.",
+    "correctAnswer": "Type 2 diabetes is associated with sedentary habits.",
+    "options": [
+      "Type 2 diabetes is associated with sedentary habits.",
+      "Diabetes type two are associated in sedentary lifestyle.",
+      "Type 2 diabetes is associating to sedentary conduct.",
+      "Diabetes type 2 associates to inactive way of living."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A capacidade pulmonar aumenta com treinamento cardiovascular consistente.",
+    "correctAnswer": "Lung capacity increases with consistent cardiovascular training.",
+    "options": [
+      "Lung capacity increases with consistent cardiovascular training.",
+      "Pulmonary capacity increase by consistent cardiovascular train.",
+      "The capacity lung increase in consistent training cardiovascular.",
+      "Lung capacities are increasing through consistent aerobic exercises."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A síndrome metabólica envolve múltiplos fatores de risco cardiovascular.",
+    "correctAnswer": "Metabolic syndrome involves multiple cardiovascular risk factors.",
+    "options": [
+      "Metabolic syndrome involves multiple cardiovascular risk factors.",
+      "The syndrome metabolic involve various cardiovascular risks.",
+      "Metabolic syndrome are involving multiple factor risk cardiovascular.",
+      "Metabolic syndrome encompass many cardiovascular risk in factors."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A inflamação crônica contribui para o envelhecimento precoce.",
+    "correctAnswer": "Chronic inflammation contributes to premature aging.",
+    "options": [
+      "Chronic inflammation contributes to premature aging.",
+      "Inflammation chronic contribute for premature age.",
+      "The chronic inflaming contribute in earlier aging process.",
+      "Chronical inflammation is contributing to age premature."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A apneia do sono afeta a qualidade do descanso noturno.",
+    "correctAnswer": "Sleep apnea affects the quality of nighttime rest.",
+    "options": [
+      "Sleep apnea affects the quality of nighttime rest.",
+      "Apnea of sleep affect quality of sleeping night.",
+      "Sleep apnea is affecting nighttime sleep quality.",
+      "The apnea sleeping affect the night rest quality."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "O envelhecimento saudável requer hábitos preventivos desde a juventude.",
+    "correctAnswer": "Healthy aging requires preventive habits from youth.",
+    "options": [
+      "Healthy aging requires preventive habits from youth.",
+      "Healthy age require preventive habits since youths.",
+      "The aging health require preventing habits from young age.",
+      "Healthy aging need preventive conducts starting in youth."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A resistência à insulina precede o desenvolvimento do diabetes.",
+    "correctAnswer": "Insulin resistance precedes the development of diabetes.",
+    "options": [
+      "Insulin resistance precedes the development of diabetes.",
+      "Resistance to insulin precede the develop diabetes.",
+      "The insulin resistance preceding development of diabetes.",
+      "Insulin resistant precede diabetic disease development."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A nutrigenômica estuda como alimentos influenciam a expressão gênica.",
+    "correctAnswer": "Nutrigenomics studies how foods influence gene expression.",
+    "options": [
+      "Nutrigenomics studies how foods influence gene expression.",
+      "Nutrigenomics study how foods influence genetic expression.",
+      "The nutrigenomics studies foods influencing genes expression.",
+      "Nutrigenomics examine how food influence genes expressing."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A terapia cognitivo-comportamental é eficaz para transtornos ansiosos.",
+    "correctAnswer": "Cognitive-behavioral therapy is effective for anxiety disorders.",
+    "options": [
+      "Cognitive-behavioral therapy is effective for anxiety disorders.",
+      "Cognitive-behavioral therapy are effective in anxious disorder.",
+      "The therapy cognitive-behavioral is effective for anxiety.",
+      "Cognitive-behavior therapy effective in treating anxious disorders."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "O microbioma intestinal desempenha papel crucial na imunidade.",
+    "correctAnswer": "The gut microbiome plays a crucial role in immunity.",
+    "options": [
+      "The gut microbiome plays a crucial role in immunity.",
+      "The intestinal microbiome play crucial role in immunes.",
+      "Microbiome intestinal perform crucial role in immunity.",
+      "The intestines microbes plays important role immunities."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A artrite autoimmune resulta de disfunção no sistema imunológico.",
+    "correctAnswer": "Autoimmune arthritis results from immune system dysfunction.",
+    "options": [
+      "Autoimmune arthritis results from immune system dysfunction.",
+      "Arthritis autoimmune result of immune system dysfunction.",
+      "The autoimmune arthritis resulting from immunologic dysfunction.",
+      "Autoimmune arthritis is resulting of immune system dysfunctioning."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A reabilitação pós-operatória acelera a recuperação funcional.",
+    "correctAnswer": "Postoperative rehabilitation accelerates functional recovery.",
+    "options": [
+      "Postoperative rehabilitation accelerates functional recovery.",
+      "Rehabilitation post-operative accelerate functional recover.",
+      "The post-operative rehabilitation accelerating recovery in function.",
+      "Rehabilitation after operation accelerate recover function."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Os telômeros encurtam com envelhecimento e estresse crônico.",
+    "correctAnswer": "Telomeres shorten with aging and chronic stress.",
+    "options": [
+      "Telomeres shorten with aging and chronic stress.",
+      "Telomeres are shortening in aging and stress chronic.",
+      "The telomeres shorten with age and chronic stress.",
+      "Telomeric shorten during aging and chronic stressing."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A genética predispõe, mas o estilo de vida determina resultados.",
+    "correctAnswer": "Genetics predispose, but lifestyle determines outcomes.",
+    "options": [
+      "Genetics predispose, but lifestyle determines outcomes.",
+      "Genetics predispose and lifestyle determine the result.",
+      "The genetics predispose but lifestyle determine outcomes.",
+      "Genetic predispose, however lifestyle determining the results."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A plasticidade neural permite reaprendizado após lesão cerebral.",
+    "correctAnswer": "Neural plasticity allows relearning after brain injury.",
+    "options": [
+      "Neural plasticity allows relearning after brain injury.",
+      "Plasticity neural allow relearning after brain injured.",
+      "The neural plasticity allow relearned after injury brain.",
+      "Neural plastic allow relearning in brain injuries."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A biodisponibilidade de nutrientes varia conforme forma de consumo.",
+    "correctAnswer": "Nutrient bioavailability varies depending on consumption method.",
+    "options": [
+      "Nutrient bioavailability varies depending on consumption method.",
+      "Bioavailability nutrients vary according consuming form.",
+      "The nutrient bioavailability vary in consumption forms.",
+      "Nutrients bioavailable vary on how consumption is method."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "As citocinas inflamatórias reduzem com atividade física regular.",
+    "correctAnswer": "Inflammatory cytokines reduce with regular physical activity.",
+    "options": [
+      "Inflammatory cytokines reduce with regular physical activity.",
+      "Inflammatory cytokines reduce in regular physical activity.",
+      "The inflammatory cytokine reduce with regular exercise.",
+      "Inflammatory cytokines are reducing through regular physical activity."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A homeostasia metabólica depende de múltiplos sistemas corporais integrados.",
+    "correctAnswer": "Metabolic homeostasis depends on multiple integrated body systems.",
+    "options": [
+      "Metabolic homeostasis depends on multiple integrated body systems.",
+      "Homeostasis metabolic depend in multiple systems of body.",
+      "The metabolic homeostasis depending on various body system integrated.",
+      "Metabolic homeostasis depend in many integrate body systems."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A sinalização molecular regula respostas imunológicas e inflamação.",
+    "correctAnswer": "Molecular signaling regulates immune responses and inflammation.",
+    "options": [
+      "Molecular signaling regulates immune responses and inflammation.",
+      "Signal molecular regulate response of immune and inflame.",
+      "The molecular signals regulate immune response and inflammatory.",
+      "Molecular signaling regulating the immune response and inflame."
+    ],
+    "difficulty": "medium"
+  }
+]

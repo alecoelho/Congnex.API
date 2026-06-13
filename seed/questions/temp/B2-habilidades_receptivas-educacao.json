@@ -1,0 +1,752 @@
+[
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "O professor explicou a matéria de forma clara.",
+        "correctAnswer":  "The teacher explained the subject matter clearly.",
+        "options":  [
+                        "The teacher explained the matter subject clear.",
+                        "The teacher explained the subject matter clearly.",
+                        "The teacher has explained the subject matter clear.",
+                        "The teacher was explaining the subject matter clearness."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "Os alunos precisam estudar para a prova.",
+        "correctAnswer":  "The students need to study for the exam.",
+        "options":  [
+                        "The students are needing to study for the test.",
+                        "The students need studying for the exam.",
+                        "The students need to study for the exam.",
+                        "The students need study for the proof."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "Aprender idiomas é fundamental para o mercado de trabalho.",
+        "correctAnswer":  "Learning languages is essential for the job market.",
+        "options":  [
+                        "Learning languages are essential for the work market.",
+                        "To learn languages is fundamental for the employment market.",
+                        "Learning languages is essential for the job market.",
+                        "Learn languages is fundamental to the labor market."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "A biblioteca tem muitos livros sobre história.",
+        "correctAnswer":  "The library has many books about history.",
+        "options":  [
+                        "The library is having many books concerning history.",
+                        "The library has many books about the history.",
+                        "The library has many books about history.",
+                        "The library has much books about history."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "O aluno completou seu trabalho de pesquisa ontem.",
+        "correctAnswer":  "The student completed his research project yesterday.",
+        "options":  [
+                        "The student completed his search project yesterday.",
+                        "The student has completed his research work yesterday.",
+                        "The student completed his research project yesterday.",
+                        "The student did complete his research yesterday."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "Fazer anotações durante a aula ajuda a memorizar.",
+        "correctAnswer":  "Taking notes during class helps to memorize.",
+        "options":  [
+                        "To take notes during the class helps memorizing.",
+                        "Making notes during class helps memorization.",
+                        "Taking notes during class helps to memorize.",
+                        "Taking annotations in class aids the memory."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "Os professores são responsáveis pela educação das crianças.",
+        "correctAnswer":  "Teachers are responsible for children\u0027s education.",
+        "options":  [
+                        "Teachers are responsible for the education of children.",
+                        "Teachers are responsible for the education of the children.",
+                        "Teachers are responsible for children\u0027s education.",
+                        "Teachers are responsible about children\u0027s education."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "A universidade oferece vários cursos de graduação.",
+        "correctAnswer":  "The university offers several undergraduate programs.",
+        "options":  [
+                        "The university is offering several programs of graduation.",
+                        "The university offers some graduation courses.",
+                        "The university offers several undergraduate programs.",
+                        "The university provides many programs of graduate."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "O ensino a distância permite estudar em casa.",
+        "correctAnswer":  "Distance learning allows studying at home.",
+        "options":  [
+                        "The distant teaching permits to study at home.",
+                        "Distance learning allows to study at home.",
+                        "Distance learning allows studying at home.",
+                        "Learning at distance lets study in the home."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "Os exames finais são realizados no fim do semestre.",
+        "correctAnswer":  "Final exams are held at the end of the semester.",
+        "options":  [
+                        "The final exams are made at the semester\u0027s end.",
+                        "Final exams are held at the end of semester.",
+                        "Final exams are held at the end of the semester.",
+                        "Final examinations take place in the finishing of semester."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "O aluno pode revisar o material antes da aula.",
+        "correctAnswer":  "The student can review the material before class.",
+        "options":  [
+                        "The student may revise the material before the class.",
+                        "The student can review the material before class.",
+                        "The student is able to review materials before lessons.",
+                        "The learner can examine the stuff before the lesson."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "A dedicação nos estudos leva ao sucesso acadêmico.",
+        "correctAnswer":  "Dedication to studying leads to academic success.",
+        "options":  [
+                        "The commitment with studies brings academic achievement.",
+                        "Dedication in studies leads to academic success.",
+                        "Being dedicated to study creates academic success.",
+                        "Dedication to studying leads to academic success."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "Os alunos devem participar ativamente nas discussões de classe.",
+        "correctAnswer":  "Students should actively participate in class discussions.",
+        "options":  [
+                        "The students have to take part actively in class talks.",
+                        "Students must participate actively in classroom debates.",
+                        "Students should actively participate in class discussions.",
+                        "Learners ought to be active in classroom conversations."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "O currículo escolar deve desenvolver habilidades críticas nos alunos.",
+        "correctAnswer":  "The school curriculum should develop critical thinking skills in students.",
+        "options":  [
+                        "The scholastic curriculum must develop critical abilities in the students.",
+                        "The school curriculum should develop critical thinking skills in students.",
+                        "The educational curriculum needs to develop critic skills among students.",
+                        "The school timetable should develop critical thinking ability on students."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "É importante que os alunos participem de atividades extracurriculares.",
+        "correctAnswer":  "It is important that students participate in extracurricular activities.",
+        "options":  [
+                        "It\u0027s important that the students participate in the extracurricular activities.",
+                        "It is important that students participate in extracurricular activities.",
+                        "It is necessary that students take part in extracurricular works.",
+                        "Students should participate in outside-the-curriculum activities, it is important."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "A alfabetização digital é essencial na educação moderna.",
+        "correctAnswer":  "Digital literacy is essential in modern education.",
+        "options":  [
+                        "The digital alphabetization is essential in the modern teaching.",
+                        "Digital literacy is essential in modern education.",
+                        "Literacy of digital is essential to contemporary education.",
+                        "The ability to use digital tools is fundamentally necessary in education."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "Os bolsistas recebem ajuda financeira para estudar.",
+        "correctAnswer":  "Scholarship holders receive financial aid to study.",
+        "options":  [
+                        "The scholarship people receive financial help for studying.",
+                        "Scholarship holders receive financial aid to study.",
+                        "Students with scholarships have money support to learn.",
+                        "Scholars get financial assistance for their studying."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "A avaliação contínua permite acompanhar o progresso do aluno.",
+        "correctAnswer":  "Continuous assessment allows tracking student progress.",
+        "options":  [
+                        "The continuous evaluation lets follow the student\u0027s advance.",
+                        "Continuous assessment allows tracking student progress.",
+                        "Ongoing evaluation makes it possible to monitor students\u0027 development.",
+                        "The continual assessment enables to watch the learner\u0027s advancement."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "As metodologias de ensino devem ser atualizadas constantemente.",
+        "correctAnswer":  "Teaching methodologies should be constantly updated.",
+        "options":  [
+                        "The teaching methodologies must be always renovated.",
+                        "Teaching methods should be continuously updated.",
+                        "The methods of teaching ought to be constantly refreshed.",
+                        "Teaching methodologies should be constantly updated."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "O feedback do professor é crucial para o aprendizado.",
+        "correctAnswer":  "Teacher feedback is crucial for learning.",
+        "options":  [
+                        "The teacher\u0027s comments are essential to the learning process.",
+                        "The feedback from the teacher is crucial for learning.",
+                        "Teacher feedback is crucial for learning.",
+                        "Comments from teachers play a critical role in how students learn."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "A educação inclusiva garante acesso a todos os alunos.",
+        "correctAnswer":  "Inclusive education ensures access for all students.",
+        "options":  [
+                        "The inclusive teaching guarantees the access to all learners.",
+                        "Inclusive education ensures access for all students.",
+                        "Inclusive learning protects that everyone can attend school.",
+                        "The education that includes all ensures accessibility to every student."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "Os tutores oferecem aulas particulares para alunos com dificuldades.",
+        "correctAnswer":  "Tutors offer private lessons to struggling students.",
+        "options":  [
+                        "The tutors propose individual classes to difficult students.",
+                        "Tutors offer private lessons to students with difficulties.",
+                        "The teachers give private classes to students in trouble.",
+                        "Tutors offer private lessons to struggling students."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "A sala de aula moderna integra recursos tecnológicos diversificados.",
+        "correctAnswer":  "The modern classroom integrates diverse technological resources.",
+        "options":  [
+                        "The modern classroom combines varied technology resources.",
+                        "The contemporary class integrates different technological tools and materials.",
+                        "The modern classroom integrates diverse technological resources.",
+                        "Today\u0027s classrooms use a variety of technology in teaching."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "Os professores precisam estabelecer relacionamentos respeitosos com os alunos.",
+        "correctAnswer":  "Teachers need to establish respectful relationships with students.",
+        "options":  [
+                        "Teachers must set up respectful connections among students.",
+                        "Teachers should create respectful bonds with their learners.",
+                        "Teachers need to establish respectful relationships with students.",
+                        "Teachers need to make respectful relationships happen with pupils."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "A interdisciplinaridade enriquece a experiência educacional dos alunos.",
+        "correctAnswer":  "Interdisciplinarity enriches students\u0027 educational experience.",
+        "options":  [
+                        "The interdisciplinary approach makes richer the educational experience of students.",
+                        "Interdisciplinarity enriches the student\u0027s education experience.",
+                        "The connection between disciplines enriches how students learn.",
+                        "Interdisciplinarity enriches students\u0027 educational experience."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "O ensino baseado em competências prepara alunos para o mundo real.",
+        "correctAnswer":  "Competency-based learning prepares students for the real world.",
+        "options":  [
+                        "The education based in competencies prepares learners to real world.",
+                        "Teaching based on skills prepares students for real life.",
+                        "The instruction founded on competence prepares students for reality.",
+                        "Competency-based learning prepares students for the real world."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "A pedagogia construtivista valoriza o pensamento crítico e a criatividade.",
+        "correctAnswer":  "Constructivist pedagogy values critical thinking and creativity.",
+        "options":  [
+                        "The constructivist pedagogy appreciates critical thought and the creation.",
+                        "Constructivist teaching appreciates critical thinking and creative ability.",
+                        "The pedagogy that constructs values critical thought and innovation.",
+                        "Constructivist pedagogy values critical thinking and creativity."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "A evasão escolar é um problema que afeta a qualidade da educação.",
+        "correctAnswer":  "School dropout is a problem that affects the quality of education.",
+        "options":  [
+                        "The school evasion is a problem that impacts education quality.",
+                        "School truancy is a challenge affecting education standards.",
+                        "Students leaving school is a problem affecting educational quality.",
+                        "School dropout is a problem that affects the quality of education."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "Os planos educacionais devem considerar as diferenças individuais dos alunos.",
+        "correctAnswer":  "Educational plans should consider students\u0027 individual differences.",
+        "options":  [
+                        "The educational strategies must take into account the individual differences of learners.",
+                        "Education plans should consider the individual diversity of students.",
+                        "Educational plans should consider students\u0027 individual differences.",
+                        "The plans for education have to think about how different each student is."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "A formação continuada de professores é fundamental para a melhoria educacional.",
+        "correctAnswer":  "Ongoing teacher training is fundamental for educational improvement.",
+        "options":  [
+                        "The continued formation of teachers is basic to the improvement of education.",
+                        "Continuous teacher development is essential for improving education.",
+                        "Teachers\u0027 continuous education is crucial to educational enhancement.",
+                        "Ongoing teacher training is fundamental for educational improvement."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "A gamificação pode aumentar o engajamento dos alunos em sala de aula.",
+        "correctAnswer":  "Gamification can increase student engagement in the classroom.",
+        "options":  [
+                        "The gamification could rise the students\u0027 involvement in class.",
+                        "Gamifying can boost how much students participate in lessons.",
+                        "Using games in teaching can increase how engaged students are in lessons.",
+                        "Gamification can increase student engagement in the classroom."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "A aprendizagem colaborativa promove desenvolvimento social e cognitivo.",
+        "correctAnswer":  "Collaborative learning promotes social and cognitive development.",
+        "options":  [
+                        "The learning together promotes the social and thinking development.",
+                        "Cooperative learning encourages social development and thinking ability.",
+                        "Collaborative learning promotes social and cognitive development.",
+                        "When students work together, it helps their social skills and intelligence."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "A adaptação curricular garante igualdade de oportunidades educacionais.",
+        "correctAnswer":  "Curriculum adaptation ensures equal educational opportunities.",
+        "options":  [
+                        "The adaptation of curriculum assures the equality of learning chances.",
+                        "Adapting the syllabus provides equal access to education for everyone.",
+                        "The customization of curriculum guarantees educational equality of opportunity.",
+                        "Curriculum adaptation ensures equal educational opportunities."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "O desenvolvimento de soft skills é tão importante quanto o conhecimento técnico.",
+        "correctAnswer":  "Developing soft skills is as important as technical knowledge.",
+        "options":  [
+                        "The development of soft abilities is equally important as the technical learning.",
+                        "Soft skills development is equally significant as having technical know-how.",
+                        "To develop interpersonal skills matters as much as having technical expertise.",
+                        "Developing soft skills is as important as technical knowledge."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "Os estudantes deveriam ter autonomia para escolher seus próprios projetos.",
+        "correctAnswer":  "Students should have autonomy to choose their own projects.",
+        "options":  [
+                        "The learners ought to have the freedom choosing their projects.",
+                        "Students should be able to choose independently what projects they work on.",
+                        "The students must have independence to select their own work initiatives.",
+                        "Students should have autonomy to choose their own projects."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "A educação financeira desde cedo prepara os jovens para decisões futuras.",
+        "correctAnswer":  "Early financial education prepares young people for future decisions.",
+        "options":  [
+                        "Teaching about money from the beginning prepares youth for later choices.",
+                        "Financial literacy early in life readies youngsters for subsequent decisions.",
+                        "The teaching of money matters from young age prepares future decisions.",
+                        "Early financial education prepares young people for future decisions."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "A diversidade cultural na sala de aula enriquece o aprendizado coletivo.",
+        "correctAnswer":  "Cultural diversity in the classroom enriches collective learning.",
+        "options":  [
+                        "The cultural variety in class makes the common learning richer.",
+                        "Different cultures represented in schools improve how everyone learns together.",
+                        "The presence of multiple cultures in the classroom increases shared learning.",
+                        "Cultural diversity in the classroom enriches collective learning."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "O professor deve reconhecer e validar as experiências prévias dos alunos.",
+        "correctAnswer":  "Teachers should recognize and validate students\u0027 prior experiences.",
+        "options":  [
+                        "The educator has to acknowledge the backgrounds of learners and make them feel respected.",
+                        "Teachers must take seriously the things students have experienced before learning.",
+                        "Teachers need to recognize and validate what students already know from experience.",
+                        "Teachers should recognize and validate students\u0027 prior experiences."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "A transição entre níveis escolares requer apoio psicopedagógico adequado.",
+        "correctAnswer":  "Transition between school levels requires adequate psychopedagogical support.",
+        "options":  [
+                        "The changing from one school level to another needs proper psychological educational help.",
+                        "Moving between different school grades needs appropriate educational and psychological support.",
+                        "When students move to different school levels, they need proper psycho-educational assistance.",
+                        "Transition between school levels requires adequate psychopedagogical support."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "A educação ambiental desenvolve consciência sobre sustentabilidade.",
+        "correctAnswer":  "Environmental education develops awareness about sustainability.",
+        "options":  [
+                        "The education about environment creates consciousness of responsible living.",
+                        "Teaching about nature and ecology raises awareness for ecological responsibility.",
+                        "Education in environmental matters creates understanding of sustainable practices.",
+                        "Environmental education develops awareness about sustainability."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "A motivação intrínseca é mais eficaz que a motivação extrínseca.",
+        "correctAnswer":  "Intrinsic motivation is more effective than extrinsic motivation.",
+        "options":  [
+                        "The internal motivation is more efficient than the external motivation.",
+                        "Intrinsic motivation is more effective than extrinsic motivation.",
+                        "Motivation that comes from inside works better than outside rewards.",
+                        "Internal drive to learn is better than outside motivation."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "A metacognição ajuda o aluno a refletir sobre seu próprio processo de aprendizagem.",
+        "correctAnswer":  "Metacognition helps students reflect on their own learning process.",
+        "options":  [
+                        "The thinking about thinking helps learners to think about how they learn.",
+                        "Metacognition assists students to think about their learning methods.",
+                        "The ability to think about one\u0027s own thinking helps in learning.",
+                        "Metacognition helps students reflect on their own learning process."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "O pensamento crítico é uma habilidade essencial na educação contemporânea.",
+        "correctAnswer":  "Critical thinking is an essential skill in contemporary education.",
+        "options":  [
+                        "The critical thought is a fundamental ability in modern teaching.",
+                        "Analytical thinking is crucial for today\u0027s educational settings.",
+                        "Critical thinking is an essential skill in contemporary education.",
+                        "The ability to think critically is very important in current education."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "O currículo deve ser flexível para atender diferentes necessidades de aprendizagem.",
+        "correctAnswer":  "The curriculum should be flexible to meet different learning needs.",
+        "options":  [
+                        "The curriculum must be flexible for attending to different learning requirements.",
+                        "The curriculum should be flexible to meet different learning needs.",
+                        "The curriculum ought to adapt for many kinds of student learning.",
+                        "The flexible curriculum must to meet all learning requirements."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "A promoção de hábitos de leitura contribui para o desenvolvimento intelectual.",
+        "correctAnswer":  "Promoting reading habits contributes to intellectual development.",
+        "options":  [
+                        "The promotion of reading habits contribute to intellectual development.",
+                        "Promoting reading habits contributes to intellectual development.",
+                        "Encouraging people to read helps in the development of intelligence.",
+                        "The reading habits promotion helps intellectual growth happen."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "A qualidade das infraestruturas escolares afeta o desempenho dos alunos.",
+        "correctAnswer":  "The quality of school infrastructure affects student performance.",
+        "options":  [
+                        "The quality of school facilities affect the students\u0027 performance.",
+                        "School infrastructure quality impacts how students perform.",
+                        "The quality of school infrastructure affects student performance.",
+                        "The condition of school buildings influences the student\u0027s grades."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "A inteligência emocional é fundamental para o sucesso na vida profissional.",
+        "correctAnswer":  "Emotional intelligence is fundamental for success in professional life.",
+        "options":  [
+                        "The emotional intelligence is fundamental to professional success in the life.",
+                        "Emotional intelligence is fundamental for success in professional life.",
+                        "Managing emotions is essential for doing well at work.",
+                        "The ability to understand feelings is basic for job success."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "A avaliação formativa oferece informações para melhorar o ensino e aprendizagem.",
+        "correctAnswer":  "Formative assessment provides information to improve teaching and learning.",
+        "options":  [
+                        "The formative evaluation offers information to improve the teaching and learning.",
+                        "Formative assessment provides information to improve teaching and learning.",
+                        "Evaluations that form students give data for better lessons.",
+                        "Assessment that forms learning provides ways to improve both teaching and study."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "O engajamento parental é crucial para o desempenho acadêmico das crianças.",
+        "correctAnswer":  "Parental engagement is crucial for children\u0027s academic performance.",
+        "options":  [
+                        "The parental involvement is crucial to the children\u0027s academic performance.",
+                        "Parent participation is crucial for children\u0027s school performance.",
+                        "The engagement of parents is essential for academic success of children.",
+                        "Parental engagement is crucial for children\u0027s academic performance."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "educacao",
+        "type":  "translation",
+        "questionText":  "A educação baseada em projetos desenvolve habilidades práticas e teóricas.",
+        "correctAnswer":  "Project-based education develops practical and theoretical skills.",
+        "options":  [
+                        "The education based in projects develops practical and theory skills.",
+                        "Learning through projects helps develop practical and theoretical abilities.",
+                        "Project-based education develops practical and theoretical skills.",
+                        "When students do projects they learn both hands-on and mind-on skills."
+                    ],
+        "difficulty":  "hard"
+    }
+]

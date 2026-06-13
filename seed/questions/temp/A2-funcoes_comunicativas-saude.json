@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Você tem dor de cabeça e pergunta a um amigo se ele tem alguma coisa para aliviar.",
+        "correctAnswer":  "Do you have anything for a headache?",
+        "options":  [
+                        "Do you have anything for a headache?",
+                        "What headache do you have?",
+                        "Can you hurt your head?",
+                        "Do you like headaches?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Um amigo está tossindo muito. Como você expressa preocupação?",
+        "correctAnswer":  "Are you okay? You\u0027re coughing a lot.",
+        "options":  [
+                        "Are you okay? You\u0027re coughing a lot.",
+                        "You cough very strange.",
+                        "I like your cough.",
+                        "Why do you cough?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Seu colega de trabalho parece cansado. Como você pergunta sobre sua saúde?",
+        "correctAnswer":  "Are you feeling tired? Do you need a break?",
+        "options":  [
+                        "Are you feeling tired? Do you need a break?",
+                        "You look very tired today.",
+                        "Why are you always tired?",
+                        "Do you like to be tired?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Como você diz a alguém que vai ao consultório médico?",
+        "correctAnswer":  "I\u0027m going to see the doctor.",
+        "options":  [
+                        "I\u0027m going to see the doctor.",
+                        "I\u0027m going with the doctor.",
+                        "The doctor is going.",
+                        "I like the doctor."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Um amigo está resfriado. Como você oferece ajuda?",
+        "correctAnswer":  "I can get you some medicine.",
+        "options":  [
+                        "I can get you some medicine.",
+                        "You have a cold always.",
+                        "Colds are good.",
+                        "Do you like colds?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Como você pergunta se alguém tem alergia?",
+        "correctAnswer":  "Do you have any allergies?",
+        "options":  [
+                        "Do you have any allergies?",
+                        "What allergies are you?",
+                        "Can you be allergic?",
+                        "Do you like allergies?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Seu amigo está pálido. Como você expressa preocupação?",
+        "correctAnswer":  "You don\u0027t look well. Are you feeling okay?",
+        "options":  [
+                        "You don\u0027t look well. Are you feeling okay?",
+                        "You are very pale.",
+                        "I like your color.",
+                        "Why are you pale?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Como você recomenda que alguém durma mais?",
+        "correctAnswer":  "You should get more sleep.",
+        "options":  [
+                        "You should get more sleep.",
+                        "Sleep is very good.",
+                        "Do you like to sleep?",
+                        "Why don\u0027t you sleep?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Um colega se machucou. Como você pergunta o que aconteceu?",
+        "correctAnswer":  "What happened? Are you hurt?",
+        "options":  [
+                        "What happened? Are you hurt?",
+                        "You are hurt very much.",
+                        "I like your hurt.",
+                        "Why do you hurt?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Como você diz que precisa relaxar?",
+        "correctAnswer":  "I need to relax and take it easy.",
+        "options":  [
+                        "I need to relax and take it easy.",
+                        "Relaxing is good.",
+                        "Do you like to relax?",
+                        "Why do I relax?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Um amigo está com febre. Como você oferece água?",
+        "correctAnswer":  "You should drink some water.",
+        "options":  [
+                        "You should drink some water.",
+                        "Water is very good.",
+                        "Do you like water?",
+                        "Why don\u0027t you drink?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Como você pergunta se alguém faz exercício regularmente?",
+        "correctAnswer":  "Do you exercise regularly?",
+        "options":  [
+                        "Do you exercise regularly?",
+                        "Exercise is very good.",
+                        "What exercise do you like?",
+                        "Why don\u0027t you exercise?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Um amigo diz que está com dor nas costas. Como você responde?",
+        "correctAnswer":  "That\u0027s too bad. I hope you feel better soon.",
+        "options":  [
+                        "That\u0027s too bad. I hope you feel better soon.",
+                        "Back pain is good.",
+                        "Do you like back pain?",
+                        "Why do you have pain?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Como você oferece assistência a alguém que está doente em casa?",
+        "correctAnswer":  "Can I bring you anything?",
+        "options":  [
+                        "Can I bring you anything?",
+                        "You are very sick.",
+                        "I like your sickness.",
+                        "Why are you sick?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Um colega fala sobre sua dieta. Como você pergunta se ele come saudável?",
+        "correctAnswer":  "Do you eat healthy food?",
+        "options":  [
+                        "Do you eat healthy food?",
+                        "Food is very good.",
+                        "What food do you like?",
+                        "Why do you eat?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Um amigo está vomitando. Como você oferece ajuda?",
+        "correctAnswer":  "Do you want me to call a doctor?",
+        "options":  [
+                        "Do you want me to call a doctor?",
+                        "Vomiting is normal.",
+                        "Do you like vomiting?",
+                        "Why are you vomiting?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Um amigo está com tonturas. Como você recomenda ação?",
+        "correctAnswer":  "You should lie down and see a doctor if it continues.",
+        "options":  [
+                        "You should lie down and see a doctor if it continues.",
+                        "Dizziness is normal.",
+                        "Do you like dizziness?",
+                        "Why do you feel dizzy?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer entender melhor os sintomas de um amigo. O que diz?",
+        "correctAnswer":  "Can you describe your symptoms?",
+        "options":  [
+                        "Can you describe your symptoms?",
+                        "Symptoms are very bad.",
+                        "Do you have symptoms?",
+                        "Why do you have symptoms?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Um amigo menciona que tem insônia. Como você responde com empatia?",
+        "correctAnswer":  "That sounds really difficult. Have you tried talking to a doctor?",
+        "options":  [
+                        "That sounds really difficult. Have you tried talking to a doctor?",
+                        "Insomnia is good.",
+                        "Do you like insomnia?",
+                        "Why don\u0027t you sleep?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Um colega está com uma lesão. Como você pergunta há quanto tempo?",
+        "correctAnswer":  "How long have you had this injury?",
+        "options":  [
+                        "How long have you had this injury?",
+                        "Your injury is very old.",
+                        "Do you like injuries?",
+                        "Why do you have it?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Um amigo diz que está estressado. Como você oferece apoio?",
+        "correctAnswer":  "Would you like to talk about it? I\u0027m here to listen.",
+        "options":  [
+                        "Would you like to talk about it? I\u0027m here to listen.",
+                        "Stress is very good.",
+                        "Do you like stress?",
+                        "Why are you stressed?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Como você pergunta a um amigo sobre sua pressão arterial?",
+        "correctAnswer":  "Have you had your blood pressure checked recently?",
+        "options":  [
+                        "Have you had your blood pressure checked recently?",
+                        "Blood pressure is important.",
+                        "Do you like blood pressure?",
+                        "Why do you check?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Um amigo está com problemas de digestão. Como você oferece conselhos?",
+        "correctAnswer":  "You should eat lighter meals and drink plenty of water.",
+        "options":  [
+                        "You should eat lighter meals and drink plenty of water.",
+                        "Digestion is very good.",
+                        "Do you like digestion?",
+                        "Why do you digest?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Como você pergunta se alguém toma medicamentos regularmente?",
+        "correctAnswer":  "Do you take any medications?",
+        "options":  [
+                        "Do you take any medications?",
+                        "Medications are very good.",
+                        "What medications do you like?",
+                        "Why do you take medicine?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Um colega diz que tem enxaqueca frequente. Como você responde?",
+        "correctAnswer":  "That must be really painful. Have you seen a specialist?",
+        "options":  [
+                        "That must be really painful. Have you seen a specialist?",
+                        "Migraines are good.",
+                        "Do you like migraines?",
+                        "Why do you have them?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Um amigo está recuperando-se de uma cirurgia. Como você oferece apoio?",
+        "correctAnswer":  "Take care of yourself. Let me know if you need anything.",
+        "options":  [
+                        "Take care of yourself. Let me know if you need anything.",
+                        "Surgery is very good.",
+                        "Do you like surgery?",
+                        "Why did you have it?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Como você recomenda a alguém que visite um oftalmologista?",
+        "correctAnswer":  "I think you should see an eye doctor soon.",
+        "options":  [
+                        "I think you should see an eye doctor soon.",
+                        "Eyes are very important.",
+                        "Do you like eyes?",
+                        "Why do you see?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Um amigo menciona problemas de pele. Como você responde?",
+        "correctAnswer":  "You should consult with a dermatologist about that.",
+        "options":  [
+                        "You should consult with a dermatologist about that.",
+                        "Skin problems are good.",
+                        "Do you like skin?",
+                        "Why do you have problems?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Como você pergunta sobre o histórico médico de alguém?",
+        "correctAnswer":  "Do you have any serious health problems in your family?",
+        "options":  [
+                        "Do you have any serious health problems in your family?",
+                        "Health is very important.",
+                        "What health do you like?",
+                        "Why are you healthy?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Um colega está com sintomas de gripe. Como você sugere cuidados?",
+        "correctAnswer":  "Get some rest and try to stay warm.",
+        "options":  [
+                        "Get some rest and try to stay warm.",
+                        "Flu is very good.",
+                        "Do you like flu?",
+                        "Why do you have it?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Um amigo diz que se machucou jogando esporte. Como você reage?",
+        "correctAnswer":  "Oh no! How bad is the injury? Do you need help?",
+        "options":  [
+                        "Oh no! How bad is the injury? Do you need help?",
+                        "Sports are very good.",
+                        "Do you like sports?",
+                        "Why do you play?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Um colega se queixa de dor de garganta. Como você responde?",
+        "correctAnswer":  "You should get some throat lozenges and see a doctor if it gets worse.",
+        "options":  [
+                        "You should get some throat lozenges and see a doctor if it gets worse.",
+                        "Sore throats are good.",
+                        "Do you like sore throats?",
+                        "Why does your throat hurt?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Um amigo menciona ganho de peso. Como você o apoia?",
+        "correctAnswer":  "Would you like to try healthy eating and exercise together?",
+        "options":  [
+                        "Would you like to try healthy eating and exercise together?",
+                        "Weight gain is good.",
+                        "Do you like gaining weight?",
+                        "Why are you gaining weight?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Um paciente precisa descrever seus sintomas ao médico. O que ele diz?",
+        "correctAnswer":  "I\u0027ve been feeling unwell for the past few days with a sore throat and fever.",
+        "options":  [
+                        "I\u0027ve been feeling unwell for the past few days with a sore throat and fever.",
+                        "I feel good always.",
+                        "Fever is nice.",
+                        "Why am I sick?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Um dentista pergunta sobre hábitos de higiene. Como você responde adequadamente?",
+        "correctAnswer":  "I brush my teeth twice a day and floss regularly.",
+        "options":  [
+                        "I brush my teeth twice a day and floss regularly.",
+                        "Teeth are very good.",
+                        "Do you like teeth?",
+                        "Why do you have them?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Um amigo está considerando uma dieta. Como você oferece conselhos realistas?",
+        "correctAnswer":  "Before starting any diet, it\u0027s important to consult with a nutritionist.",
+        "options":  [
+                        "Before starting any diet, it\u0027s important to consult with a nutritionist.",
+                        "Diets are always good.",
+                        "Do you like diets?",
+                        "Why do you diet?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Um colega menciona que tem ansiedade. Como você oferece ajuda informada?",
+        "correctAnswer":  "Have you considered speaking with a mental health professional about your concerns?",
+        "options":  [
+                        "Have you considered speaking with a mental health professional about your concerns?",
+                        "Anxiety is good.",
+                        "Do you like anxiety?",
+                        "Why are you anxious?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Um amigo está preocupado com ganho de peso. Como você oferece sugestões construtivas?",
+        "correctAnswer":  "Perhaps we could go for walks together and support each other\u0027s health goals.",
+        "options":  [
+                        "Perhaps we could go for walks together and support each other\u0027s health goals.",
+                        "Weight is not important.",
+                        "Do you like weight?",
+                        "Why are you worried?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Um paciente precisa explicar uma reação alérgica ao farmacêutico. O que diz?",
+        "correctAnswer":  "I had a reaction to this medication last time - I got a rash and felt dizzy.",
+        "options":  [
+                        "I had a reaction to this medication last time - I got a rash and felt dizzy.",
+                        "Medication is good.",
+                        "Do you like medicine?",
+                        "Why do you react?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Um colega está estressado com trabalho. Como você oferece orientação prática?",
+        "correctAnswer":  "It might help to set boundaries and take regular breaks during your workday.",
+        "options":  [
+                        "It might help to set boundaries and take regular breaks during your workday.",
+                        "Work is always good.",
+                        "Do you like work?",
+                        "Why are you working?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Um amigo quer perder peso de forma saudável. Como você responde?",
+        "correctAnswer":  "You should focus on eating balanced meals and exercising regularly instead of extreme diets.",
+        "options":  [
+                        "You should focus on eating balanced meals and exercising regularly instead of extreme diets.",
+                        "Diets always work.",
+                        "Do you like exercise?",
+                        "Why lose weight?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Um paciente precisa descrever cronologia de sintomas ao médico. O que diz?",
+        "correctAnswer":  "The pain started about a week ago and has been getting worse each day.",
+        "options":  [
+                        "The pain started about a week ago and has been getting worse each day.",
+                        "Pain is good.",
+                        "Do you like pain?",
+                        "Why do you hurt?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Um colega com diabetes pergunta sobre restaurantes. Como você ajuda?",
+        "correctAnswer":  "Let me help you choose something that fits your dietary requirements.",
+        "options":  [
+                        "Let me help you choose something that fits your dietary requirements.",
+                        "Food is always good.",
+                        "Do you like restaurants?",
+                        "Why are you diabetic?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Um amigo está recuperando da lesão esportiva. Como você oferece suporte constante?",
+        "correctAnswer":  "This recovery process will take time, but I\u0027ll support you throughout your rehabilitation.",
+        "options":  [
+                        "This recovery process will take time, but I\u0027ll support you throughout your rehabilitation.",
+                        "Recovery is fast.",
+                        "Do you like injuries?",
+                        "Why recover?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Um paciente precisa comunicar problemas de sono ao terapeuta. O que diz?",
+        "correctAnswer":  "I have difficulty falling asleep and often wake up multiple times during the night.",
+        "options":  [
+                        "I have difficulty falling asleep and often wake up multiple times during the night.",
+                        "Sleep is always good.",
+                        "Do you like nights?",
+                        "Why sleep?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Um colega experimenta sintomas após mudança de medicamento. Como você responde?",
+        "correctAnswer":  "You should contact your doctor immediately to report these new symptoms.",
+        "options":  [
+                        "You should contact your doctor immediately to report these new symptoms.",
+                        "Symptoms are normal.",
+                        "Do you like changes?",
+                        "Why report?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Um amigo com fobia está procurando apoio. Como você responde de forma sensível?",
+        "correctAnswer":  "I understand it\u0027s frightening. A therapist specializing in phobias might really help you.",
+        "options":  [
+                        "I understand it\u0027s frightening. A therapist specializing in phobias might really help you.",
+                        "Phobias are good.",
+                        "Do you like fear?",
+                        "Why are you scared?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Um paciente precisa descrever efeitos colaterais de medicamento. O que diz?",
+        "correctAnswer":  "Since taking this medication, I\u0027ve experienced headaches and nausea in the mornings.",
+        "options":  [
+                        "Since taking this medication, I\u0027ve experienced headaches and nausea in the mornings.",
+                        "Medicine is always good.",
+                        "Do you like mornings?",
+                        "Why take medicine?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Um colega com histórico de problemas cardíacos quer começar exercícios. Como você reage?",
+        "correctAnswer":  "That\u0027s great, but please get clearance from your cardiologist first.",
+        "options":  [
+                        "That\u0027s great, but please get clearance from your cardiologist first.",
+                        "Exercise is always safe.",
+                        "Do you like hearts?",
+                        "Why exercise?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Um amigo com depressão menciona se isolar. Como você oferece ajuda perspicaz?",
+        "correctAnswer":  "I\u0027m concerned about you isolating yourself. Please reach out for professional help or call me anytime.",
+        "options":  [
+                        "I\u0027m concerned about you isolating yourself. Please reach out for professional help or call me anytime.",
+                        "Isolation is good.",
+                        "Do you like being alone?",
+                        "Why isolate?"
+                    ],
+        "difficulty":  "medium"
+    }
+]

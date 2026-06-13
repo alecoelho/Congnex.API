@@ -1,0 +1,502 @@
+[
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "A escola tem muitos alunos.",
+    "correctAnswer": "The school has many students.",
+    "options": ["The school is many students.", "The school has many pupils.", "The school does have many students.", "The school to have many students."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Eu estudo matemática na escola.",
+    "correctAnswer": "I study mathematics at school.",
+    "options": ["I study the mathematics in school.", "I am study mathematics in school.", "I study to mathematics at school.", "I studies mathematics at school."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "O professor explica a lição.",
+    "correctAnswer": "The teacher explains the lesson.",
+    "options": ["The teacher is explain the lesson.", "The teacher explains to lesson.", "The teacher does explain lesson.", "The teacher explanation the lesson."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "As aulas começam às oito horas.",
+    "correctAnswer": "The classes start at eight o'clock.",
+    "options": ["The classes starts at eight.", "The class begins in eight o'clock.", "The classes are starting at eight hours.", "The classes begin eight o'clock."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Tenho uma caneta na mochila.",
+    "correctAnswer": "I have a pen in my backpack.",
+    "options": ["I have one pen in my bag.", "I have a pen on my backpack.", "I have a pen in the backpack.", "I am have a pen in my backpack."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Ela gosta de ler livros.",
+    "correctAnswer": "She likes to read books.",
+    "options": ["She likes reading books.", "She like to read books.", "She does like to read books.", "She is like reading books."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "O aluno faz a tarefa de casa.",
+    "correctAnswer": "The student does his homework.",
+    "options": ["The student makes the homework.", "The student does his home task.", "The student makes homework of home.", "The student is doing homework."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Nós aprendemos inglês todos os dias.",
+    "correctAnswer": "We learn English every day.",
+    "options": ["We are learning English all days.", "We learns English in every day.", "We learn the English daily.", "We are learn English every day."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "A biblioteca fica perto da escola.",
+    "correctAnswer": "The library is near the school.",
+    "options": ["The library stays near of school.", "The library is next to the school.", "The library lay near school.", "The library does near the school."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Eles escrevem no quadro.",
+    "correctAnswer": "They write on the board.",
+    "options": ["They are writing in the board.", "They write in board.", "They writes on board.", "They do write on the board."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Tu tens um dicionário?",
+    "correctAnswer": "Do you have a dictionary?",
+    "options": ["Have you a dictionary?", "You are having a dictionary?", "Do you have dictionary?", "You do have a dictionary?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Preciso de ajuda com o trabalho.",
+    "correctAnswer": "I need help with the work.",
+    "options": ["I need help in the work.", "I need of help with work.", "I need help for the work.", "I am need help with the work."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Vocês entendem a matéria?",
+    "correctAnswer": "Do you understand the subject?",
+    "options": ["You understand the subject?", "Are you understand the subject?", "Do you understand subject?", "You are understanding the subject?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "A prova é muito difícil.",
+    "correctAnswer": "The exam is very difficult.",
+    "options": ["The exam is very hard.", "The proof is very difficult.", "The test is difficult very.", "The exam very is difficult."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Os alunos levantam as mãos para responder.",
+    "correctAnswer": "The students raise their hands to answer.",
+    "options": ["The students lift the hands for answer.", "The students are raising hands to answer.", "The students raise hands for answering.", "The students hold hands to answer."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Qual é a sua nota?",
+    "correctAnswer": "What is your grade?",
+    "options": ["What is your mark?", "What your grade is?", "What is your score?", "Which is your grade?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "O intervalo dura trinta minutos.",
+    "correctAnswer": "The break lasts thirty minutes.",
+    "options": ["The break duration is thirty minutes.", "The break last thirty minutes.", "The break lasts for thirty minutes.", "The break time is thirty minutes."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Eu prefiro aprender com fichas de estudo.",
+    "correctAnswer": "I prefer to learn with study cards.",
+    "options": ["I prefer learning with study flashcards.", "I prefer learn with study notes.", "I prefer to learn using study materials.", "I do prefer learning study cards."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "O campus fica a cinco quilômetros de distância.",
+    "correctAnswer": "The campus is five kilometers away.",
+    "options": ["The campus is distant five kilometers.", "The campus is at five kilometers distance.", "The campus lies five kilometers far.", "The campus stays five kilometers from here."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Ela conseguiu passar no exame de história.",
+    "correctAnswer": "She managed to pass the history exam.",
+    "options": ["She could pass the history test.", "She managed pass the history exam.", "She has pass history exam.", "She was able to pass in history."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Eles terminam as aulas mais cedo na sexta-feira.",
+    "correctAnswer": "They finish classes earlier on Friday.",
+    "options": ["They end the classes early in Friday.", "They finish classes before in Friday.", "They are finishing earlier lessons Friday.", "They finish earlier the lessons on Friday."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Preciso de espaço para estudar melhor.",
+    "correctAnswer": "I need space to study better.",
+    "options": ["I need space for studying better.", "I need of space to study well.", "I need space for study more well.", "I am needing space to study better."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Os professores usam quadros brancos.",
+    "correctAnswer": "The teachers use whiteboards.",
+    "options": ["The teachers are using white boards.", "The teachers uses whiteboards.", "The teacher uses the whiteboards.", "The teachers use white-board."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Qual disciplina você acha mais fácil?",
+    "correctAnswer": "Which subject do you find easiest?",
+    "options": ["What subject you find more easy?", "Which subject do you think is easy?", "What subject you find the easiest?", "Which is the easiest subject you find?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Nós temos aula de educação física nas terças-feiras.",
+    "correctAnswer": "We have physical education classes on Tuesdays.",
+    "options": ["We have PE class in Tuesday.", "We have physical education in Tuesdays.", "We have PE on the Tuesdays.", "We are having PE class on Tuesday."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Você já visitou a sala de informática?",
+    "correctAnswer": "Have you already visited the computer room?",
+    "options": ["You have visited the computer lab?", "Did you visit the computer room?", "Have you visited already the computer lab?", "You visited already the IT room?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "O material escolar é caro.",
+    "correctAnswer": "School supplies are expensive.",
+    "options": ["The school material is expensive.", "School materials is expensive.", "The supplies of school are expensive.", "School supplies costs expensive."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Você pensa em continuar estudando?",
+    "correctAnswer": "Are you thinking about continuing your studies?",
+    "options": ["Do you think about continue studying?", "You think to continue studying?", "Do you think on continuing studies?", "Are you thinking to continue study?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Ele pediu para sair da sala mais cedo.",
+    "correctAnswer": "He asked to leave the classroom earlier.",
+    "options": ["He asked for leave the class before.", "He asked to go out the room early.", "He is asking to leave early the room.", "He asked leaving the classroom earlier."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "A universidade tem um bom programa de bolsas.",
+    "correctAnswer": "The university has a good scholarship program.",
+    "options": ["The university has a good grants program.", "The university has good scholarship programs.", "The university is having good scholarship program.", "The university does have a scholarship good program."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Quantos alunos há em cada turma?",
+    "correctAnswer": "How many students are in each class?",
+    "options": ["How many student are in each class?", "How many students there are in each class?", "How much students are in each class?", "How many students have in each class?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "A escola oferece aulas de língua estrangeira.",
+    "correctAnswer": "The school offers foreign language classes.",
+    "options": ["The school offers classes of foreign language.", "The school is offering foreign languages classes.", "The school provides foreign languages lessons.", "The school gives foreign language classes."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "O diretor da escola reuniu-se com os pais.",
+    "correctAnswer": "The school principal met with the parents.",
+    "options": ["The school director met to the parents.", "The principal of school met with parents.", "The school head met to parents.", "The director is meeting with the parents."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Eu não compreendo completamente essa teoria.",
+    "correctAnswer": "I don't fully understand this theory.",
+    "options": ["I not fully understand this theory.", "I don't understand complete this theory.", "I don't fully comprehend the theory.", "I am not understanding this theory fully."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Você deveria revisar o conteúdo antes da prova.",
+    "correctAnswer": "You should review the content before the exam.",
+    "options": ["You should revise the content before test.", "You must review content before the exam.", "You should review the material before exam.", "You ought to review the content before test."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "A pesquisa acadêmica requer dedicação e paciência.",
+    "correctAnswer": "Academic research requires dedication and patience.",
+    "options": ["The academic research needs dedication and patience.", "Academic study requires dedication and patience.", "Academic research is requiring dedication and patience.", "The academic research demands dedication and patience."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Qual é o objetivo principal do seu curso?",
+    "correctAnswer": "What is the main objective of your course?",
+    "options": ["What's the principal objective of your course?", "What is the main goal of your course?", "What is the primary objective of your course?", "What are the main objectives of your course?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Os livros didáticos devem ser atualizados regularmente.",
+    "correctAnswer": "Textbooks should be updated regularly.",
+    "options": ["The textbooks must be updated regularly.", "Textbooks are updated regularly.", "The didactic books need to be updated regularly.", "Textbooks should regularly be updated."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "A metodologia de ensino influencia o desempenho dos alunos.",
+    "correctAnswer": "The teaching methodology influences student performance.",
+    "options": ["The teaching method influences the student performance.", "Teaching methodology influences students' performance.", "The method of teaching influences the student's performance.", "Teaching methodologies influence in the student performance."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Você considera que o currículo está bem estruturado?",
+    "correctAnswer": "Do you think the curriculum is well structured?",
+    "options": ["You consider that curriculum is well structured?", "Do you think the curriculum is good structured?", "Do you think the curriculum was well structured?", "You think the curriculum well is structured?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "A tecnologia na educação oferece muitas possibilidades.",
+    "correctAnswer": "Technology in education offers many possibilities.",
+    "options": ["Technology in education is offering many possibilities.", "Technology at education offers many possibilities.", "Technology for education offers many possibilities.", "The technology in education offers possibilities."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Os projetos interdisciplinares promovem aprendizagem colaborativa.",
+    "correctAnswer": "Interdisciplinary projects promote collaborative learning.",
+    "options": ["Interdisciplinary projects are promoting collaborative learning.", "Interdisciplinary project promotes the collaborative learning.", "The interdisciplinary projects promote collaboration in learning.", "Inter-disciplinary projects promote learning collaboration."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "O desempenho acadêmico depende de vários fatores.",
+    "correctAnswer": "Academic performance depends on several factors.",
+    "options": ["Academic performance is depending on several factors.", "The academic performance depends from several factors.", "Academic performance rely on several factors.", "Academic performance depends in several factors."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "As habilidades de comunicação são essenciais na educação.",
+    "correctAnswer": "Communication skills are essential in education.",
+    "options": ["The communication skills are essential in the education.", "Communication abilities are essential in education.", "The skill of communication is essential in education.", "Communication skills is essential for education."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "A formação continuada capacita os educadores modernos.",
+    "correctAnswer": "Continuous education empowers modern educators.",
+    "options": ["The continuous formation empowers modern educators.", "Continuing education capacitates modern educators.", "Ongoing education enables modern educators.", "Continuous training empowers educators in the modern age."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "As atividades práticas consolidam a aprendizagem teórica.",
+    "correctAnswer": "Practical activities consolidate theoretical learning.",
+    "options": ["The practical activities consolidate the theoretical learning.", "Practical activities are consolidating theoretical learning.", "Practical activities strengthen theoretical learning.", "The practical exercises consolidate learning theoretical."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "O ensino à distância oferece flexibilidade aos alunos.",
+    "correctAnswer": "Distance learning offers flexibility to students.",
+    "options": ["The distance teaching offers flexibility to students.", "Online teaching offers flexibility to the students.", "Distance learning provides flexibility for students.", "Remote education offers flexibility in students."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "A avaliação contínua permite acompanhar o progresso.",
+    "correctAnswer": "Continuous assessment allows tracking progress.",
+    "options": ["The continuous evaluation allows to track progress.", "Ongoing assessment permits following the progress.", "Continuous evaluation enables to monitor progress.", "The continuous assessment allows follow progress."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Os estudos independentes desenvolvem responsabilidade pessoal.",
+    "correctAnswer": "Independent studies develop personal responsibility.",
+    "options": ["The independent study develops personal responsibility.", "Independent learning develops the personal responsibility.", "Self-study develops responsibility in persons.", "Studies independent develop responsability."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "A tutoria personalizada acelera a aprendizagem individual.",
+    "correctAnswer": "Personalized tutoring accelerates individual learning.",
+    "options": ["The personalized tutoring accelerates learning individually.", "Personalized tutorial accelerates the individual learning.", "Personal tutoring accelerates individual study.", "Tutoring personalized speeds up individual learning."],
+    "difficulty": "hard"
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você deseja saber se uma loja oferece serviço de entrega gratuita para compras acima de um determinado valor. Como você perguntaria de forma educada?",
+    "correctAnswer": "Do you happen to offer free delivery on orders above a certain amount?",
+    "options": ["Do you happen to offer free delivery on orders above a certain amount?", "Give me free delivery on big orders", "Is there free delivery or not?", "You must have free shipping"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Um vendedor sugere um produto mais caro do que você pretendia gastar. Como você responderia educadamente, expressando seu desacordo?",
+    "correctAnswer": "I appreciate the suggestion, but it's beyond my budget at the moment.",
+    "options": ["I appreciate the suggestion, but it's beyond my budget at the moment.", "That's too expensive, forget it", "No way, that costs too much", "Your prices are ridiculous"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você recebeu um produto com defeito e deseja reclamar ao atendente. Qual frase expressa sua reclamação de forma profissional?",
+    "correctAnswer": "I regret to inform you that the item arrived damaged and fails to meet quality standards.",
+    "options": ["I regret to inform you that the item arrived damaged and fails to meet quality standards.", "Your product is broken, that's unacceptable", "The thing you sold me is broken", "This is terrible, I want my money back now"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer expressar que um produto oferece excelente relação custo-benefício. Como você diria isso?",
+    "correctAnswer": "This item provides exceptional value for money.",
+    "options": ["This item provides exceptional value for money.", "It's cheap and good", "The price is okay", "Not too expensive"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você deseja questionar a política de devolução de uma loja antes de fazer uma compra importante. Como você abordaria isso?",
+    "correctAnswer": "Could you clarify your return policy for high-value items?",
+    "options": ["Could you clarify your return policy for high-value items?", "What about returns?", "Do you take stuff back?", "I need to know if I can return this"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Um cliente expressa preocupação com a durabilidade de um produto. Como o vendedor responderia confiantemente?",
+    "correctAnswer": "Rest assured, this product is backed by our comprehensive warranty and built to last.",
+    "options": ["Rest assured, this product is backed by our comprehensive warranty and built to last.", "It lasts a long time, no problem", "Don't worry, it won't break", "It's durable, seriously"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir um desconto para uma compra em quantidade. Como você sugeriria isso diplomaticamente?",
+    "correctAnswer": "Given the volume of this order, would there be any scope for negotiating the price?",
+    "options": ["Given the volume of this order, would there be any scope for negotiating the price?", "Make it cheaper", "Give me a discount or I'll go elsewhere", "Can you lower the price?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você deseja saber se um produto está disponível em outras cores ou tamanhos. Como você perguntaria?",
+    "correctAnswer": "Is this item available in alternative colors or sizes?",
+    "options": ["Is this item available in alternative colors or sizes?", "Do you have other colors?", "Got any other versions?", "What other options you got?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Um cliente insatisfeito quer receber um reembolso. Como ele expressaria isso formalmente?",
+    "correctAnswer": "I would like to request a full refund due to my dissatisfaction with the product's performance.",
+    "options": ["I would like to request a full refund due to my dissatisfaction with the product's performance.", "Give me my money back", "I want a refund now", "This doesn't work, refund me"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber se um produto tem garantia. Como você perguntaria de forma clara?",
+    "correctAnswer": "Does this product come with a manufacturer's guarantee?",
+    "options": ["Does this product come with a manufacturer's guarantee?", "Is it guaranteed?", "What about warranty?", "Will it be fixed if broken?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer expressar que um produto não atende às suas expectativas iniciais. Como você diria isso diplomaticamente?",
+    "correctAnswer": "Unfortunately, this item falls short of my initial expectations.",
+    "options": ["Unfortunately, this item falls short of my initial expectations.", "This isn't what I wanted", "It's not that good", "This doesn't meet expectations"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Um vendedor oferece um produto substituto quando o original não está disponível. Como você responderia positivamente?",
+    "correctAnswer": "I'm open to considering an alternative if it meets the same specifications.",
+    "options": ["I'm open to considering an alternative if it meets the same specifications.", "Sure, give me another one", "Whatever, I'll take it", "Okay, just find something else"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você deseja comparar preços entre dois produtos similares. Como você pederia essa informação?",
+    "correctAnswer": "Could you provide a side-by-side comparison of the pricing for these comparable items?",
+    "options": ["Could you provide a side-by-side comparison of the pricing for these comparable items?", "Which one is cheaper?", "How much are they each?", "What's the difference in price?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Um cliente expressa interesse em um programa de fidelidade. Como ele perguntaria sobre isso?",
+    "correctAnswer": "Do you have a loyalty program that rewards frequent customers?",
+    "options": ["Do you have a loyalty program that rewards frequent customers?", "Got any rewards?", "Do you have points or something?", "Any discounts for regulars?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer agradecer a um vendedor por seu excelente atendimento antes de finalizar a compra. Como você faria isso?",
+    "correctAnswer": "I genuinely appreciate your thorough assistance throughout this purchase.",
+    "options": ["I genuinely appreciate your thorough assistance throughout this purchase.", "Thanks for helping", "You were helpful, thanks", "Good service, cheers"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você deseja saber se um produto pode ser personalizado conforme suas necessidades específicas. Como você perguntaria?",
+    "correctAnswer": "Is there any possibility of customizing this item to meet my particular requirements?",
+    "options": ["Is there any possibility of customizing this item to meet my particular requirements?", "Can you change it for me?", "Can I customize this?", "Will you modify it?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Um vendedor não consegue responder a uma pergunta técnica sobre um produto. Como você responderia educadamente, sugerindo uma alternativa?",
+    "correctAnswer": "No problem. Could you perhaps connect me with someone from your technical department?",
+    "options": ["No problem. Could you perhaps connect me with someone from your technical department?", "Just answer my question", "You don't know your own products?", "Find someone who knows"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você observou um desconto atraente em um produto, mas quer verificar se é genuíno. Como você expressaria suas dúvidas?",
+    "correctAnswer": "This discount seems quite substantial. Could you clarify if this promotion is currently valid?",
+    "options": ["This discount seems quite substantial. Could you clarify if this promotion is currently valid?", "Is this real?", "Are you sure about this discount?", "This seems too good to be true"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Um cliente deseja expressar que um produto representa um investimento valioso para ele. Como ele comunicaria isso?",
+    "correctAnswer": "This purchase represents a significant investment, so I want to ensure it meets my exacting standards.",
+    "options": ["This purchase represents a significant investment, so I want to ensure it meets my exacting standards.", "I'm spending a lot, so be careful", "This is expensive, I need it to be good", "I'm paying a lot of money for this"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você recebeu um produto com atraso e deseja reclamar sobre o prazo de entrega. Como você comunicaria isso?",
+    "correctAnswer": "I'm disappointed that my order has exceeded the agreed delivery timeframe without prior notification.",
+    "options": ["I'm disappointed that my order has exceeded the agreed delivery timeframe without prior notification.", "My order is late", "It took too long to arrive", "Why did it take so long?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Um vendedor oferece aconselhamento sobre qual produto escolher. Como você responderia, pedindo uma análise mais detalhada?",
+    "correctAnswer": "I'd appreciate a comprehensive assessment of how each option aligns with my specific needs.",
+    "options": ["I'd appreciate a comprehensive assessment of how each option aligns with my specific needs.", "Tell me which one is better", "Which should I pick?", "Help me decide"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer expressar que prefere uma opção de pagamento específica durante o checkout. Como você o faria?",
+    "correctAnswer": "I would prefer to settle the account using my credit card, if that option is available.",
+    "options": ["I would prefer to settle the account using my credit card, if that option is available.", "I want to pay with credit card", "Can I use my credit card?", "Take my card"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Um cliente quer questionar a autenticidade de um produto antes de comprar. Como ele expressaria suas preocupações?",
+    "correctAnswer": "Before proceeding, I need assurance that this item is genuinely authentic and not a counterfeit.",
+    "options": ["Before proceeding, I need assurance that this item is genuinely authentic and not a counterfeit.", "Is this real?", "You sure it's not fake?", "This is original, right?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você deseja saber se há custos ocultos ou taxas adicionais envolvidas na compra. Como você perguntaria?",
+    "correctAnswer": "Are there any concealed charges or additional fees I should be apprised of?",
+    "options": ["Are there any concealed charges or additional fees I should be apprised of?", "Are there hidden costs?", "What about extra fees?", "Is the price final?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Um cliente deseja negociar termos de pagamento para uma compra em grande volume. Como ele abordaria isso?",
+    "correctAnswer": "Given the substantial nature of this order, might you be amenable to discussing flexible payment terms?",
+    "options": ["Given the substantial nature of this order, might you be amenable to discussing flexible payment terms?", "Can we work out a payment plan?", "I need easier payment terms", "Let's talk about payment options"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer expressar insatisfação com o atendimento recebido sem ser ofensivo. Como você o faria?",
+    "correctAnswer": "I must say, the service experience did not align with the standards I've come to expect from your establishment.",
+    "options": ["I must say, the service experience did not align with the standards I've come to expect from your establishment.", "Your service was bad", "The staff wasn't helpful", "I'm not happy with the service"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Um vendedor sugere que você vire cliente habitual. Como você responderia, expressando seu interesse?",
+    "correctAnswer": "That's certainly appealing. What incentives do you offer to establish a long-term partnership?",
+    "options": ["That's certainly appealing. What incentives do you offer to establish a long-term partnership?", "I might come back", "Is there a discount for regulars?", "What do you give loyal customers?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você deseja saber se um produto está sujeito a recall ou problemas de segurança conhecidos. Como você perguntaria?",
+    "correctAnswer": "Has this product been subject to any safety recalls or documented issues in the market?",
+    "options": ["Has this product been subject to any safety recalls or documented issues in the market?", "Is it safe to use?", "Any problems with this?", "Is there anything wrong with it?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Um cliente quer expressar que encontrou um preço melhor em outro lugar. Como ele comunicaria isso diplomaticamente?",
+    "correctAnswer": "I've encountered a more competitive quotation elsewhere. Would you be in a position to match that figure?",
+    "options": ["I've encountered a more competitive quotation elsewhere. Would you be in a position to match that figure?", "Another store is cheaper", "I found it cheaper somewhere else", "Your price is too high"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer reclamar sobre um erro na fatura sem parecer agressivo. Como você abordaria isso?",
+    "correctAnswer": "Upon examination of the invoice, I've identified a discrepancy that warrants immediate rectification.",
+    "options": ["Upon examination of the invoice, I've identified a discrepancy that warrants immediate rectification.", "Your bill is wrong", "There's a mistake in the invoice", "You charged me too much"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Um cliente deseja expressar que precisa de um produto com especificações muito precisas. Como ele comunicaria isso?",
+    "correctAnswer": "I require an item that adheres to very stringent specifications and performance criteria.",
+    "options": ["I require an item that adheres to very stringent specifications and performance criteria.", "I need something specific", "The product has to be exact", "I need special requirements met"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer questionar a sustentabilidade e responsabilidade social de um produto. Como você perguntaria?",
+    "correctAnswer": "I'm interested in understanding the ecological footprint and ethical sourcing practices behind this product.",
+    "options": ["I'm interested in understanding the ecological footprint and ethical sourcing practices behind this product.", "Is this environmentally friendly?", "Where was this made?", "Is this product ethical?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Um vendedor oferece uma garantia estendida. Como um cliente expressaria seu ceticismo sobre o valor agregado?",
+    "correctAnswer": "While I appreciate the proposition, I'm somewhat skeptical of the tangible benefits this extended warranty would confer.",
+    "options": ["While I appreciate the proposition, I'm somewhat skeptical of the tangible benefits this extended warranty would confer.", "Do I really need extended warranty?", "Is it worth it?", "I don't think I need it"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer expressar que um produto ofereceria valor significativo em contexto profissional. Como você o faria?",
+    "correctAnswer": "This item could substantially enhance my professional productivity and operational efficiency.",
+    "options": ["This item could substantially enhance my professional productivity and operational efficiency.", "This would be good for my work", "It would help me with my job", "This is useful for work"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Um cliente deseja negociar um desconto baseado em uma reclamação anterior sobre qualidade. Como ele abordaria isso?",
+    "correctAnswer": "Given the previous quality issues, I wonder if you'd be amenable to a goodwill discount on this order.",
+    "options": ["Given the previous quality issues, I wonder if you'd be amenable to a goodwill discount on this order.", "You messed up last time, give me a discount", "Lower the price because of what happened before", "You owe me a discount"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer expressar que necessita de compatibilidade específica com sistemas existentes. Como você comunicaria isso?",
+    "correctAnswer": "It's imperative that this product exhibits seamless compatibility with my existing technological infrastructure.",
+    "options": ["It's imperative that this product exhibits seamless compatibility with my existing technological infrastructure.", "Does it work with my other stuff?", "Will it fit with what I have?", "Can I use it with my systems?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Um cliente quer questionar se o atendimento pós-venda é adequado e confiável. Como ele perguntaria?",
+    "correctAnswer": "I need to ascertain that your after-sales support infrastructure is sufficiently robust to address potential complications.",
+    "options": ["I need to ascertain that your after-sales support infrastructure is sufficiently robust to address potential complications.", "What if something goes wrong?", "Will you help me after I buy?", "How good is your support?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você deseja expressar que está comparando opções antes de tomar uma decisão final. Como você o faria?",
+    "correctAnswer": "I'm currently conducting a comprehensive evaluation of market alternatives before committing to a final purchase decision.",
+    "options": ["I'm currently conducting a comprehensive evaluation of market alternatives before committing to a final purchase decision.", "I'm thinking about it", "I want to check other options first", "I need to compare with others"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Um cliente quer expressar decepção porque o produto não corresponde à descrição no catálogo. Como ele comunicaria isso?",
+    "correctAnswer": "I regret to say that the actual product considerably deviates from the specifications outlined in your promotional materials.",
+    "options": ["I regret to say that the actual product considerably deviates from the specifications outlined in your promotional materials.", "The product isn't like in the picture", "This isn't what was described", "It's different from what you showed"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber sobre programa de troca ou upgrade para clientes que possuem versões antigas. Como você perguntaria?",
+    "correctAnswer": "Do you offer a trade-in or upgrade program for customers with earlier model iterations?",
+    "options": ["Do you offer a trade-in or upgrade program for customers with earlier model iterations?", "Can I trade in my old one?", "Do you give credit for old models?", "Can I exchange my old version?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Um cliente deseja expressar que espera um atendimento personalizado e atencioso. Como ele comunicaria isso?",
+    "correctAnswer": "I would greatly appreciate a bespoke consultation that addresses my distinctive requirements and preferences.",
+    "options": ["I would greatly appreciate a bespoke consultation that addresses my distinctive requirements and preferences.", "I want special attention", "Can you help me find exactly what I need?", "I'd like personalized help"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer questionar a consistência de qualidade de um fabricante ao longo do tempo. Como você perguntaria?",
+    "correctAnswer": "Has this manufacturer demonstrated consistent quality standards across their product range over an extended period?",
+    "options": ["Has this manufacturer demonstrated consistent quality standards across their product range over an extended period?", "Is the quality always the same?", "Are all products as good?", "Does this company make good stuff consistently?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Um vendedor não consegue processar um pedido especial. Como você responderia, sugerindo alternativas?",
+    "correctAnswer": "I understand the constraints. Perhaps we could explore alternative arrangements that might accommodate this request?",
+    "options": ["I understand the constraints. Perhaps we could explore alternative arrangements that might accommodate this request?", "Just do it", "You have to make it work", "Find a way to do it"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer expressar que um produto representa uma oportunidade de negócio para você. Como você comunicaria isso?",
+    "correctAnswer": "This acquisition could represent a lucrative entrepreneurial opportunity for my enterprise.",
+    "options": ["This acquisition could represent a lucrative entrepreneurial opportunity for my enterprise.", "This could help my business", "I could make money with this", "This is good for my work"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Um cliente quer expressar que precisa de documentação completa e clara sobre um produto antes de comprar. Como ele o faria?",
+    "correctAnswer": "I would require comprehensive and unambiguous documentation pertaining to this item before proceeding with the purchase.",
+    "options": ["I would require comprehensive and unambiguous documentation pertaining to this item before proceeding with the purchase.", "I need the instructions", "Show me how it works", "I need to understand it first"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer questionar se um produto é certificado por órgãos competentes e reguladores. Como você perguntaria?",
+    "correctAnswer": "Could you provide evidence that this product has obtained appropriate certifications from relevant regulatory authorities?",
+    "options": ["Could you provide evidence that this product has obtained appropriate certifications from relevant regulatory authorities?", "Is this product certified?", "Does it have official approval?", "Is this legal to use?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Um cliente deseja expressar que gostaria de receber treinamento ou suporte para usar um produto complexo. Como ele comunicaria isso?",
+    "correctAnswer": "Given the sophistication of this item, I would appreciate comprehensive training and ongoing technical support.",
+    "options": ["Given the sophistication of this item, I would appreciate comprehensive training and ongoing technical support.", "I need help learning how to use this", "Can you teach me how it works?", "Will someone help me with this?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer expressar que um produto deve cumprir normas e regulamentações específicas do seu setor. Como você o faria?",
+    "correctAnswer": "This product must necessarily adhere to stringent industry-specific regulations and compliance standards.",
+    "options": ["This product must necessarily adhere to stringent industry-specific regulations and compliance standards.", "It has to meet industry rules", "Does it follow the regulations?", "Will it be legal for my business?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Um cliente deseja expressar que está procurando um produto que ofereça a melhor relação entre desempenho e custo. Como ele comunicaria isso?",
+    "correctAnswer": "I'm seeking a product that optimally balances superior performance with prudent financial expenditure.",
+    "options": ["I'm seeking a product that optimally balances superior performance with prudent financial expenditure.", "I want good quality for cheap", "I need something that works well and isn't too expensive", "Give me the best value option"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber se uma loja oferece programa de reembolso se encontrar o mesmo produto com preço menor em outro lugar. Como você perguntaria?",
+    "correctAnswer": "Do you offer price-matching guarantees if I locate the same item at a lower cost elsewhere?",
+    "options": ["Do you offer price-matching guarantees if I locate the same item at a lower cost elsewhere?", "Will you match prices?", "Can you beat another store's price?", "Do you have a lowest price guarantee?"],
+    "difficulty": "hard"
+  }
+]

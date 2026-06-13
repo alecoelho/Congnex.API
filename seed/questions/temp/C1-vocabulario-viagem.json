@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027itinerary\u0027 no contexto de viagem?",
+        "difficulty":  "easy",
+        "options":  [
+                        "roteiro detalhado de uma viagem",
+                        "tempo total de viagem",
+                        "tipo de transporte",
+                        "hospedagem temporária"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "roteiro detalhado de uma viagem"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027accommodation\u0027 em viagens?",
+        "difficulty":  "easy",
+        "options":  [
+                        "local de hospedagem ou alojamento",
+                        "serviço de transporte",
+                        "guia turístico",
+                        "mapa da região"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "local de hospedagem ou alojamento"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027luggage\u0027 para português?",
+        "difficulty":  "easy",
+        "options":  [
+                        "bagagem",
+                        "compras",
+                        "souvenirs",
+                        "documentos"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "bagagem"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027passport\u0027 no contexto de viagens internacionais?",
+        "difficulty":  "easy",
+        "options":  [
+                        "documento de identidade para viagens",
+                        "cartão de crédito",
+                        "seguro de viagem",
+                        "bilhete de transporte"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "documento de identidade para viagens"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027destination\u0027 em uma viagem?",
+        "difficulty":  "easy",
+        "options":  [
+                        "local para onde se vai",
+                        "ponto de partida",
+                        "meio de transporte",
+                        "tempo de viagem"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "local para onde se vai"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027check-in\u0027 em um hotel ou aeroporto?",
+        "difficulty":  "easy",
+        "options":  [
+                        "processo de registro de chegada",
+                        "confirmação de pagamento",
+                        "entrega de bagagem",
+                        "obtenção de bilhete"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "processo de registro de chegada"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027tourist\u0027 para português?",
+        "difficulty":  "easy",
+        "options":  [
+                        "turista",
+                        "motorista",
+                        "guia",
+                        "hospedeiro"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "turista"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027visa\u0027 em viagens internacionais?",
+        "difficulty":  "easy",
+        "options":  [
+                        "autorização para entrar em um país",
+                        "tipo de visto comercial",
+                        "passaporte eletrônico",
+                        "permissão de trabalho"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "autorização para entrar em um país"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027departure\u0027 em um voo?",
+        "difficulty":  "easy",
+        "options":  [
+                        "saída ou partida",
+                        "chegada",
+                        "espera",
+                        "atraso"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "saída ou partida"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027resort\u0027 no contexto de férias?",
+        "difficulty":  "easy",
+        "options":  [
+                        "centro de férias com múltiplos serviços",
+                        "agência de viagens",
+                        "hotel simples",
+                        "camping"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "centro de férias com múltiplos serviços"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027souvenir\u0027 para português?",
+        "difficulty":  "easy",
+        "options":  [
+                        "lembrança ou recordação",
+                        "mapa turístico",
+                        "foto da viagem",
+                        "bilhete de entrada"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "lembrança ou recordação"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027booking\u0027 em viagens?",
+        "difficulty":  "easy",
+        "options":  [
+                        "reserva ou agendamento",
+                        "pagamento da viagem",
+                        "confirmação de chegada",
+                        "cancelamento de reserva"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "reserva ou agendamento"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027backpacker\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "viajante com bagagem leve",
+                        "turista de luxo",
+                        "guia turístico",
+                        "motorista de ônibus"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "viajante com bagagem leve"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027luggage tag\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "etiqueta de identificação de bagagem",
+                        "rótulo de viagem",
+                        "marca de hotel",
+                        "selo de entrada"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "etiqueta de identificação de bagagem"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027guidebook\u0027 para português?",
+        "difficulty":  "easy",
+        "options":  [
+                        "guia de viagem",
+                        "mapa turístico",
+                        "folheto de hotel",
+                        "catálogo de compras"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "guia de viagem"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027round trip\u0027 em viagens aéreas?",
+        "difficulty":  "easy",
+        "options":  [
+                        "passagem de ida e volta",
+                        "viagem de circuito turístico",
+                        "múltiplas escalas",
+                        "voo direto"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "passagem de ida e volta"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027check-out\u0027 em um hotel?",
+        "difficulty":  "easy",
+        "options":  [
+                        "processo de saída e desocupação da hospedagem",
+                        "cancelamento de reserva",
+                        "confirmação de pagamento",
+                        "renovação de hospedagem"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "processo de saída e desocupação da hospedagem"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027layover\u0027 em um voo?",
+        "difficulty":  "medium",
+        "options":  [
+                        "parada intermediária entre destinos",
+                        "atraso de voo",
+                        "mudança de aeroporto",
+                        "escala com pernoite"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "parada intermediária entre destinos"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027itinerant\u0027 no contexto de viagens?",
+        "difficulty":  "medium",
+        "options":  [
+                        "que viaja constantemente de um lugar para outro",
+                        "que deseja viajar",
+                        "que trabalha em agências",
+                        "que é turista ocasional"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "que viaja constantemente de um lugar para outro"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027excursion\u0027 para português?",
+        "difficulty":  "medium",
+        "options":  [
+                        "excursão ou passeio",
+                        "viagem principal",
+                        "rota principal",
+                        "transporte turístico"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "excursão ou passeio"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027concierge\u0027 em um hotel?",
+        "difficulty":  "medium",
+        "options":  [
+                        "funcionário que auxilia com informações e serviços",
+                        "recepcionista",
+                        "gerente do hotel",
+                        "segurança"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "funcionário que auxilia com informações e serviços"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027pilgrimage\u0027 em viagens?",
+        "difficulty":  "medium",
+        "options":  [
+                        "viagem com propósito religioso ou espiritual",
+                        "viagem de turismo",
+                        "viagem de negócios",
+                        "viagem de lazer"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "viagem com propósito religioso ou espiritual"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027expedite\u0027 em contexto de viagem?",
+        "difficulty":  "medium",
+        "options":  [
+                        "acelerar ou facilitar um processo",
+                        "explorar uma região",
+                        "expandir um roteiro",
+                        "experimentar atividades"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "acelerar ou facilitar um processo"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027amenities\u0027 para português no contexto hoteleiro?",
+        "difficulty":  "medium",
+        "options":  [
+                        "comodidades ou serviços oferecidos",
+                        "acomodações",
+                        "decorações",
+                        "móveis"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "comodidades ou serviços oferecidos"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027pristine\u0027 quando descrevendo um destino?",
+        "difficulty":  "medium",
+        "options":  [
+                        "intacto, puro e bem preservado",
+                        "famoso e desenvolvido",
+                        "antigo e histórico",
+                        "tropical e quente"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "intacto, puro e bem preservado"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027visa exemption\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "isenção da necessidade de visto",
+                        "tipo especial de visto",
+                        "renovação de visto",
+                        "cancelamento de visto"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "isenção da necessidade de visto"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027commute\u0027 em viagens diárias?",
+        "difficulty":  "medium",
+        "options":  [
+                        "deslocamento regular para trabalho ou escola",
+                        "viagem de férias",
+                        "mudança de residência",
+                        "viagem turística"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "deslocamento regular para trabalho ou escola"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027hostel\u0027 para português?",
+        "difficulty":  "medium",
+        "options":  [
+                        "albergue ou hospedaria coletiva",
+                        "hotel de luxo",
+                        "pousada familiar",
+                        "acampamento"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "albergue ou hospedaria coletiva"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027transit visa\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "visto para passagem por um país",
+                        "visto de trabalho",
+                        "visto de residência",
+                        "visto de estudante"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "visto para passagem por um país"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027trekking\u0027 em viagens de aventura?",
+        "difficulty":  "medium",
+        "options":  [
+                        "caminhada de longa distância em terreno natural",
+                        "passeio turístico urbano",
+                        "escalada de montanha",
+                        "exploração subterrânea"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "caminhada de longa distância em terreno natural"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027cruise\u0027 em contexto de viagem?",
+        "difficulty":  "medium",
+        "options":  [
+                        "viagem por mar em navio de passageiros",
+                        "carro de aluguel",
+                        "viagem aérea",
+                        "passeio a pé"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "viagem por mar em navio de passageiros"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027departure gate\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "portão de embarque em um aeroporto",
+                        "entrada do aeroporto",
+                        "saída de emergência",
+                        "zona de segurança"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "portão de embarque em um aeroporto"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027locale\u0027 em contexto turístico?",
+        "difficulty":  "hard",
+        "options":  [
+                        "local ou localidade específica",
+                        "idioma regional",
+                        "moeda local",
+                        "costumes locais"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "local ou localidade específica"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027pinnacle\u0027 para português no contexto de viagens?",
+        "difficulty":  "hard",
+        "options":  [
+                        "pico ou auge de um destino",
+                        "entrada principal",
+                        "ponto de partida",
+                        "conclusão de viagem"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "pico ou auge de um destino"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027bespoke travel\u0027 em agências de viagem?",
+        "difficulty":  "hard",
+        "options":  [
+                        "viagens personalizadas conforme desejos específicos",
+                        "viagens em grupo",
+                        "viagens econômicas",
+                        "viagens temáticas"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "viagens personalizadas conforme desejos específicos"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027sojourn\u0027 em viagens?",
+        "difficulty":  "hard",
+        "options":  [
+                        "permanência temporária em um lugar",
+                        "trajeto da viagem",
+                        "chegada ao destino",
+                        "rota alternativa"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "permanência temporária em um lugar"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027circumnavigate\u0027 em contexto de viagem?",
+        "difficulty":  "hard",
+        "options":  [
+                        "navegar em volta de algo, especialmente o globo",
+                        "navegar em linha reta",
+                        "navegar em águas rasas",
+                        "navegar à noite"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "navegar em volta de algo, especialmente o globo"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027itinerary amendment\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "alteração ou modificação do roteiro de viagem",
+                        "confirmação de itinerário",
+                        "aprovação de roteiro",
+                        "rejeição de planos"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "alteração ou modificação do roteiro de viagem"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027serendipitous discovery\u0027 em viagens?",
+        "difficulty":  "hard",
+        "options":  [
+                        "achado feliz e inesperado durante a viagem",
+                        "localização planejada",
+                        "atração principal",
+                        "parada obrigatória"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "achado feliz e inesperado durante a viagem"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027ubiquitous\u0027 quando usado para descrever um destino turístico?",
+        "difficulty":  "hard",
+        "options":  [
+                        "presente em muitos lugares, amplamente encontrado",
+                        "exclusivo e raro",
+                        "perigoso e isolado",
+                        "desenvolvido e moderno"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "presente em muitos lugares, amplamente encontrado"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027auspicious\u0027 em contexto de planejar uma viagem?",
+        "difficulty":  "hard",
+        "options":  [
+                        "favorável e promissor",
+                        "arriscado e perigoso",
+                        "improvável e incerto",
+                        "caro e oneroso"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "favorável e promissor"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027vestigial\u0027 para português em contexto de ruínas turísticas?",
+        "difficulty":  "hard",
+        "options":  [
+                        "resto ou traço remanescente do passado",
+                        "bem preservado e intacto",
+                        "recém construído",
+                        "parcialmente restaurado"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "resto ou traço remanescente do passado"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027ephemeral\u0027 quando descrevendo eventos turísticos?",
+        "difficulty":  "hard",
+        "options":  [
+                        "passageiro, de curta duração",
+                        "permanente e eterno",
+                        "tradicional e antigo",
+                        "internacional e famoso"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "passageiro, de curta duração"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027propitious\u0027 para uma viagem bem planejada?",
+        "difficulty":  "hard",
+        "options":  [
+                        "favorável às circunstâncias desejadas",
+                        "desfavorável e difícil",
+                        "neutro e indiferente",
+                        "custoso e oneroso"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "favorável às circunstâncias desejadas"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027perspicacious\u0027 quando um viajante observa detalhes?",
+        "difficulty":  "hard",
+        "options":  [
+                        "perspicaz e de percepção aguçada",
+                        "lento e desatento",
+                        "confuso e desorientado",
+                        "apressado e superficial"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "perspicaz e de percepção aguçada"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027verisimilitude\u0027 para português em narrativas de viagem?",
+        "difficulty":  "hard",
+        "options":  [
+                        "aparência de verdade ou autenticidade",
+                        "ficção pura e imaginária",
+                        "cópia mal feita",
+                        "descrição vaga e imprecisa"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "aparência de verdade ou autenticidade"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027profligate\u0027 em contexto de gastos em viagem?",
+        "difficulty":  "hard",
+        "options":  [
+                        "extravagante e desperdiçador",
+                        "econômico e poupador",
+                        "equilibrado e moderado",
+                        "minimalista e ascético"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "extravagante e desperdiçador"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027felicitous\u0027 na escolha de um destino de viagem?",
+        "difficulty":  "hard",
+        "options":  [
+                        "bem adaptado e apropriado",
+                        "inadequado e impróprio",
+                        "acidental e fortuito",
+                        "planejado e deliberado"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "bem adaptado e apropriado"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027souvenir shop\u0027 em um destino turístico?",
+        "difficulty":  "medium",
+        "options":  [
+                        "loja de recordações e lembranças",
+                        "loja de departamentos",
+                        "loja de souvenirs",
+                        "casa de câmbio"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "loja de recordações e lembranças"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027off-season\u0027 em viagens?",
+        "difficulty":  "medium",
+        "options":  [
+                        "período de baixa demanda turística",
+                        "viagem fora do programa",
+                        "desconto de hospedagem",
+                        "estação chuvosa"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "período de baixa demanda turística"
+    }
+]

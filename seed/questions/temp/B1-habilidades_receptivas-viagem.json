@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "Onde fica a estação de trem?",
+        "correctAnswer":  "Where is the train station?",
+        "options":  [
+                        "Where is the train station?",
+                        "When is the train station?",
+                        "What is the train station?",
+                        "Why is the train station?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "Preciso de um hotel perto do centro.",
+        "correctAnswer":  "I need a hotel near the city center.",
+        "options":  [
+                        "I need a hotel near the city center.",
+                        "I need a house next to downtown.",
+                        "I want a resort close to the city.",
+                        "I\u0027m looking for a hostel in the middle of town."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "Qual é o horário de partida do ônibus?",
+        "correctAnswer":  "What is the departure time of the bus?",
+        "options":  [
+                        "What is the departure time of the bus?",
+                        "What is the time of arrival from the bus?",
+                        "When does the bus leave the station?",
+                        "What time will the bus arrive?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "Gostaria de uma mala com rodinhas.",
+        "correctAnswer":  "I would like a suitcase with wheels.",
+        "options":  [
+                        "I would like a suitcase with wheels.",
+                        "I prefer a bag with handles.",
+                        "I need a trunk on rollers.",
+                        "I want a case with rubber tires."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "O voo foi cancelado por causa do mau tempo.",
+        "correctAnswer":  "The flight was cancelled because of bad weather.",
+        "options":  [
+                        "The flight was cancelled because of bad weather.",
+                        "The airplane left due to poor climate.",
+                        "The plane departure was postponed for rain.",
+                        "The flight took off during a storm."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "Tem vagas neste hotel para cinco pessoas?",
+        "correctAnswer":  "Are there available rooms in this hotel for five people?",
+        "options":  [
+                        "Are there available rooms in this hotel for five people?",
+                        "Does this hotel have spaces for five guests?",
+                        "Is this hotel booking five visitors?",
+                        "Can five people stay in this accommodation?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "Preciso renovar meu passaporte antes de viajar.",
+        "correctAnswer":  "I need to renew my passport before travelling.",
+        "options":  [
+                        "I need to renew my passport before travelling.",
+                        "I must update my travel documents.",
+                        "I should get a new identification card.",
+                        "I have to replace my visa document."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "O aeroporto fica a vinte quilômetros da cidade.",
+        "correctAnswer":  "The airport is twenty kilometres from the city.",
+        "options":  [
+                        "The airport is twenty kilometres from the city.",
+                        "The terminal sits at twenty miles away.",
+                        "The airport stands about twenty blocks out.",
+                        "The landing strip is twenty meters beyond town."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "Vocês aceitam cartão de crédito?",
+        "correctAnswer":  "Do you accept credit cards?",
+        "options":  [
+                        "Do you accept credit cards?",
+                        "Do you take plastic money?",
+                        "Can I pay with a bank card?",
+                        "Would you take my debit card?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "Qual é a melhor época para visitar essa região?",
+        "correctAnswer":  "What is the best time to visit this region?",
+        "options":  [
+                        "What is the best time to visit this region?",
+                        "When should I tour this area?",
+                        "What season is ideal for this place?",
+                        "How long is the best period to go there?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "Há um restaurante que sirva comida vegana no hotel?",
+        "correctAnswer":  "Is there a restaurant that serves vegan food in the hotel?",
+        "options":  [
+                        "Is there a restaurant that serves vegan food in the hotel?",
+                        "Does the hotel have a place with vegetarian meals?",
+                        "Can I find vegan cuisine in this accommodation?",
+                        "Does this place have a dining area for plant-based diets?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "A que horas posso fazer o check-in?",
+        "correctAnswer":  "What time can I check in?",
+        "options":  [
+                        "What time can I check in?",
+                        "When do I register at the hotel?",
+                        "What hour should I arrive for registration?",
+                        "At what time is the reception open?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "Preciso de um translado para o aeroporto amanhã de manhã.",
+        "correctAnswer":  "I need a transfer to the airport tomorrow morning.",
+        "options":  [
+                        "I need a transfer to the airport tomorrow morning.",
+                        "I require a ride to the terminal early tomorrow.",
+                        "Can you arrange transport to the airport?",
+                        "I must get transportation to the landing strip tomorrow."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "Quanto custa a diária neste quarto?",
+        "correctAnswer":  "How much is the daily rate for this room?",
+        "options":  [
+                        "How much is the daily rate for this room?",
+                        "What is the nightly charge in this bed?",
+                        "How expensive is this accommodation per night?",
+                        "What will I pay for staying in this space?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "Tem piscina no resort?",
+        "correctAnswer":  "Is there a swimming pool at the resort?",
+        "options":  [
+                        "Is there a swimming pool at the resort?",
+                        "Does the resort have water facilities?",
+                        "Can I swim at this place?",
+                        "Are there aquatic activities here?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "Devo levar seguro viagem?",
+        "correctAnswer":  "Should I get travel insurance?",
+        "options":  [
+                        "Should I get travel insurance?",
+                        "Is travel coverage needed?",
+                        "Do I require a protection plan?",
+                        "Must I buy an assurance policy?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "O meu voo foi atrasado e perdi a conexão.",
+        "correctAnswer":  "My flight was delayed and I missed my connection.",
+        "options":  [
+                        "My flight was delayed and I missed my connection.",
+                        "My plane was late and I lost the transfer.",
+                        "The airplane departure was postponed and I could not board.",
+                        "My boarding was pushed back and I failed the link."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "Você poderia me indicar um bom restaurante com vista para o mar?",
+        "correctAnswer":  "Could you recommend a good restaurant with a sea view?",
+        "options":  [
+                        "Could you recommend a good restaurant with a sea view?",
+                        "Would you suggest a nice place to dine by the ocean?",
+                        "Can you point me to a quality restaurant overlooking water?",
+                        "Could you tell me about a fine dining establishment near the coast?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "O tour inclui visitas a museus e monumentos históricos?",
+        "correctAnswer":  "Does the tour include visits to museums and historical monuments?",
+        "options":  [
+                        "Does the tour include visits to museums and historical monuments?",
+                        "Are there museums and historic buildings in this package?",
+                        "Will the trip cover galleries and ancient sites?",
+                        "Is sightseeing of cultural places part of the tour?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "A que distância fica a praia mais próxima do hotel?",
+        "correctAnswer":  "How far is the nearest beach from the hotel?",
+        "options":  [
+                        "How far is the nearest beach from the hotel?",
+                        "What is the distance to the closest shoreline?",
+                        "Where can I find the nearest sandy area?",
+                        "Is the beach within walking distance?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "Existe um voo direto para Buenos Aires ou preciso fazer escala?",
+        "correctAnswer":  "Is there a direct flight to Buenos Aires or do I need to make a stopover?",
+        "options":  [
+                        "Is there a direct flight to Buenos Aires or do I need to make a stopover?",
+                        "Can I fly straight to Buenos Aires without changing planes?",
+                        "Will there be a connection on the way to Buenos Aires?",
+                        "Does the flight go directly or with intermediate landings?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "Posso trazer equipamento de mergulho na bagagem?",
+        "correctAnswer":  "Can I bring diving equipment in my luggage?",
+        "options":  [
+                        "Can I bring diving equipment in my luggage?",
+                        "Is it allowed to pack scuba gear in my suitcase?",
+                        "May I carry snorkeling equipment on the plane?",
+                        "Are water sports items permitted in checked bags?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "Qual é a moeda utilizada neste país e qual é a taxa de câmbio?",
+        "correctAnswer":  "What is the currency used in this country and what is the exchange rate?",
+        "options":  [
+                        "What is the currency used in this country and what is the exchange rate?",
+                        "What money do they use here and how much is it worth?",
+                        "Is there a local currency and how does it compare in value?",
+                        "What denomination of money is acceptable and what\u0027s the conversion?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "O hotel oferece wifi gratuito em todos os quartos?",
+        "correctAnswer":  "Does the hotel offer free wifi in all rooms?",
+        "options":  [
+                        "Does the hotel offer free wifi in all rooms?",
+                        "Is internet access complimentary throughout the accommodation?",
+                        "Can I connect to the network for free in my room?",
+                        "Are wireless services included at no cost?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "Você já visitou esse destino antes? Tem alguma dica?",
+        "correctAnswer":  "Have you visited this destination before? Do you have any tips?",
+        "options":  [
+                        "Have you visited this destination before? Do you have any tips?",
+                        "Did you go to this place previously? Can you suggest anything?",
+                        "Have you been there before and what would you recommend?",
+                        "Do you know this location and any helpful suggestions?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "Preciso de um tradutor durante minha estadia na cidade.",
+        "correctAnswer":  "I need a translator during my stay in the city.",
+        "options":  [
+                        "I need a translator during my stay in the city.",
+                        "I require an interpreter while I am in town.",
+                        "Someone who speaks the language would help me.",
+                        "I must hire a language specialist for my visit."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "É necessário visto para entrar neste país?",
+        "correctAnswer":  "Is a visa necessary to enter this country?",
+        "options":  [
+                        "Is a visa necessary to enter this country?",
+                        "Do I need a visa document to come here?",
+                        "Are travel permits required for entry?",
+                        "Must I have authorization to visit this nation?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "Qual meio de transporte você recomenda para sair do aeroporto?",
+        "correctAnswer":  "What means of transport do you recommend to leave the airport?",
+        "options":  [
+                        "What means of transport do you recommend to leave the airport?",
+                        "How should I travel from the airport to the city?",
+                        "What is the best way to get out of the terminal?",
+                        "Which transportation option is most convenient from the airport?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "Posso deixar minha bagagem no hotel enquanto faço um passeio?",
+        "correctAnswer":  "Can I leave my luggage at the hotel while I go sightseeing?",
+        "options":  [
+                        "Can I leave my luggage at the hotel while I go sightseeing?",
+                        "May I store my bags at the accommodation while touring?",
+                        "Is it possible to keep my suitcase here during my outing?",
+                        "Can the hotel hold my belongings while I am out?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "Preciso estender minha reserva em mais três noites.",
+        "correctAnswer":  "I need to extend my reservation for three more nights.",
+        "options":  [
+                        "I need to extend my reservation for three more nights.",
+                        "I would like to prolong my stay by a few days.",
+                        "Can you add more nights to my booking?",
+                        "I need additional accommodation for the upcoming nights."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "Há tours específicos para casais em lua de mel?",
+        "correctAnswer":  "Are there specific tours for honeymoon couples?",
+        "options":  [
+                        "Are there specific tours for honeymoon couples?",
+                        "Do you offer special packages for newlyweds?",
+                        "Are there romantic getaways designed for couples?",
+                        "Can you arrange a honeymoon travel experience?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "Como faço para alugar um carro nesta cidade?",
+        "correctAnswer":  "How do I rent a car in this city?",
+        "options":  [
+                        "How do I rent a car in this city?",
+                        "Where can I get a vehicle to drive around?",
+                        "What is the process for hiring an automobile?",
+                        "Can I book a car for transportation purposes?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "O aeroporto tem lojas duty-free onde posso comprar souvenirs?",
+        "correctAnswer":  "Does the airport have duty-free shops where I can buy souvenirs?",
+        "options":  [
+                        "Does the airport have duty-free shops where I can buy souvenirs?",
+                        "Can I find tax-free stores in the terminal for gifts?",
+                        "Are there shops at the airport to purchase mementos?",
+                        "Is there a place to buy untaxed items and remembrances?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "Qual é o traje recomendado para as atrações turísticas mais importantes?",
+        "correctAnswer":  "What is the recommended dress code for the main tourist attractions?",
+        "options":  [
+                        "What is the recommended dress code for the main tourist attractions?",
+                        "How should I dress when visiting the principal sites?",
+                        "What clothing is appropriate for the popular landmarks?",
+                        "Is there a dress requirement for major touristic destinations?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "Você conhece algum albergue econômico e seguro nesta região?",
+        "correctAnswer":  "Do you know any affordable and safe hostels in this region?",
+        "options":  [
+                        "Do you know any affordable and safe hostels in this region?",
+                        "Can you suggest budget accommodations that are secure?",
+                        "Are there inexpensive lodgings with good safety standards?",
+                        "Do you recommend budget-friendly and trustworthy places to stay?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "Existem atividades especiais para famílias com crianças pequenas?",
+        "correctAnswer":  "Are there special activities for families with young children?",
+        "options":  [
+                        "Are there special activities for families with young children?",
+                        "Do you have programs designed for kids and parents?",
+                        "Can families with small children participate in events?",
+                        "Are there kid-friendly entertainment options available?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "Qual é a melhor forma de se locomover em uma grande metrópole?",
+        "correctAnswer":  "What is the best way to get around in a big city?",
+        "options":  [
+                        "What is the best way to get around in a big city?",
+                        "How can I travel efficiently in a major urban area?",
+                        "What transportation method works well in large cities?",
+                        "Is there a recommended way to navigate a metropolis?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "Preciso de informações sobre locais que oferecem atividades de aventura e ecoturismo.",
+        "correctAnswer":  "I need information about places that offer adventure activities and ecotourism.",
+        "options":  [
+                        "I need information about places that offer adventure activities and ecotourism.",
+                        "I want to know about sites with outdoor sports and nature tourism.",
+                        "Can you provide details on adventure and environmental travel destinations?",
+                        "I\u0027m looking for locations with thrilling activities and nature experiences."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "Qual é o horário de funcionamento dos museus durante a semana?",
+        "correctAnswer":  "What are the opening hours of the museums during the week?",
+        "options":  [
+                        "What are the opening hours of the museums during the week?",
+                        "When are the museums open on weekdays?",
+                        "What time do the galleries operate on work days?",
+                        "Are the museums accessible during regular business hours?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "Há restrições de bagagem para este voo específico?",
+        "correctAnswer":  "Are there baggage restrictions for this specific flight?",
+        "options":  [
+                        "Are there baggage restrictions for this specific flight?",
+                        "What are the luggage limitations on this airplane?",
+                        "Does this airline have special baggage rules?",
+                        "Can I bring unlimited luggage on this journey?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "Podem oferecer um quarto com acessibilidade para pessoas com deficiência?",
+        "correctAnswer":  "Can you provide an accessible room for people with disabilities?",
+        "options":  [
+                        "Can you provide an accessible room for people with disabilities?",
+                        "Do you have accommodations suitable for disabled guests?",
+                        "Is there a wheelchair-friendly room available?",
+                        "Can you arrange a specially equipped room for mobility challenges?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "Quais são as atrações principais que não podem deixar de ser visitadas?",
+        "correctAnswer":  "What are the main attractions that must not be missed?",
+        "options":  [
+                        "What are the main attractions that must not be missed?",
+                        "Which sites are essential to visit on a trip here?",
+                        "What iconic places should be on every itinerary?",
+                        "Are there unmissable destinations in this area?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "Como posso comprar passagens de transporte público antecipadamente?",
+        "correctAnswer":  "How can I buy public transport tickets in advance?",
+        "options":  [
+                        "How can I buy public transport tickets in advance?",
+                        "Is it possible to purchase bus or train tickets beforehand?",
+                        "Where can I obtain transit passes ahead of time?",
+                        "Can I pre-book rides on public transportation?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "Existem pacotes de viagem que combinam diferentes cidades em uma só excursão?",
+        "correctAnswer":  "Are there travel packages that combine different cities in one tour?",
+        "options":  [
+                        "Are there travel packages that combine different cities in one tour?",
+                        "Can I visit multiple destinations with a single package?",
+                        "Do they offer multi-city tours in one itinerary?",
+                        "Is there a tour that covers several urban areas together?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "É possível fazer uma reserva com antecedência maior para conseguir melhores preços?",
+        "correctAnswer":  "Is it possible to book well in advance to get better prices?",
+        "options":  [
+                        "Is it possible to book well in advance to get better prices?",
+                        "Can I reserve months earlier for discounts?",
+                        "Do early bookings guarantee cheaper rates?",
+                        "Will booking far ahead save me money?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "Há opções de transporte direto entre cidades próximas?",
+        "correctAnswer":  "Are there direct transport options between nearby cities?",
+        "options":  [
+                        "Are there direct transport options between nearby cities?",
+                        "Can I travel between close towns without changing vehicles?",
+                        "Is there non-stop transportation between neighboring areas?",
+                        "Do buses or trains run directly between local destinations?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "O hotel fornece mapa da região ou aplicativo para ajudar na navegação?",
+        "correctAnswer":  "Does the hotel provide a map of the region or an app to help with navigation?",
+        "options":  [
+                        "Does the hotel provide a map of the region or an app to help with navigation?",
+                        "Can the hotel give me maps or digital tools for directions?",
+                        "Is there a guide or navigation app supplied by the accommodation?",
+                        "Do they offer printed maps or smartphone navigation assistance?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "Posso participar em excursões de aventura mesmo não tendo experiência anterior?",
+        "correctAnswer":  "Can I participate in adventure excursions even without previous experience?",
+        "options":  [
+                        "Can I participate in adventure excursions even without previous experience?",
+                        "Are adventure tours open to beginners without skills?",
+                        "Do I need experience to join an expedition?",
+                        "Are there beginner-friendly adventure activities available?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "Qual é a política de cancelamento para hotéis e voos?",
+        "correctAnswer":  "What is the cancellation policy for hotels and flights?",
+        "options":  [
+                        "What is the cancellation policy for hotels and flights?",
+                        "How can I cancel my booking without losing money?",
+                        "Are there refunds if I need to change my plans?",
+                        "What are the terms for cancelling reservations?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "translation",
+        "questionText":  "Quanto tempo leva para chegar ao próximo destino?",
+        "difficulty":  "easy",
+        "options":  [
+                        "How long does it take to get to the next destination?",
+                        "What is the duration of the next trip?",
+                        "When will we arrive at the destination?",
+                        "How far is the next location?"
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "How long does it take to get to the next destination?"
+    }
+]

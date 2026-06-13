@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O médico recomendou que ela _____ exercícios regularmente para melhorar sua saúde cardiovascular.",
+        "correctAnswer":  "practise",
+        "options":  [
+                        "practice",
+                        "practise",
+                        "practiced",
+                        "practicing"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Se tivesse _____ os hábitos saudáveis antes, ele não teria desenvolvido diabetes.",
+        "correctAnswer":  "adopted",
+        "options":  [
+                        "adoption",
+                        "adopts",
+                        "adopted",
+                        "adopting"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "A nutricionista insistiu em que todos os pacientes _____ suas dietas de acordo com suas necessidades específicas.",
+        "correctAnswer":  "modify",
+        "options":  [
+                        "modifying",
+                        "modified",
+                        "modify",
+                        "modification"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Apesar de _____ sob estresse constantemente, ela mantém uma rotina de exercícios rigorosa.",
+        "correctAnswer":  "being",
+        "options":  [
+                        "be",
+                        "being",
+                        "been",
+                        "to be"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O terapeuta sugeriu que ele _____ sessões regulares para lidar com a ansiedade crônica.",
+        "correctAnswer":  "attend",
+        "options":  [
+                        "attends",
+                        "attend",
+                        "attending",
+                        "attended"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Tendo _____ na profissão médica por mais de vinte anos, o Dr. Silva é especialista em diagnósticos complexos.",
+        "correctAnswer":  "worked",
+        "options":  [
+                        "work",
+                        "working",
+                        "worked",
+                        "works"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "A pesquisa demonstra que quanto mais cedo as pessoas _____ mudanças no estilo de vida, menores são seus riscos de doenças crônicas.",
+        "correctAnswer":  "implement",
+        "options":  [
+                        "implementing",
+                        "implement",
+                        "implemented",
+                        "implements"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O paciente preferiria _____ à fisioterapia ao invés de recorrer à cirurgia.",
+        "correctAnswer":  "have submitted",
+        "options":  [
+                        "submit",
+                        "submitted",
+                        "have submitted",
+                        "submitting"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Cada vez que ela _____ seus medicamentos, seus sintomas melhoravam significativamente.",
+        "correctAnswer":  "took",
+        "options":  [
+                        "takes",
+                        "took",
+                        "has taken",
+                        "taking"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O programa de bem-estar exige que cada funcionário _____ ao menos trinta minutos de atividade física diariamente.",
+        "correctAnswer":  "engage",
+        "options":  [
+                        "engaging",
+                        "engage",
+                        "engaged",
+                        "engages"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Ela não apenas _____ seus hábitos alimentares, mas também começou a meditar regularmente.",
+        "correctAnswer":  "reformed",
+        "options":  [
+                        "reform",
+                        "reformed",
+                        "reforms",
+                        "reforming"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O terapeuta recomendou que ela _____ suas emoções negativas através de técnicas de respiração consciente.",
+        "correctAnswer":  "release",
+        "options":  [
+                        "releasing",
+                        "release",
+                        "released",
+                        "releases"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Ao _____ a gravidade da doença, o paciente finalmente reconheceu a necessidade de mudanças profundas.",
+        "correctAnswer":  "understanding",
+        "options":  [
+                        "understands",
+                        "understanding",
+                        "understood",
+                        "understand"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "A clínica _____ seus pacientes a fazerem avaliações de saúde regularmente para prevenir doenças.",
+        "correctAnswer":  "encourages",
+        "options":  [
+                        "encourage",
+                        "encouraging",
+                        "encouraged",
+                        "encourages"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Se ele tivesse _____ os sinais de alerta iniciais, teria evitado a hospitalização.",
+        "correctAnswer":  "heeded",
+        "options":  [
+                        "heed",
+                        "heeding",
+                        "heeded",
+                        "heeds"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O psicólogo insistiu que o paciente _____ sobre seus traumas subjacentes antes de qualquer progressão.",
+        "correctAnswer":  "reflect",
+        "options":  [
+                        "reflecting",
+                        "reflect",
+                        "reflected",
+                        "reflects"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Nunca _____ alguém com tanta dedicação ao seu próprio bem-estar mental como ela.",
+        "correctAnswer":  "have I witnessed",
+        "options":  [
+                        "I have witnessed",
+                        "have I witnessed",
+                        "witnessed I have",
+                        "I witnessed have"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O estudo revelou que aqueles que _____ uma vida equilibrada têm melhor qualidade de vida em geral.",
+        "correctAnswer":  "maintain",
+        "options":  [
+                        "maintained",
+                        "maintain",
+                        "maintaining",
+                        "maintains"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Quanto mais cedo a condição _____ diagnosticada, melhores são as perspectivas de recuperação completa.",
+        "correctAnswer":  "is",
+        "options":  [
+                        "be",
+                        "is",
+                        "will be",
+                        "being"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O paciente, _____ sobre as opções de tratamento, optou pela abordagem menos invasiva.",
+        "correctAnswer":  "having been informed",
+        "options":  [
+                        "being informed",
+                        "having been informed",
+                        "informed",
+                        "informing"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "A instituição _____ que seus membros participem de programas de educação em saúde regularmente.",
+        "correctAnswer":  "stipulates",
+        "options":  [
+                        "stipulates",
+                        "stipulate",
+                        "stipulating",
+                        "stipulated"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Independentemente de _____ fatores genéticos, o estilo de vida desempenha papel crucial na prevenção de doenças.",
+        "correctAnswer":  "underlying",
+        "options":  [
+                        "underlie",
+                        "underlying",
+                        "underlay",
+                        "underlain"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O programa foi projetado de forma que _____ paciente recebesse atenção personalizada adaptada às suas necessidades.",
+        "correctAnswer":  "each",
+        "options":  [
+                        "every",
+                        "each",
+                        "all",
+                        "any"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Não apenas ela _____ sua recuperação, mas também ajudou outros pacientes na mesma situação.",
+        "correctAnswer":  "accelerated",
+        "options":  [
+                        "accelerating",
+                        "accelerated",
+                        "accelerates",
+                        "accelerate"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Se o tratamento _____ iniciado mais cedo, o resultado poderia ter sido completamente diferente.",
+        "correctAnswer":  "had been",
+        "options":  [
+                        "was",
+                        "had been",
+                        "has been",
+                        "were"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Diversos especialistas concordam que o sono inadequado _____ a capacidade cognitiva e emocional.",
+        "correctAnswer":  "compromises",
+        "options":  [
+                        "compromise",
+                        "compromises",
+                        "compromising",
+                        "compromised"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O protocolo exige que cada procedimento _____ documentado de forma abrangente para fins de auditoria.",
+        "correctAnswer":  "be",
+        "options":  [
+                        "is",
+                        "be",
+                        "will be",
+                        "being"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Embora _____ os desafios iniciais, ela perseverou em seu programa de reabilitação.",
+        "correctAnswer":  "faced",
+        "options":  [
+                        "facing",
+                        "faced",
+                        "faces",
+                        "to face"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O paciente _____ ter seguido as recomendações médicas desde o início seria diferente sua história.",
+        "correctAnswer":  "wishes he had",
+        "options":  [
+                        "wishes he had",
+                        "wished he have",
+                        "wishes he has",
+                        "wished he had"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "A condição degenerativa, _____ complexa em sua natureza, requer abordagem multidisciplinar especializada.",
+        "correctAnswer":  "being",
+        "options":  [
+                        "is",
+                        "being",
+                        "been",
+                        "to be"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O cirurgião relatou que o paciente _____ para a cirurgia pela manhã e já estava caminhando à noite.",
+        "correctAnswer":  "had been",
+        "options":  [
+                        "was",
+                        "had been",
+                        "has been",
+                        "is"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Pesquisadores argumentam que a vacinação _____ a incidência de doenças infecciosas de forma dramática.",
+        "correctAnswer":  "has reduced",
+        "options":  [
+                        "reduces",
+                        "has reduced",
+                        "reduced",
+                        "is reducing"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Ele teria _____ melhor se tivesse aderido à dieta prescrita mais rigorosamente.",
+        "correctAnswer":  "recovered",
+        "options":  [
+                        "recover",
+                        "recovers",
+                        "recovered",
+                        "recovering"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "A intervenção precoce, aliada a suporte psicológico contínuo, _____ crucial para a remissão dos sintomas.",
+        "correctAnswer":  "has proven",
+        "options":  [
+                        "prove",
+                        "has proven",
+                        "proving",
+                        "proves"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O médico sugeriu que não apenas ela _____ seus medicamentos, mas também _____ seu ambiente de sono.",
+        "correctAnswer":  "adjust and optimize",
+        "options":  [
+                        "adjusts and optimizes",
+                        "adjust and optimize",
+                        "adjusted and optimized",
+                        "adjusting and optimizing"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Caso o paciente _____ continuar com o protocolo atual, seria necessário _____ a estratégia terapêutica.",
+        "correctAnswer":  "were to and revise",
+        "options":  [
+                        "was to and revising",
+                        "were to and revise",
+                        "is to and revise",
+                        "would and revise"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Tivessem os profissionais de saúde _____ recursos adequados, os resultados terapêuticos teriam sido muito superiores.",
+        "correctAnswer":  "had had",
+        "options":  [
+                        "had",
+                        "had had",
+                        "have had",
+                        "would have"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O fenômeno de recuperação plena é tão raro que poucos pesquisadores _____ que seja possível em casos tão avançados.",
+        "correctAnswer":  "would have believed",
+        "options":  [
+                        "would believe",
+                        "would have believed",
+                        "believe",
+                        "will believe"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "À medida que a condição _____ progressivamente deteriorada, os médicos se viram _____ reconsiderar todo o plano de tratamento.",
+        "correctAnswer":  "had been and compelled",
+        "options":  [
+                        "has and compelling",
+                        "had been and compelled",
+                        "is and compelling",
+                        "was and compel"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Somente mediante a implementação rigorosa de todas as recomendações _____ o paciente _____ tal nível de recuperação.",
+        "correctAnswer":  "could and achieve",
+        "options":  [
+                        "can and achieving",
+                        "could and achieve",
+                        "could and achieved",
+                        "can and achieved"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Não fosse a intervenção rápida da equipe médica, ele _____ definitivamente incapaz de se recuperar.",
+        "correctAnswer":  "would have remained",
+        "options":  [
+                        "would remain",
+                        "would have remained",
+                        "will remain",
+                        "remains"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O protocolo estipula que, _____ qualquer complicação surgir, o procedimento _____ imediatamente suspenso.",
+        "correctAnswer":  "should and be",
+        "options":  [
+                        "when and is",
+                        "should and be",
+                        "would and is",
+                        "will and being"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Tão determinado era ele em sua recuperação que nenhum obstáculo _____ capaz de _____ seu progresso.",
+        "correctAnswer":  "was and impede",
+        "options":  [
+                        "were and impeding",
+                        "was and impede",
+                        "is and impeded",
+                        "are and impeding"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Paralelamente ao tratamento farmacológico, recomenda-se que o paciente _____ simultaneamente técnicas de mindfulness e cognitive behavioral therapy.",
+        "correctAnswer":  "pursue",
+        "options":  [
+                        "pursues",
+                        "pursue",
+                        "pursuing",
+                        "pursued"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "A despeito de _____ sob condições adversas durante toda a sua vida, ela conseguiu _____ uma saúde mental notavelmente robusta.",
+        "correctAnswer":  "having labored and maintain",
+        "options":  [
+                        "laboring and maintaining",
+                        "having labored and maintain",
+                        "labored and maintained",
+                        "to labor and maintaining"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Os especialistas concordam unanimemente que, para que a recuperação _____ verdadeiramente completa, múltiplos fatores _____ ser abordados concomitantemente.",
+        "correctAnswer":  "be and must",
+        "options":  [
+                        "is and may",
+                        "be and must",
+                        "be and might",
+                        "is and could"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Havendo passado por inúmeras recaídas, o paciente finalmente conseguiu _____ a abstinência, transformando-se numa inspiração para todos.",
+        "correctAnswer":  "sustain",
+        "options":  [
+                        "sustaining",
+                        "sustain",
+                        "sustained",
+                        "sustains"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Caso ele _____ anteriormente procurado tratamento profissional, sua condição mental não _____ deteriorado tão drasticamente.",
+        "correctAnswer":  "had and would not have",
+        "options":  [
+                        "had and would not have",
+                        "would have and had not",
+                        "has and would not",
+                        "would and had not"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Fosse o programa implementado dez anos antes, a prevalência de doenças cardiovasculares _____ reduzida significativamente.",
+        "difficulty":  "medium",
+        "options":  [
+                        "would be",
+                        "would have been",
+                        "will be",
+                        "has been"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "would have been"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Não apenas o medicamento _____ eficaz, mas também _____ efeitos colaterais mínimos.",
+        "difficulty":  "medium",
+        "options":  [
+                        "proves and exhibiting",
+                        "proved and exhibited",
+                        "proving and exhibited",
+                        "proved and exhibit"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "proved and exhibited"
+    }
+]

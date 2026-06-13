@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Eu acordo às sete da manhã.",
+        "correctAnswer":  "I wake up at seven in the morning.",
+        "options":  [
+                        "I wake up at seven in the evening.",
+                        "I sleep at seven in the morning.",
+                        "I wake down at seven in the morning.",
+                        "I woke up at seven in the morning."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Ela toma banho no banheiro.",
+        "correctAnswer":  "She takes a shower in the bathroom.",
+        "options":  [
+                        "She takes a shower in the bedroom.",
+                        "She takes a bath in the kitchen.",
+                        "She makes a shower in the bathroom.",
+                        "She takes shower in the living room."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Ele escova os dentes todas as manhãs.",
+        "correctAnswer":  "He brushes his teeth every morning.",
+        "options":  [
+                        "He brushes the teeth every morning.",
+                        "He cleans his teeth every morning.",
+                        "He washes his teeth every day.",
+                        "He polishes his teeth every morning."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Você toma café da manhã com a família?",
+        "correctAnswer":  "Do you have breakfast with your family?",
+        "options":  [
+                        "Do you drink breakfast with your family?",
+                        "Do you make breakfast with your family?",
+                        "Do you eat coffee with your family?",
+                        "Do you take the breakfast with your family?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Eles saem de casa às oito horas.",
+        "correctAnswer":  "They leave home at eight o\u0027clock.",
+        "options":  [
+                        "They leave at home at eight o\u0027clock.",
+                        "They exit home at eight o\u0027clock.",
+                        "They go out house at eight o\u0027clock.",
+                        "They leave house for eight o\u0027clock."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Eu almoço no escritório durante a semana.",
+        "correctAnswer":  "I have lunch at the office during the week.",
+        "options":  [
+                        "I eat lunch in the office in the week.",
+                        "I have lunch on the office for the week.",
+                        "I take lunch at office during week.",
+                        "I eat the lunch in office the week."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Ela faz as tarefas domésticas à tarde.",
+        "correctAnswer":  "She does the housework in the afternoon.",
+        "options":  [
+                        "She makes housework in afternoon.",
+                        "She does house tasks at afternoon.",
+                        "She makes the houseworks in the afternoon.",
+                        "She does domestic works in the afternoon."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Nós vamos para a cama às dez da noite.",
+        "correctAnswer":  "We go to bed at ten at night.",
+        "options":  [
+                        "We go on bed at ten in the night.",
+                        "We go to bed at ten in night.",
+                        "We go for bed at ten p.m.",
+                        "We go in bed at ten o\u0027clock."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Ele trabalha cinco dias por semana.",
+        "correctAnswer":  "He works five days a week.",
+        "options":  [
+                        "He works five days per week.",
+                        "He works the five days a week.",
+                        "He works five times a week.",
+                        "He works five days in week."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Você costuma acordar cedo nos finais de semana?",
+        "correctAnswer":  "Do you usually wake up early on weekends?",
+        "options":  [
+                        "Do you usually wake up early in weekends?",
+                        "Do you usually wake early on the weekends?",
+                        "Do you normally wake up early in weekends?",
+                        "Do you usually wake up early at weekends?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Ela come uma maçã como lanche.",
+        "correctAnswer":  "She eats an apple as a snack.",
+        "options":  [
+                        "She eats one apple like a snack.",
+                        "She eats an apple like snack.",
+                        "She takes an apple as snack.",
+                        "She eats apple as a snack."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Eu lavo o carro no fim de semana.",
+        "correctAnswer":  "I wash the car on the weekend.",
+        "options":  [
+                        "I wash car on weekend.",
+                        "I clean the car in the weekend.",
+                        "I wash the car at weekend.",
+                        "I wash my car on the weekend."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Eles assistem à televisão à noite.",
+        "correctAnswer":  "They watch television in the evening.",
+        "options":  [
+                        "They see television at evening.",
+                        "They watch the television at night.",
+                        "They watch television in the night.",
+                        "They look at television in the evening."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Você tira a roupa molhada após o banho?",
+        "correctAnswer":  "Do you take off your wet clothes after the shower?",
+        "options":  [
+                        "Do you remove the wet clothes after shower?",
+                        "Do you take out your wet clothes after the bath?",
+                        "Do you take off wet clothes after the shower?",
+                        "Do you remove wet clothes after a shower?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Ela se penteia antes de sair de casa.",
+        "correctAnswer":  "She combs her hair before leaving home.",
+        "options":  [
+                        "She combs hair before leaving house.",
+                        "She combs her hair before leaving the house.",
+                        "She brushes her hair before leaving home.",
+                        "She combs her hair before going out."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Você escova os dentes antes de dormir?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Do you brush the teeth before sleeping?",
+                        "Do you brush your teeth before sleep?",
+                        "Do you clean your teeth before sleeping?",
+                        "Do you brush teeth before sleeping?"
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Do you brush your teeth before sleeping?"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Que horas você vai para a cama normalmente?",
+        "difficulty":  "easy",
+        "options":  [
+                        "What time you usually go to bed?",
+                        "What time do you go to bed normally?",
+                        "What time you go to bed usually?",
+                        "What time do you usually go in bed?"
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "What time do you usually go to bed?"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Eu acordo e imediatamente vou para o chuveiro.",
+        "correctAnswer":  "I wake up and immediately go to the shower.",
+        "options":  [
+                        "I wake and immediately go for the shower.",
+                        "I wake up and directly go to the shower.",
+                        "I wake up and at once I go for shower.",
+                        "I wake and immediately I go for the shower."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Depois do café, ela verifica os e-mails de trabalho.",
+        "correctAnswer":  "After breakfast, she checks her work emails.",
+        "options":  [
+                        "After breakfast, she checks work emails.",
+                        "After the breakfast, she checks her work mails.",
+                        "After breakfast, she verifies work emails.",
+                        "After having breakfast, she checks work emails."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Ele sempre prepara o lanche para levar ao trabalho.",
+        "correctAnswer":  "He always prepares his lunch to take to work.",
+        "options":  [
+                        "He always prepares lunch for take to work.",
+                        "He always prepares the lunch for to take work.",
+                        "He always gets lunch ready to bring at work.",
+                        "He always makes lunch for take to the work."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Nós costumamos sair para passear no domingo à tarde.",
+        "correctAnswer":  "We usually go for a walk on Sunday afternoon.",
+        "options":  [
+                        "We usually go walking in Sunday afternoon.",
+                        "We often go for a walk on Sunday in the afternoon.",
+                        "We usually go to walk on Sundays afternoon.",
+                        "We usually take a walk on Sunday at afternoon."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Ela cumpre sua rotina diária com disciplina.",
+        "correctAnswer":  "She follows her daily routine with discipline.",
+        "options":  [
+                        "She follows the daily routine with discipline.",
+                        "She fulfills her daily routine with discipline.",
+                        "She does her daily routine with discipline.",
+                        "She keeps her routine daily with discipline."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Antes de dormir, eu leio um livro por meia hora.",
+        "correctAnswer":  "Before going to bed, I read a book for half an hour.",
+        "options":  [
+                        "Before sleeping, I read a book for half hour.",
+                        "Before going to sleep, I read a book for thirty minutes.",
+                        "Before bed, I read one book for half hour.",
+                        "Before going to bed, I read book for half an hour."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Você come algo leve no café da manhã?",
+        "correctAnswer":  "Do you eat something light for breakfast?",
+        "options":  [
+                        "Do you eat light thing for breakfast?",
+                        "Do you eat something light in breakfast?",
+                        "Do you eat light food at breakfast?",
+                        "Do you have something light in the breakfast?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Eles costumam fazer exercício no final da tarde.",
+        "correctAnswer":  "They usually exercise in the late afternoon.",
+        "options":  [
+                        "They usually do exercises in the late afternoon.",
+                        "They usually make exercise at the afternoon.",
+                        "They usually exercise in late afternoon.",
+                        "They usually do some exercise in late afternoon."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Minha rotina envolve muitas tarefas todos os dias.",
+        "correctAnswer":  "My routine involves many tasks every day.",
+        "options":  [
+                        "My routine involves a lot of tasks every day.",
+                        "My routine includes many tasks all days.",
+                        "My daily routine involves many tasks everyday.",
+                        "My routine includes a lot of tasks daily."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Ela se arruma rapidamente antes de sair para o trabalho.",
+        "correctAnswer":  "She gets ready quickly before going to work.",
+        "options":  [
+                        "She prepares herself quickly before leaving for work.",
+                        "She gets ready fastly before going to the work.",
+                        "She prepares quickly before she goes to work.",
+                        "She gets dressed quickly before going to work."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Nós jantamos juntos sempre que possível.",
+        "correctAnswer":  "We have dinner together whenever possible.",
+        "options":  [
+                        "We eat dinner together when possible.",
+                        "We have dinner together whenever we can.",
+                        "We dine together always when possible.",
+                        "We have dinner all together whenever possible."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Você precisa acordar mais cedo amanhã?",
+        "correctAnswer":  "Do you need to wake up earlier tomorrow?",
+        "options":  [
+                        "Do you need wake up earlier tomorrow?",
+                        "Do you need to wake earlier tomorrow morning?",
+                        "Do you have to wake up more early tomorrow?",
+                        "Do you need wake earlier tomorrow?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Ele costuma acordar com o despertador ou naturalmente?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Does he usually wake up from alarm or naturally?",
+                        "Does he usually wakes up with the alarm or naturally?",
+                        "Is he usually waking with the alarm or naturally?",
+                        "Does he usually wake up by the alarm or naturally?"
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Does he usually wake up with the alarm or naturally?"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Você toma café, suco ou chá de manhã?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Do you drink coffee, juice or tea in the morning?",
+                        "Do you have the coffee, juice or tea in morning?",
+                        "Do you take coffee, juice or tea every morning?",
+                        "Do you have coffee, juice or tea at morning?"
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Do you have coffee, juice or tea in the morning?"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Ela gasta quanto tempo se arrumando antes de sair?",
+        "difficulty":  "medium",
+        "options":  [
+                        "How much time does she spend to get ready before leaving?",
+                        "How much time she spends getting ready before leaving?",
+                        "How much time does she get ready before leaving?",
+                        "How much time does she spend getting ready before she leaves?"
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "How much time does she spend getting ready before leaving?"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Nós preferimos comer em casa ou fora durante os fins de semana?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Do we prefer eating at home or out during weekends?",
+                        "Do we prefer to eat in house or out during weekends?",
+                        "Do we prefer eating at home or outside during weekends?",
+                        "Do we prefer to eat at home or outside on weekends?"
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Do we prefer to eat at home or out during weekends?"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Você faz algo especial para relaxar antes de dormir?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Do you do anything special for relaxing before sleeping?",
+                        "Do you make something special for relax before sleeping?",
+                        "Do you do something special to relax before sleep?",
+                        "Do you do something special for relax before sleeping?"
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Do you do something special to relax before sleeping?"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Ela não consegue dormir bem sem sua xícara de chá à noite.",
+        "correctAnswer":  "She cannot sleep well without her cup of tea at night.",
+        "options":  [
+                        "She can\u0027t sleep well without her cup of tea in the night.",
+                        "She cannot sleep good without her tea at night.",
+                        "She doesn\u0027t sleep well without her tea cup at night.",
+                        "She can\u0027t sleep well without tea cup at evening."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Minha manhã seria muito mais agradável se eu pudesse acordar mais tarde.",
+        "correctAnswer":  "My morning would be much more pleasant if I could wake up later.",
+        "options":  [
+                        "My morning would be much better if I could wake later.",
+                        "My morning would be more pleasant if I could sleep longer.",
+                        "My mornings would be much pleasant if I woke up later.",
+                        "My morning would be nicer if I could wake up late."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Ele aproveitou para se alongar enquanto esperava o café esquentar.",
+        "correctAnswer":  "He took the opportunity to stretch while waiting for the coffee to heat up.",
+        "options":  [
+                        "He took the chance to stretch while waiting the coffee to warm.",
+                        "He used the time to stretch while the coffee was heating.",
+                        "He took time to stretch while waiting for coffee warming up.",
+                        "He got the chance for stretching while waiting the coffee to warm."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Desde que comecei essa rotina, minha saúde melhorou significativamente.",
+        "correctAnswer":  "Since I started this routine, my health has improved significantly.",
+        "options":  [
+                        "Since I began this routine, my health improved significantly.",
+                        "Since I started that routine, my health has improved much.",
+                        "From when I started this routine, my health has improved greatly.",
+                        "Since I started this routine, my health significantly improved."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Ela teve que ajustar sua rotina porque começou a trabalhar em turnos.",
+        "correctAnswer":  "She had to adjust her routine because she started working in shifts.",
+        "options":  [
+                        "She had to adjust her routine because she began to work in shifts.",
+                        "She needed to adjust her routine since she started shift work.",
+                        "She had adjust her routine because she started shifts work.",
+                        "She has to adjust her routine because she began working shifts."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Apesar da rotina ser cansativa, ele não reclama e segue em frente.",
+        "correctAnswer":  "Despite the routine being tiring, he doesn\u0027t complain and moves forward.",
+        "options":  [
+                        "Despite the routine is tiring, he doesn\u0027t complain and goes on.",
+                        "Although the routine is exhausting, he doesn\u0027t complain and continues.",
+                        "Even though the routine is tiring, he doesn\u0027t complain and keep going.",
+                        "Despite the routine be tiring, he doesn\u0027t complain and carries on."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Nós reorganizamos nossa rotina para acomodar o novo horário de trabalho.",
+        "correctAnswer":  "We reorganized our routine to accommodate the new work schedule.",
+        "options":  [
+                        "We reorganized our routine to accommodate with the new work schedule.",
+                        "We re-organized our routine in order to accommodate the new schedule.",
+                        "We rearranged our routine to fit in the new work schedule.",
+                        "We reorganized our routine for accommodating the new work hours."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Se você mantiver essa rotina consistentemente, verá resultados em poucas semanas.",
+        "correctAnswer":  "If you maintain this routine consistently, you will see results in a few weeks.",
+        "options":  [
+                        "If you keep this routine consistent, you will see results in some weeks.",
+                        "If you maintain this routine consistently, you\u0027ll see results within weeks.",
+                        "If you stay with this routine consistently, you will see results soon.",
+                        "If you keep your routine consistently, you will have results in weeks."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Ela descobriu que era mais produtiva quando alternava entre diferentes tipos de tarefas.",
+        "correctAnswer":  "She discovered that she was more productive when she alternated between different types of tasks.",
+        "options":  [
+                        "She found out that she was more productive when alternating between different tasks types.",
+                        "She discovered that she was most productive when she alternated different task types.",
+                        "She found that she was more productive when alternating tasks of different kinds.",
+                        "She discovered she was most productive when alternating between task types."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Ocupado demais durante o dia, ele só conseguia se exercitar no amanhecer.",
+        "correctAnswer":  "Being too busy during the day, he could only exercise at dawn.",
+        "options":  [
+                        "Too busy during the day, he could only exercise at the dawn.",
+                        "Too busy in the day, he could only exercise in the sunrise.",
+                        "Being too busy daytime, he could only exercise at dawn.",
+                        "Too occupied during the day, he only could exercise at dawn."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Para otimizar seu tempo, ela estabeleceu prioridades nas tarefas da rotina.",
+        "correctAnswer":  "To optimize her time, she established priorities in her routine tasks.",
+        "options":  [
+                        "To optimize her time, she set priorities in her routine tasks.",
+                        "In order to optimize her time, she established priorities in the routine tasks.",
+                        "To make her time better, she set priorities in her routine tasks.",
+                        "For optimizing her time, she established priorities in routine tasks."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Quanto mais cedo você começar essa rotina, mais rápido colherá os benefícios.",
+        "correctAnswer":  "The sooner you start this routine, the faster you will reap the benefits.",
+        "options":  [
+                        "The earlier you start this routine, the quicker you will get the benefits.",
+                        "The sooner you begin this routine, the more quickly you gain benefits.",
+                        "The earlier you start this routine, the faster you will have benefits.",
+                        "The sooner you start this routine, the quicker the benefits will come."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Seu progresso dependerá de quanto você se comprometer com a rotina estabelecida.",
+        "correctAnswer":  "Your progress will depend on how much you commit to the established routine.",
+        "options":  [
+                        "Your progress will depend on how much you are committed with the routine.",
+                        "Your progress depends on how committed you are to the established routine.",
+                        "Your progress depends on how much you commit yourself to the routine.",
+                        "Your progress will depend how much you commit to the established routine."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Ela mudou completamente sua rotina após perceber como estava afetando sua saúde mental.",
+        "correctAnswer":  "She completely changed her routine after realizing how it was affecting her mental health.",
+        "options":  [
+                        "She totally changed her routine after realizing how it affected her mental health.",
+                        "She completely changed her routine after noticing how it was affecting her mental health.",
+                        "She totally modified her routine when she realized how it was affecting mental health.",
+                        "She completely transformed her routine after she realized how it affected her mental health."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Quando mudei minha rotina, percebi o quanto ela afetava meu bem-estar geral.",
+        "difficulty":  "hard",
+        "options":  [
+                        "When I changed my routine, I noticed how much it affected my overall well-being.",
+                        "When I change my routine, I realized how much it affects my overall well-being.",
+                        "Since I changed my routine, I realized how much it had affected my well-being.",
+                        "When I changed my routine, I found how much it affected my general well-being."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "When I changed my routine, I realized how much it affected my overall well-being."
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "rotina_diaria",
+        "type":  "translation",
+        "questionText":  "Independentemente de quão cansado eu esteja, tento manter minha rotina de exercícios.",
+        "difficulty":  "hard",
+        "options":  [
+                        "No matter how tired I am, I try to maintain my exercise routine.",
+                        "Despite how tired I am, I try to maintain my exercise routine.",
+                        "Even though how tired I am, I try to maintain my exercise routine.",
+                        "However tired I am, I try to maintain my exercise routine."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Regardless of how tired I am, I try to maintain my exercise routine."
+    }
+]

@@ -1,0 +1,782 @@
+[
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você está em uma reunião técnica e precisa sugerir que a equipe atualize o sistema legado antes de adicionar novas funcionalidades. Como você expressa essa recomendação de forma profissional?",
+    "correctAnswer": "I'd strongly advocate for refactoring the legacy system prior to layering on additional features.",
+    "options": [
+      "I'd strongly advocate for refactoring the legacy system prior to layering on additional features.",
+      "We need to fix the old system before we put new things in it.",
+      "The legacy system should be updated so we can add features later.",
+      "Maybe we could think about improving the system before adding stuff."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Um colega enviou um e-mail pedindo ajuda para entender um conceito de programação orientada a objetos. Como você se oferece para explicar de forma colaborativa?",
+    "correctAnswer": "I'd be happy to walk you through the concept of object-oriented programming — shall we schedule a call?",
+    "options": [
+      "I'd be happy to walk you through the concept of object-oriented programming — shall we schedule a call?",
+      "I can explain object-oriented programming to you if you want.",
+      "Object-oriented programming is not that hard, I can show you.",
+      "Sure, I know about OOP and can tell you about it sometime."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você precisa alertar sua equipe sobre uma falha de segurança crítica que foi descoberta no sistema. Como você comunica a urgência de forma adequada?",
+    "correctAnswer": "I need to flag a critical security vulnerability that requires immediate attention from the entire team.",
+    "options": [
+      "I need to flag a critical security vulnerability that requires immediate attention from the entire team.",
+      "There is a security problem and everyone needs to look at it now.",
+      "We found something bad in the security and need to fix it.",
+      "The system has a security issue that is very important and urgent."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Durante uma apresentação sobre cloud computing, um cliente pergunta se o serviço é confiável. Como você o tranquiliza sobre a disponibilidade do sistema?",
+    "correctAnswer": "Our platform guarantees 99.9% uptime with robust failover mechanisms to ensure uninterrupted service.",
+    "options": [
+      "Our platform guarantees 99.9% uptime with robust failover mechanisms to ensure uninterrupted service.",
+      "Our system is very reliable and almost never goes down.",
+      "We have a good cloud and it works most of the time without problems.",
+      "The service is up almost always and we try to keep it running well."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir permissão ao seu gestor para testar uma nova tecnologia no próximo sprint. Como você faz esse pedido de maneira formal?",
+    "correctAnswer": "I'd like to request approval to pilot a new technology stack during the upcoming sprint.",
+    "options": [
+      "I'd like to request approval to pilot a new technology stack during the upcoming sprint.",
+      "Can I try a new technology in the next sprint?",
+      "I want to test something new in the next sprint if that is okay.",
+      "Is it fine if I use a different technology for our next sprint?"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você recebeu um relatório de bug de um usuário e precisa confirmar que entendeu o problema e que irá investigar. Como você responde?",
+    "correctAnswer": "Thank you for the detailed report. I've acknowledged the issue and will investigate it promptly.",
+    "options": [
+      "Thank you for the detailed report. I've acknowledged the issue and will investigate it promptly.",
+      "Thanks, I see the bug and will look into it soon.",
+      "Okay, I got your message about the problem and will check it out.",
+      "I read about the bug and will try to fix it when I have time."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Em um fórum técnico, você quer discordar educadamente de uma solução proposta por outro desenvolvedor. Como você expressa sua discordância de forma construtiva?",
+    "correctAnswer": "With all due respect, I'd like to propose an alternative approach that might better address the scalability concerns.",
+    "options": [
+      "With all due respect, I'd like to propose an alternative approach that might better address the scalability concerns.",
+      "I don't agree with your solution because there is a better way to do it.",
+      "Your approach is wrong and my solution is better for scalability.",
+      "I think you are not right and we should do this in a different way."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você precisa explicar para um usuário não técnico o que é um firewall de forma simples e acessível. Como você faz isso?",
+    "correctAnswer": "Think of a firewall as a digital gatekeeper that monitors and controls the traffic entering and leaving your network.",
+    "options": [
+      "Think of a firewall as a digital gatekeeper that monitors and controls the traffic entering and leaving your network.",
+      "A firewall is a software that blocks bad things from your computer network.",
+      "Firewalls are programs that protect your network from external attacks.",
+      "A firewall checks your internet connection and stops unwanted access to your system."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você está escrevendo a documentação de uma API e precisa instruir os desenvolvedores sobre como autenticar as requisições. Como você redigiu essa instrução?",
+    "correctAnswer": "All API requests must include a valid Bearer token in the Authorization header to authenticate successfully.",
+    "options": [
+      "All API requests must include a valid Bearer token in the Authorization header to authenticate successfully.",
+      "You need to put your token in the header when calling the API to authenticate.",
+      "Add the token to your requests so the API knows who you are.",
+      "The API needs a token in your request so it can verify your identity."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você precisa recusar gentilmente um pedido de integração com um sistema terceiro que não atende aos padrões de segurança da empresa. Como você comunica isso?",
+    "correctAnswer": "Unfortunately, we're unable to proceed with this integration as the third-party system does not comply with our security standards.",
+    "options": [
+      "Unfortunately, we're unable to proceed with this integration as the third-party system does not comply with our security standards.",
+      "We can't do this integration because the other system is not secure enough for us.",
+      "Sorry, but the third-party system doesn't meet our security requirements and we won't integrate.",
+      "We have to say no to this integration because their system is not safe."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Durante uma entrevista de emprego para uma vaga de desenvolvedor sênior, você é perguntado sobre sua experiência com metodologias ágeis. Como você descreve sua experiência de forma profissional?",
+    "correctAnswer": "I have extensive hands-on experience with Agile methodologies, having led cross-functional teams through multiple Scrum sprints.",
+    "options": [
+      "I have extensive hands-on experience with Agile methodologies, having led cross-functional teams through multiple Scrum sprints.",
+      "I know Agile very well and have worked with Scrum in many projects as a team leader.",
+      "I've used Agile and Scrum for a long time and I know how they work well.",
+      "I work with Agile a lot and I'm good at leading teams using Scrum methodology."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você precisa solicitar mais tempo para concluir uma migração de banco de dados que está mais complexa do que o esperado. Como você comunica isso ao seu gestor?",
+    "correctAnswer": "The database migration has proven more complex than initially scoped; I'd like to request a deadline extension.",
+    "options": [
+      "The database migration has proven more complex than initially scoped; I'd like to request a deadline extension.",
+      "The database migration is harder than expected and I need more time to finish it.",
+      "I need to tell you that the migration is taking longer than planned and I need an extension.",
+      "The database work is more difficult than I thought and I would like extra time."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer elogiar um colega pelo excelente trabalho realizado na otimização de um algoritmo. Como você expressa o reconhecimento de forma eloquente?",
+    "correctAnswer": "Your optimization of the algorithm was truly outstanding — you've significantly reduced processing time without compromising accuracy.",
+    "options": [
+      "Your optimization of the algorithm was truly outstanding — you've significantly reduced processing time without compromising accuracy.",
+      "You did a really good job with the algorithm and made it much faster.",
+      "Great work on the algorithm! It is faster now and still works correctly.",
+      "You improved the algorithm very well and now it runs better than before."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você precisa explicar brevemente o conceito de computação em nuvem para uma plateia de executivos não técnicos em uma reunião de negócios. Como você inicia sua explicação?",
+    "correctAnswer": "In essence, cloud computing allows organizations to access computing resources on demand over the internet, eliminating the need for costly on-premises infrastructure.",
+    "options": [
+      "In essence, cloud computing allows organizations to access computing resources on demand over the internet, eliminating the need for costly on-premises infrastructure.",
+      "Cloud computing means using the internet to get computing power instead of buying your own servers.",
+      "With cloud computing, companies can use computers and storage on the internet without having their own hardware.",
+      "Cloud computing is when you use the internet to access servers and storage instead of having them in your office."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você encontrou um erro crítico em produção e precisa comunicar o incidente à equipe de suporte de forma clara e concisa. Como você abre o chamado?",
+    "correctAnswer": "CRITICAL INCIDENT: Production environment is experiencing database connectivity failures affecting all end users. Immediate escalation required.",
+    "options": [
+      "CRITICAL INCIDENT: Production environment is experiencing database connectivity failures affecting all end users. Immediate escalation required.",
+      "There is a big problem in production with the database and all users are affected. Please help.",
+      "The production system is down because of database problems and many users cannot access it.",
+      "We have a serious issue in production right now — the database is not working and users are impacted."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer recomendar ao cliente que ele adote uma política de senhas mais robusta para seus usuários. Como você faz essa recomendação?",
+    "correctAnswer": "I strongly recommend implementing a robust password policy that enforces complexity requirements and mandatory periodic resets.",
+    "options": [
+      "I strongly recommend implementing a robust password policy that enforces complexity requirements and mandatory periodic resets.",
+      "You should make your users use better and stronger passwords and change them sometimes.",
+      "I think you need a better password policy so users have to use complex passwords.",
+      "Users should be required to use strong passwords and change them regularly to be more secure."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você precisa confirmar para o cliente que o deploy foi realizado com sucesso no ambiente de produção após o horário de pico. Como você comunica isso?",
+    "correctAnswer": "I'm pleased to confirm that the deployment to the production environment was completed successfully during the off-peak window.",
+    "options": [
+      "I'm pleased to confirm that the deployment to the production environment was completed successfully during the off-peak window.",
+      "The deploy worked fine and we put everything in production when there were fewer users.",
+      "We are happy to tell you that the production deploy was done successfully in the quiet hours.",
+      "The deployment to production was successful and we did it when there was less traffic."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Em uma discussão sobre arquitetura de software, você precisa justificar a escolha de uma arquitetura de microsserviços em vez de um sistema monolítico. Como você apresenta esse argumento?",
+    "correctAnswer": "A microservices architecture affords us greater scalability and fault isolation, enabling independent deployment of each service.",
+    "options": [
+      "A microservices architecture affords us greater scalability and fault isolation, enabling independent deployment of each service.",
+      "Microservices are better because we can scale and deploy each part of the system independently.",
+      "With microservices, we can make each part bigger separately and if one breaks, the others still work.",
+      "Microservices allow us to have smaller parts of the system that can be deployed and scaled on their own."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você está negociando um SLA (Service Level Agreement) com um fornecedor de serviços de nuvem e precisa especificar os requisitos de disponibilidade. Como você articula sua exigência?",
+    "correctAnswer": "We require a minimum guaranteed uptime of 99.99%, with explicit penalties stipulated for any breach of this SLA threshold.",
+    "options": [
+      "We require a minimum guaranteed uptime of 99.99%, with explicit penalties stipulated for any breach of this SLA threshold.",
+      "We need the service to be up at least 99.99% of the time and there should be penalties if this is not met.",
+      "The system must have 99.99% availability and the vendor must pay if they don't achieve this.",
+      "We want 99.99% uptime guaranteed and consequences for the vendor if they fail to provide this."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você está apresentando os resultados de um pentest (teste de penetração) para a diretoria e precisa contextualizar a gravidade de uma vulnerabilidade encontrada. Como você a classifica?",
+    "correctAnswer": "This vulnerability has been assessed as critical severity, as it exposes the system to remote code execution without requiring prior authentication.",
+    "options": [
+      "This vulnerability has been assessed as critical severity, as it exposes the system to remote code execution without requiring prior authentication.",
+      "The vulnerability we found is very dangerous because someone can run code on the system without logging in.",
+      "We classified this vulnerability as critical because attackers can execute code remotely and don't need to authenticate.",
+      "This is a very bad vulnerability that allows people to run code on the server without needing a password."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você precisa convencer sua equipe a adotar práticas de DevSecOps, integrando segurança em todo o ciclo de desenvolvimento. Como você apresenta essa proposta?",
+    "correctAnswer": "I'm proposing we embed security practices throughout the entire SDLC by adopting a DevSecOps culture, shifting security left from the outset.",
+    "options": [
+      "I'm proposing we embed security practices throughout the entire SDLC by adopting a DevSecOps culture, shifting security left from the outset.",
+      "We should integrate security into all stages of development by using DevSecOps from the beginning.",
+      "I think we should use DevSecOps to add security to all parts of the development process.",
+      "My proposal is to put security in every step of development using DevSecOps principles and practices."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Durante uma code review, você identifica que um desenvolvedor júnior usou uma consulta SQL suscetível a injeção. Como você aponta o problema de forma construtiva e educativa?",
+    "correctAnswer": "I've flagged this query as it's vulnerable to SQL injection — I'd recommend using parameterized queries to sanitize user input effectively.",
+    "options": [
+      "I've flagged this query as it's vulnerable to SQL injection — I'd recommend using parameterized queries to sanitize user input effectively.",
+      "This SQL query is not safe because it can be attacked. You should use parameterized queries instead.",
+      "Your query has an SQL injection problem. Please change it to use parameters to make it secure.",
+      "The query you wrote is vulnerable to SQL injection attacks, so you need to fix it with parameterized queries."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você precisa explicar para o cliente por que a latência aumentou após a migração para a nuvem e propor uma solução. Como você comunica isso?",
+    "correctAnswer": "The observed latency increase is attributable to suboptimal routing configurations post-migration; implementing a CDN should mitigate this significantly.",
+    "options": [
+      "The observed latency increase is attributable to suboptimal routing configurations post-migration; implementing a CDN should mitigate this significantly.",
+      "The latency got worse after the migration because of routing issues and a CDN should help fix this.",
+      "After the migration, latency increased because routing is not configured well. A CDN can reduce this problem.",
+      "We have more latency now because of migration routing problems, and using a CDN will make it better."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Em uma reunião de revisão de arquitetura, você precisa questionar a decisão de armazenar dados sensíveis em texto plano no banco de dados. Como você levanta essa preocupação?",
+    "correctAnswer": "I'd like to raise a concern regarding the storage of sensitive data in plaintext — this poses a significant compliance risk under GDPR and LGPD regulations.",
+    "options": [
+      "I'd like to raise a concern regarding the storage of sensitive data in plaintext — this poses a significant compliance risk under GDPR and LGPD regulations.",
+      "I'm worried that storing sensitive data without encryption can cause legal problems under data protection laws.",
+      "We should not store sensitive data in plaintext because it is not compliant with GDPR and LGPD.",
+      "I want to point out that having sensitive data in plaintext is a problem for data protection regulations."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você está escrevendo um post-mortem de um incidente e precisa descrever a causa raiz de uma falha em cascata no sistema distribuído. Como você redige essa seção?",
+    "correctAnswer": "The root cause was identified as a cascading failure triggered by a misconfigured circuit breaker that prevented downstream service recovery.",
+    "options": [
+      "The root cause was identified as a cascading failure triggered by a misconfigured circuit breaker that prevented downstream service recovery.",
+      "The problem started because a circuit breaker was configured wrong and caused many services to fail one after another.",
+      "A wrongly configured circuit breaker caused the cascade failure and prevented the services from recovering.",
+      "The main cause of the incident was a bad circuit breaker configuration that made several services fail in sequence."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você precisa orientar um desenvolvedor sobre como implementar autenticação multifator de forma adequada na aplicação. Como você fornece essa orientação?",
+    "correctAnswer": "I'd advise implementing TOTP-based MFA using an authenticator app, ensuring the shared secret is stored with appropriate encryption at rest.",
+    "options": [
+      "I'd advise implementing TOTP-based MFA using an authenticator app, ensuring the shared secret is stored with appropriate encryption at rest.",
+      "You should use MFA with an authenticator app and make sure the secret is encrypted when stored.",
+      "Implement multi-factor authentication using TOTP and an authenticator app, and encrypt the secret in the database.",
+      "Use TOTP multi-factor authentication and remember to keep the secret encrypted in storage."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você está apresentando o conceito de IaC (Infrastructure as Code) para uma equipe de operações resistente à mudança. Como você justifica a adoção dessa prática?",
+    "correctAnswer": "Infrastructure as Code eliminates configuration drift and enables fully reproducible, version-controlled environments, dramatically reducing human error.",
+    "options": [
+      "Infrastructure as Code eliminates configuration drift and enables fully reproducible, version-controlled environments, dramatically reducing human error.",
+      "Using IaC means we can manage our infrastructure like code, making it easier to reproduce environments and avoid mistakes.",
+      "IaC helps us keep environments consistent and reduces human errors because everything is in code and version controlled.",
+      "With Infrastructure as Code, we can version control our infrastructure and avoid differences between environments."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você precisa recusar uma solicitação de acesso privilegiado a um sistema crítico, citando o princípio de menor privilégio. Como você comunica essa recusa de forma técnica e fundamentada?",
+    "correctAnswer": "In adherence to the principle of least privilege, I'm unable to grant this level of access, as it exceeds what is strictly necessary for the requested task.",
+    "options": [
+      "In adherence to the principle of least privilege, I'm unable to grant this level of access, as it exceeds what is strictly necessary for the requested task.",
+      "I cannot give you this access because it's too much according to the least privilege principle.",
+      "Based on least privilege, we cannot provide this level of access because it is more than you need for the task.",
+      "The least privilege principle means I have to deny this access request because it gives too many permissions."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você está conduzindo uma retrospectiva de sprint e precisa identificar gargalos no pipeline de CI/CD da equipe. Como você formula essa questão para o grupo?",
+    "correctAnswer": "Let's collectively identify the bottlenecks in our CI/CD pipeline that are impeding our deployment frequency and overall throughput.",
+    "options": [
+      "Let's collectively identify the bottlenecks in our CI/CD pipeline that are impeding our deployment frequency and overall throughput.",
+      "We should talk about what is slowing down our CI/CD pipeline and making deployments take longer.",
+      "Can we discuss what problems we have in our CI/CD that are making us deploy less often?",
+      "Let's figure out what parts of our pipeline are causing delays in deployment and overall speed."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Um cliente quer saber a diferença entre escalabilidade horizontal e vertical no contexto de servidores. Como você explica a distinção de forma técnica e precisa?",
+    "correctAnswer": "Vertical scaling entails upgrading the resources of a single node, whereas horizontal scaling involves adding more nodes to distribute the workload.",
+    "options": [
+      "Vertical scaling entails upgrading the resources of a single node, whereas horizontal scaling involves adding more nodes to distribute the workload.",
+      "Vertical scaling means making one server stronger and horizontal scaling means adding more servers to share the work.",
+      "When you scale vertically, you make the server better; when you scale horizontally, you add more servers.",
+      "Vertical is about one server with more power and horizontal is about many servers working together."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você está discutindo a adoção de um novo framework de frontend com a equipe e precisa ponderar os trade-offs. Como você inicia essa análise?",
+    "correctAnswer": "Before committing to this framework, we should rigorously evaluate the trade-offs between its performance benefits and the inherent learning curve for the team.",
+    "options": [
+      "Before committing to this framework, we should rigorously evaluate the trade-offs between its performance benefits and the inherent learning curve for the team.",
+      "We need to think about if the new framework is worth it considering how long it will take the team to learn it.",
+      "Let's evaluate if the benefits of this framework are better than the time and effort needed to learn it.",
+      "We should weigh the advantages of this new framework against how difficult it will be for the team to adopt it."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você precisa comunicar ao cliente que os dados foram comprometidos em uma violação de segurança, cumprindo as obrigações legais de notificação. Como você redige essa comunicação?",
+    "correctAnswer": "We are writing to inform you of a data breach that may have affected your personal information, in compliance with our statutory notification obligations.",
+    "options": [
+      "We are writing to inform you of a data breach that may have affected your personal information, in compliance with our statutory notification obligations.",
+      "We are telling you that your data may have been stolen because the law requires us to inform you.",
+      "Your personal data may have been compromised in a security breach and we are legally required to notify you.",
+      "We are obligated to tell you that there was a security breach and your personal information may have been affected."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Em uma entrevista técnica de alto nível, você é solicitado a descrever sua abordagem para garantir a observabilidade em sistemas distribuídos. Como você responde?",
+    "correctAnswer": "My approach encompasses the three pillars of observability: distributed tracing, structured logging, and metrics aggregation, all correlated via a centralized platform.",
+    "options": [
+      "My approach encompasses the three pillars of observability: distributed tracing, structured logging, and metrics aggregation, all correlated via a centralized platform.",
+      "I use tracing, logging, and metrics together in a central tool to observe distributed systems effectively.",
+      "For observability, I set up tracing, logging, and metrics that are all connected in one monitoring platform.",
+      "I implement the three observability pillars — traces, logs, and metrics — and correlate them in a central system."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você está propondo a migração para uma arquitetura event-driven para resolver problemas de acoplamento no sistema atual. Como você articula os benefícios dessa mudança?",
+    "correctAnswer": "Transitioning to an event-driven architecture would decouple our services, enhance resilience, and allow each component to scale independently based on event throughput.",
+    "options": [
+      "Transitioning to an event-driven architecture would decouple our services, enhance resilience, and allow each component to scale independently based on event throughput.",
+      "An event-driven architecture helps our services to be less coupled and scale better based on the amount of events.",
+      "Moving to event-driven would make our services less dependent on each other and able to scale independently.",
+      "With event-driven architecture, services become decoupled and can scale on their own depending on the event volume."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você precisa questionar, de forma diplomaticamente assertiva, se a equipe está subestimando a dívida técnica acumulada no projeto. Como você levanta essa questão em uma reunião de planejamento?",
+    "correctAnswer": "I'd like us to critically reassess whether we're adequately accounting for the accumulated technical debt in our velocity estimations before committing to this roadmap.",
+    "options": [
+      "I'd like us to critically reassess whether we're adequately accounting for the accumulated technical debt in our velocity estimations before committing to this roadmap.",
+      "I think we are underestimating the technical debt and this will affect our velocity in the long run.",
+      "Are we sure we're considering all the technical debt when we estimate our velocity for this roadmap?",
+      "We should reconsider if we're including enough time for technical debt in our estimates before planning this roadmap."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você está debatendo os méritos do teorema CAP com colegas e precisa argumentar por que, em um sistema bancário, a consistência deve ser priorizada sobre a disponibilidade. Como você faz esse argumento de forma tecnicamente rigorosa?",
+    "correctAnswer": "In a financial system, CP guarantees are non-negotiable; eventual consistency would expose us to race conditions that could manifest as monetary discrepancies across distributed nodes.",
+    "options": [
+      "In a financial system, CP guarantees are non-negotiable; eventual consistency would expose us to race conditions that could manifest as monetary discrepancies across distributed nodes.",
+      "Banks need strong consistency because eventual consistency can cause data inconsistencies in financial transactions.",
+      "For banking systems, consistency is more important than availability because money transactions must always be accurate.",
+      "Financial systems must prioritize consistency over availability in the CAP theorem to prevent errors in transactions."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você precisa justificar para a diretoria executiva a adoção de uma estratégia de zero-trust networking, superando a resistência ao custo de implementação. Como você constrói esse argumento?",
+    "correctAnswer": "The cost of implementing zero-trust is dwarfed by the potential financial and reputational damage of a lateral movement attack exploiting our current implicit trust model.",
+    "options": [
+      "The cost of implementing zero-trust is dwarfed by the potential financial and reputational damage of a lateral movement attack exploiting our current implicit trust model.",
+      "Zero-trust is expensive but a security breach would cost much more in money and reputation than the implementation.",
+      "Implementing zero-trust costs less in the long run than having a security incident from our current trusted network.",
+      "The investment in zero-trust networking is justified because the alternative risk of network attacks is far more costly."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Em uma conversa técnica sobre otimização de banco de dados, você precisa explicar por que uma estratégia de cache write-through é preferível a write-back em um contexto crítico de negócios. Como você articula essa distinção?",
+    "correctAnswer": "Write-through caching guarantees strong consistency between the cache and the persistent store, which is indispensable in contexts where stale data would have downstream business consequences.",
+    "options": [
+      "Write-through caching guarantees strong consistency between the cache and the persistent store, which is indispensable in contexts where stale data would have downstream business consequences.",
+      "Write-through keeps the cache and database synchronized, which is important when we cannot afford to have outdated data.",
+      "With write-through caching, data is always consistent between cache and database, making it better for critical systems.",
+      "Write-through is better than write-back for critical systems because it keeps data consistent between cache and storage."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você está conduzindo uma revisão de arquitetura e precisa questionar se a equipe compreendeu plenamente as implicações de adotar um modelo de consistência eventual em um sistema de inventário. Como você levanta essa questão de forma incisiva?",
+    "correctAnswer": "Have we fully reconciled the implications of eventual consistency for our inventory system, particularly regarding the risk of phantom reads during concurrent update windows?",
+    "options": [
+      "Have we fully reconciled the implications of eventual consistency for our inventory system, particularly regarding the risk of phantom reads during concurrent update windows?",
+      "Have we considered what problems eventual consistency could cause in our inventory system when many updates happen at the same time?",
+      "Are we aware of the risks of using eventual consistency in the inventory, especially when multiple users update data simultaneously?",
+      "Do we understand what eventual consistency means for our inventory system and the possible issues with concurrent updates?"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você precisa convencer stakeholders técnicos a abandonar uma implementação de monorepo mal gerenciada em favor de polyrepos com estratégias claras de versionamento semântico. Como você apresenta esse argumento?",
+    "correctAnswer": "The current monorepo's lack of modular boundaries is causing dependency entanglement; migrating to polyrepos with semver would enforce clean contracts between services.",
+    "options": [
+      "The current monorepo's lack of modular boundaries is causing dependency entanglement; migrating to polyrepos with semver would enforce clean contracts between services.",
+      "Our monorepo has too many dependencies mixed together and polyrepos with semantic versioning would separate services properly.",
+      "The monorepo is creating dependency problems and using polyrepos with versioning would make service boundaries clearer.",
+      "Moving from monorepo to polyrepos with semantic versioning would help organize services and reduce dependency conflicts."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você está em uma discussão sobre a escolha entre GraphQL e REST para uma nova API pública, e precisa argumentar a favor do GraphQL considerando um caso de uso específico com múltiplos clientes com necessidades distintas. Como você articula esse argumento?",
+    "correctAnswer": "GraphQL's introspective schema and client-driven queries would preclude the over-fetching and under-fetching endemic to REST when serving heterogeneous client surfaces.",
+    "options": [
+      "GraphQL's introspective schema and client-driven queries would preclude the over-fetching and under-fetching endemic to REST when serving heterogeneous client surfaces.",
+      "GraphQL is better than REST here because different clients can request exactly the data they need, avoiding unnecessary data transfer.",
+      "With GraphQL, each client can specify what data it needs, which solves the over-fetching problem common in REST APIs.",
+      "GraphQL allows different clients to get only the data they need, which is more efficient than REST for multiple client types."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você precisa articular, para um conselho de segurança corporativa, as diferenças substantivas entre um ataque de supply chain e um ataque direto à infraestrutura, e por que o primeiro é mais difícil de detectar. Como você explica isso?",
+    "correctAnswer": "Supply chain attacks infiltrate trusted third-party dependencies to inject malicious code upstream, making them inherently harder to detect than direct infrastructure attacks, which leave more conspicuous forensic traces.",
+    "options": [
+      "Supply chain attacks infiltrate trusted third-party dependencies to inject malicious code upstream, making them inherently harder to detect than direct infrastructure attacks, which leave more conspicuous forensic traces.",
+      "Supply chain attacks use trusted software components to spread malware, so they are harder to find than direct attacks on servers.",
+      "In a supply chain attack, malware enters through trusted software vendors, which is more difficult to detect than a direct network attack.",
+      "Supply chain attacks are harder to detect because the malicious code comes through trusted third-party software rather than a direct attack."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Em uma discussão sobre governança de dados, você precisa explicar por que a pseudonimização por si só não é suficiente para garantir a conformidade com a LGPD no contexto de análise de dados comportamentais. Como você articula esse argumento?",
+    "correctAnswer": "Pseudonymisation alone is insufficient under LGPD when residual re-identification risks persist through auxiliary datasets, necessitating complementary measures such as differential privacy.",
+    "options": [
+      "Pseudonymisation alone is insufficient under LGPD when residual re-identification risks persist through auxiliary datasets, necessitating complementary measures such as differential privacy.",
+      "Pseudonymisation is not enough for LGPD compliance because individuals can still be re-identified when combined with other datasets.",
+      "Under LGPD, just using pseudonymisation is not sufficient because data can still be re-identified through other available data sources.",
+      "Pseudonymisation doesn't fully comply with LGPD because it can still be reversed using other datasets and additional techniques are needed."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você está debatendo a adoção de CQRS (Command Query Responsibility Segregation) para um sistema de alta carga e precisa explicar como esse padrão resolve problemas específicos de contenção de leitura e escrita. Como você articula isso?",
+    "correctAnswer": "CQRS segregates the read and write models, eliminating read-write contention on the primary data store and enabling independent optimisation of query and command paths.",
+    "options": [
+      "CQRS segregates the read and write models, eliminating read-write contention on the primary data store and enabling independent optimisation of query and command paths.",
+      "CQRS separates reading and writing operations, so they don't interfere with each other and can be optimized independently.",
+      "By separating commands and queries, CQRS reduces the load on the database and allows read and write operations to scale differently.",
+      "CQRS splits read and write operations so they can be optimized separately and avoid competing for the same database resources."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você precisa comunicar ao CTO a necessidade de implementar chaos engineering para melhorar a resiliência do sistema, justificando o risco controlado associado à prática. Como você apresenta esse caso de negócio?",
+    "correctAnswer": "Chaos engineering proactively uncovers systemic weaknesses under controlled conditions, enabling us to remediate failure modes before they manifest in production under uncontrolled circumstances.",
+    "options": [
+      "Chaos engineering proactively uncovers systemic weaknesses under controlled conditions, enabling us to remediate failure modes before they manifest in production under uncontrolled circumstances.",
+      "Chaos engineering helps us find system weaknesses in a controlled way so we can fix them before real failures happen in production.",
+      "By testing system failures in a controlled environment, chaos engineering allows us to fix problems before they occur in production.",
+      "Chaos engineering finds system vulnerabilities before they cause real problems by intentionally causing failures in a controlled setting."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você está argumentando contra a adoção precipitada de LLMs em um pipeline de decisão crítica sem guardrails adequados. Como você articula os riscos de forma tecnicamente fundamentada para um público especializado?",
+    "correctAnswer": "Deploying LLMs in a critical decision pipeline without robust guardrails exposes the system to hallucination-induced errors, prompt injection attacks, and non-deterministic outputs that undermine auditability.",
+    "options": [
+      "Deploying LLMs in a critical decision pipeline without robust guardrails exposes the system to hallucination-induced errors, prompt injection attacks, and non-deterministic outputs that undermine auditability.",
+      "Using LLMs without proper controls in critical decisions is risky because they can generate false information and be manipulated through prompts.",
+      "LLMs without guardrails in critical systems are dangerous because they can produce incorrect outputs, be attacked via prompts, and are hard to audit.",
+      "Without proper guardrails, LLMs in critical pipelines can generate hallucinations, be attacked via prompt injection, and produce unpredictable results."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Em uma discussão sobre estratégias de migração de dados em escala, você precisa argumentar por que a abordagem de strangler fig pattern é mais segura do que uma big-bang migration para um sistema legado crítico. Como você articula esse argumento?",
+    "correctAnswer": "The strangler fig pattern incrementally replaces legacy components while maintaining system continuity, mitigating the catastrophic rollback risk inherent in a big-bang migration approach.",
+    "options": [
+      "The strangler fig pattern incrementally replaces legacy components while maintaining system continuity, mitigating the catastrophic rollback risk inherent in a big-bang migration approach.",
+      "The strangler fig pattern is safer because it replaces the old system step by step without stopping everything at once like a big-bang migration.",
+      "Using the strangler fig pattern means we can migrate gradually while the system keeps running, which is less risky than migrating everything at once.",
+      "The strangler fig approach gradually replaces the legacy system while it remains operational, avoiding the high risk of a complete system cutover."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você precisa explicar a um arquiteto sênior por que a utilização de sagas para gerenciar transações distribuídas é preferível ao two-phase commit em sistemas de microsserviços de alta disponibilidade. Como você constrói esse argumento?",
+    "correctAnswer": "Unlike 2PC, the saga pattern avoids distributed locks, employing compensating transactions to maintain eventual consistency without coupling services to a synchronous coordinator.",
+    "options": [
+      "Unlike 2PC, the saga pattern avoids distributed locks, employing compensating transactions to maintain eventual consistency without coupling services to a synchronous coordinator.",
+      "Sagas are better than 2PC in microservices because they don't lock services together and use compensation to handle failures.",
+      "The saga pattern doesn't use distributed locks like 2PC does, so services remain independent and the system is more available.",
+      "Sagas handle distributed transactions better than 2PC in microservices by avoiding locks and using compensation transactions for failures."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você está em uma negociação técnica sobre a adoção de Kubernetes para orquestração de contêineres e precisa rebater a afirmação de que a complexidade operacional supera os benefícios. Como você contra-argumenta de forma precisa?",
+    "correctAnswer": "While Kubernetes does introduce operational complexity, the automated bin-packing, self-healing, and declarative infrastructure management yield substantial long-term TCO reductions that outweigh the initial overhead.",
+    "options": [
+      "While Kubernetes does introduce operational complexity, the automated bin-packing, self-healing, and declarative infrastructure management yield substantial long-term TCO reductions that outweigh the initial overhead.",
+      "Kubernetes is complex to manage but the benefits of automatic scaling, self-healing, and better resource use justify the extra operational effort.",
+      "Yes, Kubernetes is complex, but it automates many operations and reduces costs over time, making the complexity worthwhile.",
+      "Kubernetes adds operational complexity but its automation features and resource efficiency lower total cost of ownership in the long run."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você precisa abordar a questão da privacidade diferencial em uma discussão sobre análise de dados de usuários com a equipe jurídica e a equipe de engenharia simultaneamente. Como você explica o conceito de forma precisa para ambas as audiências?",
+    "correctAnswer": "Differential privacy introduces calibrated mathematical noise into aggregate queries, providing provable privacy guarantees whilst still enabling statistically meaningful analytical insights.",
+    "options": [
+      "Differential privacy introduces calibrated mathematical noise into aggregate queries, providing provable privacy guarantees whilst still enabling statistically meaningful analytical insights.",
+      "Differential privacy adds controlled noise to data queries so individual users cannot be identified while still allowing useful analysis.",
+      "With differential privacy, we add statistical noise to protect individual data while still being able to perform meaningful data analysis.",
+      "Differential privacy protects individual user data by adding controlled randomness to queries while keeping the analysis statistically valid."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você está conduzindo uma análise post-mortem de um incidente de segurança causado por um ataque de timing side-channel e precisa explicar o vetor de ataque para a equipe executiva de forma tecnicamente precisa. Como você descreve isso?",
+    "correctAnswer": "The attacker exploited measurable variations in cryptographic operation execution times to statistically infer the private key, a class of attack our current constant-time implementation would have precluded.",
+    "options": [
+      "The attacker exploited measurable variations in cryptographic operation execution times to statistically infer the private key, a class of attack our current constant-time implementation would have precluded.",
+      "The attack used timing differences in cryptographic operations to deduce the private key, which constant-time algorithms would have prevented.",
+      "The hacker measured how long cryptographic operations took and used this information to figure out the private key.",
+      "By measuring the time variations in our cryptographic operations, the attacker could calculate our private key from the timing differences."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você está discutindo com a equipe de produto a necessidade de implementar feature flags para desacoplar o deploy do release de funcionalidades. Como você articula o valor estratégico dessa abordagem?",
+    "correctAnswer": "Feature flags decouple deployment from release, enabling dark launches, targeted canary releases, and instant kill-switch capabilities without necessitating a rollback deployment.",
+    "options": [
+      "Feature flags decouple deployment from release, enabling dark launches, targeted canary releases, and instant kill-switch capabilities without necessitating a rollback deployment.",
+      "Feature flags let us deploy code without releasing it to users, so we can control who sees new features and turn them off quickly if needed.",
+      "With feature flags, we can deploy code and then choose when and who gets to see the new features, and disable them without redeploying.",
+      "Feature flags separate deployment from release so we can test with a few users first and quickly disable features if something goes wrong."
+    ],
+    "difficulty": "hard"
+  }
+]

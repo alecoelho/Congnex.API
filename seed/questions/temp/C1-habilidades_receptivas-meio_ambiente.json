@@ -1,0 +1,767 @@
+[
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "A floresta amazônica é considerada o pulmão do mundo.",
+    "correctAnswer": "The Amazon rainforest is considered the lungs of the world.",
+    "options": [
+      "The Amazon rainforest is considered the lungs of the world.",
+      "The Amazon jungle is thought to be the heart of the world.",
+      "The Amazonian forest is known as the green shield of the world.",
+      "The Amazon woodland is regarded as the breath of the world."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "O desmatamento é uma das principais causas das mudanças climáticas.",
+    "correctAnswer": "Deforestation is one of the main causes of climate change.",
+    "options": [
+      "Deforestation is one of the main causes of climate change.",
+      "Forest degradation is among the primary effects of global warming.",
+      "The cutting of trees is the only reason behind environmental changes.",
+      "Deforestation causes minor disruptions in the global weather patterns."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "Reciclar materiais ajuda a reduzir a quantidade de lixo nos aterros sanitários.",
+    "correctAnswer": "Recycling materials helps reduce the amount of waste in landfills.",
+    "options": [
+      "Recycling materials helps reduce the amount of waste in landfills.",
+      "Reusing materials contributes to eliminating garbage in dumpsites.",
+      "Recycling garbage helps increase the capacity of waste disposal sites.",
+      "Processing materials reduces the need for new landfill construction."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "A energia solar é uma fonte renovável e limpa de energia.",
+    "correctAnswer": "Solar energy is a renewable and clean source of energy.",
+    "options": [
+      "Solar energy is a renewable and clean source of energy.",
+      "Sunlight energy is an unlimited and sustainable power resource.",
+      "Solar power is a permanent and eco-friendly kind of fuel.",
+      "The energy from the sun is a reusable and green form of electricity."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "Proteger os oceanos é essencial para a sobrevivência do planeta.",
+    "correctAnswer": "Protecting the oceans is essential for the survival of the planet.",
+    "options": [
+      "Protecting the oceans is essential for the survival of the planet.",
+      "Preserving the seas is important to maintain life on the Earth.",
+      "Saving the oceans helps ensure the continuity of human civilization.",
+      "Caring for the waters is necessary to avoid environmental disasters."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "O aquecimento global está derretendo as calotas polares.",
+    "correctAnswer": "Global warming is melting the polar ice caps.",
+    "options": [
+      "Global warming is melting the polar ice caps.",
+      "The greenhouse effect is dissolving the Arctic glaciers rapidly.",
+      "Climate warming causes the polar regions to become increasingly wet.",
+      "Rising temperatures are freezing the polar zones beyond recovery."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "Usar sacolas reutilizáveis é uma forma simples de reduzir o uso de plástico.",
+    "correctAnswer": "Using reusable bags is a simple way to reduce plastic use.",
+    "options": [
+      "Using reusable bags is a simple way to reduce plastic use.",
+      "Carrying recyclable bags is an effective method to eliminate all plastic.",
+      "Bringing your own bags to the store helps recycle plastic products.",
+      "Using fabric bags completely solves the problem of plastic pollution."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "A poluição do ar causa sérios problemas de saúde para a população.",
+    "correctAnswer": "Air pollution causes serious health problems for the population.",
+    "options": [
+      "Air pollution causes serious health problems for the population.",
+      "Atmospheric contamination generates minor inconveniences for people.",
+      "Air quality issues lead to cosmetic problems among urban residents.",
+      "Pollution in the air creates economic hardship for city populations."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "Economizar água é uma responsabilidade de todos os cidadãos.",
+    "correctAnswer": "Saving water is a responsibility of all citizens.",
+    "options": [
+      "Saving water is a responsibility of all citizens.",
+      "Consuming less water is a duty only for governments and industries.",
+      "Water conservation is a task exclusively for environmental experts.",
+      "Reducing water waste belongs solely to the public utility companies."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "Os combustíveis fósseis são responsáveis pela maior parte das emissões de carbono.",
+    "correctAnswer": "Fossil fuels are responsible for most carbon emissions.",
+    "options": [
+      "Fossil fuels are responsible for most carbon emissions.",
+      "Ancient fuels account for a small portion of carbon dioxide release.",
+      "Petroleum products are only partially linked to atmospheric carbon.",
+      "Fossil energy sources are blamed for minor greenhouse gas output."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "Plantar árvores é uma maneira eficaz de combater o efeito estufa.",
+    "correctAnswer": "Planting trees is an effective way to combat the greenhouse effect.",
+    "options": [
+      "Planting trees is an effective way to combat the greenhouse effect.",
+      "Growing plants is an efficient solution to completely stop global warming.",
+      "Tree plantation is the only proven method to reverse climate damage.",
+      "Cultivating forests is the most immediate answer to carbon emissions."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "A biodiversidade é fundamental para o equilíbrio dos ecossistemas.",
+    "correctAnswer": "Biodiversity is fundamental for the balance of ecosystems.",
+    "options": [
+      "Biodiversity is fundamental for the balance of ecosystems.",
+      "Biological variety is optional for maintaining healthy environments.",
+      "Species diversity matters only in tropical and equatorial regions.",
+      "Biodiversity becomes relevant only when ecosystems are threatened."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "Transportes públicos eficientes contribuem para a redução da poluição nas cidades.",
+    "correctAnswer": "Efficient public transport contributes to reducing pollution in cities.",
+    "options": [
+      "Efficient public transport contributes to reducing pollution in cities.",
+      "Better public transportation completely eliminates urban air pollution.",
+      "City buses and trains are the main cause of environmental degradation.",
+      "Public transit systems are only relevant for economic development."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "As enchentes se tornaram mais frequentes devido às mudanças climáticas.",
+    "correctAnswer": "Floods have become more frequent due to climate change.",
+    "options": [
+      "Floods have become more frequent due to climate change.",
+      "Droughts have increased in number because of environmental changes.",
+      "Storms have appeared less often as a result of global warming.",
+      "Heavy rains have disappeared in many regions due to temperature rise."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "Países desenvolvidos devem liderar a transição para energias renováveis.",
+    "correctAnswer": "Developed countries must lead the transition to renewable energies.",
+    "options": [
+      "Developed countries must lead the transition to renewable energies.",
+      "Wealthy nations should avoid the costly shift toward green energy.",
+      "Advanced economies are exempt from adopting sustainable energy.",
+      "Industrial countries prefer to maintain their use of fossil fuels."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "O lixo eletrônico precisa ser descartado de forma responsável.",
+    "correctAnswer": "Electronic waste needs to be disposed of responsibly.",
+    "options": [
+      "Electronic waste needs to be disposed of responsibly.",
+      "Digital garbage must be thrown away in regular household bins.",
+      "Old electronics should be burned to reduce landfill volumes.",
+      "Electronic items can be discarded anywhere without consequences."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "A escassez de água potável representa uma crise global crescente.",
+    "correctAnswer": "The scarcity of drinking water represents a growing global crisis.",
+    "options": [
+      "The scarcity of drinking water represents a growing global crisis.",
+      "The lack of clean water is a minor regional issue in dry countries.",
+      "Drinking water shortage only affects underdeveloped nations.",
+      "The abundance of drinkable water is a worldwide environmental concern."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "A degradação do solo compromete a produção de alimentos em larga escala.",
+    "correctAnswer": "Soil degradation undermines large-scale food production.",
+    "options": [
+      "Soil degradation undermines large-scale food production.",
+      "Land erosion temporarily boosts agricultural productivity.",
+      "Soil contamination has no measurable impact on crop yields.",
+      "Ground degradation only affects small-scale subsistence farming."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "A acidificação dos oceanos ameaça a sobrevivência dos recifes de coral.",
+    "correctAnswer": "Ocean acidification threatens the survival of coral reefs.",
+    "options": [
+      "Ocean acidification threatens the survival of coral reefs.",
+      "Sea alkalization endangers the proliferation of marine algae.",
+      "Oceanic acidification promotes the growth of coral ecosystems.",
+      "Water acidification is unrelated to the decline of reef biodiversity."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "Acordos climáticos internacionais exigem comprometimento político de longo prazo.",
+    "correctAnswer": "International climate agreements require long-term political commitment.",
+    "options": [
+      "International climate agreements require long-term political commitment.",
+      "Global environmental treaties demand short-term financial investment.",
+      "Multilateral climate deals depend solely on scientific collaboration.",
+      "International accords on climate only involve developing economies."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "A monocultura intensiva esgota os nutrientes do solo ao longo do tempo.",
+    "correctAnswer": "Intensive monoculture depletes soil nutrients over time.",
+    "options": [
+      "Intensive monoculture depletes soil nutrients over time.",
+      "Single-crop farming enriches the earth with essential minerals gradually.",
+      "Large-scale monoculture preserves ground fertility across generations.",
+      "Intensive agriculture restores the natural balance of soil composition."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "A pegada de carbono individual pode ser reduzida com mudanças no estilo de vida.",
+    "correctAnswer": "Individual carbon footprint can be reduced through lifestyle changes.",
+    "options": [
+      "Individual carbon footprint can be reduced through lifestyle changes.",
+      "Personal carbon output can be eliminated by switching to a vegan diet.",
+      "One's carbon legacy is fixed and cannot be altered by personal choices.",
+      "Individual carbon emissions are irrelevant compared to industrial output."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "Espécies invasoras perturbam o equilíbrio ecológico de habitats nativos.",
+    "correctAnswer": "Invasive species disrupt the ecological balance of native habitats.",
+    "options": [
+      "Invasive species disrupt the ecological balance of native habitats.",
+      "Foreign species tend to strengthen the biodiversity of local ecosystems.",
+      "Alien organisms contribute positively to the stability of native biomes.",
+      "Introduced species rarely affect the natural equilibrium of ecosystems."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "O protocolo de Quioto foi um marco histórico na cooperação climática global.",
+    "correctAnswer": "The Kyoto Protocol was a historic milestone in global climate cooperation.",
+    "options": [
+      "The Kyoto Protocol was a historic milestone in global climate cooperation.",
+      "The Kyoto Agreement represented a setback for international climate efforts.",
+      "The Kyoto Convention marked the end of global environmental partnerships.",
+      "The Kyoto Framework was a regional accord limited to Asian economies."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "O ciclo hidrológico garante a distribuição e renovação da água no planeta.",
+    "correctAnswer": "The hydrological cycle ensures the distribution and renewal of water on Earth.",
+    "options": [
+      "The hydrological cycle ensures the distribution and renewal of water on Earth.",
+      "The water cycle prevents the evaporation and loss of freshwater resources.",
+      "The hydrological process only regulates precipitation in tropical zones.",
+      "The water circuit controls the chemical composition of ocean salinity."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "A gestão sustentável dos resíduos sólidos é um desafio para grandes centros urbanos.",
+    "correctAnswer": "Sustainable solid waste management is a challenge for large urban centers.",
+    "options": [
+      "Sustainable solid waste management is a challenge for large urban centers.",
+      "Eco-friendly garbage disposal is exclusively a rural infrastructure problem.",
+      "Sustainable trash handling has been fully resolved in metropolitan areas.",
+      "Solid waste governance is a minor logistical concern for city planners."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "A expansão agrícola sobre áreas de preservação permanente agrava a crise ambiental.",
+    "correctAnswer": "Agricultural expansion into permanent preservation areas worsens the environmental crisis.",
+    "options": [
+      "Agricultural expansion into permanent preservation areas worsens the environmental crisis.",
+      "Farming growth within protected zones slightly improves local biodiversity.",
+      "Agricultural development near conservation areas has no measurable impact.",
+      "The encroachment of crops on preserved land is a temporary seasonal issue."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "Políticas de incentivo fiscal podem acelerar a adoção de tecnologias verdes.",
+    "correctAnswer": "Tax incentive policies can accelerate the adoption of green technologies.",
+    "options": [
+      "Tax incentive policies can accelerate the adoption of green technologies.",
+      "Fiscal penalties tend to slow down the transition to eco-friendly solutions.",
+      "Government subsidies are irrelevant for promoting sustainable innovation.",
+      "Tax breaks only benefit corporations that already invest in renewables."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "Reduções drásticas nas emissões de gases de efeito estufa são urgentemente necessárias.",
+    "correctAnswer": "Drastic reductions in greenhouse gas emissions are urgently needed.",
+    "options": [
+      "Drastic reductions in greenhouse gas emissions are urgently needed.",
+      "Moderate increases in greenhouse gas output are currently acceptable.",
+      "Gradual stabilization of carbon emissions is sufficient for now.",
+      "Partial cuts in industrial pollutants are no longer a global priority."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "Comunidades indígenas desempenham um papel vital na conservação de florestas tropicais.",
+    "correctAnswer": "Indigenous communities play a vital role in the conservation of tropical forests.",
+    "options": [
+      "Indigenous communities play a vital role in the conservation of tropical forests.",
+      "Native populations are primarily responsible for the deforestation of jungles.",
+      "Indigenous groups have little influence over the management of forest resources.",
+      "Tribal communities benefit economically from the destruction of rainforests."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "A permafrost em derretimento libera metano, amplificando o aquecimento global.",
+    "correctAnswer": "Melting permafrost releases methane, amplifying global warming.",
+    "options": [
+      "Melting permafrost releases methane, amplifying global warming.",
+      "Thawing tundra absorbs carbon dioxide, mitigating the greenhouse effect.",
+      "Frozen ground layers trap methane permanently, reducing climate risks.",
+      "Arctic permafrost melt produces oxygen, counteracting temperature rises."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "A descarbonização da economia exige transformações estruturais profundas na indústria.",
+    "correctAnswer": "Decarbonizing the economy requires deep structural transformations in industry.",
+    "options": [
+      "Decarbonizing the economy requires deep structural transformations in industry.",
+      "Reducing carbon in markets demands only surface-level adjustments in trade.",
+      "The transition to a low-carbon economy is achievable without industrial change.",
+      "Economic decarbonization solely depends on consumer behavioral shifts."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "A erosão costeira, acelerada pelo aumento do nível do mar, ameaça comunidades litorâneas.",
+    "correctAnswer": "Coastal erosion, accelerated by rising sea levels, threatens coastal communities.",
+    "options": [
+      "Coastal erosion, accelerated by rising sea levels, threatens coastal communities.",
+      "Shoreline degradation, slowed by tidal patterns, protects seaside settlements.",
+      "Ocean retreat, amplified by rainfall, damages inland agricultural areas.",
+      "Coastal flooding, triggered by wind erosion, affects deep ocean ecosystems."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "O fenômeno El Niño provoca desequilíbrios climáticos em escala global.",
+    "correctAnswer": "The El Niño phenomenon causes climatic imbalances on a global scale.",
+    "options": [
+      "The El Niño phenomenon causes climatic imbalances on a global scale.",
+      "The El Niño event stabilizes weather patterns across the Southern Hemisphere.",
+      "El Niño is a local weather disturbance confined to South American coasts.",
+      "The El Niño cycle reduces the frequency of extreme weather events worldwide."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "A transição energética demanda investimentos maciços em infraestrutura de baixo carbono.",
+    "correctAnswer": "The energy transition demands massive investments in low-carbon infrastructure.",
+    "options": [
+      "The energy transition demands massive investments in low-carbon infrastructure.",
+      "The shift to renewables requires only modest updates to existing power grids.",
+      "Energy changeover primarily needs political will rather than financial input.",
+      "Low-carbon transitions are self-financing and require no public expenditure."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "A implementação da economia circular representa uma ruptura paradigmática com o modelo linear de produção e consumo.",
+    "correctAnswer": "The implementation of the circular economy represents a paradigm shift from the linear model of production and consumption.",
+    "options": [
+      "The implementation of the circular economy represents a paradigm shift from the linear model of production and consumption.",
+      "Adopting circular business models slightly refines the existing framework of industrial production.",
+      "The circular economy reinforces the traditional take-make-dispose approach to manufacturing.",
+      "Circular economic policies are a minor adjustment to conventional consumption patterns."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "A eutrofização de corpos hídricos, decorrente do excesso de nutrientes antropogênicos, gera zonas mortas com hipóxia severa.",
+    "correctAnswer": "The eutrophication of water bodies, resulting from excess anthropogenic nutrients, generates dead zones with severe hypoxia.",
+    "options": [
+      "The eutrophication of water bodies, resulting from excess anthropogenic nutrients, generates dead zones with severe hypoxia.",
+      "The purification of aquatic systems, driven by reduced human activity, creates thriving zones with high oxygen levels.",
+      "Water body contamination from industrial chemicals produces areas of hyperoxia and excessive algal suppression.",
+      "The oxygenation of lakes and rivers through anthropogenic intervention eliminates dead zones and fosters biodiversity."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "A mitigação das externalidades negativas do agronegócio requer mecanismos de precificação do carbono e internalização dos custos ambientais.",
+    "correctAnswer": "Mitigating the negative externalities of agribusiness requires carbon pricing mechanisms and the internalization of environmental costs.",
+    "options": [
+      "Mitigating the negative externalities of agribusiness requires carbon pricing mechanisms and the internalization of environmental costs.",
+      "Offsetting the harmful side effects of agriculture demands deregulation of environmental standards and market liberalization.",
+      "Reducing the positive spillovers of farming necessitates carbon subsidies and the externalization of ecological expenditures.",
+      "Countering agricultural inefficiencies calls for nationalization of land resources and elimination of market-based incentives."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "O colapso dos serviços ecossistêmicos, resultante da fragmentação de habitats, pode desencadear efeitos em cascata irreversíveis.",
+    "correctAnswer": "The collapse of ecosystem services, resulting from habitat fragmentation, can trigger irreversible cascading effects.",
+    "options": [
+      "The collapse of ecosystem services, resulting from habitat fragmentation, can trigger irreversible cascading effects.",
+      "The restoration of ecological functions through habitat consolidation prevents minor and easily reversible disruptions.",
+      "The expansion of ecosystem services, facilitated by habitat connectivity, generates predictable and manageable chain reactions.",
+      "Habitat fragmentation enhances biodiversity resilience by isolating species from environmental stressors."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "A biogeoquímica dos solos tropicais determina a capacidade de sequestro de carbono em ecossistemas florestais.",
+    "correctAnswer": "The biogeochemistry of tropical soils determines the carbon sequestration capacity in forest ecosystems.",
+    "options": [
+      "The biogeochemistry of tropical soils determines the carbon sequestration capacity in forest ecosystems.",
+      "The hydrology of temperate regions controls the rate of methane absorption in grassland environments.",
+      "The mineralogy of polar substrates governs the nitrogen fixation potential in tundra biomes.",
+      "The ecology of wetland soils regulates the oxygen production levels in aquatic ecosystems."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "A descentralização da governança ambiental favorece a adoção de soluções baseadas na natureza em contextos locais.",
+    "correctAnswer": "The decentralization of environmental governance favors the adoption of nature-based solutions in local contexts.",
+    "options": [
+      "The decentralization of environmental governance favors the adoption of nature-based solutions in local contexts.",
+      "The centralization of ecological policy hinders the implementation of technology-driven solutions at a regional level.",
+      "Environmental governance decentralization discourages community-based approaches to natural resource management.",
+      "The fragmentation of environmental authority promotes industrialized responses to local ecological challenges."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "A resiliência socioecológica de populações vulneráveis depende da integração de saberes tradicionais nas políticas de adaptação climática.",
+    "correctAnswer": "The socio-ecological resilience of vulnerable populations depends on integrating traditional knowledge into climate adaptation policies.",
+    "options": [
+      "The socio-ecological resilience of vulnerable populations depends on integrating traditional knowledge into climate adaptation policies.",
+      "The economic recovery of marginalized groups relies on replacing indigenous practices with modern technological frameworks.",
+      "The environmental vulnerability of isolated communities is exacerbated by incorporating local customs into adaptation strategies.",
+      "Socio-ecological stability in at-risk populations is undermined by the inclusion of ancestral wisdom in policy design."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "O princípio da responsabilidade comum, mas diferenciada, fundamenta as negociações climáticas multilaterais sob a égide da UNFCCC.",
+    "correctAnswer": "The principle of common but differentiated responsibilities underpins multilateral climate negotiations under the auspices of the UNFCCC.",
+    "options": [
+      "The principle of common but differentiated responsibilities underpins multilateral climate negotiations under the auspices of the UNFCCC.",
+      "The doctrine of equal shared obligations drives bilateral environmental agreements beyond the scope of the UNFCCC.",
+      "The framework of uniform climate commitments bypasses multilateral dialogue in favor of unilateral state action.",
+      "The concept of differentiated privileges governs unilateral climate policies outside the purview of the United Nations."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "A geoengenharia climática, embora promissora, suscita profundas questões éticas sobre a governança de intervenções na atmosfera terrestre.",
+    "correctAnswer": "Climate geoengineering, though promising, raises profound ethical questions about the governance of interventions in Earth's atmosphere.",
+    "options": [
+      "Climate geoengineering, though promising, raises profound ethical questions about the governance of interventions in Earth's atmosphere.",
+      "Atmospheric engineering, despite being unproven, offers straightforward solutions without significant moral or regulatory implications.",
+      "Climate manipulation technologies have been universally endorsed as safe and ethically uncontroversial by the scientific community.",
+      "Geoengineering proposals are dismissed as ineffective and pose no governance challenges for international climate bodies."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "A nexo água-energia-alimento ilustra a interdependência sistêmica de recursos naturais críticos em um planeta sob pressão antrópica crescente.",
+    "correctAnswer": "The water-energy-food nexus illustrates the systemic interdependence of critical natural resources on a planet under increasing anthropogenic pressure.",
+    "options": [
+      "The water-energy-food nexus illustrates the systemic interdependence of critical natural resources on a planet under increasing anthropogenic pressure.",
+      "The food-water-fuel triangle demonstrates the independence of essential commodities from human-induced environmental degradation.",
+      "The energy-water-agriculture link shows how natural resources operate in isolation from one another in industrialized economies.",
+      "The water-food-power framework highlights the competition between nations for control of renewable but finite natural assets."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "A volatilidade dos mercados de carbono compromete a eficácia dos mecanismos de precificação como instrumentos de descarbonização.",
+    "correctAnswer": "The volatility of carbon markets undermines the effectiveness of pricing mechanisms as decarbonization instruments.",
+    "options": [
+      "The volatility of carbon markets undermines the effectiveness of pricing mechanisms as decarbonization instruments.",
+      "The stability of carbon trading enhances the reliability of emissions reduction tools in the global economy.",
+      "Carbon market fluctuations strengthen the impact of cap-and-trade systems in achieving net-zero targets.",
+      "The predictability of carbon pricing ensures that market-based tools remain the most effective form of climate regulation."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "A ecologia da restauração busca reabilitar ecossistemas degradados por meio de intervenções baseadas em processos ecológicos autossustentáveis.",
+    "correctAnswer": "Restoration ecology seeks to rehabilitate degraded ecosystems through interventions based on self-sustaining ecological processes.",
+    "options": [
+      "Restoration ecology seeks to rehabilitate degraded ecosystems through interventions based on self-sustaining ecological processes.",
+      "Conservation biology aims to preserve pristine environments by preventing any form of human intervention in natural systems.",
+      "Environmental engineering focuses on constructing artificial ecosystems to replace those irreversibly damaged by industrial activity.",
+      "Applied ecology proposes the replacement of degraded habitats with technologically managed and artificially maintained biomes."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "A mensuração do capital natural é indispensável para incorporar os serviços ecossistêmicos nas contas nacionais e nos modelos econômicos.",
+    "correctAnswer": "Measuring natural capital is indispensable for incorporating ecosystem services into national accounts and economic models.",
+    "options": [
+      "Measuring natural capital is indispensable for incorporating ecosystem services into national accounts and economic models.",
+      "Quantifying financial assets is sufficient for reflecting environmental value in macroeconomic planning and state budgets.",
+      "Natural capital assessment is unnecessary, as ecosystem services are automatically reflected in conventional GDP calculations.",
+      "The valuation of ecological assets undermines economic growth by imposing artificial constraints on market expansion."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "A co-gestão adaptativa de recursos naturais promove a legitimidade das decisões ambientais ao incorporar atores sociais locais nos processos deliberativos.",
+    "correctAnswer": "Adaptive co-management of natural resources promotes the legitimacy of environmental decisions by incorporating local social actors into deliberative processes.",
+    "options": [
+      "Adaptive co-management of natural resources promotes the legitimacy of environmental decisions by incorporating local social actors into deliberative processes.",
+      "Centralized management of ecological assets undermines decision-making credibility by excluding technical experts from regulatory frameworks.",
+      "Top-down governance of natural resources increases policy effectiveness by limiting participation to governmental and corporate stakeholders.",
+      "Rigid resource management frameworks enhance ecological outcomes by standardizing procedures and minimizing community involvement."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "O conceito de limite planetário delimita o espaço operacional seguro da humanidade em relação a processos biofísicos globais.",
+    "correctAnswer": "The concept of planetary boundaries defines the safe operating space for humanity in relation to global biophysical processes.",
+    "options": [
+      "The concept of planetary boundaries defines the safe operating space for humanity in relation to global biophysical processes.",
+      "The notion of ecological thresholds marks the maximum economic growth achievable without triggering social instability.",
+      "The framework of natural limits establishes the minimum industrial output required to sustain human civilization indefinitely.",
+      "The theory of biospheric constraints outlines the conditions under which technological innovation can override ecological limits."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "meio_ambiente",
+    "type": "translation",
+    "questionText": "A justice ambiental denuncia a distribuição desigual dos riscos ecológicos entre grupos sociais em função de raça, classe e território.",
+    "correctAnswer": "Environmental justice denounces the unequal distribution of ecological risks among social groups based on race, class, and territory.",
+    "options": [
+      "Environmental justice denounces the unequal distribution of ecological risks among social groups based on race, class, and territory.",
+      "Ecological equity promotes equal access to natural resources for all citizens regardless of socioeconomic or geographic factors.",
+      "Environmental fairness advocates for the concentration of industrial facilities in economically prosperous and well-resourced areas.",
+      "Climate justice argues that all communities bear identical levels of environmental risk irrespective of income or geographic location."
+    ],
+    "difficulty": "hard"
+  }
+]

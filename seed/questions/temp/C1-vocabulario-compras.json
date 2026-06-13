@@ -1,0 +1,462 @@
+﻿[
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'indulgent'?",
+    "correctAnswer": "Excessivamente autocomplacente ou que se consente prazeres",
+    "options": ["Excessivamente autocomplacente ou que se consente prazeres", "Rigoroso e austero", "Economicamente consciente", "Responsável financeiramente"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'bargain'?",
+    "correctAnswer": "Um acordo comercial vantajoso ou mercadoria a preço reduzido",
+    "options": ["Um acordo comercial vantajoso ou mercadoria a preço reduzido", "Uma compra cara e de luxo", "Uma transação fraudulenta", "Um pagamento em atraso"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'retail'?",
+    "correctAnswer": "Venda de produtos diretamente ao consumidor final",
+    "options": ["Venda de produtos diretamente ao consumidor final", "Vendas no atacado entre empresas", "Aluguel de espaço comercial", "Transporte de mercadorias"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que quer dizer 'luxury'?",
+    "correctAnswer": "Conforto e prazer extremos, como item de grande valor",
+    "options": ["Conforto e prazer extremos, como item de grande valor", "Mercadoria descartável", "Produto de qualidade padrão", "Bem necessário e essencial"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'transaction'?",
+    "correctAnswer": "Troca ou intercâmbio de valores entre partes",
+    "options": ["Troca ou intercâmbio de valores entre partes", "Empréstimo de dinheiro", "Doação sem retorno", "Investimento de risco"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'endorsement'?",
+    "correctAnswer": "Apoio ou aprovação de um produto ou marca",
+    "options": ["Apoio ou aprovação de um produto ou marca", "Rejeição de uma compra", "Faturamento de uma venda", "Armazenamento de mercadorias"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'vendor'?",
+    "correctAnswer": "Pessoa ou empresa que vende produtos ou serviços",
+    "options": ["Pessoa ou empresa que vende produtos ou serviços", "Comprador de bens", "Gerenciador de estoque", "Transportador de cargas"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que quer dizer 'impulse buying'?",
+    "correctAnswer": "Compra feita por vontade súbita, sem planejamento",
+    "options": ["Compra feita por vontade súbita, sem planejamento", "Compra planejada com antecedência", "Compra em lote para resgate", "Compra com desconto progressivo"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'outlet'?",
+    "correctAnswer": "Loja que vende produtos com desconto ou excedentes",
+    "options": ["Loja que vende produtos com desconto ou excedentes", "Loja de produtos importados", "Loja de marcas premium", "Loja de compra e venda usada"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'consumer'?",
+    "correctAnswer": "Pessoa que compra e usa produtos ou serviços",
+    "options": ["Pessoa que compra e usa produtos ou serviços", "Pessoa que produz bens", "Pessoa que distribui mercadorias", "Pessoa que fiscaliza qualidade"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'premium'?",
+    "correctAnswer": "Produto de qualidade superior e preço mais elevado",
+    "options": ["Produto de qualidade superior e preço mais elevado", "Produto com defeito ou danificado", "Produto de imitação", "Produto de uso descartável"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que quer dizer 'barter'?",
+    "correctAnswer": "Troca de bens ou serviços sem uso de dinheiro",
+    "options": ["Troca de bens ou serviços sem uso de dinheiro", "Venda de produtos em leilão", "Compra coletiva com desconto", "Aluguel de equipamentos"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'warranty'?",
+    "correctAnswer": "Garantia de funcionamento ou qualidade de um produto",
+    "options": ["Garantia de funcionamento ou qualidade de um produto", "Contrato de aluguel", "Documento de transporte", "Certificado de origem"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'tangible'?",
+    "correctAnswer": "Que pode ser tocado ou percebido concretamente",
+    "options": ["Que pode ser tocado ou percebido concretamente", "Que é invisível ou abstrato", "Que é frágil ou facilmente quebrado", "Que é perecível ou temporal"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'commodities'?",
+    "correctAnswer": "Produtos básicos padronizados, como grãos ou metais",
+    "options": ["Produtos básicos padronizados, como grãos ou metais", "Bens de luxo e exclusivos", "Serviços profissionais especializados", "Direitos autorais e propriedade intelectual"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que quer dizer 'counterfeit'?",
+    "correctAnswer": "Produto falsificado que imita um original",
+    "options": ["Produto falsificado que imita um original", "Produto autêntico de marca reconhecida", "Produto certificado e garantido", "Produto em edição limitada"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'frugal'?",
+    "correctAnswer": "Econômico e cuidadoso no gasto de dinheiro",
+    "options": ["Econômico e cuidadoso no gasto de dinheiro", "Extremamente generoso e gastador", "Indiferente ao valor do dinheiro", "Envolvido em fraude financeira"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'consumerism'?",
+    "correctAnswer": "Tendência de consumir excessivamente como estilo de vida",
+    "options": ["Tendência de consumir excessivamente como estilo de vida", "Movimento de defesa dos direitos do consumidor", "Limitação voluntária do consumo", "Produção artesanal de bens"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'procurement'?",
+    "correctAnswer": "Aquisição ou obtenção de bens e serviços",
+    "options": ["Aquisição ou obtenção de bens e serviços", "Armazenamento de mercadorias", "Distribuição de produtos", "Controle de qualidade"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que quer dizer 'markup'?",
+    "correctAnswer": "Aumento no preço de custo para obter lucro",
+    "options": ["Aumento no preço de custo para obter lucro", "Redução do preço original", "Desconto aplicado ao cliente", "Taxa de imposto sobre vendas"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'invoice'?",
+    "correctAnswer": "Documento detalhando produtos vendidos e valor devido",
+    "options": ["Documento detalhando produtos vendidos e valor devido", "Recibo de pagamento realizado", "Contrato de compra de imóvel", "Garantia de devolução"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'commerce'?",
+    "correctAnswer": "Atividade de compra, venda e troca de bens e serviços",
+    "options": ["Atividade de compra, venda e troca de bens e serviços", "Viagem de negócios internacional", "Propaganda de produtos", "Armazenamento de estoque"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'demographics'?",
+    "correctAnswer": "Características e dados estatísticos de uma população",
+    "options": ["Características e dados estatísticos de uma população", "Tipo de moeda aceita em uma loja", "Método de pagamento eletrônico", "Sistema de catalogação de produtos"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que quer dizer 'deprecated'?",
+    "correctAnswer": "Deixado de ser recomendado ou considerado obsoleto",
+    "options": ["Deixado de ser recomendado ou considerado obsoleto", "Aumentado de valor ou importância", "Certificado como autêntico", "Testado e aprovado de qualidade"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'merchandise'?",
+    "correctAnswer": "Bens ou produtos destinados à venda",
+    "options": ["Bens ou produtos destinados à venda", "Técnica de publicidade", "Método de transporte", "Sistema de gestão de estoque"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'subscription'?",
+    "correctAnswer": "Pagamento regular para obter acesso a um serviço",
+    "options": ["Pagamento regular para obter acesso a um serviço", "Compra única de um produto", "Doação beneficente", "Empréstimo de curto prazo"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'portfolio'?",
+    "correctAnswer": "Conjunto de produtos ou investimentos de uma empresa",
+    "options": ["Conjunto de produtos ou investimentos de uma empresa", "Documento de identidade pessoal", "Contrato de emprego", "Mapa de localização de lojas"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que quer dizer 'affluent'?",
+    "correctAnswer": "Rico ou possuidor de grande quantidade de bens",
+    "options": ["Rico ou possuidor de grande quantidade de bens", "Pobre ou necessitado financeiramente", "Endividado ou insolvente", "Sem recursos ou propriedades"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'monopoly'?",
+    "correctAnswer": "Controle exclusivo de um mercado por uma empresa",
+    "options": ["Controle exclusivo de um mercado por uma empresa", "Competição entre vários vendedores", "Vendas de produtos similares", "Fusão de duas companhias"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'breach'?",
+    "correctAnswer": "Violação de contrato ou confiança comercial",
+    "options": ["Violação de contrato ou confiança comercial", "Cumprimento integral de acordo", "Renovação de contrato comercial", "Extensão de prazo de pagamento"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'niche'?",
+    "correctAnswer": "Segmento especializado de mercado com demanda específica",
+    "options": ["Segmento especializado de mercado com demanda específica", "Mercado geral e amplo", "Loja de varejo comum", "Distribuidor de produtos em massa"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que quer dizer 'disrupt'?",
+    "correctAnswer": "Perturbar ou transformar radicalmente um mercado",
+    "options": ["Perturbar ou transformar radicalmente um mercado", "Manter a estabilidade de um negócio", "Expandir operações gradualmente", "Reduzir custos operacionais"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'arbitrage'?",
+    "correctAnswer": "Compra e venda simultânea em mercados diferentes para lucro",
+    "options": ["Compra e venda simultânea em mercados diferentes para lucro", "Empréstimo de fundos a longo prazo", "Aluguel de espaço comercial", "Inspeção de qualidade de produtos"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'proliferate'?",
+    "correctAnswer": "Multiplicar ou aumentar rapidamente em quantidade",
+    "options": ["Multiplicar ou aumentar rapidamente em quantidade", "Diminuir gradualmente de número", "Manter quantidade constante", "Desaparecer do mercado"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'aggregate'?",
+    "correctAnswer": "Soma ou totalidade de valores e elementos combinados",
+    "options": ["Soma ou totalidade de valores e elementos combinados", "Item individual isolado", "Diferença entre dois valores", "Média aproximada de números"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que quer dizer 'commodification'?",
+    "correctAnswer": "Transformação de algo único em produto comercial padrão",
+    "options": ["Transformação de algo único em produto comercial padrão", "Criação de monopólio de mercado", "Redução de preços sem motivo aparente", "Aumento de qualidade do produto"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'stratification'?",
+    "correctAnswer": "Divisão em camadas ou níveis sociais ou econômicos",
+    "options": ["Divisão em camadas ou níveis sociais ou econômicos", "Integração total de sistemas", "Simplificação de processos", "Uniformidade de preços"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'obsolescence'?",
+    "correctAnswer": "Processo de se tornar desatualizado ou sem uso prático",
+    "options": ["Processo de se tornar desatualizado ou sem uso prático", "Melhoria contínua de um produto", "Aumento de demanda no mercado", "Renovação de estilo e design"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'fungible'?",
+    "correctAnswer": "Que pode ser substituído por outro idêntico em valor",
+    "options": ["Que pode ser substituído por outro idêntico em valor", "Que é único e insubstituível", "Que sofre deterioração rápida", "Que requer licença especial"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que quer dizer 'amortize'?",
+    "correctAnswer": "Pagar uma dívida em prestações periódicas durante tempo determinado",
+    "options": ["Pagar uma dívida em prestações periódicas durante tempo determinado", "Obter lucro imediato de uma venda", "Cancelar um contrato abruptamente", "Renovar um acordo comercial"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'fungibility'?",
+    "correctAnswer": "Propriedade de ser intercambiável com outro de igual valor",
+    "options": ["Propriedade de ser intercambiável com outro de igual valor", "Característica única e exclusiva de um bem", "Capacidade de sofrer transformação", "Atributo de ser raro ou escasso"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'venality'?",
+    "correctAnswer": "Tendência a ser corrompido ou influenciado por dinheiro",
+    "options": ["Tendência a ser corrompido ou influenciado por dinheiro", "Honestidade e integridade moral", "Resistência a pressões externas", "Capacidade de investir com sabedoria"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'collateral'?",
+    "correctAnswer": "Bem oferecido como garantia em um empréstimo",
+    "options": ["Bem oferecido como garantia em um empréstimo", "Complemento adicional de uma compra", "Pagamento em múltiplas parcelas", "Transporte de mercadorias"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que quer dizer 'speculative'?",
+    "correctAnswer": "Baseado em conjectura ou investimento de risco sem certeza",
+    "options": ["Baseado em conjectura ou investimento de risco sem certeza", "Fundamentado em dados comprovados", "Conservador e seguro financeiramente", "Rentável e garantido"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'depletion'?",
+    "correctAnswer": "Redução gradual ou esgotamento de recursos ou estoque",
+    "options": ["Redução gradual ou esgotamento de recursos ou estoque", "Aumento gradual de inventário", "Renovação periódica de produtos", "Diversificação de oferta"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'proliferation'?",
+    "correctAnswer": "Multiplicação rápida ou expansão descontrolada de algo",
+    "options": ["Multiplicação rápida ou expansão descontrolada de algo", "Diminuição organizada de elementos", "Manutenção de quantidade fixa", "Especialização em um único produto"],
+    "difficulty": "hard"
+  }
+]

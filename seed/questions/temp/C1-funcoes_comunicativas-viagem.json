@@ -1,0 +1,752 @@
+[
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está no balcão de um hotel e precisa deixar um recado importante para um colega que não está disponível no momento. Como você faria isso de forma clara?",
+    "correctAnswer": "Could you please leave a message for my colleague? It's regarding our meeting tomorrow.",
+    "options": [
+      "Could you please leave a message for my colleague? It's regarding our meeting tomorrow.",
+      "Just tell him I need to talk to him when he comes back.",
+      "Let me know when he is here to speak to me.",
+      "I want you to call my colleague now."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está em um restaurante e o prato que chegou não é o que você pediu. Como você comunicaria isso educadamente?",
+    "correctAnswer": "Excuse me, I believe there might be a mistake with my order. I ordered the salmon, not the chicken.",
+    "options": [
+      "This is wrong! Take it back immediately.",
+      "Excuse me, I believe there might be a mistake with my order. I ordered the salmon, not the chicken.",
+      "This is not what I asked for at all.",
+      "Why did you bring me the wrong thing?"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você precisa pedir informações sobre horários de voos em um aeroporto. Qual é a forma mais apropriada?",
+    "correctAnswer": "Could you please provide information about the departure times for flights to London?",
+    "options": [
+      "When do flights go to London?",
+      "Could you please provide information about the departure times for flights to London?",
+      "Tell me all the flight times.",
+      "I need to know about London flights now."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está em uma excursão e perdeu seu grupo. Como você pediria ajuda ao guia turístico?",
+    "correctAnswer": "I seem to have lost track of my group. Could you help me locate them?",
+    "options": [
+      "I lost my group! Help me now!",
+      "I seem to have lost track of my group. Could you help me locate them?",
+      "Where is my group?",
+      "My group disappeared and I need to find them."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "No check-in de um hotel, você precisa confirmar sua reserva. Como você faria?",
+    "correctAnswer": "Good afternoon, I have a reservation under the name Silva for three nights.",
+    "options": [
+      "I'm Silva and I booked a room here.",
+      "Good afternoon, I have a reservation under the name Silva for three nights.",
+      "Check me in now, please.",
+      "My reservation is here somewhere."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está em um trem e quer saber se o assento ao lado está ocupado. Como perguntaria?",
+    "correctAnswer": "Excuse me, is this seat taken?",
+    "options": [
+      "Is someone sitting here?",
+      "Excuse me, is this seat taken?",
+      "Can I sit down?",
+      "Nobody sitting here?"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você precisa reclamar sobre a qualidade do atendimento em um hotel. Como expressaria sua insatisfação de forma profissional?",
+    "correctAnswer": "I'd like to express my concern about the level of service we've received. The Wi-Fi has been down for two days.",
+    "options": [
+      "Your service is terrible!",
+      "I'd like to express my concern about the level of service we've received. The Wi-Fi has been down for two days.",
+      "This hotel is awful.",
+      "You guys need to fix things around here."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Em um museu, você quer sugerir uma pausa para o café para seu grupo de turistas. Como faria a sugestão?",
+    "correctAnswer": "Shall we take a break and grab some coffee? There's a café just around the corner.",
+    "options": [
+      "Let's have coffee now.",
+      "Shall we take a break and grab some coffee? There's a café just around the corner.",
+      "I want coffee.",
+      "We should stop and drink something."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você precisa rejeitar educadamente um tour ou atividade oferecida. Como faria?",
+    "correctAnswer": "Thank you for the offer, but I'm afraid we'll have to decline. We've already booked another activity.",
+    "options": [
+      "No, I don't want to.",
+      "Thank you for the offer, but I'm afraid we'll have to decline. We've already booked another activity.",
+      "We don't like that.",
+      "No way."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "No aeroporto, seu voo foi cancelado e você precisa informar-se sobre alternativas. Como você faria?",
+    "correctAnswer": "I understand my flight has been cancelled. What are my options for rebooking?",
+    "options": [
+      "My flight is gone! What do I do?",
+      "I understand my flight has been cancelled. What are my options for rebooking?",
+      "You cancelled my flight. What now?",
+      "Fix this immediately."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está em uma agência de viagens e quer pedir recomendações para um destino baseado em seus interesses. Como faria?",
+    "correctAnswer": "I'm interested in cultural experiences and historical sites. Could you recommend a destination that would suit my preferences?",
+    "options": [
+      "Where should I go?",
+      "I'm interested in cultural experiences and historical sites. Could you recommend a destination that would suit my preferences?",
+      "Find me a good place to visit.",
+      "What's a nice place with history?"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer informar uma mudança em sua reserva de hotel. Como comunicaria isso?",
+    "correctAnswer": "I need to modify my reservation. Could I extend my stay by two additional nights?",
+    "options": [
+      "I want to stay longer.",
+      "I need to modify my reservation. Could I extend my stay by two additional nights?",
+      "Add two more nights to my booking.",
+      "Make my reservation longer."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Em um passeio de bicicleta, você não consegue acompanhar o ritmo do grupo. Como comunicaria isso?",
+    "correctAnswer": "I'm finding the pace a bit challenging. Would it be possible to slow down slightly?",
+    "options": [
+      "This is too fast!",
+      "I'm finding the pace a bit challenging. Would it be possible to slow down slightly?",
+      "I can't keep up.",
+      "Go slower!"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você precisa pedir desculpas por chegar atrasado a um tour programado. Como faria?",
+    "correctAnswer": "I apologize sincerely for my late arrival. I was caught in unexpected traffic.",
+    "options": [
+      "Sorry I'm late.",
+      "I apologize sincerely for my late arrival. I was caught in unexpected traffic.",
+      "Traffic made me late.",
+      "Sorry."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer cumprimentar formalmente o anfitrião de um jantar de gala em um resort. Como faria?",
+    "correctAnswer": "It's a pleasure to meet you. Thank you for hosting such a magnificent event.",
+    "options": [
+      "Hi, thanks for the dinner.",
+      "It's a pleasure to meet you. Thank you for hosting such a magnificent event.",
+      "Nice party.",
+      "Good dinner."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você precisa avisar que deixará a chave do quarto na recepção antes de partir. Como comunicaria?",
+    "correctAnswer": "I'll be checking out early, and I'll leave my room key at the reception desk.",
+    "options": [
+      "I'm leaving my key here.",
+      "I'll be checking out early, and I'll leave my room key at the reception desk.",
+      "Take my key.",
+      "The key is at the desk."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer negociar o preço de uma acomodação com um proprietário local. Como iniciaria a negociação?",
+    "correctAnswer": "The accommodation looks delightful. Would there be any flexibility on the nightly rate if we book for an extended period?",
+    "options": [
+      "Your price is too high.",
+      "The accommodation looks delightful. Would there be any flexibility on the nightly rate if we book for an extended period?",
+      "Make it cheaper.",
+      "That costs too much."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Durante uma visita a um sítio arqueológico, você quer questionar a interpretação do guia sobre uma descoberta. Como faria isso diplomaticamente?",
+    "correctAnswer": "That's a fascinating interpretation. I'm curious whether there are alternative scholarly perspectives on this discovery.",
+    "options": [
+      "I don't think that's right.",
+      "That's a fascinating interpretation. I'm curious whether there are alternative scholarly perspectives on this discovery.",
+      "Your explanation is wrong.",
+      "That doesn't make sense."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está planejando uma viagem com amigos e precisa mediar diferentes preferências sobre o itinerário. Como expressaria isso?",
+    "correctAnswer": "I understand everyone has different interests. Perhaps we could compromise by allocating specific days to each activity preference.",
+    "options": [
+      "We need to do what I want.",
+      "I understand everyone has different interests. Perhaps we could compromise by allocating specific days to each activity preference.",
+      "Your ideas are not as good as mine.",
+      "Let me decide everything."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você precisa relatar um problema de segurança em um hotel ao gerente. Como comunicaria isso com tato?",
+    "correctAnswer": "I'd like to bring a matter of concern to your attention regarding the security measures in our wing. The lock on my door appears to be malfunctioning.",
+    "options": [
+      "Your security is bad.",
+      "I'd like to bring a matter of concern to your attention regarding the security measures in our wing. The lock on my door appears to be malfunctioning.",
+      "Fix the lock now.",
+      "This place isn't safe."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer sugerir modificações a um tour que está sendo oferecido sem parecer crítico. Como faria?",
+    "correctAnswer": "Your tour is excellent. I wonder if we might enhance the experience by including a brief visit to the local market?",
+    "options": [
+      "Your tour is boring.",
+      "Your tour is excellent. I wonder if we might enhance the experience by including a brief visit to the local market?",
+      "You should add the market.",
+      "This tour needs work."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você precisa esclarecer um mal-entendido sobre os serviços incluídos em seu pacote de viagem. Como faria?",
+    "correctAnswer": "I want to clarify the inclusions in our package. According to the itinerary, does the accommodation include breakfast?",
+    "options": [
+      "Is breakfast included or not?",
+      "I want to clarify the inclusions in our package. According to the itinerary, does the accommodation include breakfast?",
+      "You said breakfast was included!",
+      "I need breakfast every day."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer oferecer feedback positivo e construtivo sobre um serviço que recebeu em uma agência de viagens. Como faria?",
+    "correctAnswer": "Your service has been exemplary. The itinerary you crafted perfectly matches our expectations, and I'd recommend your agency to colleagues.",
+    "options": [
+      "It was okay.",
+      "Your service has been exemplary. The itinerary you crafted perfectly matches our expectations, and I'd recommend your agency to colleagues.",
+      "Good job.",
+      "We were satisfied."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você precisa informar que terá uma acomodação especial necessária (como alergia alimentar) antes de uma refeição em um tour. Como comunicaria?",
+    "correctAnswer": "Before dinner, I must inform you of a dietary requirement. I have a shellfish allergy and require an alternative menu option.",
+    "options": [
+      "I can't eat shellfish.",
+      "Before dinner, I must inform you of a dietary requirement. I have a shellfish allergy and require an alternative menu option.",
+      "Make me something else.",
+      "I'm allergic to seafood."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está em um resort e quer sugerir atividades adicionais para os próximos hóspedes. Como ofereceria essa sugestão ao gerente?",
+    "correctAnswer": "Your resort is wonderful. I'd like to propose that evening cultural performances might enhance the guest experience considerably.",
+    "options": [
+      "You need more activities here.",
+      "Your resort is wonderful. I'd like to propose that evening cultural performances might enhance the guest experience considerably.",
+      "Do more stuff for tourists.",
+      "Add some entertainment."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você precisa pedir orientações sobre documentos necessários para um passeio internacional. Como faria?",
+    "correctAnswer": "What documentation would I need to ensure for crossing into the neighboring country on our excursion?",
+    "options": [
+      "Do I need papers?",
+      "What documentation would I need to ensure for crossing into the neighboring country on our excursion?",
+      "What do I bring?",
+      "Is my passport enough?"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer envolver-se em uma conversa com um local sobre costumes culturais sem parecer ignorante. Como iniciaria?",
+    "correctAnswer": "I'd be delighted to learn more about your local customs and traditions. Could you share some insights into how you celebrate important occasions?",
+    "options": [
+      "Tell me about your culture.",
+      "I'd be delighted to learn more about your local customs and traditions. Could you share some insights into how you celebrate important occasions?",
+      "What's your culture like?",
+      "Your traditions are different."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você precisa fazer um comentário delicado sobre o comportamento de um colega viajante que está perturbando o grupo. Como abordaria?",
+    "correctAnswer": "I want to speak with you privately. I've noticed some behavior that might be affecting the group dynamic. Could we discuss this?",
+    "options": [
+      "Stop bothering everyone.",
+      "I want to speak with you privately. I've noticed some behavior that might be affecting the group dynamic. Could we discuss this?",
+      "You're being annoying.",
+      "Settle down."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Em um voo internacional, você quer pedir informações sobre o menu da refeição ao comissário de bordo. Como faria de forma sofisticada?",
+    "correctAnswer": "Could you elaborate on the culinary options available for dinner this evening? I'm interested in knowing about any dietary accommodations.",
+    "options": [
+      "What's for dinner?",
+      "Could you elaborate on the culinary options available for dinner this evening? I'm interested in knowing about any dietary accommodations.",
+      "I'm hungry.",
+      "What food do you have?"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer defender educadamente sua opinião quando discorda da opinião do guia turístico sobre um destino. Como faria?",
+    "correctAnswer": "I appreciate your perspective. However, based on my research, I've come across compelling evidence suggesting an alternative viewpoint on that matter.",
+    "options": [
+      "You're wrong.",
+      "I appreciate your perspective. However, based on my research, I've come across compelling evidence suggesting an alternative viewpoint on that matter.",
+      "That's not true.",
+      "I don't believe you."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está negociando com um resort sobre um possível desconto para um grupo corporativo. Como faria uma proposta persuasiva?",
+    "correctAnswer": "We're considering your resort for our annual corporate retreat. Given the group size of 50 participants, would you be amenable to discussing preferential rates and customized packages?",
+    "options": [
+      "Give us a discount for 50 people.",
+      "We're considering your resort for our annual corporate retreat. Given the group size of 50 participants, would you be amenable to discussing preferential rates and customized packages?",
+      "That's expensive.",
+      "Reduce the price."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você precisa reclamar formalmente sobre um serviço inadequado em uma companhia aérea e mencionar compensação. Como faria?",
+    "correctAnswer": "I'm registering a formal complaint regarding the severe delays and poor communication experienced on Flight 347. I trust you'll address this appropriately with suitable compensation.",
+    "options": [
+      "Your flight was late and you suck.",
+      "I'm registering a formal complaint regarding the severe delays and poor communication experienced on Flight 347. I trust you'll address this appropriately with suitable compensation.",
+      "I want money back for this mess.",
+      "This was unacceptable."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está planejando uma viagem para um cliente executivo e precisa confirmar requisitos muito específicos. Como estruturaria sua comunicação?",
+    "correctAnswer": "To ensure we provide an exceptional experience, could you specify your preferences regarding accommodation standards, dining establishments, and transportation arrangements?",
+    "options": [
+      "What do you want?",
+      "To ensure we provide an exceptional experience, could you specify your preferences regarding accommodation standards, dining establishments, and transportation arrangements?",
+      "Tell me what you need.",
+      "Where do you want to go?"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer questionar de forma construtiva a sustentabilidade ambiental de um tour ecoturístico. Como abordaria?",
+    "correctAnswer": "Your eco-tour appears commendable. However, I'd appreciate understanding your specific conservation practices and how you mitigate environmental impact during operations.",
+    "options": [
+      "This isn't really eco-friendly.",
+      "Your eco-tour appears commendable. However, I'd appreciate understanding your specific conservation practices and how you mitigate environmental impact during operations.",
+      "You're harming the environment.",
+      "This is fake eco-tourism."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você precisa negociar condições especiais para um cancelamento de última hora de uma reserva de hotel. Como faria?",
+    "correctAnswer": "Due to unforeseen circumstances, I must cancel my reservation with immediate effect. I understand the cancellation fees; however, would you consider waiving them given our prolonged patronage?",
+    "options": [
+      "I'm canceling. Deal with it.",
+      "Due to unforeseen circumstances, I must cancel my reservation with immediate effect. I understand the cancellation fees; however, would you consider waiving them given our prolonged patronage?",
+      "I don't want to pay the fee.",
+      "Cancel my booking now."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está facilitando uma discussão entre múltiplos viajantes com conflitos culturais sutis durante um tour. Como mediaria?",
+    "correctAnswer": "I believe we're experiencing a divergence in cultural perspectives. Rather than viewing this as disagreement, might we explore the underlying cultural values enriching both viewpoints?",
+    "options": [
+      "You're both wrong.",
+      "I believe we're experiencing a divergence in cultural perspectives. Rather than viewing this as disagreement, might we explore the underlying cultural values enriching both viewpoints?",
+      "Stop arguing.",
+      "You need to agree."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer expressar uma preocupação sofisticada sobre seguros de viagem e cobertura a um agente de viagens. Como faria?",
+    "correctAnswer": "Before finalizing my booking, I'd like clarification on the comprehensiveness of the travel insurance. Specifically, does it encompass adventure activities and emergency evacuation?",
+    "options": [
+      "Is my insurance good?",
+      "Before finalizing my booking, I'd like clarification on the comprehensiveness of the travel insurance. Specifically, does it encompass adventure activities and emergency evacuation?",
+      "What's covered?",
+      "Tell me about the insurance."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você precisa articular uma preocupação sobre uma atividade turística que pode ser eticamente questionável. Como expressaria?",
+    "correctAnswer": "While I'm intrigued by this experience, I harbor reservations regarding its ethical implications. Could you elaborate on how this activity respects the dignity and autonomy of local populations?",
+    "options": [
+      "This seems wrong.",
+      "While I'm intrigued by this experience, I harbor reservations regarding its ethical implications. Could you elaborate on how this activity respects the dignity and autonomy of local populations?",
+      "This is not fair.",
+      "I don't like this tour."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer propor uma parceria comercial para um hotel baseada em referências de clientes frequentes. Como estruturaria sua proposta?",
+    "correctAnswer": "We represent a substantial client base seeking premium accommodations for frequent corporate retreats. Would you be interested in exploring a mutually beneficial partnership arrangement?",
+    "options": [
+      "Work with us.",
+      "We represent a substantial client base seeking premium accommodations for frequent corporate retreats. Would you be interested in exploring a mutually beneficial partnership arrangement?",
+      "Make us a deal.",
+      "Can we get a contract?"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está em uma situação onde precisa reclamar diplomaticamente sobre a qualidade de um tour cultural que foi superficial. Como faria?",
+    "correctAnswer": "While the tour was well-organized, I found the cultural immersion somewhat limited. Would it be feasible to offer deeper engagement with local artisans and historical practitioners?",
+    "options": [
+      "This tour was boring and shallow.",
+      "While the tour was well-organized, I found the cultural immersion somewhat limited. Would it be feasible to offer deeper engagement with local artisans and historical practitioners?",
+      "You didn't teach us anything real.",
+      "This was not authentic."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você precisa coordenar com múltiplos fornecedores de turismo para um evento corporativo sofisticado. Como comunicaria suas expectativas?",
+    "correctAnswer": "Our corporate event demands exceptional coordination. I'd like each vendor to provide detailed timelines, contingency protocols, and quality assurance measures aligned with our exacting standards.",
+    "options": [
+      "Make sure it's good.",
+      "Our corporate event demands exceptional coordination. I'd like each vendor to provide detailed timelines, contingency protocols, and quality assurance measures aligned with our exacting standards.",
+      "Don't mess this up.",
+      "Everything needs to be perfect."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer expressar sua gratidão de forma sofisticada a um anfitrião que proporcionou uma experiência memorável em uma viagem. Como faria?",
+    "correctAnswer": "Your meticulous attention to detail and unwavering hospitality have rendered this visit profoundly memorable. I'm genuinely grateful for the thoughtfulness exhibited throughout our stay.",
+    "options": [
+      "Thanks for everything.",
+      "Your meticulous attention to detail and unwavering hospitality have rendered this visit profoundly memorable. I'm genuinely grateful for the thoughtfulness exhibited throughout our stay.",
+      "It was great.",
+      "Good job hosting us."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está discutindo a viabilidade de um roteiro de viagem complexo com múltiplas dificuldades. Como estruturaria sua argumentação?",
+    "correctAnswer": "The proposed itinerary presents several logistical challenges. Specifically, the geographical distances and time constraints warrant reconsideration of some segments to ensure sustainability and participant satisfaction.",
+    "options": [
+      "This itinerary is too hard.",
+      "The proposed itinerary presents several logistical challenges. Specifically, the geographical distances and time constraints warrant reconsideration of some segments to ensure sustainability and participant satisfaction.",
+      "This won't work.",
+      "The plan is bad."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você precisa contestar educadamente uma política de um hotel que você acha injusta e propor uma solução alternativa. Como faria?",
+    "correctAnswer": "While I understand your no-refund policy, I believe it may inadvertently disadvantage guests experiencing legitimate hardships. Might we explore a modified policy allowing partial refunds in exceptional circumstances?",
+    "options": [
+      "Your policy sucks.",
+      "While I understand your no-refund policy, I believe it may inadvertently disadvantage guests experiencing legitimate hardships. Might we explore a modified policy allowing partial refunds in exceptional circumstances?",
+      "That's unfair.",
+      "Change the policy."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer facilitar uma experiência de aprendizado cultural profundo durante um tour sem parecer condescendente. Como iniciaria?",
+    "correctAnswer": "I'm genuinely curious about the philosophical underpinnings of your traditions. Would you be willing to engage in a deeper discussion exploring the historical contexts that shaped these practices?",
+    "options": [
+      "Tell me about your weird traditions.",
+      "I'm genuinely curious about the philosophical underpinnings of your traditions. Would you be willing to engage in a deeper discussion exploring the historical contexts that shaped these practices?",
+      "Your culture is interesting.",
+      "Explain how your people do things."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está resolvendo um conflito entre expectativas de cliente e realidades operacionais de um resort. Como negociaria?",
+    "correctAnswer": "I recognize the operational constraints you're navigating. However, the disparity between advertised amenities and current availability warrants acknowledgment. How might we bridge this gap constructively?",
+    "options": [
+      "You're not giving me what you promised.",
+      "I recognize the operational constraints you're navigating. However, the disparity between advertised amenities and current availability warrants acknowledgment. How might we bridge this gap constructively?",
+      "Fix this now.",
+      "You lied about the amenities."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está em um voo e quer pedir ao comissário de bordo uma bebida quente durante a noite. Como faria de forma educada?",
+    "correctAnswer": "Excuse me, when you have a moment, could I possibly get a cup of tea?",
+    "options": [
+      "Give me tea now.",
+      "Excuse me, when you have a moment, could I possibly get a cup of tea?",
+      "I want hot tea.",
+      "Can you bring tea to my seat?"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está apresentando um destino pouco conhecido para turismo a um grupo de agentes de viagens. Como descreveria suas características únicas de forma envolvente e profissional?",
+    "correctAnswer": "This destination represents an untapped treasure trove of authentic cultural experiences, coupled with pristine natural landscapes that have been meticulously preserved from mass tourism exploitation.",
+    "options": [
+      "It's a nice place that not many tourists visit.",
+      "This destination represents an untapped treasure trove of authentic cultural experiences, coupled with pristine natural landscapes that have been meticulously preserved from mass tourism exploitation.",
+      "The place is beautiful and not many people go there.",
+      "It's a good place to visit because it's not crowded with tourists."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está dando feedback a um hotel de luxo após uma experiência decepcionante em relação às expectativas criadas pelo marketing. Como expressaria isso mantendo um tom profissional?",
+    "correctAnswer": "Whilst your promotional materials portrayed an exceptionally curated experience, the actual execution fell markedly short of those delineated promises, warranting substantive remedial action.",
+    "options": [
+      "Your marketing was better than the actual hotel.",
+      "Whilst your promotional materials portrayed an exceptionally curated experience, the actual execution fell markedly short of those delineated promises, warranting substantive remedial action.",
+      "The hotel was not as good as the pictures showed.",
+      "The advertising showed something better than what I got."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está negociando o cancelamento de um contrato de pacote de viagem corporativa de longa duração com uma agência. Como abordaria essa situação delicada?",
+    "correctAnswer": "Regrettably, we find ourselves compelled to revisit our contractual obligations due to unforeseen macroeconomic headwinds. We're keen to explore amicable resolution mechanisms that minimize mutual detriment.",
+    "options": [
+      "We need to cancel because business is bad.",
+      "Regrettably, we find ourselves compelled to revisit our contractual obligations due to unforeseen macroeconomic headwinds. We're keen to explore amicable resolution mechanisms that minimize mutual detriment.",
+      "We can't continue the contract because of money problems.",
+      "Can we stop the contract because we have financial issues?"
+    ],
+    "difficulty": "hard"
+  }
+]

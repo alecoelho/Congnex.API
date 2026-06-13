@@ -1,0 +1,512 @@
+[
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'school'?",
+    "correctAnswer": "Escola",
+    "options": ["Escola", "Biblioteca", "Hospital", "Parque"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'teacher'?",
+    "correctAnswer": "Professor",
+    "options": ["Professor", "Aluno", "Diretor", "Médico"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Como traduzir 'student'?",
+    "correctAnswer": "Estudante",
+    "options": ["Estudante", "Professor", "Secretário", "Diretor"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'book'?",
+    "correctAnswer": "Livro",
+    "options": ["Livro", "Caderno", "Caneta", "Borracha"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'class'?",
+    "correctAnswer": "Aula/Turma",
+    "options": ["Aula/Turma", "Recreio", "Prova", "Dever de casa"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Como traduzir 'pencil'?",
+    "correctAnswer": "Lápis",
+    "options": ["Lápis", "Caneta", "Régua", "Borracha"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'notebook' (contexto escolar)?",
+    "correctAnswer": "Caderno",
+    "options": ["Caderno", "Livro", "Pasta", "Mochila"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'learn'?",
+    "correctAnswer": "Aprender",
+    "options": ["Aprender", "Ensinar", "Estudar", "Ler"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Como traduzir 'read'?",
+    "correctAnswer": "Ler",
+    "options": ["Ler", "Escrever", "Falar", "Ouvir"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'write'?",
+    "correctAnswer": "Escrever",
+    "options": ["Escrever", "Ler", "Desenhar", "Copiar"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'classroom'?",
+    "correctAnswer": "Sala de aula",
+    "options": ["Sala de aula", "Biblioteca", "Laboratório", "Quadra esportiva"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Como traduzir 'homework'?",
+    "correctAnswer": "Dever de casa",
+    "options": ["Dever de casa", "Prova", "Projeto", "Trabalho em grupo"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'test'?",
+    "correctAnswer": "Teste/Prova",
+    "options": ["Teste/Prova", "Dever de casa", "Projeto", "Exercício"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'answer'?",
+    "correctAnswer": "Resposta",
+    "options": ["Resposta", "Pergunta", "Problema", "Exercício"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Como traduzir 'question'?",
+    "correctAnswer": "Pergunta",
+    "options": ["Pergunta", "Resposta", "Tarefa", "Lição"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'study'?",
+    "correctAnswer": "Estudar",
+    "options": ["Estudar", "Aprender", "Praticar", "Revisar"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'library'?",
+    "correctAnswer": "Biblioteca",
+    "options": ["Biblioteca", "Livraria", "Escola", "Sala de aula"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'to take notes'?",
+    "correctAnswer": "Fazer anotações",
+    "options": ["Fazer anotações", "Tirar fotos", "Pegar livros", "Ler em voz alta"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'subject' no contexto escolar?",
+    "correctAnswer": "Disciplina/Matéria",
+    "options": ["Disciplina/Matéria", "Assunto de carta", "Sujeito gramatical", "Projeto"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'grade' no contexto escolar?",
+    "correctAnswer": "Nota/Série",
+    "options": ["Nota/Série", "Turma", "Prêmio", "Medalha"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Como traduzir 'principal' no contexto escolar?",
+    "correctAnswer": "Diretor",
+    "options": ["Diretor", "Professor principal", "Aluno mais velho", "Secretário"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'to pass an exam'?",
+    "correctAnswer": "Passar em uma prova",
+    "options": ["Passar em uma prova", "Fazer uma prova", "Entregar uma prova", "Cancelar uma prova"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'schedule' no contexto escolar?",
+    "correctAnswer": "Grade horária/Horário",
+    "options": ["Grade horária/Horário", "Calendário de feriados", "Lista de alunos", "Regras da escola"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'degree' no contexto educacional?",
+    "correctAnswer": "Diploma/Grau acadêmico",
+    "options": ["Diploma/Grau acadêmico", "Nota de prova", "Turma avançada", "Certificado de presença"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'to fail a test'?",
+    "correctAnswer": "Reprovar em uma prova",
+    "options": ["Reprovar em uma prova", "Passar em uma prova", "Fazer uma prova difícil", "Perder uma prova"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'recess' no contexto escolar?",
+    "correctAnswer": "Recreio",
+    "options": ["Recreio", "Férias escolares", "Aula extra", "Período de estudo"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Como traduzir 'assignment' no contexto escolar?",
+    "correctAnswer": "Tarefa/Trabalho",
+    "options": ["Tarefa/Trabalho", "Avaliação oral", "Aula de reforço", "Nota final"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'campus'?",
+    "correctAnswer": "Área/Terreno da universidade",
+    "options": ["Área/Terreno da universidade", "Dormitório estudantil", "Sala dos professores", "Cantina escolar"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'to hand in'?",
+    "correctAnswer": "Entregar (um trabalho)",
+    "options": ["Entregar (um trabalho)", "Pegar emprestado", "Começar uma tarefa", "Corrigir um exercício"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'semester'?",
+    "correctAnswer": "Semestre",
+    "options": ["Semestre", "Trimestre", "Bimestre", "Ano letivo"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'extra credit'?",
+    "correctAnswer": "Atividade para melhorar a nota",
+    "options": ["Atividade para melhorar a nota", "Nota extra por presença", "Prova de recuperação obrigatória", "Crédito financeiro para estudantes"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'deadline'?",
+    "correctAnswer": "Data limite para entrega",
+    "options": ["Data limite para entrega", "Início do semestre", "Dia da prova final", "Período de inscrição"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Como traduzir 'tutor'?",
+    "correctAnswer": "Professor particular/Tutor",
+    "options": ["Professor particular/Tutor", "Diretor da escola", "Colega de turma", "Monitor da biblioteca"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'attendance'?",
+    "correctAnswer": "Frequência/Presença",
+    "options": ["Frequência/Presença", "Desempenho escolar", "Participação em aula", "Comportamento do aluno"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'to look up'?",
+    "correctAnswer": "Pesquisar/Consultar",
+    "options": ["Pesquisar/Consultar", "Memorizar um conteúdo", "Resumir uma leitura", "Corrigir um erro"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'curriculum'?",
+    "correctAnswer": "Currículo/Grade curricular",
+    "options": ["Currículo/Grade curricular", "Histórico escolar", "Calendário acadêmico", "Material didático"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'syllabus'?",
+    "correctAnswer": "Programa da disciplina/Ementa",
+    "options": ["Programa da disciplina/Ementa", "Lista de presença", "Cronograma de provas", "Material obrigatório"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'literacy'?",
+    "correctAnswer": "Alfabetização/Letramento",
+    "options": ["Alfabetização/Letramento", "Fluência em idiomas", "Habilidade de cálculo", "Conhecimento cultural"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Como traduzir 'peer review'?",
+    "correctAnswer": "Avaliação entre colegas",
+    "options": ["Avaliação entre colegas", "Revisão do professor", "Autoavaliação do aluno", "Correção pelo monitor"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'scholarship'?",
+    "correctAnswer": "Bolsa de estudos",
+    "options": ["Bolsa de estudos", "Empréstimo estudantil", "Desconto na mensalidade", "Auxílio moradia"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'to enroll in'?",
+    "correctAnswer": "Matricular-se em",
+    "options": ["Matricular-se em", "Desistir de", "Ser aprovado em", "Reprovar em"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'transcript'?",
+    "correctAnswer": "Histórico escolar",
+    "options": ["Histórico escolar", "Diploma de conclusão", "Carta de recomendação", "Formulário de matrícula"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'prerequisite'?",
+    "correctAnswer": "Pré-requisito",
+    "options": ["Pré-requisito", "Disciplina optativa", "Carga horária mínima", "Avaliação inicial"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'to drop a course'?",
+    "correctAnswer": "Cancelar/Desistir de uma disciplina",
+    "options": ["Cancelar/Desistir de uma disciplina", "Reprovar em uma disciplina", "Trocar de turma", "Ser removido da aula"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Como traduzir 'coursework'?",
+    "correctAnswer": "Trabalhos e atividades do curso",
+    "options": ["Trabalhos e atividades do curso", "Carga horária total", "Material didático do curso", "Prova final do semestre"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'academic year'?",
+    "correctAnswer": "Ano letivo",
+    "options": ["Ano letivo", "Ano fiscal da escola", "Período de férias", "Calendário universitário"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'internship'?",
+    "correctAnswer": "Estágio",
+    "options": ["Estágio", "Intercâmbio", "Monitoria", "Voluntariado"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'learning outcomes'?",
+    "correctAnswer": "Resultados de aprendizagem",
+    "options": ["Resultados de aprendizagem", "Objetivos do professor", "Estratégias de ensino", "Métodos de avaliação"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'elective'?",
+    "correctAnswer": "Disciplina optativa",
+    "options": ["Disciplina optativa", "Disciplina obrigatória", "Disciplina de recuperação", "Disciplina complementar obrigatória"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'to retake an exam'?",
+    "correctAnswer": "Refazer uma prova",
+    "options": ["Refazer uma prova", "Passar em uma prova", "Anular uma prova", "Corrigir uma prova"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Como traduzir 'faculty'?",
+    "correctAnswer": "Corpo docente/Professores",
+    "options": ["Corpo docente/Professores", "Prédio da universidade", "Faculdade como edificação", "Grupo de alunos"],
+    "difficulty": "hard"
+  }
+]

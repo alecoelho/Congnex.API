@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Como se chama o documento que você precisa para viajar para outro país?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Passport",
+                        "Ticket",
+                        "Card",
+                        "License"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Passport"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a palavra em inglês para \u0027aeroporto\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Airport",
+                        "Station",
+                        "Harbor",
+                        "Terminal"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Airport"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Como se chama o meio de transporte que voa?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Airplane",
+                        "Bus",
+                        "Train",
+                        "Car"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Airplane"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o termo para \u0027hotel\u0027 em inglês?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Hotel",
+                        "Hostel",
+                        "House",
+                        "Motel"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Hotel"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que é um \u0027mapa\u0027 em inglês?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Map",
+                        "Guide",
+                        "Plan",
+                        "Chart"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Map"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Como chamamos o lugar onde você compra a passagem de avião?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Ticket counter",
+                        "Bus stop",
+                        "Train platform",
+                        "Check-in desk"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Ticket counter"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a palavra para \u0027estação de trem\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Train station",
+                        "Bus station",
+                        "Airport",
+                        "Port"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Train station"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027bagagem\u0027 em inglês?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Luggage",
+                        "Package",
+                        "Box",
+                        "Bag"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Luggage"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Como se chama a pessoa que trabalha em um hotel?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Receptionist",
+                        "Manager",
+                        "Clerk",
+                        "Attendant"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Receptionist"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a palavra para \u0027bilhete\u0027 ou \u0027passagem\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Ticket",
+                        "Pass",
+                        "Token",
+                        "Coupon"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Ticket"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027turismo\u0027 em inglês?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Tourism",
+                        "Travel",
+                        "Trip",
+                        "Tour"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Tourism"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Como chamamos uma viagem curta?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Trip",
+                        "Journey",
+                        "Voyage",
+                        "Expedition"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Trip"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a palavra para \u0027reserva\u0027 ou \u0027agendamento\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Booking",
+                        "Reservation",
+                        "Appointment",
+                        "Schedule"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Booking"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027praia\u0027 em inglês?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Beach",
+                        "Coast",
+                        "Shore",
+                        "Bay"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Beach"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Como se chama a pessoa que guia turistas?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Tour guide",
+                        "Travel agent",
+                        "Receptionist",
+                        "Concierge"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Tour guide"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o termo para \u0027país estrangeiro\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Foreign country",
+                        "Abroad",
+                        "Overseas",
+                        "International"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Foreign country"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027partida\u0027 ou \u0027saída\u0027 de um voo?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Departure",
+                        "Arrival",
+                        "Check-in",
+                        "Boarding"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Departure"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a palavra para \u0027moeda\u0027 em inglês?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Currency",
+                        "Money",
+                        "Cash",
+                        "Coin"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Currency"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Como se chama o lugar onde você muda de transporte durante uma viagem?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Connection",
+                        "Transfer",
+                        "Station",
+                        "Hub"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Connection"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o termo para \u0027chegada\u0027 de um voo?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Arrival",
+                        "Departure",
+                        "Landing",
+                        "Touchdown"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Arrival"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027check-in\u0027 no hotel?",
+        "difficulty":  "medium",
+        "options":  [
+                        "The process of registering at a hotel",
+                        "Leaving the hotel",
+                        "Paying the bill",
+                        "Booking a room"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "The process of registering at a hotel"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Como chamamos um passeio organizado por um guia turístico?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Guided tour",
+                        "Self-tour",
+                        "Package tour",
+                        "Solo trip"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Guided tour"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a palavra para \u0027visto\u0027 (documento de entrada)?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Visa",
+                        "Permit",
+                        "License",
+                        "Pass"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Visa"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027hospedagem\u0027 em inglês?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Accommodation",
+                        "Housing",
+                        "Shelter",
+                        "Residence"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Accommodation"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Como se chama o documento que comprova sua identidade ao viajar?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Identity document",
+                        "Travel permit",
+                        "Boarding pass",
+                        "Luggage tag"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Identity document"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o termo para \u0027agência de viagens\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Travel agency",
+                        "Tourist office",
+                        "Information center",
+                        "Booking office"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Travel agency"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que é um \u0027roteiro\u0027 ou \u0027itinerário\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Itinerary",
+                        "Schedule",
+                        "Timetable",
+                        "Plan"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Itinerary"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Como chamamos um pacote de viagem que inclui voo e hotel?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Package deal",
+                        "Travel bundle",
+                        "Holiday package",
+                        "All-inclusive"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Package deal"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a palavra para \u0027companhia aérea\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Airline",
+                        "Flight company",
+                        "Air carrier",
+                        "Aviation company"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Airline"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027embarque\u0027 em inglês?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Boarding",
+                        "Check-in",
+                        "Registration",
+                        "Departure"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Boarding"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Como se chama o lugar onde você espera antes de embarcar no avião?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Departure lounge",
+                        "Waiting room",
+                        "Terminal",
+                        "Gate"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Departure lounge"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o termo para \u0027excesso de bagagem\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Excess baggage",
+                        "Extra luggage",
+                        "Overweight bag",
+                        "Additional package"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Excess baggage"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027turista\u0027 em inglês?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Tourist",
+                        "Traveler",
+                        "Visitor",
+                        "Explorer"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Tourist"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Como chamamos um lugar de interesse histórico ou cultural?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Historical site",
+                        "Monument",
+                        "Landmark",
+                        "Tourist attraction"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Historical site"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a palavra para \u0027pousada\u0027 ou \u0027hospedaria\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Inn",
+                        "Resort",
+                        "Hostel",
+                        "Lodge"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Inn"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027bagagem mão\u0027 em inglês?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Hand luggage",
+                        "Carry-on",
+                        "Personal item",
+                        "Light baggage"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Hand luggage"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Como se chama a taxa que você paga ao entrar em um país?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Entry fee",
+                        "Border tax",
+                        "Travel tax",
+                        "Customs fee"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Entry fee"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o termo para \u0027seguro de viagem\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Travel insurance",
+                        "Trip coverage",
+                        "Journey protection",
+                        "Voyage insurance"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Travel insurance"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027hospedagem em família\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Home stay",
+                        "Family hotel",
+                        "Guest house",
+                        "Family room"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Home stay"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Como chamamos um assento especial no avião perto da janela?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Window seat",
+                        "Aisle seat",
+                        "Middle seat",
+                        "Bulkhead seat"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Window seat"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a palavra para \u0027atraso de voo\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Flight delay",
+                        "Late departure",
+                        "Postponed flight",
+                        "Delayed travel"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Flight delay"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027comissário de bordo\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Flight attendant",
+                        "Pilot",
+                        "Flight crew",
+                        "Cabin staff"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Flight attendant"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Como se chama o documento que permite entrar em um país por um período limitado?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Tourist visa",
+                        "Travel permit",
+                        "Entry pass",
+                        "Border document"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Tourist visa"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o termo para \u0027transporte compartilhado\u0027 durante uma viagem?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Car sharing",
+                        "Ride sharing",
+                        "Vehicle rental",
+                        "Group transport"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Car sharing"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027conexão de voo\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Flight connection",
+                        "Flight transfer",
+                        "Stopover",
+                        "Transit flight"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Flight connection"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Como chamamos um guia de destinos turísticos?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Travel guide",
+                        "Tourism brochure",
+                        "Destination map",
+                        "Holiday guide"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Travel guide"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a palavra para \u0027acomodação com café da manhã incluído\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Bed and breakfast",
+                        "Room service",
+                        "Half-board",
+                        "Full-board"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Bed and breakfast"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027serviço de concierge\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Concierge service",
+                        "Hotel reception",
+                        "Guest services",
+                        "Customer support"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Concierge service"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Como se chama uma viagem longa por mar?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Cruise",
+                        "Voyage",
+                        "Journey",
+                        "Expedition"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Cruise"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a palavra para \u0027desembarque\u0027 ou \u0027descida\u0027 do avião?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Disembarkation",
+                        "Exit",
+                        "Landing",
+                        "Arrival"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Disembarkation"
+    }
+]

@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ my alarm clock at 6:30 AM every morning.",
+        "correctAnswer":  "set",
+        "options":  [
+                        "set",
+                        "put",
+                        "make",
+                        "do"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "After waking up, I ___ a shower before breakfast.",
+        "correctAnswer":  "take",
+        "options":  [
+                        "take",
+                        "make",
+                        "do",
+                        "have"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I usually ___ my teeth twice a day.",
+        "correctAnswer":  "brush",
+        "options":  [
+                        "brush",
+                        "clean",
+                        "wash",
+                        "scrub"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "For breakfast, I ___ cereal and milk.",
+        "correctAnswer":  "eat",
+        "options":  [
+                        "eat",
+                        "have",
+                        "take",
+                        "consume"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ my clothes before going to work.",
+        "correctAnswer":  "change",
+        "options":  [
+                        "change",
+                        "dress",
+                        "wear",
+                        "put"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ to work by bus every weekday.",
+        "correctAnswer":  "go",
+        "options":  [
+                        "go",
+                        "get",
+                        "drive",
+                        "travel"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ my work at 9:00 AM sharp.",
+        "correctAnswer":  "start",
+        "options":  [
+                        "start",
+                        "begin",
+                        "commence",
+                        "open"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "At lunch time, I ___ a break and eat in the cafeteria.",
+        "correctAnswer":  "take",
+        "options":  [
+                        "take",
+                        "make",
+                        "have",
+                        "get"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ my emails every morning at the office.",
+        "correctAnswer":  "check",
+        "options":  [
+                        "check",
+                        "read",
+                        "verify",
+                        "review"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ dinner at around 7:00 PM.",
+        "correctAnswer":  "have",
+        "options":  [
+                        "have",
+                        "eat",
+                        "take",
+                        "make"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ my homework before going to bed.",
+        "correctAnswer":  "do",
+        "options":  [
+                        "do",
+                        "make",
+                        "finish",
+                        "complete"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I usually ___ a book before sleeping.",
+        "correctAnswer":  "read",
+        "options":  [
+                        "read",
+                        "look",
+                        "see",
+                        "watch"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ my alarm and go to sleep around 11:00 PM.",
+        "correctAnswer":  "turn off",
+        "options":  [
+                        "turn off",
+                        "switch off",
+                        "turn on",
+                        "shut down"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ my room every Saturday morning.",
+        "correctAnswer":  "clean",
+        "options":  [
+                        "clean",
+                        "tidy",
+                        "organize",
+                        "arrange"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ the laundry once a week.",
+        "correctAnswer":  "do",
+        "options":  [
+                        "do",
+                        "wash",
+                        "clean",
+                        "make"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ the dishes after every meal.",
+        "correctAnswer":  "wash",
+        "options":  [
+                        "wash",
+                        "clean",
+                        "do",
+                        "wipe"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "Every morning, I ___ a coffee while reading the news.",
+        "correctAnswer":  "have",
+        "options":  [
+                        "have",
+                        "drink",
+                        "sip",
+                        "make"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ my lunch box before leaving for school.",
+        "correctAnswer":  "pack",
+        "options":  [
+                        "pack",
+                        "prepare",
+                        "make",
+                        "organize"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ my hair every other day to keep it clean.",
+        "correctAnswer":  "wash",
+        "options":  [
+                        "wash",
+                        "shampoo",
+                        "brush",
+                        "dry"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ a gym session three times a week.",
+        "correctAnswer":  "attend",
+        "options":  [
+                        "attend",
+                        "join",
+                        "visit",
+                        "go to"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I always ___ my calendar before scheduling appointments.",
+        "correctAnswer":  "check",
+        "options":  [
+                        "check",
+                        "look at",
+                        "review",
+                        "examine"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ my bed every morning right after waking up.",
+        "correctAnswer":  "make",
+        "options":  [
+                        "make",
+                        "arrange",
+                        "fix",
+                        "dress"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ notes during meetings to remember important points.",
+        "correctAnswer":  "take",
+        "options":  [
+                        "take",
+                        "write",
+                        "make",
+                        "record"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I usually ___ a walk in the park after work.",
+        "correctAnswer":  "go for",
+        "options":  [
+                        "go for",
+                        "take",
+                        "make",
+                        "have"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ my schedule to include meditation time.",
+        "correctAnswer":  "arrange",
+        "options":  [
+                        "arrange",
+                        "plan",
+                        "schedule",
+                        "organize"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ my backpack the night before going to work.",
+        "correctAnswer":  "prepare",
+        "options":  [
+                        "prepare",
+                        "pack",
+                        "get ready",
+                        "organize"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ my phone at night to avoid distractions while sleeping.",
+        "correctAnswer":  "silence",
+        "options":  [
+                        "silence",
+                        "turn off",
+                        "mute",
+                        "switch off"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ my meals in advance to save time during the week.",
+        "correctAnswer":  "prepare",
+        "options":  [
+                        "prepare",
+                        "cook",
+                        "plan",
+                        "make"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ my car before going on a long drive.",
+        "correctAnswer":  "check",
+        "options":  [
+                        "check",
+                        "inspect",
+                        "examine",
+                        "verify"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ my face cream every evening before bed.",
+        "correctAnswer":  "apply",
+        "options":  [
+                        "apply",
+                        "put",
+                        "spread",
+                        "use"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ my daily tasks in order of importance.",
+        "correctAnswer":  "prioritize",
+        "options":  [
+                        "prioritize",
+                        "organize",
+                        "arrange",
+                        "order"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ my workout gear every morning before exercise.",
+        "correctAnswer":  "prepare",
+        "options":  [
+                        "prepare",
+                        "pack",
+                        "get",
+                        "arrange"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ my reflection in the mirror before leaving the house.",
+        "correctAnswer":  "check",
+        "options":  [
+                        "check",
+                        "look at",
+                        "see",
+                        "view"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I usually ___ my stress by exercising or practicing yoga.",
+        "correctAnswer":  "relieve",
+        "options":  [
+                        "relieve",
+                        "reduce",
+                        "alleviate",
+                        "ease"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ to a consistent sleep schedule to maintain good health.",
+        "correctAnswer":  "adhere",
+        "options":  [
+                        "adhere",
+                        "stick",
+                        "follow",
+                        "maintain"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I find it essential to ___ social media usage before bedtime.",
+        "correctAnswer":  "limit",
+        "options":  [
+                        "limit",
+                        "restrict",
+                        "reduce",
+                        "minimize"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ a nutritious diet to sustain my energy levels throughout the day.",
+        "correctAnswer":  "maintain",
+        "options":  [
+                        "maintain",
+                        "keep",
+                        "sustain",
+                        "preserve"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ my goals regularly to ensure I\u0027m making progress.",
+        "correctAnswer":  "assess",
+        "options":  [
+                        "assess",
+                        "evaluate",
+                        "review",
+                        "check"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ my daily routine to accommodate unexpected changes.",
+        "correctAnswer":  "adapt",
+        "options":  [
+                        "adapt",
+                        "adjust",
+                        "modify",
+                        "alter"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ myself to stay hydrated by drinking water throughout the day.",
+        "correctAnswer":  "remind",
+        "options":  [
+                        "remind",
+                        "help",
+                        "encourage",
+                        "prompt"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I find it beneficial to ___ reflective time each evening.",
+        "correctAnswer":  "allocate",
+        "options":  [
+                        "allocate",
+                        "dedicate",
+                        "reserve",
+                        "devote"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ my professional development by attending workshops regularly.",
+        "correctAnswer":  "enhance",
+        "options":  [
+                        "enhance",
+                        "improve",
+                        "advance",
+                        "promote"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ my work-life balance by setting clear boundaries.",
+        "correctAnswer":  "maintain",
+        "options":  [
+                        "maintain",
+                        "preserve",
+                        "uphold",
+                        "sustain"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ my morning routine with meditation to start the day positively.",
+        "correctAnswer":  "commence",
+        "options":  [
+                        "commence",
+                        "begin",
+                        "start",
+                        "initiate"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ a consistent workout routine to build muscle strength.",
+        "correctAnswer":  "undertake",
+        "options":  [
+                        "undertake",
+                        "pursue",
+                        "engage in",
+                        "follow"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ distractions by organizing my workspace efficiently.",
+        "correctAnswer":  "minimize",
+        "options":  [
+                        "minimize",
+                        "reduce",
+                        "decrease",
+                        "limit"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ my concentration during work by taking strategic breaks.",
+        "correctAnswer":  "sustain",
+        "options":  [
+                        "sustain",
+                        "maintain",
+                        "preserve",
+                        "extend"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ my evening activities to include quality time with family.",
+        "correctAnswer":  "orchestrate",
+        "options":  [
+                        "orchestrate",
+                        "arrange",
+                        "plan",
+                        "organize"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ to a healthy lifestyle by consistently following my routine.",
+        "correctAnswer":  "contribute",
+        "options":  [
+                        "contribute",
+                        "adhere",
+                        "commit",
+                        "dedicate"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "rotina_diaria",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ my productivity by breaking tasks into smaller, manageable segments.",
+        "correctAnswer":  "maximize",
+        "options":  [
+                        "maximize",
+                        "increase",
+                        "improve",
+                        "enhance"
+                    ],
+        "difficulty":  "medium"
+    }
+]

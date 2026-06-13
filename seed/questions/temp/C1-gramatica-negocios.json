@@ -1,0 +1,492 @@
+[
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O relatório financeiro _____ pelo analista sênior foi aprovado imediatamente pela diretoria.",
+    "correctAnswer": "prepared",
+    "options": ["prepared", "preparing", "being prepared", "having prepared"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Se o cliente _____ com os termos do contrato, prosseguiremos com a negociação.",
+    "correctAnswer": "agrees",
+    "options": ["agrees", "would agree", "agreed", "had agreed"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "A empresa tem crescido consistentemente, _____ suas receitas triplicarem nos últimos três anos.",
+    "correctAnswer": "having had",
+    "options": ["having had", "had had", "having", "to have"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Os acionistas exigem que o CEO _____ explicações sobre as perdas trimestrais.",
+    "correctAnswer": "provide",
+    "options": ["provides", "provide", "provided", "to provide"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "A política de reembolso, _____ foi alterada mês passado, agora beneficia clientes corporativos.",
+    "correctAnswer": "which",
+    "options": ["which", "that", "it", "what"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Ninguém poderia ter previsto que o mercado _____ tão precipitosamente.",
+    "correctAnswer": "would collapse",
+    "options": ["would collapse", "collapsed", "will collapse", "collapses"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O gerente de projetos insistiu em que todas as entregas _____ antes do prazo final.",
+    "correctAnswer": "be completed",
+    "options": ["be completed", "are completed", "were completed", "complete"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "A fusão das duas corporações, _____ há seis meses, finalmente recebeu aprovação regulatória.",
+    "correctAnswer": "which was announced",
+    "options": ["which was announced", "which announced", "being announced", "announcing"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Sem o investimento inicial, a startup _____ conseguido expandir seus serviços.",
+    "correctAnswer": "would not have",
+    "options": ["would not have", "had not", "did not", "will not have"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Os consultores recomendam que o departamento de RH _____ políticas mais inclusivas.",
+    "correctAnswer": "implement",
+    "options": ["implements", "implement", "has implemented", "implemented"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Ela está analisando os dados, _____ ela identificou várias discrepâncias importantes.",
+    "correctAnswer": "whereby",
+    "options": ["whereby", "where", "which", "that"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O auditor sugere que todos os registros _____ digitalizados e arquivados apropriadamente.",
+    "correctAnswer": "be",
+    "options": ["be", "are", "were", "have been"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Caso não houvesse regulações governamentais, muitas empresas _____ padrões éticos mais baixos.",
+    "correctAnswer": "would maintain",
+    "options": ["would maintain", "maintain", "maintained", "will maintain"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O contrato, que foi negociado por três meses, _____ finalmente assinado ontem.",
+    "correctAnswer": "was",
+    "options": ["was", "has been", "had been", "is"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "É imperativo que o CFO _____ as contas antes do encerramento fiscal.",
+    "correctAnswer": "finalize",
+    "options": ["finalizes", "finalize", "finalized", "will finalize"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "_____ o aumento de custos operacionais, a empresa manteve seus preços estáveis.",
+    "correctAnswer": "Despite",
+    "options": ["Despite", "Although", "In spite of that", "However"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O investidor principal exige que um novo conselho administrativo _____ estabelecido antes do fechamento do acordo.",
+    "correctAnswer": "be",
+    "options": ["be", "is", "was", "have been"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "A estratégia de marketing, que foi desenvolvida internamente, provou-se _____ bem-sucedida que superou todas as expectativas.",
+    "correctAnswer": "so",
+    "options": ["so", "such", "too", "very"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Houvesse a empresa investido em tecnologia mais cedo, _____ alcançado uma posição de mercado muito mais forte.",
+    "correctAnswer": "would have",
+    "options": ["would have", "has", "had", "will have"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O relatório de conformidade regulatória, _____ abrange todos os requisitos legais, deve ser submetido até sexta-feira.",
+    "correctAnswer": "which",
+    "options": ["which", "that", "what", "whose"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "A diretora financeira sugeriu que a empresa _____ seus investimentos em mercados emergentes.",
+    "correctAnswer": "diversify",
+    "options": ["diversifies", "diversify", "diversified", "would diversify"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "_____ as dificuldades econômicas atuais, várias startups conseguiram manter seu crescimento.",
+    "correctAnswer": "Notwithstanding",
+    "options": ["Notwithstanding", "In spite", "Despite of", "Although of"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Se o contrato _____ sido renegociado, teríamos economizado milhões de reais.",
+    "correctAnswer": "had",
+    "options": ["had", "has", "would have", "would"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O presidente executivo insistiu em que as metas de vendas _____ alcançadas dentro do prazo especificado.",
+    "correctAnswer": "be",
+    "options": ["be", "are", "were", "have been"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Os auditores descobriram irregularidades _____ levaram a uma investigação completa das operações.",
+    "correctAnswer": "that",
+    "options": ["that", "which", "whose", "whom"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "A privatização da empresa estatal, _____ controversa entre os stakeholders, finalmente recebeu aprovação legislativa.",
+    "correctAnswer": "which was",
+    "options": ["which was", "which has been", "that was", "being"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "É essencial que o departamento de compliance _____ todos os procedimentos antes da auditoria.",
+    "correctAnswer": "review",
+    "options": ["reviews", "review", "reviewed", "will review"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Não fosse a intervenção do governo, o banco _____ declarado insolvência há anos.",
+    "correctAnswer": "would have",
+    "options": ["would have", "has", "had", "will have"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O conselheiro recomenda que a empresa _____ sua estrutura organizacional para maior eficiência.",
+    "correctAnswer": "restructure",
+    "options": ["restructures", "restructure", "restructured", "would restructure"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O acordo comercial, _____ foi ratificado por ambas as partes, vigorará a partir do próximo trimestre.",
+    "correctAnswer": "which",
+    "options": ["which", "that", "it", "what"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Caso o produto _____ lançado no trimestre anterior, teria capturado uma maior fatia do mercado.",
+    "correctAnswer": "had been",
+    "options": ["had been", "was", "would be", "is"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Os investidores institucionais exigem que o conselho _____ maior transparência em suas decisões financeiras.",
+    "correctAnswer": "demonstrate",
+    "options": ["demonstrates", "demonstrate", "demonstrated", "will demonstrate"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "_____ seu desempenho financeiro anterior, a empresa conseguiu atrair novos investidores.",
+    "correctAnswer": "Given",
+    "options": ["Given", "Despite", "Although", "Notwithstanding"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Se as condições de mercado _____ favoráveis, teríamos expandido nossa operação internacional.",
+    "correctAnswer": "had been",
+    "options": ["had been", "are", "were", "would be"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O CFO recomenda que todos os fornecedores _____ regularmente avaliados em relação ao custo-benefício.",
+    "correctAnswer": "be",
+    "options": ["be", "are", "were", "have been"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "A estratégia corporativa, _____ implementada há dois anos, já gerou resultados significativos.",
+    "correctAnswer": "which was",
+    "options": ["which was", "which has been", "being", "to be"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Dado que a demanda _____ aumentando, a empresa expandiu sua capacidade produtiva.",
+    "correctAnswer": "has been",
+    "options": ["has been", "is", "was", "had been"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "É imperativo que o departamento de RH _____ um plano de succession planning antes da saída do diretor.",
+    "correctAnswer": "have developed",
+    "options": ["have developed", "develops", "develop", "will develop"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Tivéssemos nos concentrado mais em inovação, _____ perdido oportunidades de mercado menos significativas.",
+    "correctAnswer": "we would not have",
+    "options": ["we would not have", "we had not", "we did not", "we will not have"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "A joint venture, _____ foi proposta pelos parceiros estratégicos, representa uma oportunidade única de crescimento.",
+    "correctAnswer": "which",
+    "options": ["which", "that", "whose", "whom"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Independentemente das flutuações econômicas, o banco _____ mantido seus padrões rigorosos de conformidade.",
+    "correctAnswer": "has",
+    "options": ["has", "had", "would have", "have"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O Board de Diretores insiste em que o risk management _____ integrado em todas as operações.",
+    "correctAnswer": "be",
+    "options": ["be", "is", "were", "has been"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "A aquisição corporativa, _____ está gerando sinergias consideráveis, superou as expectativas iniciais de retorno.",
+    "correctAnswer": "which",
+    "options": ["which", "that", "whose", "what"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Caso tivéssemos antecipado melhor a mudança nas preferências do consumidor, _____ adaptado nossa oferta de produtos.",
+    "correctAnswer": "we would have",
+    "options": ["we would have", "we had", "we will have", "we have"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Os consultores externos recomendam que as operações de supply chain _____ completamente digitalizadas.",
+    "correctAnswer": "be",
+    "options": ["be", "are", "were", "have been"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "A política de dividendos, _____ visa maximizar a riqueza dos acionistas, será reavaliada no próximo ano.",
+    "correctAnswer": "which",
+    "options": ["which", "that", "whose", "what"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Não houvesse a crise econômica global, o setor financeiro _____ experimentado um crescimento exponencial.",
+    "correctAnswer": "would have",
+    "options": ["would have", "has", "had", "will have"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "É absolutamente necessário que a empresa _____ um programa abrangente de gestão de riscos operacionais.",
+    "correctAnswer": "implement",
+    "options": ["implements", "implement", "implemented", "will implement"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O contrato bilateral, _____ foi renegociado com ambas as partes concordando com os novos termos, entrará em vigor imediatamente.",
+    "correctAnswer": "which",
+    "options": ["which", "that", "whose", "whom"],
+    "difficulty": "hard"
+  }
+]

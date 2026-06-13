@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027desconto\u0027?",
+        "correctAnswer":  "a reduction in price",
+        "options":  [
+                        "a reduction in price",
+                        "an increase in cost",
+                        "free delivery",
+                        "a warranty"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027promoção\u0027?",
+        "correctAnswer":  "a special offer to encourage buying",
+        "options":  [
+                        "a special offer to encourage buying",
+                        "a permanent price",
+                        "a monthly payment",
+                        "a delivery service"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027caixa\u0027 (na loja)?",
+        "correctAnswer":  "the place where you pay for items",
+        "options":  [
+                        "the place where you pay for items",
+                        "a storage room",
+                        "a fitting room",
+                        "an entrance door"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027recibo\u0027?",
+        "correctAnswer":  "a document showing a purchase was made",
+        "options":  [
+                        "a document showing a purchase was made",
+                        "a refund form",
+                        "a discount coupon",
+                        "a warranty certificate"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027carrinho de compras\u0027?",
+        "correctAnswer":  "a wheeled basket for carrying items in a store",
+        "options":  [
+                        "a wheeled basket for carrying items in a store",
+                        "a delivery vehicle",
+                        "a toy for children",
+                        "a checkout counter"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027vitrine\u0027?",
+        "correctAnswer":  "a glass case displaying products",
+        "options":  [
+                        "a glass case displaying products",
+                        "a changing room",
+                        "a sales counter",
+                        "a payment method"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027etiqueta de preço\u0027?",
+        "correctAnswer":  "a label showing the cost of an item",
+        "options":  [
+                        "a label showing the cost of an item",
+                        "a barcode scanner",
+                        "a discount voucher",
+                        "a warranty sticker"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027devolver\u0027?",
+        "correctAnswer":  "to return an item to the store",
+        "options":  [
+                        "to return an item to the store",
+                        "to pay in installments",
+                        "to exchange money",
+                        "to place an order"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027cupom de desconto\u0027?",
+        "correctAnswer":  "a voucher that reduces the price",
+        "options":  [
+                        "a voucher that reduces the price",
+                        "a receipt of purchase",
+                        "a loyalty card",
+                        "a gift card"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027troco\u0027?",
+        "correctAnswer":  "money returned after payment",
+        "options":  [
+                        "money returned after payment",
+                        "a discount applied",
+                        "the total bill",
+                        "a payment method"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027embalagem\u0027?",
+        "correctAnswer":  "the wrapping or container of a product",
+        "options":  [
+                        "the wrapping or container of a product",
+                        "the receipt",
+                        "the price tag",
+                        "the barcode"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027loja de departamentos\u0027?",
+        "correctAnswer":  "a large store selling many types of goods",
+        "options":  [
+                        "a large store selling many types of goods",
+                        "a small shop selling only clothes",
+                        "a grocery store",
+                        "a online marketplace"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027saldo\u0027?",
+        "correctAnswer":  "leftover items sold at reduced prices",
+        "options":  [
+                        "leftover items sold at reduced prices",
+                        "the final amount owed",
+                        "a monthly bill",
+                        "a bank account"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027marca\u0027?",
+        "correctAnswer":  "a company name for products",
+        "options":  [
+                        "a company name for products",
+                        "a price reduction",
+                        "a store location",
+                        "a product feature"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027código de barras\u0027?",
+        "correctAnswer":  "a series of lines that identify a product",
+        "options":  [
+                        "a series of lines that identify a product",
+                        "a price tag",
+                        "a discount coupon",
+                        "a receipt"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027pagamento parcelado\u0027?",
+        "correctAnswer":  "paying for something in installments",
+        "options":  [
+                        "paying for something in installments",
+                        "paying immediately in cash",
+                        "a discount offer",
+                        "a loyalty program"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027cliente\u0027?",
+        "correctAnswer":  "a person who buys goods or services",
+        "options":  [
+                        "a person who buys goods or services",
+                        "a store owner",
+                        "a warehouse employee",
+                        "a delivery person"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027pedido\u0027?",
+        "correctAnswer":  "a request for products to be supplied",
+        "options":  [
+                        "a request for products to be supplied",
+                        "an invoice",
+                        "a receipt",
+                        "a warranty"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027disponibilidade\u0027?",
+        "correctAnswer":  "the state of being available or in stock",
+        "options":  [
+                        "the state of being available or in stock",
+                        "a discount period",
+                        "a delivery date",
+                        "a payment option"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027frete\u0027?",
+        "correctAnswer":  "the cost of shipping or delivery",
+        "options":  [
+                        "the cost of shipping or delivery",
+                        "a discount code",
+                        "a sales tax",
+                        "a warranty fee"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027garantia\u0027?",
+        "correctAnswer":  "a promise that a product will work properly",
+        "options":  [
+                        "a promise that a product will work properly",
+                        "a discount offer",
+                        "a delivery service",
+                        "a loyalty card"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027varejo\u0027?",
+        "correctAnswer":  "the sale of goods in small quantities to consumers",
+        "options":  [
+                        "the sale of goods in small quantities to consumers",
+                        "the sale of goods in bulk",
+                        "a warehouse operation",
+                        "a delivery service"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027atacado\u0027?",
+        "correctAnswer":  "the sale of goods in large quantities",
+        "options":  [
+                        "the sale of goods in large quantities",
+                        "the sale of individual items",
+                        "a special discount",
+                        "a retail operation"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027cliente assíduo\u0027?",
+        "correctAnswer":  "a customer who shops frequently",
+        "options":  [
+                        "a customer who shops frequently",
+                        "a first-time buyer",
+                        "a discount coupon user",
+                        "a warehouse employee"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027programa de fidelização\u0027?",
+        "correctAnswer":  "a scheme to reward loyal customers",
+        "options":  [
+                        "a scheme to reward loyal customers",
+                        "a seasonal discount",
+                        "a payment plan",
+                        "a delivery option"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027devolução\u0027?",
+        "correctAnswer":  "the act of returning a product",
+        "options":  [
+                        "the act of returning a product",
+                        "a price reduction",
+                        "a warranty claim",
+                        "a delivery service"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027quantidade\u0027?",
+        "correctAnswer":  "the amount of something",
+        "options":  [
+                        "the amount of something",
+                        "the price of something",
+                        "the quality of something",
+                        "the color of something"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027saldo em estoque\u0027?",
+        "correctAnswer":  "remaining items available for sale",
+        "options":  [
+                        "remaining items available for sale",
+                        "unsold discounted goods",
+                        "delivered items",
+                        "returned products"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027cupão\u0027?",
+        "correctAnswer":  "a document entitling you to a discount",
+        "options":  [
+                        "a document entitling you to a discount",
+                        "a receipt of purchase",
+                        "a price tag",
+                        "a barcode"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027compra online\u0027?",
+        "correctAnswer":  "buying products through the internet",
+        "options":  [
+                        "buying products through the internet",
+                        "visiting a physical store",
+                        "ordering by phone",
+                        "shopping in bulk"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027item\u0027?",
+        "correctAnswer":  "a single thing or product",
+        "options":  [
+                        "a single thing or product",
+                        "a collection of products",
+                        "a store section",
+                        "a warehouse location"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027promoção relâmpago\u0027?",
+        "correctAnswer":  "a time-limited special offer",
+        "options":  [
+                        "a time-limited special offer",
+                        "a permanent price reduction",
+                        "a loyalty reward",
+                        "a free delivery offer"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027talão de desconto\u0027?",
+        "correctAnswer":  "a slip of paper giving a discount",
+        "options":  [
+                        "a slip of paper giving a discount",
+                        "an invoice",
+                        "a shipping label",
+                        "a warranty certificate"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027comprador\u0027?",
+        "correctAnswer":  "a person who makes purchases",
+        "options":  [
+                        "a person who makes purchases",
+                        "a seller of goods",
+                        "a store manager",
+                        "a delivery driver"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027preço de custo\u0027?",
+        "correctAnswer":  "the original price before markup",
+        "options":  [
+                        "the original price before markup",
+                        "the final selling price",
+                        "the discounted price",
+                        "the delivery fee"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027margem de lucro\u0027?",
+        "correctAnswer":  "the profit difference between cost and selling price",
+        "options":  [
+                        "the profit difference between cost and selling price",
+                        "a discount percentage",
+                        "a sales tax rate",
+                        "a delivery cost"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027pedido em atraso\u0027?",
+        "correctAnswer":  "an order that has not been delivered on time",
+        "options":  [
+                        "an order that has not been delivered on time",
+                        "an order that was cancelled",
+                        "an order that was refunded",
+                        "an order that was modified"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027estoque mínimo\u0027?",
+        "correctAnswer":  "the lowest quantity of inventory to maintain",
+        "options":  [
+                        "the lowest quantity of inventory to maintain",
+                        "the maximum quantity available",
+                        "the discounted items",
+                        "the returned products"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027ruptura de estoque\u0027?",
+        "correctAnswer":  "when a product is completely out of stock",
+        "options":  [
+                        "when a product is completely out of stock",
+                        "when prices increase",
+                        "when items are discounted",
+                        "when orders are delayed"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027código de cliente\u0027?",
+        "correctAnswer":  "a unique identifier for a customer in a system",
+        "options":  [
+                        "a unique identifier for a customer in a system",
+                        "a discount coupon number",
+                        "a product serial number",
+                        "a transaction receipt"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027nota fiscal\u0027?",
+        "correctAnswer":  "an official document detailing a commercial transaction",
+        "options":  [
+                        "an official document detailing a commercial transaction",
+                        "a discount voucher",
+                        "a loyalty card",
+                        "a warranty certificate"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027cancelamento de pedido\u0027?",
+        "correctAnswer":  "the termination of an order before delivery",
+        "options":  [
+                        "the termination of an order before delivery",
+                        "the return of delivered items",
+                        "the exchange of products",
+                        "the refund of overpayment"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027intermediário comercial\u0027?",
+        "correctAnswer":  "a person or company that facilitates buying and selling",
+        "options":  [
+                        "a person or company that facilitates buying and selling",
+                        "a direct manufacturer",
+                        "a retail store employee",
+                        "a logistics company"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027desconto progressivo\u0027?",
+        "correctAnswer":  "increasing discount based on quantity purchased",
+        "options":  [
+                        "increasing discount based on quantity purchased",
+                        "a fixed percentage reduction",
+                        "a seasonal discount",
+                        "a loyalty reward"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027política de reembolso\u0027?",
+        "correctAnswer":  "the rules for refunding customer payments",
+        "options":  [
+                        "the rules for refunding customer payments",
+                        "the warranty coverage details",
+                        "the delivery schedule",
+                        "the discount calculation"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027fornecedor\u0027?",
+        "correctAnswer":  "a company that supplies goods to others",
+        "options":  [
+                        "a company that supplies goods to others",
+                        "a store customer",
+                        "a delivery driver",
+                        "a product manufacturer"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027vencimento de validade\u0027?",
+        "correctAnswer":  "the date when a product expires or becomes unsafe",
+        "options":  [
+                        "the date when a product expires or becomes unsafe",
+                        "the date of purchase",
+                        "the warranty expiration date",
+                        "the delivery deadline"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027lote de produção\u0027?",
+        "correctAnswer":  "a batch of goods produced at the same time",
+        "options":  [
+                        "a batch of goods produced at the same time",
+                        "a discounted bundle of items",
+                        "a collection of similar products",
+                        "a warehouse shipment"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027dano em transporte\u0027?",
+        "correctAnswer":  "harm to a product during shipping or delivery",
+        "options":  [
+                        "harm to a product during shipping or delivery",
+                        "a manufacturing defect",
+                        "a pricing error",
+                        "a payment dispute"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027contrato de fornecimento\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "a legally binding agreement for the supply of goods",
+                        "an informal sales invoice",
+                        "a delivery receipt",
+                        "a product warranty document"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "a legally binding agreement for the supply of goods"
+    }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: I eat ___ in the morning.",
+    "correctAnswer": "breakfast",
+    "options": ["breakfast", "dinner", "lunch", "supper"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: I drink ___ every day.",
+    "correctAnswer": "water",
+    "options": ["water", "bread", "rice", "meat"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: I like to eat ___ with butter.",
+    "correctAnswer": "bread",
+    "options": ["bread", "milk", "juice", "coffee"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: She drinks ___ with her breakfast.",
+    "correctAnswer": "milk",
+    "options": ["milk", "soup", "salad", "cake"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: We eat ___ at lunchtime.",
+    "correctAnswer": "rice",
+    "options": ["rice", "tea", "butter", "sugar"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: He eats an ___ every morning.",
+    "correctAnswer": "apple",
+    "options": ["apple", "onion", "pepper", "pasta"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: I like ___ and eggs for breakfast.",
+    "correctAnswer": "bacon",
+    "options": ["bacon", "sugar", "water", "flour"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: She puts ___ in her coffee.",
+    "correctAnswer": "sugar",
+    "options": ["sugar", "salt", "flour", "oil"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: We have ___ for dinner tonight.",
+    "correctAnswer": "chicken",
+    "options": ["chicken", "juice", "coffee", "cereal"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: I eat a ___ for lunch.",
+    "correctAnswer": "sandwich",
+    "options": ["sandwich", "pitcher", "napkin", "glass"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: He likes orange ___.",
+    "correctAnswer": "juice",
+    "options": ["juice", "bread", "meat", "soup"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: I eat ___ with tomato sauce.",
+    "correctAnswer": "pasta",
+    "options": ["pasta", "milk", "tea", "water"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: She loves chocolate ___.",
+    "correctAnswer": "cake",
+    "options": ["cake", "salt", "pepper", "flour"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: We buy ___ at the supermarket.",
+    "correctAnswer": "food",
+    "options": ["food", "pen", "book", "chair"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: I drink ___ when I am hot.",
+    "correctAnswer": "lemonade",
+    "options": ["lemonade", "soup", "bread", "rice"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: He eats a banana and an ___ every day.",
+    "correctAnswer": "orange",
+    "options": ["orange", "onion", "potato", "carrot"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: I drink hot ___ in winter.",
+    "correctAnswer": "tea",
+    "options": ["tea", "ice", "salad", "meat"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: We add ___ to make food salty.",
+    "correctAnswer": "salt",
+    "options": ["salt", "sugar", "honey", "jam"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: She puts ___ on her toast.",
+    "correctAnswer": "jam",
+    "options": ["jam", "salt", "pepper", "vinegar"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: I need a ___ to eat my soup.",
+    "correctAnswer": "spoon",
+    "options": ["spoon", "knife", "fork", "cup"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: He cuts the meat with a ___.",
+    "correctAnswer": "knife",
+    "options": ["knife", "spoon", "plate", "glass"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: We eat salad with a ___.",
+    "correctAnswer": "fork",
+    "options": ["fork", "cup", "bowl", "pot"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: She drinks water from a ___.",
+    "correctAnswer": "glass",
+    "options": ["glass", "plate", "pan", "spoon"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: I cook eggs in a ___.",
+    "correctAnswer": "pan",
+    "options": ["pan", "bowl", "fork", "glass"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: He is very ___, so he wants to eat.",
+    "correctAnswer": "hungry",
+    "options": ["hungry", "thirsty", "tired", "happy"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: She is ___, so she wants to drink water.",
+    "correctAnswer": "thirsty",
+    "options": ["thirsty", "hungry", "cold", "bored"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: We go to a ___ to eat pizza.",
+    "correctAnswer": "restaurant",
+    "options": ["restaurant", "hospital", "school", "park"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: I like ___ vegetables in my salad.",
+    "correctAnswer": "fresh",
+    "options": ["fresh", "hot", "cold", "spicy"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: He does not eat meat. He is a ___.",
+    "correctAnswer": "vegetarian",
+    "options": ["vegetarian", "chef", "waiter", "baker"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: She buys ___ at the bakery.",
+    "correctAnswer": "bread",
+    "options": ["bread", "fish", "rice", "beans"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: I want a ___ of water, please.",
+    "correctAnswer": "bottle",
+    "options": ["bottle", "plate", "bowl", "fork"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: The soup is very ___. Be careful!",
+    "correctAnswer": "hot",
+    "options": ["hot", "sweet", "cold", "sour"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: This ice cream is very ___.",
+    "correctAnswer": "sweet",
+    "options": ["sweet", "salty", "bitter", "spicy"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: I put ___ on my salad.",
+    "correctAnswer": "dressing",
+    "options": ["dressing", "butter", "jam", "honey"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: We eat ___ with beans in Brazil.",
+    "correctAnswer": "rice",
+    "options": ["rice", "pasta", "bread", "cereal"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: She likes ___ soup in winter.",
+    "correctAnswer": "warm",
+    "options": ["warm", "frozen", "raw", "dry"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: I want to ___ some cookies.",
+    "correctAnswer": "bake",
+    "options": ["bake", "drink", "buy", "wash"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: He wants to ___ the vegetables before eating them.",
+    "correctAnswer": "wash",
+    "options": ["wash", "bake", "fry", "boil"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: She ___ the eggs for ten minutes.",
+    "correctAnswer": "boils",
+    "options": ["boils", "bakes", "freezes", "pours"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: We ___ the chicken in the oven.",
+    "correctAnswer": "roast",
+    "options": ["roast", "mix", "pour", "peel"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: I ___ the potatoes before cooking them.",
+    "correctAnswer": "peel",
+    "options": ["peel", "drink", "taste", "serve"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: He ___ the salad with olive oil.",
+    "correctAnswer": "seasons",
+    "options": ["seasons", "freezes", "boils", "cuts"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: The waiter ___ the food to the table.",
+    "correctAnswer": "brings",
+    "options": ["brings", "cooks", "eats", "buys"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: She ___ the menu before ordering.",
+    "correctAnswer": "reads",
+    "options": ["reads", "eats", "cooks", "drinks"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: I ___ the ingredients before I cook.",
+    "correctAnswer": "prepare",
+    "options": ["prepare", "eat", "drink", "clean"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: We always ___ hands before eating.",
+    "correctAnswer": "wash",
+    "options": ["wash", "cook", "cut", "serve"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: He ___ breakfast at seven o'clock.",
+    "correctAnswer": "has",
+    "options": ["has", "makes", "drinks", "orders"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: She ___ dinner at a nice restaurant last night.",
+    "correctAnswer": "had",
+    "options": ["had", "ate", "cooked", "ordered"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: I do not like food that is too ___.",
+    "correctAnswer": "spicy",
+    "options": ["spicy", "fresh", "sweet", "warm"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: The lemon tastes very ___.",
+    "correctAnswer": "sour",
+    "options": ["sour", "sweet", "salty", "bitter"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: He always ___ the table before dinner.",
+    "correctAnswer": "sets",
+    "options": ["sets", "washes", "cooks", "cleans"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: The chef ___ a delicious meal for us.",
+    "correctAnswer": "prepared",
+    "options": ["prepared", "drank", "ordered", "tasted"],
+    "difficulty": "hard"
+  }
+]

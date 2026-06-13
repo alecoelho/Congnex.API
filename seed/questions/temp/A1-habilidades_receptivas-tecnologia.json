@@ -1,0 +1,512 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Eu tenho um computador.",
+    "correctAnswer": "I have a computer.",
+    "options": ["I have a computer.", "I have a television.", "I have a telephone.", "I have a bicycle."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "O telefone está na mesa.",
+    "correctAnswer": "The phone is on the table.",
+    "options": ["The phone is on the table.", "The phone is in the bag.", "The phone is under the chair.", "The phone is near the door."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Eu uso a internet todos os dias.",
+    "correctAnswer": "I use the internet every day.",
+    "options": ["I use the internet every day.", "I use the internet every week.", "I use the television every day.", "I use the computer every night."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Isso é um celular.",
+    "correctAnswer": "This is a cell phone.",
+    "options": ["This is a cell phone.", "This is a tablet.", "This is a laptop.", "This is a camera."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Eu gosto de música.",
+    "correctAnswer": "I like music.",
+    "options": ["I like music.", "I like movies.", "I like books.", "I like games."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "O computador é novo.",
+    "correctAnswer": "The computer is new.",
+    "options": ["The computer is new.", "The computer is old.", "The computer is small.", "The computer is broken."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Eu tenho um tablet.",
+    "correctAnswer": "I have a tablet.",
+    "options": ["I have a tablet.", "I have a camera.", "I have a printer.", "I have a speaker."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "A tela é grande.",
+    "correctAnswer": "The screen is big.",
+    "options": ["The screen is big.", "The screen is small.", "The screen is dark.", "The screen is broken."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Eu ouço música no celular.",
+    "correctAnswer": "I listen to music on my phone.",
+    "options": ["I listen to music on my phone.", "I watch music on my phone.", "I read music on my phone.", "I play music on my tablet."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Eu assisto a vídeos.",
+    "correctAnswer": "I watch videos.",
+    "options": ["I watch videos.", "I read videos.", "I listen to videos.", "I make videos."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "O meu celular é vermelho.",
+    "correctAnswer": "My phone is red.",
+    "options": ["My phone is red.", "My phone is blue.", "My phone is green.", "My phone is black."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Ele tem um computador.",
+    "correctAnswer": "He has a computer.",
+    "options": ["He has a computer.", "She has a computer.", "They have a computer.", "We have a computer."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Eu não tenho internet em casa.",
+    "correctAnswer": "I don't have internet at home.",
+    "options": ["I don't have internet at home.", "I have internet at home.", "I don't have a phone at home.", "I don't have internet at school."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Eu jogo videogame.",
+    "correctAnswer": "I play video games.",
+    "options": ["I play video games.", "I watch video games.", "I buy video games.", "I read video games."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Isso é um teclado.",
+    "correctAnswer": "This is a keyboard.",
+    "options": ["This is a keyboard.", "This is a mouse.", "This is a monitor.", "This is a speaker."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "A bateria está fraca.",
+    "correctAnswer": "The battery is low.",
+    "options": ["The battery is low.", "The battery is full.", "The battery is new.", "The battery is dead."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Eu tiro fotos.",
+    "correctAnswer": "I take photos.",
+    "options": ["I take photos.", "I see photos.", "I make photos.", "I buy photos."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Eu mando uma mensagem para ela.",
+    "correctAnswer": "I send her a message.",
+    "options": ["I send her a message.", "I call her a message.", "I read her a message.", "I write her a letter."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "O wi-fi não está funcionando.",
+    "correctAnswer": "The wi-fi is not working.",
+    "options": ["The wi-fi is not working.", "The wi-fi is not connecting.", "The internet is not working.", "The wi-fi is very slow."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Ela usa o computador no trabalho.",
+    "correctAnswer": "She uses the computer at work.",
+    "options": ["She uses the computer at work.", "She uses the phone at work.", "She uses the computer at home.", "She uses the tablet at work."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Eu preciso carregar o celular.",
+    "correctAnswer": "I need to charge my phone.",
+    "options": ["I need to charge my phone.", "I need to buy my phone.", "I need to fix my phone.", "I need to turn off my phone."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Eles assistem filmes online.",
+    "correctAnswer": "They watch movies online.",
+    "options": ["They watch movies online.", "They see movies online.", "They play movies online.", "They read movies online."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Qual é a sua senha?",
+    "correctAnswer": "What is your password?",
+    "options": ["What is your password?", "What is your username?", "What is your name?", "What is your email?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Eu faço uma ligação para minha mãe.",
+    "correctAnswer": "I call my mother.",
+    "options": ["I call my mother.", "I text my mother.", "I email my mother.", "I visit my mother."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "O aplicativo é gratuito.",
+    "correctAnswer": "The app is free.",
+    "options": ["The app is free.", "The app is cheap.", "The app is new.", "The app is good."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Eu baixo músicas no meu telefone.",
+    "correctAnswer": "I download music on my phone.",
+    "options": ["I download music on my phone.", "I upload music on my phone.", "I listen to music on my computer.", "I buy music on my phone."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "A câmera do celular é boa.",
+    "correctAnswer": "The phone camera is good.",
+    "options": ["The phone camera is good.", "The phone screen is good.", "The phone battery is good.", "The phone speaker is good."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Nós usamos a internet para estudar.",
+    "correctAnswer": "We use the internet to study.",
+    "options": ["We use the internet to study.", "We use the internet to work.", "We use the computer to study.", "We use the internet to play."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "O meu notebook é leve.",
+    "correctAnswer": "My laptop is light.",
+    "options": ["My laptop is light.", "My laptop is heavy.", "My laptop is fast.", "My laptop is new."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Eu leio notícias no celular.",
+    "correctAnswer": "I read news on my phone.",
+    "options": ["I read news on my phone.", "I watch news on my phone.", "I listen to news on my phone.", "I read books on my phone."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Eu abro o e-mail toda manhã.",
+    "correctAnswer": "I open my email every morning.",
+    "options": ["I open my email every morning.", "I check my email every night.", "I send my email every morning.", "I read my email every afternoon."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "A impressora não funciona.",
+    "correctAnswer": "The printer does not work.",
+    "options": ["The printer does not work.", "The printer is not here.", "The scanner does not work.", "The printer is very slow."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Você tem redes sociais?",
+    "correctAnswer": "Do you have social media?",
+    "options": ["Do you have social media?", "Do you use social media?", "Do you like social media?", "Do you need social media?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Eu salvo fotos na nuvem.",
+    "correctAnswer": "I save photos in the cloud.",
+    "options": ["I save photos in the cloud.", "I store photos on my phone.", "I upload photos to a website.", "I keep photos in a folder."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Eu clico no botão.",
+    "correctAnswer": "I click the button.",
+    "options": ["I click the button.", "I press the button.", "I touch the button.", "I push the button."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "O celular está sem sinal.",
+    "correctAnswer": "The phone has no signal.",
+    "options": ["The phone has no signal.", "The phone has no battery.", "The phone has no internet.", "The phone is turned off."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Eu atualizo o meu perfil nas redes sociais.",
+    "correctAnswer": "I update my profile on social media.",
+    "options": ["I update my profile on social media.", "I create my profile on social media.", "I delete my profile on social media.", "I share my profile on social media."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "O computador reinicia sozinho às vezes.",
+    "correctAnswer": "The computer restarts by itself sometimes.",
+    "options": ["The computer restarts by itself sometimes.", "The computer turns off by itself sometimes.", "The computer breaks by itself sometimes.", "The computer updates by itself sometimes."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Eu preciso de uma conexão mais rápida.",
+    "correctAnswer": "I need a faster connection.",
+    "options": ["I need a faster connection.", "I need a better computer.", "I need a stronger signal.", "I need a new router."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Ela compartilha fotos com os amigos.",
+    "correctAnswer": "She shares photos with her friends.",
+    "options": ["She shares photos with her friends.", "She sends photos to her friends.", "She shows photos to her friends.", "She uploads photos for her friends."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "O meu computador está muito lento hoje.",
+    "correctAnswer": "My computer is very slow today.",
+    "options": ["My computer is very slow today.", "My computer is very fast today.", "My computer is very old today.", "My computer is very noisy today."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Eu recebo muitos e-mails por dia.",
+    "correctAnswer": "I receive many emails per day.",
+    "options": ["I receive many emails per day.", "I send many emails per day.", "I read many emails per day.", "I delete many emails per day."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "O arquivo não abre no meu computador.",
+    "correctAnswer": "The file does not open on my computer.",
+    "options": ["The file does not open on my computer.", "The file is not on my computer.", "The file does not work on my computer.", "The file is too big for my computer."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Nós fazemos videochamadas com a família.",
+    "correctAnswer": "We make video calls with our family.",
+    "options": ["We make video calls with our family.", "We watch video calls with our family.", "We receive video calls from our family.", "We do video calls to our family."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Eu instalo um novo aplicativo no meu celular.",
+    "correctAnswer": "I install a new app on my phone.",
+    "options": ["I install a new app on my phone.", "I download a new app on my phone.", "I open a new app on my phone.", "I buy a new app on my phone."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "A internet está fora do ar agora.",
+    "correctAnswer": "The internet is down right now.",
+    "options": ["The internet is down right now.", "The internet is slow right now.", "The internet is off right now.", "The internet is broken right now."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Ele pesquisa informações no navegador.",
+    "correctAnswer": "He searches for information in the browser.",
+    "options": ["He searches for information in the browser.", "He finds information in the browser.", "He reads information in the browser.", "He gets information from the browser."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Eu excluo as fotos antigas do meu telefone.",
+    "correctAnswer": "I delete old photos from my phone.",
+    "options": ["I delete old photos from my phone.", "I remove old photos from my phone.", "I erase old photos on my phone.", "I clean old photos in my phone."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Você pode me enviar o link por mensagem?",
+    "correctAnswer": "Can you send me the link by message?",
+    "options": ["Can you send me the link by message?", "Can you give me the link by message?", "Can you share me the link by message?", "Can you write me the link by message?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "O celular toca quando eu recebo uma ligação.",
+    "correctAnswer": "The phone rings when I receive a call.",
+    "options": ["The phone rings when I receive a call.", "The phone sounds when I get a call.", "The phone beeps when I receive a call.", "The phone vibrates when I receive a call."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Eu bloqueio mensagens de pessoas desconhecidas.",
+    "correctAnswer": "I block messages from unknown people.",
+    "options": ["I block messages from unknown people.", "I ignore messages from unknown people.", "I delete messages from unknown people.", "I report messages from unknown people."],
+    "difficulty": "hard"
+  }
+]

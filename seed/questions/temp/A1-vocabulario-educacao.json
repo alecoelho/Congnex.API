@@ -1,0 +1,512 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'school' em inglês?",
+    "correctAnswer": "Escola",
+    "options": ["Escola", "Casa", "Loja", "Parque"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'book' em inglês?",
+    "correctAnswer": "Livro",
+    "options": ["Livro", "Caderno", "Caneta", "Borracha"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'teacher' em inglês?",
+    "correctAnswer": "Professor",
+    "options": ["Professor", "Aluno", "Diretor", "Funcionário"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'student' em inglês?",
+    "correctAnswer": "Aluno",
+    "options": ["Aluno", "Professor", "Livro", "Sala"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'pen' em inglês?",
+    "correctAnswer": "Caneta",
+    "options": ["Caneta", "Lápis", "Borracha", "Régua"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'pencil' em inglês?",
+    "correctAnswer": "Lápis",
+    "options": ["Lápis", "Caneta", "Caderno", "Tesoura"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'class' em inglês?",
+    "correctAnswer": "Aula",
+    "options": ["Aula", "Recreio", "Prova", "Dever"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'desk' em inglês?",
+    "correctAnswer": "Carteira / Mesa",
+    "options": ["Carteira / Mesa", "Cadeira", "Quadro", "Porta"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'chair' em inglês?",
+    "correctAnswer": "Cadeira",
+    "options": ["Cadeira", "Mesa", "Janela", "Porta"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'read' em inglês?",
+    "correctAnswer": "Ler",
+    "options": ["Ler", "Escrever", "Ouvir", "Falar"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'write' em inglês?",
+    "correctAnswer": "Escrever",
+    "options": ["Escrever", "Ler", "Desenhar", "Apagar"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'learn' em inglês?",
+    "correctAnswer": "Aprender",
+    "options": ["Aprender", "Ensinar", "Estudar", "Repetir"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'study' em inglês?",
+    "correctAnswer": "Estudar",
+    "options": ["Estudar", "Brincar", "Dormir", "Comer"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'notebook' em inglês?",
+    "correctAnswer": "Caderno",
+    "options": ["Caderno", "Livro", "Caneta", "Pasta"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'classroom' em inglês?",
+    "correctAnswer": "Sala de aula",
+    "options": ["Sala de aula", "Biblioteca", "Pátio", "Refeitório"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'blackboard' em inglês?",
+    "correctAnswer": "Quadro negro",
+    "options": ["Quadro negro", "Caderno", "Mesa", "Livro"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'eraser' em inglês?",
+    "correctAnswer": "Borracha",
+    "options": ["Borracha", "Lápis", "Caneta", "Apontador"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'answer' em inglês no contexto de uma prova?",
+    "correctAnswer": "Resposta",
+    "options": ["Resposta", "Pergunta", "Nota", "Exercício"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'question' em inglês?",
+    "correctAnswer": "Pergunta",
+    "options": ["Pergunta", "Resposta", "Lição", "Prova"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'homework' em inglês?",
+    "correctAnswer": "Dever de casa",
+    "options": ["Dever de casa", "Prova", "Aula", "Recreio"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'test' em inglês no contexto escolar?",
+    "correctAnswer": "Prova / Teste",
+    "options": ["Prova / Teste", "Dever", "Aula", "Caderno"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'library' em inglês?",
+    "correctAnswer": "Biblioteca",
+    "options": ["Biblioteca", "Livraria", "Sala de aula", "Laboratório"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'lesson' em inglês?",
+    "correctAnswer": "Lição",
+    "options": ["Lição", "Recreio", "Nota", "Exame"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'grade' em inglês no contexto escolar?",
+    "correctAnswer": "Nota",
+    "options": ["Nota", "Série", "Turma", "Caderno"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'principal' em inglês no contexto escolar?",
+    "correctAnswer": "Diretor(a)",
+    "options": ["Diretor(a)", "Professor(a)", "Aluno(a)", "Funcionário(a)"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'subject' em inglês no contexto de matérias escolares?",
+    "correctAnswer": "Matéria / Disciplina",
+    "options": ["Matéria / Disciplina", "Tarefa", "Exercício", "Nota"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'uniform' em inglês no contexto escolar?",
+    "correctAnswer": "Uniforme",
+    "options": ["Uniforme", "Mochila", "Agenda", "Lanche"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'recess' em inglês no contexto escolar?",
+    "correctAnswer": "Recreio",
+    "options": ["Recreio", "Aula", "Intervalo de almoço", "Férias"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'schedule' em inglês no contexto escolar?",
+    "correctAnswer": "Horário",
+    "options": ["Horário", "Lista", "Diário", "Caderno"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'ruler' em inglês no contexto de material escolar?",
+    "correctAnswer": "Régua",
+    "options": ["Régua", "Tesoura", "Cola", "Compasso"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'school bag' em inglês?",
+    "correctAnswer": "Mochila escolar",
+    "options": ["Mochila escolar", "Pasta de trabalho", "Bolsa de compras", "Maleta"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'pass' em inglês no contexto de aprovação em uma prova?",
+    "correctAnswer": "Passar / Ser aprovado",
+    "options": ["Passar / Ser aprovado", "Falhar", "Tentar", "Repetir"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'fail' em inglês no contexto de uma prova?",
+    "correctAnswer": "Reprovar / Falhar",
+    "options": ["Reprovar / Falhar", "Passar", "Melhorar", "Tentar"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'copy' em inglês no contexto escolar?",
+    "correctAnswer": "Copiar",
+    "options": ["Copiar", "Apagar", "Ler", "Perguntar"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'repeat' em inglês no contexto de sala de aula?",
+    "correctAnswer": "Repetir",
+    "options": ["Repetir", "Responder", "Perguntar", "Parar"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'absent' em inglês no contexto escolar?",
+    "correctAnswer": "Ausente / Faltou",
+    "options": ["Ausente / Faltou", "Presente", "Atrasado", "Suspenso"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'present' em inglês quando o professor chama a chamada?",
+    "correctAnswer": "Presente",
+    "options": ["Presente", "Ausente", "Atrasado", "Doente"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'semester' em inglês?",
+    "correctAnswer": "Semestre",
+    "options": ["Semestre", "Trimestre", "Bimestre", "Ano letivo"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'assignment' em inglês no contexto escolar?",
+    "correctAnswer": "Tarefa / Trabalho",
+    "options": ["Tarefa / Trabalho", "Prova", "Nota", "Aula"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'certificate' em inglês?",
+    "correctAnswer": "Certificado",
+    "options": ["Certificado", "Diploma", "Boletim", "Histórico"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'exercise' em inglês no contexto de atividade escolar?",
+    "correctAnswer": "Exercício",
+    "options": ["Exercício", "Exame", "Projeto", "Relatório"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'instructions' em inglês?",
+    "correctAnswer": "Instruções",
+    "options": ["Instruções", "Exemplos", "Respostas", "Perguntas"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'correct' em inglês no contexto de uma resposta escolar?",
+    "correctAnswer": "Correto / Certo",
+    "options": ["Correto / Certo", "Errado", "Incompleto", "Difícil"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'wrong' em inglês no contexto de uma resposta escolar?",
+    "correctAnswer": "Errado / Incorreto",
+    "options": ["Errado / Incorreto", "Certo", "Fácil", "Difícil"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'understand' em inglês no contexto de aprendizado?",
+    "correctAnswer": "Entender / Compreender",
+    "options": ["Entender / Compreender", "Ouvir", "Ler", "Falar"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'practice' em inglês no contexto de aprendizado?",
+    "correctAnswer": "Praticar",
+    "options": ["Praticar", "Aprender", "Ensinar", "Decorar"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'explain' em inglês no contexto de sala de aula?",
+    "correctAnswer": "Explicar",
+    "options": ["Explicar", "Perguntar", "Responder", "Repetir"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'school year' em inglês?",
+    "correctAnswer": "Ano letivo",
+    "options": ["Ano letivo", "Semestre", "Bimestre", "Férias escolares"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'knowledge' em inglês?",
+    "correctAnswer": "Conhecimento",
+    "options": ["Conhecimento", "Inteligência", "Memória", "Habilidade"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'dictionary' em inglês?",
+    "correctAnswer": "Dicionário",
+    "options": ["Dicionário", "Enciclopédia", "Atlas", "Almanaque"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'take notes' em inglês no contexto de sala de aula?",
+    "correctAnswer": "Anotar / Tomar notas",
+    "options": ["Anotar / Tomar notas", "Tirar foto", "Fazer prova", "Levantar a mão"],
+    "difficulty": "hard"
+  }
+]

@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027apogeu\u0027 no contexto da carreira de um artista?",
+        "correctAnswer":  "The peak or highest point",
+        "options":  [
+                        "The beginning of a career",
+                        "The peak or highest point",
+                        "A period of decline",
+                        "A temporary pause"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027matiz\u0027 em uma discussão sobre cores ou nuances?",
+        "correctAnswer":  "A subtle shade or variation",
+        "options":  [
+                        "A bright color",
+                        "A subtle shade or variation",
+                        "A dark tone",
+                        "A primary color"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027envergadura\u0027 em relação ao escopo de um projeto cultural?",
+        "correctAnswer":  "Scale or scope",
+        "options":  [
+                        "The budget",
+                        "Scale or scope",
+                        "The duration",
+                        "The team size"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027ironia\u0027 quando usada em uma obra literária?",
+        "correctAnswer":  "A contradiction between expectation and reality",
+        "options":  [
+                        "A type of humor",
+                        "A contradiction between expectation and reality",
+                        "A metaphor",
+                        "A simile"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027iconoclasta\u0027 no contexto da arte moderna?",
+        "correctAnswer":  "Someone who challenges traditional ideas",
+        "options":  [
+                        "An art collector",
+                        "Someone who challenges traditional ideas",
+                        "A museum curator",
+                        "An art conservator"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027catarse\u0027 em uma peça de teatro?",
+        "correctAnswer":  "Emotional release or purification",
+        "options":  [
+                        "The climax",
+                        "Emotional release or purification",
+                        "The resolution",
+                        "The exposition"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027hermenêutica\u0027 no estudo de textos literários?",
+        "correctAnswer":  "The interpretation of texts",
+        "options":  [
+                        "The translation of texts",
+                        "The interpretation of texts",
+                        "The criticism of texts",
+                        "The publication of texts"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027paradigma\u0027 em relação às tendências culturais?",
+        "correctAnswer":  "A typical example or pattern",
+        "options":  [
+                        "A contradiction",
+                        "A typical example or pattern",
+                        "A cycle",
+                        "A trend"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027efervescência\u0027 em uma comunidade artística?",
+        "correctAnswer":  "A state of liveliness and activity",
+        "options":  [
+                        "A decline",
+                        "A state of liveliness and activity",
+                        "A conflict",
+                        "A separation"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027subterfúgio\u0027 em um enredo de ficção?",
+        "correctAnswer":  "A deceptive stratagem",
+        "options":  [
+                        "A plot twist",
+                        "A deceptive stratagem",
+                        "A climax",
+                        "A dialogue"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027justaposição\u0027 em análise de artworks?",
+        "correctAnswer":  "The placement of two things side by side",
+        "options":  [
+                        "A contrast in colors",
+                        "The placement of two things side by side",
+                        "An overlap",
+                        "A separation"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027sublimação\u0027 na teoria artística?",
+        "correctAnswer":  "The transformation of emotions into art",
+        "options":  [
+                        "The elevation of rank",
+                        "The transformation of emotions into art",
+                        "A type of painting",
+                        "A musical technique"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027traços estilísticos\u0027 em literatura?",
+        "correctAnswer":  "Distinctive characteristics of an author\u0027s style",
+        "options":  [
+                        "Plot points",
+                        "Distinctive characteristics of an author\u0027s style",
+                        "Character names",
+                        "Setting details"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027pathos\u0027 em uma narrativa dramática?",
+        "correctAnswer":  "The quality that evokes pity or compassion",
+        "options":  [
+                        "The protagonist",
+                        "The quality that evokes pity or compassion",
+                        "The setting",
+                        "The dialogue"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027sátira\u0027 em uma obra de crítica social?",
+        "correctAnswer":  "The use of humor to criticize",
+        "options":  [
+                        "A serious critique",
+                        "The use of humor to criticize",
+                        "A form of praise",
+                        "A detailed description"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027alegoria\u0027 na arte visual?",
+        "correctAnswer":  "The representation of abstract ideas through concrete imagery",
+        "options":  [
+                        "A landscape painting",
+                        "The representation of abstract ideas through concrete imagery",
+                        "A portrait",
+                        "An abstract work"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027alusão\u0027 em um texto literário?",
+        "correctAnswer":  "An indirect reference to another work",
+        "options":  [
+                        "A direct quotation",
+                        "An indirect reference to another work",
+                        "A metaphor",
+                        "A simile"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027sinestesia\u0027 em poesia moderna?",
+        "correctAnswer":  "The blending of senses in description",
+        "options":  [
+                        "A type of rhythm",
+                        "The blending of senses in description",
+                        "A poetic form",
+                        "A literary device"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027anticlímax\u0027 em uma narrativa?",
+        "correctAnswer":  "A disappointing conclusion after buildup",
+        "options":  [
+                        "A sudden climax",
+                        "A disappointing conclusion after buildup",
+                        "A plot twist",
+                        "A resolution"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027pastiche\u0027 em referência às artes?",
+        "correctAnswer":  "An imitation or blend of different styles",
+        "options":  [
+                        "Original work",
+                        "An imitation or blend of different styles",
+                        "A critique",
+                        "A parody"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027metonímia\u0027 em análise linguística?",
+        "correctAnswer":  "The substitution of a name by something associated",
+        "options":  [
+                        "A comparison",
+                        "The substitution of a name by something associated",
+                        "A metaphor",
+                        "A symbol"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027pompa\u0027 no contexto de cerimônias teatrais?",
+        "correctAnswer":  "Splendor and ceremonial grandeur",
+        "options":  [
+                        "A type of music",
+                        "Splendor and ceremonial grandeur",
+                        "A costume design",
+                        "A stage prop"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027intertextualidade\u0027 em estudos literários?",
+        "correctAnswer":  "References to other texts within a work",
+        "options":  [
+                        "The main idea",
+                        "References to other texts within a work",
+                        "The narrative structure",
+                        "The author\u0027s biography"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027minimalismo\u0027 em artes visuais contemporâneas?",
+        "correctAnswer":  "Using minimal elements to achieve maximum impact",
+        "options":  [
+                        "Using bright colors",
+                        "Using minimal elements to achieve maximum impact",
+                        "Creating large installations",
+                        "Using ornate details"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027decadência\u0027 em referência a um movimento artístico?",
+        "correctAnswer":  "A decline in artistic standards or influence",
+        "options":  [
+                        "A new beginning",
+                        "A decline in artistic standards or influence",
+                        "A peak period",
+                        "A transformation"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027parábola\u0027 em narrativas religiosas?",
+        "correctAnswer":  "A moral story that teaches a lesson",
+        "options":  [
+                        "A mathematical concept",
+                        "A moral story that teaches a lesson",
+                        "A type of poem",
+                        "A historical account"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027vanguarda\u0027 em movimentos artísticos?",
+        "correctAnswer":  "The forefront of artistic innovation",
+        "options":  [
+                        "The past",
+                        "The forefront of artistic innovation",
+                        "Traditional art",
+                        "Mainstream culture"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027estética\u0027 em filosofia da arte?",
+        "correctAnswer":  "The principles of beauty and taste",
+        "options":  [
+                        "A color palette",
+                        "The principles of beauty and taste",
+                        "A painting technique",
+                        "A musical style"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027exegese\u0027 em estudos de textos clássicos?",
+        "correctAnswer":  "A detailed critical explanation",
+        "options":  [
+                        "A brief summary",
+                        "A detailed critical explanation",
+                        "A translation",
+                        "A rewrite"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027lirismo\u0027 em poesia?",
+        "correctAnswer":  "The expression of personal emotion",
+        "options":  [
+                        "A musical form",
+                        "The expression of personal emotion",
+                        "A narrative technique",
+                        "A poetic meter"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027simbolismo\u0027 em movimentos artísticos do século XIX?",
+        "correctAnswer":  "The use of symbols to express ideas and emotions",
+        "options":  [
+                        "Realistic representation",
+                        "The use of symbols to express ideas and emotions",
+                        "Abstract art",
+                        "Impressionism"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027prosáico\u0027 em crítica literária?",
+        "correctAnswer":  "Lacking poetic quality or imagination",
+        "options":  [
+                        "Written in prose",
+                        "Lacking poetic quality or imagination",
+                        "Related to storytelling",
+                        "Historically accurate"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027expressionismo\u0027 em artes visuais?",
+        "correctAnswer":  "The exaggeration of emotional experience through form",
+        "options":  [
+                        "Realistic depiction",
+                        "The exaggeration of emotional experience through form",
+                        "Historical accuracy",
+                        "Decorative style"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027deconstrução\u0027 em teoria literária contemporânea?",
+        "correctAnswer":  "The analysis that reveals hidden meanings in texts",
+        "options":  [
+                        "Destroying a work",
+                        "The analysis that reveals hidden meanings in texts",
+                        "Building an argument",
+                        "Creating structure"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027fenomenologia\u0027 no estudo da experiência artística?",
+        "correctAnswer":  "The study of consciousness and perception",
+        "options":  [
+                        "The study of nature",
+                        "The study of consciousness and perception",
+                        "The study of history",
+                        "The study of society"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027ontologia\u0027 em filosofia da arte?",
+        "correctAnswer":  "The study of what art fundamentally is",
+        "options":  [
+                        "The study of colors",
+                        "The study of what art fundamentally is",
+                        "The study of beauty",
+                        "The study of history"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027hermenêutica da suspeita\u0027 em crítica textual?",
+        "correctAnswer":  "A reading that questions the surface meaning",
+        "options":  [
+                        "Doubting the author",
+                        "A reading that questions the surface meaning",
+                        "Finding inconsistencies",
+                        "Literal interpretation"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027genealogia\u0027 em análise de obras artísticas?",
+        "correctAnswer":  "The tracing of origins and influences",
+        "options":  [
+                        "Family history",
+                        "The tracing of origins and influences",
+                        "Personal biography",
+                        "Chronological order"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027performatividade\u0027 em estudos culturais?",
+        "correctAnswer":  "The idea that identity is constructed through repeated actions",
+        "options":  [
+                        "Performing on stage",
+                        "The idea that identity is constructed through repeated actions",
+                        "The quality of being performative",
+                        "Theater studies"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027pós-modernismo\u0027 em arte contemporânea?",
+        "correctAnswer":  "A movement questioning grand narratives and embracing irony",
+        "options":  [
+                        "A return to modernism",
+                        "A movement questioning grand narratives and embracing irony",
+                        "Traditional art",
+                        "Digital art only"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027dialogismo\u0027 na teoria de Bakhtin?",
+        "correctAnswer":  "The interaction of multiple voices in a text",
+        "options":  [
+                        "Dialogue between characters",
+                        "The interaction of multiple voices in a text",
+                        "Conversation style",
+                        "Discussion format"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027mimesis\u0027 em teoria literária?",
+        "correctAnswer":  "The representation of reality in art",
+        "options":  [
+                        "Imitation of style",
+                        "The representation of reality in art",
+                        "Copying exactly",
+                        "Realistic painting"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027diegese\u0027 em análise cinematográfica?",
+        "correctAnswer":  "The narrative world of the film",
+        "options":  [
+                        "The dialogue",
+                        "The narrative world of the film",
+                        "The soundtrack",
+                        "The editing"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027monomito\u0027 em narratologia?",
+        "correctAnswer":  "The universal pattern of hero\u0027s journey",
+        "options":  [
+                        "A single myth",
+                        "The universal pattern of hero\u0027s journey",
+                        "A local legend",
+                        "A personal story"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027semiótica\u0027 em análise de obras de arte?",
+        "correctAnswer":  "The study of signs and their meaning",
+        "options":  [
+                        "The study of emotions",
+                        "The study of signs and their meaning",
+                        "The study of form",
+                        "The study of colors"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027metáfora estendida\u0027 em poesia?",
+        "correctAnswer":  "A comparison sustained throughout a work",
+        "options":  [
+                        "A brief comparison",
+                        "A comparison sustained throughout a work",
+                        "A single image",
+                        "A repeated word"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027estilo barroco\u0027 em artes?",
+        "correctAnswer":  "A style characterized by ornament and dramatic emotion",
+        "options":  [
+                        "Simple and elegant",
+                        "A style characterized by ornament and dramatic emotion",
+                        "Modern and minimalist",
+                        "Abstract and geometric"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027estruturalismo\u0027 em crítica literária?",
+        "correctAnswer":  "Analysis focused on underlying structures of texts",
+        "options":  [
+                        "Building arguments",
+                        "Analysis focused on underlying structures of texts",
+                        "Creating new works",
+                        "Studying grammar"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027autoficção\u0027 em literatura contemporânea?",
+        "correctAnswer":  "Fiction that deliberately blurs the line between author and narrator",
+        "options":  [
+                        "A fictional autobiography",
+                        "Fiction that deliberately blurs the line between author and narrator",
+                        "An autobiography",
+                        "A biographical novel"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027leitmotiv\u0027 em música e narrativas?",
+        "difficulty":  "easy",
+        "options":  [
+                        "A type of instrument",
+                        "A recurring theme or motif",
+                        "A musical note",
+                        "A dance style"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "A recurring theme or motif"
+    }
+]

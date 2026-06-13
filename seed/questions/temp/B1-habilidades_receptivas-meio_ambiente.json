@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Os plásticos causam danos graves ao meio ambiente.",
+        "correctAnswer":  "Plastics cause serious damage to the environment.",
+        "options":  [
+                        "Plastics cause serious damage to the environment.",
+                        "Plastic damages the small environments today.",
+                        "The plastic is causing to environment hurt.",
+                        "Plastics do damage but not to the environment."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A reciclagem ajuda a reduzir o lixo.",
+        "correctAnswer":  "Recycling helps reduce waste.",
+        "options":  [
+                        "Recycling helps reduce waste.",
+                        "The recycle is helping to waste go.",
+                        "Recycling helps to increase the garbage.",
+                        "Waste reduces recycling completely."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "As árvores produzem oxigênio para nós.",
+        "correctAnswer":  "Trees produce oxygen for us.",
+        "options":  [
+                        "Trees produce oxygen for us.",
+                        "Trees are producing the oxygen to we.",
+                        "We produce oxygen from the trees.",
+                        "Oxygen makes the trees produce."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A água é essencial para todos os seres vivos.",
+        "correctAnswer":  "Water is essential for all living beings.",
+        "options":  [
+                        "Water is essential for all living beings.",
+                        "All beings live with water essential.",
+                        "Water is only essential for some lives.",
+                        "Essential water lives in all beings."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "O aquecimento global é um problema atual.",
+        "correctAnswer":  "Global warming is a current problem.",
+        "options":  [
+                        "Global warming is a current problem.",
+                        "The global warm is actual problem.",
+                        "A problem called warming is global.",
+                        "Global warming is a past situation."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Podemos economizar energia usando lâmpadas LED.",
+        "correctAnswer":  "We can save energy by using LED lights.",
+        "options":  [
+                        "We can save energy by using LED lights.",
+                        "LED lights save the use of energy.",
+                        "Energy uses LED lights for saving.",
+                        "LED is using lights to save economy."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "As florestas tropicais são muito importantes.",
+        "correctAnswer":  "Tropical forests are very important.",
+        "options":  [
+                        "Tropical forests are very important.",
+                        "Tropics forest is important to very.",
+                        "Very important are the tropics forests.",
+                        "Tropical forests not are important at all."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A poluição do ar afeta nossa saúde.",
+        "correctAnswer":  "Air pollution affects our health.",
+        "options":  [
+                        "Air pollution affects our health.",
+                        "Our health affects the air pollution.",
+                        "The air of pollution affects healthy.",
+                        "Pollution air is affected from health."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Os animais precisam de habitats naturais para sobreviver.",
+        "correctAnswer":  "Animals need natural habitats to survive.",
+        "options":  [
+                        "Animals need natural habitats to survive.",
+                        "Natural habitats need animals for survive.",
+                        "Animals survive with natural habitats needing.",
+                        "Habitats are natural for the animals survival."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "As energias renováveis são uma solução para o futuro.",
+        "correctAnswer":  "Renewable energies are a solution for the future.",
+        "options":  [
+                        "Renewable energies are a solution for the future.",
+                        "Renewable is the energy of future solutions.",
+                        "The future solves with renewable energies.",
+                        "Energies that renew are solved for futurity."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Devemos proteger os oceanos da poluição.",
+        "correctAnswer":  "We should protect the oceans from pollution.",
+        "options":  [
+                        "We should protect the oceans from pollution.",
+                        "The oceans protect us from the pollution.",
+                        "Pollution should be protected at oceans.",
+                        "Protecting oceans makes pollution."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A mudança climática afeta países em todo o mundo.",
+        "correctAnswer":  "Climate change affects countries all around the world.",
+        "options":  [
+                        "Climate change affects countries all around the world.",
+                        "Countries around the world affect climate change.",
+                        "Climate affects changing countries in all worlds.",
+                        "All world countries are changed by climate."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Os pesticidas prejudicam os insetos polinizadores.",
+        "correctAnswer":  "Pesticides harm pollinating insects.",
+        "options":  [
+                        "Pesticides harm pollinating insects.",
+                        "Insects pollinating are harmed from pesticide.",
+                        "Pesticides are insects that pollinate and harm.",
+                        "Pollinating insects harm the pesticides."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "O desmatamento reduz a biodiversidade.",
+        "correctAnswer":  "Deforestation reduces biodiversity.",
+        "options":  [
+                        "Deforestation reduces biodiversity.",
+                        "Biodiversity reduces the deforestation.",
+                        "To deforest makes reducing bio diversity.",
+                        "Deforestation is increased by biodiversity."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Devemos usar transportes mais sustentáveis.",
+        "correctAnswer":  "We should use more sustainable transportation.",
+        "options":  [
+                        "We should use more sustainable transportation.",
+                        "Sustainable transports are used by us.",
+                        "We use the sustainable to transport more.",
+                        "Transportation sustains our use of more."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Os resíduos tóxicos poluem os rios e lagos.",
+        "correctAnswer":  "Toxic waste pollutes rivers and lakes.",
+        "options":  [
+                        "Toxic waste pollutes rivers and lakes.",
+                        "Rivers and lakes are toxic from pollution waste.",
+                        "Toxic pollutes the waste of rivers.",
+                        "Waste toxic is cleaning rivers and lakes."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Os aquíferos subterrâneos são recursos hídricos finitos que requerem gestão cuidadosa.",
+        "correctAnswer":  "Underground aquifers are finite water resources that require careful management.",
+        "options":  [
+                        "Underground aquifers are finite water resources that require careful management.",
+                        "Water resources finitely require aquifers underground to manage.",
+                        "Careful management requires aquifers that are finite and underground.",
+                        "Resources underwater aquifers require finite careful managing."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A conservação de recursos naturais é responsabilidade de todos.",
+        "correctAnswer":  "Conservation of natural resources is everyone\u0027s responsibility.",
+        "options":  [
+                        "Conservation of natural resources is everyone\u0027s responsibility.",
+                        "Natural resources conserve everyone\u0027s responsibility.",
+                        "Everyone responsibility conserves the natural.",
+                        "Resources natural are responsible for conservation."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "As usinas nucleares geram energia mas com riscos ambientais.",
+        "correctAnswer":  "Nuclear plants generate energy but with environmental risks.",
+        "options":  [
+                        "Nuclear plants generate energy but with environmental risks.",
+                        "Environmental risks generate nuclear plants with energy.",
+                        "Plants nuclear are generating risks but energy.",
+                        "Energy risks are generated by plants that are nuclear."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "O lixo eletrônico contém materiais perigosos para o planeta.",
+        "correctAnswer":  "Electronic waste contains dangerous materials for the planet.",
+        "options":  [
+                        "Electronic waste contains dangerous materials for the planet.",
+                        "Dangerous materials contain electronic waste for the planet.",
+                        "Waste electronic is containing the planet danger.",
+                        "The planet contains dangerous electronic waste."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A agricultura sustentável reduz o uso de químicos nocivos.",
+        "correctAnswer":  "Sustainable agriculture reduces the use of harmful chemicals.",
+        "options":  [
+                        "Sustainable agriculture reduces the use of harmful chemicals.",
+                        "Agriculture sustains reducing harmful of chemicals use.",
+                        "Harmful chemicals are reduced by agriculture sustainable.",
+                        "Chemicals reduce agriculture but sustainable of use."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Os corais estão morrendo por causa da acidificação oceânica.",
+        "correctAnswer":  "Corals are dying because of ocean acidification.",
+        "options":  [
+                        "Corals are dying because of ocean acidification.",
+                        "Ocean acidification is dying from corals.",
+                        "Dying corals cause the ocean to acidify.",
+                        "Corals are acidifying the ocean causing death."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Os painéis solares convertem luz solar em energia elétrica.",
+        "correctAnswer":  "Solar panels convert sunlight into electrical energy.",
+        "options":  [
+                        "Solar panels convert sunlight into electrical energy.",
+                        "Sunlight panels solar convert electrical of energy.",
+                        "Energy electrical is converted by light from panels.",
+                        "Panels convert solar to energy from the light."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A emissão de gases de efeito estufa intensifica o aquecimento.",
+        "correctAnswer":  "The emission of greenhouse gases intensifies warming.",
+        "options":  [
+                        "The emission of greenhouse gases intensifies warming.",
+                        "Greenhouse gases emit warming that intensifies.",
+                        "Intensifying greenhouse effect gases makes emission warm.",
+                        "Warming gases emit the effect of house intensity."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "As águas subterrâneas estão sendo contaminadas por agrotóxicos.",
+        "correctAnswer":  "Groundwater is being contaminated by agricultural chemicals.",
+        "options":  [
+                        "Groundwater is being contaminated by agricultural chemicals.",
+                        "Agricultural chemicals contaminate being the ground water.",
+                        "The ground water contaminates agricultural chemicals.",
+                        "Chemicals from agriculture are contaminating underground waters."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Os ecossistemas frágeis necessitam de proteção especial.",
+        "correctAnswer":  "Fragile ecosystems require special protection.",
+        "options":  [
+                        "Fragile ecosystems require special protection.",
+                        "Ecosystems that are fragile require to protect special.",
+                        "Protection is special for ecosystems to be fragile.",
+                        "Special fragile ecosystems protect themselves."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "O consumismo excessivo contribui para a degradação ambiental.",
+        "correctAnswer":  "Excessive consumerism contributes to environmental degradation.",
+        "options":  [
+                        "Excessive consumerism contributes to environmental degradation.",
+                        "Environmental degradation contributes to excessive consuming.",
+                        "Consumerism is excessive by environmental contributions.",
+                        "Degradation consumes environmental excessively."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A queimada de combustíveis fósseis libera dióxido de carbono.",
+        "correctAnswer":  "Burning fossil fuels releases carbon dioxide.",
+        "options":  [
+                        "Burning fossil fuels releases carbon dioxide.",
+                        "Fossil fuels burn releasing dioxide from carbon.",
+                        "Carbon dioxide releases by burning the fossil fuels.",
+                        "Fuels fossil liberate burning carbon dioxide."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "As espécies invasoras alteram o equilíbrio dos ecossistemas naturais.",
+        "correctAnswer":  "Invasive species alter the balance of natural ecosystems.",
+        "options":  [
+                        "Invasive species alter the balance of natural ecosystems.",
+                        "Natural ecosystems balance invasive species alterations.",
+                        "Species invade altering the balancing naturally ecosystems.",
+                        "Ecosystems invasively alter the natural species balance."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Os sistemas de tratamento de água são essenciais para cidades modernas.",
+        "correctAnswer":  "Water treatment systems are essential for modern cities.",
+        "options":  [
+                        "Water treatment systems are essential for modern cities.",
+                        "Essential water treats systems of modern cities.",
+                        "Cities modern are treating water essentially by systems.",
+                        "Systems treat water that is essential to modern."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "O reflorestamento é uma estratégia importante para restaurar florestas.",
+        "correctAnswer":  "Reforestation is an important strategy to restore forests.",
+        "options":  [
+                        "Reforestation is an important strategy to restore forests.",
+                        "Important strategy is reforesting to the forests.",
+                        "Forests restore by reforestation strategy important.",
+                        "To restore forests by importance reforest them."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Os solos contaminados prejudicam a qualidade dos alimentos cultivados.",
+        "difficulty":  "medium",
+        "options":  [
+                        "Contaminated soils harm the quality of cultivated food.",
+                        "Quality soils are contaminated by food cultivation.",
+                        "Food cultivated harms the soil contamination quality.",
+                        "Soils contaminate quality by cultivating food."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Contaminated soils harm the quality of cultivated food."
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A pesca excessiva ameaça a sobrevivência de populações de peixes.",
+        "difficulty":  "medium",
+        "options":  [
+                        "Overfishing threatens the survival of fish populations.",
+                        "Fish populations threaten excessive survival fishing.",
+                        "Survival threatens fish populations from overfishing.",
+                        "The fishing of populations threatens excessive survival."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Overfishing threatens the survival of fish populations."
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "As mudanças nos padrões climáticos afetam a migração de aves.",
+        "difficulty":  "medium",
+        "options":  [
+                        "Changes in climate patterns affect bird migration.",
+                        "Bird migration affects changes in climate patterns.",
+                        "Climate patterns migrate affecting bird changes.",
+                        "Birds affect patterns of climate change migration."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Changes in climate patterns affect bird migration."
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Os microplásticos podem entrar na cadeia alimentar aquática.",
+        "correctAnswer":  "Microplastics can enter the aquatic food chain.",
+        "options":  [
+                        "Microplastics can enter the aquatic food chain.",
+                        "Aquatic food chains enter microplastics.",
+                        "Plastics micro are entering aquatic food of chain.",
+                        "The chain of food aquatic enters microplastics."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A economia circular procura minimizar o desperdício de recursos.",
+        "correctAnswer":  "The circular economy seeks to minimize resource waste.",
+        "options":  [
+                        "The circular economy seeks to minimize resource waste.",
+                        "Resources circular economy minimizes waste of seeking.",
+                        "Minimizing waste seeks the economy of circular resources.",
+                        "The economy circles to minimize resource wasting."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "As iniciativas de zero resíduos têm impacto significativo nas comunidades.",
+        "correctAnswer":  "Zero waste initiatives have significant impact on communities.",
+        "options":  [
+                        "Zero waste initiatives have significant impact on communities.",
+                        "Communities have initiatives of waste zero impact.",
+                        "Waste zero impacts significantly the community initiative.",
+                        "Significant communities have zero waste impacts."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A biodiversidade está diminuindo devido à perda de habitats.",
+        "correctAnswer":  "Biodiversity is decreasing due to habitat loss.",
+        "options":  [
+                        "Biodiversity is decreasing due to habitat loss.",
+                        "Habitats are losing biodiversity due to decrease.",
+                        "Loss of biodiversity decreases due to habitats.",
+                        "Decreasing habitats are due to biodiversity loss."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Os cetáceos sofrem com o aumento de resíduos plásticos nos oceanos.",
+        "correctAnswer":  "Cetaceans suffer with the increase of plastic waste in oceans.",
+        "options":  [
+                        "Cetaceans suffer with the increase of plastic waste in oceans.",
+                        "Plastic waste increases causing cetaceans to suffer in oceans.",
+                        "Oceans increase plastic waste that suffering cetaceans.",
+                        "Suffering cetaceans increase waste from plastic oceans."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A certificação ambiental indica que produtos foram produzidos responsavelmente.",
+        "correctAnswer":  "Environmental certification indicates that products were produced responsibly.",
+        "options":  [
+                        "Environmental certification indicates that products were produced responsibly.",
+                        "Products indicate certification environmental with responsibility.",
+                        "Responsible production indicates environmental certification of products.",
+                        "Environmental products indicate responsible certification of it."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Os wetlands são ecossistemas vitais que filtram a água e controlam inundações.",
+        "correctAnswer":  "Wetlands are vital ecosystems that filter water and control floods.",
+        "options":  [
+                        "Wetlands are vital ecosystems that filter water and control floods.",
+                        "Vital ecosystems filter water in wetlands controlling it.",
+                        "Water filtering wetlands are vital ecosystems of floods.",
+                        "Ecosystems vital control wetlands and filter the flooding."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A energia geotérmica é uma alternativa renovável pouco explorada em muitos países.",
+        "correctAnswer":  "Geothermal energy is a renewable alternative little explored in many countries.",
+        "options":  [
+                        "Geothermal energy is a renewable alternative little explored in many countries.",
+                        "Many countries explore little renewable energy geothermal alternative.",
+                        "Renewable alternatives explore geothermal countries in little energy.",
+                        "Geothermal alternatives are renewable for little countries explored."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Os sumidouros de carbono, como florestas, absorvem CO2 da atmosfera.",
+        "correctAnswer":  "Carbon sinks, such as forests, absorb CO2 from the atmosphere.",
+        "options":  [
+                        "Carbon sinks, such as forests, absorb CO2 from the atmosphere.",
+                        "Forests absorb CO2 that sinks as carbon atmosphere.",
+                        "Atmosphere carbon absorbs sinks from CO2 and forests.",
+                        "CO2 sinks absorb forests from the atmospheric carbon."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A eutrofização de lagos resulta de excesso de nutrientes causando proliferação de algas.",
+        "correctAnswer":  "Lake eutrophication results from excess nutrients causing algal bloom.",
+        "options":  [
+                        "Lake eutrophication results from excess nutrients causing algal bloom.",
+                        "Nutrients excess in lakes results eutrophication of algae.",
+                        "Algae proliferate from eutrophication of lake nutrients.",
+                        "Lakes causing algae from excess eutrophication of nutrients."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Os corredores ecológicos permitem a migração segura de animais entre áreas protegidas.",
+        "correctAnswer":  "Ecological corridors allow safe animal migration between protected areas.",
+        "options":  [
+                        "Ecological corridors allow safe animal migration between protected areas.",
+                        "Animals migrate safely in ecological corridors between areas protecting.",
+                        "Protected areas allow corridors for safe ecological migration.",
+                        "Migration safe of animals allows ecological corridors protection."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A pegada de carbono mede o impacto ambiental de atividades humanas.",
+        "correctAnswer":  "Carbon footprint measures the environmental impact of human activities.",
+        "options":  [
+                        "Carbon footprint measures the environmental impact of human activities.",
+                        "Human activities measure carbon that impacts the footprint.",
+                        "Environmental impact is measured by human footprint carbons.",
+                        "Footprint human measures carbon activities impact environmental."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Os mangues são cruciais para a reprodução de muitas espécies marinhas.",
+        "correctAnswer":  "Mangroves are crucial for the reproduction of many marine species.",
+        "options":  [
+                        "Mangroves are crucial for the reproduction of many marine species.",
+                        "Reproduction of mangroves are crucial for marine species.",
+                        "Marine species crucially reproduce in the mangrove.",
+                        "Species reproduce from crucial mangroves that are marine."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A bioacumulação ocorre quando toxinas se concentram em organismos ao longo da cadeia alimentar.",
+        "correctAnswer":  "Bioaccumulation occurs when toxins concentrate in organisms throughout the food chain.",
+        "options":  [
+                        "Bioaccumulation occurs when toxins concentrate in organisms throughout the food chain.",
+                        "Toxins accumulate organisms when concentrating in the food chain.",
+                        "The food chain is concentrated with toxin accumulation in bio.",
+                        "Organisms concentrate toxins throughout bioaccumulation of the chain."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Os tratados internacionais sobre clima visam reduzir emissões globais.",
+        "correctAnswer":  "International climate treaties aim to reduce global emissions.",
+        "options":  [
+                        "International climate treaties aim to reduce global emissions.",
+                        "Global emissions aim to reduce international climate treaties.",
+                        "Treaties international reduce aiming the global emissions of climate.",
+                        "Climate global is reduced by international treaty emissions."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A restauração de ecossistemas danificados é um processo longo e complexo.",
+        "correctAnswer":  "Restoration of damaged ecosystems is a long and complex process.",
+        "options":  [
+                        "Restoration of damaged ecosystems is a long and complex process.",
+                        "Long and complex damaged ecosystems restore processes.",
+                        "Ecosystems are damaged by restoration that is long and complex.",
+                        "The process damages ecosystems that restore long and complex."
+                    ],
+        "difficulty":  "hard"
+    }
+]

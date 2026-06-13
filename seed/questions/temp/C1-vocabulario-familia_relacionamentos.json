@@ -1,0 +1,542 @@
+﻿[
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'estranho' quando usado para descrever um relacionamento?",
+    "correctAnswer": "unfamiliar or distant",
+    "options": ["unfamiliar or distant", "friendly and close", "romantic and passionate", "hostile and aggressive"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'avó'?",
+    "correctAnswer": "grandmother",
+    "options": ["grandmother", "aunt", "mother", "sister"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual palavra em inglês traduz 'irmão'?",
+    "correctAnswer": "brother",
+    "options": ["brother", "cousin", "nephew", "uncle"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'marido' em inglês?",
+    "correctAnswer": "husband",
+    "options": ["husband", "wife", "partner", "fiancé"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'esposa'?",
+    "correctAnswer": "wife",
+    "options": ["wife", "fiancée", "girlfriend", "companion"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução correta de 'tio'?",
+    "correctAnswer": "uncle",
+    "options": ["uncle", "aunt", "cousin", "nephew"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'sobrinha'?",
+    "correctAnswer": "niece",
+    "options": ["niece", "nephew", "cousin", "granddaughter"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que é um 'cunhado'?",
+    "correctAnswer": "brother-in-law",
+    "options": ["brother-in-law", "father-in-law", "sister-in-law", "son-in-law"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual palavra significa 'amigo próximo'?",
+    "correctAnswer": "close friend",
+    "options": ["close friend", "acquaintance", "colleague", "neighbor"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'noivo' em inglês?",
+    "correctAnswer": "fiancé",
+    "options": ["fiancé", "boyfriend", "husband", "lover"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'pai'?",
+    "correctAnswer": "father",
+    "options": ["father", "grandfather", "uncle", "brother"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução correta de 'mãe'?",
+    "correctAnswer": "mother",
+    "options": ["mother", "grandmother", "aunt", "sister"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'filho'?",
+    "correctAnswer": "son",
+    "options": ["son", "daughter", "nephew", "grandson"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'filha'?",
+    "correctAnswer": "daughter",
+    "options": ["daughter", "son", "niece", "granddaughter"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual palavra traduz 'primo'?",
+    "correctAnswer": "cousin",
+    "options": ["cousin", "brother", "nephew", "uncle"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'parente'?",
+    "correctAnswer": "relative",
+    "options": ["relative", "friend", "neighbor", "acquaintance"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'vizinho'?",
+    "correctAnswer": "neighbor",
+    "options": ["neighbor", "relative", "friend", "colleague"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'íntimo' no contexto de relacionamentos?",
+    "correctAnswer": "close and personal",
+    "options": ["close and personal", "distant and formal", "superficial", "professional"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'compatível'?",
+    "correctAnswer": "compatible",
+    "options": ["compatible", "conflicting", "indifferent", "opposite"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'reconciliação'?",
+    "correctAnswer": "reuniting after conflict",
+    "options": ["reuniting after conflict", "ending a relationship", "starting a new relationship", "avoiding contact"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução correta de 'laços familiares'?",
+    "correctAnswer": "family bonds",
+    "options": ["family bonds", "family rules", "family secrets", "family history"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'distanciamento' em inglês?",
+    "correctAnswer": "estrangement",
+    "options": ["estrangement", "engagement", "arrangement", "encouragement"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'lealdade'?",
+    "correctAnswer": "loyalty",
+    "options": ["loyalty", "betrayal", "indifference", "hostility"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual palavra traduz 'desavença'?",
+    "correctAnswer": "disagreement",
+    "options": ["disagreement", "agreement", "compromise", "understanding"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'madrasta'?",
+    "correctAnswer": "stepmother",
+    "options": ["stepmother", "mother-in-law", "grandmother", "aunt"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'enteado'?",
+    "correctAnswer": "stepson",
+    "options": ["stepson", "grandson", "nephew", "cousin"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução correta de 'afeto'?",
+    "correctAnswer": "affection",
+    "options": ["affection", "indifference", "anger", "fear"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'compreensão' em inglês?",
+    "correctAnswer": "understanding",
+    "options": ["understanding", "misunderstanding", "confusion", "ignorance"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'conflito'?",
+    "correctAnswer": "conflict",
+    "options": ["conflict", "harmony", "peace", "agreement"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual palavra traduz 'empatia'?",
+    "correctAnswer": "empathy",
+    "options": ["empathy", "apathy", "sympathy", "antipathy"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'amante' em inglês?",
+    "correctAnswer": "lover",
+    "options": ["lover", "friend", "spouse", "companion"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'infidelidade'?",
+    "correctAnswer": "infidelity",
+    "options": ["infidelity", "fidelity", "loyalty", "devotion"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução correta de 'respeito'?",
+    "correctAnswer": "respect",
+    "options": ["respect", "disrespect", "disdain", "contempt"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'confiança' em inglês?",
+    "correctAnswer": "trust",
+    "options": ["trust", "distrust", "doubt", "suspicion"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'intimidade'?",
+    "correctAnswer": "intimacy",
+    "options": ["intimacy", "distance", "coldness", "indifference"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual palavra traduz 'padrasto'?",
+    "correctAnswer": "stepfather",
+    "options": ["stepfather", "father-in-law", "grandfather", "uncle"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'enteada'?",
+    "correctAnswer": "stepdaughter",
+    "options": ["stepdaughter", "granddaughter", "niece", "cousin"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'parentesco'?",
+    "correctAnswer": "kinship",
+    "options": ["kinship", "friendship", "enmity", "alliance"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução correta de 'divergência'?",
+    "correctAnswer": "divergence",
+    "options": ["divergence", "convergence", "agreement", "harmony"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'solidariedade' em inglês?",
+    "correctAnswer": "solidarity",
+    "options": ["solidarity", "division", "conflict", "opposition"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'cumplicidade'?",
+    "correctAnswer": "complicity",
+    "options": ["complicity", "innocence", "honesty", "integrity"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual palavra traduz 'abdicação'?",
+    "correctAnswer": "abdication",
+    "options": ["abdication", "assumption", "acceptance", "engagement"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'afinidade'?",
+    "correctAnswer": "affinity",
+    "options": ["affinity", "aversion", "opposition", "contrast"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'legatário'?",
+    "correctAnswer": "heir",
+    "options": ["heir", "benefactor", "testator", "administrator"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução correta de 'ancestral'?",
+    "correctAnswer": "ancestor",
+    "options": ["ancestor", "descendant", "predecessor", "successor"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'linhagem' em inglês?",
+    "correctAnswer": "lineage",
+    "options": ["lineage", "legacy", "heritage", "ancestry"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'filiação'?",
+    "correctAnswer": "affiliation",
+    "options": ["affiliation", "dissolution", "separation", "disconnection"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual palavra traduz 'coabitação'?",
+    "correctAnswer": "cohabitation",
+    "options": ["cohabitation", "separation", "divorce", "estrangement"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'consanguinidade'?",
+    "correctAnswer": "consanguinity",
+    "options": ["consanguinity", "affinity", "kinship", "relationship"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'tutela'?",
+    "correctAnswer": "guardianship",
+    "options": ["guardianship", "custody", "inheritance", "succession"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução correta de 'manutenção'?",
+    "correctAnswer": "maintenance",
+    "options": ["maintenance", "support", "alimony", "sustenance"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'deserdação' em inglês?",
+    "correctAnswer": "disinheritance",
+    "options": ["disinheritance", "inheritance", "bequest", "legacy"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'adoção'?",
+    "correctAnswer": "adoption",
+    "options": ["adoption", "succession", "inheritance", "appointment"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual palavra traduz 'separação'?",
+    "correctAnswer": "separation",
+    "options": ["separation", "union", "marriage", "commitment"],
+    "difficulty": "hard"
+  }
+]

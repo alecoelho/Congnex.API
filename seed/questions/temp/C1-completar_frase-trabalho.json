@@ -1,0 +1,522 @@
+[
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Após anos de dedicação, ela finalmente recebeu uma ___ bem-merecida.",
+    "correctAnswer": "promotion",
+    "options": ["promotion", "retirement", "dismissal", "transfer"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "O gerente pediu que todos os funcionários enviassem seus relatórios antes do ___.",
+    "correctAnswer": "deadline",
+    "options": ["deadline", "overtime", "workflow", "turnover"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Ela entregou seu ___ de duas semanas antes de deixar a empresa.",
+    "correctAnswer": "notice",
+    "options": ["notice", "contract", "payslip", "invoice"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "O novo funcionário precisou assinar um ___ de confidencialidade antes de começar.",
+    "correctAnswer": "agreement",
+    "options": ["agreement", "receipt", "schedule", "bulletin"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Durante a entrevista, o candidato destacou suas habilidades de ___ em equipe.",
+    "correctAnswer": "teamwork",
+    "options": ["teamwork", "overtime", "hiring", "payroll"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "O departamento de ___ é responsável por recrutar novos talentos para a empresa.",
+    "correctAnswer": "human resources",
+    "options": ["human resources", "accounting", "logistics", "marketing"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Os funcionários receberam um ___ anual como recompensa pelo desempenho excepcional.",
+    "correctAnswer": "bonus",
+    "options": ["bonus", "penalty", "deduction", "absence"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "A reunião foi ___ para a próxima semana devido a conflitos de agenda.",
+    "correctAnswer": "rescheduled",
+    "options": ["rescheduled", "cancelled", "attended", "launched"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Ela tem trabalhado como ___ há mais de dez anos e possui vasta experiência no setor.",
+    "correctAnswer": "freelancer",
+    "options": ["freelancer", "intern", "receptionist", "janitor"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "O diretor solicitou um ___ detalhado sobre o progresso do projeto.",
+    "correctAnswer": "report",
+    "options": ["report", "refund", "complaint", "estimate"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "O candidato foi convocado para uma ___ de emprego na próxima terça-feira.",
+    "correctAnswer": "job interview",
+    "options": ["job interview", "board meeting", "performance review", "training session"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Ele trabalhou ___ para terminar o projeto antes do prazo.",
+    "correctAnswer": "overtime",
+    "options": ["overtime", "part-time", "remotely", "casually"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "A empresa oferece um excelente ___ de benefícios para seus funcionários.",
+    "correctAnswer": "package",
+    "options": ["package", "schedule", "briefing", "folder"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "O novo ___ de trabalho permite que os funcionários trabalhem de casa dois dias por semana.",
+    "correctAnswer": "policy",
+    "options": ["policy", "salary", "award", "budget"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "A empresa decidiu ___ dez novos funcionários para expandir sua equipe de vendas.",
+    "correctAnswer": "hire",
+    "options": ["hire", "fire", "train", "suspend"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Sua ___ curricular impressionou todos os membros do comitê de seleção.",
+    "correctAnswer": "résumé",
+    "options": ["résumé", "memo", "agenda", "brochure"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "O ___ de trabalho saudável aumenta significativamente a produtividade da equipe.",
+    "correctAnswer": "environment",
+    "options": ["environment", "overtime", "calendar", "target"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "A empresa implementou um programa de ___ para desenvolver as habilidades dos líderes emergentes.",
+    "correctAnswer": "mentorship",
+    "options": ["mentorship", "outsourcing", "downsizing", "benchmarking"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "O diretor optou por ___ parte das operações para reduzir custos operacionais.",
+    "correctAnswer": "outsource",
+    "options": ["outsource", "subsidize", "delegate", "consolidate"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "A alta ___ de funcionários tem causado instabilidade na equipe de desenvolvimento.",
+    "correctAnswer": "turnover",
+    "options": ["turnover", "absenteeism", "retention", "engagement"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Após a fusão, a empresa passou por uma reestruturação significativa que incluiu ___.",
+    "correctAnswer": "downsizing",
+    "options": ["downsizing", "onboarding", "upskilling", "networking"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "O gerente de projetos precisou ___ as responsabilidades entre os membros da equipe de forma equilibrada.",
+    "correctAnswer": "allocate",
+    "options": ["allocate", "implement", "negotiate", "supervise"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "O processo de ___ garante que os novos contratados se adaptem rapidamente à cultura organizacional.",
+    "correctAnswer": "onboarding",
+    "options": ["onboarding", "offboarding", "headhunting", "benchmarking"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "A diretora precisou ___ suas metas pessoais com os objetivos estratégicos da organização.",
+    "correctAnswer": "align",
+    "options": ["align", "fulfill", "exceed", "revise"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Ele demonstrou grande capacidade de ___ ao liderar equipes em ambientes de alta pressão.",
+    "correctAnswer": "resilience",
+    "options": ["resilience", "compliance", "diligence", "persistence"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "A empresa busca profissionais com forte ___ analítico para integrar o time de estratégia.",
+    "correctAnswer": "acumen",
+    "options": ["acumen", "aptitude", "prowess", "competency"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "O comitê decidiu ___ a proposta antes de apresentá-la ao conselho diretivo.",
+    "correctAnswer": "refine",
+    "options": ["refine", "submit", "approve", "archive"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "A empresa tem investido em ___ para aumentar a eficiência de seus processos internos.",
+    "correctAnswer": "automation",
+    "options": ["automation", "decentralization", "expansion", "recruitment"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "O líder eficaz sabe como ___ seus colaboradores em momentos de incerteza organizacional.",
+    "correctAnswer": "motivate",
+    "options": ["motivate", "evaluate", "promote", "discipline"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Após meses de negociação, as duas empresas finalmente chegaram a um ___ mutuamente benéfico.",
+    "correctAnswer": "compromise",
+    "options": ["compromise", "settlement", "verdict", "covenant"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "O profissional de TI recebeu elogios por sua capacidade de ___ problemas técnicos rapidamente.",
+    "correctAnswer": "troubleshoot",
+    "options": ["troubleshoot", "implement", "configure", "maintain"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "A reunião de ___ permitiu que a equipe avaliasse o desempenho do trimestre e definisse novas metas.",
+    "correctAnswer": "appraisal",
+    "options": ["appraisal", "orientation", "induction", "calibration"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Para crescer na carreira, é essencial cultivar uma sólida rede de ___ profissionais.",
+    "correctAnswer": "contacts",
+    "options": ["contacts", "references", "endorsements", "affiliations"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "A empresa decidiu ___ suas operações internacionalmente para capturar novos mercados emergentes.",
+    "correctAnswer": "expand",
+    "options": ["expand", "consolidate", "restrict", "streamline"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "O plano de ___ de carreira foi elaborado em conjunto com o gerente de recursos humanos.",
+    "correctAnswer": "development",
+    "options": ["development", "succession", "transition", "evaluation"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "A proposta foi recusada porque os termos não eram ___ com os objetivos financeiros da empresa.",
+    "correctAnswer": "viable",
+    "options": ["viable", "flexible", "coherent", "transparent"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Seu histórico de ___ consistente ao longo de uma década foi o principal fator para sua nomeação como CEO.",
+    "correctAnswer": "outperforming",
+    "options": ["outperforming", "overseeing", "surpassing", "exceeding"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "O conselho exigiu que a gestão implementasse medidas mais rigorosas de ___ para evitar escândalos futuros.",
+    "correctAnswer": "accountability",
+    "options": ["accountability", "transparency", "compliance", "governance"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "A empresa adotou uma abordagem de ___ para identificar e reter seus profissionais mais talentosos.",
+    "correctAnswer": "talent acquisition",
+    "options": ["talent acquisition", "workforce planning", "succession management", "competency mapping"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "A diretora optou por uma estratégia de ___ para consolidar a posição da empresa no mercado global.",
+    "correctAnswer": "vertical integration",
+    "options": ["vertical integration", "horizontal expansion", "market penetration", "brand diversification"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "O executivo teve que lidar com um sério dilema ético quando descobriu que seu subordinado estava ___ dados financeiros.",
+    "correctAnswer": "falsifying",
+    "options": ["falsifying", "withholding", "misreporting", "manipulating"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Após a aquisição, a empresa passou por um processo de ___ para eliminar redundâncias e maximizar sinergias.",
+    "correctAnswer": "restructuring",
+    "options": ["restructuring", "rebranding", "realignment", "rightsizing"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Sua reputação como negociador habilidoso foi construída com base em sua capacidade de encontrar ___ em situações aparentemente intratáveis.",
+    "correctAnswer": "common ground",
+    "options": ["common ground", "mutual interest", "shared purpose", "joint consensus"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "O consultor recomendou a adoção de uma estrutura de ___ para melhorar a eficiência operacional da organização.",
+    "correctAnswer": "lean management",
+    "options": ["lean management", "agile methodology", "balanced scorecard", "six sigma"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Profissionais que conseguem ___ múltiplas prioridades competindo entre si são altamente valorizados no mercado executivo.",
+    "correctAnswer": "juggle",
+    "options": ["juggle", "handle", "manage", "oversee"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "A empresa está comprometida com práticas de ___ que garantam equidade salarial independentemente de gênero ou etnia.",
+    "correctAnswer": "pay equity",
+    "options": ["pay equity", "wage transparency", "salary benchmarking", "compensation parity"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "O líder demonstrou uma rara capacidade de ___ as perspectivas divergentes de diferentes departamentos em uma visão coesa.",
+    "correctAnswer": "synthesize",
+    "options": ["synthesize", "mediate", "reconcile", "amalgamate"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "A proposta de ___ foi apresentada ao conselho com o objetivo de revitalizar a cultura organizacional da empresa.",
+    "correctAnswer": "cultural transformation",
+    "options": ["cultural transformation", "organizational change", "corporate renewal", "institutional reform"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "O desempenho ___ da equipe ao longo do último ano foi reconhecido com um prêmio de excelência corporativa.",
+    "correctAnswer": "exemplary",
+    "options": ["exemplary", "commendable", "satisfactory", "noteworthy"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "A diretora financeira alertou que a empresa precisaria ___ suas reservas caso os resultados do próximo trimestre fossem decepcionantes.",
+    "correctAnswer": "liquidate",
+    "options": ["liquidate", "reallocate", "redistribute", "leverage"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "A negociação foi tão bem-sucedida que ambas as partes sentiram que haviam ___ o melhor acordo possível.",
+    "correctAnswer": "brokered",
+    "options": ["brokered", "clinched", "sealed", "forged"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "A empresa é conhecida por sua cultura de ___, onde ideias inovadoras são incentivadas em todos os níveis hierárquicos.",
+    "correctAnswer": "intrapreneurship",
+    "options": ["intrapreneurship", "entrepreneurship", "mentorship", "stewardship"],
+    "difficulty": "hard"
+  }
+]

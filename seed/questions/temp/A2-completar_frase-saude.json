@@ -1,0 +1,502 @@
+[
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "I feel very ___ when I exercise regularly.",
+    "correctAnswer": "healthy",
+    "options": ["healthy", "sickness", "hospital", "medicine"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "She drinks ___ glasses of water every day.",
+    "correctAnswer": "eight",
+    "options": ["eight", "apple", "food", "sleep"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "My doctor told me to eat more ___.",
+    "correctAnswer": "vegetables",
+    "options": ["vegetables", "chocolate", "sugar", "salt"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "A good night's ___ is important for your health.",
+    "correctAnswer": "sleep",
+    "options": ["sleep", "exercise", "food", "water"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "I have a ___ appointment tomorrow morning.",
+    "correctAnswer": "doctor",
+    "options": ["doctor", "teacher", "bus", "friend"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "When I'm ___, I stay home and rest.",
+    "correctAnswer": "sick",
+    "options": ["sick", "happy", "busy", "young"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "The ___ gave me medicine for my cold.",
+    "correctAnswer": "doctor",
+    "options": ["doctor", "nurse", "cook", "teacher"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "I like to ___ three times a week.",
+    "correctAnswer": "exercise",
+    "options": ["exercise", "sleep", "work", "cook"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "He has a bad ___ and cannot eat solid food.",
+    "correctAnswer": "throat",
+    "options": ["throat", "head", "foot", "hand"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "My ___ hurts when I study for too long.",
+    "correctAnswer": "head",
+    "options": ["head", "foot", "hand", "arm"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Eating ___ fruit is good for your body.",
+    "correctAnswer": "fresh",
+    "options": ["fresh", "old", "hot", "cold"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "I ___ my teeth every morning and night.",
+    "correctAnswer": "brush",
+    "options": ["brush", "wash", "clean", "fix"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "The ___ at the hospital helped me feel better.",
+    "correctAnswer": "nurse",
+    "options": ["nurse", "teacher", "cook", "driver"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Running is a good ___ for your fitness.",
+    "correctAnswer": "sport",
+    "options": ["sport", "food", "medicine", "book"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "You should ___ five servings of fruit daily.",
+    "correctAnswer": "eat",
+    "options": ["eat", "drink", "sleep", "run"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Smoking is ___ for your health.",
+    "correctAnswer": "bad",
+    "options": ["bad", "good", "easy", "nice"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "I need to ___ my weight by eating better.",
+    "correctAnswer": "control",
+    "options": ["control", "increase", "measure", "watch"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "A balanced ___ includes proteins, carbohydrates, and fats.",
+    "correctAnswer": "diet",
+    "options": ["diet", "exercise", "sleep", "rest"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Regular physical ___ helps prevent many diseases.",
+    "correctAnswer": "activity",
+    "options": ["activity", "food", "sleep", "medicine"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "The dentist recommended I use dental ___ twice daily.",
+    "correctAnswer": "floss",
+    "options": ["floss", "brush", "wash", "clean"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Mental health is as ___ as physical health.",
+    "correctAnswer": "important",
+    "options": ["important", "difficult", "easy", "simple"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "I go to the ___ for my annual check-up.",
+    "correctAnswer": "clinic",
+    "options": ["clinic", "school", "shop", "park"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "He suffered from a serious ___ last year.",
+    "correctAnswer": "illness",
+    "options": ["illness", "game", "work", "hobby"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Staying ___ is important during cold season.",
+    "correctAnswer": "warm",
+    "options": ["warm", "cool", "busy", "quiet"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Yoga helps me relax and reduce ___.",
+    "correctAnswer": "stress",
+    "options": ["stress", "weight", "sleep", "hunger"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "I take a ___ supplement to stay healthy.",
+    "correctAnswer": "vitamin",
+    "options": ["vitamin", "coffee", "snack", "drink"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "The ___ checked my blood pressure today.",
+    "correctAnswer": "nurse",
+    "options": ["nurse", "teacher", "worker", "driver"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Drinking alcohol in ___ is safer than drinking too much.",
+    "correctAnswer": "moderation",
+    "options": ["moderation", "quantity", "excess", "amounts"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "I need to ___ my blood test results with my doctor.",
+    "correctAnswer": "discuss",
+    "options": ["discuss", "complete", "finish", "write"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Staying hydrated helps your body ___ properly.",
+    "correctAnswer": "function",
+    "options": ["function", "grow", "sleep", "rest"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "The doctor ___ me to reduce my salt intake.",
+    "correctAnswer": "advised",
+    "options": ["advised", "told", "ordered", "suggested"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Getting ___ sunlight is good for your vitamin D levels.",
+    "correctAnswer": "enough",
+    "options": ["enough", "many", "some", "little"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "My allergies ___ when pollen levels are high.",
+    "correctAnswer": "worsen",
+    "options": ["worsen", "improve", "change", "increase"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "She joined a ___ class to improve her fitness.",
+    "correctAnswer": "gym",
+    "options": ["gym", "school", "work", "office"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Regular ___ helps reduce blood pressure naturally.",
+    "correctAnswer": "meditation",
+    "options": ["meditation", "work", "study", "cooking"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "The prescription ___ is written on the bottle.",
+    "correctAnswer": "label",
+    "options": ["label", "name", "mark", "sign"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Cardiovascular ___ includes activities like running and swimming.",
+    "correctAnswer": "exercise",
+    "options": ["exercise", "rest", "food", "sleep"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "The patient's ___ improved significantly after treatment.",
+    "correctAnswer": "condition",
+    "options": ["condition", "mood", "attitude", "feeling"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "A proper ___ of medication is essential for effectiveness.",
+    "correctAnswer": "dosage",
+    "options": ["dosage", "amount", "time", "measure"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "The ___ recommended surgery for my knee problem.",
+    "correctAnswer": "specialist",
+    "options": ["specialist", "friend", "teacher", "worker"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Chronic ___ requires long-term medical management.",
+    "correctAnswer": "pain",
+    "options": ["pain", "illness", "disease", "sickness"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "The hospital provided excellent ___ during my recovery.",
+    "correctAnswer": "care",
+    "options": ["care", "food", "help", "support"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Maintaining a healthy weight ___ your overall well-being.",
+    "correctAnswer": "improves",
+    "options": ["improves", "reduces", "decreases", "changes"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "The ___ results showed no serious abnormalities.",
+    "correctAnswer": "test",
+    "options": ["test", "exam", "check", "scan"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Preventive ___ is better than waiting for illness to occur.",
+    "correctAnswer": "care",
+    "options": ["care", "exercise", "food", "sleep"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "The patient experienced severe ___ in his lower back.",
+    "correctAnswer": "discomfort",
+    "options": ["discomfort", "pleasure", "feeling", "sensation"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "My doctor ___ that I need more physical activity.",
+    "correctAnswer": "mentioned",
+    "options": ["mentioned", "said", "told", "explained"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Proper nutrition ___ your immune system to fight infections.",
+    "correctAnswer": "strengthens",
+    "options": ["strengthens", "weakens", "reduces", "decreases"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "The side effects of the medication ___ after a few days.",
+    "correctAnswer": "disappeared",
+    "options": ["disappeared", "increased", "stayed", "remained"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "She has a strong ___ to cardiovascular disease in her family.",
+    "correctAnswer": "history",
+    "options": ["history", "problem", "issue", "concern"],
+    "difficulty": "hard"
+  }
+]

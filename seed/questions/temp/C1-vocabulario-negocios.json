@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027synergy\u0027 no contexto empresarial?",
+        "difficulty":  "easy",
+        "options":  [
+                        "A interação de dois ou mais elementos que produz um efeito combinado maior que a soma dos seus efeitos individuais",
+                        "Uma estratégia de redução de custos operacionais",
+                        "O processo de automação industrial completa",
+                        "A eliminação de postos de trabalho redundantes"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "A interação de dois ou mais elementos que produz um efeito combinado maior que a soma dos seus efeitos individuais"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027due diligence\u0027 em transações comerciais?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Investigação minuciosa e avaliação abrangente de uma empresa antes de uma transação financeira",
+                        "O processo de pagamento de impostos devidos",
+                        "A execução de um contrato no prazo estabelecido",
+                        "O cumprimento de obrigações trabalhistas"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Investigação minuciosa e avaliação abrangente de uma empresa antes de uma transação financeira"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027leverage\u0027 em finanças?",
+        "difficulty":  "easy",
+        "options":  [
+                        "O uso de capital emprestado para aumentar o retorno potencial de um investimento",
+                        "A diminuição de riscos através de diversificação",
+                        "O processo de venda de ativos imóveis",
+                        "A redistribuição de lucros entre acionistas"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "O uso de capital emprestado para aumentar o retorno potencial de um investimento"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027stakeholder\u0027 em gestão empresarial?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Qualquer pessoa ou entidade que possui interesse nos resultados de uma organização",
+                        "Exclusivamente os proprietários da empresa",
+                        "Apenas os empregados de tempo integral",
+                        "Os consultores externos contratados"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Qualquer pessoa ou entidade que possui interesse nos resultados de uma organização"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027cash flow\u0027 em contabilidade?",
+        "difficulty":  "easy",
+        "options":  [
+                        "O movimento de dinheiro que entra e sai de uma empresa em um período específico",
+                        "O saldo final de uma conta bancária",
+                        "O valor total de vendas realizadas",
+                        "A margem de lucro bruto"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "O movimento de dinheiro que entra e sai de uma empresa em um período específico"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027amortization\u0027 no contexto financeiro?",
+        "difficulty":  "easy",
+        "options":  [
+                        "O processo de reembolso de uma dívida através de pagamentos periódicos e regulares",
+                        "A compra de ativos intangíveis",
+                        "A redução anual do valor de um imóvel",
+                        "O investimento em mercados emergentes"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "O processo de reembolso de uma dívida através de pagamentos periódicos e regulares"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027covenant\u0027 em contratos financeiros?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Uma promessa ou restrição legal que obriga uma das partes a cumprir certas obrigações",
+                        "Um acordo de confidencialidade entre empresas",
+                        "Uma cláusula de revisão de preços",
+                        "Um contrato de aluguel imobiliário"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Uma promessa ou restrição legal que obriga uma das partes a cumprir certas obrigações"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027depreciation\u0027 em contabilidade?",
+        "difficulty":  "easy",
+        "options":  [
+                        "A redução gradual do valor de um ativo fixo ao longo do tempo devido ao uso e desgaste",
+                        "A diminuição da moeda em relação ao câmbio internacional",
+                        "O desconto oferecido em vendas de quantidade",
+                        "O custo de manutenção de equipamentos"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "A redução gradual do valor de um ativo fixo ao longo do tempo devido ao uso e desgaste"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027arbitrage\u0027 em investimentos?",
+        "difficulty":  "easy",
+        "options":  [
+                        "A exploração de diferenças de preço do mesmo ativo em mercados diferentes para obter lucro",
+                        "A resolução de disputas comerciais através de mediação",
+                        "A estratégia de compra e venda de ações",
+                        "O processo de avaliação de risco de crédito"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "A exploração de diferenças de preço do mesmo ativo em mercados diferentes para obter lucro"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027liquidity\u0027 em finanças?",
+        "difficulty":  "easy",
+        "options":  [
+                        "A capacidade de converter ativos em dinheiro rapidamente e sem perda significativa de valor",
+                        "O valor total de bens e propriedades possuídas",
+                        "A quantidade de empréstimos contraídos",
+                        "O saldo positivo em conta corrente"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "A capacidade de converter ativos em dinheiro rapidamente e sem perda significativa de valor"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027valuation\u0027 no contexto empresarial?",
+        "difficulty":  "easy",
+        "options":  [
+                        "O processo de determinação do valor monetário de uma empresa ou ativo",
+                        "A avaliação de desempenho dos funcionários",
+                        "A análise de satisfação do cliente",
+                        "O cálculo de impostos devidos"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "O processo de determinação do valor monetário de uma empresa ou ativo"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027portfolio\u0027 em investimentos?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Uma coleção de investimentos diversificados de propriedade de uma pessoa ou instituição",
+                        "Um documento que comprova a posse de imóveis",
+                        "Uma estratégia exclusiva de economia pessoal",
+                        "O relatório anual de uma empresa"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Uma coleção de investimentos diversificados de propriedade de uma pessoa ou instituição"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027audit\u0027 em contexto contábil?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Exame sistemático e independente dos registros e atividades financeiras de uma organização",
+                        "O processo de cobrança de impostos atrasados",
+                        "A revisão periódica de salários dos funcionários",
+                        "A inspeção de conformidade ambiental"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Exame sistemático e independente dos registros e atividades financeiras de uma organização"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027equity\u0027 em finanças?",
+        "difficulty":  "easy",
+        "options":  [
+                        "O valor líquido de um negócio, calculado como ativos menos passivos",
+                        "A parte das ações de uma empresa cotadas na bolsa",
+                        "O custo de oportunidade de um investimento",
+                        "O lucro obtido em vendas de produtos"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "O valor líquido de um negócio, calculado como ativos menos passivos"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027dividend\u0027 em investimentos?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Uma distribuição de lucros aos acionistas de uma empresa, proporcionalmente às suas ações",
+                        "O aumento do preço das ações em bolsa",
+                        "O juros pagos por depósitos bancários",
+                        "A taxa de crescimento anual da empresa"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Uma distribuição de lucros aos acionistas de uma empresa, proporcionalmente às suas ações"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027merger\u0027 em contexto corporativo?",
+        "difficulty":  "easy",
+        "options":  [
+                        "A combinação de duas ou mais empresas em uma única entidade legal",
+                        "O fechamento de uma filial de uma empresa",
+                        "A transferência de funcionários entre departamentos",
+                        "O reposicionamento de marca no mercado"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "A combinação de duas ou mais empresas em uma única entidade legal"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027market share\u0027 em análise de negócios?",
+        "difficulty":  "easy",
+        "options":  [
+                        "A percentagem de vendas ou faturamento que uma empresa possui em relação ao total do mercado",
+                        "O preço máximo que um produto pode alcançar",
+                        "A divisão de lucros entre investidores",
+                        "A quantidade de ações distribuídas aos funcionários"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "A percentagem de vendas ou faturamento que uma empresa possui em relação ao total do mercado"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027default\u0027 em empréstimos?",
+        "difficulty":  "medium",
+        "options":  [
+                        "O não pagamento de uma obrigação financeira no prazo acordado",
+                        "A configuração padrão de um sistema",
+                        "O valor inicial de um investimento",
+                        "O desconto automático em compras"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "O não pagamento de uma obrigação financeira no prazo acordado"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027derivative\u0027 em mercados financeiros?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Um instrumento financeiro cujo valor depende do valor de outro ativo subjacente",
+                        "Uma conta bancária criada a partir de outra",
+                        "Uma empresa filial de uma corporação maior",
+                        "Um produto secundário de uma indústria"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Um instrumento financeiro cujo valor depende do valor de outro ativo subjacente"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027collateral\u0027 em empréstimos?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Bens ou ativos que um mutuário oferece como garantia para um empréstimo",
+                        "O valor total de um empréstimo contratado",
+                        "A taxa de juros aplicada ao financiamento",
+                        "O período de carência de um crédito"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Bens ou ativos que um mutuário oferece como garantia para um empréstimo"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027solvency\u0027 em contexto financeiro?",
+        "difficulty":  "medium",
+        "options":  [
+                        "A capacidade de uma empresa de cumprir suas obrigações de longo prazo com seus ativos",
+                        "A habilidade de gerar vendas rapidamente",
+                        "O processo de dissolução de uma empresa",
+                        "A redução de despesas operacionais"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "A capacidade de uma empresa de cumprir suas obrigações de longo prazo com seus ativos"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027hedge\u0027 em estratégias de investimento?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Uma estratégia para reduzir o risco de perda em um investimento através de posições compensatórias",
+                        "O aumento de posições em um ativo específico",
+                        "A venda de todos os investimentos",
+                        "A compra de imóveis como investimento"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Uma estratégia para reduzir o risco de perda em um investimento através de posições compensatórias"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027volatility\u0027 em mercados financeiros?",
+        "difficulty":  "medium",
+        "options":  [
+                        "A medida da variação do preço de um ativo durante um período de tempo",
+                        "A tendência de crescimento de uma ação",
+                        "O volume total de negociações",
+                        "A rentabilidade esperada de um investimento"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "A medida da variação do preço de um ativo durante um período de tempo"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027yield\u0027 em investimentos de renda fixa?",
+        "difficulty":  "medium",
+        "options":  [
+                        "O retorno percentual gerado por um investimento em relação ao seu valor inicial",
+                        "O valor nominal de um título ou ação",
+                        "A data de vencimento de um empréstimo",
+                        "O desconto oferecido na compra de títulos"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "O retorno percentual gerado por um investimento em relação ao seu valor inicial"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027disbursement\u0027 em contabilidade?",
+        "difficulty":  "medium",
+        "options":  [
+                        "O pagamento de dinheiro de uma conta para cumprir uma obrigação",
+                        "A transferência de fundos entre contas internas",
+                        "O processo de emissão de cheques",
+                        "O recebimento de juros de investimentos"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "O pagamento de dinheiro de uma conta para cumprir uma obrigação"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027escrow\u0027 em transações imobiliárias?",
+        "difficulty":  "medium",
+        "options":  [
+                        "A retenção de fundos ou documentos por um terceiro até que as condições de um contrato sejam cumpridas",
+                        "O imposto cobrado na transferência de propriedade",
+                        "A documentação necessária para venda de imóvel",
+                        "O processo de registro de propriedade"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "A retenção de fundos ou documentos por um terceiro até que as condições de um contrato sejam cumpridas"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027insolvency\u0027 em contexto legal-financeiro?",
+        "difficulty":  "medium",
+        "options":  [
+                        "A situação em que uma pessoa ou empresa não consegue pagar suas dívidas",
+                        "A falta de registros contábeis adequados",
+                        "O atraso no pagamento de uma fatura",
+                        "A dissolução de um contrato comercial"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "A situação em que uma pessoa ou empresa não consegue pagar suas dívidas"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027ROI\u0027 (Return on Investment)?",
+        "difficulty":  "medium",
+        "options":  [
+                        "A medida de lucro obtido em relação ao capital investido, expressa em percentual",
+                        "O risco de perda em operações comerciais",
+                        "A rentabilidade garantida de uma aplicação",
+                        "O tempo necessário para recuperar um investimento"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "A medida de lucro obtido em relação ao capital investido, expressa em percentual"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027debenture\u0027 em finanças corporativas?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Um título de dívida não garantido emitido por uma empresa para arrecadar capital",
+                        "Uma ação ordinária com direito a voto",
+                        "Um contrato de empréstimo bancário",
+                        "Uma apólice de seguro empresarial"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Um título de dívida não garantido emitido por uma empresa para arrecadar capital"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027default risk\u0027 em análise de crédito?",
+        "difficulty":  "medium",
+        "options":  [
+                        "A probabilidade de um devedor não honrar suas obrigações de pagamento",
+                        "A margem de lucro esperada",
+                        "A variação do câmbio em operações internacionais",
+                        "O desconto oferecido para pagamento antecipado"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "A probabilidade de um devedor não honrar suas obrigações de pagamento"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027burn rate\u0027 em startups?",
+        "difficulty":  "medium",
+        "options":  [
+                        "A taxa na qual uma empresa consome seu capital de reserva antes de gerar lucro",
+                        "A taxa de crescimento anual de uma empresa",
+                        "O retorno percentual de um investimento",
+                        "A redução de custos operacionais"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "A taxa na qual uma empresa consome seu capital de reserva antes de gerar lucro"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027accrual\u0027 em contabilidade?",
+        "difficulty":  "medium",
+        "options":  [
+                        "O registro de receitas ou despesas no período em que ocorrem, independentemente do recebimento ou pagamento do dinheiro",
+                        "O pagamento de uma obrigação financeira",
+                        "A acumulação de juros em uma conta bancária",
+                        "O desconto oferecido por pagamento antecipado"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "O registro de receitas ou despesas no período em que ocorrem, independentemente do recebimento ou pagamento do dinheiro"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027expense ratio\u0027 em fundos de investimento?",
+        "difficulty":  "medium",
+        "options":  [
+                        "A percentagem do patrimônio do fundo deduzida anualmente para cobrir custos operacionais e de gestão",
+                        "A proporção de retorno gerado por um fundo",
+                        "O valor mínimo para investir em um fundo",
+                        "A quantidade de ações que o fundo pode possuir"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "A percentagem do patrimônio do fundo deduzida anualmente para cobrir custos operacionais e de gestão"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027tranche\u0027 em estruturação de dívida?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Uma parcela ou série de um instrumento de dívida com diferentes características de risco e retorno",
+                        "O período de reembolso de um empréstimo",
+                        "A taxa de juros cobrada em financiamentos",
+                        "O valor mínimo de investimento em fundos"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Uma parcela ou série de um instrumento de dívida com diferentes características de risco e retorno"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027covenant breach\u0027 em contexto legal-financeiro?",
+        "difficulty":  "hard",
+        "options":  [
+                        "A violação de uma cláusula obrigatória em um contrato de empréstimo ou valor mobiliário",
+                        "A antecipação do pagamento de uma dívida",
+                        "O aumento da taxa de juros em um empréstimo",
+                        "A transferência de propriedade de um ativo"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "A violação de uma cláusula obrigatória em um contrato de empréstimo ou valor mobiliário"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027securitization\u0027 em mercados de capitais?",
+        "difficulty":  "hard",
+        "options":  [
+                        "O processo de conversão de ativos ilíquidos em títulos negociáveis para arrecadar capital",
+                        "A compra de ações de uma empresa",
+                        "O registro de uma marca comercial",
+                        "A auditoria de conformidade regulatória"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "O processo de conversão de ativos ilíquidos em títulos negociáveis para arrecadar capital"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027impairment\u0027 em contabilidade?",
+        "difficulty":  "hard",
+        "options":  [
+                        "A redução permanente do valor contábil de um ativo quando seu valor de mercado cai abaixo do valor registrado",
+                        "O atraso no recebimento de uma fatura",
+                        "A perda de direito de propriedade",
+                        "O cancelamento de um contrato comercial"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "A redução permanente do valor contábil de um ativo quando seu valor de mercado cai abaixo do valor registrado"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027subordinated debt\u0027 em estrutura de capital?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Dívida que tem menor prioridade de reembolso em relação a outras dívidas em caso de falência",
+                        "Um empréstimo concedido por um colega de trabalho",
+                        "Uma dívida convertida em ações",
+                        "Um crédito com juros zero"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Dívida que tem menor prioridade de reembolso em relação a outras dívidas em caso de falência"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027goodwill\u0027 em avaliação de empresas?",
+        "difficulty":  "hard",
+        "options":  [
+                        "O valor intangível de uma empresa relacionado à sua reputação, marca e relacionamento com clientes",
+                        "O lucro esperado para o próximo exercício fiscal",
+                        "A intenção de pagar dívidas em dia",
+                        "O abono salarial concedido aos funcionários"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "O valor intangível de uma empresa relacionado à sua reputação, marca e relacionamento com clientes"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027Basel III\u0027 em regulação bancária?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Um conjunto de regulamentações internacionais que estabelecem requisitos de capital e liquidez para bancos",
+                        "Um sistema de contabilidade bancária simplificada",
+                        "Uma taxa de câmbio internacional",
+                        "Um protocolo de segurança de dados"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Um conjunto de regulamentações internacionais que estabelecem requisitos de capital e liquidez para bancos"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027duration\u0027 em análise de títulos de renda fixa?",
+        "difficulty":  "hard",
+        "options":  [
+                        "A medida da sensibilidade do preço de um título às mudanças nas taxas de juros",
+                        "O tempo total até o vencimento de um título",
+                        "A frequência de pagamento de cupons",
+                        "A variação do valor de face de um título"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "A medida da sensibilidade do preço de um título às mudanças nas taxas de juros"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027credit spread\u0027 em mercados de renda fixa?",
+        "difficulty":  "hard",
+        "options":  [
+                        "A diferença de rendimento entre um título corporativo e um título do governo com mesmo vencimento",
+                        "A taxa cobrada por bancos de investimento",
+                        "A margem de lucro de um banco",
+                        "O percentual de juros em um empréstimo"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "A diferença de rendimento entre um título corporativo e um título do governo com mesmo vencimento"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027LCR\u0027 (Liquidity Coverage Ratio)?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Um índice que mede a capacidade de um banco de manter suficiente liquidez para resistir a estresse de 30 dias",
+                        "O percentual de lucro retido por uma empresa",
+                        "A taxa de crescimento anual do setor",
+                        "O indicador de endividamento de uma corporação"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Um índice que mede a capacidade de um banco de manter suficiente liquidez para resistir a estresse de 30 dias"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027convexity\u0027 em análise de títulos?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Uma medida da curvatura da relação entre preço e rendimento de um título, refletindo sua mudança de duração",
+                        "A taxa de inflação esperada",
+                        "O risco cambial de um ativo",
+                        "A elasticidade de demanda de um produto"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Uma medida da curvatura da relação entre preço e rendimento de um título, refletindo sua mudança de duração"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027tranching\u0027 em securitização de ativos?",
+        "difficulty":  "hard",
+        "options":  [
+                        "A divisão de um pool de ativos em diferentes classes com prioridades distintas de recebimento de fluxos de caixa",
+                        "O processo de empacotamento de ativos para venda",
+                        "A classificação de riscos de crédito",
+                        "O calendário de pagamentos de empréstimos"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "A divisão de um pool de ativos em diferentes classes com prioridades distintas de recebimento de fluxos de caixa"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027CDS spread\u0027 em derivativos de crédito?",
+        "difficulty":  "hard",
+        "options":  [
+                        "A taxa de prêmio anual paga para se proteger contra o risco de default de um emissor",
+                        "A diferença entre taxas de juros de dois países",
+                        "O custo de transação em operações cambiais",
+                        "A volatilidade de um mercado de ações"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "A taxa de prêmio anual paga para se proteger contra o risco de default de um emissor"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027notional amount\u0027 em derivativos?",
+        "difficulty":  "hard",
+        "options":  [
+                        "O valor de referência usado para calcular fluxos de caixa em um contrato de derivativo",
+                        "A margem de depósito necessária para negociar futuros",
+                        "O valor real investido em uma posição",
+                        "O lucro esperado de uma operação"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "O valor de referência usado para calcular fluxos de caixa em um contrato de derivativo"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027stressed VaR\u0027 em gestão de risco?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Uma estimativa do valor em risco calculada usando dados de períodos de extrema volatilidade de mercado",
+                        "A volatilidade anual de um ativo",
+                        "O retorno esperado durante crises econômicas",
+                        "A margem mínima exigida em operações"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Uma estimativa do valor em risco calculada usando dados de períodos de extrema volatilidade de mercado"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027basis risk\u0027 em estratégias de hedge?",
+        "difficulty":  "hard",
+        "options":  [
+                        "O risco de que a mudança no preço do instrumento de hedge não corresponda perfeitamente à mudança no ativo protegido",
+                        "O custo de manutenção de uma posição",
+                        "A taxa de juros real de um investimento",
+                        "O risco de inflação em operações internacionais"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "O risco de que a mudança no preço do instrumento de hedge não corresponda perfeitamente à mudança no ativo protegido"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027covenant clause\u0027 em contratos corporativos?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Uma cláusula que estabelece condições e restrições que o mutuário deve cumprir durante a vida do empréstimo",
+                        "Uma disposição que garante a transferência de propriedade",
+                        "Um termo que especifica a data de vencimento",
+                        "Uma regra que define as taxas de juros"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Uma cláusula que estabelece condições e restrições que o mutuário deve cumprir durante a vida do empréstimo"
+    }
+]

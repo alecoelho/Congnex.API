@@ -1,0 +1,502 @@
+﻿[
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "I need to ___ my homework before tomorrow.",
+    "correctAnswer": "finish",
+    "options": ["finish", "finishes", "finishing", "finished"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "The teacher ___ us an interesting lesson yesterday.",
+    "correctAnswer": "gave",
+    "options": ["give", "gave", "gives", "given"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "She is ___ in the library studying for her exam.",
+    "correctAnswer": "studying",
+    "options": ["study", "studies", "studying", "studied"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "The school has a large ___ for sports and activities.",
+    "correctAnswer": "campus",
+    "options": ["campus", "building", "room", "class"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Students must ___ their assignments on time.",
+    "correctAnswer": "submit",
+    "options": ["submit", "submits", "submitting", "submitted"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "He ___ to university next year.",
+    "correctAnswer": "goes",
+    "options": ["go", "goes", "going", "went"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "The ___ explained the difficult concept very well.",
+    "correctAnswer": "teacher",
+    "options": ["teacher", "student", "principal", "librarian"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "We use ___ to write notes during lectures.",
+    "correctAnswer": "pen",
+    "options": ["pen", "pencil", "eraser", "ruler"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "The exam was ___. I found it very difficult.",
+    "correctAnswer": "hard",
+    "options": ["hard", "easy", "simple", "boring"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "I have a ___ class at 9 o'clock in the morning.",
+    "correctAnswer": "math",
+    "options": ["math", "room", "book", "pen"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "The ___ contains many books for students to read.",
+    "correctAnswer": "library",
+    "options": ["library", "classroom", "cafeteria", "gym"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "My brother is ___ for his driver's license.",
+    "correctAnswer": "studying",
+    "options": ["studying", "teaches", "learns", "practices"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "I always ___ the instructions before starting the task.",
+    "correctAnswer": "read",
+    "options": ["read", "reads", "reading", "readed"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "The students took a ___ last week to test their knowledge.",
+    "correctAnswer": "test",
+    "options": ["test", "break", "lunch", "trip"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "She ___ her diploma after completing the course.",
+    "correctAnswer": "received",
+    "options": ["received", "receives", "receive", "receiving"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Good grades ___ hard work and dedication.",
+    "correctAnswer": "require",
+    "options": ["require", "requires", "required", "requiring"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "The ___ is where students eat lunch.",
+    "correctAnswer": "cafeteria",
+    "options": ["cafeteria", "laboratory", "classroom", "office"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "If you want to improve your English, you should ___ every day.",
+    "correctAnswer": "practice",
+    "options": ["practice", "practise", "practicing", "practiced"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "The professor ___ the students to ask questions during the lecture.",
+    "correctAnswer": "encouraged",
+    "options": ["encouraged", "discourages", "discouraged", "encouraging"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "She has been ___ at this university for five years.",
+    "correctAnswer": "studying",
+    "options": ["study", "studies", "studying", "studied"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "The teacher will ___ the exam results next week.",
+    "correctAnswer": "announce",
+    "options": ["announce", "announces", "announced", "announcing"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Students are expected to ___ their research before submitting.",
+    "correctAnswer": "complete",
+    "options": ["complete", "completes", "completed", "completing"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "The course ___ advanced mathematics and statistics.",
+    "correctAnswer": "includes",
+    "options": ["includes", "include", "included", "including"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "I find it difficult to ___ with my schoolwork and part-time job.",
+    "correctAnswer": "balance",
+    "options": ["balance", "balances", "balanced", "balancing"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "The ___ provides guidance to students about their career path.",
+    "correctAnswer": "counselor",
+    "options": ["counselor", "janitor", "cook", "accountant"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "We must ___ respect for other students' opinions in class.",
+    "correctAnswer": "show",
+    "options": ["show", "shows", "showing", "showed"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "The textbook ___ all the topics covered in the semester.",
+    "correctAnswer": "covers",
+    "options": ["covers", "cover", "covering", "covered"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Students need to ___ their progress throughout the course.",
+    "correctAnswer": "track",
+    "options": ["track", "tracks", "tracking", "tracked"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "The school has a policy against ___.",
+    "correctAnswer": "plagiarism",
+    "options": ["plagiarism", "learning", "reading", "writing"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "My grades have ___ since I started studying regularly.",
+    "correctAnswer": "improved",
+    "options": ["improved", "improve", "improves", "improving"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "The student gained a lot of ___ from this educational program.",
+    "correctAnswer": "knowledge",
+    "options": ["knowledge", "experience", "understanding", "learning"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "She ___ to write clearly in her essays.",
+    "correctAnswer": "learned",
+    "options": ["learned", "learns", "learning", "learn"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "The ___ is responsible for managing the school's operations.",
+    "correctAnswer": "principal",
+    "options": ["principal", "student", "cleaner", "cook"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Without proper preparation, it's impossible to ___ the exam.",
+    "correctAnswer": "pass",
+    "options": ["pass", "passes", "passing", "passed"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "The curriculum has been ___ to include modern teaching methods.",
+    "correctAnswer": "redesigned",
+    "options": ["redesigned", "design", "designs", "designing"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Students should ___ their assignments with proper citations.",
+    "correctAnswer": "submit",
+    "options": ["submit", "submits", "submitting", "submitted"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "The ___ offers scholarships to deserving students.",
+    "correctAnswer": "institution",
+    "options": ["institution", "library", "cafeteria", "office"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Modern education ___ on developing critical thinking skills.",
+    "correctAnswer": "emphasizes",
+    "options": ["emphasizes", "emphasize", "emphasized", "emphasizing"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "The teacher recommended that we ___ more examples before the test.",
+    "correctAnswer": "practice",
+    "options": ["practice", "practices", "practiced", "practicing"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Students who ___ their studies typically achieve better results.",
+    "correctAnswer": "pursue",
+    "options": ["pursue", "pursues", "pursued", "pursuing"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "The exam results ___ that most students understood the material.",
+    "correctAnswer": "indicated",
+    "options": ["indicated", "indicates", "indicate", "indicating"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Educational institutions must ___ high standards of quality.",
+    "correctAnswer": "maintain",
+    "options": ["maintain", "maintains", "maintained", "maintaining"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "The course ___ various teaching methodologies and approaches.",
+    "correctAnswer": "incorporates",
+    "options": ["incorporates", "incorporate", "incorporated", "incorporating"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Students are ___ to think critically about the subjects they study.",
+    "correctAnswer": "encouraged",
+    "options": ["encouraged", "encourage", "encourages", "encouraging"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "The academic program ___ professional skills and knowledge.",
+    "correctAnswer": "develops",
+    "options": ["develops", "develop", "developed", "developing"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Effective ___ requires clear communication between teachers and students.",
+    "correctAnswer": "learning",
+    "options": ["learning", "teaching", "reading", "writing"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Teachers should ___ diverse teaching strategies in their lessons.",
+    "correctAnswer": "employ",
+    "options": ["employ", "employs", "employed", "employing"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "The ___ between different schools help improve educational standards.",
+    "correctAnswer": "collaboration",
+    "options": ["collaboration", "competition", "evaluation", "examination"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Students must ___ responsibility for their academic progress.",
+    "correctAnswer": "take",
+    "options": ["take", "takes", "taking", "took"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "The school has ___ several new courses this academic year.",
+    "correctAnswer": "introduced",
+    "options": ["introduced", "introduces", "introduce", "introducing"],
+    "difficulty": "hard"
+  }
+]

@@ -1,0 +1,512 @@
+﻿[
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você está com dor de cabeça leve. Como expressa isso em inglês?",
+    "correctAnswer": "I have a slight headache.",
+    "options": ["I have a slight headache.", "My head is breaking.", "I suffer from heavy headache.", "I am headache."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você pediria ao médico para prescrever um remédio?",
+    "correctAnswer": "Could you prescribe me some medicine?",
+    "options": ["Could you prescribe me some medicine?", "You must give me drugs.", "Please force medicine to me.", "I need you to selling medicine."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Seu amigo está doente. Como você pergunta como ele está se sentindo?",
+    "correctAnswer": "How are you feeling?",
+    "options": ["How are you feeling?", "What do you feel?", "Are you feeling bad?", "Do you feel something?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você diz que está se sentindo bem?",
+    "correctAnswer": "I'm feeling much better, thank you.",
+    "options": ["I'm feeling much better, thank you.", "I feeling good now.", "Better I am very.", "I have better feeling."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você sugere que alguém deveria descansar mais?",
+    "correctAnswer": "You should get more rest.",
+    "options": ["You should get more rest.", "You must sleeping more.", "More rest you need.", "Getting rest is what you."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você expressa preocupação com a saúde de alguém?",
+    "correctAnswer": "I'm worried about your health.",
+    "options": ["I'm worried about your health.", "Your health worries me bad.", "Health you concerns me.", "I worry your healthy."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você responde quando alguém te pergunta se você está doente?",
+    "correctAnswer": "Yes, I'm not feeling very well.",
+    "options": ["Yes, I'm not feeling very well.", "No, I am sickness.", "I feeling not good.", "Yes, I am ill bad."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você recomenda exercício físico a um amigo?",
+    "correctAnswer": "You should exercise more regularly.",
+    "options": ["You should exercise more regularly.", "Exercise you is necessary.", "More moving you need.", "You must doing exercises."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você oferece ajuda a alguém que está com gripe?",
+    "correctAnswer": "Can I help you with anything?",
+    "options": ["Can I help you with anything?", "I helping what you need.", "What you need my help?", "Help I can give."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você pergunta ao médico sobre os efeitos colaterais de um remédio?",
+    "correctAnswer": "Are there any side effects?",
+    "options": ["Are there any side effects?", "What is the side effect?", "Effects on the side exist?", "Side effects this have?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você diz que precisa fazer uma consulta médica urgente?",
+    "correctAnswer": "I need to see a doctor as soon as possible.",
+    "options": ["I need to see a doctor as soon as possible.", "Doctor I see must urgent.", "Soon I need a doctor.", "Immediate doctor appointment I needing."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você pergunta sobre a duração de um tratamento?",
+    "correctAnswer": "How long will the treatment take?",
+    "options": ["How long will the treatment take?", "The treatment takes how?", "Long time it is?", "When treatment finishing is?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você recomenda que alguém coma de forma mais saudável?",
+    "correctAnswer": "You should eat healthier food.",
+    "options": ["You should eat healthier food.", "Eating healthy you must be.", "More health food is needed.", "Healthier you should eating."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você expressa que está se recuperando de uma doença?",
+    "correctAnswer": "I'm recovering from my illness.",
+    "options": ["I'm recovering from my illness.", "From illness I am back.", "Recovering I do the sickness.", "Better I become my disease."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você pergunta ao farmacêutico como tomar um remédio?",
+    "correctAnswer": "How should I take this medicine?",
+    "options": ["How should I take this medicine?", "Medicine this how to taking?", "Taking medicine how I do?", "Should I medicine take how?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você sugere que alguém beba mais água?",
+    "correctAnswer": "You should drink more water.",
+    "options": ["You should drink more water.", "Drinking water more is you.", "Water more you need drinking.", "You must being water drink."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você está em consulta com o dentista que pergunta se você tem dor. Como você responde que sim e indica onde?",
+    "correctAnswer": "Yes, I have pain in my back tooth.",
+    "options": ["Yes, I have pain in my back tooth.", "Yes, my tooth is aching behind.", "My back is tooth pain.", "Yes, pain I have in tooth back."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você pede uma segunda opinião médica de forma educada?",
+    "correctAnswer": "Would you mind if I got a second opinion?",
+    "options": ["Would you mind if I got a second opinion?", "I getting another doctor opinion, yes?", "Second opinion I need from another.", "Another doctor opinion would get I."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você explica ao médico quais sintomas você tem quando não sabe algumas palavras?",
+    "correctAnswer": "I've been experiencing a pain in my chest for three days.",
+    "options": ["I've been experiencing a pain in my chest for three days.", "Since three days my chest has pain.", "Three days I have chest pain.", "In chest pain three days happens."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você comunica que é alérgico a algo de forma clara?",
+    "correctAnswer": "I'm allergic to penicillin.",
+    "options": ["I'm allergic to penicillin.", "Penicillin I allergic am.", "Allergy I have of penicillin.", "Penicillin makes allergic me."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você pergunta ao médico se você pode retomar suas atividades normais?",
+    "correctAnswer": "When can I return to my normal activities?",
+    "options": ["When can I return to my normal activities?", "When my activities normal I can do?", "Can I activities normal doing when?", "My normal activities when resuming I can?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você expressa que seus sintomas pioraram durante a noite?",
+    "correctAnswer": "My symptoms got worse during the night.",
+    "options": ["My symptoms got worse during the night.", "My symptoms worsening at night.", "During night worse my symptoms became.", "Night symptoms worse I have gotten."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você pergunta qual é o horário de funcionamento da clínica?",
+    "correctAnswer": "What are your opening hours?",
+    "options": ["What are your opening hours?", "When you opening the clinic?", "Hours opening what are?", "You work when during the day?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você explica ao médico que um remédio não está funcionando para você?",
+    "correctAnswer": "The medication doesn't seem to be working for me.",
+    "options": ["The medication doesn't seem to be working for me.", "Medicine not working is for me.", "For me work not does the medicine.", "The medicine seeming not works."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você pede que alguém a leve ao hospital em uma emergência?",
+    "correctAnswer": "Please take me to the hospital immediately.",
+    "options": ["Please take me to the hospital immediately.", "Hospital take me to please now.", "Immediately hospital you take me.", "To hospital immediately please going."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você informa seu histórico médico ao fazer um exame?",
+    "correctAnswer": "I had a similar problem two years ago.",
+    "options": ["I had a similar problem two years ago.", "Two years ago similar I problem.", "Similar problem I have two years.", "Ago two years similar was problem."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você pergunta ao médico se precisa fazer exames adicionais?",
+    "correctAnswer": "Do I need any additional tests?",
+    "options": ["Do I need any additional tests?", "Tests additional I need do?", "Need I tests more any?", "Any tests I need making?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você descreve uma dor que é constante e preocupante?",
+    "correctAnswer": "I have a persistent pain that worries me.",
+    "options": ["I have a persistent pain that worries me.", "Pain persistent I have what worrying.", "Worrying pain constant I have.", "I have worrying that constant pain."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você solicita informações sobre os riscos de um procedimento cirúrgico?",
+    "correctAnswer": "Could you explain the risks of this surgery?",
+    "options": ["Could you explain the risks of this surgery?", "Risks the surgery of explaining you?", "Surgery risks what they are?", "This surgery risks could explain?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você avalia a qualidade da sua saúde mental com o psicólogo?",
+    "correctAnswer": "I've been feeling quite stressed lately.",
+    "options": ["I've been feeling quite stressed lately.", "Stressed feeling I am being lately.", "Lately stressed quite I feel.", "Stress feeling I have being."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você pergunta se um remédio pode causar problemas de sono?",
+    "correctAnswer": "Could this medicine affect my sleep?",
+    "options": ["Could this medicine affect my sleep?", "Sleep affecting medicine this could?", "This medicine my sleep affecting could?", "Could affect medicine my sleep?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você comunica que está no programa de reabilitação?",
+    "correctAnswer": "I'm currently undergoing rehabilitation therapy.",
+    "options": ["I'm currently undergoing rehabilitation therapy.", "Rehabilitation therapy I am doing.", "Currently undergoing therapy I am rehabbing.", "Therapy rehabilitation I am doing now."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você precisa cancelar uma consulta médica. Como você comunicaria isso educadamente pelo telefone?",
+    "correctAnswer": "I need to reschedule my appointment for another day.",
+    "options": ["I need to reschedule my appointment for another day.", "My appointment rescheduling another I need day.", "Day another appointment I need reschedule.", "Reschedule I need my appointment other."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você expressa que um problema de saúde está afetando sua qualidade de vida?",
+    "correctAnswer": "This health condition is really affecting my quality of life.",
+    "options": ["This health condition is really affecting my quality of life.", "Life quality my affecting is health.", "Really condition my health quality affecting.", "My life quality is affected by this."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você pergunta se há um programa de prevenção de doenças na sua clínica?",
+    "correctAnswer": "Do you have any disease prevention programs?",
+    "options": ["Do you have any disease prevention programs?", "Programs preventing diseases you having?", "Disease prevention you have programs?", "Any programs preventing disease you do?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você pergunta sobre a possibilidade de terapias alternativas complementares?",
+    "correctAnswer": "Would complementary therapies be beneficial for my condition?",
+    "options": ["Would complementary therapies be beneficial for my condition?", "Therapies complementary beneficial would my condition?", "My condition complementary therapies would beneficial be?", "Beneficial complementary therapies condition my are?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você solicita um relatório detalhado sobre os resultados dos seus exames?",
+    "correctAnswer": "Could I have a detailed report of my test results?",
+    "options": ["Could I have a detailed report of my test results?", "Have detailed report I could my results?", "Report detailed my results I could have?", "Test results detailed report could I?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você expressa que tem dificuldade em seguir uma dieta restritiva por motivos de saúde?",
+    "correctAnswer": "I find it quite challenging to follow such a restrictive diet.",
+    "options": ["I find it quite challenging to follow such a restrictive diet.", "Following diet restrictive is challenging quite I.", "Diet restrictive I finding challenge quite.", "Quite I find challenging follow diet."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você pergunta se existem grupos de apoio para sua condição de saúde?",
+    "correctAnswer": "Are there any support groups for people with my condition?",
+    "options": ["Are there any support groups for people with my condition?", "Support groups people condition my for there?", "My condition groups supporting people there?", "For condition my people groups supporting there?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você comunica seus objetivos de saúde a um profissional de wellness?",
+    "correctAnswer": "I want to improve my overall fitness and reduce stress.",
+    "options": ["I want to improve my overall fitness and reduce stress.", "Fitness overall my stress and improving.", "Stress reduce and fitness improve I want.", "Want overall fitness improving and stress."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você pergunta qual é o melhor momento para tomar um remédio ao longo do dia?",
+    "correctAnswer": "What's the best time of day to take this medicine?",
+    "options": ["What's the best time of day to take this medicine?", "Best time medicine take day of what?", "Medicine take time day best what?", "The day best time medicine taking is?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você expressa que está preocupado com os possíveis efeitos a longo prazo de um tratamento?",
+    "correctAnswer": "I'm concerned about the long-term effects of this treatment.",
+    "options": ["I'm concerned about the long-term effects of this treatment.", "Effects long-term treatment this worried about I am.", "Long-term concerned effects I this treatment.", "Treatment this effects long-term concerned I."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você solicita ajuda para lidar com os efeitos colaterais de um medicamento?",
+    "correctAnswer": "What can I do to manage these side effects?",
+    "options": ["What can I do to manage these side effects?", "Side effects managing what I do can?", "Effects side these managing do I what?", "To manage side effects these what?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você pergunta se precisará fazer monitoramento contínuo após o tratamento?",
+    "correctAnswer": "Will I need ongoing monitoring after this treatment?",
+    "options": ["Will I need ongoing monitoring after this treatment?", "Monitoring ongoing after treatment this need I?", "Need I will monitoring ongoing treatment after?", "After treatment ongoing need monitoring I?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você comunica que sua condição de saúde é hereditária na família?",
+    "correctAnswer": "This condition runs in my family.",
+    "options": ["This condition runs in my family.", "My family this condition running.", "Condition family my hereditary this is.", "Hereditary family in condition my."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você pergunta sobre a importância da atividade física para seu tipo específico de problema?",
+    "correctAnswer": "How important is regular exercise for my specific condition?",
+    "options": ["How important is regular exercise for my specific condition?", "Important how is exercise specific condition my?", "Condition specific my for exercise important how?", "Regular condition specific my exercise important?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você pergunta se pode fazer exercício enquanto está em recuperação?",
+    "correctAnswer": "Is it safe for me to exercise while recovering?",
+    "options": ["Is it safe for me to exercise while recovering?", "Safe exercise while recovering me is?", "Recovering while exercise me safe is?", "While recovering safe exercise for me?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você solicita orientações sobre as mudanças no estilo de vida necessárias?",
+    "correctAnswer": "What lifestyle changes would you recommend for me?",
+    "options": ["What lifestyle changes would you recommend for me?", "Recommend lifestyle changes what would me?", "Me lifestyle changes recommend what would?", "Would lifestyle recommend you me changes?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você expressa que um sintoma é intermitente e não constante?",
+    "correctAnswer": "The pain comes and goes, it's not constant.",
+    "options": ["The pain comes and goes, it's not constant.", "Constant not is pain comes goes it.", "Comes goes pain it and not constant.", "Pain intermittent comes constant it and goes."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você pergunta se deve evitar certos alimentos ou atividades durante o tratamento?",
+    "correctAnswer": "Should I avoid any particular foods or activities?",
+    "options": ["Should I avoid any particular foods or activities?", "Avoid foods activities particular any should?", "Foods activities particular avoid should I any?", "Any foods particular avoiding should I activities?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você comunica que está seguindo as recomendações médicas corretamente?",
+    "correctAnswer": "I'm following all of your recommendations carefully.",
+    "options": ["I'm following all of your recommendations carefully.", "All recommendations your following I carefully.", "Carefully following recommendations your all I am.", "Your all recommendations carefully I following."],
+    "difficulty": "hard"
+  }
+]

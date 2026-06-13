@@ -1,0 +1,492 @@
+﻿[
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'curriculum' em português?",
+    "correctAnswer": "currículo",
+    "options": ["currículo", "aula", "lição", "disciplina"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Como você chamaria em português uma pessoa que ensina?",
+    "correctAnswer": "professor",
+    "options": ["professor", "aluno", "diretor", "coordenador"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual palavra em inglês significa 'aula'?",
+    "correctAnswer": "lesson",
+    "options": ["lesson", "break", "homework", "test"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que é 'scholarship' em português?",
+    "correctAnswer": "bolsa de estudos",
+    "options": ["bolsa de estudos", "empréstimo", "doação", "investimento"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'exam' em português?",
+    "correctAnswer": "exame",
+    "options": ["exame", "exercício", "tarefa", "projeto"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'homework' em português?",
+    "correctAnswer": "lição de casa",
+    "options": ["lição de casa", "trabalho escolar", "disciplina", "matéria"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual palavra significa 'estudante' em inglês?",
+    "correctAnswer": "student",
+    "options": ["student", "teacher", "staff", "principal"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que é 'graduation' em português?",
+    "correctAnswer": "formatura",
+    "options": ["formatura", "inscrição", "matrícula", "transferência"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'deadline' em português?",
+    "correctAnswer": "prazo",
+    "options": ["prazo", "pausa", "intervalo", "período"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'semestre' em inglês?",
+    "correctAnswer": "semester",
+    "options": ["semester", "quarter", "trimester", "session"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'subject' em português?",
+    "correctAnswer": "disciplina",
+    "options": ["disciplina", "tema", "tópico", "conteúdo"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual palavra significa 'biblioteca' em inglês?",
+    "correctAnswer": "library",
+    "options": ["library", "bookstore", "archive", "collection"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'nota' ou 'conceito' em inglês?",
+    "correctAnswer": "grade",
+    "options": ["grade", "mark", "score", "rate"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que é 'assignment' em português?",
+    "correctAnswer": "tarefa",
+    "options": ["tarefa", "lição", "disciplina", "projeto"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'enrollment' em português?",
+    "correctAnswer": "matrícula",
+    "options": ["matrícula", "transferência", "cancelamento", "renovação"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'recreio' ou 'intervalo' em inglês?",
+    "correctAnswer": "break",
+    "options": ["break", "pause", "rest", "recess"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'tuition' em português?",
+    "correctAnswer": "mensalidade",
+    "options": ["mensalidade", "bolsa", "prêmio", "reembolso"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'proficiency' no contexto de idiomas?",
+    "correctAnswer": "proficiência",
+    "options": ["proficiência", "fluência", "pronúncia", "velocidade"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'pedagogy' em português?",
+    "correctAnswer": "pedagogia",
+    "options": ["pedagogia", "didática", "metodologia", "técnica"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'assessment' em português?",
+    "correctAnswer": "avaliação",
+    "options": ["avaliação", "teste", "exame", "verificação"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'credential' em português?",
+    "correctAnswer": "credencial",
+    "options": ["credencial", "certificado", "diploma", "documento"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que é 'prerequisite' em português?",
+    "correctAnswer": "pré-requisito",
+    "options": ["pré-requisito", "requisito", "exigência", "condição"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'syllabus' em português?",
+    "correctAnswer": "ementário",
+    "options": ["ementário", "plano", "programa", "conteúdo"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'transcript' em contexto acadêmico?",
+    "correctAnswer": "histórico escolar",
+    "options": ["histórico escolar", "diploma", "certificado", "atestado"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'academic advisor' em português?",
+    "correctAnswer": "orientador acadêmico",
+    "options": ["orientador acadêmico", "professor", "diretor", "coordenador"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'elective' em português?",
+    "correctAnswer": "disciplina optativa",
+    "options": ["disciplina optativa", "disciplina obrigatória", "eletiva", "matéria"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'literacy' em português?",
+    "correctAnswer": "alfabetização",
+    "options": ["alfabetização", "leitura", "escrita", "conhecimento"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que é 'tutoring' em português?",
+    "correctAnswer": "aulas particulares",
+    "options": ["aulas particulares", "reforço", "mentoria", "supervisão"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'internship' em português?",
+    "correctAnswer": "estágio",
+    "options": ["estágio", "aprendizado", "treinamento", "experiência"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'thesis' em português?",
+    "correctAnswer": "tese",
+    "options": ["tese", "dissertação", "monografia", "trabalho"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'GPA' em português?",
+    "correctAnswer": "média de notas",
+    "options": ["média de notas", "pontuação total", "desempenho", "índice"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'competency' em português?",
+    "correctAnswer": "competência",
+    "options": ["competência", "habilidade", "destreza", "capacidade"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'accreditation' em português?",
+    "correctAnswer": "acreditação",
+    "options": ["acreditação", "aprovação", "certificação", "reconhecimento"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que é 'curriculum vitae' em português?",
+    "correctAnswer": "currículo",
+    "options": ["currículo", "vitae", "histórico", "biografia"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'pedagogue' em português?",
+    "correctAnswer": "pedagogo",
+    "options": ["pedagogo", "professor", "educador", "instrutor"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'didactic' em português?",
+    "correctAnswer": "didático",
+    "options": ["didático", "educativo", "pedagógico", "escolar"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'metacognition' em português?",
+    "correctAnswer": "metacognição",
+    "options": ["metacognição", "autoconhecimento", "reflexão", "pensamento"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'formative assessment' em português?",
+    "correctAnswer": "avaliação formativa",
+    "options": ["avaliação formativa", "avaliação contínua", "avaliação inicial", "avaliação somativa"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'pedagogical approach' em português?",
+    "correctAnswer": "abordagem pedagógica",
+    "options": ["abordagem pedagógica", "método de ensino", "estratégia educativa", "técnica pedagógica"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que é 'andragogy' em português?",
+    "correctAnswer": "andragogia",
+    "options": ["andragogia", "pedagogia adulta", "educação permanente", "aprendizado contínuo"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'epistemic' em português (no contexto de aprendizado)?",
+    "correctAnswer": "epistêmico",
+    "options": ["epistêmico", "empírico", "teórico", "científico"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'scaffolding' em contexto educativo?",
+    "correctAnswer": "andaime",
+    "options": ["andaime", "estrutura", "suporte", "apoio"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'constructivism' em português (filosofia educativa)?",
+    "correctAnswer": "construtivismo",
+    "options": ["construtivismo", "empirismo", "racionalismo", "pragmatismo"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'cognition' em português?",
+    "correctAnswer": "cognição",
+    "options": ["cognição", "conhecimento", "entendimento", "pensamento"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'assessment tools' em português?",
+    "correctAnswer": "instrumentos de avaliação",
+    "options": ["instrumentos de avaliação", "ferramentas de medida", "dispositivos de teste", "mecanismos de verificação"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que é 'synergistic learning' em português?",
+    "correctAnswer": "aprendizado sinérgico",
+    "options": ["aprendizado sinérgico", "aprendizado colaborativo", "aprendizado mútuo", "aprendizado integrado"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'phenomenological' em contexto educativo?",
+    "correctAnswer": "fenomenológico",
+    "options": ["fenomenológico", "empírico", "sistemático", "descritivo"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'epistemology' em português?",
+    "correctAnswer": "epistemologia",
+    "options": ["epistemologia", "teoria do conhecimento", "filosofia", "método"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'heterogeneous learning groups' em português?",
+    "correctAnswer": "grupos heterogêneos de aprendizado",
+    "options": ["grupos heterogêneos de aprendizado", "grupos mistos", "turmas diversificadas", "classes multivariadas"],
+    "difficulty": "hard"
+  }
+]

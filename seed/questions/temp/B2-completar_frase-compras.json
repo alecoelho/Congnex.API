@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "I usually ___ for clothes at the weekend.",
+        "correctAnswer":  "go shopping",
+        "options":  [
+                        "go shopping",
+                        "do shopping",
+                        "make shopping",
+                        "take shopping"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "These shoes are very expensive. I can\u0027t ___ them right now.",
+        "correctAnswer":  "afford",
+        "options":  [
+                        "afford",
+                        "offer",
+                        "allow",
+                        "support"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "The store is having a ___ this week, so everything is cheaper.",
+        "correctAnswer":  "sale",
+        "options":  [
+                        "sale",
+                        "sell",
+                        "sold",
+                        "selling"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "I need to ___ my credit card at the cashier.",
+        "correctAnswer":  "swipe",
+        "options":  [
+                        "swipe",
+                        "sweep",
+                        "switch",
+                        "swing"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "The ___ helped me find the size I was looking for.",
+        "correctAnswer":  "shop assistant",
+        "options":  [
+                        "shop assistant",
+                        "shop manager",
+                        "shop owner",
+                        "shop worker"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "I received a ___ for the items I bought yesterday.",
+        "correctAnswer":  "receipt",
+        "options":  [
+                        "receipt",
+                        "recipe",
+                        "receipt",
+                        "record"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "This product is of high ___ but costs more than others.",
+        "correctAnswer":  "quality",
+        "options":  [
+                        "quality",
+                        "quantity",
+                        "quicker",
+                        "quieter"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "Can I ___ this sweater? It doesn\u0027t fit me.",
+        "correctAnswer":  "exchange",
+        "options":  [
+                        "exchange",
+                        "return",
+                        "replace",
+                        "refund"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "How much ___ is there on this jacket?",
+        "correctAnswer":  "discount",
+        "options":  [
+                        "discount",
+                        "decrease",
+                        "distance",
+                        "display"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "I\u0027m looking for ___ clothes that are also affordable.",
+        "correctAnswer":  "fashionable",
+        "options":  [
+                        "fashionable",
+                        "fashion",
+                        "fashioned",
+                        "fashioning"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "The shopping ___ is always crowded on Saturdays.",
+        "correctAnswer":  "mall",
+        "options":  [
+                        "mall",
+                        "malls",
+                        "mill",
+                        "mall"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "I prefer to pay with a ___ rather than cash.",
+        "correctAnswer":  "card",
+        "options":  [
+                        "card",
+                        "cart",
+                        "care",
+                        "cost"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "The ___ on these jeans were finally reduced.",
+        "correctAnswer":  "price",
+        "options":  [
+                        "price",
+                        "prize",
+                        "pride",
+                        "prime"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "I always ___ the labels before buying anything.",
+        "correctAnswer":  "check",
+        "options":  [
+                        "check",
+                        "cheat",
+                        "cheap",
+                        "chase"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "This bag is made of genuine ___.",
+        "correctAnswer":  "leather",
+        "options":  [
+                        "leather",
+                        "weather",
+                        "rather",
+                        "feather"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "The ___ at this store is excellent.",
+        "correctAnswer":  "service",
+        "options":  [
+                        "service",
+                        "surface",
+                        "survive",
+                        "severe"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "I\u0027m trying to ___ money, so I\u0027m looking for bargains.",
+        "correctAnswer":  "save",
+        "options":  [
+                        "save",
+                        "safe",
+                        "salt",
+                        "sale"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "The store ___ a wide variety of products.",
+        "correctAnswer":  "stocks",
+        "options":  [
+                        "stocks",
+                        "stores",
+                        "stuffs",
+                        "stacks"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "I often ___ online instead of going to physical stores.",
+        "correctAnswer":  "shop",
+        "options":  [
+                        "shop",
+                        "chop",
+                        "stop",
+                        "drop"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "These trousers are ___ priced compared to others.",
+        "correctAnswer":  "reasonably",
+        "options":  [
+                        "reasonably",
+                        "reasonable",
+                        "reason",
+                        "reasoning"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "What\u0027s the ___ of this watch?",
+        "correctAnswer":  "value",
+        "options":  [
+                        "value",
+                        "valid",
+                        "valley",
+                        "voice"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "I need to ___ for the best deal before making a purchase.",
+        "correctAnswer":  "bargain",
+        "options":  [
+                        "bargain",
+                        "badger",
+                        "banker",
+                        "banner"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "These shoes are a genuine ___. They\u0027re worth the price.",
+        "correctAnswer":  "bargain",
+        "options":  [
+                        "bargain",
+                        "barrage",
+                        "burden",
+                        "bearing"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "The seller offered me a ___ because I bought several items.",
+        "correctAnswer":  "discount",
+        "options":  [
+                        "discount",
+                        "discern",
+                        "discard",
+                        "discover"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "I\u0027m not satisfied with my purchase. Can I get a ___?",
+        "correctAnswer":  "refund",
+        "options":  [
+                        "refund",
+                        "refuge",
+                        "reform",
+                        "refresh"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "This store ___ exclusive designer brands.",
+        "correctAnswer":  "carries",
+        "options":  [
+                        "carries",
+                        "cares",
+                        "cures",
+                        "curves"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "I\u0027m looking for something that ___ my style.",
+        "correctAnswer":  "matches",
+        "options":  [
+                        "matches",
+                        "watches",
+                        "patches",
+                        "catches"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "The ___ section in this store has great options.",
+        "correctAnswer":  "accessories",
+        "options":  [
+                        "accessories",
+                        "accounts",
+                        "accents",
+                        "accesses"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "I always ___ the price before purchasing online.",
+        "correctAnswer":  "compare",
+        "options":  [
+                        "compare",
+                        "compete",
+                        "complete",
+                        "compile"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "This product comes with a ___ of two years.",
+        "correctAnswer":  "warranty",
+        "options":  [
+                        "warranty",
+                        "warranty",
+                        "warden",
+                        "wardrobe"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "Can you recommend a good brand that\u0027s ___?",
+        "correctAnswer":  "reliable",
+        "options":  [
+                        "reliable",
+                        "relying",
+                        "relief",
+                        "relieved"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ this shirt online and it arrived within two days.",
+        "correctAnswer":  "ordered",
+        "options":  [
+                        "ordered",
+                        "offered",
+                        "opened",
+                        "operated"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "The price tag shows a 30% ___ on this item.",
+        "correctAnswer":  "reduction",
+        "options":  [
+                        "reduction",
+                        "relation",
+                        "reaction",
+                        "reflection"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "I prefer to buy clothes that are ___ because they last longer.",
+        "correctAnswer":  "durable",
+        "options":  [
+                        "durable",
+                        "during",
+                        "during",
+                        "doubtful"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "Instead of using cash, many people ___ credit cards for convenience.",
+        "correctAnswer":  "prefer",
+        "options":  [
+                        "prefer",
+                        "prepare",
+                        "prevent",
+                        "present"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "The ___ of this designer brand is well-known for quality.",
+        "correctAnswer":  "reputation",
+        "options":  [
+                        "reputation",
+                        "resolution",
+                        "revolution",
+                        "relation"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "Many retailers ___ their prices during the holiday season.",
+        "correctAnswer":  "inflate",
+        "options":  [
+                        "inflate",
+                        "influence",
+                        "inform",
+                        "insult"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "I was able to ___ a substantial amount of money on my vacation clothes.",
+        "correctAnswer":  "spend",
+        "options":  [
+                        "spend",
+                        "spill",
+                        "spin",
+                        "split"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "The store\u0027s ___ policy allows returns within 30 days.",
+        "correctAnswer":  "return",
+        "options":  [
+                        "return",
+                        "recent",
+                        "record",
+                        "refuse"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "I always read the product ___ before making a decision.",
+        "correctAnswer":  "description",
+        "options":  [
+                        "description",
+                        "direction",
+                        "discipline",
+                        "discovery"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "This fabric is very ___. It requires careful washing.",
+        "correctAnswer":  "delicate",
+        "options":  [
+                        "delicate",
+                        "deliberate",
+                        "definite",
+                        "delegate"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "The ___ between the two stores\u0027 prices is quite significant.",
+        "correctAnswer":  "difference",
+        "options":  [
+                        "difference",
+                        "distance",
+                        "discipline",
+                        "delivery"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ my budget when I saw the clearance section.",
+        "correctAnswer":  "exceeded",
+        "options":  [
+                        "exceeded",
+                        "excused",
+                        "excluded",
+                        "executed"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "This store offers ___ shipping on orders over a certain amount.",
+        "correctAnswer":  "complimentary",
+        "options":  [
+                        "complimentary",
+                        "complementary",
+                        "complicated",
+                        "comprehensive"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "The ___ of this product makes it stand out from competitors.",
+        "correctAnswer":  "uniqueness",
+        "options":  [
+                        "uniqueness",
+                        "universe",
+                        "university",
+                        "universal"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "I appreciate when stores ___ their products with detailed information.",
+        "correctAnswer":  "accompany",
+        "options":  [
+                        "accompany",
+                        "accomplish",
+                        "accommodate",
+                        "account"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "The ___ charge for next-day delivery was worth the extra cost.",
+        "correctAnswer":  "premium",
+        "options":  [
+                        "premium",
+                        "primary",
+                        "previous",
+                        "private"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "This brand\u0027s commitment to ___ materials is admirable.",
+        "correctAnswer":  "sustainable",
+        "options":  [
+                        "sustainable",
+                        "substantial",
+                        "substitute",
+                        "sublime"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "The ___ of this product is guaranteed for the first year.",
+        "correctAnswer":  "durability",
+        "options":  [
+                        "durability",
+                        "delivery",
+                        "density",
+                        "destiny"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "compras",
+        "type":  "complete_sentence",
+        "questionText":  "I always ___ the reviews before purchasing expensive items online.",
+        "correctAnswer":  "scrutinize",
+        "options":  [
+                        "scrutinize",
+                        "stabilize",
+                        "stylize",
+                        "summarize"
+                    ],
+        "difficulty":  "hard"
+    }
+]

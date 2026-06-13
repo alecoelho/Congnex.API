@@ -1,0 +1,522 @@
+[
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "Every morning, she ___ her alarm at 6 a.m. and immediately gets out of bed without hitting the snooze button.",
+    "correctAnswer": "sets",
+    "options": ["sets", "puts", "fixes", "places"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "He always ___ a cup of strong coffee before heading out to work in the morning.",
+    "correctAnswer": "brews",
+    "options": ["brews", "boils", "cooks", "prepares"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "After waking up, she ___ her teeth and washes her face before doing anything else.",
+    "correctAnswer": "brushes",
+    "options": ["brushes", "cleans", "scrubs", "polishes"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "He ___ a light breakfast consisting of toast and fruit every day before leaving for the office.",
+    "correctAnswer": "has",
+    "options": ["has", "makes", "takes", "eats"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "She ___ her commute by listening to podcasts on her way to work.",
+    "correctAnswer": "passes",
+    "options": ["passes", "spends", "fills", "uses"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "Before going to bed, he always ___ his clothes out for the next day to save time in the morning.",
+    "correctAnswer": "lays",
+    "options": ["lays", "puts", "sets", "places"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "She ___ a 30-minute walk every evening to unwind after a stressful day at work.",
+    "correctAnswer": "takes",
+    "options": ["takes", "does", "makes", "goes"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "He ___ the dishes right after dinner instead of leaving them in the sink overnight.",
+    "correctAnswer": "washes",
+    "options": ["washes", "cleans", "rinses", "scrubs"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "She ___ her grocery list every Sunday to plan meals for the week ahead.",
+    "correctAnswer": "writes",
+    "options": ["writes", "makes", "prepares", "draws"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "After work, he ___ to the gym three times a week to maintain his fitness.",
+    "correctAnswer": "goes",
+    "options": ["goes", "walks", "heads", "runs"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "She ___ her journal every night before sleeping, reflecting on the events of the day.",
+    "correctAnswer": "writes in",
+    "options": ["writes in", "reads", "fills out", "keeps"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "He ___ a nap in the afternoon on weekends to recharge his energy.",
+    "correctAnswer": "takes",
+    "options": ["takes", "has", "does", "makes"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "She ___ the news every morning to stay informed about current events.",
+    "correctAnswer": "reads",
+    "options": ["reads", "watches", "checks", "follows"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "He ___ his lunch to work instead of eating out, as it saves both time and money.",
+    "correctAnswer": "brings",
+    "options": ["brings", "carries", "takes", "packs"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "She ___ her plants every other day to ensure they stay healthy and well-hydrated.",
+    "correctAnswer": "waters",
+    "options": ["waters", "feeds", "tends", "cares for"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "Every Friday evening, he ___ with his friends to catch up over dinner.",
+    "correctAnswer": "meets up",
+    "options": ["meets up", "gathers", "reunites", "catches up"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "She ___ her commute to review her schedule and prioritize tasks for the day.",
+    "correctAnswer": "uses",
+    "options": ["uses", "spends", "takes advantage of", "makes the most of"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "Despite her hectic schedule, she consistently ___ time to meditate for at least 20 minutes each morning.",
+    "correctAnswer": "carves out",
+    "options": ["carves out", "sets aside", "makes up", "puts away"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "He has ___ the habit of reviewing his goals every Sunday evening to maintain focus throughout the week.",
+    "correctAnswer": "cultivated",
+    "options": ["cultivated", "developed", "acquired", "established"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "She ___ her morning routine by incorporating cold showers, which she claims boost her alertness significantly.",
+    "correctAnswer": "has revamped",
+    "options": ["has revamped", "has changed", "has reformed", "has updated"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "After years of irregular sleep patterns, he finally ___ a consistent bedtime routine that has greatly improved his wellbeing.",
+    "correctAnswer": "established",
+    "options": ["established", "built", "formed", "set"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "She ___ her energy levels throughout the day by alternating between focused work sessions and short breaks.",
+    "correctAnswer": "sustains",
+    "options": ["sustains", "maintains", "manages", "regulates"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "He tends to ___ on his daily achievements each evening before writing in his gratitude journal.",
+    "correctAnswer": "reflect",
+    "options": ["reflect", "ponder", "meditate", "ruminate"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "She has been ___ a more mindful approach to eating, paying close attention to hunger cues rather than eating out of habit.",
+    "correctAnswer": "adopting",
+    "options": ["adopting", "practicing", "following", "embracing"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "He ___ his screen time in the evening by setting a strict no-phone policy after 9 p.m.",
+    "correctAnswer": "curtails",
+    "options": ["curtails", "limits", "reduces", "restricts"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "Despite feeling ___ after a long day, she never skips her evening yoga session.",
+    "correctAnswer": "drained",
+    "options": ["drained", "tired", "exhausted", "worn out"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "She has managed to ___ a highly efficient morning routine that allows her to accomplish more before 9 a.m. than most people do all day.",
+    "correctAnswer": "streamline",
+    "options": ["streamline", "optimize", "refine", "perfect"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "He ___ the temptation to check his phone first thing in the morning, preferring to ease into the day with a quiet cup of tea.",
+    "correctAnswer": "resists",
+    "options": ["resists", "avoids", "ignores", "fights"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "She ___ her daily tasks using a time-blocking method to ensure maximum productivity.",
+    "correctAnswer": "schedules",
+    "options": ["schedules", "organizes", "arranges", "plans"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "He has been ___ the benefits of waking up at dawn ever since he started his new fitness regimen.",
+    "correctAnswer": "reaping",
+    "options": ["reaping", "enjoying", "experiencing", "gaining"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "By ___ her priorities the night before, she avoids the morning chaos that often derails productivity.",
+    "correctAnswer": "mapping out",
+    "options": ["mapping out", "writing down", "setting", "listing"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "She has gradually ___ processed foods from her diet, replacing them with nutritious whole foods as part of her daily routine.",
+    "correctAnswer": "phased out",
+    "options": ["phased out", "cut out", "removed", "eliminated"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "He ___ his creative energy by working on personal projects in the early morning hours before the demands of the day take over.",
+    "correctAnswer": "channels",
+    "options": ["channels", "directs", "focuses", "applies"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "After years of relying on caffeine to function, she has ___ to manage her energy levels through sleep discipline and exercise alone.",
+    "correctAnswer": "learned",
+    "options": ["learned", "managed", "succeeded", "come"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "He ___ his inbox first thing in the morning rather than responding reactively throughout the day.",
+    "correctAnswer": "triages",
+    "options": ["triages", "checks", "reviews", "sorts"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "Her unwavering ___ to her morning exercise routine, even on days when motivation wanes, is what sets her apart from those who fail to stick to their goals.",
+    "correctAnswer": "adherence",
+    "options": ["adherence", "commitment", "dedication", "loyalty"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "He has ___ a rigorous nightly wind-down protocol that involves journaling, light stretching, and digital detoxing to optimize his sleep quality.",
+    "correctAnswer": "instituted",
+    "options": ["instituted", "established", "implemented", "incorporated"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "The ___ nature of her daily schedule leaves little room for spontaneity, yet she thrives under such structured conditions.",
+    "correctAnswer": "regimented",
+    "options": ["regimented", "organized", "disciplined", "structured"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "She has ___ her morning routine to such a degree that it now runs like clockwork, requiring almost no conscious effort to execute.",
+    "correctAnswer": "internalized",
+    "options": ["internalized", "automated", "perfected", "mastered"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "His daily routine is ___ around deep work sessions, during which he deliberately eliminates all potential sources of distraction.",
+    "correctAnswer": "predicated",
+    "options": ["predicated", "based", "centered", "built"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "She employs a process of ___ each evening, deliberately reviewing what went well and what could be improved in her daily routine.",
+    "correctAnswer": "metacognition",
+    "options": ["metacognition", "self-reflection", "introspection", "rumination"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "Rather than reacting to the day's demands, he proactively ___ his agenda the evening before to maintain a sense of agency over his time.",
+    "correctAnswer": "orchestrates",
+    "options": ["orchestrates", "plans", "organizes", "structures"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "Her ability to ___ seamlessly between her demanding professional responsibilities and her personal wellness practices is a testament to years of disciplined habit formation.",
+    "correctAnswer": "transition",
+    "options": ["transition", "shift", "move", "switch"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "He has developed an almost ___ awareness of his own energy cycles, allowing him to schedule demanding tasks precisely when his cognitive performance peaks.",
+    "correctAnswer": "preternatural",
+    "options": ["preternatural", "uncanny", "extraordinary", "remarkable"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "The ___ she derives from maintaining a consistent daily structure has proven more valuable to her wellbeing than any amount of leisure time.",
+    "correctAnswer": "equanimity",
+    "options": ["equanimity", "satisfaction", "stability", "contentment"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "He ___ his morning ritual with an almost ceremonial deliberateness, treating each step as a conscious act of self-preparation rather than mere habit.",
+    "correctAnswer": "conducts",
+    "options": ["conducts", "performs", "executes", "carries out"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "She attributes her sustained high performance not to innate talent, but to the ___ accumulation of small, disciplined daily habits over many years.",
+    "correctAnswer": "compounding",
+    "options": ["compounding", "cumulative", "gradual", "incremental"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "His daily routine operates on a principle of ___ whereby each completed task psychologically reinforces the motivation to tackle the next.",
+    "correctAnswer": "momentum",
+    "options": ["momentum", "progression", "continuity", "succession"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "She has ___ her evening routine to counteract the overstimulation she experiences throughout the workday, ensuring a restorative transition to sleep.",
+    "correctAnswer": "calibrated",
+    "options": ["calibrated", "tailored", "designed", "crafted"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "Far from being ___, his meticulously structured daily schedule is the very framework within which his creativity flourishes.",
+    "correctAnswer": "constraining",
+    "options": ["constraining", "limiting", "restrictive", "inhibiting"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "The ___ with which she approaches her morning mindfulness practice reflects a deep understanding of the mind-body connection developed over years of dedicated study.",
+    "correctAnswer": "intentionality",
+    "options": ["intentionality", "mindfulness", "awareness", "deliberateness"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "rotina_diaria",
+    "type": "complete_sentence",
+    "questionText": "He has grown to ___ the quiet hours of early morning as a sacred space for uninterrupted deep thinking, free from the noise of the digital world.",
+    "correctAnswer": "cherish",
+    "options": ["cherish", "value", "treasure", "prize"],
+    "difficulty": "hard"
+  }
+]

@@ -1,0 +1,707 @@
+﻿[
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Seu professor pergunta se você entendeu a matéria. Qual é a melhor forma de responder que não entendeu completamente?",
+    "correctAnswer": "I'm not entirely sure about this part. Could you explain it again?",
+    "options": [
+      "I'm not entirely sure about this part. Could you explain it again?",
+      "No, I don't understand anything.",
+      "I hate this subject.",
+      "Can you give me a different teacher?"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Durante uma aula, você quer pedir ao professor para falar mais lentamente. O que você diz?",
+    "correctAnswer": "Could you speak more slowly, please?",
+    "options": [
+      "You speak too fast!",
+      "Could you speak more slowly, please?",
+      "I can't hear you.",
+      "Speak better!"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Um colega faz uma pergunta na aula. Como você incentiva ele a continuar falando?",
+    "correctAnswer": "Yes, go on. I'm interested in what you're saying.",
+    "options": [
+      "Stop talking, you're boring us.",
+      "Yes, go on. I'm interested in what you're saying.",
+      "I don't care about your opinion.",
+      "That's enough, we heard enough."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Seu amigo consegue uma bolsa de estudos. Como você o felicita?",
+    "correctAnswer": "Congratulations! That's wonderful news.",
+    "options": [
+      "You're so lucky.",
+      "Congratulations! That's wonderful news.",
+      "Why did you get it and not me?",
+      "That's not so special."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Durante uma discussão em sala de aula, você tem uma opinião diferente. Como você a apresenta de forma educada?",
+    "correctAnswer": "I see your point, but I think differently.",
+    "options": [
+      "You're completely wrong.",
+      "I see your point, but I think differently.",
+      "Your idea is stupid.",
+      "Nobody cares what you think."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber a opinião de um colega sobre a tarefa de casa. O que você pergunta?",
+    "correctAnswer": "What do you think about this homework assignment?",
+    "options": [
+      "This homework is stupid, isn't it?",
+      "What do you think about this homework assignment?",
+      "Do you hate this homework too?",
+      "Why do teachers give so much homework?"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você não pode ir à aula porque está doente. Como você avisa seu professor?",
+    "correctAnswer": "I'm sorry, but I won't be able to attend class today because I'm not feeling well.",
+    "options": [
+      "I'm not coming to your class.",
+      "I'm sorry, but I won't be able to attend class today because I'm not feeling well.",
+      "Don't wait for me.",
+      "I don't like your lessons anyway."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Um professor oferece para te ajudar após a aula. Como você aceita educadamente?",
+    "correctAnswer": "Thank you for the offer. I would appreciate your help.",
+    "options": [
+      "I guess so.",
+      "Thank you for the offer. I would appreciate your help.",
+      "Do I have to?",
+      "I'll think about it."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você cometeu um erro no exame e quer conversar com o professor sobre isso. Como você começa?",
+    "correctAnswer": "Could I speak with you about my exam result?",
+    "options": [
+      "Your grading is unfair!",
+      "Could I speak with you about my exam result?",
+      "I deserve a better grade.",
+      "You marked it wrong."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Um colega emprestou seu livro. Como você pede para ele devolver?",
+    "correctAnswer": "Could you return my book when you're finished with it?",
+    "options": [
+      "Give me my book back now!",
+      "Could you return my book when you're finished with it?",
+      "You lost my book!",
+      "I want it back immediately!"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer participar de um projeto em grupo. Como você propõe suas ideias?",
+    "correctAnswer": "I have an idea. What if we try this approach?",
+    "options": [
+      "My way is the best way.",
+      "I have an idea. What if we try this approach?",
+      "You're all doing it wrong.",
+      "Just do what I say."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "A secretaria da escola avisa que você precisa levar documentos. Como você confirma que entendeu?",
+    "correctAnswer": "Thank you for letting me know. I'll bring the documents tomorrow.",
+    "options": [
+      "Yeah, I heard you.",
+      "Thank you for letting me know. I'll bring the documents tomorrow.",
+      "Why do you need them?",
+      "That's inconvenient."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Um professor faz uma pergunta e você não sabe a resposta. Como você responde?",
+    "correctAnswer": "I'm not sure. Could you give me a hint?",
+    "options": [
+      "I don't know anything.",
+      "I'm not sure. Could you give me a hint?",
+      "This question is unfair.",
+      "I wasn't listening."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você está atrasado para uma aula importante. Como você se desculpa ao chegar?",
+    "correctAnswer": "I apologize for being late. I had an unexpected situation.",
+    "options": [
+      "Sorry I'm late.",
+      "I apologize for being late. I had an unexpected situation.",
+      "Traffic was bad.",
+      "It wasn't my fault."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Durante uma apresentação, você quer adicionar informação ao que alguém disse. Como você faz?",
+    "correctAnswer": "That's a good point, and I'd like to add that...",
+    "options": [
+      "You forgot to mention the most important thing.",
+      "That's a good point, and I'd like to add that...",
+      "You're wrong about something.",
+      "You didn't explain it properly."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Um colega de classe não foi para a aula. Como você responde quando ele pergunta o que perdeu?",
+    "correctAnswer": "We covered the new grammar topic and you have homework for next class.",
+    "options": [
+      "Nothing important happened.",
+      "We covered the new grammar topic and you have homework for next class.",
+      "You didn't miss anything.",
+      "Ask someone else."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você recebeu uma nota ruim e quer falar com o professor sobre como melhorar. Como você inicia?",
+    "correctAnswer": "I'd like to understand where I went wrong. Could you help me?",
+    "options": [
+      "This grade is unfair.",
+      "I'd like to understand where I went wrong. Could you help me?",
+      "You always give me low grades.",
+      "I deserve a better mark."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Durante um debate em classe, seu colega faz uma afirmação questionável. Como você a questiona educadamente?",
+    "correctAnswer": "I understand your perspective, but do you have evidence to support that claim?",
+    "options": [
+      "That's completely false.",
+      "I understand your perspective, but do you have evidence to support that claim?",
+      "Nobody believes that.",
+      "You're just making things up."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer se oferecer para ajudar um colega que está tendo dificuldades com a matéria. Como você faz?",
+    "correctAnswer": "I noticed you might be struggling. Would you like some help from me?",
+    "options": [
+      "You need help with this.",
+      "I noticed you might be struggling. Would you like some help from me?",
+      "This is too hard for you.",
+      "You should study more."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Um professor pede sua opinião sobre um trabalho de grupo. Como você fornece feedback construtivo?",
+    "correctAnswer": "I think the research was thorough, but we could have organized the presentation better.",
+    "options": [
+      "The work was bad.",
+      "I think the research was thorough, but we could have organized the presentation better.",
+      "Everyone did this better than us.",
+      "This was the worst project ever."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você discorda do método de ensino do seu professor. Como você comunica isso de forma respeitosa?",
+    "correctAnswer": "I learn better through a different approach. Could we try another method?",
+    "options": [
+      "Your teaching method doesn't work.",
+      "I learn better through a different approach. Could we try another method?",
+      "You're a bad teacher.",
+      "Everyone hates your classes."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Um colega pediu para copiar sua tarefa de casa. Como você recusa educadamente?",
+    "correctAnswer": "I can't let you copy, but I'd be happy to help you understand the material.",
+    "options": [
+      "No way.",
+      "I can't let you copy, but I'd be happy to help you understand the material.",
+      "You're so lazy.",
+      "Find someone else to copy from."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Na biblioteca, você quer saber onde encontrar um livro específico. Como você pergunta ao bibliotecário?",
+    "correctAnswer": "Could you help me find a book about environmental science?",
+    "options": [
+      "Where's the book I want?",
+      "Could you help me find a book about environmental science?",
+      "Do you have any good books?",
+      "I can't find what I'm looking for."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Durante um seminário, você quer fazer uma pergunta pertinente. Como você a introduz?",
+    "correctAnswer": "That's interesting. I have a question related to what you just said.",
+    "options": [
+      "You didn't explain it right.",
+      "That's interesting. I have a question related to what you just said.",
+      "I don't understand anything.",
+      "You're confusing us."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Um professor avisa sobre uma mudança na data da prova. Como você reage de forma construtiva?",
+    "correctAnswer": "Thank you for the notification. Will we have enough time to prepare?",
+    "options": [
+      "You always change things at the last minute!",
+      "Thank you for the notification. Will we have enough time to prepare?",
+      "This is unfair to us.",
+      "Why are you making things difficult?"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você fez uma apresentação e alguém a critica. Como você responde construtivamente?",
+    "correctAnswer": "Thank you for the feedback. I see your point and I'll consider it for next time.",
+    "options": [
+      "You didn't understand my presentation.",
+      "Thank you for the feedback. I see your point and I'll consider it for next time.",
+      "Your criticism is unfair.",
+      "You're just jealous of my work."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Um colega fez excelente trabalho. Como você o reconhece e motiva?",
+    "correctAnswer": "Your project was really impressive. You clearly put a lot of effort into it.",
+    "options": [
+      "That was okay.",
+      "Your project was really impressive. You clearly put a lot of effort into it.",
+      "It was just lucky.",
+      "I could have done better."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer se candidatar para um programa de intercâmbio escolar. Como você expressa seu interesse ao coordenador?",
+    "correctAnswer": "I'm very interested in the exchange program. Could you tell me more about the requirements?",
+    "options": [
+      "I want to go abroad.",
+      "I'm very interested in the exchange program. Could you tell me more about the requirements?",
+      "Is the program any good?",
+      "Everyone wants to do this."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Em um trabalho em grupo, um membro não fez sua parte. Como você aborda a situação diplomaticamente?",
+    "correctAnswer": "I noticed we're missing your contribution. Is there anything preventing you from completing your part?",
+    "options": [
+      "You didn't do your work.",
+      "I noticed we're missing your contribution. Is there anything preventing you from completing your part?",
+      "You're so irresponsible.",
+      "You ruined our project."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Um professor faz uma sugestão que você acha valiosa mas não está totalmente seguro. Como você responde?",
+    "correctAnswer": "That's a good suggestion. I'll definitely try that approach.",
+    "options": [
+      "I don't think that will work.",
+      "That's a good suggestion. I'll definitely try that approach.",
+      "It probably won't help.",
+      "Why should I trust you?"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Durante uma discussão de classe, você realiza que estava errado. Como você admite?",
+    "correctAnswer": "I see now that I was mistaken. Thank you for the correction.",
+    "options": [
+      "No, I was right.",
+      "I see now that I was mistaken. Thank you for the correction.",
+      "You confused me.",
+      "That doesn't make sense."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você precisa estender o prazo de uma tarefa por razões válidas. Como você o pede ao professor?",
+    "correctAnswer": "I'm having some difficulties and was wondering if I could have an extension on this assignment.",
+    "options": [
+      "I can't finish this on time.",
+      "I'm having some difficulties and was wondering if I could have an extension on this assignment.",
+      "You gave us too much work.",
+      "The deadline is unreasonable."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Um professor apresenta um tópico complexo que você está tendo dificuldade em acompanhar. Como você comunica isso?",
+    "correctAnswer": "I'm finding this concept difficult to grasp. Could you break it down into smaller parts?",
+    "options": [
+      "This is confusing.",
+      "I'm finding this concept difficult to grasp. Could you break it down into smaller parts?",
+      "You're not explaining it well.",
+      "I don't get any of this."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você cometeu um erro em um projeto importante. Como você o comunica responsavelmente?",
+    "correctAnswer": "I need to inform you of a mistake I made in my project. Here's how I plan to fix it.",
+    "options": [
+      "I messed up.",
+      "I need to inform you of a mistake I made in my project. Here's how I plan to fix it.",
+      "Someone else helped me and made an error.",
+      "The assignment was too hard."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Durante uma apresentação formal, você quer transicionar para um novo tópico. Como você faz isso profissionalmente?",
+    "correctAnswer": "Now that we've discussed the background, let's move on to the main findings.",
+    "options": [
+      "Let's talk about something else now.",
+      "Now that we've discussed the background, let's move on to the main findings.",
+      "I'm done with that part.",
+      "Let me change the subject."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Um colega sugere uma abordagem completamente diferente para um projeto. Como você avalia a sugestão?",
+    "correctAnswer": "That's an interesting approach. Let's compare the advantages and disadvantages of both methods.",
+    "options": [
+      "Your idea won't work.",
+      "That's an interesting approach. Let's compare the advantages and disadvantages of both methods.",
+      "Mine is definitely better.",
+      "We should stick with what we have."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você discorda com a interpretação de um texto que o professor apresentou. Como você levanta essa questão academicamente?",
+    "correctAnswer": "I respectfully have a different interpretation. Could we discuss the evidence for both readings?",
+    "options": [
+      "You're reading it wrong.",
+      "I respectfully have a different interpretation. Could we discuss the evidence for both readings?",
+      "Everyone else agrees with me.",
+      "Your analysis is flawed."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Durante uma discussão acadêmica, você quer esclarecer um ponto que foi mal entendido. Como você procede?",
+    "correctAnswer": "I think there may be a misunderstanding. Let me clarify what I meant to say.",
+    "options": [
+      "You didn't understand me.",
+      "I think there may be a misunderstanding. Let me clarify what I meant to say.",
+      "You're twisting my words.",
+      "That's not what I said."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Um professor solicita que você revise seu ensaio porque há pontos fracos. Como você responde profissionalmente?",
+    "correctAnswer": "Thank you for the feedback. I understand what needs improvement and I'll revise accordingly.",
+    "options": [
+      "I don't think there's anything wrong with it.",
+      "Thank you for the feedback. I understand what needs improvement and I'll revise accordingly.",
+      "But I worked really hard on it.",
+      "This is too much work."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer questionar uma decisão da escola que afeta seu aprendizado. Como você o faz através dos canais apropriados?",
+    "correctAnswer": "I would like to discuss how this decision might affect our learning. Is there a proper channel to address this?",
+    "options": [
+      "This is a stupid decision.",
+      "I would like to discuss how this decision might affect our learning. Is there a proper channel to address this?",
+      "Everyone thinks you're wrong.",
+      "This is unfair!"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Durante um seminário, você quer conectar a apresentação de alguém com seu próprio conhecimento prévio. Como você faz?",
+    "correctAnswer": "This connects well with what we learned about the topic last week. Could you elaborate on that connection?",
+    "options": [
+      "I already knew this.",
+      "This connects well with what we learned about the topic last week. Could you elaborate on that connection?",
+      "You're repeating what we already know.",
+      "That's not new information."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você nota que um colega está copiando as respostas de outro durante uma prova. Como você relata isso apropriadamente?",
+    "correctAnswer": "I should probably inform the teacher about what I observed to ensure academic integrity.",
+    "options": [
+      "I saw you cheating!",
+      "I should probably inform the teacher about what I observed to ensure academic integrity.",
+      "You're going to get caught.",
+      "That's none of my business."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Um professor oferece um projeto opcional desafiador. Como você expressa seu interesse e preocupações?",
+    "correctAnswer": "I'm interested in this project, but I have some concerns about the timeline. Could we discuss this?",
+    "options": [
+      "That's too hard for me.",
+      "I'm interested in this project, but I have some concerns about the timeline. Could we discuss this?",
+      "I don't have time for extra work.",
+      "This sounds impossible."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Durante uma aula, você quer sugerir que o grupo tome uma pausa. Como você o faz respeitosamente?",
+    "correctAnswer": "Would it be helpful to take a short break? I think it might help us focus better.",
+    "options": [
+      "I'm tired, let's stop.",
+      "Would it be helpful to take a short break? I think it might help us focus better.",
+      "This is taking too long.",
+      "Can we just go home?"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Um professor faz uma observação pessoal que você acha inapropriada. Como você comunica seu desconforto profissionalmente?",
+    "correctAnswer": "I appreciate your interest, but I'd prefer to keep our relationship professional and focused on academics.",
+    "options": [
+      "That's none of your business.",
+      "I appreciate your interest, but I'd prefer to keep our relationship professional and focused on academics.",
+      "You can't say that to me.",
+      "That was rude."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você recebeu uma recomendação forte para uma oportunidade de estudo. Como você expressa sua gratidão?",
+    "correctAnswer": "I'm truly grateful for your recommendation. This opportunity means a lot to me.",
+    "options": [
+      "Thanks, I guess.",
+      "I'm truly grateful for your recommendation. This opportunity means a lot to me.",
+      "I hope it helps.",
+      "You probably recommend everyone."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você está preparando uma defesa de tese e quer feedback honesto de um professor antes da apresentação. Como você o pede?",
+    "correctAnswer": "Would you be willing to review my thesis draft and give me honest feedback before my defense?",
+    "options": [
+      "Please tell me if my thesis is good.",
+      "Would you be willing to review my thesis draft and give me honest feedback before my defense?",
+      "I hope my thesis is okay.",
+      "Do you think I'll pass?"
+    ],
+    "difficulty": "hard"
+  }
+]

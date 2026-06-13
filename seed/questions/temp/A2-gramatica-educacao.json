@@ -1,0 +1,502 @@
+﻿[
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é a forma correta do verbo 'to be' na frase: 'She ___ a student'?",
+    "correctAnswer": "is",
+    "options": ["am", "is", "are", "be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'I ___ to school every day'",
+    "correctAnswer": "go",
+    "options": ["goes", "go", "going", "gone"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é o plural de 'class'?",
+    "correctAnswer": "classes",
+    "options": ["classs", "classes", "clasess", "classe"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete: 'They ___ studying English at the moment'",
+    "correctAnswer": "are",
+    "options": ["is", "are", "am", "be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual forma está correta? 'The teacher ___ the students yesterday'",
+    "correctAnswer": "taught",
+    "options": ["teach", "teaches", "taught", "teaching"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete: 'I have ___ many books about education'",
+    "correctAnswer": "read",
+    "options": ["readed", "read", "reads", "reading"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual alternativa completa corretamente: 'Do you ___ English?'",
+    "correctAnswer": "speak",
+    "options": ["speaks", "speak", "speaking", "spoke"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'She doesn't ___ to study at night'",
+    "correctAnswer": "like",
+    "options": ["likes", "like", "liking", "liked"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual está correto? 'There are ___ students in the classroom'",
+    "correctAnswer": "twenty",
+    "options": ["twenties", "twenty", "twentyth", "twentieth"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete: 'My school ___ a big library'",
+    "correctAnswer": "has",
+    "options": ["have", "has", "having", "had"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual alternativa está correta? 'The exam ___ difficult'",
+    "correctAnswer": "was",
+    "options": ["were", "was", "is", "are"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete: 'We ___ go to the library on Fridays'",
+    "correctAnswer": "usually",
+    "options": ["always", "usually", "never", "sometimes"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual forma está correta? 'Can you ___ me with my homework?'",
+    "correctAnswer": "help",
+    "options": ["helps", "help", "helping", "helped"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: '___ you finished your project?'",
+    "correctAnswer": "Have",
+    "options": ["Has", "Have", "Do", "Does"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual alternativa completa corretamente: 'The students ___ working on the assignment'",
+    "correctAnswer": "are",
+    "options": ["is", "are", "am", "be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete: 'I ___ to finish my homework before dinner'",
+    "correctAnswer": "need",
+    "options": ["needs", "need", "needing", "needed"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual está correto? 'They ___ been students for two years'",
+    "correctAnswer": "have",
+    "options": ["has", "have", "had", "having"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'If I ___ time, I will help you study'",
+    "correctAnswer": "have",
+    "options": ["has", "have", "had", "having"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual alternativa está correta? 'She wants to ___ an English teacher'",
+    "correctAnswer": "be",
+    "options": ["are", "is", "be", "been"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete: 'The children ___ to read before they went to school'",
+    "correctAnswer": "learned",
+    "options": ["learn", "learns", "learned", "learning"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual está correto? 'When I was young, I ___ interested in Mathematics'",
+    "correctAnswer": "was",
+    "options": ["were", "was", "is", "are"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The tests ___ being corrected by the teacher'",
+    "correctAnswer": "are",
+    "options": ["is", "are", "am", "be"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual alternativa completa corretamente: 'I don't mind ___ extra work for the exam'",
+    "correctAnswer": "doing",
+    "options": ["do", "does", "doing", "done"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete: 'She would prefer ___ to the university instead of working'",
+    "correctAnswer": "to go",
+    "options": ["go", "to go", "going", "gone"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual forma está correta? 'If you study harder, you ___ better results'",
+    "correctAnswer": "will get",
+    "options": ["get", "gets", "will get", "getting"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'By the time you graduate, you ___ here for four years'",
+    "correctAnswer": "will have been",
+    "options": ["are", "will be", "will have been", "were"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual alternativa está correta? 'The teacher ___ that all students should participate in class'",
+    "correctAnswer": "believes",
+    "options": ["believe", "believes", "believing", "believed"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete: 'Unless you ___ more attention, you will fail the test'",
+    "correctAnswer": "pay",
+    "options": ["pays", "pay", "paying", "paid"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual está correto? 'The principal ___ announced the new school policies'",
+    "correctAnswer": "has",
+    "options": ["have", "has", "having", "had"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'Both students and teachers ___ the new curriculum'",
+    "correctAnswer": "support",
+    "options": ["supports", "support", "supporting", "supported"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual alternativa completa corretamente: 'It's important that everyone ___ their homework on time'",
+    "correctAnswer": "does",
+    "options": ["do", "does", "doing", "done"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete: 'I wish I ___ more languages at school'",
+    "correctAnswer": "had learned",
+    "options": ["learn", "have learned", "had learned", "learning"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual forma está correta? 'The exam ___ place next Monday'",
+    "correctAnswer": "will take",
+    "options": ["takes", "take", "will take", "taking"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'Having ___ the textbook, I understood the concept better'",
+    "correctAnswer": "read",
+    "options": ["read", "reading", "reads", "readed"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual alternativa está correta? 'Were I to become a principal, I would change many things'",
+    "correctAnswer": "Were",
+    "options": ["If I were", "Were", "If I was", "Was I"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete: 'The way ___ which the students learned was quite innovative'",
+    "correctAnswer": "in",
+    "options": ["at", "in", "on", "with"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual está correto? 'Not only did he study hard, but he also ___ excellent grades'",
+    "correctAnswer": "achieved",
+    "options": ["achieve", "achieves", "achieved", "achieving"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The students, some of ___ were brilliant, all passed the exam'",
+    "correctAnswer": "whom",
+    "options": ["who", "whom", "which", "whose"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual alternativa completa corretamente: 'It is essential that the curriculum ___ updated regularly'",
+    "correctAnswer": "be",
+    "options": ["is", "be", "will be", "being"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete: 'The student, whom the teacher praised, ___ very dedicated'",
+    "correctAnswer": "was",
+    "options": ["were", "was", "is", "are"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual forma está correta? 'As difficult as the subject is, it requires understanding ___'",
+    "correctAnswer": "of concepts",
+    "options": ["the concepts", "of concepts", "concepts", "the concept"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The school being renovated is ___ which my parents studied'",
+    "correctAnswer": "the same",
+    "options": ["same", "the same", "the one same", "same one"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual alternativa está correta? 'She would have studied abroad ___ she had more money'",
+    "correctAnswer": "if",
+    "options": ["whether", "if", "unless", "when"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete: 'The organization of the course, despite ___ challenges, was successful'",
+    "correctAnswer": "its",
+    "options": ["it", "its", "it's", "their"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual está correto? 'She not only teaches English but also ___'",
+    "correctAnswer": "helps with tutoring",
+    "options": ["tutoring helps with", "helps with tutoring", "tutoring help", "help tutoring"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'By studying consistently, ___ the student achieved success'",
+    "correctAnswer": "only then did",
+    "options": ["did only then", "only then did", "then only did", "did then only"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual alternativa completa corretamente: 'The exam, ___ difficulty was acknowledged, was still passed by most'",
+    "correctAnswer": "whose",
+    "options": ["who", "whom", "whose", "which"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete: 'Rather than ___ more courses, she decided to focus on quality'",
+    "correctAnswer": "taking",
+    "options": ["take", "takes", "taking", "taken"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual forma está correta? 'The students demanded that the teacher ___ the assessment'",
+    "correctAnswer": "postpone",
+    "options": ["postpones", "postpone", "postponed", "postponing"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'Neither the students nor the teacher ___ about the schedule change'",
+    "correctAnswer": "was informed",
+    "options": ["were informed", "was informed", "are informed", "have been informed"],
+    "difficulty": "hard"
+  }
+]

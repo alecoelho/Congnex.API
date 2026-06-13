@@ -1,0 +1,522 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Eu estudo inglês.",
+    "correctAnswer": "I study English.",
+    "options": ["I study English.", "I learn Portuguese.", "I read English.", "I speak English."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Ela é professora.",
+    "correctAnswer": "She is a teacher.",
+    "options": ["She is a teacher.", "She is a student.", "She is a doctor.", "She is a nurse."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Eu tenho um livro.",
+    "correctAnswer": "I have a book.",
+    "options": ["I have a book.", "I have a pen.", "I have a bag.", "I have a desk."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Ele é aluno.",
+    "correctAnswer": "He is a student.",
+    "options": ["He is a student.", "He is a teacher.", "He is a boy.", "He is a friend."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "A escola é grande.",
+    "correctAnswer": "The school is big.",
+    "options": ["The school is big.", "The school is small.", "The school is old.", "The school is new."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Eu escrevo no caderno.",
+    "correctAnswer": "I write in the notebook.",
+    "options": ["I write in the notebook.", "I read in the notebook.", "I draw in the notebook.", "I study in the notebook."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "A aula começa às oito.",
+    "correctAnswer": "The class starts at eight.",
+    "options": ["The class starts at eight.", "The class ends at eight.", "The class starts at nine.", "The class starts at seven."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Eu leio um livro.",
+    "correctAnswer": "I read a book.",
+    "options": ["I read a book.", "I write a book.", "I buy a book.", "I open a book."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Nós estudamos juntos.",
+    "correctAnswer": "We study together.",
+    "options": ["We study together.", "We play together.", "We eat together.", "We learn together."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "A lápis é amarelo.",
+    "correctAnswer": "The pencil is yellow.",
+    "options": ["The pencil is yellow.", "The pen is yellow.", "The pencil is red.", "The pencil is blue."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "O professor fala inglês.",
+    "correctAnswer": "The teacher speaks English.",
+    "options": ["The teacher speaks English.", "The teacher reads English.", "The teacher teaches French.", "The teacher writes English."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Eu gosto de aprender.",
+    "correctAnswer": "I like to learn.",
+    "options": ["I like to learn.", "I like to play.", "I like to read.", "I want to learn."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "A sala de aula é limpa.",
+    "correctAnswer": "The classroom is clean.",
+    "options": ["The classroom is clean.", "The classroom is dirty.", "The classroom is big.", "The classroom is empty."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Eu tenho uma borracha.",
+    "correctAnswer": "I have an eraser.",
+    "options": ["I have an eraser.", "I have a ruler.", "I have a pencil.", "I have a pen."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "O aluno responde a pergunta.",
+    "correctAnswer": "The student answers the question.",
+    "options": ["The student answers the question.", "The student asks the question.", "The student reads the question.", "The student writes the question."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Eu vou para a escola.",
+    "correctAnswer": "I go to school.",
+    "options": ["I go to school.", "I come from school.", "I stay at school.", "I leave school."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "O livro está na mesa.",
+    "correctAnswer": "The book is on the table.",
+    "options": ["The book is on the table.", "The book is under the table.", "The book is near the table.", "The book is beside the table."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Ela aprende matemática na escola.",
+    "correctAnswer": "She learns math at school.",
+    "options": ["She learns math at school.", "She teaches math at school.", "She studies English at school.", "She reads math at school."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Os alunos fazem a lição de casa.",
+    "correctAnswer": "The students do their homework.",
+    "options": ["The students do their homework.", "The students read their homework.", "The students finish their homework.", "The students write their homework."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "O professor escreve no quadro.",
+    "correctAnswer": "The teacher writes on the board.",
+    "options": ["The teacher writes on the board.", "The teacher draws on the board.", "The teacher reads on the board.", "The teacher speaks on the board."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Nós temos aula de ciências hoje.",
+    "correctAnswer": "We have science class today.",
+    "options": ["We have science class today.", "We have math class today.", "We have English class today.", "We have art class today."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Eu preciso de uma régua.",
+    "correctAnswer": "I need a ruler.",
+    "options": ["I need a ruler.", "I want a ruler.", "I have a ruler.", "I use a ruler."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "A biblioteca fica perto da escola.",
+    "correctAnswer": "The library is near the school.",
+    "options": ["The library is near the school.", "The library is far from the school.", "The library is inside the school.", "The library is behind the school."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Ela não entende a pergunta.",
+    "correctAnswer": "She does not understand the question.",
+    "options": ["She does not understand the question.", "She does not answer the question.", "She does not read the question.", "She does not hear the question."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Meu professor é muito bom.",
+    "correctAnswer": "My teacher is very good.",
+    "options": ["My teacher is very good.", "My teacher is very kind.", "My teacher is very nice.", "My teacher is very smart."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Os alunos sentam nas cadeiras.",
+    "correctAnswer": "The students sit on the chairs.",
+    "options": ["The students sit on the chairs.", "The students stand on the chairs.", "The students sleep on the chairs.", "The students play on the chairs."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Eu abro meu caderno.",
+    "correctAnswer": "I open my notebook.",
+    "options": ["I open my notebook.", "I close my notebook.", "I read my notebook.", "I write my notebook."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Ela estuda todas as noites.",
+    "correctAnswer": "She studies every night.",
+    "options": ["She studies every night.", "She reads every night.", "She studies every morning.", "She learns every night."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "O diretor da escola é simpático.",
+    "correctAnswer": "The school principal is friendly.",
+    "options": ["The school principal is friendly.", "The school teacher is friendly.", "The school principal is strict.", "The school director is kind."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Nós lemos em voz alta.",
+    "correctAnswer": "We read aloud.",
+    "options": ["We read aloud.", "We speak aloud.", "We write aloud.", "We study aloud."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Eu não sei a resposta.",
+    "correctAnswer": "I do not know the answer.",
+    "options": ["I do not know the answer.", "I do not have the answer.", "I do not understand the answer.", "I do not find the answer."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "A professora corrige os exercícios.",
+    "correctAnswer": "The teacher corrects the exercises.",
+    "options": ["The teacher corrects the exercises.", "The teacher writes the exercises.", "The teacher reads the exercises.", "The teacher gives the exercises."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Eu presto atenção na aula.",
+    "correctAnswer": "I pay attention in class.",
+    "options": ["I pay attention in class.", "I listen carefully in class.", "I stay quiet in class.", "I sit down in class."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Ele esqueceu o material em casa.",
+    "correctAnswer": "He forgot his school supplies at home.",
+    "options": ["He forgot his school supplies at home.", "He left his school supplies at home.", "He lost his school supplies at home.", "He forgot his homework at home."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Os estudantes fazem uma prova.",
+    "correctAnswer": "The students take a test.",
+    "options": ["The students take a test.", "The students do a test.", "The students write a test.", "The students study a test."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Eu copio o que está no quadro.",
+    "correctAnswer": "I copy what is on the board.",
+    "options": ["I copy what is on the board.", "I read what is on the board.", "I draw what is on the board.", "I erase what is on the board."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "O aluno levanta a mão para fazer uma pergunta.",
+    "correctAnswer": "The student raises his hand to ask a question.",
+    "options": ["The student raises his hand to ask a question.", "The student raises his hand to answer a question.", "The student claps his hand to ask a question.", "The student raises his hand to say something."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "A professora explica a lição com paciência.",
+    "correctAnswer": "The teacher explains the lesson patiently.",
+    "options": ["The teacher explains the lesson patiently.", "The teacher reads the lesson patiently.", "The teacher teaches the lesson slowly.", "The teacher gives the lesson patiently."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Minha escola tem uma quadra de esportes.",
+    "correctAnswer": "My school has a sports court.",
+    "options": ["My school has a sports court.", "My school has a swimming pool.", "My school has a sports field.", "My school has a gym."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Os alunos formam grupos para o trabalho.",
+    "correctAnswer": "The students form groups for the assignment.",
+    "options": ["The students form groups for the assignment.", "The students make groups for the assignment.", "The students join groups for the assignment.", "The students form pairs for the assignment."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Eu não consigo entender a matéria sozinho.",
+    "correctAnswer": "I cannot understand the subject on my own.",
+    "options": ["I cannot understand the subject on my own.", "I do not study the subject on my own.", "I cannot learn the subject alone.", "I cannot read the subject by myself."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "A professora pede silêncio na sala.",
+    "correctAnswer": "The teacher asks for silence in the classroom.",
+    "options": ["The teacher asks for silence in the classroom.", "The teacher says quiet in the classroom.", "The teacher wants silence in the classroom.", "The teacher calls for quiet in the classroom."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Nós terminamos a prova antes do tempo.",
+    "correctAnswer": "We finish the test before time.",
+    "options": ["We finish the test before time.", "We end the test before time.", "We complete the test early.", "We done the test before time."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Ele recebe uma nota boa na prova.",
+    "correctAnswer": "He gets a good grade on the test.",
+    "options": ["He gets a good grade on the test.", "He receives a good mark in the test.", "He has a good score on the test.", "He earns a good grade on the exam."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "A escola oferece aulas de música e arte.",
+    "correctAnswer": "The school offers music and art classes.",
+    "options": ["The school offers music and art classes.", "The school has music and art lessons.", "The school gives music and art courses.", "The school provides music and art classes."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Os estudantes precisam trazer o material escolar.",
+    "correctAnswer": "The students need to bring their school supplies.",
+    "options": ["The students need to bring their school supplies.", "The students must carry their school material.", "The students have to bring their school things.", "The students need to take their school supplies."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Ela pratica inglês com o colega de classe.",
+    "correctAnswer": "She practices English with her classmate.",
+    "options": ["She practices English with her classmate.", "She speaks English with her classmate.", "She studies English with her friend.", "She learns English with her schoolmate."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Nós visitamos a biblioteca toda semana.",
+    "correctAnswer": "We visit the library every week.",
+    "options": ["We visit the library every week.", "We go to the library every week.", "We use the library every week.", "We visit the library each week."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "O professor distribui as folhas de exercício.",
+    "correctAnswer": "The teacher hands out the exercise sheets.",
+    "options": ["The teacher hands out the exercise sheets.", "The teacher gives the exercise sheets.", "The teacher distributes the worksheets.", "The teacher passes the exercise papers."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Eu aprendo novas palavras lendo textos.",
+    "correctAnswer": "I learn new words by reading texts.",
+    "options": ["I learn new words by reading texts.", "I study new words by reading texts.", "I find new words by reading texts.", "I know new words by reading texts."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "Os alunos repetem as frases depois da professora.",
+    "correctAnswer": "The students repeat the sentences after the teacher.",
+    "options": ["The students repeat the sentences after the teacher.", "The students copy the sentences after the teacher.", "The students say the sentences with the teacher.", "The students read the sentences after the teacher."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "educacao",
+    "type": "translation",
+    "questionText": "A mochila do aluno está cheia de livros.",
+    "correctAnswer": "The student's backpack is full of books.",
+    "options": ["The student's backpack is full of books.", "The student's bag is full of books.", "The student's backpack is heavy with books.", "The student's schoolbag is full of books."],
+    "difficulty": "hard"
+  }
+]

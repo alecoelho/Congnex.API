@@ -1,0 +1,522 @@
+[
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "A empresa decidiu ___ seus ativos para levantar capital rapidamente.",
+    "correctAnswer": "liquidate",
+    "options": ["liquidate", "depreciate", "allocate", "amortize"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "O conselho de administração votou para ___ o CEO após o escândalo financeiro.",
+    "correctAnswer": "dismiss",
+    "options": ["dismiss", "recruit", "promote", "deploy"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "A taxa de juros baixa encorajou os investidores a ___ em mercados emergentes.",
+    "correctAnswer": "invest",
+    "options": ["invest", "withdraw", "lend", "default"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Para melhorar a lucratividade, a empresa precisou ___ seus custos operacionais.",
+    "correctAnswer": "reduce",
+    "options": ["reduce", "inflate", "extend", "suspend"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "O relatório anual foi ___ por auditores independentes antes de ser publicado.",
+    "correctAnswer": "audited",
+    "options": ["audited", "dismissed", "acquired", "inflated"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "A startup conseguiu ___ dois milhões de dólares em sua primeira rodada de financiamento.",
+    "correctAnswer": "raise",
+    "options": ["raise", "spend", "borrow", "cut"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "O banco central decidiu ___ a taxa de juros para combater a inflação.",
+    "correctAnswer": "hike",
+    "options": ["hike", "freeze", "suspend", "recalculate"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "A empresa lançou uma campanha agressiva para ___ sua participação no mercado.",
+    "correctAnswer": "expand",
+    "options": ["expand", "contract", "dilute", "forfeit"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Os acionistas receberam um ___ generoso ao final do ano fiscal.",
+    "correctAnswer": "dividend",
+    "options": ["dividend", "deficit", "premium", "subsidy"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "A fusão entre as duas empresas foi ___ pelas autoridades regulatórias.",
+    "correctAnswer": "approved",
+    "options": ["approved", "contested", "delayed", "issued"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "O departamento de RH foi responsável por ___ os novos colaboradores durante a integração.",
+    "correctAnswer": "onboard",
+    "options": ["onboard", "outsource", "terminate", "benchmark"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "A empresa assinou um ___ de confidencialidade antes de divulgar informações estratégicas.",
+    "correctAnswer": "non-disclosure agreement",
+    "options": ["non-disclosure agreement", "letter of intent", "purchase order", "balance sheet"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Para evitar ___, a empresa diversificou seus investimentos em diferentes setores.",
+    "correctAnswer": "overexposure",
+    "options": ["overexposure", "underfunding", "overstaffing", "understocking"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "O CEO apresentou uma proposta de ___ para reduzir o quadro de funcionários em 15%.",
+    "correctAnswer": "downsizing",
+    "options": ["downsizing", "outsourcing", "benchmarking", "rebranding"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "A empresa precisava de capital adicional para ___ suas operações no exterior.",
+    "correctAnswer": "fund",
+    "options": ["fund", "audit", "hedge", "divest"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "O analista recomendou ___ as ações antes que o preço caísse ainda mais.",
+    "correctAnswer": "selling",
+    "options": ["selling", "holding", "shorting", "issuing"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "A empresa obteve um empréstimo ___ para financiar a construção de sua nova sede.",
+    "correctAnswer": "secured",
+    "options": ["secured", "unsecured", "deferred", "revolving"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "A ___ do contrato foi adiada devido a discordâncias sobre as cláusulas de rescisão.",
+    "correctAnswer": "ratification",
+    "options": ["ratification", "dissolution", "arbitration", "annulment"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "O conselho deliberou sobre a necessidade de ___ as demonstrações financeiras após a descoberta de irregularidades.",
+    "correctAnswer": "restate",
+    "options": ["restate", "consolidate", "underwrite", "foreclose"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "A prática de ___ envolve a compra e venda simultânea de ativos para lucrar com diferenças de preço entre mercados.",
+    "correctAnswer": "arbitrage",
+    "options": ["arbitrage", "hedging", "leveraging", "scalping"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "A empresa decidiu ___ sua divisão de manufatura para focar em serviços de alto valor agregado.",
+    "correctAnswer": "divest",
+    "options": ["divest", "leverage", "syndicate", "capitalize"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "O ___ do fundo de investimento superou as expectativas do mercado em três pontos percentuais.",
+    "correctAnswer": "yield",
+    "options": ["yield", "equity", "markup", "overhead"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Para mitigar riscos cambiais, a tesouraria da empresa optou por ___ suas posições em moeda estrangeira.",
+    "correctAnswer": "hedge",
+    "options": ["hedge", "leverage", "collateralize", "amortize"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "O modelo de negócios da empresa depende fortemente de ___ receitas recorrentes por meio de assinaturas.",
+    "correctAnswer": "generating",
+    "options": ["generating", "forfeiting", "deferring", "offsetting"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "O banco central emitiu uma nota alertando sobre os riscos de ___ no setor imobiliário.",
+    "correctAnswer": "overleveraging",
+    "options": ["overleveraging", "undercapitalizing", "overshooting", "underwriting"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "A empresa emitiu ___ para arrecadar fundos sem diluir a participação dos acionistas existentes.",
+    "correctAnswer": "bonds",
+    "options": ["bonds", "warrants", "derivatives", "futures"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "A estratégia de ___ visa adquirir empresas concorrentes para aumentar a participação de mercado.",
+    "correctAnswer": "horizontal integration",
+    "options": ["horizontal integration", "vertical integration", "market penetration", "product diversification"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "O ___ da empresa foi questionado após a descoberta de práticas contábeis duvidosas.",
+    "correctAnswer": "solvency",
+    "options": ["solvency", "liquidity", "profitability", "efficiency"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "A empresa entrou em ___ ao não conseguir honrar suas obrigações financeiras no prazo acordado.",
+    "correctAnswer": "default",
+    "options": ["default", "arrears", "insolvency", "receivership"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "O processo de ___ envolve a transferência de ativos ilíquidos para títulos negociáveis no mercado financeiro.",
+    "correctAnswer": "securitization",
+    "options": ["securitization", "syndication", "collateralization", "monetization"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "A empresa adotou uma política de ___ para garantir que os fornecedores cumpram padrões éticos e ambientais.",
+    "correctAnswer": "due diligence",
+    "options": ["due diligence", "compliance auditing", "supply chain mapping", "vendor screening"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "O ___ da emissão de ações foi fixado abaixo do valor de mercado para garantir a subscrição total.",
+    "correctAnswer": "issue price",
+    "options": ["issue price", "par value", "book value", "strike price"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "A estratégia de ___ permite que a empresa entre em novos mercados com risco financeiro minimizado.",
+    "correctAnswer": "franchising",
+    "options": ["franchising", "licensing", "joint venturing", "bootstrapping"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "O CFO propôs um programa de ___ de ações para recompensar executivos pelo desempenho de longo prazo.",
+    "correctAnswer": "stock option",
+    "options": ["stock option", "share buyback", "rights issue", "convertible note"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "A empresa utilizou ___ para maximizar o retorno sobre o patrimônio líquido, assumindo dívida adicional.",
+    "correctAnswer": "leverage",
+    "options": ["leverage", "arbitrage", "collateral", "amortization"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "O fundo de ___ busca retornos acima do mercado por meio de estratégias de investimento não convencionais.",
+    "correctAnswer": "hedge",
+    "options": ["hedge", "pension", "mutual", "sovereign wealth"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "A deterioração das condições macroeconômicas levou os investidores institucionais a ___ suas carteiras em ativos de refúgio.",
+    "correctAnswer": "reallocate",
+    "options": ["reallocate", "liquidate", "rebalance", "deleverage"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "A adoção de ___ permitiu à empresa reconhecer receitas de forma mais fiel à entrega efetiva dos serviços contratados.",
+    "correctAnswer": "accrual accounting",
+    "options": ["accrual accounting", "cash basis accounting", "mark-to-market accounting", "fair value accounting"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "A estrutura de ___ foi fundamental para proteger os ativos da empresa-mãe durante a expansão para mercados de alto risco.",
+    "correctAnswer": "ring-fencing",
+    "options": ["ring-fencing", "asset stripping", "collateralization", "subordination"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "O banco optou por ___ parte da carteira de crédito inadimplente para liberar capital regulatório.",
+    "correctAnswer": "write off",
+    "options": ["write off", "write down", "provision against", "charge back"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "A empresa foi acusada de ___ ao registrar deliberadamente despesas futuras como ativos no balanço patrimonial.",
+    "correctAnswer": "capitalizing expenses",
+    "options": ["capitalizing expenses", "deferring liabilities", "inflating revenues", "understating depreciation"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "A estratégia de ___ visa criar barreiras artificiais de entrada por meio de contratos exclusivos com fornecedores-chave.",
+    "correctAnswer": "foreclosure",
+    "options": ["foreclosure", "predatory pricing", "tying", "vertical restraint"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "O comitê de auditoria identificou uma falha de ___ que permitiu que transações não autorizadas passassem despercebidas por meses.",
+    "correctAnswer": "internal control",
+    "options": ["internal control", "risk governance", "compliance oversight", "financial reporting"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "O mecanismo de ___ garante que as perdas de uma subsidiária não contaminem o balanço da holding principal.",
+    "correctAnswer": "structural subordination",
+    "options": ["structural subordination", "cross-default clauses", "negative pledge covenants", "pari passu provisions"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "A crise de liquidez forçou a empresa a recorrer a ___ para converter ativos ilíquidos em caixa rapidamente.",
+    "correctAnswer": "fire-sale pricing",
+    "options": ["fire-sale pricing", "distressed selling", "asset monetization", "repo financing"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "O investidor ativista exigiu que a empresa adotasse uma política de ___ para maximizar o retorno ao acionista no curto prazo.",
+    "correctAnswer": "share repurchase",
+    "options": ["share repurchase", "scrip dividend", "rights offering", "reverse stock split"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "A operação de ___ permitiu à empresa captar recursos fora do balanço patrimonial, reduzindo aparentemente seu índice de endividamento.",
+    "correctAnswer": "off-balance-sheet financing",
+    "options": ["off-balance-sheet financing", "mezzanine financing", "sale-leaseback", "vendor financing"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "A política monetária ___ adotada pelo banco central resultou em uma compressão significativa dos spreads de crédito no mercado.",
+    "correctAnswer": "accommodative",
+    "options": ["accommodative", "contractionary", "restrictive", "orthodox"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "O acordo de ___ entre os credores seniores e subordinados determinou a ordem de prioridade no pagamento em caso de liquidação.",
+    "correctAnswer": "intercreditor",
+    "options": ["intercreditor", "subordination", "co-lending", "syndication"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "A prática de ___ consiste em inflar artificialmente os lucros reportados por meio de reconhecimento antecipado de receitas.",
+    "correctAnswer": "earnings management",
+    "options": ["earnings management", "window dressing", "channel stuffing", "round-tripping"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "O modelo de ___ foi adotado para alinhar os interesses dos gestores com os dos acionistas por meio de remuneração variável atrelada ao desempenho.",
+    "correctAnswer": "pay-for-performance",
+    "options": ["pay-for-performance", "profit-sharing", "deferred compensation", "retention bonus"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "A ___ dos títulos corporativos foi rebaixada pela agência de classificação de risco, refletindo a deterioração da saúde financeira do emissor.",
+    "correctAnswer": "credit rating",
+    "options": ["credit rating", "bond yield", "risk premium", "debt covenant"],
+    "difficulty": "hard"
+  }
+]

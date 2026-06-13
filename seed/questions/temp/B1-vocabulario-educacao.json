@@ -1,0 +1,737 @@
+﻿[
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027aprendizado\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "learning",
+                        "teacher",
+                        "school",
+                        "book"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "learning"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o oposto de \u0027difícil\u0027 no contexto educacional?",
+        "difficulty":  "easy",
+        "options":  [
+                        "hard",
+                        "easy",
+                        "complicated",
+                        "complex"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que é um \u0027professor\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "student",
+                        "teacher",
+                        "principal",
+                        "librarian"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "teacher"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual palavra significa \u0027aluno\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "teacher",
+                        "student",
+                        "staff",
+                        "principal"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "student"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que é uma \u0027lição\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "break",
+                        "lesson",
+                        "holiday",
+                        "exam"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "lesson"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a palavra para \u0027exame\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "test",
+                        "exam",
+                        "quiz",
+                        "all of the above"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "exam"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027estudar\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "to play",
+                        "to study",
+                        "to sleep",
+                        "to eat"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "to study"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que é uma \u0027escola\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "home",
+                        "school",
+                        "library",
+                        "office"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "school"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual palavra significa \u0027sala de aula\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "playground",
+                        "classroom",
+                        "cafeteria",
+                        "gym"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "classroom"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que é um \u0027livro\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "pen",
+                        "book",
+                        "desk",
+                        "chair"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "book"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a palavra para \u0027lápis\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "rubber",
+                        "pencil",
+                        "eraser",
+                        "notebook"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "pencil"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027tarefa\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "homework",
+                        "break",
+                        "recess",
+                        "lunch"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "homework"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual palavra significa \u0027nota\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "grade",
+                        "mark",
+                        "score",
+                        "all of the above"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "grade"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que é uma \u0027universidade\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "primary school",
+                        "university",
+                        "kindergarten",
+                        "nursery"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "university"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a palavra para \u0027formatura\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "graduation",
+                        "admission",
+                        "enrollment",
+                        "registration"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "graduation"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027curso\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "class",
+                        "course",
+                        "subject",
+                        "all of the above"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "course"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual palavra significa \u0027dissertação\u0027 ou \u0027trabalho acadêmico\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "exam",
+                        "essay",
+                        "quiz",
+                        "test"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "essay"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027pesquisa\u0027 no contexto acadêmico?",
+        "difficulty":  "medium",
+        "options":  [
+                        "reading",
+                        "research",
+                        "writing",
+                        "studying"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "research"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027currículo\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "curriculum",
+                        "schedule",
+                        "timetable",
+                        "syllabus"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "curriculum"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027bolsa de estudos\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "loan",
+                        "scholarship",
+                        "grant",
+                        "allowance"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "scholarship"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual palavra significa \u0027competência\u0027 ou \u0027habilidade\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "knowledge",
+                        "skill",
+                        "ability",
+                        "all of the above"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "skill"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027educação continuada\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "distance learning",
+                        "lifelong learning",
+                        "online education",
+                        "formal education"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "lifelong learning"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o termo para \u0027reprovação em um exame\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "to pass",
+                        "to fail",
+                        "to complete",
+                        "to finish"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "to fail"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027aprovação\u0027 em um exame?",
+        "difficulty":  "medium",
+        "options":  [
+                        "to fail",
+                        "to pass",
+                        "to attempt",
+                        "to try"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "to pass"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual palavra significa \u0027aula particulares\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "lecture",
+                        "tutoring",
+                        "seminar",
+                        "workshop"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "tutoring"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que é um \u0027seminário\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "lecture",
+                        "seminar",
+                        "conference",
+                        "meeting"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "seminar"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o termo para \u0027educação à distância\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "virtual learning",
+                        "distance learning",
+                        "online learning",
+                        "remote education"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "distance learning"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027avaliação formativa\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "summative assessment",
+                        "formative assessment",
+                        "continuous assessment",
+                        "formal assessment"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "formative assessment"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual palavra significa \u0027maestria\u0027 ou \u0027domínio completo\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "proficiency",
+                        "mastery",
+                        "competence",
+                        "expertise"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "mastery"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que é um \u0027diploma\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "certificate",
+                        "diploma",
+                        "degree",
+                        "all of the above"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "diploma"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027estágio profissional\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "apprenticeship",
+                        "internship",
+                        "fellowship",
+                        "training"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "internship"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027conhecimento tácito\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "explicit knowledge",
+                        "tacit knowledge",
+                        "implicit learning",
+                        "prior knowledge"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "tacit knowledge"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual termo refere-se a \u0027aprendizagem por descoberta\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "experiential learning",
+                        "discovery learning",
+                        "constructivist learning",
+                        "cooperative learning"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "discovery learning"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027metacognição\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "cognition",
+                        "metacognition",
+                        "cognizance",
+                        "recognition"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "metacognition"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual palavra significa \u0027pedagogia\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "pedagogy",
+                        "andragogy",
+                        "didactics",
+                        "heuristics"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "pedagogy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027andragogia\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "pedagogy",
+                        "andragogy",
+                        "instructional design",
+                        "curriculum design"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "andragogy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o termo para \u0027aprendizagem cooperativa\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "collaborative learning",
+                        "cooperative learning",
+                        "peer learning",
+                        "group study"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "cooperative learning"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027aprendizagem significativa\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "rote learning",
+                        "meaningful learning",
+                        "experiential learning",
+                        "observational learning"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "meaningful learning"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual palavra refere-se a \u0027currículo oculto\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "explicit curriculum",
+                        "hidden curriculum",
+                        "informal curriculum",
+                        "null curriculum"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "hidden curriculum"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027avaliação somativa\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "formative assessment",
+                        "summative assessment",
+                        "diagnostic assessment",
+                        "ipsative assessment"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "summative assessment"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027construtivismo\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "behaviorism",
+                        "constructivism",
+                        "cognitivism",
+                        "connectivism"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "constructivism"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027aprendizagem experiencial\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "theoretical learning",
+                        "experiential learning",
+                        "abstract learning",
+                        "passive learning"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "experiential learning"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual termo refere-se a \u0027zona de desenvolvimento proximal\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "zone of proximal development",
+                        "cognitive schema",
+                        "learning paradigm",
+                        "mental model"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "zone of proximal development"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027educação inclusiva\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "exclusive education",
+                        "inclusive education",
+                        "specialized education",
+                        "traditional education"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "inclusive education"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual palavra significa \u0027alfabetização digital\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "computer skills",
+                        "digital literacy",
+                        "technological knowledge",
+                        "internet proficiency"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "digital literacy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027gamificação\u0027 na educação?",
+        "difficulty":  "hard",
+        "options":  [
+                        "game-based learning",
+                        "gamification",
+                        "serious games",
+                        "educational games"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "gamification"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o termo para \u0027educação corporativa\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "corporate training",
+                        "professional development",
+                        "continuing education",
+                        "workplace learning"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "corporate training"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027competência cultural\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "cultural knowledge",
+                        "cultural competence",
+                        "cultural awareness",
+                        "cultural sensitivity"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "cultural competence"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual palavra refere-se a \u0027aprendizagem ao longo da vida\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "continuous learning",
+                        "lifelong learning",
+                        "permanent education",
+                        "adult learning"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "lifelong learning"
+    }
+]

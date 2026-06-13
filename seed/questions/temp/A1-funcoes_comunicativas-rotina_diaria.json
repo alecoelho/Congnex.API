@@ -1,0 +1,502 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você acorda de manhã e quer dizer que toma café da manhã todos os dias. O que você diz?",
+    "correctAnswer": "I have breakfast every day.",
+    "options": ["I have breakfast every day.", "I do breakfast every day.", "I make a breakfast every day.", "I eat a breakfast every day."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que vai dormir às dez da noite. O que você diz?",
+    "correctAnswer": "I go to bed at ten o'clock.",
+    "options": ["I go to bed at ten o'clock.", "I sleep at ten hours.", "I go sleep in ten o'clock.", "I go to bed in ten hours."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que escova os dentes de manhã. O que você diz?",
+    "correctAnswer": "I brush my teeth in the morning.",
+    "options": ["I brush my teeth in the morning.", "I clean my teeths in the morning.", "I wash my teeth in morning.", "I brush my tooth in the morning."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que toma banho todos os dias. O que você diz?",
+    "correctAnswer": "I take a shower every day.",
+    "options": ["I take a shower every day.", "I do a shower every day.", "I have a bath every days.", "I make shower every day."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que vai trabalhar de manhã. O que você diz?",
+    "correctAnswer": "I go to work in the morning.",
+    "options": ["I go to work in the morning.", "I go to the work at morning.", "I go work in morning.", "I do work in the morning."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que almoça ao meio-dia. O que você diz?",
+    "correctAnswer": "I have lunch at noon.",
+    "options": ["I have lunch at noon.", "I eat lunch in noon.", "I do lunch at twelve.", "I take lunch at noon."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que acorda às sete da manhã. O que você diz?",
+    "correctAnswer": "I wake up at seven o'clock.",
+    "options": ["I wake up at seven o'clock.", "I open eyes at seven o'clock.", "I wake at seven hours.", "I get up in seven o'clock."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que volta para casa à tarde. O que você diz?",
+    "correctAnswer": "I come home in the afternoon.",
+    "options": ["I come home in the afternoon.", "I return to house in afternoon.", "I go home at the afternoon.", "I back home in the afternoon."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que assiste televisão à noite. O que você diz?",
+    "correctAnswer": "I watch TV at night.",
+    "options": ["I watch TV at night.", "I see TV in the night.", "I look TV at night.", "I watch the television in night."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que lê um livro antes de dormir. O que você diz?",
+    "correctAnswer": "I read a book before bed.",
+    "options": ["I read a book before bed.", "I see a book before sleep.", "I study a book before bed.", "I read book before to bed."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que bebe café de manhã. O que você diz?",
+    "correctAnswer": "I drink coffee in the morning.",
+    "options": ["I drink coffee in the morning.", "I take coffee at morning.", "I eat coffee in the morning.", "I have a coffee at mornings."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que faz exercício de manhã. O que você diz?",
+    "correctAnswer": "I exercise in the morning.",
+    "options": ["I exercise in the morning.", "I do exercices in morning.", "I make exercise at the morning.", "I train in mornings."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que sai de casa às oito horas. O que você diz?",
+    "correctAnswer": "I leave home at eight o'clock.",
+    "options": ["I leave home at eight o'clock.", "I go out house at eight.", "I exit home at eight o'clock.", "I leave house in eight hours."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que janta às sete da noite. O que você diz?",
+    "correctAnswer": "I have dinner at seven o'clock.",
+    "options": ["I have dinner at seven o'clock.", "I eat dinner in seven hours.", "I do dinner at seven.", "I take dinner at seven o'clock."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que anda de ônibus para o trabalho. O que você diz?",
+    "correctAnswer": "I take the bus to work.",
+    "options": ["I take the bus to work.", "I go by bus for work.", "I ride bus to the work.", "I use the bus at work."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que dorme oito horas por noite. O que você diz?",
+    "correctAnswer": "I sleep eight hours a night.",
+    "options": ["I sleep eight hours a night.", "I sleep for eight hour at night.", "I rest eight hours in night.", "I do sleep eight hours night."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que lava o rosto de manhã. O que você diz?",
+    "correctAnswer": "I wash my face in the morning.",
+    "options": ["I wash my face in the morning.", "I clean face at morning.", "I wash the face in mornings.", "I do wash my face in morning."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar a que horas seu colega acorda todo dia. O que você pergunta?",
+    "correctAnswer": "What time do you wake up every day?",
+    "options": ["What time do you wake up every day?", "What hour you wake up every day?", "When time do you wake up every day?", "What time you wakes up every day?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar se seu amigo toma café da manhã antes de ir para a escola. O que você pergunta?",
+    "correctAnswer": "Do you have breakfast before school?",
+    "options": ["Do you have breakfast before school?", "You have breakfast before school?", "Do you eat breakfast before the school?", "Have you breakfast before school?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que seu irmão vai à escola de ônibus. O que você diz?",
+    "correctAnswer": "My brother goes to school by bus.",
+    "options": ["My brother goes to school by bus.", "My brother go to school by bus.", "My brother goes to the school in bus.", "My brother takes to school by bus."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que sua mãe cozinha o jantar todos os dias. O que você diz?",
+    "correctAnswer": "My mother cooks dinner every day.",
+    "options": ["My mother cooks dinner every day.", "My mother cook dinner every day.", "My mother makes the dinner every days.", "My mother does dinner every day."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que normalmente você chega em casa às seis da tarde. O que você diz?",
+    "correctAnswer": "I usually get home at six o'clock.",
+    "options": ["I usually get home at six o'clock.", "I normally arrive home at six hours.", "I usually arrive at home in six.", "I always get home at six o'clocks."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar o que seu amigo faz depois do trabalho. O que você pergunta?",
+    "correctAnswer": "What do you do after work?",
+    "options": ["What do you do after work?", "What you do after work?", "What does you do after work?", "What do you make after work?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que às vezes você caminha até o trabalho. O que você diz?",
+    "correctAnswer": "I sometimes walk to work.",
+    "options": ["I sometimes walk to work.", "I sometime walk to work.", "I sometimes walks to work.", "I sometimes go walk to work."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que seu pai nunca toma café da manhã. O que você diz?",
+    "correctAnswer": "My father never has breakfast.",
+    "options": ["My father never has breakfast.", "My father never have breakfast.", "My father don't never have breakfast.", "My father always hasn't breakfast."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar a que horas a escola começa. O que você pergunta?",
+    "correctAnswer": "What time does school start?",
+    "options": ["What time does school start?", "What time school starts?", "What hour does school start?", "When does school starts?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que sua família janta junto todas as noites. O que você diz?",
+    "correctAnswer": "My family has dinner together every night.",
+    "options": ["My family has dinner together every night.", "My family have dinner together every night.", "My family does dinner together every night.", "My family eats dinner together every nights."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que geralmente você estuda à noite. O que você diz?",
+    "correctAnswer": "I usually study at night.",
+    "options": ["I usually study at night.", "I normally studies at night.", "I usually study in the night.", "I always study on night."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar se seu amigo vai à academia toda manhã. O que você pergunta?",
+    "correctAnswer": "Do you go to the gym every morning?",
+    "options": ["Do you go to the gym every morning?", "Do you goes to gym every morning?", "You go to the gym every morning?", "Does you go to the gym every morning?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que você e seu amigo sempre almoçam juntos. O que você diz?",
+    "correctAnswer": "We always have lunch together.",
+    "options": ["We always have lunch together.", "We always has lunch together.", "We always do lunch together.", "We always are eating lunch together."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que seu chefe chega ao trabalho às nove horas. O que você diz?",
+    "correctAnswer": "My boss arrives at work at nine o'clock.",
+    "options": ["My boss arrives at work at nine o'clock.", "My boss arrive at work at nine o'clock.", "My boss gets to work in nine hours.", "My boss come to work at nine o'clock."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar quanto tempo seu amigo leva para chegar ao trabalho. O que você pergunta?",
+    "correctAnswer": "How long does it take you to get to work?",
+    "options": ["How long does it take you to get to work?", "How time do you take to go to work?", "How many time does it take to work?", "How long it takes you to get to work?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que seu irmão faz a cama toda manhã. O que você diz?",
+    "correctAnswer": "My brother makes the bed every morning.",
+    "options": ["My brother makes the bed every morning.", "My brother does the bed every morning.", "My brother makes bed every morning.", "My brother make the bed every morning."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que frequentemente você come frutas no café da manhã. O que você diz?",
+    "correctAnswer": "I often eat fruit for breakfast.",
+    "options": ["I often eat fruit for breakfast.", "I often eat fruits in breakfast.", "I frequent eat fruit for breakfast.", "I often eats fruit for breakfast."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar se seu colega normalmente almoça no escritório ou em casa. O que você pergunta?",
+    "correctAnswer": "Do you usually have lunch at the office or at home?",
+    "options": ["Do you usually have lunch at the office or at home?", "Do you usually eat lunch in the office or in house?", "Does you usually have lunch at office or home?", "You usually have lunch at the office or at home?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que você raramente acorda antes das seis da manhã. O que você diz?",
+    "correctAnswer": "I rarely wake up before six o'clock.",
+    "options": ["I rarely wake up before six o'clock.", "I rarely wakes up before six o'clock.", "I seldom wake before six o'clock in the morning.", "I rarely wake up after six o'clock."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que seu colega de quarto acorda mais cedo do que você. O que você diz?",
+    "correctAnswer": "My roommate wakes up earlier than me.",
+    "options": ["My roommate wakes up earlier than me.", "My roommate wake up more early than me.", "My roommate wakes up more earlier than I.", "My roommate gets up early that me."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que durante a semana você não tem tempo para fazer exercício. O que você diz?",
+    "correctAnswer": "During the week, I don't have time to exercise.",
+    "options": ["During the week, I don't have time to exercise.", "In the week, I haven't time for exercise.", "During the week, I have no time for exercising.", "On weekdays, I don't have time for do exercise."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar a seu amigo o que ele come no café da manhã normalmente. O que você pergunta?",
+    "correctAnswer": "What do you usually eat for breakfast?",
+    "options": ["What do you usually eat for breakfast?", "What you usually eat at breakfast?", "What does you usually eat for breakfast?", "What do you usually eat in the breakfast?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que nos fins de semana você se levanta mais tarde do que durante a semana. O que você diz?",
+    "correctAnswer": "On weekends, I get up later than on weekdays.",
+    "options": ["On weekends, I get up later than on weekdays.", "In weekends, I wake up more late than weekdays.", "On weekends, I get up more later than in the week.", "On weekend, I get up later that on weekdays."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que seu filho demora muito tempo para se preparar de manhã. O que você diz?",
+    "correctAnswer": "My son takes a long time to get ready in the morning.",
+    "options": ["My son takes a long time to get ready in the morning.", "My son takes many time to prepare in the morning.", "My son spends much time getting ready at morning.", "My son take long time to get ready in the morning."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar com que frequência seu amigo vai à academia. O que você pergunta?",
+    "correctAnswer": "How often do you go to the gym?",
+    "options": ["How often do you go to the gym?", "How many times you go to the gym?", "How frequent do you go to the gym?", "How often does you go to the gym?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que você vai de carro para o trabalho quando está chovendo. O que você diz?",
+    "correctAnswer": "I drive to work when it rains.",
+    "options": ["I drive to work when it rains.", "I go by car to work when is raining.", "I use the car to work when it rains.", "I drive to work when it is rain."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que você e sua esposa dividem as tarefas domésticas. O que você diz?",
+    "correctAnswer": "My wife and I share the household chores.",
+    "options": ["My wife and I share the household chores.", "Me and my wife share the house chores.", "My wife and I shares the household chores.", "My wife and me divides the household chores."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar se sua amiga prefere tomar banho de manhã ou à noite. O que você pergunta?",
+    "correctAnswer": "Do you prefer to shower in the morning or at night?",
+    "options": ["Do you prefer to shower in the morning or at night?", "Do you prefer shower at morning or in night?", "You prefer to shower in the morning or at night?", "Does you prefer to shower in the morning or at night?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que depois do almoço você descansa um pouco. O que você diz?",
+    "correctAnswer": "After lunch, I rest for a little while.",
+    "options": ["After lunch, I rest for a little while.", "After the lunch, I rest a little.", "After lunch, I do rest for a little time.", "After lunch, I rest for a little while ago."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que sua rotina começa muito cedo todos os dias. O que você diz?",
+    "correctAnswer": "My routine starts very early every day.",
+    "options": ["My routine starts very early every day.", "My routine begin very early every day.", "My routine starts too early every day.", "My routine is starting very early every day."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar a que horas seu amigo normalmente vai dormir. O que você pergunta?",
+    "correctAnswer": "What time do you usually go to bed?",
+    "options": ["What time do you usually go to bed?", "What time you usually go to sleep?", "What hour do you usually go to bed?", "What time does you usually go to bed?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que antes de sair de casa você sempre verifica as chaves. O que você diz?",
+    "correctAnswer": "Before I leave the house, I always check my keys.",
+    "options": ["Before I leave the house, I always check my keys.", "Before I leave house, I always verify my keys.", "Before to leave the house, I always check my keys.", "Before I leave the house, I always check the keys mine."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que sua filha arruma o quarto antes de ir para a escola. O que você diz?",
+    "correctAnswer": "My daughter tidies her room before going to school.",
+    "options": ["My daughter tidies her room before going to school.", "My daughter clean her room before go to school.", "My daughter tidies her room before to go to school.", "My daughter tidies her room before goes to school."],
+    "difficulty": "hard"
+  }
+]

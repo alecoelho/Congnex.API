@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027árvore\u0027 para o inglês?",
+        "correctAnswer":  "tree",
+        "options":  [
+                        "tree",
+                        "flower",
+                        "rock",
+                        "water"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027water\u0027 em português?",
+        "correctAnswer":  "água",
+        "options":  [
+                        "ar",
+                        "água",
+                        "solo",
+                        "luz"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027poluição\u0027 em inglês?",
+        "correctAnswer":  "pollution",
+        "options":  [
+                        "pollution",
+                        "production",
+                        "protection",
+                        "promotion"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027forest\u0027 em português?",
+        "correctAnswer":  "floresta",
+        "options":  [
+                        "praia",
+                        "floresta",
+                        "montanha",
+                        "deserto"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "Qual palavra em inglês significa \u0027lixo\u0027?",
+        "correctAnswer":  "garbage",
+        "options":  [
+                        "garbage",
+                        "garden",
+                        "gas",
+                        "gold"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027green\u0027 em português?",
+        "correctAnswer":  "verde",
+        "options":  [
+                        "azul",
+                        "verde",
+                        "amarelo",
+                        "vermelho"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027animal\u0027 para o inglês?",
+        "correctAnswer":  "animal",
+        "options":  [
+                        "animal",
+                        "mineral",
+                        "plant",
+                        "insect"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027soil\u0027 em português?",
+        "correctAnswer":  "solo",
+        "options":  [
+                        "pedra",
+                        "solo",
+                        "areia",
+                        "terra vermelha"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027energia\u0027 em inglês?",
+        "correctAnswer":  "energy",
+        "options":  [
+                        "energy",
+                        "engine",
+                        "equal",
+                        "enter"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "Qual palavra significa \u0027chuva\u0027 em inglês?",
+        "correctAnswer":  "rain",
+        "options":  [
+                        "rain",
+                        "snow",
+                        "wind",
+                        "sun"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027sky\u0027 em português?",
+        "correctAnswer":  "céu",
+        "options":  [
+                        "nuvem",
+                        "céu",
+                        "vento",
+                        "clima"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027ar\u0027 em inglês?",
+        "correctAnswer":  "air",
+        "options":  [
+                        "air",
+                        "area",
+                        "are",
+                        "year"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027planta\u0027 para o inglês?",
+        "correctAnswer":  "plant",
+        "options":  [
+                        "plant",
+                        "plane",
+                        "plan",
+                        "place"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027mountain\u0027 em português?",
+        "correctAnswer":  "montanha",
+        "options":  [
+                        "montanha",
+                        "rio",
+                        "lago",
+                        "valle"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "Qual palavra significa \u0027reciclagem\u0027 em inglês?",
+        "correctAnswer":  "recycling",
+        "options":  [
+                        "recycling",
+                        "reducing",
+                        "reusing",
+                        "restoring"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027sol\u0027 em inglês?",
+        "correctAnswer":  "sun",
+        "options":  [
+                        "sun",
+                        "sand",
+                        "sound",
+                        "soon"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027ocean\u0027 em português?",
+        "correctAnswer":  "oceano",
+        "options":  [
+                        "rio",
+                        "oceano",
+                        "lago",
+                        "praia"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027sustainability\u0027 em português?",
+        "correctAnswer":  "sustentabilidade",
+        "options":  [
+                        "segurança",
+                        "sustentabilidade",
+                        "satisfação",
+                        "sustância"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027mudanças climáticas\u0027 em inglês?",
+        "correctAnswer":  "climate change",
+        "options":  [
+                        "climate change",
+                        "climate control",
+                        "cloud change",
+                        "cold change"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027biodiversity\u0027 em português?",
+        "correctAnswer":  "biodiversidade",
+        "options":  [
+                        "biodiversidade",
+                        "biodegradável",
+                        "biologia",
+                        "biotecnologia"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "Qual palavra em inglês significa \u0027combustível\u0027?",
+        "correctAnswer":  "fuel",
+        "options":  [
+                        "fuel",
+                        "food",
+                        "field",
+                        "fill"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027conservação\u0027 em inglês?",
+        "correctAnswer":  "conservation",
+        "options":  [
+                        "conservation",
+                        "conversation",
+                        "conversion",
+                        "convention"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027renewable\u0027 em português?",
+        "correctAnswer":  "renovável",
+        "options":  [
+                        "renovável",
+                        "removível",
+                        "renovado",
+                        "remoto"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027desmatamento\u0027 para o inglês?",
+        "correctAnswer":  "deforestation",
+        "options":  [
+                        "deforestation",
+                        "defrost",
+                        "deflation",
+                        "deflection"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027ecosistema\u0027 em inglês?",
+        "correctAnswer":  "ecosystem",
+        "options":  [
+                        "ecosystem",
+                        "economy",
+                        "economic",
+                        "ecology"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027habitat\u0027 em português?",
+        "correctAnswer":  "habitat",
+        "options":  [
+                        "hábito",
+                        "habitat",
+                        "habitação",
+                        "habitante"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "Qual palavra significa \u0027espécie\u0027 em inglês?",
+        "correctAnswer":  "species",
+        "options":  [
+                        "species",
+                        "space",
+                        "speech",
+                        "special"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027extinção\u0027 em inglês?",
+        "correctAnswer":  "extinction",
+        "options":  [
+                        "extinction",
+                        "extend",
+                        "extensive",
+                        "external"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027waste\u0027 em português?",
+        "correctAnswer":  "desperdício",
+        "options":  [
+                        "desejo",
+                        "desperdício",
+                        "descanso",
+                        "desculpa"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027poluente\u0027 para o inglês?",
+        "correctAnswer":  "pollutant",
+        "options":  [
+                        "pollutant",
+                        "policeman",
+                        "policy",
+                        "polish"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027carbono\u0027 em inglês?",
+        "correctAnswer":  "carbon",
+        "options":  [
+                        "carbon",
+                        "card",
+                        "care",
+                        "career"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027fossil\u0027 em português?",
+        "correctAnswer":  "fóssil",
+        "options":  [
+                        "fóssil",
+                        "fosso",
+                        "fogos",
+                        "fogo"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "Qual palavra significa \u0027pegada de carbono\u0027 em inglês?",
+        "correctAnswer":  "carbon footprint",
+        "options":  [
+                        "carbon footprint",
+                        "carbon print",
+                        "carbon foot",
+                        "carbon trace"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027radiação\u0027 em inglês?",
+        "correctAnswer":  "radiation",
+        "options":  [
+                        "radiation",
+                        "radius",
+                        "radio",
+                        "radish"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027organic\u0027 em português?",
+        "correctAnswer":  "orgânico",
+        "options":  [
+                        "orgulho",
+                        "orgânico",
+                        "organização",
+                        "órgão"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027drought\u0027 em português?",
+        "correctAnswer":  "seca",
+        "options":  [
+                        "chuva",
+                        "seca",
+                        "enchente",
+                        "tempestade"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027aumento do nível do mar\u0027 em inglês?",
+        "correctAnswer":  "sea level rise",
+        "options":  [
+                        "sea level rise",
+                        "sea level rain",
+                        "sea level high",
+                        "sea wave rise"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "Qual palavra em inglês significa \u0027poluição do ar\u0027?",
+        "correctAnswer":  "air pollution",
+        "options":  [
+                        "air pollution",
+                        "air protection",
+                        "air production",
+                        "air purification"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027erosion\u0027 em português?",
+        "correctAnswer":  "erosão",
+        "options":  [
+                        "erupção",
+                        "erosão",
+                        "educação",
+                        "emoção"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027aquecimento global\u0027 para o inglês?",
+        "correctAnswer":  "global warming",
+        "options":  [
+                        "global warming",
+                        "global working",
+                        "global warning",
+                        "global waking"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027camada de ozônio\u0027 em inglês?",
+        "correctAnswer":  "ozone layer",
+        "options":  [
+                        "ozone layer",
+                        "ozone light",
+                        "ozone level",
+                        "oxygen layer"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027hydroelectric\u0027 em português?",
+        "correctAnswer":  "hidrelétrico",
+        "options":  [
+                        "hidrelétrico",
+                        "hidratante",
+                        "hidrogênio",
+                        "hidrofobia"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "Qual palavra significa \u0027aquífero\u0027 em inglês?",
+        "correctAnswer":  "aquifer",
+        "options":  [
+                        "aquifer",
+                        "aquarium",
+                        "aquatic",
+                        "aqueous"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027ecologia\u0027 em inglês?",
+        "correctAnswer":  "ecology",
+        "options":  [
+                        "ecology",
+                        "economic",
+                        "economy",
+                        "ecosystem"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027decomposition\u0027 em português?",
+        "correctAnswer":  "decomposição",
+        "options":  [
+                        "recomposição",
+                        "decomposição",
+                        "composição",
+                        "descomposição"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027veneno\u0027 para o inglês?",
+        "correctAnswer":  "poison",
+        "options":  [
+                        "poison",
+                        "person",
+                        "present",
+                        "prison"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027biocombustível\u0027 em inglês?",
+        "correctAnswer":  "biofuel",
+        "options":  [
+                        "biofuel",
+                        "biodiesel",
+                        "biochemical",
+                        "biological"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027predator\u0027 em português?",
+        "correctAnswer":  "predador",
+        "options":  [
+                        "predador",
+                        "preço",
+                        "prédio",
+                        "prado"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "Qual palavra significa \u0027energia solar\u0027 em inglês?",
+        "correctAnswer":  "solar energy",
+        "options":  [
+                        "solar energy",
+                        "solar power",
+                        "sun energy",
+                        "solar force"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027espécie ameaçada\u0027 para o inglês?",
+        "difficulty":  "hard",
+        "options":  [
+                        "endangered species",
+                        "threatened animals",
+                        "rare beings",
+                        "vulnerable fauna"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "endangered species"
+    }
+]

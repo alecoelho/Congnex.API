@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Eu _____ um novo laptop ontem para trabalhar com programação.",
+        "difficulty":  "easy",
+        "options":  [
+                        "buy",
+                        "bought",
+                        "have bought",
+                        "buying"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "bought"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Meu telefone _____ carregando há duas horas.",
+        "difficulty":  "easy",
+        "options":  [
+                        "is charging",
+                        "has been charging",
+                        "was charging",
+                        "charges"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "has been charging"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "A internet _____ muito importante na tecnologia moderna.",
+        "difficulty":  "easy",
+        "options":  [
+                        "are",
+                        "is",
+                        "been",
+                        "be"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "is"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Nós _____ o aplicativo na semana passada.",
+        "difficulty":  "easy",
+        "options":  [
+                        "download",
+                        "downloaded",
+                        "have download",
+                        "downloading"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "downloaded"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Ela _____ mensagens pelo WhatsApp todos os dias.",
+        "difficulty":  "easy",
+        "options":  [
+                        "send",
+                        "sends",
+                        "sending",
+                        "have sent"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "sends"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O computador _____ apresentando problemas de memória.",
+        "difficulty":  "easy",
+        "options":  [
+                        "are",
+                        "is",
+                        "been",
+                        "has"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "is"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Eles _____ jogar videogames online todas as noites.",
+        "difficulty":  "easy",
+        "options":  [
+                        "plays",
+                        "play",
+                        "playing",
+                        "played"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "play"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Eu _____ meu email três vezes por dia.",
+        "difficulty":  "easy",
+        "options":  [
+                        "checks",
+                        "check",
+                        "checking",
+                        "checked"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "check"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Este site _____ muito útil para aprender programação.",
+        "difficulty":  "easy",
+        "options":  [
+                        "are",
+                        "is",
+                        "been",
+                        "being"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "is"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Nós _____ estudado Python há um mês.",
+        "difficulty":  "easy",
+        "options":  [
+                        "are",
+                        "have been",
+                        "was",
+                        "been"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "have been"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O servidor _____ caído ontem à noite.",
+        "difficulty":  "easy",
+        "options":  [
+                        "is",
+                        "was",
+                        "been",
+                        "have"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "was"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Eles _____ instalado um novo sistema operacional.",
+        "difficulty":  "easy",
+        "options":  [
+                        "are",
+                        "has",
+                        "have",
+                        "had"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "have"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "A senha _____ ser alterada a cada três meses.",
+        "difficulty":  "easy",
+        "options":  [
+                        "must",
+                        "should",
+                        "can",
+                        "might"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "should"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Você _____ fazer backup dos seus arquivos regularmente.",
+        "difficulty":  "easy",
+        "options":  [
+                        "must",
+                        "should",
+                        "can",
+                        "may"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "should"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "A rede WiFi _____ desligada às 22 horas.",
+        "difficulty":  "easy",
+        "options":  [
+                        "are",
+                        "is",
+                        "been",
+                        "being"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "is"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Eles _____ receber a notificação em tempo real.",
+        "difficulty":  "easy",
+        "options":  [
+                        "will",
+                        "would",
+                        "shall",
+                        "would have"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "will"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O aplicativo _____ desenvolvido por uma empresa de tecnologia.",
+        "difficulty":  "easy",
+        "options":  [
+                        "is",
+                        "was",
+                        "been",
+                        "have"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "was"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Se você _____ Internet, você pode trabalhar remotamente.",
+        "difficulty":  "medium",
+        "options":  [
+                        "have",
+                        "has",
+                        "having",
+                        "had"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "have"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Depois que _____ o arquivo, você pode enviá-lo.",
+        "difficulty":  "medium",
+        "options":  [
+                        "downloaded",
+                        "download",
+                        "downloading",
+                        "downloads"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "download"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Ele pediu que eu _____ o código antes de enviar.",
+        "difficulty":  "medium",
+        "options":  [
+                        "reviews",
+                        "review",
+                        "reviewing",
+                        "reviewed"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "review"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O desenvolvedor _____ vindo ao trabalho, _____ ele?",
+        "difficulty":  "medium",
+        "options":  [
+                        "hasn\u0027t",
+                        "isn\u0027t",
+                        "wasn\u0027t",
+                        "didn\u0027t"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "hasn\u0027t"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Ela _____ programação desde 2020.",
+        "difficulty":  "medium",
+        "options":  [
+                        "is studying",
+                        "has been studying",
+                        "was studying",
+                        "studies"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "has been studying"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Se você _____ mais rápido, você teria terminado ontem.",
+        "difficulty":  "medium",
+        "options":  [
+                        "work",
+                        "worked",
+                        "had worked",
+                        "would work"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "had worked"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O computador que _____ no mês passado já apresenta problemas.",
+        "difficulty":  "medium",
+        "options":  [
+                        "buy",
+                        "bought",
+                        "buying",
+                        "have bought"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "bought"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Nós _____ terminado o projeto antes da data limite.",
+        "difficulty":  "medium",
+        "options":  [
+                        "are",
+                        "have",
+                        "has",
+                        "had"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "have"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "A plataforma permite que os usuários _____ seus perfis facilmente.",
+        "difficulty":  "medium",
+        "options":  [
+                        "customizes",
+                        "customize",
+                        "customizing",
+                        "customized"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "customize"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Enquanto ele _____ no código, a internet caiu.",
+        "difficulty":  "medium",
+        "options":  [
+                        "work",
+                        "works",
+                        "is working",
+                        "was working"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "was working"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Ele disse que _____ no projeto por dois dias.",
+        "difficulty":  "medium",
+        "options":  [
+                        "worked",
+                        "was working",
+                        "had been working",
+                        "is working"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "had been working"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "É importante que você _____ suas senhas em local seguro.",
+        "difficulty":  "medium",
+        "options":  [
+                        "keeps",
+                        "keep",
+                        "keeping",
+                        "kept"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "keep"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "A equipe _____ os testes antes de lançar a versão final.",
+        "difficulty":  "medium",
+        "options":  [
+                        "complete",
+                        "completed",
+                        "completing",
+                        "have completed"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "completed"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Ele teria enviado o email se _____ sabido o endereço.",
+        "difficulty":  "medium",
+        "options":  [
+                        "have",
+                        "had",
+                        "would",
+                        "should"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "had"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Não apenas ele sabe programar, _____ também entende de redes.",
+        "difficulty":  "medium",
+        "options":  [
+                        "but also he",
+                        "but he",
+                        "but still he",
+                        "but he also"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "but he"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Ele foi tão bom no projeto _____ o promoveram.",
+        "difficulty":  "medium",
+        "options":  [
+                        "that",
+                        "so",
+                        "because",
+                        "which"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "that"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Quanto mais você _____, mais aprende sobre programação.",
+        "difficulty":  "hard",
+        "options":  [
+                        "practices",
+                        "practice",
+                        "practicing",
+                        "practiced"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "practice"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Se ela tivesse estudado mais, _____ passado no teste de Java.",
+        "difficulty":  "hard",
+        "options":  [
+                        "would have",
+                        "will have",
+                        "would",
+                        "had"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "would have"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O código que _____ ontem ainda tem erros.",
+        "difficulty":  "hard",
+        "options":  [
+                        "writing",
+                        "was written",
+                        "wrote",
+                        "is writing"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "was written"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Ele insistiu em que o projeto _____ entregue na sexta-feira.",
+        "difficulty":  "hard",
+        "options":  [
+                        "is",
+                        "be",
+                        "was",
+                        "being"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "be"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Não importa quanto tempo você _____, sempre há algo novo para aprender.",
+        "difficulty":  "hard",
+        "options":  [
+                        "spends",
+                        "spend",
+                        "spending",
+                        "spent"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "spend"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "A menos que você _____ o antivírus, seu computador pode ficar comprometido.",
+        "difficulty":  "hard",
+        "options":  [
+                        "updates",
+                        "update",
+                        "updating",
+                        "updated"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "update"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Ele _____ trabalhando no projeto por semanas quando descobriu o erro.",
+        "difficulty":  "hard",
+        "options":  [
+                        "was",
+                        "had been",
+                        "is",
+                        "have been"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "had been"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Seu desempenho foi tão excepcional _____ foram oferecidas múltiplas promoções.",
+        "difficulty":  "hard",
+        "options":  [
+                        "that",
+                        "so",
+                        "such",
+                        "which"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "that"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Desde que o sistema _____ implementado, a produtividade aumentou.",
+        "difficulty":  "hard",
+        "options":  [
+                        "is",
+                        "was",
+                        "been",
+                        "being"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "was"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Ele preferiu _____ a noite toda a deixar o projeto incompleto.",
+        "difficulty":  "hard",
+        "options":  [
+                        "working",
+                        "to work",
+                        "work",
+                        "worked"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "to work"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Por mais que ele _____, não conseguia entender o código legado.",
+        "difficulty":  "hard",
+        "options":  [
+                        "try",
+                        "tries",
+                        "tried",
+                        "trying"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "tried"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Se o servidor _____ caído, todos os dados teriam sido perdidos.",
+        "difficulty":  "hard",
+        "options":  [
+                        "goes",
+                        "went",
+                        "had gone",
+                        "would go"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "had gone"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Ela não apenas escreve código limpo, _____ também documenta bem.",
+        "difficulty":  "hard",
+        "options":  [
+                        "but also she",
+                        "but she",
+                        "but still she",
+                        "she also"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "but she"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Os dados _____ criptografados antes de serem armazenados no servidor.",
+        "difficulty":  "hard",
+        "options":  [
+                        "must be",
+                        "must",
+                        "should",
+                        "should be"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "must be"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Ele teria entendido melhor se lhe _____ explicado o conceito mais claramente.",
+        "difficulty":  "hard",
+        "options":  [
+                        "was",
+                        "had been",
+                        "is",
+                        "would be"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "had been"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O sistema, _____ foi desenvolvido internamente, agora está obsoleto.",
+        "difficulty":  "hard",
+        "options":  [
+                        "that",
+                        "which",
+                        "who",
+                        "where"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "which"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Se você _____ o backup frequentemente, não teria perdido seus arquivos.",
+        "difficulty":  "hard",
+        "options":  [
+                        "make",
+                        "made",
+                        "had made",
+                        "would make"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "had made"
+    }
+]

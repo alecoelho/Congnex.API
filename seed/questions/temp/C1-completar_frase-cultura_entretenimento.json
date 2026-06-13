@@ -1,0 +1,512 @@
+[
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O filme ganhou o Oscar de Melhor Filme por ___ the expectations of critics worldwide.",
+    "correctAnswer": "exceeding",
+    "options": ["exceeding", "passing", "crossing", "beating"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "A atriz foi ___ for her outstanding performance in the Broadway musical.",
+    "correctAnswer": "acclaimed",
+    "options": ["acclaimed", "praised", "applauded", "celebrated"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O álbum foi lançado para ___ reviews, com críticos elogiando sua originalidade.",
+    "correctAnswer": "rave",
+    "options": ["rave", "mixed", "poor", "quiet"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The documentary ___ light on the hidden struggles of underground musicians.",
+    "correctAnswer": "shed",
+    "options": ["shed", "cast", "threw", "brought"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O festival de cinema reuniu diretores renomados de todo o mundo para ___ their latest works.",
+    "correctAnswer": "showcase",
+    "options": ["showcase", "display", "exhibit", "demonstrate"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "A série de televisão ___ a cult following due to its complex characters and gripping storyline.",
+    "correctAnswer": "garnered",
+    "options": ["garnered", "received", "obtained", "gathered"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O músico decidiu ___ from his usual genre and experiment with classical compositions.",
+    "correctAnswer": "depart",
+    "options": ["depart", "escape", "leave", "exit"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "A peça teatral ___ a sold-out run of three months at the National Theatre.",
+    "correctAnswer": "enjoyed",
+    "options": ["enjoyed", "had", "achieved", "reached"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O roteirista foi ___ for his ability to weave intricate subplots into the main narrative.",
+    "correctAnswer": "commended",
+    "options": ["commended", "admired", "recognized", "honored"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "A exposição de arte ___ over two hundred visitors on its opening night.",
+    "correctAnswer": "attracted",
+    "options": ["attracted", "gathered", "invited", "received"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O cantor conseguiu ___ the crowd with his energetic stage presence.",
+    "correctAnswer": "captivate",
+    "options": ["captivate", "impress", "entertain", "amaze"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O livro foi considerado um ___ in contemporary literature due to its innovative narrative style.",
+    "correctAnswer": "milestone",
+    "options": ["milestone", "landmark", "benchmark", "breakthrough"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O diretor ___ his creative vision through the careful use of light and shadow in every scene.",
+    "correctAnswer": "conveyed",
+    "options": ["conveyed", "expressed", "showed", "presented"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "A banda ___ their long-awaited reunion tour with a spectacular concert in Rio de Janeiro.",
+    "correctAnswer": "kicked off",
+    "options": ["kicked off", "started off", "set off", "opened up"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O romance ganhou o prêmio Booker por ser uma ___ exploration of post-colonial identity.",
+    "correctAnswer": "nuanced",
+    "options": ["nuanced", "detailed", "thorough", "careful"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "A coreografia do ballet foi ___ as a masterpiece of contemporary dance.",
+    "correctAnswer": "hailed",
+    "options": ["hailed", "called", "named", "described"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O novo single da cantora foi ___ to number one on the charts within the first week of release.",
+    "correctAnswer": "propelled",
+    "options": ["propelled", "pushed", "driven", "forced"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O filme de ficção científica foi ___ for its groundbreaking visual effects and immersive world-building.",
+    "correctAnswer": "lauded",
+    "options": ["lauded", "praised", "admired", "respected"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "A novelist's ability to ___ the reader into a vividly realized historical period sets her apart from her contemporaries.",
+    "correctAnswer": "immerse",
+    "options": ["immerse", "submerge", "plunge", "absorb"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O álbum conceitual do artista foi considerado ___ for its time, blending genres that had never been combined before.",
+    "correctAnswer": "avant-garde",
+    "options": ["avant-garde", "cutting-edge", "innovative", "pioneering"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The playwright's latest work ___ conventions of the genre by incorporating elements of magical realism.",
+    "correctAnswer": "subverts",
+    "options": ["subverts", "breaks", "ignores", "challenges"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O documentário ___ the complexities of the music industry, exposing the exploitation of emerging artists.",
+    "correctAnswer": "lays bare",
+    "options": ["lays bare", "reveals out", "opens up", "uncovers through"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "A autora foi acusada de ___ the boundaries between fiction and autobiography in her controversial memoir.",
+    "correctAnswer": "blurring",
+    "options": ["blurring", "merging", "mixing", "combining"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The comedian's ___ wit kept the audience in stitches throughout the entire two-hour show.",
+    "correctAnswer": "razor-sharp",
+    "options": ["razor-sharp", "keen-edged", "fine-tuned", "well-honed"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O festival literário serviu como um ___ for emerging writers to connect with established publishers.",
+    "correctAnswer": "springboard",
+    "options": ["springboard", "platform", "gateway", "launchpad"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "A série dramática ___ viewers with its morally ambiguous characters and unpredictable plot twists.",
+    "correctAnswer": "enthralled",
+    "options": ["enthralled", "fascinated", "engaged", "compelled"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O artista plástico optou por ___ traditional techniques with digital media to create a hybrid aesthetic.",
+    "correctAnswer": "fuse",
+    "options": ["fuse", "blend", "combine", "merge"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "Critics argued that the film's ___ ending left too many narrative threads unresolved.",
+    "correctAnswer": "ambiguous",
+    "options": ["ambiguous", "unclear", "vague", "uncertain"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "A cantora decidiu ___ her pop roots and pursue a more experimental sound in her fifth album.",
+    "correctAnswer": "shed",
+    "options": ["shed", "abandon", "escape", "drop"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O diretor de arte foi elogiado por criar uma estética ___ that drew heavily from Art Nouveau and Baroque traditions.",
+    "correctAnswer": "eclectic",
+    "options": ["eclectic", "diverse", "mixed", "varied"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O romance distópico foi interpretado como a ___ of contemporary surveillance culture.",
+    "correctAnswer": "indictment",
+    "options": ["indictment", "critique", "analysis", "portrayal"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The film's ___ cinematography, with its muted palette and handheld camerawork, perfectly mirrored the protagonist's inner turmoil.",
+    "correctAnswer": "restrained",
+    "options": ["restrained", "subdued", "minimalist", "controlled"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "A banda optou por ___ their debut album entirely on vintage analog equipment to achieve an authentic sound.",
+    "correctAnswer": "record",
+    "options": ["record", "produce", "mix", "master"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The art installation was designed to ___ the audience's perception of space and challenge their notions of reality.",
+    "correctAnswer": "distort",
+    "options": ["distort", "alter", "shift", "change"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O escritor foi reconhecido por sua habilidade de ___ profound philosophical themes into seemingly simple narratives.",
+    "correctAnswer": "weave",
+    "options": ["weave", "embed", "insert", "place"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "A trilogia cinematográfica foi considerada um ___ achievement in the history of fantasy filmmaking.",
+    "correctAnswer": "towering",
+    "options": ["towering", "remarkable", "significant", "outstanding"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The novel's ___ prose style, laden with allusions to classical mythology, demands an exceptionally well-read audience.",
+    "correctAnswer": "labyrinthine",
+    "options": ["labyrinthine", "complex", "elaborate", "intricate"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O compositor foi elogiado por sua capacidade de ___ disparate musical traditions into a seamless and cohesive whole.",
+    "correctAnswer": "synthesize",
+    "options": ["synthesize", "amalgamate", "consolidate", "integrate"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The director's ___ use of diegetic sound as a narrative device elevated the film beyond conventional storytelling.",
+    "correctAnswer": "idiosyncratic",
+    "options": ["idiosyncratic", "peculiar", "unconventional", "distinctive"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "A obra literária foi aclamada por sua ___ deconstruction of the postcolonial subject and its inherent contradictions.",
+    "correctAnswer": "incisive",
+    "options": ["incisive", "sharp", "penetrating", "insightful"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The sculptor's latest work was deliberately ___, inviting viewers to project their own interpretations onto its abstract forms.",
+    "correctAnswer": "polysemous",
+    "options": ["polysemous", "ambivalent", "equivocal", "indeterminate"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O roteiro foi elogiado por sua ___ dialogue that managed to convey entire backstories through subtle implication rather than explicit exposition.",
+    "correctAnswer": "elliptical",
+    "options": ["elliptical", "concise", "understated", "restrained"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The musician's ___ approach to jazz, incorporating microtonality and extended techniques, alienated mainstream audiences but galvanized the avant-garde community.",
+    "correctAnswer": "uncompromising",
+    "options": ["uncompromising", "radical", "extreme", "provocative"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "A peça foi interpretada como a ___ of neoliberal individualism, cloaked in the language of personal empowerment.",
+    "correctAnswer": "apotheosis",
+    "options": ["apotheosis", "culmination", "embodiment", "epitome"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The author's prose is marked by a ___ irony that simultaneously mocks and mourns the decline of cultural institutions.",
+    "correctAnswer": "mordant",
+    "options": ["mordant", "caustic", "sardonic", "acerbic"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O cineasta recorreu a técnicas ___ such as the jump cut and the long take to create a disorienting rhythm that mirrored the narrative's fragmented timeline.",
+    "correctAnswer": "formalist",
+    "options": ["formalist", "experimental", "cinematic", "modernist"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The gallery's retrospective served to ___ the artist's reputation, which had been unfairly tarnished by a decade of critical neglect.",
+    "correctAnswer": "rehabilitate",
+    "options": ["rehabilitate", "restore", "reclaim", "revive"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "A série documental ___ a harrowing portrait of the recording industry's exploitation of child prodigies.",
+    "correctAnswer": "paints",
+    "options": ["paints", "depicts", "illustrates", "renders"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The novel's ___ ending, which refuses narrative closure, has been both celebrated as bold and criticized as self-indulgent.",
+    "correctAnswer": "deliberately inconclusive",
+    "options": ["deliberately inconclusive", "intentionally open-ended", "consciously unresolved", "purposefully ambiguous"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O concerto foi concebido como uma ___ experience, with audience members free to move between multiple performance spaces simultaneously.",
+    "correctAnswer": "site-specific",
+    "options": ["site-specific", "immersive", "interactive", "participatory"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "The playwright deliberately ___ the fourth wall to implicate the audience in the moral failures depicted on stage.",
+    "correctAnswer": "dismantles",
+    "options": ["dismantles", "breaks", "shatters", "collapses"],
+    "difficulty": "hard"
+  }
+]

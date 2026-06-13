@@ -1,0 +1,522 @@
+[
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução para 'acordar' em inglês?",
+    "correctAnswer": "To wake up",
+    "options": ["To go to bed", "To wake up", "To sleep", "To rest"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'tomar banho' em inglês?",
+    "correctAnswer": "To take a shower",
+    "options": ["To take a bath", "To take a shower", "To take water", "To wash water"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'escovar os dentes'?",
+    "correctAnswer": "To brush one's teeth",
+    "options": ["To wash teeth", "To brush one's teeth", "To clean mouth", "To rinse teeth"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'fazer café da manhã'?",
+    "correctAnswer": "To have breakfast",
+    "options": ["To make morning coffee", "To have breakfast", "To prepare lunch", "To serve coffee"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você diz 'ir para o trabalho' em inglês?",
+    "correctAnswer": "To go to work",
+    "options": ["To go on work", "To go to work", "To start working", "To begin work"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução de 'arrumar a cama'?",
+    "correctAnswer": "To make the bed",
+    "options": ["To arrange bed", "To make the bed", "To organize bed", "To set bed"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'cozinhar' em inglês?",
+    "correctAnswer": "To cook",
+    "options": ["To eat", "To cook", "To prepare food", "To serve"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'almoçar'?",
+    "correctAnswer": "To have lunch",
+    "options": ["To have breakfast", "To have lunch", "To have dinner", "To have snack"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'lavar louça'?",
+    "correctAnswer": "To wash dishes",
+    "options": ["To wash hands", "To wash dishes", "To clean kitchen", "To rinse plates"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você diz 'ler um livro' em inglês?",
+    "correctAnswer": "To read a book",
+    "options": ["To see a book", "To read a book", "To study a book", "To learn a book"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução para 'assistir televisão'?",
+    "correctAnswer": "To watch television",
+    "options": ["To see television", "To watch television", "To look television", "To view television"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'conversar com alguém'?",
+    "correctAnswer": "To talk to someone",
+    "options": ["To speak someone", "To talk to someone", "To say someone", "To tell someone"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'exercitar' em inglês?",
+    "correctAnswer": "To exercise",
+    "options": ["To work", "To exercise", "To train", "To move"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'jantar'?",
+    "correctAnswer": "To have dinner",
+    "options": ["To have lunch", "To have dinner", "To have breakfast", "To have supper"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você traduz 'ir para cama'?",
+    "correctAnswer": "To go to bed",
+    "options": ["To come to bed", "To go to bed", "To lie on bed", "To sleep on bed"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução de 'acordar cedo'?",
+    "correctAnswer": "To wake up early",
+    "options": ["To sleep early", "To wake up early", "To get up early", "To rise early"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'limpar a casa'?",
+    "correctAnswer": "To clean the house",
+    "options": ["To organize house", "To clean the house", "To tidy the house", "To arrange house"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'arrumar o cabelo'?",
+    "correctAnswer": "To do one's hair",
+    "options": ["To wash hair", "To do one's hair", "To brush hair", "To cut hair"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'estar ocupado'?",
+    "correctAnswer": "To be busy",
+    "options": ["To be tired", "To be busy", "To be lazy", "To be sick"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você diz 'acordar alguém' em inglês?",
+    "correctAnswer": "To wake someone up",
+    "options": ["To wake up someone", "To wake someone up", "To call someone", "To alert someone"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução para 'se maquiar'?",
+    "correctAnswer": "To put on makeup",
+    "options": ["To apply makeup", "To put on makeup", "To wear makeup", "To do makeup"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'trocar de roupa'?",
+    "correctAnswer": "To change clothes",
+    "options": ["To wear clothes", "To put clothes", "To change clothes", "To dress up"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'fazer compras' em inglês?",
+    "correctAnswer": "To go shopping",
+    "options": ["To go to shopping", "To go shopping", "To do shopping", "To make shopping"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'passear'?",
+    "correctAnswer": "To take a walk",
+    "options": ["To run", "To take a walk", "To go away", "To move fast"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você traduz 'estar cansado'?",
+    "correctAnswer": "To be tired",
+    "options": ["To be lazy", "To be tired", "To be bored", "To be sleepy"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução de 'terminar o dia'?",
+    "correctAnswer": "To finish the day",
+    "options": ["To start the day", "To finish the day", "To end up day", "To close the day"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'relaxar'?",
+    "correctAnswer": "To relax",
+    "options": ["To work", "To relax", "To move", "To exercise"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'dormir bem'?",
+    "correctAnswer": "To sleep well",
+    "options": ["To rest well", "To sleep well", "To sleep good", "To have good sleep"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'refeição'?",
+    "correctAnswer": "Meal",
+    "options": ["Dinner", "Meal", "Food", "Dish"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você diz 'sair de casa' em inglês?",
+    "correctAnswer": "To leave home",
+    "options": ["To go from home", "To leave home", "To exit home", "To go away home"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução para 'voltar para casa'?",
+    "correctAnswer": "To come back home",
+    "options": ["To go back home", "To come back home", "To return home", "To arrive home"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'verificar a hora'?",
+    "correctAnswer": "To check the time",
+    "options": ["To see the time", "To check the time", "To look at time", "To watch time"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'aproveitar o tempo' em inglês?",
+    "correctAnswer": "To make the most of time",
+    "options": ["To use the time", "To make the most of time", "To spend time", "To pass time"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'apressar-se'?",
+    "correctAnswer": "To hurry up",
+    "options": ["To rush up", "To hurry up", "To speed up", "To run fast"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você traduz 'manter a rotina'?",
+    "correctAnswer": "To keep a routine",
+    "options": ["To hold routine", "To keep a routine", "To maintain routine", "To stay routine"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução de 'cuidar de si mesmo'?",
+    "correctAnswer": "To take care of oneself",
+    "options": ["To look after oneself", "To take care of oneself", "To care for oneself", "To watch oneself"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'despir-se'?",
+    "correctAnswer": "To undress",
+    "options": ["To dress", "To undress", "To change", "To remove"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'estar de bom humor'?",
+    "correctAnswer": "To be in a good mood",
+    "options": ["To be happy", "To be in a good mood", "To be cheerful", "To be pleased"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'organizar o dia'?",
+    "correctAnswer": "To organize one's day",
+    "options": ["To plan the day", "To organize one's day", "To arrange the day", "To schedule day"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você diz 'preparar-se para algo' em inglês?",
+    "correctAnswer": "To prepare for something",
+    "options": ["To get ready for something", "To prepare for something", "To make ready something", "To set for something"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução para 'ter um dia agitado'?",
+    "correctAnswer": "To have a busy day",
+    "options": ["To have a hard day", "To have a busy day", "To have a full day", "To have a long day"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'tomar um descanso'?",
+    "correctAnswer": "To take a break",
+    "options": ["To have a pause", "To take a break", "To make a rest", "To hold rest"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'estar concentrado' em inglês?",
+    "correctAnswer": "To be focused",
+    "options": ["To be attentive", "To be focused", "To be concentrated", "To be careful"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'cultivar hábitos'?",
+    "correctAnswer": "To develop habits",
+    "options": ["To build habits", "To develop habits", "To create habits", "To form habits"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você traduz 'estar com fome'?",
+    "correctAnswer": "To be hungry",
+    "options": ["To have hunger", "To be hungry", "To feel hunger", "To get hunger"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução de 'estar com sede'?",
+    "correctAnswer": "To be thirsty",
+    "options": ["To have thirst", "To be thirsty", "To feel thirst", "To need water"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'fazer uma pausa para café'?",
+    "correctAnswer": "To take a coffee break",
+    "options": ["To have coffee time", "To take a coffee break", "To make coffee pause", "To have coffee pause"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'ir à academia' em inglês?",
+    "correctAnswer": "To go to the gym",
+    "options": ["To go to academy", "To go to the gym", "To go to fitness", "To go exercising"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'seguir uma rotina'?",
+    "correctAnswer": "To follow a routine",
+    "options": ["To keep a routine", "To follow a routine", "To maintain a routine", "To stick to routine"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você diz 'estar atrasado' em inglês?",
+    "correctAnswer": "To be late",
+    "options": ["To be delayed", "To be late", "To come late", "To run late"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução para 'começar o dia'?",
+    "correctAnswer": "To start the day",
+    "options": ["To open the day", "To start the day", "To begin day", "To commence day"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'estabelecer uma rotina'?",
+    "correctAnswer": "To establish a routine",
+    "options": ["To create a routine", "To establish a routine", "To build a routine", "To set a routine"],
+    "difficulty": "hard"
+  }
+]

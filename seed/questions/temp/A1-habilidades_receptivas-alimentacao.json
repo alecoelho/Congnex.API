@@ -1,0 +1,512 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Eu como pão.",
+    "correctAnswer": "I eat bread.",
+    "options": ["I eat bread.", "I drink bread.", "I cook bread.", "I buy bread."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Eu bebo água.",
+    "correctAnswer": "I drink water.",
+    "options": ["I drink water.", "I eat water.", "I drink juice.", "I cook water."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Eu gosto de leite.",
+    "correctAnswer": "I like milk.",
+    "options": ["I like milk.", "I drink milk.", "I like water.", "I eat milk."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Isso é uma maçã.",
+    "correctAnswer": "This is an apple.",
+    "options": ["This is an apple.", "This is a banana.", "This is an orange.", "This is a cake."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Eu quero arroz.",
+    "correctAnswer": "I want rice.",
+    "options": ["I want rice.", "I want bread.", "I eat rice.", "I want beans."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "O café está quente.",
+    "correctAnswer": "The coffee is hot.",
+    "options": ["The coffee is hot.", "The coffee is cold.", "The tea is hot.", "The coffee is good."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Eu como uma banana.",
+    "correctAnswer": "I eat a banana.",
+    "options": ["I eat a banana.", "I drink a banana.", "I eat an apple.", "I buy a banana."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Ele bebe suco.",
+    "correctAnswer": "He drinks juice.",
+    "options": ["He drinks juice.", "She drinks juice.", "He eats juice.", "He drinks water."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Ela gosta de frango.",
+    "correctAnswer": "She likes chicken.",
+    "options": ["She likes chicken.", "He likes chicken.", "She eats chicken.", "She likes fish."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Eu tenho fome.",
+    "correctAnswer": "I am hungry.",
+    "options": ["I am hungry.", "I am thirsty.", "I am tired.", "I am happy."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Nós comemos ovos.",
+    "correctAnswer": "We eat eggs.",
+    "options": ["We eat eggs.", "We drink eggs.", "They eat eggs.", "We eat bread."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "O leite está frio.",
+    "correctAnswer": "The milk is cold.",
+    "options": ["The milk is cold.", "The milk is hot.", "The water is cold.", "The milk is good."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Eu como carne.",
+    "correctAnswer": "I eat meat.",
+    "options": ["I eat meat.", "I cook meat.", "I eat fish.", "I drink meat."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Você tem sede?",
+    "correctAnswer": "Are you thirsty?",
+    "options": ["Are you thirsty?", "Are you hungry?", "Are you tired?", "Do you have water?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Eu quero uma laranja.",
+    "correctAnswer": "I want an orange.",
+    "options": ["I want an orange.", "I eat an orange.", "I want an apple.", "I buy an orange."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Isso é bolo.",
+    "correctAnswer": "This is cake.",
+    "options": ["This is cake.", "This is bread.", "This is rice.", "This is food."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Eu bebo chá.",
+    "correctAnswer": "I drink tea.",
+    "options": ["I drink tea.", "I drink coffee.", "I eat tea.", "I drink water."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Eu como salada no almoço.",
+    "correctAnswer": "I eat salad for lunch.",
+    "options": ["I eat salad for lunch.", "I eat salad for dinner.", "I drink salad for lunch.", "I cook salad for lunch."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Ela bebe café pela manhã.",
+    "correctAnswer": "She drinks coffee in the morning.",
+    "options": ["She drinks coffee in the morning.", "She eats coffee in the morning.", "She drinks tea in the morning.", "He drinks coffee in the morning."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Eu não gosto de peixe.",
+    "correctAnswer": "I don't like fish.",
+    "options": ["I don't like fish.", "I don't eat fish.", "I don't like meat.", "I like fish."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Nós jantamos às sete horas.",
+    "correctAnswer": "We have dinner at seven o'clock.",
+    "options": ["We have dinner at seven o'clock.", "We have lunch at seven o'clock.", "We eat dinner at seven.", "We have breakfast at seven o'clock."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Você quer mais água?",
+    "correctAnswer": "Do you want more water?",
+    "options": ["Do you want more water?", "Do you drink more water?", "Do you want some water?", "Can I have more water?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Ele come fruta todo dia.",
+    "correctAnswer": "He eats fruit every day.",
+    "options": ["He eats fruit every day.", "He drinks fruit every day.", "She eats fruit every day.", "He eats vegetables every day."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "A comida está muito boa.",
+    "correctAnswer": "The food is very good.",
+    "options": ["The food is very good.", "The food is very hot.", "The drink is very good.", "The food is not good."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Eu tomo café da manhã em casa.",
+    "correctAnswer": "I have breakfast at home.",
+    "options": ["I have breakfast at home.", "I have lunch at home.", "I eat breakfast at school.", "I have breakfast at work."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Eles comem pizza aos finais de semana.",
+    "correctAnswer": "They eat pizza on weekends.",
+    "options": ["They eat pizza on weekends.", "We eat pizza on weekends.", "They drink pizza on weekends.", "They eat pizza every day."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Eu prefiro suco a refrigerante.",
+    "correctAnswer": "I prefer juice to soda.",
+    "options": ["I prefer juice to soda.", "I like juice and soda.", "I drink juice and soda.", "I prefer soda to juice."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "O restaurante serve comida italiana.",
+    "correctAnswer": "The restaurant serves Italian food.",
+    "options": ["The restaurant serves Italian food.", "The restaurant has Italian food.", "The restaurant cooks Italian food.", "The store serves Italian food."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Eu compro legumes no mercado.",
+    "correctAnswer": "I buy vegetables at the market.",
+    "options": ["I buy vegetables at the market.", "I eat vegetables at the market.", "I buy fruit at the market.", "I cook vegetables at the market."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Esta sopa está muito quente.",
+    "correctAnswer": "This soup is very hot.",
+    "options": ["This soup is very hot.", "This soup is very cold.", "This drink is very hot.", "This soup is very good."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Ele não come carne vermelha.",
+    "correctAnswer": "He doesn't eat red meat.",
+    "options": ["He doesn't eat red meat.", "She doesn't eat red meat.", "He doesn't like red meat.", "He doesn't eat fish."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Posso ter mais pão, por favor?",
+    "correctAnswer": "Can I have more bread, please?",
+    "options": ["Can I have more bread, please?", "Can I eat more bread, please?", "Can I have some water, please?", "I want more bread, please."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Ela faz o jantar toda noite.",
+    "correctAnswer": "She makes dinner every night.",
+    "options": ["She makes dinner every night.", "She cooks lunch every night.", "He makes dinner every night.", "She eats dinner every night."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Eu gosto de comer sorvete no verão.",
+    "correctAnswer": "I like to eat ice cream in the summer.",
+    "options": ["I like to eat ice cream in the summer.", "I like to drink ice cream in the summer.", "I like to eat cake in the summer.", "I like to eat ice cream in the winter."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "A conta do restaurante, por favor.",
+    "correctAnswer": "The bill, please.",
+    "options": ["The bill, please.", "The menu, please.", "The food, please.", "The check for the meal, please."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Nós comemos feijão com arroz quase todos os dias.",
+    "correctAnswer": "We eat beans and rice almost every day.",
+    "options": ["We eat beans and rice almost every day.", "We eat beans and rice every day.", "They eat beans and rice almost every day.", "We cook beans and rice almost every day."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Eu costumo tomar café da manhã com ovos mexidos e torrada.",
+    "correctAnswer": "I usually have breakfast with scrambled eggs and toast.",
+    "options": ["I usually have breakfast with scrambled eggs and toast.", "I always have lunch with scrambled eggs and toast.", "I sometimes have breakfast with fried eggs and toast.", "I usually have dinner with scrambled eggs and toast."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "O garçom trouxe o cardápio para nós.",
+    "correctAnswer": "The waiter brought the menu to us.",
+    "options": ["The waiter brought the menu to us.", "The waiter gave the bill to us.", "The waitress brought the menu to us.", "The waiter took the menu from us."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Esta receita precisa de dois ovos e uma xícara de farinha.",
+    "correctAnswer": "This recipe needs two eggs and one cup of flour.",
+    "options": ["This recipe needs two eggs and one cup of flour.", "This recipe uses two eggs and a cup of sugar.", "This dish needs two eggs and one cup of flour.", "This recipe needs three eggs and one cup of flour."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Ela é vegetariana e não come nenhum tipo de carne.",
+    "correctAnswer": "She is vegetarian and doesn't eat any kind of meat.",
+    "options": ["She is vegetarian and doesn't eat any kind of meat.", "She is vegan and doesn't eat any kind of meat.", "He is vegetarian and doesn't eat any kind of meat.", "She is vegetarian and doesn't like any kind of meat."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Eu prefiro o frango grelhado ao frango frito.",
+    "correctAnswer": "I prefer grilled chicken to fried chicken.",
+    "options": ["I prefer grilled chicken to fried chicken.", "I prefer fried chicken to grilled chicken.", "I like grilled chicken and fried chicken.", "I prefer grilled fish to fried chicken."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "O supermercado fica aberto até as dez da noite.",
+    "correctAnswer": "The supermarket is open until ten at night.",
+    "options": ["The supermarket is open until ten at night.", "The supermarket opens at ten at night.", "The restaurant is open until ten at night.", "The supermarket is closed until ten at night."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Você pode me passar o sal e a pimenta, por favor?",
+    "correctAnswer": "Can you pass me the salt and pepper, please?",
+    "options": ["Can you pass me the salt and pepper, please?", "Can you give me the sugar and pepper, please?", "Could you bring me the salt and pepper, please?", "Can you pass me the oil and pepper, please?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Nós pedimos duas pizzas de queijo e uma de calabresa.",
+    "correctAnswer": "We ordered two cheese pizzas and one pepperoni pizza.",
+    "options": ["We ordered two cheese pizzas and one pepperoni pizza.", "We ate two cheese pizzas and one pepperoni pizza.", "They ordered two cheese pizzas and one pepperoni pizza.", "We ordered three cheese pizzas and one pepperoni pizza."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Minha mãe sempre coloca muito alho na comida.",
+    "correctAnswer": "My mother always puts a lot of garlic in the food.",
+    "options": ["My mother always puts a lot of garlic in the food.", "My mother sometimes puts a lot of garlic in the food.", "My father always puts a lot of garlic in the food.", "My mother always puts a lot of onion in the food."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Eu tenho alergia a amendoim e não posso comer em restaurantes tailandeses.",
+    "correctAnswer": "I am allergic to peanuts and cannot eat at Thai restaurants.",
+    "options": ["I am allergic to peanuts and cannot eat at Thai restaurants.", "I don't like peanuts and cannot eat at Thai restaurants.", "I am allergic to nuts and cannot eat at Thai restaurants.", "I am allergic to peanuts and don't like Thai restaurants."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "O chef preparou um prato especial com ingredientes frescos do mercado.",
+    "correctAnswer": "The chef prepared a special dish with fresh ingredients from the market.",
+    "options": ["The chef prepared a special dish with fresh ingredients from the market.", "The cook made a special dish with fresh ingredients from the market.", "The chef cooked a special meal with fresh ingredients from the store.", "The chef prepared a regular dish with fresh ingredients from the market."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Eu quero experimentar comida japonesa pela primeira vez.",
+    "correctAnswer": "I want to try Japanese food for the first time.",
+    "options": ["I want to try Japanese food for the first time.", "I want to eat Japanese food for the first time.", "I would like to try Japanese food for the first time.", "I want to cook Japanese food for the first time."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "O bolo de chocolate que ela fez estava delicioso.",
+    "correctAnswer": "The chocolate cake she made was delicious.",
+    "options": ["The chocolate cake she made was delicious.", "The chocolate cake he made was delicious.", "The vanilla cake she made was delicious.", "The chocolate cake she bought was delicious."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Neste restaurante, o cardápio muda toda semana.",
+    "correctAnswer": "At this restaurant, the menu changes every week.",
+    "options": ["At this restaurant, the menu changes every week.", "At this restaurant, the menu changes every day.", "In this restaurant, the food changes every week.", "At this restaurant, the menu stays the same every week."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Ela aprendeu a cozinhar observando a avó na cozinha.",
+    "correctAnswer": "She learned to cook by watching her grandmother in the kitchen.",
+    "options": ["She learned to cook by watching her grandmother in the kitchen.", "She learned to cook by helping her grandmother in the kitchen.", "He learned to cook by watching his grandmother in the kitchen.", "She learned to bake by watching her grandmother in the kitchen."],
+    "difficulty": "hard"
+  }
+]

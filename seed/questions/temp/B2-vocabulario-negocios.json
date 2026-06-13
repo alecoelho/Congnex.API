@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o termo para a compra de uma empresa por outra?",
+        "difficulty":  "easy",
+        "options":  [
+                        "acquisition",
+                        "merger",
+                        "dividend",
+                        "portfolio"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "acquisition"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027lucro líquido\u0027 em contabilidade?",
+        "difficulty":  "easy",
+        "options":  [
+                        "net profit",
+                        "gross income",
+                        "operational cost",
+                        "asset value"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "net profit"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o termo para a redução no valor de um produto ou serviço?",
+        "difficulty":  "easy",
+        "options":  [
+                        "discount",
+                        "premium",
+                        "tariff",
+                        "commission"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "discount"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027fluxo de caixa\u0027 em finanças?",
+        "difficulty":  "easy",
+        "options":  [
+                        "cash flow",
+                        "credit line",
+                        "bank account",
+                        "investment fund"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "cash flow"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual termo designa uma quantia paga periodicamente aos acionistas?",
+        "difficulty":  "easy",
+        "options":  [
+                        "dividend",
+                        "salary",
+                        "bonus",
+                        "subsidy"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "dividend"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027saldo devedor\u0027 em uma conta corrente?",
+        "difficulty":  "easy",
+        "options":  [
+                        "overdraft",
+                        "credit balance",
+                        "interest rate",
+                        "transfer fee"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "overdraft"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o termo para um acordo entre empresas para um objetivo comum?",
+        "difficulty":  "easy",
+        "options":  [
+                        "partnership",
+                        "monopoly",
+                        "competitor",
+                        "franchise"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "partnership"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que é uma \u0027ação\u0027 na bolsa de valores?",
+        "difficulty":  "easy",
+        "options":  [
+                        "stock",
+                        "bond",
+                        "commodity",
+                        "derivative"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "stock"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual termo se refere ao total de bens e direitos de uma empresa?",
+        "difficulty":  "easy",
+        "options":  [
+                        "assets",
+                        "liabilities",
+                        "equity",
+                        "revenue"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "assets"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027inadimplência\u0027 em crédito?",
+        "difficulty":  "easy",
+        "options":  [
+                        "default",
+                        "settlement",
+                        "collateral",
+                        "guarantee"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "default"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o termo para a qualidade de ser solvente financeiramente?",
+        "difficulty":  "easy",
+        "options":  [
+                        "solvency",
+                        "liquidity",
+                        "profitability",
+                        "volatility"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "solvency"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que é um \u0027contrato de fornecimento\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "supply agreement",
+                        "lease agreement",
+                        "non-disclosure agreement",
+                        "employment contract"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "supply agreement"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual termo se refere à capacidade de uma empresa pagar suas contas?",
+        "difficulty":  "easy",
+        "options":  [
+                        "liquidity",
+                        "leverage",
+                        "yield",
+                        "depreciation"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "liquidity"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027devedores\u0027 no balanço contábil?",
+        "difficulty":  "easy",
+        "options":  [
+                        "debtors",
+                        "creditors",
+                        "shareholders",
+                        "stakeholders"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "debtors"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o termo para a taxa cobrada pelo uso de dinheiro emprestado?",
+        "difficulty":  "easy",
+        "options":  [
+                        "interest rate",
+                        "exchange rate",
+                        "inflation rate",
+                        "discount rate"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "interest rate"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027amortização\u0027 em um empréstimo?",
+        "difficulty":  "easy",
+        "options":  [
+                        "amortization",
+                        "capitalization",
+                        "depreciation",
+                        "valuation"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "amortization"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual termo designa a quantidade de produtos disponível em estoque?",
+        "difficulty":  "easy",
+        "options":  [
+                        "inventory",
+                        "supplier",
+                        "warehouse",
+                        "distributor"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "inventory"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que é um \u0027fundo de pensão\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "pension fund",
+                        "mutual fund",
+                        "sovereign fund",
+                        "emergency fund"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "pension fund"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual termo se refere ao ganho obtido com investimentos?",
+        "difficulty":  "medium",
+        "options":  [
+                        "capital gains",
+                        "operating income",
+                        "earned income",
+                        "unearned income"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "capital gains"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027endividamento\u0027 em análise financeira?",
+        "difficulty":  "medium",
+        "options":  [
+                        "leverage",
+                        "hedging",
+                        "arbitrage",
+                        "diversification"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "leverage"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o termo para a redução sistemática do valor de um bem?",
+        "difficulty":  "medium",
+        "options":  [
+                        "depreciation",
+                        "amortization",
+                        "valuation",
+                        "assessment"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "depreciation"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027rentabilidade\u0027 em termos de negócio?",
+        "difficulty":  "medium",
+        "options":  [
+                        "profitability",
+                        "productivity",
+                        "efficiency",
+                        "growth rate"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "profitability"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual termo designa a cessão de direitos de marca para terceiros?",
+        "difficulty":  "medium",
+        "options":  [
+                        "licensing",
+                        "franchising",
+                        "outsourcing",
+                        "subcontracting"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "licensing"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027inadimplência de crédito\u0027 mais formalmente?",
+        "difficulty":  "medium",
+        "options":  [
+                        "credit default",
+                        "credit crunch",
+                        "credit freeze",
+                        "credit limit"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "credit default"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o termo para a transferência de operações para outro país?",
+        "difficulty":  "medium",
+        "options":  [
+                        "offshoring",
+                        "reshoring",
+                        "outsourcing",
+                        "insourcing"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "offshoring"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027elasticidade de preço\u0027 em economia?",
+        "difficulty":  "medium",
+        "options":  [
+                        "price elasticity",
+                        "price ceiling",
+                        "price floor",
+                        "price discrimination"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "price elasticity"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual termo se refere ao processo de avaliar investimentos?",
+        "difficulty":  "medium",
+        "options":  [
+                        "due diligence",
+                        "asset allocation",
+                        "portfolio management",
+                        "risk assessment"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "due diligence"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027volatilidade\u0027 no mercado financeiro?",
+        "difficulty":  "medium",
+        "options":  [
+                        "volatility",
+                        "liquidity",
+                        "solvency",
+                        "insolvency"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "volatility"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o termo para ganhos fora de operações normais da empresa?",
+        "difficulty":  "medium",
+        "options":  [
+                        "extraordinary income",
+                        "recurring revenue",
+                        "passive income",
+                        "active income"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "extraordinary income"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que é uma \u0027joint venture\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "joint venture",
+                        "partnership agreement",
+                        "subsidiary company",
+                        "holding company"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "joint venture"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual termo designa o ato de transferência de dívida?",
+        "difficulty":  "medium",
+        "options":  [
+                        "debt assignment",
+                        "debt consolidation",
+                        "debt restructuring",
+                        "debt forgiveness"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "debt assignment"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027alavancagem financeira\u0027 em termos corporativos?",
+        "difficulty":  "medium",
+        "options":  [
+                        "financial leverage",
+                        "operating leverage",
+                        "combined leverage",
+                        "degree of leverage"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "financial leverage"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o termo para a análise de risco de crédito?",
+        "difficulty":  "medium",
+        "options":  [
+                        "credit analysis",
+                        "credit scoring",
+                        "credit rating",
+                        "credit worthiness"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "credit analysis"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027securitização\u0027 em finanças?",
+        "difficulty":  "hard",
+        "options":  [
+                        "securitization",
+                        "syndication",
+                        "privatization",
+                        "tokenization"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "securitization"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual termo se refere ao preço pelo qual um ativo pode ser vendido rapidamente?",
+        "difficulty":  "hard",
+        "options":  [
+                        "market value",
+                        "book value",
+                        "face value",
+                        "par value"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "market value"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027arbitragem\u0027 no contexto de mercados financeiros?",
+        "difficulty":  "hard",
+        "options":  [
+                        "arbitrage",
+                        "hedging",
+                        "speculation",
+                        "diversification"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "arbitrage"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o termo para a variação cambial entre moedas?",
+        "difficulty":  "hard",
+        "options":  [
+                        "foreign exchange",
+                        "currency peg",
+                        "monetary policy",
+                        "fiscal policy"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "foreign exchange"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027otimização tributária\u0027 em contabilidade?",
+        "difficulty":  "hard",
+        "options":  [
+                        "tax optimization",
+                        "tax evasion",
+                        "tax avoidance",
+                        "tax fraud"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "tax optimization"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual termo designa a recompra de ações pela própria empresa?",
+        "difficulty":  "hard",
+        "options":  [
+                        "share buyback",
+                        "stock split",
+                        "dividend reinvestment",
+                        "equity offering"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "share buyback"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027covenant\u0027 em um contrato de empréstimo?",
+        "difficulty":  "hard",
+        "options":  [
+                        "covenant",
+                        "collateral",
+                        "guarantee",
+                        "indemnity"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "covenant"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o termo para a diminuição de valor de moedas em relação a outras?",
+        "difficulty":  "hard",
+        "options":  [
+                        "currency depreciation",
+                        "currency appreciation",
+                        "currency revaluation",
+                        "currency devaluation"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "currency depreciation"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027fusão horizontal\u0027 entre empresas?",
+        "difficulty":  "hard",
+        "options":  [
+                        "horizontal merger",
+                        "vertical merger",
+                        "conglomerate merger",
+                        "reverse merger"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "horizontal merger"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual termo se refere ao ganho esperado de um investimento?",
+        "difficulty":  "hard",
+        "options":  [
+                        "return on investment",
+                        "cost of capital",
+                        "internal rate of return",
+                        "break-even point"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "return on investment"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027inadimplência estrutural\u0027 em economia?",
+        "difficulty":  "hard",
+        "options":  [
+                        "structural default",
+                        "technical default",
+                        "selective default",
+                        "distressed default"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "structural default"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o termo para a prática de oferecer crédito a pessoas de maior risco?",
+        "difficulty":  "hard",
+        "options":  [
+                        "subprime lending",
+                        "prime lending",
+                        "bridge lending",
+                        "mezzanine lending"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "subprime lending"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027rating de crédito\u0027 para uma empresa?",
+        "difficulty":  "hard",
+        "options":  [
+                        "credit rating",
+                        "credit score",
+                        "credit spread",
+                        "credit default swap"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "credit rating"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual termo designa a prática de esconder lucros no exterior?",
+        "difficulty":  "hard",
+        "options":  [
+                        "profit shifting",
+                        "transfer pricing",
+                        "cost accounting",
+                        "activity-based costing"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "profit shifting"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027resgate de debênture\u0027 em investimentos?",
+        "difficulty":  "hard",
+        "options":  [
+                        "bond redemption",
+                        "bond conversion",
+                        "bond issuance",
+                        "bond maturity"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "bond redemption"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o termo para a incapacidade permanente de pagar uma dívida?",
+        "difficulty":  "hard",
+        "options":  [
+                        "insolvency",
+                        "illiquidity",
+                        "bankruptcy",
+                        "foreclosure"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "insolvency"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027sindicação\u0027 em operações de crédito?",
+        "correctAnswer":  "syndication",
+        "options":  [
+                        "syndication",
+                        "securitization",
+                        "underwriting",
+                        "placement"
+                    ],
+        "difficulty":  "hard"
+    }
+]

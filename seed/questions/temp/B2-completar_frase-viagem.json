@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "I need to ___ a hotel before I arrive at the destination.",
+        "correctAnswer":  "book",
+        "options":  [
+                        "book",
+                        "reserve",
+                        "rent",
+                        "purchase"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The ___ from the hotel to the airport takes about 30 minutes.",
+        "correctAnswer":  "shuttle",
+        "options":  [
+                        "shuttle",
+                        "transfer",
+                        "transport",
+                        "taxi"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "We ___ our bags at the airport and then went to the gate.",
+        "correctAnswer":  "checked",
+        "options":  [
+                        "checked",
+                        "weighed",
+                        "packed",
+                        "sorted"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "Before traveling abroad, you should ___ your visa requirements.",
+        "correctAnswer":  "check",
+        "options":  [
+                        "check",
+                        "verify",
+                        "confirm",
+                        "examine"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The tour ___ gave us very interesting information about the historical sites.",
+        "correctAnswer":  "guide",
+        "options":  [
+                        "guide",
+                        "leader",
+                        "organizer",
+                        "coordinator"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "I usually ___ my luggage before going on vacation.",
+        "correctAnswer":  "pack",
+        "options":  [
+                        "pack",
+                        "prepare",
+                        "arrange",
+                        "organize"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The hotel ___ included breakfast and free WiFi.",
+        "correctAnswer":  "package",
+        "options":  [
+                        "package",
+                        "deal",
+                        "offer",
+                        "service"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "We decided to ___ a car for our road trip through Europe.",
+        "correctAnswer":  "rent",
+        "options":  [
+                        "rent",
+                        "lease",
+                        "hire",
+                        "borrow"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The ___ at the border asked to see our passports.",
+        "correctAnswer":  "official",
+        "options":  [
+                        "official",
+                        "officer",
+                        "agent",
+                        "inspector"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "My flight was ___ due to bad weather, so I arrived three hours late.",
+        "correctAnswer":  "delayed",
+        "options":  [
+                        "delayed",
+                        "postponed",
+                        "cancelled",
+                        "rescheduled"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The ___ has beautiful beaches and crystal-clear water.",
+        "correctAnswer":  "resort",
+        "options":  [
+                        "resort",
+                        "beach",
+                        "destination",
+                        "location"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "I prefer traveling by train because it\u0027\u0027\u0027s more ___ than flying.",
+        "correctAnswer":  "relaxing",
+        "options":  [
+                        "relaxing",
+                        "comfortable",
+                        "peaceful",
+                        "convenient"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "We need to ___ our tickets online before the trip.",
+        "correctAnswer":  "confirm",
+        "options":  [
+                        "confirm",
+                        "verify",
+                        "validate",
+                        "check"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The ___ provides maps and information about local attractions.",
+        "correctAnswer":  "tourist office",
+        "options":  [
+                        "tourist office",
+                        "information desk",
+                        "travel center",
+                        "reception"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "I always buy travel ___ before going on international trips.",
+        "correctAnswer":  "insurance",
+        "options":  [
+                        "insurance",
+                        "coverage",
+                        "protection",
+                        "policy"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The accommodation was excellent, and the service was ___ throughout our stay.",
+        "correctAnswer":  "impeccable",
+        "options":  [
+                        "impeccable",
+                        "outstanding",
+                        "excellent",
+                        "superb"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "During summer vacation, many people prefer to travel to ___ destinations.",
+        "correctAnswer":  "exotic",
+        "options":  [
+                        "exotic",
+                        "distant",
+                        "foreign",
+                        "unknown"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The cruise ship will ___ at several Mediterranean ports during the journey.",
+        "correctAnswer":  "dock",
+        "options":  [
+                        "dock",
+                        "anchor",
+                        "moor",
+                        "berth"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "We couldn\u0027\u0027\u0027t afford the luxury resort, so we decided to ___ for a budget hotel instead.",
+        "correctAnswer":  "opt",
+        "options":  [
+                        "opt",
+                        "choose",
+                        "select",
+                        "pick"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The ___ recommended several authentic restaurants in the old town.",
+        "correctAnswer":  "concierge",
+        "options":  [
+                        "concierge",
+                        "receptionist",
+                        "attendant",
+                        "assistant"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "I was able to ___ my business trip with a short vacation in Paris.",
+        "correctAnswer":  "combine",
+        "options":  [
+                        "combine",
+                        "merge",
+                        "blend",
+                        "integrate"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The travel ___ helped us plan our itinerary for the entire month-long journey.",
+        "correctAnswer":  "agent",
+        "options":  [
+                        "agent",
+                        "consultant",
+                        "advisor",
+                        "specialist"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "After landing, we had to ___ through customs, which took over an hour.",
+        "correctAnswer":  "go",
+        "options":  [
+                        "go",
+                        "pass",
+                        "clear",
+                        "proceed"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The museum is definitely worth a ___ if you\u0027\u0027\u0027re interested in ancient history.",
+        "correctAnswer":  "visit",
+        "options":  [
+                        "visit",
+                        "tour",
+                        "look",
+                        "stop"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "We decided to explore the city on foot rather than taking public ___.",
+        "correctAnswer":  "transportation",
+        "options":  [
+                        "transportation",
+                        "transit",
+                        "transport",
+                        "vehicles"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The hotel ___ a complimentary breakfast for all guests staying more than three nights.",
+        "correctAnswer":  "offers",
+        "options":  [
+                        "offers",
+                        "provides",
+                        "gives",
+                        "supplies"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "We booked an ___ tour that included visits to three different countries.",
+        "correctAnswer":  "extensive",
+        "options":  [
+                        "extensive",
+                        "comprehensive",
+                        "elaborate",
+                        "detailed"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The flight attendants were very helpful and addressed every passenger\u0027\u0027\u0027s ___.",
+        "correctAnswer":  "request",
+        "options":  [
+                        "request",
+                        "demand",
+                        "requirement",
+                        "need"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "Make sure to exchange your money at the airport to ___ unfavorable rates later.",
+        "correctAnswer":  "avoid",
+        "options":  [
+                        "avoid",
+                        "prevent",
+                        "bypass",
+                        "evade"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The region is known for its ___ culture and traditional handicrafts.",
+        "correctAnswer":  "vibrant",
+        "options":  [
+                        "vibrant",
+                        "lively",
+                        "colorful",
+                        "dynamic"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "When traveling abroad, it\u0027\u0027\u0027s important to be aware of ___ regulations in each country.",
+        "correctAnswer":  "customs",
+        "options":  [
+                        "customs",
+                        "local",
+                        "immigration",
+                        "border"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The scenic ___ along the coast was breathtaking and worth every minute of the journey.",
+        "correctAnswer":  "route",
+        "options":  [
+                        "route",
+                        "path",
+                        "journey",
+                        "drive"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The airline ___ us with meal vouchers after the long delay.",
+        "correctAnswer":  "compensated",
+        "options":  [
+                        "compensated",
+                        "reimbursed",
+                        "credited",
+                        "refunded"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "This travel package is particularly appealing because it ___ both indoor and outdoor activities.",
+        "correctAnswer":  "encompasses",
+        "options":  [
+                        "encompasses",
+                        "includes",
+                        "covers",
+                        "incorporates"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The hotel management was very _____ and handled our complaint professionally.",
+        "correctAnswer":  "accommodating",
+        "options":  [
+                        "accommodating",
+                        "helpful",
+                        "friendly",
+                        "courteous"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "Due to the pandemic, many airlines had to ___ their operations significantly.",
+        "correctAnswer":  "curtail",
+        "options":  [
+                        "curtail",
+                        "reduce",
+                        "limit",
+                        "restrict"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The historic city center is a UNESCO World Heritage site, which ___ its historical significance.",
+        "correctAnswer":  "attests to",
+        "options":  [
+                        "attests to",
+                        "proves",
+                        "shows",
+                        "demonstrates"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The travel guide provided ___ insights into the local customs and traditions.",
+        "correctAnswer":  "invaluable",
+        "options":  [
+                        "invaluable",
+                        "excellent",
+                        "useful",
+                        "important"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "We had to ___ our original plans when the weather became unsuitable for hiking.",
+        "correctAnswer":  "revise",
+        "options":  [
+                        "revise",
+                        "alter",
+                        "modify",
+                        "change"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The ___ of tourism has transformed the local economy and infrastructure.",
+        "correctAnswer":  "proliferation",
+        "options":  [
+                        "proliferation",
+                        "growth",
+                        "increase",
+                        "development"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "Travelers should be ___ of pickpockets in crowded tourist areas.",
+        "correctAnswer":  "wary",
+        "options":  [
+                        "wary",
+                        "aware",
+                        "careful",
+                        "cautious"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The expedition faced ___ challenges crossing the desert, including extreme heat and limited water.",
+        "correctAnswer":  "formidable",
+        "options":  [
+                        "formidable",
+                        "difficult",
+                        "serious",
+                        "major"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The travel insurance policy ___ all accidents and medical emergencies during the trip.",
+        "correctAnswer":  "covers",
+        "options":  [
+                        "covers",
+                        "includes",
+                        "provides",
+                        "protects"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The architectural style of the cathedral is a ___ blend of Gothic and Renaissance influences.",
+        "correctAnswer":  "seamless",
+        "options":  [
+                        "seamless",
+                        "perfect",
+                        "beautiful",
+                        "harmonious"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The government has implemented ___ measures to promote sustainable tourism in the region.",
+        "correctAnswer":  "stringent",
+        "options":  [
+                        "stringent",
+                        "strict",
+                        "rigorous",
+                        "firm"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The hostel provides a ___ atmosphere where travelers can easily meet and exchange stories.",
+        "correctAnswer":  "convivial",
+        "options":  [
+                        "convivial",
+                        "friendly",
+                        "social",
+                        "welcoming"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The ancient ruins ___ the city\u0027\u0027\u0027s remarkable past and historical importance.",
+        "correctAnswer":  "epitomize",
+        "options":  [
+                        "epitomize",
+                        "represent",
+                        "symbolize",
+                        "embody"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The travel itinerary was so ___ that we barely had time to rest between activities.",
+        "correctAnswer":  "packed",
+        "options":  [
+                        "packed",
+                        "full",
+                        "crowded",
+                        "dense"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The natural landscape had been significantly altered by human ___ over the decades.",
+        "correctAnswer":  "exploitation",
+        "options":  [
+                        "exploitation",
+                        "use",
+                        "development",
+                        "intervention"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "complete_sentence",
+        "questionText":  "The beachfront hotel ___ stunning views of the sunset every evening.",
+        "difficulty":  "medium",
+        "options":  [
+                        "offers",
+                        "displays",
+                        "shows",
+                        "presents"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "offers"
+    }
+]

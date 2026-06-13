@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer sugerir uma alternativa mais prática para o sistema de backup atual que sua equipe está usando. Como você expressaria isso?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Why don\u0027t we consider implementing a cloud-based solution instead?",
+                        "You should change the backup system immediately",
+                        "The backup is bad and needs fixing",
+                        "Can you make the system better?"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Why don\u0027t we consider implementing a cloud-based solution instead?"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Durante uma reunião técnica, você precisa pedir esclarecimento sobre um protocolo de segurança complexo. Qual frase é mais apropriada?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Could you elaborate on the encryption protocol you mentioned?",
+                        "I don\u0027t understand what you said",
+                        "What is that about?",
+                        "Explain that to me now"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Could you elaborate on the encryption protocol you mentioned?"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Você discorda sutilmente de uma proposta de implementação de tecnologia. Como você expressaria isso?",
+        "difficulty":  "easy",
+        "options":  [
+                        "While your proposal has merit, I have some reservations about the scalability aspect.",
+                        "Your idea is completely wrong",
+                        "That won\u0027t work at all",
+                        "I disagree with you"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "While your proposal has merit, I have some reservations about the scalability aspect."
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer oferecer ajuda a um colega que está tendo dificuldades com um programa. Qual é a melhor forma de fazer isso?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Would you like me to walk you through the troubleshooting process?",
+                        "You should learn how to use this",
+                        "Let me fix it for you",
+                        "You\u0027re doing it wrong"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Would you like me to walk you through the troubleshooting process?"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Você precisa resumir as implicações técnicas de um problema crítico para a gerência. Como você iniciaria sua explicação?",
+        "difficulty":  "easy",
+        "options":  [
+                        "To put it in perspective, this vulnerability could potentially compromise our entire infrastructure.",
+                        "There\u0027s a big problem with the system",
+                        "Something bad might happen",
+                        "We have a security issue"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "To put it in perspective, this vulnerability could potentially compromise our entire infrastructure."
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Um cliente questiona a necessidade de uma atualização de segurança. Como você justificaria isso?",
+        "difficulty":  "easy",
+        "options":  [
+                        "The update addresses a critical vulnerability that could expose your data to unauthorized access.",
+                        "You need to update your system",
+                        "This is important",
+                        "It\u0027s a security thing"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "The update addresses a critical vulnerability that could expose your data to unauthorized access."
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Você está explicando por que um projeto foi atrasado devido a problemas técnicos. Como você se expressaria?",
+        "difficulty":  "easy",
+        "options":  [
+                        "We\u0027ve encountered some unforeseen technical obstacles that have necessitated a revision of our timeline.",
+                        "Things went wrong with the code",
+                        "The project is taking longer",
+                        "We have problems"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "We\u0027ve encountered some unforeseen technical obstacles that have necessitated a revision of our timeline."
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer expressar que uma solução anterior não era sustentável para uso de longo prazo. Qual frase é apropriada?",
+        "difficulty":  "easy",
+        "options":  [
+                        "The previous approach proved to be untenable for long-term implementation.",
+                        "The old way didn\u0027t work",
+                        "We need to change the system",
+                        "It wasn\u0027t good enough"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "The previous approach proved to be untenable for long-term implementation."
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Um desenvolvedor propõe usar uma ferramenta não testada. Como você expressaria preocupação de forma profissional?",
+        "difficulty":  "easy",
+        "options":  [
+                        "I understand the potential benefits, but we should ascertain its reliability before full implementation.",
+                        "That tool might break things",
+                        "Are you sure about this?",
+                        "Let\u0027s not use that"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "I understand the potential benefits, but we should ascertain its reliability before full implementation."
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer reconhecer a opinião de alguém enquanto apresenta uma perspectiva alternativa sobre a migração de sistemas. Como faria?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Granted that your point about minimizing disruption is valid, we must also prioritize data integrity.",
+                        "I see what you mean, but we should do it differently",
+                        "You\u0027re right, but I disagree",
+                        "That\u0027s true, however..."
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Granted that your point about minimizing disruption is valid, we must also prioritize data integrity."
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Você precisa comunicar um fracasso em um projeto de tecnologia mantendo credibilidade. Qual abordagem é melhor?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Upon reflection, it\u0027s clear that our initial strategy was flawed, and we\u0027ve identified the key areas requiring rectification.",
+                        "We messed up but we\u0027ll fix it",
+                        "The project didn\u0027t work",
+                        "It failed because of the team"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Upon reflection, it\u0027s clear that our initial strategy was flawed, and we\u0027ve identified the key areas requiring rectification."
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer fazer uma recomendação forte sobre adoção de uma nova arquitetura de software. Como expressaria isso?",
+        "difficulty":  "easy",
+        "options":  [
+                        "I would strongly advocate for transitioning to a microservices architecture given our scalability requirements.",
+                        "We should use microservices",
+                        "This architecture is better",
+                        "I think we need to change this"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "I would strongly advocate for transitioning to a microservices architecture given our scalability requirements."
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Um stakeholder questiona o ROI de uma implementação de IA. Como você fundamentaria sua resposta?",
+        "difficulty":  "easy",
+        "options":  [
+                        "The projected return is contingent upon optimizing our data infrastructure, which we\u0027re positioned to do within the next quarter.",
+                        "It will save us money eventually",
+                        "AI will help us make more money",
+                        "We\u0027ll see better results"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "The projected return is contingent upon optimizing our data infrastructure, which we\u0027re positioned to do within the next quarter."
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Você está explicando por que uma integração de terceiros falhou. Como você comunicaria isso estrategicamente?",
+        "difficulty":  "easy",
+        "options":  [
+                        "The third-party integration encountered API compatibility issues that necessitate renegotiating the contract terms.",
+                        "The connection didn\u0027t work properly",
+                        "Their system wasn\u0027t compatible",
+                        "It didn\u0027t integrate well"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "The third-party integration encountered API compatibility issues that necessitate renegotiating the contract terms."
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Você precisa solicitar feedback sobre uma proposta de modernização de infraestrutura. Qual é a abordagem mais apropriada?",
+        "difficulty":  "easy",
+        "options":  [
+                        "I would appreciate your insights on the feasibility and potential implications of this infrastructure overhaul.",
+                        "What do you think about this plan?",
+                        "Can you review this proposal?",
+                        "Is this a good idea?"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "I would appreciate your insights on the feasibility and potential implications of this infrastructure overhaul."
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer recomendar implementação de práticas DevOps de forma persuasiva. Como faria?",
+        "difficulty":  "easy",
+        "options":  [
+                        "By streamlining our deployment pipeline through DevOps practices, we can significantly reduce time-to-market and enhance system reliability.",
+                        "We should use DevOps",
+                        "DevOps will make things faster",
+                        "Let\u0027s implement DevOps"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "By streamlining our deployment pipeline through DevOps practices, we can significantly reduce time-to-market and enhance system reliability."
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Um desenvolvedor junior propõe uma solução técnica questionável. Como você ofereceria orientação de forma construtiva?",
+        "difficulty":  "medium",
+        "options":  [
+                        "While your approach demonstrates innovative thinking, have you considered the latency implications in a high-traffic scenario?",
+                        "That won\u0027t work",
+                        "That\u0027s not the right way",
+                        "You should do it differently"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "While your approach demonstrates innovative thinking, have you considered the latency implications in a high-traffic scenario?"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Você precisa fundamentar a necessidade de investimento em segurança cibernética para a C-suite. Como você estruturaria seu argumento?",
+        "difficulty":  "medium",
+        "options":  [
+                        "The exponential increase in sophisticated cyber threats necessitates a proactive investment in our defensive infrastructure to mitigate potential exposure.",
+                        "We need better security to protect our data",
+                        "Hackers are a problem for us",
+                        "We should spend money on security"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "The exponential increase in sophisticated cyber threats necessitates a proactive investment in our defensive infrastructure to mitigate potential exposure."
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Um cliente se recusa a atualizar seu sistema legado. Como você expressaria a urgência sem ser agressivo?",
+        "difficulty":  "medium",
+        "options":  [
+                        "I must emphasize that continued operation of legacy systems exposes you to mounting security vulnerabilities and operational inefficiencies.",
+                        "You really need to update",
+                        "Your system is outdated",
+                        "This is a serious problem"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "I must emphasize that continued operation of legacy systems exposes you to mounting security vulnerabilities and operational inefficiencies."
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer explicar um trade-off complexo entre performance e segurança. Como você estruturaria essa comunicação?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Implementing comprehensive encryption protocols would necessarily incur some performance degradation, yet the security gains would substantially outweigh this cost.",
+                        "Encryption makes things slower but safer",
+                        "We have to choose between speed and security",
+                        "Security is more important than speed"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Implementing comprehensive encryption protocols would necessarily incur some performance degradation, yet the security gains would substantially outweigh this cost."
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Você está apresentando uma análise pós-mortem de um incidente de segurança. Como você iniciaria a discussão?",
+        "difficulty":  "medium",
+        "options":  [
+                        "The incident stemmed from a confluence of factors, each of which we can address through systemic improvements to our security posture.",
+                        "Something bad happened and we need to fix it",
+                        "There was a security problem",
+                        "We had an incident"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "The incident stemmed from a confluence of factors, each of which we can address through systemic improvements to our security posture."
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Um concorrente implementou uma tecnologia que sua empresa está considerando. Como você comunicaria isso para justificar investimento imediato?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Given that our competitors are already deriving competitive advantage from this technology, we face an imperative to expedite our adoption strategy.",
+                        "We need to do this before they get ahead",
+                        "They\u0027re using it and we should too",
+                        "We should implement this soon"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Given that our competitors are already deriving competitive advantage from this technology, we face an imperative to expedite our adoption strategy."
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Você precisa explicar por que um projeto open-source é inadequado para sua necessidade corporativa. Como faria?",
+        "difficulty":  "medium",
+        "options":  [
+                        "While the open-source solution offers transparency, we require enterprise-grade support and compliance certifications that are absent from this offering.",
+                        "Open-source isn\u0027t good enough for us",
+                        "We need commercial software",
+                        "This project doesn\u0027t have the features we need"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "While the open-source solution offers transparency, we require enterprise-grade support and compliance certifications that are absent from this offering."
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Um membro da equipe sugere uma solução que contradiz a arquitetura estabelecida. Como você abordaria isso diplomaticamente?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Your suggestion warrants consideration, but we should first examine how it aligns with our established architectural principles and long-term vision.",
+                        "We already decided on a different approach",
+                        "That doesn\u0027t fit our architecture",
+                        "That\u0027s not how we do things"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Your suggestion warrants consideration, but we should first examine how it aligns with our established architectural principles and long-term vision."
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Você está redigindo uma política de privacidade de dados complexa. Como você comunicaria o compromisso da empresa?",
+        "difficulty":  "medium",
+        "options":  [
+                        "We are steadfastly committed to safeguarding user privacy through rigorous data governance practices and transparent operational protocols.",
+                        "We protect your data carefully",
+                        "Your privacy is important to us",
+                        "We don\u0027t share your information"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "We are steadfastly committed to safeguarding user privacy through rigorous data governance practices and transparent operational protocols."
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Um desenvolvedor afirma que uma otimização proposta é prematura. Como você responderia apresentando uma perspectiva equilibrada?",
+        "difficulty":  "medium",
+        "options":  [
+                        "While premature optimization is problematic, the performance bottlenecks we\u0027ve identified are sufficiently acute to warrant targeted interventions.",
+                        "We need to optimize now",
+                        "This is the right time to optimize",
+                        "Your concern is valid but we should still do it"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "While premature optimization is problematic, the performance bottlenecks we\u0027ve identified are sufficiently acute to warrant targeted interventions."
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Você está comunicando uma mudança de direção estratégica em relação à adoção de cloud. Como você enquadraria isso positivamente?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Our evolution toward a hybrid cloud strategy reflects a more nuanced understanding of our operational requirements and risk tolerance.",
+                        "We changed our minds about cloud",
+                        "We\u0027re using some cloud services now",
+                        "We decided to use cloud differently"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Our evolution toward a hybrid cloud strategy reflects a more nuanced understanding of our operational requirements and risk tolerance."
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Um cliente insiste que funcionalidades não devem ser prototipadas. Como você explicaria o valor do prototipagem?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Prototyping enables us to iteratively validate user requirements and technical feasibility before committing substantial resources to full implementation.",
+                        "Prototyping helps us see if it will work",
+                        "It\u0027s a good way to test ideas",
+                        "We can find problems early"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Prototyping enables us to iteratively validate user requirements and technical feasibility before committing substantial resources to full implementation."
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Você precisa explicar por que um padrão de design tradicional não é mais adequado. Como faria?",
+        "difficulty":  "medium",
+        "options":  [
+                        "This architectural pattern, while historically effective, has become increasingly susceptible to bottlenecks under contemporary transaction volumes.",
+                        "This old pattern doesn\u0027t work well anymore",
+                        "We need a different approach",
+                        "This design is outdated"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "This architectural pattern, while historically effective, has become increasingly susceptible to bottlenecks under contemporary transaction volumes."
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Um stakeholder questiona a necessidade de testes automatizados abrangentes. Como você justificaria isso?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Comprehensive test automation mitigates regression risks and substantially reduces the cost of defect remediation across the development lifecycle.",
+                        "Tests prevent bugs from happening",
+                        "We need to test everything",
+                        "Tests save us time later"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Comprehensive test automation mitigates regression risks and substantially reduces the cost of defect remediation across the development lifecycle."
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Você está apresentando uma proposta de refatoração de código legado. Como você a estruturaria?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Strategic refactoring of our legacy codebase will enhance maintainability, reduce technical debt, and facilitate future feature development.",
+                        "The old code is messy and needs fixing",
+                        "We should clean up the code",
+                        "The code is hard to work with"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Strategic refactoring of our legacy codebase will enhance maintainability, reduce technical debt, and facilitate future feature development."
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Um desenvolvedor discorda da escolha de um framework. Como você resolveria isso mantendo hierarquia respeitosa?",
+        "difficulty":  "medium",
+        "options":  [
+                        "I acknowledge your reservations about the framework choice; however, our selection was predicated on our specific scalability and team expertise considerations.",
+                        "We already chose this framework",
+                        "Your opinion is noted but we\u0027re using this",
+                        "This is the best framework for us"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "I acknowledge your reservations about the framework choice; however, our selection was predicated on our specific scalability and team expertise considerations."
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Você precisa comunicar a necessidade de investimento contínuo em pesquisa e desenvolvimento de tecnologia. Como estruturaria isso?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Sustained investment in R\u0026D is indispensable for maintaining our competitive advantage and anticipating market evolution.",
+                        "We need to spend money on research",
+                        "R\u0026D is important for the future",
+                        "We should keep innovating"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Sustained investment in R\u0026D is indispensable for maintaining our competitive advantage and anticipating market evolution."
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Um cliente reclama sobre downtime durante manutenção. Como você explicaria isso de forma que preserve o relacionamento?",
+        "difficulty":  "hard",
+        "options":  [
+                        "We recognize the operational impact; however, this maintenance window is essential for implementing critical security patches that safeguard your system.",
+                        "Maintenance is necessary sometimes",
+                        "We have to do this for maintenance",
+                        "The downtime is unavoidable"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "We recognize the operational impact; however, this maintenance window is essential for implementing critical security patches that safeguard your system."
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Você está justificando uma decisão controversa de descontinuar suporte para uma tecnologia antiga. Como faria isso estrategicamente?",
+        "difficulty":  "hard",
+        "options":  [
+                        "The discontinuation of legacy system support represents a strategic pivot toward allocating resources to platforms that align with contemporary industry standards and user expectations.",
+                        "We\u0027re stopping support for the old system",
+                        "We need to focus on new technologies",
+                        "The old system is too expensive to maintain"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "The discontinuation of legacy system support represents a strategic pivot toward allocating resources to platforms that align with contemporary industry standards and user expectations."
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Você está explicando por que adotou uma tecnologia contra a recomendação de analistas externos. Como você defenderia essa decisão?",
+        "difficulty":  "hard",
+        "options":  [
+                        "While external analyses provided valuable insights, our organizational context and risk parameters necessitated a divergent strategic approach.",
+                        "We knew better than the experts",
+                        "The experts were wrong",
+                        "Our situation is different"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "While external analyses provided valuable insights, our organizational context and risk parameters necessitated a divergent strategic approach."
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Um regulador questiona suas práticas de conformidade de dados. Como você responderia de forma defensável?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Our compliance framework has been meticulously constructed to exceed regulatory requirements, with comprehensive documentation available for inspection.",
+                        "We follow all the rules",
+                        "We comply with regulations",
+                        "Our practices are compliant"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Our compliance framework has been meticulously constructed to exceed regulatory requirements, with comprehensive documentation available for inspection."
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Você está explicando por que um projeto de transformação digital fracassou parcialmente. Como você estruturaria essa narrativa?",
+        "difficulty":  "hard",
+        "options":  [
+                        "The initiative encountered unanticipated organizational challenges that, while constraining our initial objectives, have yielded invaluable insights for recalibrating our approach.",
+                        "The project didn\u0027t work completely",
+                        "We had some problems with the project",
+                        "Not everything went as planned"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "The initiative encountered unanticipated organizational challenges that, while constraining our initial objectives, have yielded invaluable insights for recalibrating our approach."
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Um concorrente está oferecendo uma funcionalidade que sua empresa ainda não possui. Como você comunicaria o plano de resposta?",
+        "difficulty":  "hard",
+        "options":  [
+                        "We are systematically evaluating this competitive development and will articulate our strategic response through an integrated product roadmap initiative.",
+                        "We\u0027re working on that feature too",
+                        "We\u0027ll have something similar soon",
+                        "Our product is different"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "We are systematically evaluating this competitive development and will articulate our strategic response through an integrated product roadmap initiative."
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Você está redigindo um white paper sobre uma inovação técnica propriedade. Como você equilibraria transparência com proteção de propriedade intelectual?",
+        "difficulty":  "hard",
+        "options":  [
+                        "We have endeavored to elucidate our methodological innovations while maintaining appropriate confidentiality regarding proprietary implementation details.",
+                        "We can\u0027t tell you everything about how it works",
+                        "We revealed our process but kept trade secrets",
+                        "We shared some details but not all"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "We have endeavored to elucidate our methodological innovations while maintaining appropriate confidentiality regarding proprietary implementation details."
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Um membro da equipe foi responsável por um erro crítico. Como você comunicaria isso de forma que responsabilize sem destruir confiança?",
+        "difficulty":  "hard",
+        "options":  [
+                        "While the incident resulted from an individual procedural deviation, we recognize systemic gaps that rendered such errors insufficiently preventable.",
+                        "Someone made a mistake",
+                        "This person caused the error",
+                        "We need to prevent this from happening again"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "While the incident resulted from an individual procedural deviation, we recognize systemic gaps that rendered such errors insufficiently preventable."
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Você está justificando por que não implementou uma sugestão de melhoria proposta há meses. Como você se explicaria?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Upon comprehensive evaluation, the confluence of our resource constraints and competing architectural imperatives necessitated deferring this optimization.",
+                        "We were busy with other things",
+                        "We didn\u0027t have time for that",
+                        "Other projects were more important"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Upon comprehensive evaluation, the confluence of our resource constraints and competing architectural imperatives necessitated deferring this optimization."
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Você está explicando por que uma solução comprada não pode ser adaptada facilmente para novos requisitos. Como comunicaria isso?",
+        "difficulty":  "hard",
+        "options":  [
+                        "The vendor solution\u0027s architectural constraints preclude the customization depth requisite for accommodating our specialized operational workflows.",
+                        "The system can\u0027t be changed easily",
+                        "It\u0027s not designed for what we need",
+                        "We can\u0027t modify it the way we want"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "The vendor solution\u0027s architectural constraints preclude the customization depth requisite for accommodating our specialized operational workflows."
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Um investidor questiona o burn rate do orçamento de tecnologia. Como você justificaria os gastos?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Our technology investments are strategically calibrated to establish competitive moats and facilitate revenue-generating capabilities that substantiate the fiscal commitment.",
+                        "We spend money to stay competitive",
+                        "Technology is expensive",
+                        "We need this investment for growth"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Our technology investments are strategically calibrated to establish competitive moats and facilitate revenue-generating capabilities that substantiate the fiscal commitment."
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Você está comunicando por que um padrão de segurança está sendo reforçado em toda a empresa. Como faria?",
+        "difficulty":  "hard",
+        "options":  [
+                        "The implementation of stringent security standards across our infrastructure is predicated upon the escalating sophistication of adversarial threats in our operational domain.",
+                        "We need better security everywhere",
+                        "Hackers are getting better",
+                        "We\u0027re improving our security"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "The implementation of stringent security standards across our infrastructure is predicated upon the escalating sophistication of adversarial threats in our operational domain."
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Você está explicando por que uma migração de sistema será mais longa do que originalmente planejado. Como comunicaria isso?",
+        "difficulty":  "hard",
+        "options":  [
+                        "The migration timeline has been extended to accommodate the unforeseen complexity of our legacy data structures and interdependency requirements.",
+                        "The migration is taking longer than expected",
+                        "We didn\u0027t plan it well enough",
+                        "Things are more complicated than we thought"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "The migration timeline has been extended to accommodate the unforeseen complexity of our legacy data structures and interdependency requirements."
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Um cliente quer usar uma solução não aprovada que sua equipe considera de risco. Como você facilitaria essa conversa?",
+        "difficulty":  "hard",
+        "options":  [
+                        "While we acknowledge the appeal of this solution, our fiduciary obligation necessitates that we elucidate the associated risk vectors and compliance implications.",
+                        "We don\u0027t think that\u0027s a good choice",
+                        "That could be dangerous",
+                        "We\u0027re concerned about the risks"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "While we acknowledge the appeal of this solution, our fiduciary obligation necessitates that we elucidate the associated risk vectors and compliance implications."
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Você está explicando por que a inteligência artificial não é uma solução para um problema específico. Como faria?",
+        "difficulty":  "hard",
+        "options":  [
+                        "While AI presents compelling applications, the problem domain you\u0027ve identified lacks the requisite data volume and pattern consistency for effective algorithmic intervention.",
+                        "AI won\u0027t work for this",
+                        "We don\u0027t have enough data for AI",
+                        "This problem isn\u0027t suitable for machine learning"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "While AI presents compelling applications, the problem domain you\u0027ve identified lacks the requisite data volume and pattern consistency for effective algorithmic intervention."
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Um board member questiona o valor de um software de código aberto em relação ao suporte. Como você responderia?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Open-source adoption necessitates a bifurcated support model wherein we leverage community resources for foundational support while maintaining proprietary expertise for specialized customization.",
+                        "Open source is free but needs support",
+                        "We can get help from the community",
+                        "We need to hire people who know this code"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Open-source adoption necessitates a bifurcated support model wherein we leverage community resources for foundational support while maintaining proprietary expertise for specialized customization."
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Você está justificando por que a cultura da empresa está resistindo à transformação digital. Como faria?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Organizational resistance to digital transformation reflects a confluence of legitimate change management concerns and ingrained operational paradigms that necessitate thoughtful recalibration.",
+                        "People don\u0027t like change",
+                        "The culture is resistant to new things",
+                        "Employees are afraid of technology"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Organizational resistance to digital transformation reflects a confluence of legitimate change management concerns and ingrained operational paradigms that necessitate thoughtful recalibration."
+    }
+]

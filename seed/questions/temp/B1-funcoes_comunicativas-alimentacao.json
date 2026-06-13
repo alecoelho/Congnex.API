@@ -1,0 +1,462 @@
+﻿[
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você está em um restaurante e quer pedir água. O que você diz?",
+    "correctAnswer": "Could I have a glass of water, please?",
+    "options": ["Could I have a glass of water, please?", "Give me water now", "Water is necessary", "I need water immediately"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Como você pede desculpas por chegar tarde para um almoço de negócios?",
+    "correctAnswer": "I'm sorry I'm late. Traffic was terrible.",
+    "options": ["I'm sorry I'm late. Traffic was terrible.", "You are slow", "The traffic makes me angry", "I don't like being late"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Um amigo oferece você um prato especial. Como você responde positivamente?",
+    "correctAnswer": "That looks delicious! I'd love to try it.",
+    "options": ["That looks delicious! I'd love to try it.", "It is food", "You make bad dishes", "I don't want any food"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Como você pergunta se um prato contém amendoim quando tem alergia?",
+    "correctAnswer": "Does this dish contain peanuts? I'm allergic.",
+    "options": ["Does this dish contain peanuts? I'm allergic.", "Is peanuts in this?", "Peanuts make me sick always", "This dish has allergens"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O garçom traz o prato errado. Como você avisa educadamente?",
+    "correctAnswer": "Excuse me, I think there's been a mistake. I ordered the pasta.",
+    "options": ["Excuse me, I think there's been a mistake. I ordered the pasta.", "This is wrong", "You made an error", "This plate is not mine"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Como você oferece comida a um convidado que ainda não provou nada?",
+    "correctAnswer": "Have you tried the appetizers yet? They're really good.",
+    "options": ["Have you tried the appetizers yet? They're really good.", "Eat the appetizers", "The food is there", "You should eat now"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber a opinião de alguém sobre a comida. O que você diz?",
+    "correctAnswer": "What do you think of the meal?",
+    "options": ["What do you think of the meal?", "The meal is good for you", "You must like this food", "Is the food tasty enough?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Como você recusa politely um prato que não gosta?",
+    "correctAnswer": "Thank you, but I'm not really a fan of mushrooms.",
+    "options": ["Thank you, but I'm not really a fan of mushrooms.", "I hate this food", "This is terrible", "Don't give me that"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer chamar atenção do garçom. Como você faz?",
+    "correctAnswer": "Excuse me, could I get the bill, please?",
+    "options": ["Excuse me, could I get the bill, please?", "Hey, come here", "Garçom, venha já", "I need you to come"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Como você complimenta o chef sobre a comida?",
+    "correctAnswer": "The meal was absolutely delicious. My compliments to the chef!",
+    "options": ["The meal was absolutely delicious. My compliments to the chef!", "The food was okay", "You cooked something", "This is edible food"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer sugerir um restaurante a um amigo. Como você faz?",
+    "correctAnswer": "I know a great Italian restaurant. Would you like to try it?",
+    "options": ["I know a great Italian restaurant. Would you like to try it?", "There is a restaurant", "You should eat Italian", "Go to the restaurant nearby"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Como você desculpa por colocar sal demais na comida?",
+    "correctAnswer": "I'm sorry, I may have added too much salt. Let me make it again.",
+    "options": ["I'm sorry, I may have added too much salt. Let me make it again.", "The salt is there", "You don't like salt", "Salt makes food bad"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Alguém quer saber se você é vegetariano. Como você responde que sim?",
+    "correctAnswer": "Yes, I'm vegetarian, so I don't eat meat.",
+    "options": ["Yes, I'm vegetarian, so I don't eat meat.", "I don't like meat", "Vegetables are for me", "Meat is not my food"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Como você pergunta se a comida está quente?",
+    "correctAnswer": "Is your food hot enough?",
+    "options": ["Is your food hot enough?", "The food is hot", "You need hot food", "Temperature of food matters"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir mais pão na mesa. O que você diz?",
+    "correctAnswer": "Could we have some more bread, please?",
+    "options": ["Could we have some more bread, please?", "Bring bread", "We need more bread now", "Bread is missing"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Como você se oferece para pagar a conta quando está com amigos?",
+    "correctAnswer": "Let me get this. It's my treat!",
+    "options": ["Let me get this. It's my treat!", "I pay everything", "The bill is mine", "You owe me money"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você precisa informar uma restrição alimentar mais complexa. Como você faz?",
+    "correctAnswer": "I'm on a low-sodium diet, so could I have less salt in my food, please?",
+    "options": ["I'm on a low-sodium diet, so could I have less salt in my food, please?", "No salt for me always", "I avoid salt completely", "Sodium is dangerous"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Como você descreve o sabor de um prato que comeu recentemente?",
+    "correctAnswer": "The fish was tender and had a subtle lemon flavor.",
+    "options": ["The fish was tender and had a subtle lemon flavor.", "The fish was good", "It tasted like fish", "The flavor was there"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar sobre os ingredientes de um prato ao garçom.",
+    "correctAnswer": "Could you tell me what ingredients are in this dish?",
+    "options": ["Could you tell me what ingredients are in this dish?", "What is in this?", "The ingredients please", "Is there meat in it?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Como você declina um convite para comer sem ser rude?",
+    "correctAnswer": "Thanks for the invitation, but I've already eaten. Maybe next time!",
+    "options": ["Thanks for the invitation, but I've already eaten. Maybe next time!", "I don't want to eat", "No, I refuse", "I'm not hungry ever"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber recomendações do restaurante. O que você pergunta?",
+    "correctAnswer": "What would you recommend? What are your house specialties?",
+    "options": ["What would you recommend? What are your house specialties?", "What is good here?", "Tell me about your food", "Which dish should I eat?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Como você expressa que a comida veio muito salgada?",
+    "correctAnswer": "I think this is a bit too salty. Could we adjust it?",
+    "options": ["I think this is a bit too salty. Could we adjust it?", "This is very salty", "Salt is bad in this", "Too much salt here"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar sobre as porções. Como você faz?",
+    "correctAnswer": "Are the portions usually quite large here?",
+    "options": ["Are the portions usually quite large here?", "How much is the portion?", "The portion size please", "Is this a big portion?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Como você pede para compartilhar um prato com alguém?",
+    "correctAnswer": "Would you like to share a dessert with me?",
+    "options": ["Would you like to share a dessert with me?", "Let's eat one dessert", "Share this with me", "We can both eat this"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer informar que é intolerante à lactose. Como você diz?",
+    "correctAnswer": "I'm lactose intolerant. Do you have any dairy-free options?",
+    "options": ["I'm lactose intolerant. Do you have any dairy-free options?", "No milk for me", "Lactose makes me sick", "I don't eat cheese"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Como você pergunta se um restaurante aceita reservas?",
+    "correctAnswer": "Do you take reservations, or is it first come, first served?",
+    "options": ["Do you take reservations, or is it first come, first served?", "Can I reserve here?", "Do you have tables?", "How do I book a table?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer informar que prefere comida mais leve. Como você expressa?",
+    "correctAnswer": "I prefer lighter meals. Do you have any salads or fish options?",
+    "options": ["I prefer lighter meals. Do you have any salads or fish options?", "Make it lighter", "I don't like heavy food", "Light food is better"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Como você agradece alguém que preparou uma refeição deliciosa?",
+    "correctAnswer": "Thank you so much. That was absolutely wonderful!",
+    "options": ["Thank you so much. That was absolutely wonderful!", "The food was good", "You cooked well", "I enjoyed eating"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar o tempo de espera para um prato. O que diz?",
+    "correctAnswer": "How long will it take for the main course to arrive?",
+    "options": ["How long will it take for the main course to arrive?", "When is my food ready?", "The food takes long", "Is my plate coming?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você precisa informar que é celíaco. Como você explica?",
+    "correctAnswer": "I'm celiac, so I need to avoid gluten. Can you suggest something suitable?",
+    "options": ["I'm celiac, so I need to avoid gluten. Can you suggest something suitable?", "No gluten for me", "I can't eat bread", "Gluten is bad for me"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Como você sugere uma mudança de local para comer sem ofender seu anfitrião?",
+    "correctAnswer": "I appreciate this place, but would you mind if we tried that new restaurant down the street?",
+    "options": ["I appreciate this place, but would you mind if we tried that new restaurant down the street?", "This restaurant is bad", "Let's go somewhere else", "I don't like this place"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar sobre métodos de preparo de um prato mais complexo.",
+    "correctAnswer": "Is this dish steamed or sautéed? I'm trying to eat healthier.",
+    "options": ["Is this dish steamed or sautéed? I'm trying to eat healthier.", "How do you cook this?", "What method is used?", "Is it fried or baked?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Como você pede desculpas por cancelar um jantar planejado?",
+    "correctAnswer": "I'm terribly sorry, but I need to reschedule our dinner. Something came up unexpectedly.",
+    "options": ["I'm terribly sorry, but I need to reschedule our dinner. Something came up unexpectedly.", "I can't make it", "Dinner is canceled", "I'm sorry, I'm busy"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer elogiar o ambiente e serviço do restaurante, não apenas a comida.",
+    "correctAnswer": "The ambiance is lovely, and the service has been impeccable. We'll definitely return.",
+    "options": ["The ambiance is lovely, and the service has been impeccable. We'll definitely return.", "The place is nice", "Your service is good", "The restaurant is good"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Como você expressa uma reclamação sobre comida muito cara de forma educada?",
+    "correctAnswer": "The meal was excellent, but I felt the price was a bit steep for the portion size.",
+    "options": ["The meal was excellent, but I felt the price was a bit steep for the portion size.", "This is too expensive", "I paid too much", "The price is bad"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir um prato personalizado com modificações. Como você faz?",
+    "correctAnswer": "Could I have the pasta, but with the sauce on the side and extra vegetables instead?",
+    "options": ["Could I have the pasta, but with the sauce on the side and extra vegetables instead?", "Change the pasta", "I don't like this dish as is", "Make it different"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Como você pergunta sobre opções de vinho que combinem com a comida?",
+    "correctAnswer": "Could you recommend a wine that pairs well with this fish dish?",
+    "options": ["Could you recommend a wine that pairs well with this fish dish?", "What wine should I drink?", "Do you have good wine?", "Which wine is best?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer informar uma restrição cultural religiosa de forma clara.",
+    "correctAnswer": "For religious reasons, I follow halal practices. Do you prepare your meat accordingly?",
+    "options": ["For religious reasons, I follow halal practices. Do you prepare your meat accordingly?", "I don't eat certain meat", "My religion forbids meat", "I need special food"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Como você sugere ir a um restaurante a um colega de trabalho de forma profissional?",
+    "correctAnswer": "I know an excellent restaurant near the office. Would you be interested in having lunch there next week?",
+    "options": ["I know an excellent restaurant near the office. Would you be interested in having lunch there next week?", "Let's eat at a restaurant", "There's a place to eat", "You should try this restaurant"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer desculpar-se por pedir muitas modificações no prato.",
+    "correctAnswer": "I apologize for all these modifications. I have several dietary preferences, but I appreciate your flexibility.",
+    "options": ["I apologize for all these modifications. I have several dietary preferences, but I appreciate your flexibility.", "Sorry for the changes", "I need many things different", "This is complicated"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Como você pergunta sobre a disponibilidade de alimentos orgânicos ou locais?",
+    "correctAnswer": "Do you source your ingredients locally? Are any of your dishes organic?",
+    "options": ["Do you source your ingredients locally? Are any of your dishes organic?", "Is this food organic?", "Where is the food from?", "Do you have local products?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer avisar sobre uma possível contaminação cruzada em sua comida.",
+    "correctAnswer": "I have a severe peanut allergy, so please ensure there's no cross-contamination when preparing my meal.",
+    "options": ["I have a severe peanut allergy, so please ensure there's no cross-contamination when preparing my meal.", "Be careful with my food", "No peanuts near my dish", "I'm very allergic"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Como você expressa interesse em aprender sobre a cozinha local?",
+    "correctAnswer": "I'm really interested in regional cuisine. Can you tell me about the traditional dishes here?",
+    "options": ["I'm really interested in regional cuisine. Can you tell me about the traditional dishes here?", "What is traditional food?", "Tell me about the cuisine", "Do you have local dishes?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer reclamar educadamente sobre o tempo de espera muito longo.",
+    "correctAnswer": "I appreciate your work, but we've been waiting quite a while. Could you check on our order?",
+    "options": ["I appreciate your work, but we've been waiting quite a while. Could you check on our order?", "The wait is too long", "Where is our food?", "This is taking forever"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Como você oferece introduzir alguém a um tipo de culinária que eles nunca experimentaram?",
+    "correctAnswer": "You've never tried Thai food before? I'd love to introduce you to it. It's quite different but delicious.",
+    "options": ["You've never tried Thai food before? I'd love to introduce you to it. It's quite different but delicious.", "Thai food is good", "You should try Thai", "This cuisine is interesting"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer informar que prefere comida mais bem temperada. Como você diz?",
+    "correctAnswer": "I generally prefer dishes with more spice and flavor. Could you recommend something with a bit of heat?",
+    "options": ["I generally prefer dishes with more spice and flavor. Could you recommend something with a bit of heat?", "Make it spicy", "I like hot food", "Add more spices please"],
+    "difficulty": "hard"
+  }
+]

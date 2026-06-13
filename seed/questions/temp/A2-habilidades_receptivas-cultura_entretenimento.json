@@ -1,0 +1,482 @@
+﻿[
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "Eu gosto de música pop.",
+    "correctAnswer": "I like pop music.",
+    "options": ["I like music pop.", "I liking pop music.", "I like pop of music.", "I am like pop music."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "Qual é seu filme favorito?",
+    "correctAnswer": "What is your favorite film?",
+    "options": ["What is your film favorite?", "What favorite film is?", "What is film your favorite?", "Which is your favorite film?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "Ela dança muito bem.",
+    "correctAnswer": "She dances very well.",
+    "options": ["She dance very well.", "She is dancing very well.", "She dances well very.", "She well dances."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "Você assiste a séries de TV?",
+    "correctAnswer": "Do you watch TV series?",
+    "options": ["Do you see TV series?", "Are you watching TV series?", "Do you watch in TV series?", "You watch TV series?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "O livro é muito interessante.",
+    "correctAnswer": "The book is very interesting.",
+    "options": ["The book is interesting very.", "The book very is interesting.", "The interesting book is.", "The book has very interesting."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "Vamos ao cinema esta noite?",
+    "correctAnswer": "Let''s go to the cinema tonight.",
+    "options": ["Let''s to go to cinema tonight.", "We go to cinema this night.", "Shall we go at cinema tonight?", "Let''s go cinema tonight."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "Ele canta uma canção bonita.",
+    "correctAnswer": "He sings a beautiful song.",
+    "options": ["He is singing beautiful song.", "He sings a song beautiful.", "He sings one beautiful song.", "He sings beautiful a song."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "Que tipo de arte você prefere?",
+    "correctAnswer": "What kind of art do you prefer?",
+    "options": ["What type of art you prefer?", "What kind art you prefer?", "What of art do you prefer?", "Which kind of art you prefer?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "A exposição é no museu.",
+    "correctAnswer": "The exhibition is in the museum.",
+    "options": ["The exhibition is at museum.", "The exhibition has in museum.", "The exhibition is on museum.", "The exhibition museum is."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "Você toca algum instrumento?",
+    "correctAnswer": "Do you play any instrument?",
+    "options": ["Do you play instrument?", "Are you playing some instrument?", "You play any instrument?", "Do you touch any instrument?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "O show foi ótimo ontem.",
+    "correctAnswer": "The show was great yesterday.",
+    "options": ["The show was yesterday great.", "The show yesterday was great.", "The show has been great yesterday.", "Yesterday the show was great."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "Ela estuda dança clássica.",
+    "correctAnswer": "She studies classical dance.",
+    "options": ["She is studying dance classical.", "She studies dance of classical.", "She studies the classical dance.", "She studies classical of dance."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "Qual é a sua série favorita?",
+    "correctAnswer": "What is your favorite series?",
+    "options": ["What is your series favorite?", "What is your favorite of series?", "What your favorite series is?", "Which is favorite series?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "O teatro tem peças muito boas.",
+    "correctAnswer": "The theatre has very good plays.",
+    "options": ["The theatre has very good pieces.", "The theatre very has good plays.", "The theatre good has very plays.", "The theatre has plays very good."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "Você gosta de pinturas modernas?",
+    "correctAnswer": "Do you like modern paintings?",
+    "options": ["Do you like paintings modern?", "Are you liking modern paintings?", "You like modern paintings?", "Do you like of modern paintings?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "O festival de música é em julho.",
+    "correctAnswer": "The music festival is in July.",
+    "options": ["The festival of music is in July.", "The music festival has in July.", "The music festival at July.", "The music festival is on July."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "Assistimos a um filme interessante no fim de semana.",
+    "correctAnswer": "We watched an interesting film at the weekend.",
+    "options": ["We watched a interesting film in the weekend.", "We watched interesting film in weekend.", "We are watching interesting film at weekend.", "We watched an interesting film in weekend."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "Ele prefere ler livros de ficção científica.",
+    "correctAnswer": "He prefers to read science fiction books.",
+    "options": ["He prefers reading science fiction books.", "He prefers read science fiction books.", "He prefers books of science fiction to read.", "He preferring read science fiction books."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "A pintura retrata a vida no campo.",
+    "correctAnswer": "The painting depicts life in the countryside.",
+    "options": ["The painting depicts the life in countryside.", "The painting depict life in countryside.", "The painting shows the life of countryside.", "The painting portrays life at countryside."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "O concerto de piano foi impressionante.",
+    "correctAnswer": "The piano concert was impressive.",
+    "options": ["The concert of piano was impressive.", "The piano concert has been impressive.", "The piano of concert was impressive.", "The concert piano was very impressive."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "Você pode recomendar um bom livro?",
+    "correctAnswer": "Can you recommend a good book?",
+    "options": ["Can you recommend the good book?", "Can you to recommend a good book?", "Could you recommend good book?", "Are you able recommend a good book?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "A dança é uma forma de arte expressiva.",
+    "correctAnswer": "Dance is a form of expressive art.",
+    "options": ["The dance is a form of art expressive.", "Dance is one form of expressive art.", "Dance is a expressive form of art.", "Dancing is a form of art expressive."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "Ele começou a aprender violão há um mês.",
+    "correctAnswer": "He started learning guitar a month ago.",
+    "options": ["He started to learn guitar since a month.", "He began learning guitar one month ago.", "He started learning guitar for one month.", "He has started learning guitar a month ago."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "A fotografia capta a beleza da natureza.",
+    "correctAnswer": "The photograph captures the beauty of nature.",
+    "options": ["The photography captures the beauty of nature.", "The photo captures beauty of the nature.", "The photograph is capturing nature''s beauty.", "The photograph captures a beauty of nature."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "Você assiste ao noticiário diariamente?",
+    "correctAnswer": "Do you watch the news daily?",
+    "options": ["Are you watching the news daily?", "Do you watch to the news daily?", "Do you see the news every day?", "You watch the news daily?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "O romance é baseado em uma história real.",
+    "correctAnswer": "The novel is based on a true story.",
+    "options": ["The novel bases on a true story.", "The novel is based in a true story.", "The novel is based on the true story.", "The novel is based on one true story."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "A orquestra toca música clássica todas as sextas-feiras.",
+    "correctAnswer": "The orchestra plays classical music every Friday.",
+    "options": ["The orchestra is playing classical music all Fridays.", "The orchestra plays the classical music every Friday.", "The orchestra plays music classical every Friday.", "The orchestra plays classical music in every Friday."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "Qual filme você assistiu recentemente?",
+    "correctAnswer": "Which film did you watch recently?",
+    "options": ["What film you watched recently?", "Which film did you see recently?", "What film did you watch lately?", "Which film have you watched recently?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "A escultura é feita de mármore branco.",
+    "correctAnswer": "The sculpture is made of white marble.",
+    "options": ["The sculpture is made from white marble.", "The sculpture makes of white marble.", "The sculpture is making of white marble.", "The sculpture has made of white marble."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "Ele é fã de filmes de ação.",
+    "correctAnswer": "He is a fan of action films.",
+    "options": ["He is fan of action movies.", "He is a fan of action movies.", "He is fan of the action films.", "He likes action films very much."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "O museu exibe obras de arte antiga.",
+    "correctAnswer": "The museum displays ancient artworks.",
+    "options": ["The museum displays artwork ancient.", "The museum shows ancient artworks.", "The museum is displaying antique artworks.", "The museum displays the ancient artworks."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "Você já visitou um festival cultural?",
+    "correctAnswer": "Have you ever visited a cultural festival?",
+    "options": ["Did you visit a cultural festival?", "Have you visited a cultural festival before?", "Do you visit cultural festivals?", "Have you already visited cultural festival?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "O documentário aborda temas ambientais importantes.",
+    "correctAnswer": "The documentary addresses important environmental issues.",
+    "options": ["The documentary is addressing important environmental themes.", "The documentary addresses the important environmental issues.", "The documentary tackles important environmental subjects.", "The documentary addresses important themes of environment."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "A performance do ator foi aclamada pela crítica.",
+    "correctAnswer": "The actor''s performance was praised by critics.",
+    "options": ["The performance of the actor was acclaimed by critics.", "The actor performance was acclaimed by the critics.", "The actor''s performance was acclaimed by criticism.", "The performance was acclaimed for critics."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "A tradição cultural deve ser preservada para as gerações futuras.",
+    "correctAnswer": "Cultural tradition should be preserved for future generations.",
+    "options": ["The cultural tradition must be preserved for generations to come.", "Cultural tradition is needed to be preserved for future generations.", "The cultural tradition should preserve for future generations.", "Cultural traditions have to be preserved for generations future."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "O festival de arte atraiu artistas de todo o mundo.",
+    "correctAnswer": "The art festival attracted artists from all over the world.",
+    "options": ["The art festival attracting artists from all the world.", "The festival of art attracted artists from whole world.", "The art festival attracted artists from everywhere in the world.", "The art festival attracted artists of all over world."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "A influência da música latina é cada vez mais forte na cultura popular.",
+    "correctAnswer": "The influence of Latin music is increasingly strong in popular culture.",
+    "options": ["The influence of Latin music is getting more strong in popular culture.", "The influence from Latin music is becoming stronger at popular culture.", "The influence of Latin music is more and more strong in culture.", "The influence of music from Latin is increasingly strong at popular culture."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "A exposição retrospectiva oferece uma visão completa da obra do artista.",
+    "correctAnswer": "The retrospective exhibition offers a complete view of the artist''s work.",
+    "options": ["The retrospective exhibition is offering complete view of artist''s work.", "The retrospective show offers a complete vision of the artist''s work.", "The exhibition retrospective offers complete view of the work of artist.", "The retrospective exhibition gives a complete look at artist''s works."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "A cinematografia do filme foi reconhecida internacionalmente.",
+    "correctAnswer": "The cinematography of the film was recognized internationally.",
+    "options": ["The film''s cinematography was recognized internationally.", "The cinematography of film has been recognized internationally.", "The cinematography was recognized by international level.", "The film cinematography was recognized in international."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "A adaptação literária conseguiu capturar a essência do livro original.",
+    "correctAnswer": "The literary adaptation managed to capture the essence of the original book.",
+    "options": ["The literary adaptation succeeded capturing the essence of original book.", "The literary adaptation was able to capture the essence from the original book.", "The adaptation literary captured the essence of the book original.", "The literary adaptation managed capturing essence of original book."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "O público apreciou a originalidade do roteiro e a execução criativa.",
+    "correctAnswer": "The audience appreciated the originality of the screenplay and creative execution.",
+    "options": ["The audience appreciated originality of screenplay and creative execution.", "The public appreciated the originality of script and the creative performing.", "The audience appreciated originality from screenplay and creative performance.", "The audience did appreciate the originality of the script and creative execution."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "A trilha sonora contribuiu significativamente para a atmosfera do filme.",
+    "correctAnswer": "The soundtrack contributed significantly to the film''s atmosphere.",
+    "options": ["The musical track contributed significant to the atmosphere of film.", "The soundtrack contributed much to the atmosphere of the film.", "The soundtrack has contributed significantly at the film atmosphere.", "The music of the film contributed to creating the atmosphere."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "A interpretação do ator principal foi considerada digna de premiação.",
+    "correctAnswer": "The leading actor''s interpretation was considered award-worthy.",
+    "options": ["The interpretation of main actor was considered worthy of prize.", "The main actor''s acting was considered deserving of an award.", "The interpretation of the leading actor was considered to worth award.", "The principal actor''s interpretation was considered for award."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "A direção artística refletiu cuidadosamente a identidade cultural do local.",
+    "correctAnswer": "The artistic direction carefully reflected the cultural identity of the place.",
+    "options": ["The direction artistic carefully reflected the cultural identity of the location.", "The artistic direction careful reflected the cultural identity of the place.", "The direction art reflected carefully the cultural identity of place.", "The artistic direction was reflecting carefully cultural identity of location."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "O evento reuniu celebridades e personalidades influentes da indústria do entretenimento.",
+    "correctAnswer": "The event brought together celebrities and influential personalities from the entertainment industry.",
+    "options": ["The event gathered celebrities and influential figures of entertainment industry.", "The event brought celebrities and influential persons from entertainment industry.", "The event united celebrities and important personalities from entertainment.", "The event gathered together celebrities and influential people of the industry."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "A expressão artística transmite mensagens que transcendem as barreiras linguísticas.",
+    "correctAnswer": "Artistic expression conveys messages that transcend linguistic barriers.",
+    "options": ["The artistic expression transmits messages that transcend language barriers.", "Artistic expression carries messages that go beyond linguistic barriers.", "The expression of art transmits messages that transcend barriers of language.", "Artistic expressions convey messages transcending the linguistic barriers."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "A colaboração entre diferentes artistas resultou em uma obra de arte singular.",
+    "correctAnswer": "The collaboration between different artists resulted in a unique work of art.",
+    "options": ["The collaboration among different artists resulted in an unique artwork.", "The collaboration between artists resulted in a singular artistic work.", "The cooperation of different artists resulted in a unique piece of art.", "The collaboration from different artists resulting in a singular art."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "translation",
+    "questionText": "A manifestação cultural local preserva tradições ancestrais de grande importância.",
+    "correctAnswer": "The local cultural event preserves ancestral traditions of great importance.",
+    "options": ["The local culture manifestation preserves traditions of ancestors importance.", "The local cultural event preserves ancestor traditions of important value.", "The cultural manifestation local preserves ancestral important traditions.", "The local cultural celebration preserves traditions that are ancestral important."],
+    "difficulty": "hard"
+  }
+]

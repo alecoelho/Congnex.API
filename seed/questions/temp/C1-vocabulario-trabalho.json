@@ -1,0 +1,502 @@
+[
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "No contexto profissional, o que significa dizer que alguém recebeu uma 'promotion'?",
+    "correctAnswer": "Promoção de cargo",
+    "options": ["Promoção de cargo", "Demissão voluntária", "Transferência de setor", "Redução de salário"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que é um 'deadline' no ambiente de trabalho?",
+    "correctAnswer": "Prazo final para entrega",
+    "options": ["Prazo final para entrega", "Reunião de equipe", "Meta de vendas", "Contrato de trabalho"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "No ambiente corporativo, o que significa 'overtime'?",
+    "correctAnswer": "Horas extras",
+    "options": ["Horas extras", "Férias remuneradas", "Licença médica", "Intervalo de almoço"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'resume' no contexto de candidatura a empregos?",
+    "correctAnswer": "Currículo",
+    "options": ["Currículo", "Carta de recomendação", "Contrato de trabalho", "Formulário de inscrição"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'remote work' no contexto profissional atual?",
+    "correctAnswer": "Trabalho à distância/home office",
+    "options": ["Trabalho à distância/home office", "Trabalho em turno noturno", "Trabalho temporário", "Trabalho voluntário"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "No mundo corporativo, o que é um 'mentor'?",
+    "correctAnswer": "Tutor ou orientador profissional experiente",
+    "options": ["Tutor ou orientador profissional experiente", "Chefe imediato responsável por avaliações", "Colega de trabalho recém-contratado", "Representante sindical da empresa"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'benefits' em um pacote de remuneração corporativa?",
+    "correctAnswer": "Benefícios (plano de saúde, vale-refeição etc.)",
+    "options": ["Benefícios (plano de saúde, vale-refeição etc.)", "Salário base mensal", "Bônus por desempenho", "Participação nos lucros"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que é um 'job interview' no processo de recrutamento?",
+    "correctAnswer": "Entrevista de emprego",
+    "options": ["Entrevista de emprego", "Teste de habilidades técnicas", "Dinâmica em grupo", "Período de experiência"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'feedback' no contexto de avaliação profissional?",
+    "correctAnswer": "Retorno ou avaliação sobre desempenho",
+    "options": ["Retorno ou avaliação sobre desempenho", "Meta estabelecida pelo gestor", "Relatório financeiro trimestral", "Reunião de planejamento anual"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "No ambiente de trabalho, o que é 'teamwork'?",
+    "correctAnswer": "Trabalho em equipe",
+    "options": ["Trabalho em equipe", "Trabalho autônomo", "Gestão de projetos", "Liderança situacional"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'layoff' no contexto empresarial?",
+    "correctAnswer": "Demissão em massa ou dispensa temporária",
+    "options": ["Demissão em massa ou dispensa temporária", "Contratação de novos funcionários", "Fusão entre empresas", "Reestruturação de cargos"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "No contexto corporativo, o que é 'networking'?",
+    "correctAnswer": "Construção de uma rede de contatos profissionais",
+    "options": ["Construção de uma rede de contatos profissionais", "Treinamento em tecnologia da informação", "Gestão de infraestrutura de TI", "Comunicação interna entre departamentos"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que é 'onboarding' no processo de admissão de novos colaboradores?",
+    "correctAnswer": "Integração e ambientação do novo funcionário",
+    "options": ["Integração e ambientação do novo funcionário", "Processo de demissão formal", "Avaliação de desempenho anual", "Treinamento técnico avançado"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "No ambiente profissional, o que significa 'workload'?",
+    "correctAnswer": "Carga de trabalho",
+    "options": ["Carga de trabalho", "Ambiente de trabalho", "Horário de expediente", "Jornada de trabalho noturna"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'salary negotiation' no processo de contratação?",
+    "correctAnswer": "Negociação salarial",
+    "options": ["Negociação salarial", "Revisão de contrato", "Avaliação de competências", "Proposta de promoção"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que é 'headquarters' no contexto de uma empresa multinacional?",
+    "correctAnswer": "Sede central da empresa",
+    "options": ["Sede central da empresa", "Filial regional", "Departamento financeiro", "Centro de distribuição"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "No contexto de recursos humanos, o que significa 'turnover'?",
+    "correctAnswer": "Rotatividade de funcionários",
+    "options": ["Rotatividade de funcionários", "Aumento salarial anual", "Plano de carreira", "Política de benefícios"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa o termo 'whistleblower' no ambiente corporativo?",
+    "correctAnswer": "Denunciante de irregularidades internas",
+    "options": ["Denunciante de irregularidades internas", "Gestor responsável por auditorias", "Especialista em compliance", "Representante sindical eleito"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "No contexto de negócios, o que significa 'due diligence'?",
+    "correctAnswer": "Investigação e análise detalhada antes de uma transação",
+    "options": ["Investigação e análise detalhada antes de uma transação", "Cumprimento rigoroso de prazos contratuais", "Diligência no atendimento ao cliente", "Auditoria interna de processos"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que é 'headhunting' no contexto de recrutamento executivo?",
+    "correctAnswer": "Busca ativa de profissionais qualificados no mercado",
+    "options": ["Busca ativa de profissionais qualificados no mercado", "Processo de demissão de executivos", "Treinamento de lideranças internas", "Avaliação de desempenho de gestores"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'outsourcing' na gestão empresarial?",
+    "correctAnswer": "Terceirização de serviços ou processos",
+    "options": ["Terceirização de serviços ou processos", "Expansão para mercados externos", "Descentralização administrativa", "Automação de processos internos"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "No ambiente de negócios, o que é 'benchmarking'?",
+    "correctAnswer": "Comparação de práticas e desempenho com referências do setor",
+    "options": ["Comparação de práticas e desempenho com referências do setor", "Definição de metas individuais de desempenho", "Avaliação de fornecedores externos", "Análise do retorno sobre investimento"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'probationary period' em um contrato de trabalho?",
+    "correctAnswer": "Período de experiência ou avaliação inicial",
+    "options": ["Período de experiência ou avaliação inicial", "Período de férias obrigatórias", "Prazo para rescisão contratual", "Intervalo entre contratos temporários"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "No contexto corporativo, o que é 'stakeholder'?",
+    "correctAnswer": "Parte interessada com influência ou impacto no negócio",
+    "options": ["Parte interessada com influência ou impacto no negócio", "Acionista majoritário da empresa", "Gestor responsável por resultados", "Cliente estratégico de longo prazo"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que é 'downsize' quando aplicado a uma organização empresarial?",
+    "correctAnswer": "Redução do quadro de funcionários ou estrutura da empresa",
+    "options": ["Redução do quadro de funcionários ou estrutura da empresa", "Expansão de operações para novos mercados", "Redução de preços de produtos e serviços", "Diminuição do orçamento de marketing"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'performance appraisal' no contexto de gestão de pessoas?",
+    "correctAnswer": "Avaliação formal de desempenho do colaborador",
+    "options": ["Avaliação formal de desempenho do colaborador", "Plano de desenvolvimento individual", "Meta de produtividade trimestral", "Relatório de horas trabalhadas"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "No contexto de negócios, o que é 'cash flow'?",
+    "correctAnswer": "Fluxo de caixa da empresa",
+    "options": ["Fluxo de caixa da empresa", "Faturamento bruto mensal", "Margem de lucro líquida", "Capital de giro disponível"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'red tape' no ambiente corporativo e governamental?",
+    "correctAnswer": "Excesso de burocracia e formalidades administrativas",
+    "options": ["Excesso de burocracia e formalidades administrativas", "Protocolo de segurança confidencial", "Processo de auditoria urgente", "Sinalização de risco em projetos"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que é 'corporate governance' em uma organização?",
+    "correctAnswer": "Sistema de diretrizes e controles que regem a gestão da empresa",
+    "options": ["Sistema de diretrizes e controles que regem a gestão da empresa", "Política de comunicação institucional", "Conjunto de benefícios corporativos", "Programa de responsabilidade social empresarial"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "No contexto de RH, o que significa 'succession planning'?",
+    "correctAnswer": "Planejamento para preparar substitutos para cargos-chave",
+    "options": ["Planejamento para preparar substitutos para cargos-chave", "Cronograma de promoções anuais", "Plano de desligamento de executivos", "Processo de recrutamento externo"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'severance package' no contexto de demissão?",
+    "correctAnswer": "Indenização e benefícios oferecidos ao funcionário dispensado",
+    "options": ["Indenização e benefícios oferecidos ao funcionário dispensado", "Contrato de prestação de serviços autônomos", "Acordo de não concorrência pós-emprego", "Plano de reintegração ao mercado de trabalho"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "No ambiente de trabalho, o que significa a expressão 'think outside the box'?",
+    "correctAnswer": "Pensar de forma criativa e inovadora, fora dos padrões convencionais",
+    "options": ["Pensar de forma criativa e inovadora, fora dos padrões convencionais", "Trabalhar além do horário estabelecido", "Buscar soluções em outros departamentos", "Questionar as decisões da liderança"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que é 'KPI' (Key Performance Indicator) no contexto empresarial?",
+    "correctAnswer": "Indicador-chave de desempenho utilizado para medir resultados",
+    "options": ["Indicador-chave de desempenho utilizado para medir resultados", "Plano estratégico de investimentos", "Ferramenta de gestão de projetos ágeis", "Relatório periódico de lucros e perdas"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'headcount' no contexto de gestão organizacional?",
+    "correctAnswer": "Número total de colaboradores de uma organização",
+    "options": ["Número total de colaboradores de uma organização", "Orçamento destinado a contratações", "Nível hierárquico dos cargos", "Taxa de absenteísmo da equipe"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa o termo 'retrenchment' no contexto corporativo?",
+    "correctAnswer": "Corte de custos com redução de pessoal e recursos",
+    "options": ["Corte de custos com redução de pessoal e recursos", "Estratégia de expansão agressiva de mercado", "Renegociação de contratos com fornecedores", "Reposicionamento de marca corporativa"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "No contexto de direito trabalhista anglo-saxão, o que é 'constructive dismissal'?",
+    "correctAnswer": "Demissão indireta provocada por condições de trabalho intoleráveis impostas pelo empregador",
+    "options": ["Demissão indireta provocada por condições de trabalho intoleráveis impostas pelo empregador", "Rescisão contratual por acordo mútuo entre as partes", "Demissão por justa causa com provas documentadas", "Desligamento voluntário sem aviso prévio"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que é 'golden parachute' no contexto de compensação executiva?",
+    "correctAnswer": "Pacote de benefícios milionários garantidos a executivos em caso de demissão ou fusão",
+    "options": ["Pacote de benefícios milionários garantidos a executivos em caso de demissão ou fusão", "Programa de aposentadoria antecipada voluntária", "Bônus extraordinário por metas superadas", "Participação em stock options de longo prazo"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'non-compete clause' em um contrato de trabalho?",
+    "correctAnswer": "Cláusula que proíbe o funcionário de trabalhar para concorrentes após o desligamento",
+    "options": ["Cláusula que proíbe o funcionário de trabalhar para concorrentes após o desligamento", "Acordo de confidencialidade sobre informações estratégicas", "Disposição que limita aumentos salariais durante o contrato", "Restrição ao exercício de atividades sindicais"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "No contexto de gestão estratégica, o que é 'synergy' quando aplicado a fusões empresariais?",
+    "correctAnswer": "Ganhos adicionais resultantes da combinação de duas empresas, superiores à soma das partes",
+    "options": ["Ganhos adicionais resultantes da combinação de duas empresas, superiores à soma das partes", "Conflito de culturas organizacionais após a fusão", "Processo de integração de sistemas tecnológicos", "Alinhamento estratégico entre departamentos distintos"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'attrition' no contexto de gestão de talentos?",
+    "correctAnswer": "Redução gradual do quadro de pessoal por saídas voluntárias sem reposição",
+    "options": ["Redução gradual do quadro de pessoal por saídas voluntárias sem reposição", "Processo de recrutamento contínuo para posições estratégicas", "Desgaste de relacionamentos profissionais ao longo do tempo", "Diminuição progressiva da produtividade individual"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "No contexto de ética empresarial, o que é 'conflict of interest'?",
+    "correctAnswer": "Situação em que interesses pessoais comprometem a imparcialidade de decisões profissionais",
+    "options": ["Situação em que interesses pessoais comprometem a imparcialidade de decisões profissionais", "Divergência estratégica entre acionistas e diretoria", "Disputa entre departamentos por recursos orçamentários", "Tensão entre metas individuais e coletivas"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que é 'fiduciary duty' no contexto de gestão corporativa?",
+    "correctAnswer": "Obrigação legal e ética de agir no melhor interesse de acionistas ou clientes",
+    "options": ["Obrigação legal e ética de agir no melhor interesse de acionistas ou clientes", "Responsabilidade por comunicações externas da empresa", "Dever de sigilo sobre informações financeiras internas", "Compromisso com metas de sustentabilidade corporativa"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "No contexto de negociações trabalhistas, o que é 'collective bargaining'?",
+    "correctAnswer": "Negociação coletiva entre sindicato e empregadores para definir condições de trabalho",
+    "options": ["Negociação coletiva entre sindicato e empregadores para definir condições de trabalho", "Acordo salarial individual negociado com a diretoria", "Consulta pública sobre políticas de benefícios", "Processo de arbitragem em disputas individuais"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que é 'dead wood' quando usado como expressão idiomática no contexto corporativo?",
+    "correctAnswer": "Funcionários improdutivos que ocupam cargos sem agregar valor",
+    "options": ["Funcionários improdutivos que ocupam cargos sem agregar valor", "Projetos abandonados que consomem recursos desnecessariamente", "Processos obsoletos que precisam de atualização urgente", "Ativos depreciados que não geram retorno financeiro"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "No contexto de liderança organizacional, o que significa 'span of control'?",
+    "correctAnswer": "Número de subordinados diretos que um gestor supervisiona efetivamente",
+    "options": ["Número de subordinados diretos que um gestor supervisiona efetivamente", "Amplitude de responsabilidades de um cargo executivo", "Nível de autonomia concedido a equipes autogestionadas", "Alcance geográfico das operações de uma filial"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que é 'glass ceiling' no contexto de carreira e diversidade?",
+    "correctAnswer": "Barreira invisível que impede minorias ou mulheres de atingir posições de topo",
+    "options": ["Barreira invisível que impede minorias ou mulheres de atingir posições de topo", "Política de transparência salarial em grandes corporações", "Limite máximo de crescimento em estruturas organizacionais planas", "Teto de gastos imposto por regulamentações governamentais"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "No contexto financeiro corporativo, o que é 'leveraged buyout' (LBO)?",
+    "correctAnswer": "Aquisição de empresa financiada majoritariamente por dívida, usando os ativos da própria empresa como garantia",
+    "options": ["Aquisição de empresa financiada majoritariamente por dívida, usando os ativos da própria empresa como garantia", "Fusão entre empresas de portes equivalentes sem endividamento", "Compra de ações por funcionários com desconto corporativo", "Recompra de ações pela própria empresa no mercado aberto"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão idiomática 'to bite the bullet' no ambiente de trabalho?",
+    "correctAnswer": "Enfrentar corajosamente uma situação difícil ou desagradável que não pode ser evitada",
+    "options": ["Enfrentar corajosamente uma situação difícil ou desagradável que não pode ser evitada", "Tomar decisões precipitadas sob pressão extrema", "Aceitar uma promoção com responsabilidades além da capacidade atual", "Cortar gastos de forma drástica para salvar a empresa"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "No contexto de gestão de projetos ágeis, o que é 'scope creep'?",
+    "correctAnswer": "Expansão gradual e não controlada do escopo de um projeto além do planejado",
+    "options": ["Expansão gradual e não controlada do escopo de um projeto além do planejado", "Redução forçada de funcionalidades por restrições orçamentárias", "Conflito entre equipes sobre as prioridades do backlog", "Atraso sistemático nas entregas por falta de recursos"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que é 'vested interest' no contexto de tomada de decisão corporativa?",
+    "correctAnswer": "Interesse pessoal estabelecido que influencia o julgamento e as decisões de alguém",
+    "options": ["Interesse pessoal estabelecido que influencia o julgamento e as decisões de alguém", "Participação acionária cujo prazo de carência já foi cumprido", "Comprometimento de longo prazo com a missão da empresa", "Direito adquirido a benefícios após anos de serviço"],
+    "difficulty": "hard"
+  }
+]

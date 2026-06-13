@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Eu _____ maçã todo dia.",
+        "correctAnswer":  "eat an apple",
+        "options":  [
+                        "eat an apple",
+                        "am eating an apple",
+                        "have been eating an apple",
+                        "eats an apple"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Ela _____ suco de laranja.",
+        "correctAnswer":  "drinks orange juice",
+        "options":  [
+                        "drinks orange juice",
+                        "is drinking orange juice",
+                        "drink orange juice",
+                        "have drunk orange juice"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Nós _____ pão na padaria.",
+        "correctAnswer":  "buy bread",
+        "options":  [
+                        "buys bread",
+                        "buy bread",
+                        "are buying bread",
+                        "have buy bread"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Você _____ queijo?",
+        "correctAnswer":  "Do you like cheese",
+        "options":  [
+                        "Do you like cheese",
+                        "Do you likes cheese",
+                        "Are you liking cheese",
+                        "Have you liked cheese"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Ele _____ café todas as manhãs.",
+        "correctAnswer":  "drinks coffee",
+        "options":  [
+                        "drink coffee",
+                        "drinks coffee",
+                        "is drink coffee",
+                        "have drink coffee"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Eles _____ frutas frescas.",
+        "correctAnswer":  "eat fresh fruits",
+        "options":  [
+                        "eats fresh fruits",
+                        "eat fresh fruits",
+                        "is eating fresh fruits",
+                        "are eat fresh fruits"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Ela _____ uma salada no almoço.",
+        "correctAnswer":  "eats a salad",
+        "options":  [
+                        "eat a salad",
+                        "eats a salad",
+                        "is eat a salad",
+                        "have eat a salad"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Nós _____ chocolate quente no inverno.",
+        "correctAnswer":  "drink hot chocolate",
+        "options":  [
+                        "drinks hot chocolate",
+                        "drink hot chocolate",
+                        "are drink hot chocolate",
+                        "have drink hot chocolate"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Você _____ peixe?",
+        "correctAnswer":  "Do you eat fish",
+        "options":  [
+                        "Does you eat fish",
+                        "Do you eat fish",
+                        "Are you eat fish",
+                        "Have you eat fish"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Eu _____ leite com meu café.",
+        "correctAnswer":  "drink milk",
+        "options":  [
+                        "drinks milk",
+                        "drink milk",
+                        "is drinking milk",
+                        "have drunk milk"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Ela _____ arroz e feijão todos os dias.",
+        "correctAnswer":  "eats rice and beans",
+        "options":  [
+                        "eat rice and beans",
+                        "eats rice and beans",
+                        "is eat rice and beans",
+                        "have eat rice and beans"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Eles _____ sopa quente na noite fria.",
+        "correctAnswer":  "eat hot soup",
+        "options":  [
+                        "eats hot soup",
+                        "eat hot soup",
+                        "are eating hot soup",
+                        "have eat hot soup"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Nós _____ comprar açúcar na loja.",
+        "correctAnswer":  "need to buy sugar",
+        "options":  [
+                        "need to buy sugar",
+                        "needs to buy sugar",
+                        "need buying sugar",
+                        "need buy sugar"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Você _____ beber água?",
+        "correctAnswer":  "Do you like to drink water",
+        "options":  [
+                        "Do you likes to drink water",
+                        "Do you like to drink water",
+                        "Does you like to drink water",
+                        "Do you to like drink water"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Ele _____ carne na terça-feira.",
+        "correctAnswer":  "eats meat",
+        "options":  [
+                        "eat meat",
+                        "eats meat",
+                        "is eat meat",
+                        "have eat meat"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Eu _____ batata frita gosto muito.",
+        "correctAnswer":  "like french fries very much",
+        "options":  [
+                        "like very much french fries",
+                        "like french fries very much",
+                        "very much like french fries",
+                        "like very french fries much"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Eles _____ pizza na sexta-feira.",
+        "correctAnswer":  "eat pizza",
+        "options":  [
+                        "eats pizza",
+                        "eat pizza",
+                        "are eat pizza",
+                        "have eat pizza"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Ela _____ queijo com pão para o lanche.",
+        "correctAnswer":  "has cheese with bread",
+        "options":  [
+                        "has cheese with bread",
+                        "is having cheese with bread",
+                        "have cheese with bread",
+                        "is cheese with bread"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Nós _____ comer alimentos saudáveis.",
+        "correctAnswer":  "should eat healthy food",
+        "options":  [
+                        "should eat healthy food",
+                        "should eating healthy food",
+                        "should to eat healthy food",
+                        "should eats healthy food"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Você _____ experimentar a receita nova?",
+        "correctAnswer":  "Would you like to try",
+        "options":  [
+                        "Would you like to try",
+                        "Would you likes to try",
+                        "Do you like to try",
+                        "Will you like try"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Ele _____ cozinhar spaghetti ontem à noite.",
+        "correctAnswer":  "cooked spaghetti",
+        "options":  [
+                        "cooks spaghetti",
+                        "cooked spaghetti",
+                        "is cooking spaghetti",
+                        "has cooked spaghetti"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Eu _____ sorvete quando _____ criança.",
+        "correctAnswer":  "ate ice cream when I was",
+        "options":  [
+                        "eat ice cream when I am",
+                        "ate ice cream when I was",
+                        "eaten ice cream when I being",
+                        "was eating ice cream when I were"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Ela _____ preparou o jantar _____ 6 horas.",
+        "correctAnswer":  "had prepared dinner by 6 o\u0027clock",
+        "options":  [
+                        "prepare dinner in 6 o\u0027clock",
+                        "had prepared dinner by 6 o\u0027clock",
+                        "was preparing dinner at 6 o\u0027clock",
+                        "is preparing dinner until 6 o\u0027clock"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Nós _____ na cozinha agora.",
+        "correctAnswer":  "are cooking in the kitchen",
+        "options":  [
+                        "cook in the kitchen",
+                        "cooks in the kitchen",
+                        "are cooking in the kitchen",
+                        "have cook in the kitchen"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Você _____ chocolate quando _____ pequeno?",
+        "correctAnswer":  "Did you like chocolate when you were",
+        "options":  [
+                        "Do you like chocolate when you were",
+                        "Did you like chocolate when you were",
+                        "Do you like chocolate when you are",
+                        "Did you liked chocolate when you were"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Ele _____ comprado maçã no mercado.",
+        "correctAnswer":  "has bought apples",
+        "options":  [
+                        "have bought apples",
+                        "has bought apples",
+                        "has buy apples",
+                        "buying apples"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Eles _____ bebido suco desde a manhã.",
+        "correctAnswer":  "have been drinking juice",
+        "options":  [
+                        "has been drinking juice",
+                        "have been drinking juice",
+                        "are drinking juice",
+                        "have drink juice"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Eu _____ pedir um bife no restaurante.",
+        "correctAnswer":  "would like to order",
+        "options":  [
+                        "would like to order",
+                        "would like order",
+                        "like to order",
+                        "want ordering"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Ela _____ alérgica a amendoim.",
+        "correctAnswer":  "is allergic to peanuts",
+        "options":  [
+                        "is allergic to peanuts",
+                        "is alergic to peanuts",
+                        "allergic to peanuts",
+                        "have allergy to peanuts"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Nós _____ prato vegetariano porque _____ veganos.",
+        "correctAnswer":  "ordered a vegetarian dish because we are",
+        "options":  [
+                        "order a vegetarian dish because we am",
+                        "ordered a vegetarian dish because we are",
+                        "ordering vegetarian dish because we being",
+                        "order vegetarian dish because we being"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Você _____ à festa se _____ boa comida?",
+        "correctAnswer":  "Would you go to the party if there was",
+        "options":  [
+                        "Will you go to the party if there is",
+                        "Would you go to the party if there was",
+                        "Do you go to the party if there is",
+                        "Are you go to the party if there will be"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Se eu _____ sabido, _____ comido menos.",
+        "correctAnswer":  "had known I would have eaten",
+        "options":  [
+                        "know I would eat",
+                        "had known I would have eaten",
+                        "knew I will eat",
+                        "would know I eat"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O bolo _____ por ela está delicioso.",
+        "correctAnswer":  "made by her",
+        "options":  [
+                        "made by her",
+                        "making by her",
+                        "is made by her",
+                        "make by her"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "A comida _____ servida ontem à noite.",
+        "correctAnswer":  "was served",
+        "options":  [
+                        "is served",
+                        "was served",
+                        "were served",
+                        "has been served"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Os pratos _____ lavados todos os dias.",
+        "correctAnswer":  "are washed",
+        "options":  [
+                        "is washed",
+                        "are washed",
+                        "was washed",
+                        "were wash"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "A receita _____ escrita em um livro antigo.",
+        "correctAnswer":  "was written",
+        "options":  [
+                        "is written",
+                        "was written",
+                        "were written",
+                        "have been written"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "As maçãs _____ colhidas no outono.",
+        "correctAnswer":  "are picked",
+        "options":  [
+                        "is picked",
+                        "are picked",
+                        "was picked",
+                        "were pick"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O jantar _____ preparado pela mãe ontem.",
+        "correctAnswer":  "was prepared",
+        "options":  [
+                        "is prepared",
+                        "was prepared",
+                        "were prepared",
+                        "have been prepared"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "As bebidas _____ servidas aos convidados.",
+        "correctAnswer":  "are served",
+        "options":  [
+                        "is served",
+                        "are served",
+                        "was served",
+                        "were serve"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O pão _____ comprado na padaria todo dia.",
+        "correctAnswer":  "is bought",
+        "options":  [
+                        "are bought",
+                        "is bought",
+                        "was bought",
+                        "have been bought"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "A pizza _____ dividida em 8 fatias.",
+        "correctAnswer":  "is divided",
+        "options":  [
+                        "are divided",
+                        "is divided",
+                        "was divided",
+                        "have been divided"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Os ingredientes _____ misturados numa tigela.",
+        "correctAnswer":  "are mixed",
+        "options":  [
+                        "is mixed",
+                        "are mixed",
+                        "was mixed",
+                        "were mix"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "A água _____ fervida por 5 minutos.",
+        "correctAnswer":  "is boiled",
+        "options":  [
+                        "are boiled",
+                        "is boiled",
+                        "was boiled",
+                        "have been boiled"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "As frutas _____ escolhidas com cuidado.",
+        "correctAnswer":  "are chosen",
+        "options":  [
+                        "is chosen",
+                        "are chosen",
+                        "was chosen",
+                        "were choose"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O queijo _____ importado da Itália.",
+        "correctAnswer":  "is imported",
+        "options":  [
+                        "are imported",
+                        "is imported",
+                        "was imported",
+                        "have been imported"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Os vegetais _____ lavados antes de cozinhar.",
+        "correctAnswer":  "are washed",
+        "options":  [
+                        "is washed",
+                        "are washed",
+                        "was washed",
+                        "were wash"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "A carne _____ cozida lentamente por 2 horas.",
+        "correctAnswer":  "is cooked",
+        "options":  [
+                        "are cooked",
+                        "is cooked",
+                        "was cooked",
+                        "have been cooked"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O molho _____ adicionado no final.",
+        "correctAnswer":  "is added",
+        "options":  [
+                        "are added",
+                        "is added",
+                        "was added",
+                        "have been added"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "gramatica",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "As xícaras _____ enchidas de café.",
+        "correctAnswer":  "are filled",
+        "options":  [
+                        "is filled",
+                        "are filled",
+                        "was filled",
+                        "were fill"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Eles _____ comido tudo no prato.",
+        "difficulty":  "medium",
+        "options":  [
+                        "has eaten everything",
+                        "have eaten everything",
+                        "have eat everything",
+                        "eating everything"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "have eaten everything"
+    }
+]

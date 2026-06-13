@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027filme\u0027?",
+        "correctAnswer":  "movie",
+        "options":  [
+                        "movie",
+                        "book",
+                        "painting",
+                        "song"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O que é uma \u0027peça de teatro\u0027?",
+        "correctAnswer":  "play",
+        "options":  [
+                        "play",
+                        "concert",
+                        "exhibition",
+                        "carnival"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027ator\u0027 para o inglês?",
+        "correctAnswer":  "actor",
+        "options":  [
+                        "actor",
+                        "director",
+                        "writer",
+                        "producer"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027dança\u0027?",
+        "correctAnswer":  "dance",
+        "options":  [
+                        "dance",
+                        "music",
+                        "drama",
+                        "circus"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027cantor\u0027 em inglês?",
+        "correctAnswer":  "singer",
+        "options":  [
+                        "singer",
+                        "dancer",
+                        "musician",
+                        "composer"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027música clássica\u0027?",
+        "correctAnswer":  "classical music",
+        "options":  [
+                        "classical music",
+                        "rock music",
+                        "folk music",
+                        "jazz music"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O que é um \u0027museu\u0027?",
+        "correctAnswer":  "museum",
+        "options":  [
+                        "museum",
+                        "library",
+                        "university",
+                        "theater"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027pintura\u0027 em inglês?",
+        "correctAnswer":  "painting",
+        "options":  [
+                        "painting",
+                        "sculpture",
+                        "drawing",
+                        "artwork"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027poesia\u0027 para o inglês?",
+        "correctAnswer":  "poetry",
+        "options":  [
+                        "poetry",
+                        "novel",
+                        "story",
+                        "article"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027cinema\u0027?",
+        "correctAnswer":  "cinema",
+        "options":  [
+                        "cinema",
+                        "theater",
+                        "gallery",
+                        "studio"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027concerto\u0027 em inglês?",
+        "correctAnswer":  "concert",
+        "options":  [
+                        "concert",
+                        "festival",
+                        "performance",
+                        "show"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027exposição\u0027?",
+        "correctAnswer":  "exhibition",
+        "options":  [
+                        "exhibition",
+                        "performance",
+                        "presentation",
+                        "demonstration"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O que é um \u0027romance\u0027?",
+        "correctAnswer":  "novel",
+        "options":  [
+                        "novel",
+                        "story",
+                        "poem",
+                        "article"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027artista\u0027 em inglês?",
+        "correctAnswer":  "artist",
+        "options":  [
+                        "artist",
+                        "painter",
+                        "sculptor",
+                        "performer"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027diretor\u0027 para o inglês?",
+        "correctAnswer":  "director",
+        "options":  [
+                        "director",
+                        "producer",
+                        "manager",
+                        "supervisor"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027cabaré\u0027?",
+        "correctAnswer":  "cabaret",
+        "options":  [
+                        "cabaret",
+                        "tavern",
+                        "restaurant",
+                        "nightclub"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027ópera\u0027 em inglês?",
+        "correctAnswer":  "opera",
+        "options":  [
+                        "opera",
+                        "ballet",
+                        "concert",
+                        "theater"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O que é um \u0027documentário\u0027?",
+        "correctAnswer":  "documentary",
+        "options":  [
+                        "documentary",
+                        "thriller",
+                        "comedy",
+                        "drama"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027elenco\u0027 (em um filme)?",
+        "correctAnswer":  "cast",
+        "options":  [
+                        "cast",
+                        "crew",
+                        "team",
+                        "group"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027premiação\u0027 em inglês?",
+        "correctAnswer":  "awards ceremony",
+        "options":  [
+                        "awards ceremony",
+                        "celebration",
+                        "festival",
+                        "opening"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027trilha sonora\u0027?",
+        "correctAnswer":  "soundtrack",
+        "options":  [
+                        "soundtrack",
+                        "melody",
+                        "harmony",
+                        "rhythm"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027escultura\u0027 para o inglês?",
+        "correctAnswer":  "sculpture",
+        "options":  [
+                        "sculpture",
+                        "statue",
+                        "monument",
+                        "carving"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027dublagem\u0027 em inglês?",
+        "correctAnswer":  "dubbing",
+        "options":  [
+                        "dubbing",
+                        "subtitles",
+                        "voiceover",
+                        "narration"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O que é uma \u0027tela\u0027 (obra de arte)?",
+        "correctAnswer":  "canvas",
+        "options":  [
+                        "canvas",
+                        "frame",
+                        "picture",
+                        "portrait"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027intervalo\u0027 (em teatro)?",
+        "correctAnswer":  "intermission",
+        "options":  [
+                        "intermission",
+                        "interval",
+                        "break",
+                        "pause"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027crítica\u0027 (avaliação) em inglês?",
+        "correctAnswer":  "review",
+        "options":  [
+                        "review",
+                        "analysis",
+                        "judgment",
+                        "opinion"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027roteiro\u0027 (em cinema)?",
+        "correctAnswer":  "script",
+        "options":  [
+                        "script",
+                        "plot",
+                        "story",
+                        "dialogue"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027bastidores\u0027 para o inglês?",
+        "correctAnswer":  "backstage",
+        "options":  [
+                        "backstage",
+                        "stage",
+                        "audience",
+                        "dressing room"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027comédia\u0027 em inglês?",
+        "correctAnswer":  "comedy",
+        "options":  [
+                        "comedy",
+                        "tragedy",
+                        "drama",
+                        "farce"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O que é um \u0027gênero\u0027 literário?",
+        "correctAnswer":  "genre",
+        "options":  [
+                        "genre",
+                        "style",
+                        "category",
+                        "type"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027balé\u0027?",
+        "correctAnswer":  "ballet",
+        "options":  [
+                        "ballet",
+                        "modern dance",
+                        "contemporary",
+                        "folk dance"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027lançamento\u0027 (de um filme) em inglês?",
+        "correctAnswer":  "release",
+        "options":  [
+                        "release",
+                        "premiere",
+                        "opening",
+                        "debut"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027alegoria\u0027?",
+        "correctAnswer":  "allegory",
+        "options":  [
+                        "allegory",
+                        "metaphor",
+                        "symbol",
+                        "irony"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027memória\u0027 em contexto cultural?",
+        "correctAnswer":  "memory",
+        "options":  [
+                        "memory",
+                        "history",
+                        "record",
+                        "archive"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027estética\u0027 em inglês?",
+        "correctAnswer":  "aesthetics",
+        "options":  [
+                        "aesthetics",
+                        "appearance",
+                        "beauty",
+                        "style"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027ícone cultural\u0027?",
+        "correctAnswer":  "cultural icon",
+        "options":  [
+                        "cultural icon",
+                        "symbol",
+                        "representation",
+                        "emblem"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027pastiche\u0027?",
+        "correctAnswer":  "pastiche",
+        "options":  [
+                        "pastiche",
+                        "parody",
+                        "imitation",
+                        "copy"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027sátira\u0027 em inglês?",
+        "correctAnswer":  "satire",
+        "options":  [
+                        "satire",
+                        "humor",
+                        "comedy",
+                        "joke"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O que é um \u0027monólogo\u0027?",
+        "correctAnswer":  "monologue",
+        "options":  [
+                        "monologue",
+                        "dialogue",
+                        "speech",
+                        "discourse"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027narrativa\u0027 para o inglês?",
+        "correctAnswer":  "narrative",
+        "options":  [
+                        "narrative",
+                        "story",
+                        "tale",
+                        "account"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027crítica construtiva\u0027 em inglês?",
+        "correctAnswer":  "constructive criticism",
+        "options":  [
+                        "constructive criticism",
+                        "negative review",
+                        "harsh critique",
+                        "bad review"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027parodiar\u0027?",
+        "correctAnswer":  "parody",
+        "options":  [
+                        "parody",
+                        "imitate",
+                        "copy",
+                        "mimic"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027caricatura\u0027?",
+        "correctAnswer":  "caricature",
+        "options":  [
+                        "caricature",
+                        "cartoon",
+                        "drawing",
+                        "sketch"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027melancolia\u0027 em inglês?",
+        "correctAnswer":  "melancholy",
+        "options":  [
+                        "melancholy",
+                        "sadness",
+                        "depression",
+                        "loneliness"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027nostalgia\u0027?",
+        "correctAnswer":  "nostalgia",
+        "options":  [
+                        "nostalgia",
+                        "longing",
+                        "memory",
+                        "sentiment"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027ironia\u0027 para o inglês?",
+        "correctAnswer":  "irony",
+        "options":  [
+                        "irony",
+                        "sarcasm",
+                        "humor",
+                        "wit"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027metáfora\u0027 em inglês?",
+        "correctAnswer":  "metaphor",
+        "options":  [
+                        "metaphor",
+                        "simile",
+                        "analogy",
+                        "comparison"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027simbolismo\u0027?",
+        "correctAnswer":  "symbolism",
+        "options":  [
+                        "symbolism",
+                        "representation",
+                        "meaning",
+                        "significance"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027cena\u0027 (em um filme)?",
+        "difficulty":  "medium",
+        "options":  [
+                        "scene",
+                        "act",
+                        "sequence",
+                        "setting"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "scene"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027narratário\u0027 em inglês?",
+        "difficulty":  "medium",
+        "options":  [
+                        "narrator",
+                        "storyteller",
+                        "speaker",
+                        "commentator"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "narrator"
+    }
+]

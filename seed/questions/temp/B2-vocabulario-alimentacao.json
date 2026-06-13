@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027aperitivo\u0027?",
+        "correctAnswer":  "bebida ou pequeno prato servido antes da refeição principal",
+        "options":  [
+                        "bebida ou pequeno prato servido antes da refeição principal",
+                        "sobremesa doce e fria",
+                        "tempero para saladas",
+                        "tipo de queijo italiano"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027marinado\u0027 em culinária?",
+        "correctAnswer":  "mergulhado em um líquido saboroso para temperar",
+        "options":  [
+                        "assado no forno",
+                        "mergulhado em um líquido saboroso para temperar",
+                        "cozido em água fervente",
+                        "congelado rapidamente"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027fermento\u0027 na cozinha?",
+        "correctAnswer":  "substância que faz a massa crescer e ficar esponjosa",
+        "options":  [
+                        "molho picante",
+                        "substância que faz a massa crescer e ficar esponjosa",
+                        "tipo de farinha integral",
+                        "óleo para cozinhar"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que quer dizer \u0027al dente\u0027?",
+        "correctAnswer":  "pasta ou arroz cozidos mantendo alguma resistência ao morder",
+        "options":  [
+                        "muito cozido e mole",
+                        "pasta ou arroz cozidos mantendo alguma resistência ao morder",
+                        "frio e cremoso",
+                        "queimado na superfície"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027temperar\u0027?",
+        "correctAnswer":  "adicionar sal, especiarias e outros ingredientes para melhorar o sabor",
+        "options":  [
+                        "esfriar a comida",
+                        "adicionar sal, especiarias e outros ingredientes para melhorar o sabor",
+                        "cortar em pedaços pequenos",
+                        "misturar ingredientes crus"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027cobertura\u0027 em gastronomia?",
+        "correctAnswer":  "camada de ingrediente colocada sobre um prato ou sobremesa",
+        "options":  [
+                        "prato servido no final da refeição",
+                        "camada de ingrediente colocada sobre um prato ou sobremesa",
+                        "tipo de manteiga clarificada",
+                        "técnica de cozimento rápido"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027refogado\u0027?",
+        "correctAnswer":  "alimento que foi reaquecido ou cozido novamente",
+        "options":  [
+                        "alimento muito fresco",
+                        "alimento que foi reaquecido ou cozido novamente",
+                        "prato congelado",
+                        "receita muito antiga"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que quer dizer \u0027doce\u0027 quando referido a vinho?",
+        "correctAnswer":  "vinho que contém açúcar residual",
+        "options":  [
+                        "vinho de baixa qualidade",
+                        "vinho que contém açúcar residual",
+                        "vinho muito caro",
+                        "vinho da região de Doce"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027ralado\u0027?",
+        "correctAnswer":  "reduzido a pequenos pedaços ou fios usando um ralador",
+        "options":  [
+                        "assado até ficar crocante",
+                        "reduzido a pequenos pedaços ou fios usando um ralador",
+                        "congelado em camadas",
+                        "misturado com leite"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027emulsionar\u0027?",
+        "correctAnswer":  "misturar ingredientes que não se combinam naturalmente para formar uma mistura uniforme",
+        "options":  [
+                        "ferver em fogo alto",
+                        "misturar ingredientes que não se combinam naturalmente para formar uma mistura uniforme",
+                        "peneirar farinha",
+                        "queimar açúcar"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027escaldado\u0027?",
+        "correctAnswer":  "mergulhado rapidamente em água quente",
+        "options":  [
+                        "completamente congelado",
+                        "mergulhado rapidamente em água quente",
+                        "seco ao sol",
+                        "coberto com açúcar"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que quer dizer \u0027sedimento\u0027 em vinho?",
+        "correctAnswer":  "partículas sólidas que se depositam no fundo da garrafa",
+        "options":  [
+                        "cor clara e brilhante",
+                        "partículas sólidas que se depositam no fundo da garrafa",
+                        "espuma na superfície",
+                        "tipo de cortiça"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027macerado\u0027?",
+        "correctAnswer":  "alimento que foi deixado em pousio em um líquido para absorver sabores",
+        "options":  [
+                        "cozido em panela de pressão",
+                        "alimento que foi deixado em pousio em um líquido para absorver sabores",
+                        "moído em um almofariz",
+                        "cortado com faca afiada"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027laminado\u0027 na culinária?",
+        "correctAnswer":  "cortado em fatias finas e uniformes",
+        "options":  [
+                        "cozido com leite",
+                        "cortado em fatias finas e uniformes",
+                        "prensado em moldes",
+                        "peneirado várias vezes"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027caramelo\u0027?",
+        "correctAnswer":  "açúcar aquecido até ficar dourado e amargo",
+        "options":  [
+                        "tipo de chocolate belga",
+                        "açúcar aquecido até ficar dourado e amargo",
+                        "café com leite doce",
+                        "mel fermentado"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que quer dizer \u0027fermentação\u0027?",
+        "correctAnswer":  "processo biológico onde microrganismos transformam açúcar em álcool ou ácido",
+        "options":  [
+                        "aquecimento lento e controlado",
+                        "processo biológico onde microrganismos transformam açúcar em álcool ou ácido",
+                        "solidificação de líquidos",
+                        "expansão de gases"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que quer dizer \u0027gratinado\u0027?",
+        "correctAnswer":  "coberto com uma camada de queijo ou pão ralado, e assado até dourar",
+        "options":  [
+                        "misturado com água",
+                        "coberto com uma camada de queijo ou pão ralado, e assado até dourar",
+                        "deixado em repouso na geladeira",
+                        "cozido em vapor"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027umami\u0027?",
+        "correctAnswer":  "quinto sabor fundamental, saboroso e envolvente",
+        "options":  [
+                        "tipo de especiaria japonesa",
+                        "quinto sabor fundamental, saboroso e envolvente",
+                        "técnica de corte coreana",
+                        "tempero com algas marinhas"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027coulis\u0027 em gastronomia?",
+        "correctAnswer":  "molho espesso e homogêneo feito com frutas ou vegetais peneirados",
+        "options":  [
+                        "tipo de pasta italiana",
+                        "molho espesso e homogêneo feito com frutas ou vegetais peneirados",
+                        "açúcar derretido com manteiga",
+                        "caldo claro de carne"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027brunoise\u0027?",
+        "correctAnswer":  "corte em cubos muito pequenos e uniformes",
+        "options":  [
+                        "técnica de douramento de alimentos",
+                        "corte em cubos muito pequenos e uniformes",
+                        "tipo de sopa francesa tradicional",
+                        "especiaria picante"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que quer dizer \u0027deglaçar\u0027?",
+        "correctAnswer":  "adicionar líquido a uma panela para dissolver os resíduos caramelizados",
+        "options":  [
+                        "cobrir com açúcar",
+                        "adicionar líquido a uma panela para dissolver os resíduos caramelizados",
+                        "remover gordura da superfície",
+                        "congelar rapidamente"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027redução\u0027 na culinária?",
+        "correctAnswer":  "evaporação de líquido para concentrar sabores",
+        "options":  [
+                        "corte em pedaços menores",
+                        "evaporação de líquido para concentrar sabores",
+                        "adição de amido para engrossar",
+                        "mistura de ingredientes opostos"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027glaceado\u0027?",
+        "correctAnswer":  "coberto com uma camada brilhante de açúcar ou gelatina",
+        "options":  [
+                        "cozido a vapor",
+                        "coberto com uma camada brilhante de açúcar ou gelatina",
+                        "congelado no ar",
+                        "assado em panela com óleo"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027fond\u0027?",
+        "correctAnswer":  "resíduos caramelizados que ficam no fundo da panela após cozinhar",
+        "options":  [
+                        "tipo de queijo francês",
+                        "resíduos caramelizados que ficam no fundo da panela após cozinhar",
+                        "técnica de mistura rápida",
+                        "ingrediente para pavês"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que quer dizer \u0027escabeche\u0027?",
+        "correctAnswer":  "alimento cozido e conservado em vinagre e especiarias",
+        "options":  [
+                        "tipo de peixe espanhol",
+                        "alimento cozido e conservado em vinagre e especiarias",
+                        "fatia muito fina de carne",
+                        "molho a base de tomate"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027praline\u0027?",
+        "correctAnswer":  "amêndoa ou avelã caramelizada e moída, ou chocolate recheado",
+        "options":  [
+                        "fruta tropical seca",
+                        "amêndoa ou avelã caramelizada e moída, ou chocolate recheado",
+                        "tipo de bolo de camadas",
+                        "especiaria indonésia"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027tempura\u0027?",
+        "correctAnswer":  "alimento mergulhado em massa leve e frito rapidamente",
+        "options":  [
+                        "sopa tradicional japonesa",
+                        "alimento mergulhado em massa leve e frito rapidamente",
+                        "tipo de vinagre",
+                        "especiaria picante"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027mise en place\u0027?",
+        "correctAnswer":  "preparação de todos os ingredientes antes de começar a cozinhar",
+        "options":  [
+                        "plano de serviço do restaurante",
+                        "preparação de todos os ingredientes antes de começar a cozinhar",
+                        "forma de apresentar o prato",
+                        "técnica de armazenagem"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que quer dizer \u0027consomé\u0027?",
+        "correctAnswer":  "caldo claro e refinado feito através de filtragem cuidadosa",
+        "options":  [
+                        "sopa com carne desfiada",
+                        "caldo claro e refinado feito através de filtragem cuidadosa",
+                        "molho com tomate",
+                        "caldo congelado em cubos"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027julienne\u0027?",
+        "correctAnswer":  "corte em palitos finos e uniformes",
+        "options":  [
+                        "tipo de sopa vegetariana",
+                        "corte em palitos finos e uniformes",
+                        "técnica de peneiramento",
+                        "forma de apresentação em prato"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027liofilizado\u0027?",
+        "correctAnswer":  "removido de água através de congelamento e sublimação",
+        "options":  [
+                        "misturado com leite",
+                        "removido de água através de congelamento e sublimação",
+                        "aquecido lentamente",
+                        "prensado em moldes"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027nappé\u0027 em culinária?",
+        "correctAnswer":  "revestimento fino de molho sobre um alimento",
+        "options":  [
+                        "tipo de pano de cozinha",
+                        "revestimento fino de molho sobre um alimento",
+                        "técnica de agitação rápida",
+                        "recipiente para servir"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que quer dizer \u0027paliçada\u0027 em apresentação de pratos?",
+        "correctAnswer":  "alimentos cortados e arrumados em pé, lado a lado",
+        "options":  [
+                        "cobertura de açúcar grosso",
+                        "alimentos cortados e arrumados em pé, lado a lado",
+                        "camada de creme espesso",
+                        "decoração com ervas frescas"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027béchamel\u0027?",
+        "correctAnswer":  "molho branco feito com manteiga, farinha e leite",
+        "options":  [
+                        "tipo de queijo ítalo-francês",
+                        "molho branco feito com manteiga, farinha e leite",
+                        "especiaria para carnes",
+                        "sopa com batata"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027velouté\u0027?",
+        "correctAnswer":  "sopa cremosa e refinada feita com caldo e roux",
+        "options":  [
+                        "tipo de veludo francês",
+                        "sopa cremosa e refinada feita com caldo e roux",
+                        "molho de tomate",
+                        "cobertura de chocolate"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que quer dizer \u0027esferificação\u0027?",
+        "correctAnswer":  "técnica de culinária molecular que transforma líquidos em esferas",
+        "options":  [
+                        "divisão de ingredientes em porções",
+                        "técnica de culinária molecular que transforma líquidos em esferas",
+                        "aquecimento controlado de chocolate",
+                        "peneiramento múltiplo de farinha"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027gelificação\u0027?",
+        "correctAnswer":  "processo de transformação de um líquido em gel ou gelatina",
+        "options":  [
+                        "evaporação lenta de água",
+                        "processo de transformação de um líquido em gel ou gelatina",
+                        "congelamento à temperatura ambiente",
+                        "formação de cristais de sal"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027gastrique\u0027 em gastronomia?",
+        "correctAnswer":  "mistura de açúcar caramelizado com vinagre, usado para temperar molhos",
+        "options":  [
+                        "tipo de prato tradicional grego",
+                        "mistura de açúcar caramelizado com vinagre, usado para temperar molhos",
+                        "técnica de conservação em sal",
+                        "especiaria para carnes vermelhas"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027matignon\u0027?",
+        "correctAnswer":  "mistura de vegetais cortados em brunoise com carne e temperos",
+        "options":  [
+                        "tipo de salsa francesa",
+                        "mistura de vegetais cortados em brunoise com carne e temperos",
+                        "corte diagonal de vegetais",
+                        "caldo de frango claro"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que quer dizer \u0027mirepoix\u0027?",
+        "correctAnswer":  "base aromática feita com cebola, cenoura e aipo em proporções específicas",
+        "options":  [
+                        "tipo de bolo francês",
+                        "base aromática feita com cebola, cenoura e aipo em proporções específicas",
+                        "técnica de doramento rápido",
+                        "molho com vinho tinto"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027blanquette\u0027?",
+        "correctAnswer":  "guisado branco feito com carne branca, caldo e molho cremoso",
+        "options":  [
+                        "tipo de confeitaria belga",
+                        "guisado branco feito com carne branca, caldo e molho cremoso",
+                        "técnica de branqueamento",
+                        "especiaria branca moída"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027pâte à choux\u0027?",
+        "correctAnswer":  "massa doce usada para fazer eclairs e profiteroles",
+        "options":  [
+                        "tipo de pasta folhada",
+                        "massa doce usada para fazer eclairs e profiteroles",
+                        "especiaria para doces",
+                        "cobertura de chocolate quente"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027nappe\u0027 em haute cuisine?",
+        "correctAnswer":  "consistência de um molho que recobre e adere a um alimento",
+        "options":  [
+                        "forma de corte diagonal",
+                        "consistência de um molho que recobre e adere a um alimento",
+                        "técnica de mistura rápida",
+                        "tipo de panela especial"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que quer dizer \u0027sous vide\u0027?",
+        "correctAnswer":  "técnica de cozimento em vácuo a baixa temperatura",
+        "options":  [
+                        "tipo de vinho francês seco",
+                        "técnica de cozimento em vácuo a baixa temperatura",
+                        "especiaria para marinadas",
+                        "forma de armazenagem a frio"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027espuma\u0027 em culinária moderna?",
+        "correctAnswer":  "preparação aérea e leve feita com sifão de espuma e gás",
+        "options":  [
+                        "tipo de açúcar cristalizado",
+                        "preparação aérea e leve feita com sifão de espuma e gás",
+                        "técnica de fermentação natural",
+                        "cobertura de merengue"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027meunière\u0027 na preparação de peixes?",
+        "correctAnswer":  "peixe farinhado e frito em manteiga quente, regado com suco de limão",
+        "options":  [
+                        "peixe cozido em caldo",
+                        "peixe farinhado e frito em manteiga quente, regado com suco de limão",
+                        "peixe defumado lentamente",
+                        "peixe marinado em vinho"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027tartare\u0027?",
+        "correctAnswer":  "alimento cru finamente picado, temperado e servido imediatamente",
+        "options":  [
+                        "tipo de molho agridoce",
+                        "alimento cru finamente picado, temperado e servido imediatamente",
+                        "técnica de salga e desidratação",
+                        "especiaria para conservas"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que quer dizer \u0027chiffonade\u0027?",
+        "correctAnswer":  "corte em tiras finas e delicadas de vegetais ou ervas",
+        "options":  [
+                        "tipo de tecido para cozinha",
+                        "corte em tiras finas e delicadas de vegetais ou ervas",
+                        "técnica de aquecimento rápido",
+                        "forma de dobradura de pano"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027farçir\u0027?",
+        "correctAnswer":  "rechear um alimento com uma mistura de ingredientes",
+        "options":  [
+                        "desfilar ingredientes em ordem",
+                        "rechear um alimento com uma mistura de ingredientes",
+                        "técnica de douramento uniforme",
+                        "congelamento em camadas"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027duxelles\u0027?",
+        "correctAnswer":  "preparação de cogumelos finamente picados e refogados com cebola",
+        "options":  [
+                        "tipo de alga para sushi",
+                        "preparação de cogumelos finamente picados e refogados com cebola",
+                        "corte em dados uniformes",
+                        "molho com trufa"
+                    ],
+        "difficulty":  "hard"
+    }
+]

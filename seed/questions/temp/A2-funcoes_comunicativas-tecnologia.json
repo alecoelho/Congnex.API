@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer pedir ao seu amigo o endereco de e-mail dele. O que voce diz?",
+        "correctAnswer":  "What is your email address?",
+        "options":  [
+                        "What is your email address?",
+                        "Where is your computer?",
+                        "How do you spell internet?",
+                        "Can I use your phone?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer dizer que tem um celular novo. O que voce diz?",
+        "correctAnswer":  "I have a new phone.",
+        "options":  [
+                        "I have a new phone.",
+                        "I want a new computer.",
+                        "I need a new tablet.",
+                        "I lost my old phone."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer perguntar se o seu amigo usa redes sociais. O que voce diz?",
+        "correctAnswer":  "Do you use social media?",
+        "options":  [
+                        "Do you use social media?",
+                        "Do you like television?",
+                        "Can you use a camera?",
+                        "Do you have a radio?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer dizer que nao tem acesso a internet no momento. O que voce diz?",
+        "correctAnswer":  "I don\u0027t have internet now.",
+        "options":  [
+                        "I don\u0027t have internet now.",
+                        "I don\u0027t like computers.",
+                        "I can\u0027t use a phone.",
+                        "I don\u0027t watch TV."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer perguntar qual aplicativo o seu amigo usa para mandar mensagens. O que voce diz?",
+        "correctAnswer":  "What app do you use to send messages?",
+        "options":  [
+                        "What app do you use to send messages?",
+                        "Where do you buy your phone?",
+                        "How much is a new tablet?",
+                        "When do you watch videos?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer dizer que gosta de jogar videogame. O que voce diz?",
+        "correctAnswer":  "I like playing video games.",
+        "options":  [
+                        "I like playing video games.",
+                        "I love watching the news.",
+                        "I enjoy cooking at home.",
+                        "I want to buy a bicycle."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer pedir ao colega para te mandar uma mensagem. O que voce diz?",
+        "correctAnswer":  "Please send me a message.",
+        "options":  [
+                        "Please send me a message.",
+                        "Please call the teacher.",
+                        "Please open the window.",
+                        "Please write a letter."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer dizer que o seu computador esta lento. O que voce diz?",
+        "correctAnswer":  "My computer is slow.",
+        "options":  [
+                        "My computer is slow.",
+                        "My phone is broken.",
+                        "My tablet is new.",
+                        "My laptop is big."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer perguntar onde pode encontrar a senha do Wi-Fi. O que voce diz?",
+        "correctAnswer":  "Where is the Wi-Fi password?",
+        "options":  [
+                        "Where is the Wi-Fi password?",
+                        "What time is the internet?",
+                        "How do I buy Wi-Fi?",
+                        "Who has the television?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer dizer que assiste a videos no YouTube todo dia. O que voce diz?",
+        "correctAnswer":  "I watch videos on YouTube every day.",
+        "options":  [
+                        "I watch videos on YouTube every day.",
+                        "I listen to music on YouTube yesterday.",
+                        "I play games on YouTube all night.",
+                        "I send photos on YouTube every week."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer perguntar se o seu amigo tem um perfil no Instagram. O que voce diz?",
+        "correctAnswer":  "Do you have an Instagram profile?",
+        "options":  [
+                        "Do you have an Instagram profile?",
+                        "Do you want a new computer?",
+                        "Can you use a printer?",
+                        "Are you on the telephone?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer dizer que vai tirar uma foto com o celular. O que voce diz?",
+        "correctAnswer":  "I\u0027m going to take a photo with my phone.",
+        "options":  [
+                        "I\u0027m going to take a photo with my phone.",
+                        "I\u0027m going to call a friend on the computer.",
+                        "I\u0027m going to send a letter by email.",
+                        "I\u0027m going to watch a movie on the radio."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer pedir ajuda para conectar ao Wi-Fi. O que voce diz?",
+        "correctAnswer":  "Can you help me connect to the Wi-Fi?",
+        "options":  [
+                        "Can you help me connect to the Wi-Fi?",
+                        "Can you help me buy a new phone?",
+                        "Can you show me the television?",
+                        "Can you find my computer bag?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer dizer que usa o computador para trabalhar. O que voce diz?",
+        "correctAnswer":  "I use the computer for work.",
+        "options":  [
+                        "I use the computer for work.",
+                        "I need the television for work.",
+                        "I buy a phone for school.",
+                        "I have a tablet for cooking."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer perguntar se o amigo viu a mensagem que voce mandou. O que voce diz?",
+        "correctAnswer":  "Did you see my message?",
+        "options":  [
+                        "Did you see my message?",
+                        "Did you hear my telephone?",
+                        "Did you open my letter?",
+                        "Did you find my computer?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer dizer que a bateria do seu celular esta acabando. O que voce diz?",
+        "correctAnswer":  "My phone battery is low.",
+        "options":  [
+                        "My phone battery is low.",
+                        "My phone screen is big.",
+                        "My phone case is broken.",
+                        "My phone camera is old."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer perguntar como se escreve o endereco de um site. O que voce diz?",
+        "correctAnswer":  "How do you spell the website address?",
+        "options":  [
+                        "How do you spell the website address?",
+                        "Where can I buy the website?",
+                        "What time is the internet open?",
+                        "Who made this website address?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer perguntar com que frequencia o amigo usa as redes sociais. O que voce diz?",
+        "correctAnswer":  "How often do you use social media?",
+        "options":  [
+                        "How often do you use social media?",
+                        "How long is your social media?",
+                        "How much is your social media?",
+                        "How many social media do you buy?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer explicar que nao consegue abrir o arquivo que te mandaram por e-mail. O que voce diz?",
+        "correctAnswer":  "I can\u0027t open the file you sent me.",
+        "options":  [
+                        "I can\u0027t open the file you sent me.",
+                        "I don\u0027t want to read your email.",
+                        "I never use email at work.",
+                        "I forgot to close the document."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer dizer que prefere usar aplicativos de mensagens a ligar. O que voce diz?",
+        "correctAnswer":  "I prefer using messaging apps to calling.",
+        "options":  [
+                        "I prefer using messaging apps to calling.",
+                        "I always call instead of messaging.",
+                        "I never use apps on my phone.",
+                        "I want to buy a new message."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer perguntar se a outra pessoa usa internet no trabalho com frequencia. O que voce diz?",
+        "correctAnswer":  "Do you use the internet a lot at work?",
+        "options":  [
+                        "Do you use the internet a lot at work?",
+                        "Is the internet expensive at work?",
+                        "How many computers are at work?",
+                        "When did you start work today?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer sugerir ao amigo que ele baixe um aplicativo util. O que voce diz?",
+        "correctAnswer":  "You should download this app. It\u0027s very useful.",
+        "options":  [
+                        "You should download this app. It\u0027s very useful.",
+                        "You must buy this app. It\u0027s very expensive.",
+                        "You can upload this app. It\u0027s very old.",
+                        "You need to delete this app. It\u0027s very good."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer perguntar ao tecnico quanto tempo vai demorar para consertar o computador. O que voce diz?",
+        "correctAnswer":  "How long will it take to fix my computer?",
+        "options":  [
+                        "How long will it take to fix my computer?",
+                        "How much money is a new computer?",
+                        "When did you buy this computer?",
+                        "Where can I find a new computer?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer dizer que acabou de atualizar o seu sistema operacional. O que voce diz?",
+        "correctAnswer":  "I just updated my operating system.",
+        "options":  [
+                        "I just updated my operating system.",
+                        "I always buy a new operating system.",
+                        "I never open my operating system.",
+                        "I want to delete my operating system."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer pedir ao colega que te adicione em uma rede social. O que voce diz?",
+        "correctAnswer":  "Can you add me on social media?",
+        "options":  [
+                        "Can you add me on social media?",
+                        "Can you delete me from social media?",
+                        "Can you buy me a social media?",
+                        "Can you open social media for me?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer explicar que esqueceu a sua senha e nao consegue entrar na conta. O que voce diz?",
+        "correctAnswer":  "I forgot my password and I can\u0027t log in.",
+        "options":  [
+                        "I forgot my password and I can\u0027t log in.",
+                        "I lost my computer and I can\u0027t find it.",
+                        "I broke my phone and I can\u0027t call.",
+                        "I deleted my email and I can\u0027t read it."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer dizer que costuma fazer compras online. O que voce diz?",
+        "correctAnswer":  "I usually shop online.",
+        "options":  [
+                        "I usually shop online.",
+                        "I always sell products online.",
+                        "I never open online stores.",
+                        "I sometimes work for online shops."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer avisar o amigo para ele te ligar pelo WhatsApp porque o sinal do telefone esta ruim. O que voce diz?",
+        "correctAnswer":  "Call me on WhatsApp. The phone signal is bad.",
+        "options":  [
+                        "Call me on WhatsApp. The phone signal is bad.",
+                        "Text me on WhatsApp. The battery is low.",
+                        "Email me on WhatsApp. The internet is fast.",
+                        "Message me on WhatsApp. The screen is broken."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer perguntar a um amigo qual tipo de celular ele tem. O que voce diz?",
+        "correctAnswer":  "What kind of phone do you have?",
+        "options":  [
+                        "What kind of phone do you have?",
+                        "What color is your phone case?",
+                        "Where did your phone come from?",
+                        "How many phones do you want?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer dizer que nao vai conseguir responder e-mails porque ficara sem internet por alguns dias. O que voce diz?",
+        "correctAnswer":  "I won\u0027t be able to answer emails. I\u0027ll be without internet for a few days.",
+        "options":  [
+                        "I won\u0027t be able to answer emails. I\u0027ll be without internet for a few days.",
+                        "I don\u0027t want to answer emails. I have a new phone.",
+                        "I can\u0027t find your email. I deleted it yesterday.",
+                        "I never answer emails. I don\u0027t like computers."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer pedir ao suporte tecnico para reiniciar o seu roteador. O que voce diz?",
+        "correctAnswer":  "Can you restart my router, please?",
+        "options":  [
+                        "Can you restart my router, please?",
+                        "Can you repair my television, please?",
+                        "Can you replace my keyboard, please?",
+                        "Can you reconnect my printer, please?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer explicar que recebeu um e-mail suspeito e nao vai clicar no link. O que voce diz?",
+        "correctAnswer":  "I received a suspicious email. I\u0027m not going to click the link.",
+        "options":  [
+                        "I received a suspicious email. I\u0027m not going to click the link.",
+                        "I sent a good email. I want to open all links.",
+                        "I found a nice email. I\u0027m going to share the link.",
+                        "I deleted an important email. I can\u0027t find the link."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer perguntar ao amigo se ele viu a noticia que voce compartilhou nas redes sociais. O que voce diz?",
+        "correctAnswer":  "Did you see the news I shared on social media?",
+        "options":  [
+                        "Did you see the news I shared on social media?",
+                        "Did you buy the news on social media?",
+                        "Did you write the news on social media?",
+                        "Did you delete the news from social media?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer dizer que seu notebook nao liga mais. O que voce diz?",
+        "correctAnswer":  "My laptop doesn\u0027t turn on anymore.",
+        "options":  [
+                        "My laptop doesn\u0027t turn on anymore.",
+                        "My laptop is very expensive now.",
+                        "My laptop screen is too big.",
+                        "My laptop keyboard is very fast."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer dizer ao amigo para nao esquecer de salvar o documento antes de fechar o computador. O que voce diz?",
+        "correctAnswer":  "Don\u0027t forget to save the document before you close the computer.",
+        "options":  [
+                        "Don\u0027t forget to save the document before you close the computer.",
+                        "Don\u0027t forget to delete the document before you open the computer.",
+                        "Don\u0027t forget to print the document after you close the computer.",
+                        "Don\u0027t forget to send the document when you open the computer."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer reclamar que a sua conexao de internet esta muito lenta e esta afetando o seu trabalho. O que voce diz?",
+        "correctAnswer":  "My internet connection is very slow and it\u0027s affecting my work.",
+        "options":  [
+                        "My internet connection is very slow and it\u0027s affecting my work.",
+                        "My internet connection is very fast but I can\u0027t work.",
+                        "My internet connection is new but it\u0027s not working well.",
+                        "My internet connection is cheap and I don\u0027t need more."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer explicar ao suporte tecnico que o seu aplicativo trava toda vez que voce tenta fazer upload de fotos. O que voce diz?",
+        "correctAnswer":  "The app crashes every time I try to upload photos.",
+        "options":  [
+                        "The app crashes every time I try to upload photos.",
+                        "The app works fine when I download photos.",
+                        "The app is slow only when I delete photos.",
+                        "The app opens quickly after I save photos."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer avisar um colega que o servidor ficou fora do ar ontem e os arquivos podem nao ter sido salvos. O que voce diz?",
+        "correctAnswer":  "The server was down yesterday, so the files might not have been saved.",
+        "options":  [
+                        "The server was down yesterday, so the files might not have been saved.",
+                        "The server was fast yesterday, and all the files were deleted.",
+                        "The server is new today, but the files are not important.",
+                        "The server was slow yesterday because we saved too many files."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer pedir ao suporte que verifique as configuracoes do seu e-mail porque as mensagens nao estao chegando. O que voce diz?",
+        "correctAnswer":  "Can you check my email settings? I\u0027m not receiving any messages.",
+        "options":  [
+                        "Can you check my email settings? I\u0027m not receiving any messages.",
+                        "Can you open my email account? I want to send more messages.",
+                        "Can you delete my email settings? I have too many messages.",
+                        "Can you change my email address? My messages are too slow."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer explicar que nao consegue participar da videoconferencia porque o seu microfone nao esta funcionando. O que voce diz?",
+        "correctAnswer":  "I can\u0027t join the video call because my microphone isn\u0027t working.",
+        "options":  [
+                        "I can\u0027t join the video call because my microphone isn\u0027t working.",
+                        "I don\u0027t want to join the video call because it\u0027s too long.",
+                        "I forgot to join the video call because I was sleeping.",
+                        "I joined the video call but the screen was too small."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer informar que o link que te mandaram esta quebrado e nao abre nenhuma pagina. O que voce diz?",
+        "correctAnswer":  "The link you sent me is broken. It doesn\u0027t open any page.",
+        "options":  [
+                        "The link you sent me is broken. It doesn\u0027t open any page.",
+                        "The link I sent you is slow. It opens the wrong page.",
+                        "The link we have is new. It closes every page.",
+                        "The link they found is old. It opens too many pages."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer dizer ao seu chefe que vai precisar de uma nova licenca de software para continuar trabalhando. O que voce diz?",
+        "correctAnswer":  "I need a new software license to continue working.",
+        "options":  [
+                        "I need a new software license to continue working.",
+                        "I want a free software license but I don\u0027t need it.",
+                        "I have an old software license and it works fine.",
+                        "I lost my software license because it was too cheap."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer reclamar que o aplicativo pediu permissao para acessar todos os seus contatos sem nenhum motivo claro. O que voce diz?",
+        "correctAnswer":  "This app asked for permission to access all my contacts. I don\u0027t know why.",
+        "options":  [
+                        "This app asked for permission to access all my contacts. I don\u0027t know why.",
+                        "This app gave me permission to use all my contacts. I am very happy.",
+                        "This app blocked permission to delete my contacts. That\u0027s normal.",
+                        "This app found all my contacts automatically. It\u0027s very fast."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer explicar ao seu amigo que o seu perfil foi hackeado e que ele nao deve abrir nenhuma mensagem que receber do seu nome. O que voce diz?",
+        "correctAnswer":  "My account was hacked. Don\u0027t open any messages from my name.",
+        "options":  [
+                        "My account was hacked. Don\u0027t open any messages from my name.",
+                        "My account is new. Please open all messages I send to you.",
+                        "My account was deleted. You can message me on my old name.",
+                        "My account is private. I can\u0027t open any messages right now."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer dizer ao tecnico que o computador reiniciou sozinho no meio de uma reuniao importante e voce perdeu tudo. O que voce diz?",
+        "correctAnswer":  "My computer restarted by itself during an important meeting and I lost everything.",
+        "options":  [
+                        "My computer restarted by itself during an important meeting and I lost everything.",
+                        "My computer was slow during the meeting, but I saved my work.",
+                        "My computer turned off after the meeting because I closed it.",
+                        "My computer started a new meeting and I found all my files."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer perguntar ao seu colega se ele sabe como fazer backup dos arquivos na nuvem. O que voce diz?",
+        "correctAnswer":  "Do you know how to back up files to the cloud?",
+        "options":  [
+                        "Do you know how to back up files to the cloud?",
+                        "Do you know how to delete files from the cloud?",
+                        "Do you know how to print files from the cloud?",
+                        "Do you know how to buy more cloud storage?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer avisar o grupo que o link para a reuniao online mudou e vai mandar o novo em seguida. O que voce diz?",
+        "correctAnswer":  "The meeting link has changed. I\u0027ll send the new one in a moment.",
+        "options":  [
+                        "The meeting link has changed. I\u0027ll send the new one in a moment.",
+                        "The meeting time has changed. I won\u0027t send the new link.",
+                        "The meeting link is the same. Please don\u0027t use the old one.",
+                        "The meeting link is broken. I\u0027ll cancel the meeting soon."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer explicar que o aplicativo nao funciona no seu celular porque o sistema operacional esta desatualizado. O que voce diz?",
+        "correctAnswer":  "The app doesn\u0027t work on my phone because my operating system is outdated.",
+        "options":  [
+                        "The app doesn\u0027t work on my phone because my operating system is outdated.",
+                        "The app doesn\u0027t work on my phone because I have too many contacts.",
+                        "The app doesn\u0027t work on my phone because the screen is too big.",
+                        "The app doesn\u0027t work on my phone because the battery is full."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer dizer ao suporte que ja tentou reinstalar o programa tres vezes e o problema continua. O que voce diz?",
+        "correctAnswer":  "I already tried to reinstall the program three times but the problem continues.",
+        "options":  [
+                        "I already tried to reinstall the program three times but the problem continues.",
+                        "I never tried to reinstall the program but it\u0027s working fine now.",
+                        "I want to reinstall the program once and see if it helps.",
+                        "I reinstalled the program and now I have a different computer."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer dizer que nao consegue assistir ao video porque a conexao esta caindo o tempo todo. O que voce diz?",
+        "correctAnswer":  "I can\u0027t watch the video because my connection keeps dropping.",
+        "options":  [
+                        "I can\u0027t watch the video because my connection keeps dropping.",
+                        "I don\u0027t want to watch the video because it\u0027s too long.",
+                        "I watched the video but the sound was too loud.",
+                        "I found the video but I didn\u0027t like the connection."
+                    ],
+        "difficulty":  "hard"
+    }
+]

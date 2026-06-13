@@ -1,0 +1,522 @@
+[
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Na frase 'I have been shopping here ___ ten years', qual preposição completa corretamente a frase em inglês?",
+    "correctAnswer": "for",
+    "options": ["for", "since", "during", "while"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'She ___ the receipt before leaving the store.'",
+    "correctAnswer": "kept",
+    "options": ["kept", "keeped", "was keeping", "had keep"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é a forma correta para perguntar sobre o preço de um item em inglês? 'How much ___ this jacket?'",
+    "correctAnswer": "is",
+    "options": ["is", "are", "does", "has"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Na frase 'I would like to ___ a refund for this defective product', qual verbo completa corretamente?",
+    "correctAnswer": "request",
+    "options": ["request", "requests", "requesting", "requested"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Complete com o artigo correto: '___ customer is always right' é um provérbio comum no varejo.",
+    "correctAnswer": "The",
+    "options": ["The", "A", "An", "—"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Escolha a preposição correta: 'The store opens ___ 9 a.m. every day.'",
+    "correctAnswer": "at",
+    "options": ["at", "in", "on", "by"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Na frase 'They ___ out of stock on that item right now', qual verbo auxiliar é correto?",
+    "correctAnswer": "are",
+    "options": ["are", "is", "were", "be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual forma verbal está correta na frase: 'The cashier ___ me too much for the groceries'?",
+    "correctAnswer": "charged",
+    "options": ["charged", "charge", "charging", "charges"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'Do you accept ___ cards here?'",
+    "correctAnswer": "credit",
+    "options": ["credit", "crediting", "credited", "creditable"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual preposição completa corretamente: 'I paid ___ cash for the new laptop'?",
+    "correctAnswer": "in",
+    "options": ["in", "with", "by", "at"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Na frase sobre compras online: 'The package ___ delivered yesterday afternoon', qual auxiliar é correto?",
+    "correctAnswer": "was",
+    "options": ["was", "is", "has", "were"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Escolha a opção gramaticalmente correta: 'I need to ___ my loyalty card points before they expire.'",
+    "correctAnswer": "redeem",
+    "options": ["redeem", "redeems", "redeemed", "to redeem"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Complete com o pronome correto: '___ of these shoes fits me perfectly — I'll take both pairs.'",
+    "correctAnswer": "Neither",
+    "options": ["Neither", "None", "Both", "Each"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Na frase 'This store ___ a wide range of organic products', qual verbo está correto?",
+    "correctAnswer": "carries",
+    "options": ["carries", "carry", "is carrying", "carried"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é o plural correto de 'checkout' em contexto de supermercado? 'There are five ___ open today.'",
+    "correctAnswer": "checkouts",
+    "options": ["checkouts", "checkout's", "checkoutz", "checks-out"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Complete corretamente: 'She went ___ shopping at the new mall last weekend.'",
+    "correctAnswer": "window",
+    "options": ["window", "windows", "windowing", "windowed"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Na frase 'The sale items cannot ___ returned or exchanged', qual modal completa corretamente?",
+    "correctAnswer": "be",
+    "options": ["be", "been", "being", "to be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Ao descrever uma política de devolução, qual construção está gramaticalmente correta? 'Customers ___ return items within 30 days if they have the receipt.'",
+    "correctAnswer": "may",
+    "options": ["may", "might to", "can to", "should to"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual forma da voz passiva está correta? 'The discounts ___ already applied to your cart when you check out.'",
+    "correctAnswer": "will have been",
+    "options": ["will have been", "will be have", "will been", "are have been"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Complete com o phrasal verb correto: 'I need to ___ the price before I commit to buying it.'",
+    "correctAnswer": "look into",
+    "options": ["look into", "look up to", "look after", "look down at"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Na frase sobre hábitos de consumo, qual conectivo está correto? 'She buys organic produce ___ the higher cost.'",
+    "correctAnswer": "despite",
+    "options": ["despite", "although", "even though", "however"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual construção com gerúndio está correta? 'He regretted ___ so much money on unnecessary gadgets.'",
+    "correctAnswer": "having spent",
+    "options": ["having spent", "to have spent", "spending", "to spend"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase no subjuntivo correto: 'The manager insisted that the customer ___ a full refund.'",
+    "correctAnswer": "receive",
+    "options": ["receive", "receives", "received", "would receive"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Na frase comparativa sobre preços: 'The items in this boutique are ___ expensive than in the department store.'",
+    "correctAnswer": "considerably more",
+    "options": ["considerably more", "considerable more", "more considerably", "far most"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual forma do condicional está correta? 'If I ___ about the sale earlier, I would have bought more items.'",
+    "correctAnswer": "had known",
+    "options": ["had known", "have known", "knew", "would have known"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Complete com a preposição correta: 'She was charged ___ a service fee without prior notification.'",
+    "correctAnswer": "with",
+    "options": ["with", "for", "of", "by"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual advérbio modifica corretamente o adjetivo na frase: 'This product is ___ overpriced for what it offers'?",
+    "correctAnswer": "grossly",
+    "options": ["grossly", "highly grossly", "very grossly", "much grossly"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Na frase com reported speech: 'The salesperson told me that the warranty ___ two years.'",
+    "correctAnswer": "covered",
+    "options": ["covered", "covers", "had covered", "would cover"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é a construção correta com 'used to'? 'I ___ shopping at local markets, but now I prefer online stores.'",
+    "correctAnswer": "used to enjoy",
+    "options": ["used to enjoy", "use to enjoy", "used enjoy", "used to enjoying"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase de forma correta: 'The more you spend, ___ loyalty points you accumulate.'",
+    "correctAnswer": "the more",
+    "options": ["the more", "more", "the most", "so more"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual opção usa corretamente a estrutura 'wish'? 'I wish I ___ more carefully before impulse buying that expensive gadget.'",
+    "correctAnswer": "had thought",
+    "options": ["had thought", "thought", "have thought", "would think"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Na frase com quantificador: '___ the merchandise on display was damaged during the flood.'",
+    "correctAnswer": "Much of",
+    "options": ["Much of", "Many of", "A lot", "Most"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual forma passiva está correta na frase: 'The store ___ renovated over the past six months'?",
+    "correctAnswer": "has been",
+    "options": ["has been", "had been being", "is being had", "was been"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Complete com a opção gramaticalmente correta: '___ shoppers tend to be more impulsive when they are tired.'",
+    "correctAnswer": "Habitual",
+    "options": ["Habitual", "Habit", "Habitually", "Habituate"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Na frase sobre tendências de consumo: 'Consumers ___ become increasingly aware of sustainable purchasing practices over the last decade.'",
+    "correctAnswer": "have",
+    "options": ["have", "had", "are", "were"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual opção usa corretamente a estrutura de inversão enfática? '___ had I walked into the shop than I realized it was closing down.'",
+    "correctAnswer": "No sooner",
+    "options": ["No sooner", "Hardly ever", "Scarcely when", "Barely after"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Na frase com inversão negativa: '___ did the retailer disclose the hidden fees associated with the purchase.'",
+    "correctAnswer": "At no point",
+    "options": ["At no point", "In no point", "On no account did", "Never ever"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual construção de clivagem (cleft sentence) está gramaticalmente correta ao enfatizar o preço? '___ that deterred most shoppers from buying the luxury handbag.'",
+    "correctAnswer": "It was the exorbitant price",
+    "options": ["It was the exorbitant price", "It is the exorbitant price", "There was the exorbitant price", "That was the exorbitant price"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual uso do subjuntivo em oração concessiva está correto? '___ the price, she would not have compromised on quality.'",
+    "correctAnswer": "Whatever",
+    "options": ["Whatever", "However", "Wherever", "Whoever"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Na frase com particípio perfeito passivo: '___ of the price hike in advance, the consumers stockpiled goods before the announcement.'",
+    "correctAnswer": "Having been informed",
+    "options": ["Having been informed", "Being informed", "Having informed", "Informed having"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual construção com 'need' está gramaticalmente correta em registro formal? 'The contract terms ___ before the customer commits to the purchase.'",
+    "correctAnswer": "need clarifying",
+    "options": ["need clarifying", "needs to clarify", "need to be clarified", "need clarification being"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Ao usar inversão com 'only', qual opção está gramaticalmente correta? '___ did she realise she had been overcharged for the service.'",
+    "correctAnswer": "Only on checking her bank statement",
+    "options": ["Only on checking her bank statement", "Only when she checking her bank statement", "Only checking her bank statement", "Only after she had checked her bank statement did"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual forma do condicional misto está correta? 'If she ___ more frugal throughout her life, she would be wealthier now.'",
+    "correctAnswer": "had been",
+    "options": ["had been", "was", "were", "would have been"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Na frase com aposto e oração relativa: 'The boutique, ___ had been operating for over a century, was forced to close due to rising rents.'",
+    "correctAnswer": "which",
+    "options": ["which", "that", "whose", "where"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual uso de 'as' está correto na frase formal sobre comércio? 'The retailer, ___ a market leader, set the pricing benchmarks for the entire industry.'",
+    "correctAnswer": "acting as",
+    "options": ["acting as", "acted like", "acting like", "act as"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual construção enfática com 'do' está correta? 'I ___ find it unconscionable that luxury brands charge so much for items made cheaply abroad.'",
+    "correctAnswer": "do",
+    "options": ["do", "did do", "does", "really do"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual uso de 'lest' está correto nesta frase formal sobre consumo consciente? 'Consumers must scrutinise product labels ___ they inadvertently purchase goods made under exploitative conditions.'",
+    "correctAnswer": "lest",
+    "options": ["lest", "unless", "so that", "in order that"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual construção com 'were' subjuntivo está correta? '___ the company to go bankrupt, millions of loyal customers would lose their prepaid vouchers.'",
+    "correctAnswer": "Were",
+    "options": ["Were", "Was", "Would be", "Should"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Na oração adjetiva reduzida, qual opção está correta? 'The goods ___ on the lower shelf were heavily discounted due to minor cosmetic damage.'",
+    "correctAnswer": "displayed",
+    "options": ["displayed", "displaying", "that display", "being displayed on"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual opção usa corretamente a estrutura 'had + past participle' em contexto de arrependimento de compra? 'She ___ that impulsive purchase long before she received the credit card bill.'",
+    "correctAnswer": "had come to regret",
+    "options": ["had come to regret", "has come to regret", "came to regret", "had been regretting"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual construção de ênfase por inversão está correta neste contexto? '___ the launch of ethical consumption campaigns that consumer behaviour began to shift noticeably.'",
+    "correctAnswer": "It was only after",
+    "options": ["It was only after", "Only it was after", "Only was it after", "It only was after"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Na frase com dupla negação em inglês formal: 'There is ___ that fast fashion is a deeply unsustainable model of consumption.'",
+    "correctAnswer": "no denying",
+    "options": ["no denying", "not denying", "no denial", "not to deny"],
+    "difficulty": "hard"
+  }
+]

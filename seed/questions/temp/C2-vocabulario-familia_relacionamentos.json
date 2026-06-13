@@ -1,0 +1,512 @@
+[
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa o termo 'next of kin' em inglês?",
+    "correctAnswer": "Parente mais próximo",
+    "options": ["Parente mais próximo", "Cunhado", "Padrinho", "Sogro"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'sibling' em inglês?",
+    "correctAnswer": "Irmão ou irmã",
+    "options": ["Irmão ou irmã", "Primo ou prima", "Sobrinho ou sobrinha", "Neto ou neta"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'to raise a child' em inglês?",
+    "correctAnswer": "Criar uma criança",
+    "options": ["Criar uma criança", "Adotar uma criança", "Disciplinar uma criança", "Educar formalmente uma criança"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'spouse' em inglês?",
+    "correctAnswer": "Cônjuge",
+    "options": ["Cônjuge", "Noivo(a)", "Companheiro(a) de quarto", "Sócio(a)"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'mother-in-law' para o português?",
+    "correctAnswer": "Sogra",
+    "options": ["Sogra", "Madrasta", "Tia", "Avó"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'to get engaged' em inglês?",
+    "correctAnswer": "Ficar noivo(a)",
+    "options": ["Ficar noivo(a)", "Se casar", "Se divorciar", "Se separar"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'orphan' em inglês?",
+    "correctAnswer": "Órfão",
+    "options": ["Órfão", "Filho adotivo", "Criança abandonada", "Tutelado"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'godfather' para o português?",
+    "correctAnswer": "Padrinho",
+    "options": ["Padrinho", "Sogro", "Cunhado", "Enteado"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'to be related to someone' em inglês?",
+    "correctAnswer": "Ser parente de alguém",
+    "options": ["Ser parente de alguém", "Ser amigo de alguém", "Conhecer alguém", "Trabalhar com alguém"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'stepmother' em inglês?",
+    "correctAnswer": "Madrasta",
+    "options": ["Madrasta", "Sogra", "Tia", "Avó materna"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'niece' para o português?",
+    "correctAnswer": "Sobrinha",
+    "options": ["Sobrinha", "Neta", "Prima", "Afilhada"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'to break up' no contexto de relacionamentos em inglês?",
+    "correctAnswer": "Terminar um relacionamento",
+    "options": ["Terminar um relacionamento", "Pedir em casamento", "Reconciliar-se", "Discutir"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'guardian' no contexto familiar em inglês?",
+    "correctAnswer": "Tutor ou responsável legal",
+    "options": ["Tutor ou responsável legal", "Padrinho", "Pai adotivo", "Avô guardião"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'estranged' (ex.: 'estranged wife') para o português no contexto familiar?",
+    "correctAnswer": "Separado(a), com quem se perdeu o contato",
+    "options": ["Separado(a), com quem se perdeu o contato", "Divorciado(a) legalmente", "Recém-casado(a)", "Desaparecido(a)"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'breadwinner' em inglês no contexto familiar?",
+    "correctAnswer": "Provedor da família",
+    "options": ["Provedor da família", "Membro mais velho da família", "Patriarca", "Chefe de família por herança"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'to reconcile' em inglês no contexto de relacionamentos?",
+    "correctAnswer": "Reconciliar-se",
+    "options": ["Reconciliar-se", "Separar-se", "Casar-se novamente", "Perdoar unilateralmente"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'blended family' para o português?",
+    "correctAnswer": "Família reconstituída",
+    "options": ["Família reconstituída", "Família extensa", "Família adotiva", "Família monoparental"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'filial piety' em inglês no contexto de relações familiares?",
+    "correctAnswer": "Piedade filial; respeito e devoção dos filhos aos pais",
+    "options": ["Piedade filial; respeito e devoção dos filhos aos pais", "Herança familiar", "Obrigação legal entre cônjuges", "Laço sanguíneo entre irmãos"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'to be the black sheep of the family' em inglês?",
+    "correctAnswer": "Ser a ovelha negra da família",
+    "options": ["Ser a ovelha negra da família", "Ser o favorito da família", "Ser o mais velho da família", "Ser o único filho homem"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'consanguinity' em inglês no contexto de relações familiares?",
+    "correctAnswer": "Consanguinidade; laço de parentesco por sangue",
+    "options": ["Consanguinidade; laço de parentesco por sangue", "Afinidade por casamento", "Adoção legal", "Parentesco por apadrinhamento"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'to foster a child' em inglês?",
+    "correctAnswer": "Criar uma criança em família substituta temporária",
+    "options": ["Criar uma criança em família substituta temporária", "Adotar uma criança legalmente", "Tutelar uma criança judicialmente", "Apadrinhar uma criança"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'matriarch' em inglês?",
+    "correctAnswer": "Matriarca; mulher que chefia a família",
+    "options": ["Matriarca; mulher que chefia a família", "Patriarca feminino em sociedades antigas", "Avó materna", "Mulher mais velha de uma comunidade"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'surrogate mother' em inglês?",
+    "correctAnswer": "Mãe de substituição; mãe que gesta filho para outra pessoa",
+    "options": ["Mãe de substituição; mãe que gesta filho para outra pessoa", "Mãe adotiva", "Madrasta", "Mãe biológica que abandona o filho"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'to be on speaking terms' em inglês no contexto de relacionamentos?",
+    "correctAnswer": "Estar em termos de diálogo; manter contato mínimo após desentendimento",
+    "options": ["Estar em termos de diálogo; manter contato mínimo após desentendimento", "Estar em ótimo relacionamento", "Ter uma conversa formal", "Negociar os termos de um divórcio"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'primogeniture' em inglês?",
+    "correctAnswer": "Primogenitura; direito do filho mais velho à herança",
+    "options": ["Primogenitura; direito do filho mais velho à herança", "Direito igualitário de herança entre filhos", "Casamento entre primos", "Adoção de herdeiro"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'dysfunctional family' em inglês?",
+    "correctAnswer": "Família disfuncional; com padrões de comportamento prejudiciais",
+    "options": ["Família disfuncional; com padrões de comportamento prejudiciais", "Família numerosa com muitos conflitos", "Família separada por divórcio", "Família sem pai presente"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'to be estranged from one's family' em inglês?",
+    "correctAnswer": "Estar afastado da família, sem contato",
+    "options": ["Estar afastado da família, sem contato", "Estar em conflito aberto com a família", "Morar longe da família", "Ser expulso da família"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'kinsfolk' em inglês?",
+    "correctAnswer": "Parentes; membros da mesma família ou clã",
+    "options": ["Parentes; membros da mesma família ou clã", "Vizinhos próximos", "Amigos íntimos considerados família", "Ancestrais distantes"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'alimony' em inglês?",
+    "correctAnswer": "Pensão alimentícia paga ao ex-cônjuge após divórcio",
+    "options": ["Pensão alimentícia paga ao ex-cônjuge após divórcio", "Pensão paga aos filhos após divórcio", "Herança recebida após morte do cônjuge", "Contrato pré-nupcial"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'to coddle' em inglês no contexto de criação de filhos?",
+    "correctAnswer": "Mimar excessivamente; superproteger",
+    "options": ["Mimar excessivamente; superproteger", "Disciplinar com rigor", "Incentivar a independência", "Negligenciar"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'genealogy' em inglês?",
+    "correctAnswer": "Genealogia; estudo da linhagem e história familiar",
+    "options": ["Genealogia; estudo da linhagem e história familiar", "Biologia hereditária", "Registro civil de nascimentos", "Estudo do comportamento familiar"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'to elope' em inglês?",
+    "correctAnswer": "Fugir para casar sem o consentimento ou conhecimento da família",
+    "options": ["Fugir para casar sem o consentimento ou conhecimento da família", "Casar-se em cerimônia íntima", "Pedir em casamento de forma surpresa", "Renovar votos matrimoniais"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'nepotism' em inglês?",
+    "correctAnswer": "Nepotismo; favoritismo a parentes em detrimento de outros",
+    "options": ["Nepotismo; favoritismo a parentes em detrimento de outros", "Herança distribuída entre sobrinhos", "Proteção legal dos direitos dos filhos", "Conflito entre irmãos por herança"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'to be a doting parent' em inglês?",
+    "correctAnswer": "Ser um pai/mãe extremamente amoroso e indulgente",
+    "options": ["Ser um pai/mãe extremamente amoroso e indulgente", "Ser um pai/mãe ausente", "Ser um pai/mãe muito rigoroso", "Ser um pai/mãe que trabalha em excesso"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'cohabitation' em inglês?",
+    "correctAnswer": "Coabitação; viver junto sem casamento formal",
+    "options": ["Coabitação; viver junto sem casamento formal", "Casamento civil", "Separação de corpos", "União estável reconhecida legalmente"],
+    "difficulty": "medium"
+  },
+    {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'agnatic descent' em inglês no contexto de genealogia familiar?",
+    "correctAnswer": "Descendência pela linha paterna exclusivamente",
+    "options": ["Descendência pela linha paterna exclusivamente", "Descendência mista entre linhagens paterna e materna", "Descendência pela linha materna exclusivamente", "Herança dividida igualmente entre filhos"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'collateral relatives' em inglês?",
+    "correctAnswer": "Parentes colaterais; como irmãos, tios e primos, em oposição aos lineais",
+    "options": ["Parentes colaterais; como irmãos, tios e primos, em oposição aos lineais", "Parentes por afinidade, como cunhados e sogros", "Parentes adotivos sem laço sanguíneo", "Parentes distantes por via materna"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'consanguineous marriage' em inglês?",
+    "correctAnswer": "Casamento entre parentes consanguíneos, como primos",
+    "options": ["Casamento entre parentes consanguíneos, como primos", "Casamento entre pessoas de religiões diferentes", "Casamento reconhecido apenas pela família, sem registro legal", "Casamento arranjado por terceiros"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'to disinherit' em inglês?",
+    "correctAnswer": "Deserdar; excluir alguém da herança",
+    "options": ["Deserdar; excluir alguém da herança", "Reivindicar herança judicialmente", "Redistribuir herança entre filhos", "Deixar herança para instituições de caridade"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'levirate marriage' em inglês?",
+    "correctAnswer": "Casamento levirato; prática em que um homem casa com a viúva do irmão falecido",
+    "options": ["Casamento levirato; prática em que um homem casa com a viúva do irmão falecido", "Casamento poligâmico entre irmãos e uma mesma mulher", "Casamento arranjado entre primos de primeiro grau", "Casamento celebrado por autoridade religiosa de família"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'endogamy' em inglês?",
+    "correctAnswer": "Endogamia; prática de casar dentro do mesmo grupo social ou familiar",
+    "options": ["Endogamia; prática de casar dentro do mesmo grupo social ou familiar", "Exogamia; prática de casar fora do grupo", "Poligamia praticada em grupos fechados", "Celibato religioso dentro de uma ordem familiar"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'avunculate' em inglês no contexto de antropologia familiar?",
+    "correctAnswer": "Relação especial de autoridade ou afeto entre tio materno e sobrinho",
+    "options": ["Relação especial de autoridade ou afeto entre tio materno e sobrinho", "Sistema de herança passado de avô para neto", "Ritual de passagem de filho para a casa dos avós", "Prática de nomear o tio como guardião legal"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'intestate' em inglês no contexto de herança familiar?",
+    "correctAnswer": "Sem testamento; referente a quem morre sem deixar testamento",
+    "options": ["Sem testamento; referente a quem morre sem deixar testamento", "Com testamento inválido ou contestado", "Herdeiro excluído do testamento", "Processo de partilha de bens após divórcio"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'to sever ties' em inglês no contexto familiar?",
+    "correctAnswer": "Cortar laços; romper definitivamente relações familiares",
+    "options": ["Cortar laços; romper definitivamente relações familiares", "Fortalecer os vínculos familiares", "Reduzir o contato gradualmente com a família", "Resolver conflitos familiares por mediação"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'patrilineal' em inglês no contexto de genealogia?",
+    "correctAnswer": "Patrilinear; relativo à descendência ou herança pela linha paterna",
+    "options": ["Patrilinear; relativo à descendência ou herança pela linha paterna", "Matrilinear; relativo à linha materna", "Bilateral; descendência reconhecida por ambos os lados", "Referente à autoridade do pai na família nuclear"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'to be at loggerheads with one's kin' em inglês?",
+    "correctAnswer": "Estar em conflito aberto e persistente com os parentes",
+    "options": ["Estar em conflito aberto e persistente com os parentes", "Estar em processo de reconciliação familiar", "Manter distância prudente dos parentes", "Disputar herança nos tribunais"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'morganatic marriage' em inglês?",
+    "correctAnswer": "Casamento morganatico; entre pessoa de nobreza e cônjuge de classe inferior, sem transmissão de títulos",
+    "options": ["Casamento morganatico; entre pessoa de nobreza e cônjuge de classe inferior, sem transmissão de títulos", "Casamento secreto não reconhecido pela família", "Casamento entre viúvos com filhos de uniões anteriores", "Casamento civil sem cerimônia religiosa"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'fictive kinship' em inglês?",
+    "correctAnswer": "Parentesco fictício; laços de família criados socialmente, não por sangue ou casamento",
+    "options": ["Parentesco fictício; laços de família criados socialmente, não por sangue ou casamento", "Parentesco negado por questões legais", "Família inventada para fins jurídicos", "Relação de amizade intensa chamada de irmandade"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'to be a scion of a family' em inglês?",
+    "correctAnswer": "Ser um descendente ou herdeiro de uma família ilustre",
+    "options": ["Ser um descendente ou herdeiro de uma família ilustre", "Ser o fundador de uma dinastia familiar", "Ser o membro mais velho de uma linhagem", "Ser responsável pelo patrimônio familiar"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'atavism' em inglês no contexto de traços familiares?",
+    "correctAnswer": "Atavismo; reaparecimento de características de ancestrais remotos",
+    "options": ["Atavismo; reaparecimento de características de ancestrais remotos", "Transmissão direta de traços dos pais para os filhos", "Mutação genética sem precedente familiar", "Semelhança física entre irmãos gêmeos"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'to be embroiled in a family feud' em inglês?",
+    "correctAnswer": "Estar envolvido em uma briga ou rivalidade familiar prolongada",
+    "options": ["Estar envolvido em uma briga ou rivalidade familiar prolongada", "Participar de uma disputa judicial sobre herança", "Estar preso em obrigações familiares excessivas", "Mediar conflitos entre membros da família"],
+    "difficulty": "hard"
+  }
+]

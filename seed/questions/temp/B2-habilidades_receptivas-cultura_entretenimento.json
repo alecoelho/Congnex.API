@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "O filme foi um sucesso nas bilheterias.",
+        "correctAnswer":  "The film was a box office hit.",
+        "options":  [
+                        "The film was a success in box offices.",
+                        "The film was a hit in the box office.",
+                        "The film was a box office hit.",
+                        "The film had success at the office boxes."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "Ela é uma atriz talentosa.",
+        "correctAnswer":  "She is a talented actress.",
+        "options":  [
+                        "She is a talented actor.",
+                        "She is a talent actress.",
+                        "She is an actress with talent.",
+                        "She is a talented acting."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "A peça de teatro emocionou o público.",
+        "correctAnswer":  "The play moved the audience.",
+        "options":  [
+                        "The play emoted the audience.",
+                        "The play was moved by the audience.",
+                        "The audience was moved to the play.",
+                        "The play touched the audience feelings."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "O concerto foi transmitido ao vivo.",
+        "correctAnswer":  "The concert was broadcast live.",
+        "options":  [
+                        "The concert was live transmitted.",
+                        "The concert was broadcasted live.",
+                        "The concert was living broadcast.",
+                        "The concert transmitted alive."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "O museu exibe obras de arte clássicas.",
+        "correctAnswer":  "The museum displays classical artworks.",
+        "options":  [
+                        "The museum shows classical works of art.",
+                        "The museum exhibits classical art works.",
+                        "The museum displays classical artworks.",
+                        "The museum is displaying classic art works."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "A dança é uma forma de expressão artística.",
+        "correctAnswer":  "Dance is a form of artistic expression.",
+        "options":  [
+                        "Dance is a form for artistic expressing.",
+                        "Dance is one form of artistic expression.",
+                        "Dance is a form of expression artistic.",
+                        "The dance is an artistic expression form."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "O livro se tornou um best-seller.",
+        "correctAnswer":  "The book became a bestseller.",
+        "options":  [
+                        "The book became best-seller.",
+                        "The book turned into a bestseller.",
+                        "The book has became a bestseller.",
+                        "The book converted to bestseller."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "A série de TV ganhou vários prêmios.",
+        "correctAnswer":  "The TV series won several awards.",
+        "options":  [
+                        "The TV series has won several prizes.",
+                        "The TV series won multiple prizes.",
+                        "The series of television won several awards.",
+                        "The TV show earned many awards."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "O diretor dirigiu a cena de forma criativa.",
+        "correctAnswer":  "The director staged the scene creatively.",
+        "options":  [
+                        "The director directed the scene in a creative way.",
+                        "The director directed creatively the scene.",
+                        "The director staged creatively the scene.",
+                        "The director made the scene creative."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "A exposição é dedicada à arte moderna.",
+        "correctAnswer":  "The exhibition is dedicated to modern art.",
+        "options":  [
+                        "The exhibition is dedicated in modern art.",
+                        "The exhibition dedicates to modern art.",
+                        "The exhibition was dedicated to modern art.",
+                        "The exhibition is about modern art dedicated."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "A música clássica continua sendo popular.",
+        "correctAnswer":  "Classical music continues to be popular.",
+        "options":  [
+                        "Classical music continues being popular.",
+                        "Classical music keeps being popular.",
+                        "The classical music continues popular.",
+                        "Classical music is still popular continuing."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "O ator interpretou o personagem com excelência.",
+        "correctAnswer":  "The actor played the character excellently.",
+        "options":  [
+                        "The actor interpreted the character with excellence.",
+                        "The actor performed the role excellently.",
+                        "The actor played excellently the character.",
+                        "The actor enacted the character with excellence."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "A pintura retrata a vida no século XIX.",
+        "correctAnswer":  "The painting depicts life in the nineteenth century.",
+        "options":  [
+                        "The painting portrays the life in the nineteenth century.",
+                        "The painting shows the life of the nineteenth century.",
+                        "The painting depicts life in the 19th century.",
+                        "The painting illustrates the nineteenth century life."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "O documentário aborda temas sociais importantes.",
+        "correctAnswer":  "The documentary addresses important social issues.",
+        "options":  [
+                        "The documentary discusses important social themes.",
+                        "The documentary touches on important social matters.",
+                        "The documentary deals with important social subjects.",
+                        "The documentary addresses important social issues."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "A produção teatral foi cuidadosamente planejada.",
+        "correctAnswer":  "The theatrical production was carefully planned.",
+        "options":  [
+                        "The theater production was carefully planned.",
+                        "The theatrical production was planned carefully.",
+                        "The production of theater was carefully planned.",
+                        "The theatrical production was meticulously planned."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "O poeta escreveu versos que tocaram os corações.",
+        "correctAnswer":  "The poet wrote verses that touched people\u0027s hearts.",
+        "options":  [
+                        "The poet wrote verses that touched the hearts.",
+                        "The poet wrote poetry lines that touched hearts.",
+                        "The poet composed verses that moved hearts.",
+                        "The poet created verses touching the hearts."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "A sátira é usada para criticar a sociedade com humor.",
+        "difficulty":  "easy",
+        "options":  [
+                        "Satire is used to criticize the society with humor.",
+                        "Satire uses humor to make fun of society.",
+                        "Satire is for criticizing society humorous.",
+                        "Satire is used to criticize society with humor."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Satire is used to criticize society with humor."
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "A inovação tem transformado a indústria do cinema.",
+        "correctAnswer":  "Innovation has transformed the film industry.",
+        "options":  [
+                        "Innovation has been transforming the cinema industry.",
+                        "The innovation has transformed movie industry.",
+                        "Innovation is transforming the film industry.",
+                        "Innovation has changed the industry of cinema."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "A herança cultural deve ser preservada pelas gerações futuras.",
+        "correctAnswer":  "Cultural heritage should be preserved by future generations.",
+        "options":  [
+                        "The cultural heritage must be preserved by the next generations.",
+                        "Cultural heritage ought to be preserved by future generations.",
+                        "Cultural legacy should be preserved for future generations.",
+                        "Cultural heritage should be preserved by future generations."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "O crítico literário analisou profundamente a obra.",
+        "correctAnswer":  "The literary critic analyzed the work deeply.",
+        "options":  [
+                        "The literature critic deeply analyzed the work.",
+                        "The literary critic made a deep analysis of the work.",
+                        "The critic of literature analyzed profoundly the work.",
+                        "The literary critic analyzed the work in depth."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "A fotografia capta o espírito da época.",
+        "correctAnswer":  "The photograph captures the spirit of the era.",
+        "options":  [
+                        "Photography captures the spirit of that time.",
+                        "The photo captures the spirits of the age.",
+                        "The photograph captures the atmosphere of the period.",
+                        "Photography captures the feeling of the era."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "A trilha sonora complementa perfeitamente a narrativa.",
+        "correctAnswer":  "The soundtrack perfectly complements the narrative.",
+        "options":  [
+                        "The soundtrack complements perfectly the story.",
+                        "The music track complements the narrative perfectly.",
+                        "The soundtrack accompanies perfectly the narrative.",
+                        "The score complements the narrative perfectly."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "Os atores ensaiaram extensivamente antes da estreia.",
+        "correctAnswer":  "The actors rehearsed extensively before the premiere.",
+        "options":  [
+                        "The actors practiced extensively before premiere.",
+                        "The actors rehearsed thoroughly before the debut.",
+                        "The cast rehearsed extensively before the opening.",
+                        "The actors rehearsed extensively before the premiere."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "A animação utiliza técnicas de computador avançadas.",
+        "correctAnswer":  "The animation uses advanced computer techniques.",
+        "options":  [
+                        "The animation uses advanced techniques of computer.",
+                        "Animation employs advanced computing methods.",
+                        "The animated film uses advanced computer techniques.",
+                        "The animation applies advanced digital techniques."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "O poeta expressava emoções através de suas metáforas.",
+        "correctAnswer":  "The poet expressed emotions through his metaphors.",
+        "options":  [
+                        "The poet expressed feelings by his metaphors.",
+                        "The poet communicated emotions via metaphors.",
+                        "The poet expressed his emotions through metaphors.",
+                        "The poet conveyed emotions by means of metaphors."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "A dança folclórica representa a identidade cultural do povo.",
+        "correctAnswer":  "Folklore dance represents the cultural identity of the people.",
+        "options":  [
+                        "Folk dancing represents people\u0027s cultural identity.",
+                        "Folkloristic dance represents the culture of people.",
+                        "The folk dance represents the cultural identity of the nation.",
+                        "Folklore dance represents the cultural identity of the people."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "A escultura revela a destreza técnica do artista.",
+        "correctAnswer":  "The sculpture reveals the artist\u0027s technical skill.",
+        "options":  [
+                        "The sculpture shows the technical skill of the artist.",
+                        "The sculpture displays the artist\u0027s technical mastery.",
+                        "Sculpture reveals the artist\u0027s technical abilities.",
+                        "The sculpture reveals the technical skill of artist."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "O roteirista criou personagens complexos e memoráveis.",
+        "correctAnswer":  "The screenwriter created complex and memorable characters.",
+        "options":  [
+                        "The script writer created complicated and memorable characters.",
+                        "The screenwriter developed complex and unforgettable characters.",
+                        "The writer of scripts created complex memorable characters.",
+                        "The screenwriter crafted complex and memorable characters."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "A composição musical desafia as convenções tradicionais.",
+        "correctAnswer":  "The musical composition challenges traditional conventions.",
+        "options":  [
+                        "The music composition challenges the traditional conventions.",
+                        "The musical composition defies traditional rules.",
+                        "The musical composition challenges conventions of tradition.",
+                        "The composition defies traditional musical conventions."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "A interpretação do ator foi aclamada pela crítica.",
+        "correctAnswer":  "The actor\u0027s performance was acclaimed by critics.",
+        "options":  [
+                        "The performance of the actor was praised by critics.",
+                        "The acting of the actor was acclaimed by critics.",
+                        "The actor\u0027s acting was acclaimed by the critics.",
+                        "The interpretation by the actor was acclaimed by critics."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "O cinema de arte explora temas complexos através de narrativas experimentais.",
+        "difficulty":  "medium",
+        "options":  [
+                        "The cinema of art explores complex subjects through experimental stories.",
+                        "Art film explores complicated themes by experimental narratives.",
+                        "Cinema art explores complex themes via experimental narrative.",
+                        "Art cinema explores complex themes through experimental narratives."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Art cinema explores complex themes through experimental narratives."
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "O gênero literário evoluiu significativamente ao longo dos séculos.",
+        "correctAnswer":  "The literary genre has evolved significantly over the centuries.",
+        "options":  [
+                        "The literature genre evolved significantly throughout centuries.",
+                        "Literary genre has changed significantly during centuries.",
+                        "The genre of literature has significantly evolved over centuries.",
+                        "The literary genre has evolved significantly over the centuries."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "A adaptação cinematográfica manteve a essência do livro original.",
+        "correctAnswer":  "The film adaptation retained the essence of the original book.",
+        "options":  [
+                        "The cinematographic adaptation kept the essence of the original book.",
+                        "The cinematic version maintained the essence of the original novel.",
+                        "The film adaptation preserved the core of the original work.",
+                        "The screen adaptation retained the essence of the original book."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "A perspectiva do pintor refletia as inquietações sociais da época.",
+        "correctAnswer":  "The painter\u0027s perspective reflected the social anxieties of the time.",
+        "options":  [
+                        "The perspective of the painter reflected social concerns of the era.",
+                        "The painter\u0027s viewpoint mirrored the social troubles of the period.",
+                        "The painter\u0027s outlook reflected the period\u0027s social anxieties.",
+                        "The painter\u0027s perspective reflected the social anxieties of that era."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "O dramaturgo utiliza símbolos para comentar criticamente a política.",
+        "correctAnswer":  "The playwright uses symbols to comment critically on politics.",
+        "options":  [
+                        "The dramatist uses symbols to make critical comments on politics.",
+                        "The playwright employs symbols for critical commentary of politics.",
+                        "The playwright uses symbolism to criticize the political system.",
+                        "The playwright uses symbols to critically comment on politics."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "A influência cultural é transmitida através de narrativas artísticas.",
+        "correctAnswer":  "Cultural influence is transmitted through artistic narratives.",
+        "options":  [
+                        "Cultural influence is passed on through artistic stories.",
+                        "Cultural impact is conveyed by means of artistic narratives.",
+                        "The cultural influence is transmitted via artistic narratives.",
+                        "Cultural influence is passed down through artistic narratives."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "O documentarista questiona as narrativas convencionais da história.",
+        "correctAnswer":  "The documentarian questions the conventional narratives of history.",
+        "options":  [
+                        "The documentary filmmaker challenges the traditional stories of history.",
+                        "The documentalist questions conventional historical narratives.",
+                        "The documentary creator interrogates history\u0027s conventional narratives.",
+                        "The documentarian questions the conventional narratives of history."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "A estética modernista revolucionou os padrões artísticos estabelecidos.",
+        "correctAnswer":  "Modernist aesthetics revolutionized established artistic standards.",
+        "options":  [
+                        "Modernist aesthetics revolutionized the established artistic patterns.",
+                        "The modernist aesthetic revolutionized set artistic standards.",
+                        "Modern aesthetics transformed the established standards of art.",
+                        "Modernist aesthetics revolutionized established artistic standards."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "A interdisciplinaridade enriquece a experiência artística contemporânea.",
+        "correctAnswer":  "Interdisciplinarity enriches contemporary artistic experience.",
+        "options":  [
+                        "Interdisciplinary approaches enrich contemporary art experience.",
+                        "Interdisciplinarity enhances the experience of modern art.",
+                        "Cross-disciplinary work enriches contemporary artistic experience.",
+                        "Interdisciplinarity enriches contemporary artistic experience."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "O cineasta utiliza planos estratégicos para construir significado visual.",
+        "correctAnswer":  "The filmmaker uses strategic shots to construct visual meaning.",
+        "options":  [
+                        "The film director uses strategic frames to build visual meaning.",
+                        "The cinematographer uses strategic camera angles for visual meaning.",
+                        "The filmmaker employs strategic shots to create visual significance.",
+                        "The filmmaker uses strategic shots to construct visual meaning."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "A crítica cultural examina as implicações ideológicas da produção artística.",
+        "correctAnswer":  "Cultural criticism examines the ideological implications of artistic production.",
+        "options":  [
+                        "Cultural critique looks at the ideological consequences of art production.",
+                        "The cultural critique examines ideological implications of artistic works.",
+                        "Cultural criticism investigates the ideological meanings in art.",
+                        "Cultural criticism examines the ideological implications of artistic production."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "A instituição cultural promove a democratização do acesso artístico.",
+        "correctAnswer":  "The cultural institution promotes the democratization of artistic access.",
+        "options":  [
+                        "The cultural organization promotes democratization of access to art.",
+                        "The cultural body promotes the democratization of art access.",
+                        "Cultural institutions promote democratic access to artistic works.",
+                        "The cultural institution promotes the democratization of artistic access."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "O fenômeno cultural transcende as fronteiras nacionais e linguísticas.",
+        "correctAnswer":  "The cultural phenomenon transcends national and linguistic boundaries.",
+        "options":  [
+                        "The cultural phenomenon crosses over national and language frontiers.",
+                        "Cultural phenomena surpass national and linguistic borders.",
+                        "The cultural phenomenon goes beyond national and linguistic boundaries.",
+                        "The cultural phenomenon transcends national and linguistic boundaries."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "A autenticidade na expressão artística requer vulnerabilidade do criador.",
+        "correctAnswer":  "Authenticity in artistic expression requires the creator\u0027s vulnerability.",
+        "options":  [
+                        "The authenticity in artistic creation demands the artist\u0027s vulnerability.",
+                        "Authentic artistic expression requires the vulnerability of the artist.",
+                        "Authenticity in art requires vulnerability from the creator.",
+                        "Authenticity in artistic expression requires the creator\u0027s vulnerability."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "O diálogo intertextual permite múltiplas camadas de interpretação.",
+        "correctAnswer":  "Intertextual dialogue allows multiple layers of interpretation.",
+        "options":  [
+                        "The intertextual dialogue permits multiple levels of interpretation.",
+                        "Intertextual conversation enables different layers of meaning.",
+                        "Intertextual exchange allows for multiple interpretative layers.",
+                        "Intertextual dialogue allows multiple layers of interpretation."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "A narrativa fragmentada reflete a complexidade da experiência moderna.",
+        "correctAnswer":  "The fragmented narrative reflects the complexity of modern experience.",
+        "options":  [
+                        "The fragmented story reflects the complexity of contemporary life.",
+                        "The broken narrative reflects modern experience complexity.",
+                        "The fragmented narration reflects the complexity of modern living.",
+                        "The fragmented narrative reflects the complexity of modern experience."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "A arte contemporânea desafia os pressupostos estéticos convencionais.",
+        "correctAnswer":  "Contemporary art challenges conventional aesthetic assumptions.",
+        "options":  [
+                        "Modern art questions traditional aesthetic beliefs.",
+                        "Contemporary art defies conventional aesthetic conventions.",
+                        "Today\u0027s art challenges the conventional aesthetic suppositions.",
+                        "Contemporary art challenges conventional aesthetic assumptions."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "O patrimônio imaterial deve ser reconhecido e valorizado como expressão cultural.",
+        "correctAnswer":  "Intangible heritage should be recognized and valued as cultural expression.",
+        "options":  [
+                        "Immaterial heritage must be acknowledged and appreciated as cultural expression.",
+                        "Non-tangible cultural property ought to be recognized as cultural expression.",
+                        "The intangible cultural heritage should be recognized and valued culturally.",
+                        "Intangible heritage should be recognized and valued as cultural expression."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "A preservação de tradições orais é essencial para manter a memória coletiva.",
+        "difficulty":  "medium",
+        "options":  [
+                        "Preservation of oral traditions is crucial to maintain collective memory.",
+                        "The preservation of oral traditions is vital for keeping collective memory.",
+                        "Preserving oral traditions is essential to the collective memory.",
+                        "The preservation of oral traditions is essential for maintaining collective memory."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "The preservation of oral traditions is essential for maintaining collective memory."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "translation",
+        "questionText":  "A metanarrativa contemporânea questiona a possibilidade de uma verdade universal.",
+        "difficulty":  "medium",
+        "options":  [
+                        "The contemporary metanarrative challenges the possibility of a universal truth.",
+                        "Modern metanarrative interrogates whether universal truth is possible.",
+                        "Contemporary metanarrative questions universal truth\u0027s possibility.",
+                        "Contemporary metanarrative questions the possibility of universal truth."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Contemporary metanarrative questions the possibility of universal truth."
+    }
+]

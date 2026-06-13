@@ -1,0 +1,512 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer 'Eu tenho um passaporte.' em inglês. Qual é a forma correta?",
+    "correctAnswer": "I have a passport.",
+    "options": ["I have a passport.", "I has a passport.", "I am a passport.", "I having a passport."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar 'Onde fica o hotel?' em inglês. Qual é a forma correta?",
+    "correctAnswer": "Where is the hotel?",
+    "options": ["Where is the hotel?", "Where are the hotel?", "Where be the hotel?", "Where has the hotel?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The airport ___ very big.'",
+    "correctAnswer": "is",
+    "options": ["is", "are", "am", "be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer 'Nós estamos no aeroporto.' em inglês. Qual é a forma correta?",
+    "correctAnswer": "We are at the airport.",
+    "options": ["We are at the airport.", "We is at the airport.", "We am at the airport.", "We be at the airport."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'I ___ a tourist.'",
+    "correctAnswer": "am",
+    "options": ["am", "is", "are", "be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer 'Eles têm as malas.' em inglês. Qual é a forma correta?",
+    "correctAnswer": "They have the bags.",
+    "options": ["They have the bags.", "They has the bags.", "They having the bags.", "They are have the bags."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The tickets ___ on the table.'",
+    "correctAnswer": "are",
+    "options": ["are", "is", "am", "was"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer 'Ela tem uma mala.' em inglês. Qual é a forma correta?",
+    "correctAnswer": "She has a bag.",
+    "options": ["She has a bag.", "She have a bag.", "She having a bag.", "She is have a bag."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'My passport ___ in my bag.'",
+    "correctAnswer": "is",
+    "options": ["is", "are", "am", "have"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer 'Ele é um guia turístico.' em inglês. Qual é a forma correta?",
+    "correctAnswer": "He is a tour guide.",
+    "options": ["He is a tour guide.", "He are a tour guide.", "He am a tour guide.", "He has a tour guide."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'I ___ from Brazil.'",
+    "correctAnswer": "am",
+    "options": ["am", "is", "are", "be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer 'O voo está atrasado.' em inglês. Qual é a forma correta?",
+    "correctAnswer": "The flight is late.",
+    "options": ["The flight is late.", "The flight are late.", "The flight am late.", "The flight be late."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'We ___ two rooms at the hotel.'",
+    "correctAnswer": "have",
+    "options": ["have", "has", "is", "are"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer 'Os turistas estão no museu.' em inglês. Qual é a forma correta?",
+    "correctAnswer": "The tourists are in the museum.",
+    "options": ["The tourists are in the museum.", "The tourists is in the museum.", "The tourists am in the museum.", "The tourists have in the museum."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'My sister ___ a map of the city.'",
+    "correctAnswer": "has",
+    "options": ["has", "have", "is", "are"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer 'Nós somos brasileiros.' em inglês. Qual é a forma correta?",
+    "correctAnswer": "We are Brazilian.",
+    "options": ["We are Brazilian.", "We is Brazilian.", "We am Brazilian.", "We be Brazilian."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The hotel ___ near the beach.'",
+    "correctAnswer": "is",
+    "options": ["is", "are", "am", "be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar 'Você tem um mapa?' em inglês. Qual é a forma correta?",
+    "correctAnswer": "Do you have a map?",
+    "options": ["Do you have a map?", "Does you have a map?", "Are you have a map?", "Have you a map?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'She ___ to the airport by taxi.'",
+    "correctAnswer": "goes",
+    "options": ["goes", "go", "going", "is go"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer 'Eu gosto de viajar.' em inglês. Qual é a forma correta?",
+    "correctAnswer": "I like to travel.",
+    "options": ["I like to travel.", "I likes to travel.", "I liking to travel.", "I am like to travel."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The train ___ at 9 o'clock.'",
+    "correctAnswer": "leaves",
+    "options": ["leaves", "leave", "is leave", "leaving"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar 'O hotel fica perto daqui?' em inglês. Qual é a forma correta?",
+    "correctAnswer": "Is the hotel near here?",
+    "options": ["Is the hotel near here?", "Are the hotel near here?", "Does the hotel near here?", "The hotel is near here?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'We ___ to the beach every summer.'",
+    "correctAnswer": "go",
+    "options": ["go", "goes", "going", "are go"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer 'Ele mora em um hotel.' em inglês. Qual é a forma correta?",
+    "correctAnswer": "He lives in a hotel.",
+    "options": ["He lives in a hotel.", "He live in a hotel.", "He living in a hotel.", "He is live in a hotel."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase com a preposição correta: 'The bus stop is ___ the corner.'",
+    "correctAnswer": "on",
+    "options": ["on", "in", "at", "to"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar 'Quando o avião chega?' em inglês. Qual é a forma correta?",
+    "correctAnswer": "When does the plane arrive?",
+    "options": ["When does the plane arrive?", "When the plane arrives?", "When is the plane arrive?", "When do the plane arrive?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase com a preposição correta: 'I stay ___ a hotel.'",
+    "correctAnswer": "at",
+    "options": ["at", "in", "on", "to"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer 'Eles viajam de avião.' em inglês. Qual é a forma correta?",
+    "correctAnswer": "They travel by plane.",
+    "options": ["They travel by plane.", "They travel on plane.", "They travel in plane.", "They travel with plane."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'My brother ___ a lot when he is on vacation.'",
+    "correctAnswer": "walks",
+    "options": ["walks", "walk", "walking", "is walks"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar 'Qual é o número do seu voo?' em inglês. Qual é a forma correta?",
+    "correctAnswer": "What is your flight number?",
+    "options": ["What is your flight number?", "What are your flight number?", "Which is your flight number?", "What your flight number is?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase com a preposição correta: 'The plane arrives ___ London.'",
+    "correctAnswer": "in",
+    "options": ["in", "at", "on", "to"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer 'Nós chegamos ao hotel de carro.' em inglês. Qual é a forma correta?",
+    "correctAnswer": "We arrive at the hotel by car.",
+    "options": ["We arrive at the hotel by car.", "We arrive to the hotel by car.", "We arrive in the hotel by car.", "We arrive on the hotel by car."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'She ___ photos at the museum every day.'",
+    "correctAnswer": "takes",
+    "options": ["takes", "take", "taking", "is takes"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar 'Você fala inglês?' em inglês. Qual é a forma correta?",
+    "correctAnswer": "Do you speak English?",
+    "options": ["Do you speak English?", "Are you speak English?", "Does you speak English?", "You speak English?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase com o artigo correto: 'I need ___ visa to travel.'",
+    "correctAnswer": "a",
+    "options": ["a", "an", "the", "some"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer 'Eu não entendo o guia.' em inglês. Qual é a forma correta?",
+    "correctAnswer": "I don't understand the guide.",
+    "options": ["I don't understand the guide.", "I not understand the guide.", "I doesn't understand the guide.", "I am not understand the guide."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'There ___ a restaurant near the hotel.'",
+    "correctAnswer": "is",
+    "options": ["is", "are", "have", "has"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar 'Há um banco perto daqui?' em inglês. Qual é a forma correta?",
+    "correctAnswer": "Is there a bank near here?",
+    "options": ["Is there a bank near here?", "Are there a bank near here?", "There is a bank near here?", "Does there a bank near here?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'There ___ many tourists in the city.'",
+    "correctAnswer": "are",
+    "options": ["are", "is", "have", "has"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer 'Ela não gosta de aviões.' em inglês. Qual é a forma correta?",
+    "correctAnswer": "She doesn't like planes.",
+    "options": ["She doesn't like planes.", "She don't like planes.", "She not like planes.", "She isn't like planes."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'How ___ does a taxi to the airport cost?'",
+    "correctAnswer": "much",
+    "options": ["much", "many", "long", "often"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar 'Quantas malas você tem?' em inglês. Qual é a forma correta?",
+    "correctAnswer": "How many bags do you have?",
+    "options": ["How many bags do you have?", "How much bags do you have?", "How many bags are you have?", "How many bags you have?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase com o pronome possessivo correto: '___ passport is in my bag.' (falando sobre o passaporte dele)",
+    "correctAnswer": "His",
+    "options": ["His", "Her", "Their", "Its"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer 'Nós não falamos francês.' em inglês. Qual é a forma correta?",
+    "correctAnswer": "We don't speak French.",
+    "options": ["We don't speak French.", "We doesn't speak French.", "We not speak French.", "We aren't speak French."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase com o artigo correto: 'I want ___ information about the tour.'",
+    "correctAnswer": "some",
+    "options": ["some", "a", "an", "many"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar 'Com que frequência você viaja?' em inglês. Qual é a forma correta?",
+    "correctAnswer": "How often do you travel?",
+    "options": ["How often do you travel?", "How often are you travel?", "How much do you travel?", "How many do you travel?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase com o pronome correto: 'The guide speaks slowly because ___ knows we don't understand.' (o guia é uma mulher)",
+    "correctAnswer": "she",
+    "options": ["she", "he", "they", "it"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer 'Eu preciso de um quarto para dois.' em inglês. Qual é a forma correta?",
+    "correctAnswer": "I need a room for two.",
+    "options": ["I need a room for two.", "I needs a room for two.", "I needing a room for two.", "I am need a room for two."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: '___ you like a window seat or an aisle seat?'",
+    "correctAnswer": "Would",
+    "options": ["Would", "Do", "Are", "Have"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar 'Posso ver o seu passaporte?' em inglês. Qual é a forma correta?",
+    "correctAnswer": "Can I see your passport?",
+    "options": ["Can I see your passport?", "Can I sees your passport?", "I can see your passport?", "Can I seeing your passport?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase com a preposição correta: 'The museum opens ___ 9 a.m.'",
+    "correctAnswer": "at",
+    "options": ["at", "in", "on", "by"],
+    "difficulty": "hard"
+  }
+]

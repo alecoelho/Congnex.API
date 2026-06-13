@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Eu _____ trabalho aqui há três anos.",
+        "difficulty":  "easy",
+        "options":  [
+                        "work",
+                        "works",
+                        "working",
+                        "worked"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "work"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Ela _____ analista de sistemas na empresa.",
+        "difficulty":  "easy",
+        "options":  [
+                        "is",
+                        "are",
+                        "be",
+                        "has"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "is"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Nós _____ meetings toda segunda-feira.",
+        "difficulty":  "easy",
+        "options":  [
+                        "have",
+                        "has",
+                        "are having",
+                        "do have"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "have"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "O gerente _____ uma reunião agora.",
+        "difficulty":  "easy",
+        "options":  [
+                        "have",
+                        "has",
+                        "is having",
+                        "are having"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "is having"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Eles _____ no escritório ontem.",
+        "difficulty":  "easy",
+        "options":  [
+                        "are",
+                        "was",
+                        "were",
+                        "be"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "were"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Você _____ sua tarefa já?",
+        "difficulty":  "easy",
+        "options":  [
+                        "finish",
+                        "finished",
+                        "finishes",
+                        "is finishing"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "finished"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Eu _____ em um projeto importante agora.",
+        "difficulty":  "easy",
+        "options":  [
+                        "work",
+                        "works",
+                        "am working",
+                        "working"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "am working"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "O salário _____ depositado todo mês.",
+        "difficulty":  "easy",
+        "options":  [
+                        "is",
+                        "are",
+                        "has",
+                        "do"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "is"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Ela _____ trabalhar aqui a cinco anos.",
+        "difficulty":  "easy",
+        "options":  [
+                        "works",
+                        "working",
+                        "has been working",
+                        "is working"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "has been working"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Nós _____ o relatório amanhã.",
+        "difficulty":  "easy",
+        "options":  [
+                        "finish",
+                        "will finish",
+                        "are finishing",
+                        "finished"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "will finish"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Você _____ este documento?",
+        "difficulty":  "easy",
+        "options":  [
+                        "understand",
+                        "understood",
+                        "understanding",
+                        "understands"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "understood"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Eles _____ não gostam de trabalhar à noite.",
+        "difficulty":  "easy",
+        "options":  [
+                        "do",
+                        "are",
+                        "have",
+                        "did"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "do"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "O contrato _____ válido por um ano.",
+        "difficulty":  "easy",
+        "options":  [
+                        "is",
+                        "has",
+                        "are",
+                        "does"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "is"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Eu _____ receber uma promoção em breve.",
+        "difficulty":  "easy",
+        "options":  [
+                        "will",
+                        "am",
+                        "have",
+                        "do"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "will"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Ela _____ sempre pontual ao trabalho.",
+        "difficulty":  "easy",
+        "options":  [
+                        "is",
+                        "are",
+                        "has",
+                        "does"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "is"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Nós _____ estudar mais sobre este tópico no trabalho.",
+        "difficulty":  "easy",
+        "options":  [
+                        "should",
+                        "will",
+                        "must",
+                        "need"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "should"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Você _____ pela empresa há quanto tempo?",
+        "difficulty":  "easy",
+        "options":  [
+                        "work",
+                        "have worked",
+                        "are working",
+                        "works"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "have worked"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Se você _____ o projeto, receberá um bônus.",
+        "difficulty":  "medium",
+        "options":  [
+                        "completed",
+                        "complete",
+                        "completing",
+                        "have completed"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "complete"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "O funcionário _____ está faltando ao trabalho frequentemente.",
+        "difficulty":  "medium",
+        "options":  [
+                        "who",
+                        "which",
+                        "that",
+                        "whom"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "who"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Ela _____ de trabalhar quando completar 65 anos.",
+        "difficulty":  "medium",
+        "options":  [
+                        "retires",
+                        "will retire",
+                        "is retiring",
+                        "has retired"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "will retire"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Eles _____ trabalho hoje porque o escritório está fechado.",
+        "difficulty":  "medium",
+        "options":  [
+                        "not have",
+                        "don\u0027t have",
+                        "haven\u0027t",
+                        "doesn\u0027t have"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "don\u0027t have"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "O gerente pediu para _____ os documentos até sexta-feira.",
+        "difficulty":  "medium",
+        "options":  [
+                        "submitting",
+                        "submit",
+                        "submitted",
+                        "submits"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "submit"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Nós _____ começar o projeto na próxima semana.",
+        "difficulty":  "medium",
+        "options":  [
+                        "are starting",
+                        "will start",
+                        "start",
+                        "have started"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "will start"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Você _____ fazer horas extras se necessário?",
+        "difficulty":  "medium",
+        "options":  [
+                        "can",
+                        "could",
+                        "may",
+                        "might"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "can"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Ela _____ recebido um aumento de salário mês passado.",
+        "difficulty":  "medium",
+        "options":  [
+                        "is",
+                        "has",
+                        "have",
+                        "does"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "has"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "O departamento _____ ampliado no próximo trimestre.",
+        "difficulty":  "medium",
+        "options":  [
+                        "is",
+                        "will be",
+                        "has been",
+                        "are"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "will be"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Eles _____ em vários projetos simultaneamente.",
+        "difficulty":  "medium",
+        "options":  [
+                        "work",
+                        "are working",
+                        "works",
+                        "have worked"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "are working"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Eu deveria _____ mais cuidado com os detalhes.",
+        "difficulty":  "medium",
+        "options":  [
+                        "taking",
+                        "take",
+                        "takes",
+                        "taken"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "take"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "A empresa _____ oferecer benefícios melhores aos funcionários.",
+        "difficulty":  "medium",
+        "options":  [
+                        "must",
+                        "should",
+                        "will",
+                        "can"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "should"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Você já _____ trabalhar nesta empresa?",
+        "difficulty":  "medium",
+        "options":  [
+                        "have",
+                        "has",
+                        "are",
+                        "do"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "have"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "O contrato _____ assinado por ambas as partes.",
+        "difficulty":  "medium",
+        "options":  [
+                        "were",
+                        "was",
+                        "has been",
+                        "is"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "was"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Nós não _____ participar da reunião de hoje.",
+        "difficulty":  "medium",
+        "options":  [
+                        "are able",
+                        "can",
+                        "will be able",
+                        "could"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "can"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Ela _____ sua posição atual por muitos anos.",
+        "difficulty":  "medium",
+        "options":  [
+                        "holds",
+                        "held",
+                        "has held",
+                        "is holding"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "has held"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Se você _____ melhor, provavelmente conseguiria este emprego.",
+        "difficulty":  "hard",
+        "options":  [
+                        "spoke English",
+                        "had spoken English",
+                        "speaks English",
+                        "speaking English"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "had spoken English"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Eles _____ terminado o projeto se tivessem mais tempo.",
+        "difficulty":  "hard",
+        "options":  [
+                        "would",
+                        "would have",
+                        "will have",
+                        "have"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "would have"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "O relatório _____ apresentado na próxima semana pelo gerente.",
+        "difficulty":  "hard",
+        "options":  [
+                        "is",
+                        "will be",
+                        "has been",
+                        "was"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "will be"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Apesar de _____ cansado, ele continuou trabalhando.",
+        "difficulty":  "hard",
+        "options":  [
+                        "be",
+                        "being",
+                        "been",
+                        "to be"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "being"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Ela insistiu em _____ o projeto pessoalmente.",
+        "difficulty":  "hard",
+        "options":  [
+                        "complete",
+                        "completing",
+                        "completed",
+                        "to complete"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "completing"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "O cliente que _____ ontem deseja fechar o contrato.",
+        "difficulty":  "hard",
+        "options":  [
+                        "visits",
+                        "visited",
+                        "visiting",
+                        "to visit"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "visited"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Nós estamos acostumados a _____ antes das 8 da manhã.",
+        "difficulty":  "hard",
+        "options":  [
+                        "arrive",
+                        "arriving",
+                        "arrived",
+                        "to arrive"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "arriving"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "O gerente sugeriu que eles _____ menos distrações no escritório.",
+        "difficulty":  "hard",
+        "options":  [
+                        "have",
+                        "had",
+                        "would have",
+                        "having"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "have"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Por ter _____ a tarefa com rapidez, ela ganhou reconhecimento.",
+        "difficulty":  "hard",
+        "options":  [
+                        "complete",
+                        "completed",
+                        "completing",
+                        "to complete"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "completed"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Embora _____ uma promoção, ele decidiu sair da empresa.",
+        "difficulty":  "hard",
+        "options":  [
+                        "offering",
+                        "offered",
+                        "offer",
+                        "been offered"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "offered"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Ela é tão produtiva _____ ninguém consegue trabalhar como ela.",
+        "difficulty":  "hard",
+        "options":  [
+                        "that",
+                        "which",
+                        "who",
+                        "what"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "that"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Eles _____ o contrato sem _____ todos os detalhes.",
+        "difficulty":  "hard",
+        "options":  [
+                        "sign / to review",
+                        "signed / reviewing",
+                        "signing / review",
+                        "have signed / reviewed"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "signed / reviewing"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Se eu _____ seu lugar, procuraria outro emprego.",
+        "difficulty":  "hard",
+        "options":  [
+                        "was",
+                        "were",
+                        "would be",
+                        "am"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "were"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "O projeto _____ completado até o final do mês passado.",
+        "difficulty":  "hard",
+        "options":  [
+                        "should be",
+                        "should have been",
+                        "should have",
+                        "must be"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "should have been"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Nós preferimos _____ em casa a ir ao escritório diariamente.",
+        "difficulty":  "hard",
+        "options":  [
+                        "work",
+                        "working",
+                        "worked",
+                        "to work"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "working"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Ele teria conseguido o emprego _____ tivesse mais experiência.",
+        "difficulty":  "hard",
+        "options":  [
+                        "when",
+                        "if",
+                        "unless",
+                        "although"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "if"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Quanto mais tempo você investe no trabalho, _____ será o sucesso.",
+        "difficulty":  "hard",
+        "options":  [
+                        "more greater",
+                        "greater",
+                        "largest",
+                        "more"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "greater"
+    }
+]

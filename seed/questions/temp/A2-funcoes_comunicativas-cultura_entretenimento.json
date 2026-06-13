@@ -1,0 +1,482 @@
+﻿[
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer convidar seu amigo para assistir a um filme. O que você diz?",
+    "correctAnswer": "Would you like to go to the cinema with me?",
+    "options": ["Would you like to go to the cinema with me?", "You must go to the cinema", "Cinema is very good", "I went to the cinema yesterday"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Alguém pergunta qual é seu tipo de música favorito. Como você responde?",
+    "correctAnswer": "I like rock and pop music.",
+    "options": ["I like rock and pop music.", "Rock is very loud", "Music is a sound", "I heard music yesterday"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como você pede informações sobre um evento cultural?",
+    "correctAnswer": "Can you tell me about the concert?",
+    "options": ["Can you tell me about the concert?", "The concert is happening", "I don't like concerts", "Concerts are expensive"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber se seu amigo gosta de teatros. O que pergunta?",
+    "correctAnswer": "Do you like going to the theater?",
+    "options": ["Do you like going to the theater?", "Theater is an art", "I went to the theater", "The theater is closed"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como você expressa que um filme foi muito bom?",
+    "correctAnswer": "I really enjoyed the movie!",
+    "options": ["I really enjoyed the movie!", "The movie was very long", "I watched the movie", "Movies are entertainment"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Seu amigo convida você para um show. Como você aceita?",
+    "correctAnswer": "Yes, thank you! I would love to go.",
+    "options": ["Yes, thank you! I would love to go.", "I don't like shows", "Shows are expensive", "I have no time"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como você diz que não sabe muito sobre um assunto cultural?",
+    "correctAnswer": "I don't know much about opera.",
+    "options": ["I don't know much about opera.", "Opera is very old", "I don't like music", "Opera singers are good"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer sugerir uma atividade de lazer. O que diz?",
+    "correctAnswer": "Why don't we watch a movie tonight?",
+    "options": ["Why don't we watch a movie tonight?", "Movies are popular", "I like movies", "Watching TV is boring"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como você recomenda um livro para alguém?",
+    "correctAnswer": "You should read this book. It's very good.",
+    "options": ["You should read this book. It's very good.", "This book is interesting", "I read this book", "Books are educational"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber qual é o horário de um show. Como pergunta?",
+    "correctAnswer": "What time does the show start?",
+    "options": ["What time does the show start?", "The show starts at night", "I like the show", "Shows are fun"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como você expressa sua opinião positiva sobre um evento?",
+    "correctAnswer": "That was a wonderful concert!",
+    "options": ["That was a wonderful concert!", "The concert has music", "I went to the concert", "Concerts are expensive"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como você pergunta a alguém se ela quer ir a um museu?",
+    "correctAnswer": "Would you like to visit the museum with me?",
+    "options": ["Would you like to visit the museum with me?", "Museums have paintings", "I went to a museum", "Museums are interesting"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber se um filme é apropriado para crianças. Como pergunta?",
+    "correctAnswer": "Is this movie suitable for children?",
+    "options": ["Is this movie suitable for children?", "Children like movies", "This movie has actors", "Movies are long"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como você pergunta sobre o gênero favorito de alguém?",
+    "correctAnswer": "What kind of music do you prefer?",
+    "options": ["What kind of music do you prefer?", "Music is everywhere", "I like classical music", "Music is important"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer informações sobre o ingresso para um evento. O que diz?",
+    "correctAnswer": "How much is a ticket for the show?",
+    "options": ["How much is a ticket for the show?", "Tickets are paper", "I bought a ticket", "The show is popular"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como você convida alguém para um jantar especial enquanto falam sobre entretenimento?",
+    "correctAnswer": "Let's have dinner together and talk about movies.",
+    "options": ["Let's have dinner together and talk about movies.", "Dinner is at night", "I like talking", "Movies are interesting"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer expressar curiosidade sobre um evento cultural. Como faz isso?",
+    "correctAnswer": "Tell me more about the art exhibition.",
+    "options": ["Tell me more about the art exhibition.", "Art is colorful", "Exhibitions are displays", "I saw the exhibition"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Alguém não quer ir a um evento e você insiste gentilmente. O que diz?",
+    "correctAnswer": "Come on, just give it a try. It will be fun!",
+    "options": ["Come on, just give it a try. It will be fun!", "You must go to the party", "The party is happening", "Parties are for young people"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer oferecer seu ticket extra para um amigo. Como oferece?",
+    "correctAnswer": "I have an extra ticket. Would you like to come along?",
+    "options": ["I have an extra ticket. Would you like to come along?", "I have a ticket for the show", "Tickets are available", "I bought two tickets"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como você pede uma recomendação de filme para alguém?",
+    "correctAnswer": "What movie would you recommend for me?",
+    "options": ["What movie would you recommend for me?", "I like many movies", "Movies are entertaining", "You watch movies often"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber se alguém já viu um filme famoso. Como pergunta?",
+    "correctAnswer": "Have you ever seen The Lion King?",
+    "options": ["Have you ever seen The Lion King?", "The Lion King is a movie", "I watched The Lion King", "That movie is old"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como você expressa que encontrou uma mensagem sobre um evento muito interessante?",
+    "correctAnswer": "That's great news about the concert!",
+    "options": ["That's great news about the concert!", "The concert is very popular", "I want to go to the concert", "Concerts are music events"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber a duração de um filme. Como pergunta?",
+    "correctAnswer": "How long is the movie?",
+    "options": ["How long is the movie?", "The movie is interesting", "I watched the movie", "Movies can be long"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como você sugere mudar de planos para fazer algo mais interessante?",
+    "correctAnswer": "Why don't we go to the concert instead?",
+    "options": ["Why don't we go to the concert instead?", "Concerts are better than movies", "I like concerts", "Let's go somewhere fun"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber se alguém está disponível em uma data específica para um evento. Como pergunta?",
+    "correctAnswer": "Are you free next Saturday to go to the theater?",
+    "options": ["Are you free next Saturday to go to the theater?", "Next Saturday is a good day", "The theater is far away", "I like going to the theater"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como você expressa desapontamento com um evento que foi cancelado?",
+    "correctAnswer": "I'm disappointed that the concert was cancelled.",
+    "options": ["I'm disappointed that the concert was cancelled.", "The concert is very popular", "I wanted to go to the concert", "Concerts are wonderful"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar sobre os idiomas de um filme. Como faz isso?",
+    "correctAnswer": "Is the movie in English or in Portuguese?",
+    "options": ["Is the movie in English or in Portuguese?", "Movies have languages", "I speak English", "Portugal is a country"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como você convida alguém para conhecer um novo artista?",
+    "correctAnswer": "You should listen to this new band. They're really talented.",
+    "options": ["You should listen to this new band. They're really talented.", "Bands play music", "I like new music", "Music is everywhere"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber se há transporte até um evento. Como pergunta?",
+    "correctAnswer": "Is there transportation to the venue?",
+    "options": ["Is there transportation to the venue?", "The venue is far away", "I have a car", "Transportation is important"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como você pergunta se alguém quer assistir a um espetáculo de dança?",
+    "correctAnswer": "Would you be interested in watching a dance performance?",
+    "options": ["Would you be interested in watching a dance performance?", "Dance is an art form", "I like dancing", "Dancers are athletic"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer expressar que um ator é muito talentoso. Como faz isso?",
+    "correctAnswer": "That actor is incredibly talented!",
+    "options": ["That actor is incredibly talented!", "Actors are in movies", "I watched the movie", "Movies need actors"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como você responde quando alguém pergunta se você leu um livro famoso?",
+    "correctAnswer": "Yes, I read it last year and I really enjoyed it.",
+    "options": ["Yes, I read it last year and I really enjoyed it.", "Books are very long", "I like reading", "That book is famous"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer compartilhar sua descoberta de um novo gênero musical com um amigo. O que diz?",
+    "correctAnswer": "I've discovered this amazing new music genre. You should try it!",
+    "options": ["I've discovered this amazing new music genre. You should try it!", "Music has different genres", "I like new things", "Genres are categories"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Alguém criticou um filme que você gostou. Como você defende sua opinião?",
+    "correctAnswer": "I understand your point, but I personally found it really entertaining.",
+    "options": ["I understand your point, but I personally found it really entertaining.", "You don't like the movie", "I watched the movie", "Movies are subjective"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer sugerir a alguém que explore um tipo de arte que ela nunca tentou. Como faz isso?",
+    "correctAnswer": "Why not try pottery? You might really enjoy it.",
+    "options": ["Why not try pottery? You might really enjoy it.", "Pottery is an art", "I like creative things", "Art is important"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como você responde quando alguém pergunta sobre sua experiência em um festival cultural?",
+    "correctAnswer": "It was one of the best experiences I've had. The atmosphere was incredible!",
+    "options": ["It was one of the best experiences I've had. The atmosphere was incredible!", "Festivals are fun", "I went to a festival", "Festivals have music"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar a alguém se ela assistiu a uma série de TV popular que você recomendou. Como faz isso?",
+    "correctAnswer": "Did you end up watching that series I told you about?",
+    "options": ["Did you end up watching that series I told you about?", "I like TV shows", "Series are long", "That show is popular"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como você convida alguém para explorar uma nova exposição de arte de forma persuasiva?",
+    "correctAnswer": "The new art exhibition is supposed to be amazing. Let's go together!",
+    "options": ["The new art exhibition is supposed to be amazing. Let's go together!", "Art exhibitions are educational", "I like art", "Exhibitions are displays"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer descrever um espetáculo que viu de forma expressiva. Como faz isso?",
+    "correctAnswer": "The theater performance was absolutely spectacular! I was captivated from beginning to end.",
+    "options": ["The theater performance was absolutely spectacular! I was captivated from beginning to end.", "The theater has actors", "I watched a performance", "Performances are long"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Alguém não quer gastar muito dinheiro em um evento. Como você oferece uma solução criativa?",
+    "correctAnswer": "If cost is a concern, maybe we could check out the free outdoor concert instead.",
+    "options": ["If cost is a concern, maybe we could check out the free outdoor concert instead.", "Events are expensive", "I have money", "Concerts are fun"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como você pergunta a alguém sobre suas preferências culturais de forma mais aprofundada?",
+    "correctAnswer": "What kind of cultural activities appeal to you the most?",
+    "options": ["What kind of cultural activities appeal to you the most?", "Culture is important", "People like different things", "Activities are fun"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer expressar que um evento superou suas expectativas. Como faz isso?",
+    "correctAnswer": "That concert exceeded all my expectations. It was far better than I thought it would be.",
+    "options": ["That concert exceeded all my expectations. It was far better than I thought it would be.", "Concerts are good", "I went to a concert", "Music is wonderful"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como você explica gentilmente por que não pode ir a um evento cultural?",
+    "correctAnswer": "I'd love to go, but I have prior commitments. Rain check?",
+    "options": ["I'd love to go, but I have prior commitments. Rain check?", "I'm busy on that day", "The event is expensive", "I don't like that kind of event"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber se um amigo tem experiência com um tipo de arte específico. Como pergunta?",
+    "correctAnswer": "Have you ever tried classical music before?",
+    "options": ["Have you ever tried classical music before?", "Classical music is old", "I like classical music", "Music is everywhere"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como você exprime entusiasmo sobre um evento cultural que está próximo?",
+    "correctAnswer": "I'm so excited about the festival next month! I've been looking forward to it for weeks.",
+    "options": ["I'm so excited about the festival next month! I've been looking forward to it for weeks.", "Festivals are fun", "Next month is coming", "I like events"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar se alguém gostou de uma recomendação que você fez. Como faz isso?",
+    "correctAnswer": "Did you like that movie I recommended? What did you think?",
+    "options": ["Did you like that movie I recommended? What did you think?", "I recommended a movie", "Movies are entertainment", "You watched the movie"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como você recomenda um livro a alguém que não lê muito?",
+    "correctAnswer": "This book is really easy to read and very engaging. I think you'd enjoy it.",
+    "options": ["This book is really easy to read and very engaging. I think you'd enjoy it.", "Books are educational", "I like reading", "Reading is important"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer comparar suas opiniões sobre dois filmes diferentes com um amigo. Como inicia essa conversa?",
+    "correctAnswer": "Which film did you prefer? I thought both were great, but in different ways.",
+    "options": ["Which film did you prefer? I thought both were great, but in different ways.", "Films are movies", "I watched two movies", "Both are entertaining"],
+    "difficulty": "hard"
+  }
+]

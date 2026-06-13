@@ -1,0 +1,512 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Eu tenho um passaporte.",
+    "correctAnswer": "I have a passport.",
+    "options": ["I have a passport.", "I have a ticket.", "I have a bag.", "I have a map."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O hotel é grande.",
+    "correctAnswer": "The hotel is big.",
+    "options": ["The hotel is big.", "The hotel is small.", "The hotel is old.", "The hotel is new."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Eu quero água, por favor.",
+    "correctAnswer": "I want water, please.",
+    "options": ["I want water, please.", "I want coffee, please.", "I want food, please.", "I want juice, please."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Onde fica o banheiro?",
+    "correctAnswer": "Where is the bathroom?",
+    "options": ["Where is the bathroom?", "Where is the hotel?", "Where is the airport?", "Where is the bus?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Eu viajo de avião.",
+    "correctAnswer": "I travel by plane.",
+    "options": ["I travel by plane.", "I travel by bus.", "I travel by train.", "I travel by car."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O avião é rápido.",
+    "correctAnswer": "The plane is fast.",
+    "options": ["The plane is fast.", "The plane is slow.", "The plane is big.", "The plane is old."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Eu moro no Brasil.",
+    "correctAnswer": "I live in Brazil.",
+    "options": ["I live in Brazil.", "I live in France.", "I live in Spain.", "I live in Italy."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Eu preciso de ajuda.",
+    "correctAnswer": "I need help.",
+    "options": ["I need help.", "I need money.", "I need food.", "I need water."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O trem chega às dez.",
+    "correctAnswer": "The train arrives at ten.",
+    "options": ["The train arrives at ten.", "The train leaves at ten.", "The bus arrives at ten.", "The plane arrives at ten."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Eu tenho uma mala.",
+    "correctAnswer": "I have a suitcase.",
+    "options": ["I have a suitcase.", "I have a ticket.", "I have a passport.", "I have a bag."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "A cidade é bonita.",
+    "correctAnswer": "The city is beautiful.",
+    "options": ["The city is beautiful.", "The city is big.", "The city is old.", "The city is small."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Eu falo inglês.",
+    "correctAnswer": "I speak English.",
+    "options": ["I speak English.", "I speak Spanish.", "I speak French.", "I speak Portuguese."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O táxi está aqui.",
+    "correctAnswer": "The taxi is here.",
+    "options": ["The taxi is here.", "The bus is here.", "The train is here.", "The car is here."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Eu gosto de viajar.",
+    "correctAnswer": "I like to travel.",
+    "options": ["I like to travel.", "I like to work.", "I like to study.", "I like to sleep."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Bom dia! Eu sou turista.",
+    "correctAnswer": "Good morning! I am a tourist.",
+    "options": ["Good morning! I am a tourist.", "Good afternoon! I am a tourist.", "Good morning! I am a student.", "Good morning! I am a teacher."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O aeroporto é perto.",
+    "correctAnswer": "The airport is near.",
+    "options": ["The airport is near.", "The airport is far.", "The airport is big.", "The airport is new."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Eu quero um quarto, por favor.",
+    "correctAnswer": "I want a room, please.",
+    "options": ["I want a room, please.", "I want a key, please.", "I want a table, please.", "I want a bed, please."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Quanto custa a passagem?",
+    "correctAnswer": "How much is the ticket?",
+    "options": ["How much is the ticket?", "How much is the hotel?", "How much is the taxi?", "How much is the map?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Eu não entendo. Pode falar mais devagar?",
+    "correctAnswer": "I don't understand. Can you speak more slowly?",
+    "options": ["I don't understand. Can you speak more slowly?", "I don't understand. Can you write it down?", "I don't speak English. Can you help me?", "I don't understand. Can you say it again?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O meu voo parte às oito da manhã.",
+    "correctAnswer": "My flight departs at eight in the morning.",
+    "options": ["My flight departs at eight in the morning.", "My flight arrives at eight in the morning.", "My train departs at eight in the morning.", "My flight departs at eight in the evening."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Eu preciso trocar dinheiro.",
+    "correctAnswer": "I need to exchange money.",
+    "options": ["I need to exchange money.", "I need to find money.", "I need to spend money.", "I need to save money."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Existe um restaurante perto daqui?",
+    "correctAnswer": "Is there a restaurant near here?",
+    "options": ["Is there a restaurant near here?", "Is there a hotel near here?", "Is there a pharmacy near here?", "Is there a bank near here?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Eu faço o check-in hoje.",
+    "correctAnswer": "I check in today.",
+    "options": ["I check in today.", "I check out today.", "I arrive today.", "I leave today."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "A minha reserva é para dois dias.",
+    "correctAnswer": "My reservation is for two days.",
+    "options": ["My reservation is for two days.", "My reservation is for two weeks.", "My ticket is for two days.", "My hotel is for two days."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Onde fica a estação de trem?",
+    "correctAnswer": "Where is the train station?",
+    "options": ["Where is the train station?", "Where is the bus station?", "Where is the taxi station?", "Where is the subway station?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Eu viajo com a minha família.",
+    "correctAnswer": "I travel with my family.",
+    "options": ["I travel with my family.", "I travel with my friends.", "I travel with my wife.", "I travel alone."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O mapa mostra a cidade.",
+    "correctAnswer": "The map shows the city.",
+    "options": ["The map shows the city.", "The map shows the hotel.", "The map shows the airport.", "The guide shows the city."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O ônibus vai para o centro.",
+    "correctAnswer": "The bus goes to the center.",
+    "options": ["The bus goes to the center.", "The bus goes to the hotel.", "The train goes to the center.", "The taxi goes to the center."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Eu preciso de um guia turístico.",
+    "correctAnswer": "I need a tour guide.",
+    "options": ["I need a tour guide.", "I need a travel agent.", "I need a map.", "I need a ticket."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "A praia fica longe do hotel.",
+    "correctAnswer": "The beach is far from the hotel.",
+    "options": ["The beach is far from the hotel.", "The beach is near the hotel.", "The pool is far from the hotel.", "The beach is far from the airport."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Eu quero visitar um museu.",
+    "correctAnswer": "I want to visit a museum.",
+    "options": ["I want to visit a museum.", "I want to visit a park.", "I want to visit a church.", "I want to see a museum."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Nós chegamos ao hotel de tarde.",
+    "correctAnswer": "We arrive at the hotel in the afternoon.",
+    "options": ["We arrive at the hotel in the afternoon.", "We arrive at the hotel in the morning.", "We leave the hotel in the afternoon.", "We stay at the hotel in the afternoon."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Eu preciso de um bilhete de ida e volta.",
+    "correctAnswer": "I need a round-trip ticket.",
+    "options": ["I need a round-trip ticket.", "I need a one-way ticket.", "I need a first-class ticket.", "I need a bus ticket."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Posso pagar com cartão de crédito?",
+    "correctAnswer": "Can I pay with a credit card?",
+    "options": ["Can I pay with a credit card?", "Can I pay with cash?", "Can I book with a credit card?", "Can I pay with a debit card?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O café da manhã está incluído na diária?",
+    "correctAnswer": "Is breakfast included in the daily rate?",
+    "options": ["Is breakfast included in the daily rate?", "Is lunch included in the daily rate?", "Is breakfast included in the ticket?", "Is dinner included in the daily rate?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Eu preciso cancelar a minha reserva.",
+    "correctAnswer": "I need to cancel my reservation.",
+    "options": ["I need to cancel my reservation.", "I need to change my reservation.", "I need to confirm my reservation.", "I need to make a reservation."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O meu passaporte está na mala.",
+    "correctAnswer": "My passport is in the suitcase.",
+    "options": ["My passport is in the suitcase.", "My ticket is in the suitcase.", "My passport is in the bag.", "My passport is in the pocket."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O voo foi cancelado por causa do mau tempo.",
+    "correctAnswer": "The flight was cancelled because of bad weather.",
+    "options": ["The flight was cancelled because of bad weather.", "The flight was delayed because of bad weather.", "The train was cancelled because of bad weather.", "The flight was cancelled because of a strike."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Qual é o horário de abertura do museu?",
+    "correctAnswer": "What are the opening hours of the museum?",
+    "options": ["What are the opening hours of the museum?", "What are the closing hours of the museum?", "What is the price of the museum?", "What are the opening hours of the park?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Eu gostaria de um quarto com vista para o mar.",
+    "correctAnswer": "I would like a room with a sea view.",
+    "options": ["I would like a room with a sea view.", "I would like a room with a city view.", "I would like a room with a pool view.", "I would like a room with a garden view."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "A conexão do meu voo é em Lisboa.",
+    "correctAnswer": "My flight connection is in Lisbon.",
+    "options": ["My flight connection is in Lisbon.", "My flight departure is in Lisbon.", "My flight connection is in Madrid.", "My train connection is in Lisbon."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Perdi a minha bagagem no aeroporto.",
+    "correctAnswer": "I lost my luggage at the airport.",
+    "options": ["I lost my luggage at the airport.", "I left my luggage at the airport.", "I found my luggage at the airport.", "I lost my passport at the airport."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Nós queremos um tour pela cidade amanhã.",
+    "correctAnswer": "We want a city tour tomorrow.",
+    "options": ["We want a city tour tomorrow.", "We want a city tour today.", "We need a city tour tomorrow.", "We want a hotel tour tomorrow."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Você pode recomendar um bom restaurante local?",
+    "correctAnswer": "Can you recommend a good local restaurant?",
+    "options": ["Can you recommend a good local restaurant?", "Can you find a good local restaurant?", "Can you recommend a good hotel?", "Can you recommend a cheap local restaurant?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O meu voo tem escala em Nova York.",
+    "correctAnswer": "My flight has a stopover in New York.",
+    "options": ["My flight has a stopover in New York.", "My flight has a connection in New York.", "My train has a stopover in New York.", "My flight has a stopover in London."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Preciso declarar algo na alfândega?",
+    "correctAnswer": "Do I need to declare anything at customs?",
+    "options": ["Do I need to declare anything at customs?", "Do I need to show anything at customs?", "Do I need to declare anything at immigration?", "Do I need to check anything at customs?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O hotel oferece serviço de traslado do aeroporto.",
+    "correctAnswer": "The hotel offers an airport transfer service.",
+    "options": ["The hotel offers an airport transfer service.", "The hotel offers a taxi service.", "The hotel offers a bus service.", "The hotel includes an airport transfer service."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Eu preciso renovar o meu visto antes de viajar.",
+    "correctAnswer": "I need to renew my visa before traveling.",
+    "options": ["I need to renew my visa before traveling.", "I need to get my visa before traveling.", "I need to renew my passport before traveling.", "I need to extend my visa before traveling."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O voo está atrasado por uma hora.",
+    "correctAnswer": "The flight is delayed by one hour.",
+    "options": ["The flight is delayed by one hour.", "The flight is cancelled by one hour.", "The train is delayed by one hour.", "The flight is early by one hour."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Eu quero fazer o check-out amanhã cedo.",
+    "correctAnswer": "I want to check out early tomorrow.",
+    "options": ["I want to check out early tomorrow.", "I want to check in early tomorrow.", "I want to leave early tomorrow.", "I want to check out late tomorrow."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Onde posso pegar um táxi para o centro da cidade?",
+    "correctAnswer": "Where can I get a taxi to the city center?",
+    "options": ["Where can I get a taxi to the city center?", "Where can I get a bus to the city center?", "Where can I take a taxi to the airport?", "How can I get a taxi to the city center?"],
+    "difficulty": "hard"
+  }
+]

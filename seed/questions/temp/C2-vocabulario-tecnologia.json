@@ -1,0 +1,502 @@
+[
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa o termo 'bandwidth' no contexto de redes de internet?",
+    "correctAnswer": "Largura de banda",
+    "options": ["Largura de banda", "Velocidade do processador", "Capacidade do disco rígido", "Memória RAM disponível"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'download' em Português?",
+    "correctAnswer": "Baixar um arquivo da internet",
+    "options": ["Baixar um arquivo da internet", "Enviar um arquivo para a internet", "Deletar um arquivo local", "Compactar um arquivo"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'password' no contexto de segurança digital?",
+    "correctAnswer": "Senha",
+    "options": ["Senha", "Usuário", "Endereço de e-mail", "Nome de perfil"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'username' em sistemas de login?",
+    "correctAnswer": "Nome de usuário",
+    "options": ["Nome de usuário", "Senha de acesso", "Endereço IP", "Chave de segurança"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'upload' no contexto da internet?",
+    "correctAnswer": "Enviar um arquivo para a internet",
+    "options": ["Enviar um arquivo para a internet", "Baixar um arquivo da internet", "Abrir um arquivo localmente", "Imprimir um arquivo"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'browser' no contexto da internet?",
+    "correctAnswer": "Navegador",
+    "options": ["Navegador", "Servidor", "Roteador", "Firewall"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'search engine' em tecnologia?",
+    "correctAnswer": "Mecanismo de busca",
+    "options": ["Mecanismo de busca", "Motor gráfico", "Processador de texto", "Banco de dados"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'wireless' em tecnologia?",
+    "correctAnswer": "Sem fio",
+    "options": ["Sem fio", "Alta velocidade", "Banda larga", "Sinal digital"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'software' no contexto de computação?",
+    "correctAnswer": "Programa de computador",
+    "options": ["Programa de computador", "Componente físico do computador", "Cabo de conexão", "Circuito integrado"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'hardware' em tecnologia?",
+    "correctAnswer": "Componentes físicos do computador",
+    "options": ["Componentes físicos do computador", "Sistema operacional", "Aplicativo de computador", "Rede de comunicação"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'spam' no contexto de e-mails?",
+    "correctAnswer": "Mensagem indesejada ou não solicitada",
+    "options": ["Mensagem indesejada ou não solicitada", "E-mail importante com prioridade alta", "Mensagem criptografada", "Arquivo anexo em e-mail"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'backup' no contexto de tecnologia?",
+    "correctAnswer": "Cópia de segurança de dados",
+    "options": ["Cópia de segurança de dados", "Atualização de sistema", "Reinicialização do computador", "Limpeza de arquivos temporários"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'cursor' no uso de computadores?",
+    "correctAnswer": "Ponteiro do mouse na tela",
+    "options": ["Ponteiro do mouse na tela", "Tecla de atalho do teclado", "Barra de rolagem", "Ícone de aplicativo"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'icon' no contexto de interfaces digitais?",
+    "correctAnswer": "Ícone ou imagem representativa de uma função",
+    "options": ["Ícone ou imagem representativa de uma função", "Janela de diálogo do sistema", "Menu de configurações", "Barra de tarefas"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'log in' em sistemas digitais?",
+    "correctAnswer": "Entrar ou acessar uma conta",
+    "options": ["Entrar ou acessar uma conta", "Sair de uma conta", "Criar uma nova conta", "Recuperar uma senha esquecida"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'crash' no contexto de software?",
+    "correctAnswer": "Falha ou travamento de um programa",
+    "options": ["Falha ou travamento de um programa", "Atualização automática do sistema", "Encerramento normal de um aplicativo", "Instalação de um novo programa"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'screenshot' no uso cotidiano de tecnologia?",
+    "correctAnswer": "Captura de tela",
+    "options": ["Captura de tela", "Gravação de vídeo da tela", "Impressão de documento", "Foto tirada com webcam"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'phishing' no contexto de segurança cibernética?",
+    "correctAnswer": "Golpe digital para roubar informações pessoais",
+    "options": ["Golpe digital para roubar informações pessoais", "Técnica de criptografia de dados", "Método de compressão de arquivos", "Protocolo de transferência segura"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'latency' no contexto de redes de computadores?",
+    "correctAnswer": "Atraso na transmissão de dados",
+    "options": ["Atraso na transmissão de dados", "Velocidade máxima de conexão", "Quantidade de dados transferidos", "Estabilidade da conexão"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'throttling' quando aplicado a conexões de internet?",
+    "correctAnswer": "Limitação intencional da velocidade de conexão",
+    "options": ["Limitação intencional da velocidade de conexão", "Aumento automático da velocidade", "Filtragem de conteúdo malicioso", "Monitoramento de uso de dados"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'payload' no contexto de redes e segurança digital?",
+    "correctAnswer": "Dados úteis transmitidos em um pacote",
+    "options": ["Dados úteis transmitidos em um pacote", "Cabeçalho de identificação de protocolo", "Chave de criptografia do pacote", "Endereço de destino do pacote"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'containerization' no contexto de desenvolvimento de software?",
+    "correctAnswer": "Empacotamento de aplicações com suas dependências em ambientes isolados",
+    "options": ["Empacotamento de aplicações com suas dependências em ambientes isolados", "Armazenamento de dados em nuvem distribuída", "Compressão de código-fonte para distribuição", "Virtualização completa de hardware"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'middleware' no desenvolvimento de sistemas?",
+    "correctAnswer": "Software intermediário que conecta diferentes aplicações",
+    "options": ["Software intermediário que conecta diferentes aplicações", "Camada de interface gráfica do usuário", "Banco de dados central do sistema", "Protocolo de comunicação de rede"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'scalability' em arquitetura de sistemas?",
+    "correctAnswer": "Capacidade de um sistema crescer para atender maior demanda",
+    "options": ["Capacidade de um sistema crescer para atender maior demanda", "Facilidade de uso da interface do sistema", "Segurança dos dados armazenados", "Velocidade de processamento de dados"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'deprecate' no contexto de desenvolvimento de software?",
+    "correctAnswer": "Marcar uma funcionalidade como obsoleta e em desuso",
+    "options": ["Marcar uma funcionalidade como obsoleta e em desuso", "Corrigir um erro crítico no código", "Lançar uma nova versão do software", "Documentar uma função do sistema"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'caching' no contexto de desempenho de sistemas web?",
+    "correctAnswer": "Armazenamento temporário de dados para acesso mais rápido",
+    "options": ["Armazenamento temporário de dados para acesso mais rápido", "Exclusão periódica de dados antigos", "Criptografia de dados sensíveis", "Compressão de arquivos para economizar espaço"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'load balancing' em infraestrutura de TI?",
+    "correctAnswer": "Distribuição de tráfego entre múltiplos servidores",
+    "options": ["Distribuição de tráfego entre múltiplos servidores", "Monitoramento do consumo de energia dos servidores", "Compressão de dados para reduzir carga de rede", "Sincronização de arquivos entre servidores"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'refactoring' no desenvolvimento de software?",
+    "correctAnswer": "Reestruturação do código sem alterar seu comportamento externo",
+    "options": ["Reestruturação do código sem alterar seu comportamento externo", "Adição de novas funcionalidades ao sistema", "Correção de erros críticos de segurança", "Migração do sistema para nova linguagem"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'throughput' no contexto de redes de comunicação?",
+    "correctAnswer": "Quantidade de dados transmitidos com sucesso por unidade de tempo",
+    "options": ["Quantidade de dados transmitidos com sucesso por unidade de tempo", "Atraso médio na entrega de pacotes", "Número máximo de conexões simultâneas", "Taxa de erro em transmissões de dados"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'API endpoint' no contexto de desenvolvimento web?",
+    "correctAnswer": "Ponto de acesso específico de uma API para realizar operações",
+    "options": ["Ponto de acesso específico de uma API para realizar operações", "Chave de autenticação da API", "Documentação técnica da API", "Versão mais recente da API"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'sandbox' no contexto de segurança e desenvolvimento de software?",
+    "correctAnswer": "Ambiente isolado para executar código de forma segura e controlada",
+    "options": ["Ambiente isolado para executar código de forma segura e controlada", "Repositório de código aberto para colaboração", "Ferramenta de monitoramento de aplicações", "Plataforma de testes automatizados"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'obfuscation' no contexto de segurança de software?",
+    "correctAnswer": "Técnica de tornar o código difícil de entender para dificultar engenharia reversa",
+    "options": ["Técnica de tornar o código difícil de entender para dificultar engenharia reversa", "Método de compressão de código para reduzir tamanho", "Processo de documentação automática do código", "Prática de validação de entradas do usuário"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'idempotency' no contexto de operações de API REST?",
+    "correctAnswer": "Propriedade de uma operação que produz o mesmo resultado independentemente de quantas vezes é executada",
+    "options": ["Propriedade de uma operação que produz o mesmo resultado independentemente de quantas vezes é executada", "Capacidade de uma API processar múltiplas requisições simultâneas", "Mecanismo de autenticação baseado em tokens temporários", "Técnica de versionamento para compatibilidade retroativa"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'eventual consistency' em sistemas distribuídos?",
+    "correctAnswer": "Garantia de que todos os nós de um sistema convergirão para o mesmo estado com o tempo",
+    "options": ["Garantia de que todos os nós de um sistema convergirão para o mesmo estado com o tempo", "Consistência imediata de dados em todas as réplicas simultaneamente", "Método de resolução de conflitos em bancos de dados relacionais", "Protocolo de sincronização em tempo real entre servidores"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'Byzantine fault tolerance' em sistemas computacionais?",
+    "correctAnswer": "Capacidade de um sistema funcionar corretamente mesmo com componentes apresentando falhas arbitrárias ou comportamento malicioso",
+    "options": ["Capacidade de um sistema funcionar corretamente mesmo com componentes apresentando falhas arbitrárias ou comportamento malicioso", "Método de detecção e correção de erros em transmissões de dados", "Protocolo de consenso para sistemas de banco de dados distribuídos", "Técnica de balanceamento de carga em ambientes de alta disponibilidade"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'sharding' no contexto de bancos de dados distribuídos?",
+    "correctAnswer": "Particionamento horizontal de dados em múltiplos servidores para melhorar desempenho",
+    "options": ["Particionamento horizontal de dados em múltiplos servidores para melhorar desempenho", "Replicação completa de banco de dados para redundância", "Técnica de indexação para acelerar consultas complexas", "Compressão de dados para reduzir espaço de armazenamento"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'memoization' no contexto de otimização de algoritmos?",
+    "correctAnswer": "Técnica de armazenar resultados de funções para evitar recalculá-los com os mesmos argumentos",
+    "options": ["Técnica de armazenar resultados de funções para evitar recalculá-los com os mesmos argumentos", "Alocação dinâmica de memória para estruturas de dados complexas", "Método de compressão de dados em memória volátil", "Processo de liberação de memória não utilizada pelo sistema"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'covariance' no contexto de tipagem em linguagens de programação orientadas a objetos?",
+    "correctAnswer": "Propriedade que permite usar um tipo mais específico onde um tipo mais geral é esperado",
+    "options": ["Propriedade que permite usar um tipo mais específico onde um tipo mais geral é esperado", "Relação de herança entre classes abstratas e concretas", "Mecanismo de sobrecarga de operadores em linguagens fortemente tipadas", "Técnica de inferência de tipos em linguagens de tipagem dinâmica"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'tail call optimization' em compiladores e interpretadores?",
+    "correctAnswer": "Otimização que permite chamadas recursivas de cauda sem empilhar novos frames na pilha de execução",
+    "options": ["Otimização que permite chamadas recursivas de cauda sem empilhar novos frames na pilha de execução", "Técnica de pré-compilação de funções frequentemente chamadas", "Método de inline de funções pequenas para reduzir overhead", "Estratégia de carregamento antecipado de bibliotecas dinâmicas"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'zero-day vulnerability' no contexto de segurança cibernética?",
+    "correctAnswer": "Falha de segurança desconhecida pelo fabricante e sem correção disponível",
+    "options": ["Falha de segurança desconhecida pelo fabricante e sem correção disponível", "Vulnerabilidade já corrigida mas ainda explorada por atacantes", "Brecha de segurança introduzida intencionalmente por desenvolvedores", "Erro de configuração em sistemas recém-instalados"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'race condition' no contexto de programação concorrente?",
+    "correctAnswer": "Situação em que o resultado de um programa depende da ordem ou tempo de execução de processos concorrentes",
+    "options": ["Situação em que o resultado de um programa depende da ordem ou tempo de execução de processos concorrentes", "Competição por recursos entre threads que resulta em deadlock permanente", "Condição de corrida entre processos para acesso exclusivo à CPU", "Conflito de prioridades entre interrupções de hardware e software"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'monorepo' no contexto de gerenciamento de repositórios de código?",
+    "correctAnswer": "Repositório único que contém múltiplos projetos ou módulos relacionados",
+    "options": ["Repositório único que contém múltiplos projetos ou módulos relacionados", "Repositório privado com acesso restrito a um único desenvolvedor", "Estratégia de branching com um único branch principal protegido", "Arquitetura de microsserviços com repositório centralizado de configuração"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'cold start' no contexto de computação serverless?",
+    "correctAnswer": "Latência adicional causada pela inicialização de uma função que não estava em execução",
+    "options": ["Latência adicional causada pela inicialização de uma função que não estava em execução", "Reinicialização forçada de um servidor após falha crítica", "Inicialização de sistema sem dados em cache disponíveis", "Processo de boot de máquinas virtuais em nuvem pública"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'immutability' no contexto de programação funcional?",
+    "correctAnswer": "Propriedade de objetos que não podem ser modificados após sua criação",
+    "options": ["Propriedade de objetos que não podem ser modificados após sua criação", "Capacidade de reutilizar funções em diferentes contextos sem adaptação", "Princípio de encapsulamento de estado em objetos privados", "Característica de funções que sempre retornam o mesmo tipo de dado"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'observability' no contexto de sistemas de software modernos?",
+    "correctAnswer": "Capacidade de inferir o estado interno de um sistema a partir de suas saídas externas como logs, métricas e rastreamentos",
+    "options": ["Capacidade de inferir o estado interno de um sistema a partir de suas saídas externas como logs, métricas e rastreamentos", "Monitoramento passivo de performance sem instrumentação do código", "Registro automático de erros em sistemas de produção", "Auditoria de acessos e modificações em bancos de dados"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'deadlock' no contexto de sistemas operacionais e programação concorrente?",
+    "correctAnswer": "Estado em que dois ou mais processos ficam bloqueados esperando recursos que o outro detém",
+    "options": ["Estado em que dois ou mais processos ficam bloqueados esperando recursos que o outro detém", "Travamento do sistema causado por excesso de memória em uso", "Falha de um processo que encerra abruptamente sem liberar recursos", "Condição de alta carga em que o sistema opera em capacidade máxima"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'dark pattern' no contexto de design de interfaces digitais?",
+    "correctAnswer": "Técnica de design que manipula o usuário a tomar ações não desejadas",
+    "options": ["Técnica de design que manipula o usuário a tomar ações não desejadas", "Modo de exibição com fundo escuro para reduzir fadiga visual", "Padrão de projeto usado em aplicações de segurança cibernética", "Esquema de cores utilizado em interfaces para usuários daltônicos"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'technical debt' no contexto de desenvolvimento de software?",
+    "correctAnswer": "Custo futuro acumulado de soluções provisórias ou de baixa qualidade adotadas para ganhar velocidade",
+    "options": ["Custo futuro acumulado de soluções provisórias ou de baixa qualidade adotadas para ganhar velocidade", "Licenças de software que precisam ser renovadas periodicamente", "Despesas com infraestrutura de servidores e armazenamento em nuvem", "Investimento necessário para atualizar sistemas legados obsoletos"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'feature flag' (ou 'feature toggle') no desenvolvimento de software?",
+    "correctAnswer": "Mecanismo que permite ativar ou desativar funcionalidades sem alterar o código em produção",
+    "options": ["Mecanismo que permite ativar ou desativar funcionalidades sem alterar o código em produção", "Marcador no código que indica uma funcionalidade incompleta", "Comentário de documentação para descrever novas funcionalidades", "Configuração de permissão de acesso a recursos por tipo de usuário"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'canary deployment' no contexto de entrega contínua de software?",
+    "correctAnswer": "Estratégia de lançar uma nova versão gradualmente para um subconjunto de usuários antes de implantação total",
+    "options": ["Estratégia de lançar uma nova versão gradualmente para um subconjunto de usuários antes de implantação total", "Processo de testes automatizados executados antes de cada deploy em produção", "Técnica de rollback automático em caso de erros após implantação", "Método de implantação simultânea em múltiplos ambientes de produção"],
+    "difficulty": "hard"
+  }
+]

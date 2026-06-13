@@ -1,0 +1,512 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'money' em inglês?",
+    "correctAnswer": "Dinheiro",
+    "options": ["Dinheiro", "Tempo", "Trabalho", "Produto"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'bank' em inglês?",
+    "correctAnswer": "Banco",
+    "options": ["Banco", "Loja", "Empresa", "Mercado"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'job' em inglês?",
+    "correctAnswer": "Emprego",
+    "options": ["Emprego", "Dinheiro", "Produto", "Cliente"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'price' em inglês?",
+    "correctAnswer": "Preço",
+    "options": ["Preço", "Lucro", "Custo total", "Desconto"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'buy' em inglês?",
+    "correctAnswer": "Comprar",
+    "options": ["Comprar", "Vender", "Pagar", "Trocar"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'sell' em inglês?",
+    "correctAnswer": "Vender",
+    "options": ["Vender", "Comprar", "Alugar", "Guardar"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'shop' em inglês?",
+    "correctAnswer": "Loja",
+    "options": ["Loja", "Banco", "Escritório", "Fábrica"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'pay' em inglês?",
+    "correctAnswer": "Pagar",
+    "options": ["Pagar", "Receber", "Guardar", "Emprestar"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'work' em inglês?",
+    "correctAnswer": "Trabalho",
+    "options": ["Trabalho", "Descanso", "Estudo", "Lazer"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'office' em inglês?",
+    "correctAnswer": "Escritório",
+    "options": ["Escritório", "Casa", "Hospital", "Escola"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'boss' em inglês?",
+    "correctAnswer": "Chefe",
+    "options": ["Chefe", "Colega", "Cliente", "Funcionário"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'card' no contexto de negócios em inglês?",
+    "correctAnswer": "Cartão",
+    "options": ["Cartão", "Cheque", "Nota", "Moeda"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'store' em inglês?",
+    "correctAnswer": "Loja / Armazém",
+    "options": ["Loja / Armazém", "Banco", "Empresa", "Mercado"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'free' no contexto de preços em inglês?",
+    "correctAnswer": "Grátis",
+    "options": ["Grátis", "Caro", "Barato", "Em promoção"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'cash' em inglês?",
+    "correctAnswer": "Dinheiro em espécie",
+    "options": ["Dinheiro em espécie", "Cartão de crédito", "Cheque", "Transferência"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'bill' no contexto financeiro em inglês?",
+    "correctAnswer": "Conta / Fatura",
+    "options": ["Conta / Fatura", "Moeda", "Salário", "Imposto"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'sale' em inglês?",
+    "correctAnswer": "Venda / Promoção",
+    "options": ["Venda / Promoção", "Compra", "Troca", "Devolução"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'cost' em inglês?",
+    "correctAnswer": "Custo",
+    "options": ["Custo", "Lucro", "Receita", "Desconto"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'loan' em inglês?",
+    "correctAnswer": "Empréstimo",
+    "options": ["Empréstimo", "Pagamento", "Salário", "Desconto"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'staff' em inglês?",
+    "correctAnswer": "Equipe / Funcionários",
+    "options": ["Equipe / Funcionários", "Clientes", "Diretores", "Parceiros"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'order' no contexto de negócios em inglês?",
+    "correctAnswer": "Pedido",
+    "options": ["Pedido", "Pagamento", "Contrato", "Relatório"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'profit' em inglês?",
+    "correctAnswer": "Lucro",
+    "options": ["Lucro", "Custo", "Perda", "Imposto"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'trade' em inglês?",
+    "correctAnswer": "Comércio / Negociação",
+    "options": ["Comércio / Negociação", "Pagamento", "Empréstimo", "Investimento"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'wage' em inglês?",
+    "correctAnswer": "Salário",
+    "options": ["Salário", "Bônus", "Imposto", "Empréstimo"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'debt' em inglês?",
+    "correctAnswer": "Dívida",
+    "options": ["Dívida", "Lucro", "Crédito", "Receita"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'for sale' em inglês?",
+    "correctAnswer": "À venda",
+    "options": ["À venda", "Em promoção", "Esgotado", "Reservado"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'deal' no contexto de negócios em inglês?",
+    "correctAnswer": "Acordo / Negócio",
+    "options": ["Acordo / Negócio", "Problema", "Produto", "Serviço"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'invoice' em inglês?",
+    "correctAnswer": "Nota fiscal / Fatura",
+    "options": ["Nota fiscal / Fatura", "Contrato", "Recibo simples", "Boleto"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'budget' em inglês?",
+    "correctAnswer": "Orçamento",
+    "options": ["Orçamento", "Lucro", "Despesa", "Receita"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'brand' em inglês?",
+    "correctAnswer": "Marca",
+    "options": ["Marca", "Produto", "Empresa", "Logotipo"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'receipt' em inglês?",
+    "correctAnswer": "Recibo / Comprovante",
+    "options": ["Recibo / Comprovante", "Fatura", "Contrato", "Cheque"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'supply' em inglês?",
+    "correctAnswer": "Fornecimento / Oferta",
+    "options": ["Fornecimento / Oferta", "Demanda", "Produção", "Distribuição"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'demand' no contexto econômico em inglês?",
+    "correctAnswer": "Demanda / Procura",
+    "options": ["Demanda / Procura", "Oferta", "Produção", "Consumo"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'stock' no contexto de negócios em inglês?",
+    "correctAnswer": "Estoque / Ações",
+    "options": ["Estoque / Ações", "Produto novo", "Pedido", "Promoção"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'in stock' em inglês?",
+    "correctAnswer": "Em estoque / Disponível",
+    "options": ["Em estoque / Disponível", "Esgotado", "Em promoção", "Reservado"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'asset' em inglês no contexto financeiro?",
+    "correctAnswer": "Ativo / Bem",
+    "options": ["Ativo / Bem", "Passivo", "Despesa", "Imposto"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'equity' em inglês no contexto financeiro?",
+    "correctAnswer": "Patrimônio líquido",
+    "options": ["Patrimônio líquido", "Dívida total", "Receita bruta", "Despesa fixa"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'revenue' em inglês?",
+    "correctAnswer": "Receita",
+    "options": ["Receita", "Despesa", "Imposto", "Lucro líquido"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'liability' em inglês no contexto contábil?",
+    "correctAnswer": "Passivo / Obrigação",
+    "options": ["Passivo / Obrigação", "Ativo", "Patrimônio", "Receita"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'merger' em inglês no contexto empresarial?",
+    "correctAnswer": "Fusão de empresas",
+    "options": ["Fusão de empresas", "Falência", "Venda de empresa", "Expansão"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'dividend' em inglês?",
+    "correctAnswer": "Dividendo",
+    "options": ["Dividendo", "Imposto", "Empréstimo", "Salário"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'audit' em inglês?",
+    "correctAnswer": "Auditoria",
+    "options": ["Auditoria", "Relatório", "Contrato", "Orçamento"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'cash flow' em inglês?",
+    "correctAnswer": "Fluxo de caixa",
+    "options": ["Fluxo de caixa", "Saldo bancário", "Lucro bruto", "Capital de giro"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'shareholder' em inglês?",
+    "correctAnswer": "Acionista",
+    "options": ["Acionista", "Funcionário", "Fornecedor", "Cliente"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'overhead' em inglês no contexto empresarial?",
+    "correctAnswer": "Custos indiretos / Despesas gerais",
+    "options": ["Custos indiretos / Despesas gerais", "Lucro operacional", "Receita extra", "Capital social"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'break even' em inglês?",
+    "correctAnswer": "Ponto de equilíbrio (sem lucro nem prejuízo)",
+    "options": ["Ponto de equilíbrio (sem lucro nem prejuízo)", "Lucro máximo", "Falência", "Meta atingida"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'forecast' em inglês no contexto de negócios?",
+    "correctAnswer": "Previsão / Projeção",
+    "options": ["Previsão / Projeção", "Relatório atual", "Resultado passado", "Meta anual"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'collateral' em inglês no contexto financeiro?",
+    "correctAnswer": "Garantia (de empréstimo)",
+    "options": ["Garantia (de empréstimo)", "Juros", "Parcela", "Prazo"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'accounts payable' em inglês?",
+    "correctAnswer": "Contas a pagar",
+    "options": ["Contas a pagar", "Contas a receber", "Saldo devedor", "Fluxo de caixa"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'accounts receivable' em inglês?",
+    "correctAnswer": "Contas a receber",
+    "options": ["Contas a receber", "Contas a pagar", "Saldo credor", "Receita bruta"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'depreciation' em inglês no contexto contábil?",
+    "correctAnswer": "Depreciação",
+    "options": ["Depreciação", "Valorização", "Amortização de dívida", "Lucro contábil"],
+    "difficulty": "hard"
+  }
+]

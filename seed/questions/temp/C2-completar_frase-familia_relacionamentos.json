@@ -1,0 +1,522 @@
+[
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "Minha avó sempre foi a pessoa mais ___ da família, resolvendo todos os conflitos com sabedoria.",
+    "correctAnswer": "nurturing",
+    "options": ["nurturing", "demanding", "distant", "stubborn"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "Após anos separados, os irmãos finalmente se ___ e superaram suas diferenças.",
+    "correctAnswer": "reconciled",
+    "options": ["reconciled", "separated", "ignored", "competed"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "A criança foi ___ por seus pais adotivos com muito amor e dedicação.",
+    "correctAnswer": "raised",
+    "options": ["raised", "abandoned", "dismissed", "replaced"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "Eles tiveram um relacionamento muito ___, cheio de respeito e companheirismo.",
+    "correctAnswer": "fulfilling",
+    "options": ["fulfilling", "turbulent", "shallow", "distant"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "Meus pais sempre ___ minha opinião, mesmo quando eu era criança.",
+    "correctAnswer": "valued",
+    "options": ["valued", "mocked", "disregarded", "feared"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "O casal decidiu ___ depois de vinte anos de casamento.",
+    "correctAnswer": "divorce",
+    "options": ["divorce", "reunite", "celebrate", "argue"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "A família ___ nas férias de verão para manter os laços familiares.",
+    "correctAnswer": "gathers",
+    "options": ["gathers", "disperses", "ignores", "competes"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "Ele é muito ___ com os filhos, nunca perdendo uma apresentação escolar.",
+    "correctAnswer": "devoted",
+    "options": ["devoted", "indifferent", "careless", "strict"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "Os avós ___ os netos toda vez que eles os visitam.",
+    "correctAnswer": "spoil",
+    "options": ["spoil", "ignore", "discipline", "avoid"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "Minha irmã e eu temos uma relação muito ___; raramente discordamos.",
+    "correctAnswer": "harmonious",
+    "options": ["harmonious", "hostile", "indifferent", "competitive"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "Após o nascimento do bebê, o casal sentiu um vínculo ainda mais ___ entre si.",
+    "correctAnswer": "profound",
+    "options": ["profound", "superficial", "fragile", "distant"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "Ela ___ o papel de mãe com muita responsabilidade e carinho.",
+    "correctAnswer": "embraced",
+    "options": ["embraced", "rejected", "avoided", "doubted"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "Os filhos precisam de um ambiente ___ para se desenvolverem bem.",
+    "correctAnswer": "stable",
+    "options": ["stable", "chaotic", "hostile", "unpredictable"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "Eles ___ juntos há mais de trinta anos sem nunca perder o carinho um pelo outro.",
+    "correctAnswer": "have been",
+    "options": ["have been", "were apart", "have separated", "had broken"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "O relacionamento entre pai e filho ficou ___ depois da conversa honesta.",
+    "correctAnswer": "stronger",
+    "options": ["stronger", "weaker", "identical", "colder"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "A família ___ um papel central na formação dos valores das crianças.",
+    "correctAnswer": "plays",
+    "options": ["plays", "avoids", "destroys", "ignores"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "Minha mãe sempre ___ meus sonhos, mesmo quando pareciam impossíveis.",
+    "correctAnswer": "supported",
+    "options": ["supported", "criticized", "dismissed", "neglected"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "Depois de anos de silêncio, os dois irmãos ___ suas diferenças e retomaram o contato.",
+    "correctAnswer": "set aside",
+    "options": ["set aside", "exacerbated", "reinforced", "catalogued"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "O casal atravessou uma fase ___ após o nascimento do segundo filho, mas conseguiu superar.",
+    "correctAnswer": "turbulent",
+    "options": ["turbulent", "blissful", "monotonous", "ceremonial"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "Ela tinha uma relação muito ___ com a mãe; ambas dividiam segredos e aspirações.",
+    "correctAnswer": "intimate",
+    "options": ["intimate", "superficial", "formal", "indifferent"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "Os pais ___ a autonomia dos filhos ao permitir que eles tomassem suas próprias decisões.",
+    "correctAnswer": "fostered",
+    "options": ["fostered", "suppressed", "undermined", "restricted"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "A relação entre sogra e nora é frequentemente ___ por expectativas não ditas.",
+    "correctAnswer": "strained",
+    "options": ["strained", "celebrated", "enriched", "resolved"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "Ele sempre foi o ___ da família, mantendo todos unidos nos momentos difíceis.",
+    "correctAnswer": "backbone",
+    "options": ["backbone", "outcast", "burden", "rival"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "A criança ___ entre dois mundos culturais diferentes, já que seus pais eram de países distintos.",
+    "correctAnswer": "navigated",
+    "options": ["navigated", "collapsed", "abandoned", "rejected"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "O pai ___ um padrão elevado de integridade que os filhos admiravam e tentavam imitar.",
+    "correctAnswer": "embodied",
+    "options": ["embodied", "dismissed", "concealed", "undermined"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "A morte do patriarca deixou um vazio ___ na dinâmica familiar.",
+    "correctAnswer": "irreplaceable",
+    "options": ["irreplaceable", "temporary", "manageable", "trivial"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "Os conflitos familiares não resolvidos tendem a ___ com o passar das gerações.",
+    "correctAnswer": "persist",
+    "options": ["persist", "vanish", "improve", "simplify"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "Ele tinha dificuldade em ___ com os filhos adolescentes, que pareciam viver em outro mundo.",
+    "correctAnswer": "connect",
+    "options": ["connect", "compete", "separate", "lecture"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "O casal conseguiu manter a chama ___ do relacionamento mesmo após décadas juntos.",
+    "correctAnswer": "alive",
+    "options": ["alive", "extinguished", "dormant", "concealed"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "A mãe tinha uma habilidade ___ de saber quando seus filhos estavam passando por dificuldades.",
+    "correctAnswer": "uncanny",
+    "options": ["uncanny", "ordinary", "limited", "learned"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "As expectativas ___ dos pais podem criar uma pressão enorme sobre os filhos.",
+    "correctAnswer": "unrealistic",
+    "options": ["unrealistic", "supportive", "constructive", "minimal"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "O divórcio revelou ___ familiares que haviam sido ignoradas por anos.",
+    "correctAnswer": "fractures",
+    "options": ["fractures", "improvements", "traditions", "celebrations"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "Ela precisou estabelecer ___ claros com sua família de origem após o casamento.",
+    "correctAnswer": "boundaries",
+    "options": ["boundaries", "alliances", "rituals", "permissions"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "O relacionamento deles era ___, repleto de momentos de cumplicidade e crescimento mútuo.",
+    "correctAnswer": "enriching",
+    "options": ["enriching", "draining", "trivial", "superficial"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "Os traumas de infância ___ a forma como os adultos estabelecem vínculos afetivos.",
+    "correctAnswer": "shape",
+    "options": ["shape", "erase", "celebrate", "delay"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "A irmã mais velha ___ um papel quase materno diante da ausência dos pais.",
+    "correctAnswer": "assumed",
+    "options": ["assumed", "dismissed", "declined", "questioned"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "A ___ emocional entre os gêmeos era tão intensa que um sentia a dor do outro à distância.",
+    "correctAnswer": "attunement",
+    "options": ["attunement", "detachment", "rivalry", "indifference"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "O comportamento ___ da mãe impedia os filhos de desenvolverem autonomia emocional.",
+    "correctAnswer": "enmeshed",
+    "options": ["enmeshed", "detached", "nurturing", "permissive"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "O pai ___ seus filhos em papéis rígidos que não refletiam suas verdadeiras personalidades.",
+    "correctAnswer": "pigeonholed",
+    "options": ["pigeonholed", "liberated", "celebrated", "guided"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "O silêncio ___ entre os irmãos durou décadas, alimentado por ressentimentos não expressos.",
+    "correctAnswer": "estrangement",
+    "options": ["estrangement", "reconciliation", "camaraderie", "affection"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "A dinâmica ___ da família resultava em conflitos velados que nunca eram diretamente abordados.",
+    "correctAnswer": "dysfunctional",
+    "options": ["dysfunctional", "cohesive", "exemplary", "transparent"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "Ele foi acusado de ___ os filhos ao privá-los de experiências emocionais saudáveis.",
+    "correctAnswer": "emotionally stunting",
+    "options": ["emotionally stunting", "deeply nurturing", "actively supporting", "wholly accepting"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "O casamento deles era sustentado por uma ___ tácita de que certos assuntos jamais seriam discutidos.",
+    "correctAnswer": "tacit agreement",
+    "options": ["tacit agreement", "open covenant", "mutual confession", "verbal contract"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "A ___ intergeracional de traumas explica por que padrões destrutivos se repetem em famílias.",
+    "correctAnswer": "transmission",
+    "options": ["transmission", "interruption", "dissolution", "amplification"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "O filho mais velho carregou por anos o peso de ser o ___ emocional da família.",
+    "correctAnswer": "scapegoat",
+    "options": ["scapegoat", "mediator", "patriarch", "beneficiary"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "A relação entre os cônjuges deteriorou-se gradualmente devido a uma ___ crescente de intimidade.",
+    "correctAnswer": "erosion",
+    "options": ["erosion", "abundance", "renewal", "preservation"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "A família ___ em torno do membro mais carismático, ignorando as necessidades dos demais.",
+    "correctAnswer": "orbited",
+    "options": ["orbited", "dispersed", "unified", "celebrated"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "A mãe ___ suas próprias ambições não realizadas nos filhos, criando expectativas irreais.",
+    "correctAnswer": "projected",
+    "options": ["projected", "concealed", "abandoned", "suppressed"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "O casal passou por uma fase de ___ antes de chegar a um entendimento mais maduro sobre o casamento.",
+    "correctAnswer": "disillusionment",
+    "options": ["disillusionment", "enchantment", "celebration", "contentment"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "Os laços ___ da família extensa mantinham viva uma cultura ancestral rica.",
+    "correctAnswer": "consanguineous",
+    "options": ["consanguineous", "contractual", "superficial", "institutional"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "Após a terapia, ela conseguiu ___ os padrões disfuncionais herdados de sua família de origem.",
+    "correctAnswer": "disentangle herself from",
+    "options": ["disentangle herself from", "perpetuate further", "wholly embrace", "subtly reinforce"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "familia_relacionamentos",
+    "type": "complete_sentence",
+    "questionText": "A ___ parental excessiva impedia os filhos de desenvolverem resiliência emocional.",
+    "correctAnswer": "overprotectiveness",
+    "options": ["overprotectiveness", "negligence", "indifference", "encouragement"],
+    "difficulty": "hard"
+  }
+]

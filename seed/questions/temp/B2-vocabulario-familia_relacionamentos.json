@@ -1,0 +1,502 @@
+﻿[
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se chama o irmão de seu pai ou de sua mãe?",
+    "correctAnswer": "Uncle",
+    "options": ["Uncle", "Cousin", "Nephew", "Grandfather"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual é o termo para a filha do seu irmão?",
+    "correctAnswer": "Niece",
+    "options": ["Niece", "Cousin", "Daughter", "Sister"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como você chama a mãe do seu cônjuge?",
+    "correctAnswer": "Mother-in-law",
+    "options": ["Mother-in-law", "Aunt", "Sister-in-law", "Grandmother"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O termo para dois filhos nascidos ao mesmo tempo é?",
+    "correctAnswer": "Twins",
+    "options": ["Twins", "Siblings", "Cousins", "Brothers"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se chama o homem com quem uma mulher é casada?",
+    "correctAnswer": "Husband",
+    "options": ["Husband", "Partner", "Fiance", "Companion"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual é o termo para filhos do mesmo pai mas de mães diferentes?",
+    "correctAnswer": "Half-brother",
+    "options": ["Half-brother", "Step-brother", "Cousin", "Nephew"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como você chama a mãe de seu pai?",
+    "correctAnswer": "Grandmother",
+    "options": ["Grandmother", "Aunt", "Mother", "Grand-aunt"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual é o nome para os filhos de seus tios e tias?",
+    "correctAnswer": "Cousins",
+    "options": ["Cousins", "Nephews", "Siblings", "Relatives"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O pai da mãe de alguém é chamado de?",
+    "correctAnswer": "Grandfather",
+    "options": ["Grandfather", "Great-grandfather", "Uncle", "Ancestor"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se chama a mulher com quem um homem está namorando e pretende casar?",
+    "correctAnswer": "Fiancee",
+    "options": ["Fiancee", "Girlfriend", "Partner", "Companion"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual é o termo para o marido da sua filha?",
+    "correctAnswer": "Son-in-law",
+    "options": ["Son-in-law", "Husband", "Brother-in-law", "Nephew"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como você chama a irmã do seu marido ou namorado?",
+    "correctAnswer": "Sister-in-law",
+    "options": ["Sister-in-law", "Cousin", "Aunt", "Friend"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que é um 'stepchild' em português?",
+    "correctAnswer": "Enteado ou enteada",
+    "options": ["Enteado ou enteada", "Filho adotivo", "Filho biológico", "Primo"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se chama uma mulher que está grávida e esperando um bebê?",
+    "correctAnswer": "Pregnant woman",
+    "options": ["Pregnant woman", "Mother", "Wife", "Young woman"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual é o termo para o pai da esposa de alguém?",
+    "correctAnswer": "Father-in-law",
+    "options": ["Father-in-law", "Uncle", "Grandfather", "Stepfather"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como você chama a criança que sua tia está criando como sua filha?",
+    "correctAnswer": "Cousin",
+    "options": ["Cousin", "Niece", "Adopted sister", "Relative"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'custody' no contexto de família?",
+    "correctAnswer": "Guarda legal de uma criança",
+    "options": ["Guarda legal de uma criança", "Divórcio", "Adoção", "Casamento"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual palavra descreve um casal que acabou de casar?",
+    "correctAnswer": "Newlyweds",
+    "options": ["Newlyweds", "Couples", "Partners", "Spouses"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como você chama alguém que é amigo de seu pai desde a infância?",
+    "correctAnswer": "Family friend",
+    "options": ["Family friend", "Uncle", "Godfather", "Relative"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que é um 'godparent' na família?",
+    "correctAnswer": "Padrinho ou madrinha",
+    "options": ["Padrinho ou madrinha", "Tio ou tia", "Primo", "Avô ou avó"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se chama o processo legal de terminar um casamento?",
+    "correctAnswer": "Divorce",
+    "options": ["Divorce", "Separation", "Annulment", "Breakup"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual é o termo para uma família formada por membros de relacionamentos anteriores?",
+    "correctAnswer": "Blended family",
+    "options": ["Blended family", "Extended family", "Nuclear family", "Relatives"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como você chama um casal que vive junto sem ser casado?",
+    "correctAnswer": "Cohabitants",
+    "options": ["Cohabitants", "Partners", "Roommates", "Friends"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'in-laws' em português?",
+    "correctAnswer": "Parentes por casamento",
+    "options": ["Parentes por casamento", "Amigos íntimos", "Colegas de trabalho", "Vizinhos"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se chama a cerimônia de casamento realizada na igreja?",
+    "correctAnswer": "Wedding ceremony",
+    "options": ["Wedding ceremony", "Reception", "Honeymoon", "Engagement"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual é o termo para a mãe que não é biológica?",
+    "correctAnswer": "Adoptive mother",
+    "options": ["Adoptive mother", "Stepmother", "Guardian", "Relative"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como você chama o período de namoro antes do casamento?",
+    "correctAnswer": "Courtship",
+    "options": ["Courtship", "Engagement", "Dating", "Romance"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'surname' em português?",
+    "correctAnswer": "Sobrenome",
+    "options": ["Sobrenome", "Nome próprio", "Apelido", "Nome do meio"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se chama a viagem de um casal recém-casado?",
+    "correctAnswer": "Honeymoon",
+    "options": ["Honeymoon", "Vacation", "Trip", "Adventure"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual é o termo para a família formada por pais e filhos apenas?",
+    "correctAnswer": "Nuclear family",
+    "options": ["Nuclear family", "Extended family", "Blended family", "Single-parent family"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como você chama o ato de pedir uma mulher em casamento?",
+    "correctAnswer": "Proposal",
+    "options": ["Proposal", "Engagement", "Declaration", "Promise"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'sibling' em português?",
+    "correctAnswer": "Irmão ou irmã",
+    "options": ["Irmão ou irmã", "Primo", "Tio", "Avó"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se chama alguém responsável legalmente por uma criança orfã?",
+    "correctAnswer": "Guardian",
+    "options": ["Guardian", "Godparent", "Adoptive parent", "Foster parent"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual é o termo para quando um casal para de viver junto?",
+    "correctAnswer": "Separation",
+    "options": ["Separation", "Divorce", "Annulment", "Break"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que é uma relação que envolve sentimento forte de amor?",
+    "correctAnswer": "Romantic relationship",
+    "options": ["Romantic relationship", "Friendship", "Professional relationship", "Acquaintance"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se chama o sentimento de ciúme em uma relação amorosa?",
+    "correctAnswer": "Jealousy",
+    "options": ["Jealousy", "Envy", "Resentment", "Anger"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual é o termo para a morte do cônjuge de alguém?",
+    "correctAnswer": "Bereavement",
+    "options": ["Bereavement", "Divorce", "Separation", "Estrangement"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como você chama o ajuste à vida matrimonial?",
+    "correctAnswer": "Marriage adjustment",
+    "options": ["Marriage adjustment", "Honeymoon phase", "Courtship", "Engagement period"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'estrangement' na vida familiar?",
+    "correctAnswer": "Afastamento entre membros da família",
+    "options": ["Afastamento entre membros da família", "Morte", "Divórcio", "Separação"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se chama quando alguém quer casar de novo após divórcio?",
+    "correctAnswer": "Remarriage",
+    "options": ["Remarriage", "Engagement", "Wedding", "Courtship"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual é o termo para impossibilidade de ter filhos biologicamente?",
+    "correctAnswer": "Infertility",
+    "options": ["Infertility", "Childlessness", "Adoption", "Barrenness"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como você chama um pai que abandona sua responsabilidade?",
+    "correctAnswer": "Deadbeat dad",
+    "options": ["Deadbeat dad", "Bachelor", "Divorced man", "Single father"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'nepotism' no contexto familiar?",
+    "correctAnswer": "Favoritismo para com familiares",
+    "options": ["Favoritismo para com familiares", "Amor pela família", "Lealdade familiar", "Respeito aos pais"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se chama a pessoa que fornece esperma ou óvulo?",
+    "correctAnswer": "Donor",
+    "options": ["Donor", "Parent", "Guardian", "Godparent"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual é o termo para valores mantidos pela família?",
+    "correctAnswer": "Family values",
+    "options": ["Family values", "Traditions", "Heritage", "Legacy"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como você chama o desejo intenso de ter filhos?",
+    "correctAnswer": "Longing for children",
+    "options": ["Longing for children", "Despair", "Sadness", "Disappointment"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'reconciliation' em relacionamentos?",
+    "correctAnswer": "Reaproximação após conflito",
+    "options": ["Reaproximação após conflito", "Divórcio", "Separação", "Afastamento"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se chama a cerimônia de batizado?",
+    "correctAnswer": "Christening",
+    "options": ["Christening", "Wedding", "Graduation", "Coming-of-age"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual é o termo para o sobrenome da mulher antes de casar?",
+    "correctAnswer": "Maiden name",
+    "options": ["Maiden name", "Original name", "Birth name", "Family name"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se chama a prática de favorecer familiares em questões de negócios?",
+    "correctAnswer": "Cronyism",
+    "options": ["Cronyism", "Favoritism", "Nepotism", "Kinship"],
+    "difficulty": "hard"
+  }
+]

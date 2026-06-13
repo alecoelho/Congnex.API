@@ -1,0 +1,512 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você está com dor de cabeça e precisa dizer isso ao médico. O que você diz?",
+    "correctAnswer": "I have a headache.",
+    "options": ["I have a headache.", "I am hungry.", "I have a book.", "I am happy."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você precisa dizer que está doente. O que você diz?",
+    "correctAnswer": "I am sick.",
+    "options": ["I am sick.", "I am tall.", "I am fast.", "I am old."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O médico pergunta como você está se sentindo. Como você responde que está bem?",
+    "correctAnswer": "I feel fine.",
+    "options": ["I feel fine.", "I feel cold.", "I feel big.", "I feel blue."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir uma aspirina na farmácia. O que você diz?",
+    "correctAnswer": "I need an aspirin, please.",
+    "options": ["I need an aspirin, please.", "I need a pencil, please.", "I need a ticket, please.", "I need a book, please."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que está com febre. O que você diz?",
+    "correctAnswer": "I have a fever.",
+    "options": ["I have a fever.", "I have a car.", "I have a dog.", "I have a pen."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Alguém pergunta se você está bem. Como você diz que não está bem?",
+    "correctAnswer": "I am not well.",
+    "options": ["I am not well.", "I am not here.", "I am not ready.", "I am not late."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você precisa ligar para o médico e marcar uma consulta. O que você diz?",
+    "correctAnswer": "I need a doctor.",
+    "options": ["I need a doctor.", "I need a teacher.", "I need a driver.", "I need a waiter."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que está cansado. O que você diz?",
+    "correctAnswer": "I am tired.",
+    "options": ["I am tired.", "I am angry.", "I am young.", "I am clean."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O médico pergunta onde dói. Como você diz que dói a barriga?",
+    "correctAnswer": "My stomach hurts.",
+    "options": ["My stomach hurts.", "My car hurts.", "My house hurts.", "My chair hurts."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que precisa descansar. O que você diz?",
+    "correctAnswer": "I need to rest.",
+    "options": ["I need to rest.", "I need to run.", "I need to cook.", "I need to drive."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que está com dor de garganta. O que você diz?",
+    "correctAnswer": "I have a sore throat.",
+    "options": ["I have a sore throat.", "I have a new car.", "I have a red bag.", "I have a small house."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O enfermeiro pergunta se você tem alergia. Como você diz que não tem?",
+    "correctAnswer": "No, I don't have any allergies.",
+    "options": ["No, I don't have any allergies.", "No, I don't have any money.", "No, I don't have any brothers.", "No, I don't have any books."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que está com frio e não se sente bem. O que você diz?",
+    "correctAnswer": "I feel cold and sick.",
+    "options": ["I feel cold and sick.", "I feel cold and happy.", "I feel cold and tall.", "I feel cold and fast."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir água ao enfermeiro. O que você diz?",
+    "correctAnswer": "Can I have some water, please?",
+    "options": ["Can I have some water, please?", "Can I have some paper, please?", "Can I have some music, please?", "Can I have some chairs, please?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que seu braço dói. O que você diz?",
+    "correctAnswer": "My arm hurts.",
+    "options": ["My arm hurts.", "My arm reads.", "My arm eats.", "My arm sleeps."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você precisa dizer que toma um remédio todo dia. O que você diz?",
+    "correctAnswer": "I take medicine every day.",
+    "options": ["I take medicine every day.", "I eat medicine every day.", "I drink medicine every day.", "I buy medicine every day."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que está com dor nas costas. O que você diz?",
+    "correctAnswer": "I have a backache.",
+    "options": ["I have a backache.", "I have a sandwich.", "I have a birthday.", "I have a window."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O médico pergunta há quantos dias você está doente. Como você diz que está há três dias?",
+    "correctAnswer": "I have been sick for three days.",
+    "options": ["I have been sick for three days.", "I have been sick for three books.", "I have been sick for three cars.", "I have been sick for three chairs."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar ao farmacêutico se ele tem remédio para gripe. O que você diz?",
+    "correctAnswer": "Do you have medicine for a cold?",
+    "options": ["Do you have medicine for a cold?", "Do you have food for a cold?", "Do you have clothes for a cold?", "Do you have books for a cold?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O médico pede para você abrir a boca. O que você entende?",
+    "correctAnswer": "Open your mouth, please.",
+    "options": ["Open your mouth, please.", "Open your eyes, please.", "Open your hands, please.", "Open your book, please."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que não come bem e por isso está fraco. O que você diz?",
+    "correctAnswer": "I don't eat well and I feel weak.",
+    "options": ["I don't eat well and I feel weak.", "I don't eat well and I feel tall.", "I don't eat well and I feel cold.", "I don't eat well and I feel fast."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você precisa dizer ao médico que você não dorme bem. O que você diz?",
+    "correctAnswer": "I don't sleep well.",
+    "options": ["I don't sleep well.", "I don't eat well.", "I don't walk well.", "I don't talk well."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar ao médico o que você deve comer quando está doente. O que você diz?",
+    "correctAnswer": "What should I eat when I am sick?",
+    "options": ["What should I eat when I am sick?", "What should I drink when I am happy?", "What should I wear when I am cold?", "What should I read when I am bored?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que precisa tomar água porque está desidratado. O que você diz?",
+    "correctAnswer": "I need to drink water. I am dehydrated.",
+    "options": ["I need to drink water. I am dehydrated.", "I need to drink water. I am happy.", "I need to drink water. I am bored.", "I need to drink water. I am tall."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar ao médico qual remédio você deve tomar. O que você diz?",
+    "correctAnswer": "What medicine should I take?",
+    "options": ["What medicine should I take?", "What food should I take?", "What book should I take?", "What clothes should I take?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer ao médico que você tosse muito. O que você diz?",
+    "correctAnswer": "I cough a lot.",
+    "options": ["I cough a lot.", "I sneeze a lot.", "I laugh a lot.", "I sleep a lot."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O médico pergunta se você fuma. Como você diz que não fuma?",
+    "correctAnswer": "No, I don't smoke.",
+    "options": ["No, I don't smoke.", "No, I don't run.", "No, I don't dance.", "No, I don't drive."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que precisa de uma consulta médica urgente. O que você diz?",
+    "correctAnswer": "I need an urgent appointment.",
+    "options": ["I need an urgent appointment.", "I need an urgent newspaper.", "I need an urgent sandwich.", "I need an urgent holiday."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que seu filho está com febre alta. O que você diz?",
+    "correctAnswer": "My son has a high fever.",
+    "options": ["My son has a high fever.", "My son has a high score.", "My son has a high table.", "My son has a high voice."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar se o hospital fica perto. O que você diz?",
+    "correctAnswer": "Is the hospital near here?",
+    "options": ["Is the hospital near here?", "Is the school near here?", "Is the market near here?", "Is the hotel near here?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer ao médico que você está grávida. O que você diz?",
+    "correctAnswer": "I am pregnant.",
+    "options": ["I am pregnant.", "I am patient.", "I am present.", "I am pretty."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que faz exercício três vezes por semana para manter a saúde. O que você diz?",
+    "correctAnswer": "I exercise three times a week.",
+    "options": ["I exercise three times a week.", "I exercise three times a month.", "I rest three times a week.", "I sleep three times a week."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer ao enfermeiro que está com muita dor. O que você diz?",
+    "correctAnswer": "I am in a lot of pain.",
+    "options": ["I am in a lot of pain.", "I am in a lot of fun.", "I am in a lot of money.", "I am in a lot of joy."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você precisa dizer que tem diabetes ao médico. O que você diz?",
+    "correctAnswer": "I have diabetes.",
+    "options": ["I have diabetes.", "I have a diploma.", "I have a dictionary.", "I have directions."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O médico pergunta se você tem alguma doença crônica. Como você diz que tem pressão alta?",
+    "correctAnswer": "I have high blood pressure.",
+    "options": ["I have high blood pressure.", "I have high blood sugar.", "I have high blood count.", "I have high blood type."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar ao médico se precisa de cirurgia. O que você diz?",
+    "correctAnswer": "Do I need surgery?",
+    "options": ["Do I need surgery?", "Do I need a shower?", "Do I need a vacation?", "Do I need a meeting?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você precisa dizer ao médico que você tem alergia a penicilina. O que você diz?",
+    "correctAnswer": "I am allergic to penicillin.",
+    "options": ["I am allergic to penicillin.", "I am allergic to pepper.", "I am allergic to pencils.", "I am allergic to perfume."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer ao médico que o seu coração bate muito rápido. O que você diz?",
+    "correctAnswer": "My heart beats very fast.",
+    "options": ["My heart beats very fast.", "My heart feels very cold.", "My heart works very hard.", "My heart runs very well."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você precisa dizer que está tonto e com náusea ao médico. O que você diz?",
+    "correctAnswer": "I feel dizzy and nauseous.",
+    "options": ["I feel dizzy and nauseous.", "I feel dizzy and nervous.", "I feel dizzy and noisy.", "I feel dizzy and narrow."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar ao médico se você pode voltar a praticar esportes depois da lesão. O que você diz?",
+    "correctAnswer": "Can I play sports again?",
+    "options": ["Can I play sports again?", "Can I eat sports again?", "Can I teach sports again?", "Can I buy sports again?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você precisa dizer ao médico que está tomando dois remédios ao mesmo tempo. O que você diz?",
+    "correctAnswer": "I am taking two medicines at the same time.",
+    "options": ["I am taking two medicines at the same time.", "I am buying two medicines at the same time.", "I am eating two medicines at the same time.", "I am reading two medicines at the same time."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar ao médico se o seu problema é grave. O que você diz?",
+    "correctAnswer": "Is my condition serious?",
+    "options": ["Is my condition serious?", "Is my condition strange?", "Is my condition simple?", "Is my condition slow?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer ao médico que a dor começa de manhã e melhora à tarde. O que você diz?",
+    "correctAnswer": "The pain starts in the morning and gets better in the afternoon.",
+    "options": ["The pain starts in the morning and gets better in the afternoon.", "The pain starts in the morning and gets better at night.", "The pain starts at night and gets better in the afternoon.", "The pain starts at noon and gets better in the morning."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você precisa perguntar ao médico se pode comer normalmente durante o tratamento. O que você diz?",
+    "correctAnswer": "Can I eat normally during the treatment?",
+    "options": ["Can I eat normally during the treatment?", "Can I sleep normally during the treatment?", "Can I work normally during the treatment?", "Can I travel normally during the treatment?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que seu joelho está inchado após cair. O que você diz?",
+    "correctAnswer": "My knee is swollen after I fell.",
+    "options": ["My knee is swollen after I fell.", "My knee is broken after I fell.", "My knee is dirty after I fell.", "My knee is tired after I fell."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você precisa dizer ao médico que a dor é constante e não passa. O que você diz?",
+    "correctAnswer": "The pain is constant and does not go away.",
+    "options": ["The pain is constant and does not go away.", "The pain is constant and does not come back.", "The pain is strong and does not go away.", "The pain is old and does not go away."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar ao médico quantas vezes por dia deve tomar o remédio. O que você diz?",
+    "correctAnswer": "How many times a day should I take the medicine?",
+    "options": ["How many times a day should I take the medicine?", "How many times a week should I take the medicine?", "How many times a month should I take the medicine?", "How many times a year should I take the medicine?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você precisa informar ao médico que tem histórico familiar de problemas cardíacos. O que você diz?",
+    "correctAnswer": "My family has a history of heart problems.",
+    "options": ["My family has a history of heart problems.", "My family has a history of back problems.", "My family has a history of eye problems.", "My family has a history of foot problems."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que a dor piora quando você se movimenta. O que você diz?",
+    "correctAnswer": "The pain gets worse when I move.",
+    "options": ["The pain gets worse when I move.", "The pain gets worse when I eat.", "The pain gets worse when I sleep.", "The pain gets worse when I read."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você precisa dizer ao médico que sente falta de ar às vezes. O que você diz?",
+    "correctAnswer": "Sometimes I have difficulty breathing.",
+    "options": ["Sometimes I have difficulty breathing.", "Sometimes I have difficulty sleeping.", "Sometimes I have difficulty walking.", "Sometimes I have difficulty eating."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar ao médico se vai precisar de exames de sangue. O que você diz?",
+    "correctAnswer": "Do I need a blood test?",
+    "options": ["Do I need a blood test?", "Do I need a blood type?", "Do I need a blood count?", "Do I need a blood group?"],
+    "difficulty": "hard"
+  }
+]

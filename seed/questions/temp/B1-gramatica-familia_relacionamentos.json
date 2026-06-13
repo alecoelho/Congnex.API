@@ -1,0 +1,492 @@
+[
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Meu irmão _____ casado há cinco anos.",
+    "correctAnswer": "é",
+    "options": ["é", "está", "foi", "fica"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "A minha avó _____ uma mulher muito simpática.",
+    "correctAnswer": "é",
+    "options": ["é", "tem", "está", "fica"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Nós _____ três filhos e uma filha.",
+    "correctAnswer": "temos",
+    "options": ["temos", "somos", "estamos", "ficamos"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Ela _____ morando com os pais atualmente.",
+    "correctAnswer": "está",
+    "options": ["está", "é", "tem", "fica"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Meus primos _____ muito próximos de mim.",
+    "correctAnswer": "são",
+    "options": ["são", "estão", "têm", "ficam"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "A sogra dele _____ chegado ontem.",
+    "correctAnswer": "chegou",
+    "options": ["chegou", "chegar", "chegando", "chegara"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você _____ irmãos?",
+    "correctAnswer": "tem",
+    "options": ["tem", "é", "está", "fica"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Meu marido _____ trabalhando agora.",
+    "correctAnswer": "está",
+    "options": ["está", "é", "tem", "fica"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "As tias dele _____ muito alegres.",
+    "correctAnswer": "são",
+    "options": ["são", "estão", "têm", "ficam"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Nós _____ perto um do outro.",
+    "correctAnswer": "moramos",
+    "options": ["moramos", "morando", "morar", "morávamos"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Ela _____ uma filha de dois anos.",
+    "correctAnswer": "tem",
+    "options": ["tem", "é", "está", "fica"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você _____ divorciado há muito tempo?",
+    "correctAnswer": "é",
+    "options": ["é", "está", "foi", "fica"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O pai dele _____ um advogado famoso.",
+    "correctAnswer": "é",
+    "options": ["é", "tem", "está", "fica"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Meus avós _____ de Portugal.",
+    "correctAnswer": "são",
+    "options": ["são", "estão", "foram", "ficam"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Sua filha _____ na universidade agora.",
+    "correctAnswer": "está",
+    "options": ["está", "é", "tem", "fica"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Eu _____ meu sobrinho todos os fins de semana.",
+    "correctAnswer": "vejo",
+    "options": ["vejo", "ver", "vendo", "vi"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Eles _____ uma relação muito próxima.",
+    "correctAnswer": "têm",
+    "options": ["têm", "são", "estão", "ficam"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Se você _____ mais paciente com sua mãe, ela ficaria mais feliz.",
+    "correctAnswer": "fosse",
+    "options": ["fosse", "é", "foi", "seja"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Embora ele _____ muito ocupado, sempre visita a avó.",
+    "correctAnswer": "esteja",
+    "options": ["esteja", "está", "é", "foi"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Minha mãe _____ que eu deveria ligar para meu tio.",
+    "correctAnswer": "sugeriu",
+    "options": ["sugeriu", "sugere", "sugerisse", "sugira"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Quando meu filho _____, faremos uma festa grande.",
+    "correctAnswer": "nascer",
+    "options": ["nascer", "nasce", "nasceu", "nasceria"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Se eu _____ solteiro, teria mais tempo livre.",
+    "correctAnswer": "fosse",
+    "options": ["fosse", "sou", "fui", "seja"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Ele pediu-me que _____ mais atenção a meus irmãos.",
+    "correctAnswer": "desse",
+    "options": ["desse", "dou", "dei", "dava"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Meu avó, _____ sempre foi muito sábio, faleceu no ano passado.",
+    "correctAnswer": "que",
+    "options": ["que", "qual", "quem", "o qual"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "A menina _____ pais faleceram é minha prima.",
+    "correctAnswer": "cujos",
+    "options": ["cujos", "que", "qual", "onde"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Meus primos, _____ moram em São Paulo, vão vir no Natal.",
+    "correctAnswer": "que",
+    "options": ["que", "qual", "os quais", "os que"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "A casa _____ minha avó mora fica perto daqui.",
+    "correctAnswer": "onde",
+    "options": ["onde", "qual", "que", "quando"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Ele não só ajuda seus pais _____ também seus avós.",
+    "correctAnswer": "como",
+    "options": ["como", "mas", "porém", "contudo"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Se ele tivesse chegado mais cedo, _____ encontrado toda a família.",
+    "correctAnswer": "teria",
+    "options": ["teria", "tem", "teve", "terá"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Minha irmã sempre _____ sido muito dedicada aos estudos.",
+    "correctAnswer": "tem",
+    "options": ["tem", "é", "foi", "fica"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Eles estão _____ o namorado dela há três meses.",
+    "correctAnswer": "vendo",
+    "options": ["vendo", "ver", "visto", "vê"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Meus pais _____ comprado uma casa no campo.",
+    "correctAnswer": "têm",
+    "options": ["têm", "são", "estão", "fazem"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "A família dela _____ muito unida desde a infância.",
+    "correctAnswer": "é",
+    "options": ["é", "está", "tem sido", "foi"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Caso você _____ férias, deveria passar tempo com seus avós.",
+    "correctAnswer": "tivesse",
+    "options": ["tivesse", "tem", "teve", "tém"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Parece que o casal _____ se separando.",
+    "correctAnswer": "está",
+    "options": ["está", "é", "tem", "fica"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Ainda que _____ diferenças, eles se amam muito.",
+    "correctAnswer": "haja",
+    "options": ["haja", "há", "houve", "haverá"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Meu primo, o _____ é engenheiro, casou-se no ano passado.",
+    "correctAnswer": "qual",
+    "options": ["qual", "que", "quem", "cuja"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Se meu tio _____ vindo ontem, teríamos conversado mais.",
+    "correctAnswer": "tivesse",
+    "options": ["tivesse", "tem", "foi", "vinha"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Os filhos _____ pais trabalham no hospital são amigos nossos.",
+    "correctAnswer": "cujos",
+    "options": ["cujos", "que", "qual", "onde"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Ela preferiria _____ casada do que continuar vivendo sozinha.",
+    "correctAnswer": "ser",
+    "options": ["ser", "estar", "serem", "estarem"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Não obstante _____ sido amigos, eles não se falam mais.",
+    "correctAnswer": "terem",
+    "options": ["terem", "tem", "tivessem", "houvessem"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O avó _____ filhos cresceram aqui foi muito respeitado.",
+    "correctAnswer": "cujos",
+    "options": ["cujos", "que", "qual", "cuja"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "A menos que ele _____ mudado de ideia, virá ao casamento.",
+    "correctAnswer": "tenha",
+    "options": ["tenha", "tem", "teve", "teria"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Minha sogra, _____ é muito elegante, é psicóloga.",
+    "correctAnswer": "a qual",
+    "options": ["a qual", "que", "qual", "quem"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Se você _____ seu pai mais frequentemente, ele seria mais feliz.",
+    "correctAnswer": "visitasse",
+    "options": ["visitasse", "visita", "visitou", "visitaria"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Por mais que ele _____ trabalhado, nunca negligencia a família.",
+    "correctAnswer": "tenha",
+    "options": ["tenha", "tem", "teve", "trabalha"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Os avós _____ vimos em Lisboa são muito velhinhos.",
+    "correctAnswer": "que",
+    "options": ["que", "qual", "quem", "onde"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Assumindo que ela _____ aceitar o noivo, a cerimônia será em junho.",
+    "correctAnswer": "vá",
+    "options": ["vá", "vai", "foi", "vinha"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Minha tia, _____ filhas são amigas minhas, vive em Madrid.",
+    "correctAnswer": "cujas",
+    "options": ["cujas", "que", "qual", "cuja"],
+    "difficulty": "hard"
+  }
+]

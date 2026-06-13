@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Você está ajudando um colega a resolver um problema técnico. Como você oferece ajuda de forma direta?",
+        "correctAnswer":  "Let me help you fix that issue.",
+        "options":  [
+                        "Let me help you fix that issue.",
+                        "You must solve this problem now.",
+                        "Why don\u0027t you know how to do this?",
+                        "This is impossible to fix."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como você pede informações sobre a velocidade de conexão de internet para um amigo?",
+        "correctAnswer":  "What\u0027s your internet speed like?",
+        "options":  [
+                        "What\u0027s your internet speed like?",
+                        "Your internet is slow.",
+                        "Tell me if your internet works.",
+                        "Internet speed is important."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Você está em uma videoconferência e sua internet caiu. Como você explica a situação?",
+        "correctAnswer":  "I\u0027m sorry, my connection dropped. Can you hear me now?",
+        "options":  [
+                        "I\u0027m sorry, my connection dropped. Can you hear me now?",
+                        "The internet is broken.",
+                        "I don\u0027t want to talk anymore.",
+                        "This technology is useless."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como você sugere que alguém use um aplicativo novo?",
+        "correctAnswer":  "You should try downloading this app. It might be useful for you.",
+        "options":  [
+                        "You should try downloading this app. It might be useful for you.",
+                        "Download this app immediately.",
+                        "Apps are better than websites.",
+                        "This app is terrible."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como você expressa entusiasmo sobre uma nova tecnologia?",
+        "correctAnswer":  "This new gadget is incredibly impressive!",
+        "options":  [
+                        "This new gadget is incredibly impressive!",
+                        "Technology is confusing.",
+                        "I don\u0027t like new devices.",
+                        "This won\u0027t work anyway."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como você pede a alguém para compartilhar um arquivo digital?",
+        "correctAnswer":  "Could you send me that file when you get a chance?",
+        "options":  [
+                        "Could you send me that file when you get a chance?",
+                        "Send the file now.",
+                        "Files are too large.",
+                        "I don\u0027t need any files."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como você avisa alguém sobre um possível problema de segurança online?",
+        "correctAnswer":  "Be careful with that link; it might be unsafe.",
+        "options":  [
+                        "Be careful with that link; it might be unsafe.",
+                        "Click the link immediately.",
+                        "Security doesn\u0027t matter online.",
+                        "I don\u0027t know about links."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como você explica que precisa reiniciar um dispositivo?",
+        "correctAnswer":  "I need to restart my device to fix this problem.",
+        "options":  [
+                        "I need to restart my device to fix this problem.",
+                        "My device is broken forever.",
+                        "Restarting never helps.",
+                        "Devices don\u0027t need restarting."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como você exprime falta de compreensão sobre uma funcionalidade técnica?",
+        "correctAnswer":  "I\u0027m not sure how to use this feature. Can you explain it to me?",
+        "options":  [
+                        "I\u0027m not sure how to use this feature. Can you explain it to me?",
+                        "This feature is stupid.",
+                        "Technology is too hard.",
+                        "I\u0027ll never understand this."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como você oferece uma solução alternativa para um problema técnico?",
+        "correctAnswer":  "If that doesn\u0027t work, you could try using this other method instead.",
+        "options":  [
+                        "If that doesn\u0027t work, you could try using this other method instead.",
+                        "Nothing will solve this problem.",
+                        "You should give up now.",
+                        "There is only one solution."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como você pede instruções sobre como instalar um software?",
+        "correctAnswer":  "Could you walk me through the installation steps?",
+        "options":  [
+                        "Could you walk me through the installation steps?",
+                        "Software is easy to install.",
+                        "I\u0027ll never install anything.",
+                        "Instructions are useless."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como você expressa surpresa sobre a capacidade de um dispositivo?",
+        "correctAnswer":  "I had no idea this device could do that!",
+        "options":  [
+                        "I had no idea this device could do that!",
+                        "Devices are all the same.",
+                        "This doesn\u0027t surprise me.",
+                        "Capabilities don\u0027t matter."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como você comunica que esqueceu sua senha?",
+        "correctAnswer":  "I forgot my password. Can I reset it?",
+        "options":  [
+                        "I forgot my password. Can I reset it?",
+                        "Passwords are unnecessary.",
+                        "I don\u0027t need to log in.",
+                        "Forgetting passwords is impossible."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como você recomenda atualizar um aplicativo?",
+        "correctAnswer":  "I\u0027d suggest updating your app to get the latest features.",
+        "options":  [
+                        "I\u0027d suggest updating your app to get the latest features.",
+                        "Never update anything.",
+                        "Apps get worse after updates.",
+                        "Updates are always harmful."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como você explica que um site não está funcionando corretamente?",
+        "correctAnswer":  "This website seems to be having technical difficulties.",
+        "options":  [
+                        "This website seems to be having technical difficulties.",
+                        "The internet is completely broken.",
+                        "Websites never work.",
+                        "I don\u0027t use websites."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como você solicita permissão para acessar dados técnicos de alguém?",
+        "correctAnswer":  "Would it be okay if I access your system logs?",
+        "options":  [
+                        "Would it be okay if I access your system logs?",
+                        "I\u0027ll access your data without asking.",
+                        "Privacy doesn\u0027t matter online.",
+                        "System logs are useless."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Seu cliente está frustrado com um sistema que implementou. Como você reconhece sua preocupação profissionalmente?",
+        "correctAnswer":  "I understand your frustration. Let me work on improving the system\u0027s performance.",
+        "options":  [
+                        "I understand your frustration. Let me work on improving the system\u0027s performance.",
+                        "This system is perfect as it is.",
+                        "Your concerns don\u0027t matter.",
+                        "Technology is difficult for everyone."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como você sugere diplomaticamente que alguém use uma abordagem diferente para resolver um problema técnico?",
+        "correctAnswer":  "Have you considered trying a different approach? It might be more efficient.",
+        "options":  [
+                        "Have you considered trying a different approach? It might be more efficient.",
+                        "Your method is completely wrong.",
+                        "There\u0027s only one right way.",
+                        "You\u0027ll never solve it that way."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como você explica um conceito técnico complexo a alguém menos experiente?",
+        "correctAnswer":  "Let me simplify that for you. Think of it like this...",
+        "options":  [
+                        "Let me simplify that for you. Think of it like this...",
+                        "This is too complex to explain.",
+                        "You should already know this.",
+                        "Technical concepts are impossible to understand."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como você informa a alguém que um arquivo está corrompido ou danificado?",
+        "correctAnswer":  "Unfortunately, that file appears to be corrupted. We\u0027ll need to restore it from a backup.",
+        "options":  [
+                        "Unfortunately, that file appears to be corrupted. We\u0027ll need to restore it from a backup.",
+                        "Your file is destroyed forever.",
+                        "Backups are pointless.",
+                        "Files never get corrupted."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como você solicita feedback sobre uma nova interface de usuário que desenvolveu?",
+        "correctAnswer":  "I\u0027d appreciate your feedback on this new interface. What do you think could be improved?",
+        "options":  [
+                        "I\u0027d appreciate your feedback on this new interface. What do you think could be improved?",
+                        "The interface is perfect.",
+                        "I don\u0027t need anyone\u0027s opinion.",
+                        "User feedback is useless."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como você comunica que será necessário fazer uma pausa no serviço para manutenção?",
+        "correctAnswer":  "We\u0027ll need to take the system offline for maintenance next weekend.",
+        "options":  [
+                        "We\u0027ll need to take the system offline for maintenance next weekend.",
+                        "The system will never need maintenance.",
+                        "Users won\u0027t notice the downtime.",
+                        "Maintenance isn\u0027t important."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como você oferece apoio técnico remoto a um usuário final?",
+        "correctAnswer":  "I can guide you through this. First, can you tell me what error message you\u0027re seeing?",
+        "options":  [
+                        "I can guide you through this. First, can you tell me what error message you\u0027re seeing?",
+                        "I can\u0027t help you remotely.",
+                        "Just restart your computer.",
+                        "Error messages don\u0027t matter."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como você negocia um prazo para completar um projeto técnico complexo?",
+        "correctAnswer":  "Given the complexity, I\u0027d estimate we\u0027ll need three weeks. Does that timeline work for you?",
+        "options":  [
+                        "Given the complexity, I\u0027d estimate we\u0027ll need three weeks. Does that timeline work for you?",
+                        "We can finish tomorrow for sure.",
+                        "Time estimates don\u0027t matter.",
+                        "Complex projects are impossible."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como você exprime preocupação sobre vulnerabilidades de segurança descobertas?",
+        "correctAnswer":  "I\u0027m concerned about these security vulnerabilities. We should address them immediately.",
+        "options":  [
+                        "I\u0027m concerned about these security vulnerabilities. We should address them immediately.",
+                        "Security doesn\u0027t really matter.",
+                        "Vulnerabilities are normal.",
+                        "We can ignore security issues."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como você documenta um procedimento técnico complexo para que outros o entendam?",
+        "correctAnswer":  "Let me document this process step-by-step so everyone can follow it clearly.",
+        "options":  [
+                        "Let me document this process step-by-step so everyone can follow it clearly.",
+                        "Documentation is a waste of time.",
+                        "People should just figure it out.",
+                        "Complex procedures can\u0027t be documented."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como você argumenta a favor de investir em melhorias tecnológicas?",
+        "correctAnswer":  "Investing in these upgrades will improve our efficiency and reduce long-term costs.",
+        "options":  [
+                        "Investing in these upgrades will improve our efficiency and reduce long-term costs.",
+                        "We don\u0027t need any upgrades.",
+                        "New technology always fails.",
+                        "Investment in technology is pointless."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como você anuncia o lançamento de uma nova versão de software?",
+        "correctAnswer":  "We\u0027re excited to announce the release of version 3.0 with several enhancements.",
+        "options":  [
+                        "We\u0027re excited to announce the release of version 3.0 with several enhancements.",
+                        "The new version might not work.",
+                        "Nobody wants new versions.",
+                        "Software updates are always bad."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como você reconhece um erro que cometeu em uma implementação técnica?",
+        "correctAnswer":  "I made a mistake in the configuration. Let me fix that and test it again.",
+        "options":  [
+                        "I made a mistake in the configuration. Let me fix that and test it again.",
+                        "This error isn\u0027t my fault.",
+                        "Mistakes never happen.",
+                        "I won\u0027t fix my mistakes."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como você oferece treinamento sobre um novo sistema para uma equipe?",
+        "correctAnswer":  "I\u0027ll conduct a training session to ensure everyone understands how to use this new system effectively.",
+        "options":  [
+                        "I\u0027ll conduct a training session to ensure everyone understands how to use this new system effectively.",
+                        "Training is unnecessary.",
+                        "People learn best alone.",
+                        "Systems don\u0027t need training."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Você está investigando por que um servidor está com desempenho lento. Como você informa a situação?",
+        "correctAnswer":  "The server is experiencing performance issues. I\u0027m investigating the root cause and will update you shortly.",
+        "options":  [
+                        "The server is experiencing performance issues. I\u0027m investigating the root cause and will update you shortly.",
+                        "The server works fine.",
+                        "Performance doesn\u0027t matter.",
+                        "I won\u0027t investigate anything."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como você expressa entendimento quando alguém descreve um problema técnico complexo?",
+        "correctAnswer":  "I understand what you\u0027re describing. This is a bandwidth limitation issue affecting your connection.",
+        "options":  [
+                        "I understand what you\u0027re describing. This is a bandwidth limitation issue affecting your connection.",
+                        "I don\u0027t understand anything.",
+                        "Technical problems are simple.",
+                        "Your description doesn\u0027t make sense."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como você sugere que um colega mude para uma solução de código aberto mais sustentável?",
+        "correctAnswer":  "Have you considered migrating to an open-source solution? It could reduce our licensing costs significantly.",
+        "options":  [
+                        "Have you considered migrating to an open-source solution? It could reduce our licensing costs significantly.",
+                        "Open-source is always worse.",
+                        "Licensed software is always better.",
+                        "Cost reduction doesn\u0027t matter."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Você precisa argumentar contra a implementação de uma tecnologia inadequada. Como você estrutura sua argumentação?",
+        "correctAnswer":  "While I appreciate the proposal, this technology isn\u0027t scalable for our current infrastructure and would create technical debt.",
+        "options":  [
+                        "While I appreciate the proposal, this technology isn\u0027t scalable for our current infrastructure and would create technical debt.",
+                        "I just don\u0027t like this technology.",
+                        "All technologies are the same.",
+                        "We should implement everything proposed."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como você explica a diferença entre atualizar e fazer backup de dados de forma compreensível para um usuário leigo?",
+        "correctAnswer":  "An update improves the software, while a backup creates a copy of your data in case something goes wrong.",
+        "options":  [
+                        "An update improves the software, while a backup creates a copy of your data in case something goes wrong.",
+                        "Updates and backups are the same thing.",
+                        "Backups are unnecessary.",
+                        "Updates destroy your data."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como você media um desacordo entre dois engenheiros sobre a melhor arquitetura de sistema?",
+        "correctAnswer":  "Both approaches have merit. Let\u0027s evaluate them based on scalability, maintenance, and cost to make the best decision.",
+        "options":  [
+                        "Both approaches have merit. Let\u0027s evaluate them based on scalability, maintenance, and cost to make the best decision.",
+                        "One of you must be completely wrong.",
+                        "Architecture doesn\u0027t really matter.",
+                        "We should implement both simultaneously."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como você comunica sobre uma violação de dados sem gerar pânico desnecessário?",
+        "correctAnswer":  "We detected unauthorized access to our system. We\u0027re taking immediate steps to secure it and will provide updates as the situation develops.",
+        "options":  [
+                        "We detected unauthorized access to our system. We\u0027re taking immediate steps to secure it and will provide updates as the situation develops.",
+                        "Your data is completely compromised.",
+                        "Breaches never happen.",
+                        "We won\u0027t do anything about it."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como você coordena entre departamentos para implementar uma solução tecnológica integrada?",
+        "correctAnswer":  "We need to align with all stakeholders. Let me schedule meetings with each department to understand their requirements and ensure seamless integration.",
+        "options":  [
+                        "We need to align with all stakeholders. Let me schedule meetings with each department to understand their requirements and ensure seamless integration.",
+                        "Different departments don\u0027t need to communicate.",
+                        "Integration is impossible.",
+                        "Stakeholder input doesn\u0027t matter."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como você solicita extensão de prazo para um projeto técnico com argumentos sólidos?",
+        "correctAnswer":  "We\u0027ve encountered unexpected technical complexities. I\u0027d like to propose extending the deadline by two weeks to ensure quality and minimize risk.",
+        "options":  [
+                        "We\u0027ve encountered unexpected technical complexities. I\u0027d like to propose extending the deadline by two weeks to ensure quality and minimize risk.",
+                        "The deadline is too soon, period.",
+                        "Quality doesn\u0027t matter, just finish.",
+                        "Projects always take forever anyway."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como você reforma com educação as práticas de codificação inadequadas de um desenvolvedor junior?",
+        "correctAnswer":  "Your code works, but let me show you a cleaner approach that will be easier to maintain and follows our coding standards.",
+        "options":  [
+                        "Your code works, but let me show you a cleaner approach that will be easier to maintain and follows our coding standards.",
+                        "Your code is terrible.",
+                        "Don\u0027t worry about code quality.",
+                        "Junior developers should figure it out alone."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como você explica os benefícios de implementar práticas de DevOps para uma organização tradicional?",
+        "correctAnswer":  "DevOps practices will streamline our deployment process, reduce errors, and enable faster feature releases while maintaining system stability.",
+        "options":  [
+                        "DevOps practices will streamline our deployment process, reduce errors, and enable faster feature releases while maintaining system stability.",
+                        "DevOps doesn\u0027t actually do anything.",
+                        "Change is never beneficial.",
+                        "Our current process is perfect."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como você convence a liderança a investir em cybersegurança apesar do orçamento apertado?",
+        "correctAnswer":  "Investing in cybersecurity now will prevent costly data breaches later and protect our reputation and customer trust.",
+        "options":  [
+                        "Investing in cybersecurity now will prevent costly data breaches later and protect our reputation and customer trust.",
+                        "Cybersecurity is too expensive.",
+                        "Breaches only happen to other companies.",
+                        "Prevention isn\u0027t worth the investment."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como você apresenta resultados técnicos de testes de desempenho a stakeholders não-técnicos?",
+        "correctAnswer":  "In simple terms, our optimizations improved load times by 40%, which means users will experience a faster, more responsive application.",
+        "options":  [
+                        "In simple terms, our optimizations improved load times by 40%, which means users will experience a faster, more responsive application.",
+                        "Technical metrics don\u0027t matter to anyone.",
+                        "Non-technical people can\u0027t understand anything.",
+                        "Performance improvements are invisible."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como você negocia escolhas de tecnologia entre inovação e estabilidade comprovada?",
+        "correctAnswer":  "We should consider both factors. While the new technology is innovative, the proven solution has better long-term support and lower risk.",
+        "options":  [
+                        "We should consider both factors. While the new technology is innovative, the proven solution has better long-term support and lower risk.",
+                        "Always choose the newest technology.",
+                        "Stability means stagnation.",
+                        "Innovation is irrelevant."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como você promove uma cultura de compartilhamento de conhecimento técnico em sua equipe?",
+        "correctAnswer":  "Let\u0027s establish regular knowledge-sharing sessions where team members can present solutions and best practices they\u0027ve discovered.",
+        "options":  [
+                        "Let\u0027s establish regular knowledge-sharing sessions where team members can present solutions and best practices they\u0027ve discovered.",
+                        "Knowledge should be kept secret.",
+                        "Team members don\u0027t need to learn from each other.",
+                        "Sharing ideas is inefficient."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como você aborda a resistência de usuários finais à adoção de um novo software?",
+        "correctAnswer":  "I understand the transition can be challenging. Let me provide comprehensive training and ongoing support to help you adapt to the new system.",
+        "options":  [
+                        "I understand the transition can be challenging. Let me provide comprehensive training and ongoing support to help you adapt to the new system.",
+                        "Users should adapt immediately without help.",
+                        "Resistance doesn\u0027t matter.",
+                        "New software doesn\u0027t require training."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como você estrutura feedback técnico construtivo sobre um design de interface proposto?",
+        "correctAnswer":  "The layout is intuitive, but I\u0027d suggest reorganizing these elements for better workflow. Here\u0027s what I\u0027d recommend...",
+        "options":  [
+                        "The layout is intuitive, but I\u0027d suggest reorganizing these elements for better workflow. Here\u0027s what I\u0027d recommend...",
+                        "This design is completely wrong.",
+                        "Feedback should be purely negative.",
+                        "Design doesn\u0027t matter if it works."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como você informa a alguém que precisa fazer upgrade de sua versão de software?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Your current software version is outdated. I recommend upgrading to the latest version for better performance and security.",
+                        "Your software is too old and worthless.",
+                        "Nobody ever upgrades anything.",
+                        "The latest version is always worse."
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Your current software version is outdated. I recommend upgrading to the latest version for better performance and security."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como você equilibra a necessidade de inovação com a estabilidade ao propor mudanças tecnológicas significativas?",
+        "difficulty":  "hard",
+        "options":  [
+                        "While innovation is important, we must carefully balance it with system stability. Let\u0027s implement this gradually with comprehensive testing.",
+                        "Innovation always comes at the cost of stability.",
+                        "We should prioritize stability above all else.",
+                        "Change should happen immediately without planning."
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "While innovation is important, we must carefully balance it with system stability. Let\u0027s implement this gradually with comprehensive testing."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como você cria consenso entre stakeholders com interesses conflitantes em relação à tecnologia a implementar?",
+        "difficulty":  "hard",
+        "options":  [
+                        "I\u0027ll facilitate a meeting with all stakeholders to discuss priorities, concerns, and compromises, ensuring everyone\u0027s needs are considered in the final decision.",
+                        "One stakeholder\u0027s opinion is always right.",
+                        "Consensus is impossible to achieve.",
+                        "I\u0027ll just implement what I think is best."
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "I\u0027ll facilitate a meeting with all stakeholders to discuss priorities, concerns, and compromises, ensuring everyone\u0027s needs are considered in the final decision."
+    }
+]

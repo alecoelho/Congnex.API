@@ -1,0 +1,502 @@
+[
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você quer apresentar sua melhor amiga para sua mãe. O que você diz?",
+    "correctAnswer": "I'd like you to meet my best friend",
+    "options": ["I'd like you to meet my best friend", "I want you know my best friend", "Please to meet my best friend", "You should know my best friend"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Seu primo chegou na sua casa depois de muito tempo. Como você reage?",
+    "correctAnswer": "I'm so happy to see you!",
+    "options": ["I'm so happy to see you!", "I'm very happy that I see you", "I very happy to see you", "I'm so happy for seeing you"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você está em uma festa e quer saber se seu namorado/namorada está se divertindo. O que diz?",
+    "correctAnswer": "Are you having a good time?",
+    "options": ["Are you having a good time?", "Do you have a good time?", "Are you enjoying a good time?", "Do you feeling good time?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você quer confortar sua irmã que está triste. Como faz?",
+    "correctAnswer": "Don't worry, everything will be okay",
+    "options": ["Don't worry, everything will be okay", "Not worry, all will be good", "No worry, all things be okay", "Don't be worried, everything okay"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Seu pai fez algo muito legal e você quer elogiá-lo. O que você diz?",
+    "correctAnswer": "That was really nice of you, Dad",
+    "options": ["That was really nice of you, Dad", "That was very nicely from you", "This is really nice you did", "You did really nice thing"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir um favor ao seu avó. Como começa?",
+    "correctAnswer": "Could you do me a favor?",
+    "options": ["Could you do me a favor?", "Can you make me a favor?", "Would you do me a favor please?", "Could you do a favor for me?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer ao seu melhor amigo que sente falta dele. Como expressa?",
+    "correctAnswer": "I really miss you",
+    "options": ["I really miss you", "I really miss myself with you", "I'm missing you very much", "You are very missed by me"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você encontra uma antiga colega de escola. O que diz?",
+    "correctAnswer": "It's been so long! How have you been?",
+    "options": ["It's been so long! How have you been?", "It's been long time! How you are?", "Has been so long! Are you good?", "It being long! How you have been?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você quer expressar que confia muito em alguém. Como diz?",
+    "correctAnswer": "I trust you completely",
+    "options": ["I trust you completely", "I trusting you complete", "I'm trust in you complete", "I trust completely in you"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Seu tio chegou da viagem e você quer saber como foi. O que pergunta?",
+    "correctAnswer": "How was your trip?",
+    "options": ["How was your trip?", "How did your trip go?", "How your trip was?", "What about your trip is?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você quer cumprimentar sua avó no seu aniversário. Como faz?",
+    "correctAnswer": "Happy birthday, Grandma!",
+    "options": ["Happy birthday, Grandma!", "Congratulations for your birthday, Grandma", "Happy to your birthday, Grandma", "Best wishes for birth day, Grandma"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que cresceu com seus avós. Como expressa?",
+    "correctAnswer": "I grew up with my grandparents",
+    "options": ["I grew up with my grandparents", "I grow up with my grandparents", "I was growing with my grandparents", "I grown up with my grandparents"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você quer convidar seu irmão para uma atividade. O que diz?",
+    "correctAnswer": "Would you like to come with me?",
+    "options": ["Would you like to come with me?", "Do you like coming with me?", "Would you like to coming with me?", "You would like come with me?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você quer expressar amor pela sua família. O que diz?",
+    "correctAnswer": "I love my family very much",
+    "options": ["I love my family very much", "I'm loving my family very much", "My family I love very much", "Very much I love my family"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você quer desculpar-se por ter perdido o telefone do seu amigo. Como começa?",
+    "correctAnswer": "I'm sorry, I lost your number",
+    "options": ["I'm sorry, I lost your number", "I'm sorry, I lost number of you", "Sorry, your number is lost by me", "I lose sorry your number"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar se alguém está relacionado com você. O que diz?",
+    "correctAnswer": "Are you related to me?",
+    "options": ["Are you related to me?", "Are you relating to me?", "Do you relate to me?", "Are you relative of me?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você está em desacordo com seu parceiro sobre algo importante. Como começa a conversa respeitosa?",
+    "correctAnswer": "I understand your point, but I think differently",
+    "options": ["I understand your point, but I think differently", "I understand you, but I think other", "Your point is good, but mine is correct", "You are wrong, I think different"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você quer sugerir uma atividade para fazer com seu parceiro. Como faz?",
+    "correctAnswer": "Why don't we go out for dinner tonight?",
+    "options": ["Why don't we go out for dinner tonight?", "Should we going out for dinner?", "Do you want that we go to dinner?", "Let's we go out for dinner tonight"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Seu amigo está passando por uma situação difícil e você quer mostrar empatia. O que diz?",
+    "correctAnswer": "I'm really sorry to hear that",
+    "options": ["I'm really sorry to hear that", "I'm very sorry that you are hearing this", "It's sorry for you hearing that", "I'm sorry of hearing that news"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você precisa pedir desculpas sinceras ao seu irmão por ter feito algo errado. Como faz?",
+    "correctAnswer": "I apologize for what I did. I was wrong",
+    "options": ["I apologize for what I did. I was wrong", "I sorry for what I did and was wrong", "I apologize what I did is wrong", "Apologizing for what I did because wrong"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você quer expressar que seus filhos são sua prioridade máxima. Como diz?",
+    "correctAnswer": "My children mean the world to me",
+    "options": ["My children mean the world to me", "My children are meaning the world for me", "My children meaning everything in the world", "My children mean world everything to me"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você quer explicar por que não pode ir a um encontro com seu amigo. Como faz?",
+    "correctAnswer": "I'm sorry, but I can't make it tonight",
+    "options": ["I'm sorry, but I can't make it tonight", "I'm sorry, but I can't do it tonight", "I'm sorry, I'm not able to coming tonight", "I'm sorry, I cannot be there tonight"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Sua mãe fez um bolo delicioso e você quer agradecê-la genuinamente. Como expressa?",
+    "correctAnswer": "Thank you so much for this lovely cake",
+    "options": ["Thank you so much for this lovely cake", "I thank very much for this cake lovely", "Thanks for this very cake delicious", "Thank you too much this cake"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você está participando de uma reunião familiar complicada e quer manter a paz. O que diz?",
+    "correctAnswer": "Let's try to understand each other's perspective",
+    "options": ["Let's try to understand each other's perspective", "Let's try understanding of each perspective", "We should to understand each other perspective", "Let's trying to understand each perspective"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você quer parabenizar seu pai pela sua promoção. Como faz?",
+    "correctAnswer": "Congratulations on your promotion, Dad!",
+    "options": ["Congratulations on your promotion, Dad!", "Congratulations for your promotion, Dad", "Congratulate you for your promotion, Dad", "Well done in your new promotion, Dad"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer ao seu parceiro que o ama profundamente. Como expressa?",
+    "correctAnswer": "I love you more than anything",
+    "options": ["I love you more than anything", "I'm loving you more than anything", "I love you than all things", "More than anything I love you"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você quer convidar sua família para uma celebração especial. Como faz?",
+    "correctAnswer": "I'd like to invite you all to my graduation party",
+    "options": ["I'd like to invite you all to my graduation party", "I wanting to invite all you to party", "I like to invite you all in my party", "I would like invite all of you to party"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Seu amigo está se mudando para longe e você quer expressar como vai sentir falta. O que diz?",
+    "correctAnswer": "I'll definitely miss our time together",
+    "options": ["I'll definitely miss our time together", "I will definitely missing our together time", "I'll definitely be missing of our time", "Definitely I miss our time together"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você descobre que seu irmão estava mentindo para você sobre algo importante. Como reage?",
+    "correctAnswer": "I'm disappointed that you lied to me",
+    "options": ["I'm disappointed that you lied to me", "I disappointed that you were lying to me", "It disappoints me you lied for me", "I'm disappointed because you lie to me"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você quer sugerir ao seu parceiro que vocês saiam juntos no fim de semana. Como propõe?",
+    "correctAnswer": "How about we spend the weekend together?",
+    "options": ["How about we spend the weekend together?", "What about spending together weekend?", "How we spend together the weekend?", "About we spending weekend together how?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você quer expressar que está preocupado com a saúde de um familiar. Como diz?",
+    "correctAnswer": "I'm worried about your health",
+    "options": ["I'm worried about your health", "I worry with your health", "I'm concern about your health", "Your health worrying me is"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você precisa lidar com ciúmes em um relacionamento. Como coloca a questão de forma madura?",
+    "correctAnswer": "I need to talk about my feelings of insecurity",
+    "options": ["I need to talk about my feelings of insecurity", "I need talking about insecurity feelings", "I should talking feelings insecurity about", "Need to discuss my feelings insecurity"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você está ajudando um colega com problemas familiares e quer ser solidário. O que diz?",
+    "correctAnswer": "I'm here for you if you need to talk",
+    "options": ["I'm here for you if you need to talk", "I'm here for you when need talking", "I being here for you if need talk", "Here for you I am if need"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você quer explicar ao seu parceiro por que seus amigos são importantes para você. Como faz?",
+    "correctAnswer": "My friends are important because they support me through everything",
+    "options": ["My friends are important because they support me through everything", "My friends important are because supporting me", "Friends important to me are being supportive always", "My friends are supporting me everything important"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Seu pai está envelhecendo e você quer mostrar apreciação pelas lições que aprendeu. Como expressa?",
+    "correctAnswer": "I'm grateful for all the wisdom you've shared with me",
+    "options": ["I'm grateful for all the wisdom you've shared with me", "I grateful about all wisdom shared for me", "All wisdom that you shared makes grateful me", "Grateful I am for the wisdom you sharing"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você descobre traição no seu relacionamento e precisa expressar sentimentos complexos. Como começa?",
+    "correctAnswer": "I feel betrayed and deeply hurt by what you did",
+    "options": ["I feel betrayed and deeply hurt by what you did", "I feeling betrayed deeply of what you did", "Betrayed and hurt I feel by what did you", "I feel that betrayed and hurt you made"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você quer estabelecer limites saudáveis com um membro da família controlador. Como faz?",
+    "correctAnswer": "I appreciate your concern, but I need my independence",
+    "options": ["I appreciate your concern, but I need my independence", "Appreciate your concern I do, but need independence", "I appreciate concern of yours, needing independence", "Your concern appreciated, but independence I need"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você quer motivar seu filho que está desistindo dos estudos. O que diz?",
+    "correctAnswer": "I believe in you and know you can do it",
+    "options": ["I believe in you and know you can do it", "I believe you and know that can do", "Believing in you I do and can do it", "In you I believe and you can doing"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você quer convencer sua família a aceitar sua decisão de carreira não convencional. Como argumenta?",
+    "correctAnswer": "I know this path isn't traditional, but it makes me happy",
+    "options": ["I know this path isn't traditional, but it makes me happy", "I knowing this path not traditional, makes me happy", "This path not being traditional but making happy", "This isn't traditional path, but happy making me"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você está reconciliando com alguém após um longo conflito. Como retoma o contato?",
+    "correctAnswer": "I miss you and I'd like to fix things between us",
+    "options": ["I miss you and I'd like to fix things between us", "Missing you I do and want fixing things", "I miss you wanting to fix between us things", "You missing and fixing things between us"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você quer expressar como a fidelidade é fundamental em seu relacionamento. Como diz?",
+    "correctAnswer": "Trust and honesty are the foundation of our relationship",
+    "options": ["Trust and honesty are the foundation of our relationship", "Trusting and honest is foundation of relationship", "Foundation our relationship is trusting honesty", "Are trust and honest the relationship foundation"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Seu avó está no final da vida e você quer expressar o quanto ela significou. Como faz?",
+    "correctAnswer": "You've been the most important person in my life",
+    "options": ["You've been the most important person in my life", "Being most important person you were in my life", "The most important person in life you are been", "You are being important most in my life"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você quer lidar com a possessividade do seu parceiro de forma construtiva. Como começa?",
+    "correctAnswer": "I love you, but I also value my friendships and personal time",
+    "options": ["I love you, but I also value my friendships and personal time", "Love you I do, but valuing friendships too", "Loving you but also valuing my time personal", "You love I do, but personal time valuing"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você está em uma situação de divórcio e precisa comunicar mudanças aos filhos. Como começa?",
+    "correctAnswer": "We need to talk about some important changes in our family",
+    "options": ["We need to talk about some important changes in our family", "Needing to talk about important family changes", "Talk about changes important we need in family", "Important to talk about family change need"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir perdão sincero após ferir alguém que ama. Como faz de forma genuína?",
+    "correctAnswer": "I realize now how much I hurt you, and I'm truly sorry",
+    "options": ["I realize now how much I hurt you, and I'm truly sorry", "Realizing now how much hurting you was wrong", "How much hurt you I did, being sorry truly", "I realize you were hurt and sorry I am"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você está oferecendo apoio emocional para um amigo que enfrenta luto. Como expressa?",
+    "correctAnswer": "I know nothing I say will ease your pain, but I'm here",
+    "options": ["I know nothing I say will ease your pain, but I'm here", "Nothing I saying will easing your pain, being here", "Know I nothing of easing pain, here I am", "I knowing nothing ease pain, here I being"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você descobriu algo importante sobre sua identidade e quer compartilhar com sua família. Como começa?",
+    "correctAnswer": "I want to share something important about myself with you",
+    "options": ["I want to share something important about myself with you", "Wanting sharing something important self about you", "Important something about sharing myself you want", "Share something I want important about me"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você quer reconhecer que cometeu um erro e cresceu com isso em seu relacionamento. Como expressa?",
+    "correctAnswer": "I made mistakes, but they taught me how to be a better partner",
+    "options": ["I made mistakes, but they taught me how to be a better partner", "Making mistakes I did, teaching me being better", "Mistakes made that taught being better partner", "I made mistakes teaching how being better partner"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você está conhecendo a família de seu novo namorado/namorada. O que diz?",
+    "correctAnswer": "It's nice to meet your family",
+    "options": ["It's nice to meet your family", "It's nice meeting your family", "Nice for meeting your family it is", "Meet your family nice for me is"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Você quer oferecer apoio ao seu melhor amigo que está passando por dificuldades. O que diz?",
+    "correctAnswer": "I'm always here for you, no matter what",
+    "options": ["I'm always here for you, no matter what", "I always here for you, no matter what", "I'm always here with you matter not what", "Always here I am for you no matter what"],
+    "difficulty": "hard"
+  }
+]

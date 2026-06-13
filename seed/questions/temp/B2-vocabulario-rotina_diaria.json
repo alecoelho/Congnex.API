@@ -1,0 +1,502 @@
+[
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'commute' no contexto da rotina diária?",
+    "correctAnswer": "Deslocamento diário para o trabalho",
+    "options": ["Deslocamento diário para o trabalho", "Hora do almoço", "Reunião matinal", "Pausa para descanso"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'unwind' quando alguém fala sobre sua rotina após o trabalho?",
+    "correctAnswer": "Relaxar e desestressar",
+    "options": ["Relaxar e desestressar", "Acordar cedo", "Organizar o escritório", "Fazer exercícios intensos"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'grab a bite' na frase 'I usually grab a bite before my commute'?",
+    "correctAnswer": "Comer algo rapidamente",
+    "options": ["Comer algo rapidamente", "Comprar mantimentos", "Tomar um café demorado", "Pular uma refeição"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'hit the snooze button' na rotina matinal?",
+    "correctAnswer": "Apertar o botão de soneca do despertador",
+    "options": ["Apertar o botão de soneca do despertador", "Desligar o despertador definitivamente", "Acordar antes do alarme", "Programar um novo alarme"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que é uma 'to-do list' no contexto da organização diária?",
+    "correctAnswer": "Lista de tarefas a realizar",
+    "options": ["Lista de tarefas a realizar", "Agenda de compromissos semanais", "Diário pessoal", "Relatório de atividades"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'run errands' na rotina do dia a dia?",
+    "correctAnswer": "Fazer recados e tarefas diversas fora de casa",
+    "options": ["Fazer recados e tarefas diversas fora de casa", "Praticar corrida ao ar livre", "Trabalhar horas extras", "Resolver problemas urgentes no trabalho"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'catch up on sleep' no contexto da rotina de fim de semana?",
+    "correctAnswer": "Compensar horas de sono perdidas",
+    "options": ["Compensar horas de sono perdidas", "Dormir mais cedo que o habitual", "Acordar na hora certa", "Tomar remédio para dormir"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'meal prep' na rotina semanal?",
+    "correctAnswer": "Preparar refeições com antecedência",
+    "options": ["Preparar refeições com antecedência", "Fazer compras no supermercado", "Comer fora com frequência", "Seguir uma dieta rigorosa"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'get dressed' no contexto da manhã?",
+    "correctAnswer": "Vestir-se",
+    "options": ["Vestir-se", "Tomar banho", "Penteiar-se", "Arrumar a cama"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que é um 'power nap' dentro da rotina diária?",
+    "correctAnswer": "Um cochilo curto e revigorante",
+    "options": ["Um cochilo curto e revigorante", "Uma sessão de meditação longa", "Um treino intenso de curta duração", "Uma pausa para tomar café forte"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'brush your teeth' no contexto da higiene pessoal?",
+    "correctAnswer": "Escovar os dentes",
+    "options": ["Escovar os dentes", "Lavar o rosto", "Penteiar o cabelo", "Tomar banho"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'take a shower' na rotina matinal?",
+    "correctAnswer": "Tomar um banho de chuveiro",
+    "options": ["Tomar um banho de chuveiro", "Tomar banho de banheira", "Lavar apenas o rosto", "Colocar roupa de banho"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que é 'make breakfast' em relação à primeira refeição do dia?",
+    "correctAnswer": "Preparar o café da manhã",
+    "options": ["Preparar o café da manhã", "Comer o almoço", "Servir a janta", "Pedir comida entregue"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'go to work' na rotina diária?",
+    "correctAnswer": "Ir para o trabalho",
+    "options": ["Ir para o trabalho", "Voltar do trabalho", "Trabalhar de casa", "Tirar um dia de folga"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'come home' no final do dia?",
+    "correctAnswer": "Voltar para casa",
+    "options": ["Voltar para casa", "Sair de casa", "Convidar amigos", "Fazer limpeza geral"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'go to bed' na rotina noturna?",
+    "correctAnswer": "Ir para a cama dormir",
+    "options": ["Ir para a cama dormir", "Acordar de manhã", "Fazer exercício", "Descansar no sofá"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'schedule' quando se fala sobre organização da rotina?",
+    "correctAnswer": "Agendar ou planejar atividades",
+    "options": ["Agendar ou planejar atividades", "Cancelar compromissos", "Adiar reuniões", "Confirmar presença"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'wind down' antes de dormir?",
+    "correctAnswer": "Desacelerar as atividades para se preparar para o sono",
+    "options": ["Desacelerar as atividades para se preparar para o sono", "Acordar com energia", "Fazer exercícios vigorosos", "Tomar algo estimulante"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'check your emails' no contexto profissional?",
+    "correctAnswer": "Verificar seus emails",
+    "options": ["Verificar seus emails", "Enviar mensagens de texto", "Fazer chamadas telefônicas", "Organizar a agenda"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'take a break' durante o trabalho?",
+    "correctAnswer": "Fazer uma pausa no trabalho",
+    "options": ["Fazer uma pausa no trabalho", "Terminar o expediente", "Trabalhar mais rápido", "Fazer horas extras"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'have lunch' na rotina do dia?",
+    "correctAnswer": "Almoçar",
+    "options": ["Almoçar", "Tomar café", "Fazer lanche", "Jantar"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'exercise' na rotina de saúde?",
+    "correctAnswer": "Fazer exercício físico",
+    "options": ["Fazer exercício físico", "Tomar medicamentos", "Ir ao médico", "Fazer cirurgia"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'prepare dinner' na rotina noturna?",
+    "correctAnswer": "Preparar a ceia ou refeição da noite",
+    "options": ["Preparar a ceia ou refeição da noite", "Comer algo rápido", "Pedir comida", "Comprar ingredientes"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'do chores' no contexto das tarefas domésticas?",
+    "correctAnswer": "Fazer tarefas domésticas",
+    "options": ["Fazer tarefas domésticas", "Organizar a casa", "Convidar visitas", "Limpar o quintal"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'keep a routine' na vida diária?",
+    "correctAnswer": "Manter uma rotina constante",
+    "options": ["Manter uma rotina constante", "Variar as atividades diárias", "Quebrar os hábitos", "Ter dias sem estrutura"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'set an alarm' na rotina matinal?",
+    "correctAnswer": "Programar um despertador",
+    "options": ["Programar um despertador", "Desligar o alarme", "Acordar naturalmente", "Dormir mais"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'wash dishes' depois das refeições?",
+    "correctAnswer": "Lavar a louça",
+    "options": ["Lavar a louça", "Guardar a louça", "Secar a louça", "Quebrar a louça"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'get up' na manhã?",
+    "correctAnswer": "Levantar da cama",
+    "options": ["Levantar da cama", "Descer as escadas", "Sentar no sofá", "Entrar na banheira"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'tidy up' no contexto da limpeza rápida?",
+    "correctAnswer": "Arrumar ou organizar rapidamente",
+    "options": ["Arrumar ou organizar rapidamente", "Limpar profundamente", "Organizar permanentemente", "Rearranjar os móveis"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'multitask' na rotina ocupada?",
+    "correctAnswer": "Realizar várias tarefas simultaneamente",
+    "options": ["Realizar várias tarefas simultaneamente", "Fazer uma tarefa por vez", "Procrastinar atividades", "Ignorar responsabilidades"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'procrastinate' na rotina de tarefas?",
+    "correctAnswer": "Adiar ou postergar tarefas",
+    "options": ["Adiar ou postergar tarefas", "Completar tarefas cedo", "Organizar prioridades", "Deletegar responsabilidades"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'maintain a healthy lifestyle' na rotina diária?",
+    "correctAnswer": "Manter um estilo de vida saudável",
+    "options": ["Manter um estilo de vida saudável", "Comer comida rápida", "Dormir muito pouco", "Evitar exercício"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'balance work and personal life' no contexto da rotina?",
+    "correctAnswer": "Equilibrar o trabalho e a vida pessoal",
+    "options": ["Equilibrar o trabalho e a vida pessoal", "Trabalhar o tempo todo", "Negligenciar responsabilidades", "Ficar inativo"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'streamline your routine' na busca por eficiência?",
+    "correctAnswer": "Simplificar e otimizar sua rotina",
+    "options": ["Simplificar e otimizar sua rotina", "Complicar as atividades", "Adicionar mais tarefas", "Desorganizar o dia"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'establish a bedtime ritual' na rotina noturna?",
+    "correctAnswer": "Criar uma rotina de comportamentos antes de dormir",
+    "options": ["Criar uma rotina de comportamentos antes de dormir", "Dormir em horas diferentes", "Assistir TV até tarde", "Usar telefone na cama"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'digital detox' na rotina contemporânea?",
+    "correctAnswer": "Período de abstinência de dispositivos digitais",
+    "options": ["Período de abstinência de dispositivos digitais", "Comprar novos aparelhos", "Usar internet constantemente", "Trabalhar online"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'delegate tasks' na rotina de trabalho?",
+    "correctAnswer": "Atribuir tarefas a outras pessoas",
+    "options": ["Atribuir tarefas a outras pessoas", "Fazer tudo sozinho", "Ignorar responsabilidades", "Atrasar prazos"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'time management' na organização diária?",
+    "correctAnswer": "Gerenciamento eficiente do tempo",
+    "options": ["Gerenciamento eficiente do tempo", "Desperdiçar o tempo", "Não ter estrutura", "Deixar tudo para última hora"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'self-care' na rotina de bem-estar?",
+    "correctAnswer": "Cuidar de si mesmo e sua saúde mental",
+    "options": ["Cuidar de si mesmo e sua saúde mental", "Negligenciar a saúde", "Trabalhar excessivamente", "Ignorar emoções"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'productivity hack' na rotina de trabalho?",
+    "correctAnswer": "Técnica ou estratégia para aumentar a produtividade",
+    "options": ["Técnica ou estratégia para aumentar a produtividade", "Trabalhar menos", "Fazer pausas longas", "Desistir de metas"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'morning person' quando se classifica alguém?",
+    "correctAnswer": "Pessoa que acorda cedo e é produtiva de manhã",
+    "options": ["Pessoa que acorda cedo e é produtiva de manhã", "Pessoa que dorme muito", "Pessoa que trabalha à noite", "Pessoa que não trabalha"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'night owl' na rotina diária?",
+    "correctAnswer": "Pessoa que prefere dormir tarde e acordar cedo",
+    "options": ["Pessoa que prefere dormir tarde e acordar cedo", "Pessoa que acorda muito cedo", "Pessoa que estuda pássaros", "Pessoa que trabalha à noite"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'wake up' na rotina matinal?",
+    "correctAnswer": "Acordar",
+    "options": ["Acordar", "Dormir profundamente", "Fazer um cochilo", "Desligar o alarme"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'plan your day' quando se fala de organização?",
+    "correctAnswer": "Planejar o dia",
+    "options": ["Planejar o dia", "Trabalhar sem estrutura", "Deixar tudo ao acaso", "Improvisar atividades"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'stick to a schedule' na vida estruturada?",
+    "correctAnswer": "Seguir uma agenda rigorosamente",
+    "options": ["Seguir uma agenda rigorosamente", "Ignorar compromissos", "Ser desorganizado", "Cancelar planos"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'enjoy a meal' na rotina alimentar?",
+    "correctAnswer": "Apreciar uma refeição",
+    "options": ["Apreciar uma refeição", "Pular refeições", "Comer rapidamente", "Recusar comida"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'reflect on your day' antes de dormir?",
+    "correctAnswer": "Refletir sobre os eventos do dia",
+    "options": ["Refletir sobre os eventos do dia", "Esquecer o dia passado", "Não pensar no dia", "Dormir imediatamente"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'optimize your workflow' na rotina profissional?",
+    "correctAnswer": "Melhorar a eficiência do seu trabalho",
+    "options": ["Melhorar a eficiência do seu trabalho", "Aumentar horas de trabalho", "Adicionar mais tarefas", "Reduzir qualidade"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'maintain discipline' na rotina consistente?",
+    "correctAnswer": "Manter a consistência e o foco nas tarefas",
+    "options": ["Manter a consistência e o foco nas tarefas", "Abandonar objetivos", "Perder a motivação", "Ser irregular"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'establish new habits' quando se quer mudar?",
+    "correctAnswer": "Criar novos comportamentos regulares",
+    "options": ["Criar novos comportamentos regulares", "Manter hábitos antigos", "Quebrar todas as rotinas", "Viver sem padrões"],
+    "difficulty": "hard"
+  }
+]

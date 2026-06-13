@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o sinônimo de \u0027hospedagem\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "accommodation",
+                        "luggage",
+                        "itinerary",
+                        "destination"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "accommodation"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027voo direto\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "round trip",
+                        "direct flight",
+                        "connecting flight",
+                        "charter flight"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "direct flight"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027check-in\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "registro de saída",
+                        "registro de entrada",
+                        "bagagem",
+                        "comprovante"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "registro de entrada"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que é um \u0027roteiro turístico\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "visa",
+                        "itinerary",
+                        "passport",
+                        "guidebook"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "itinerary"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027bagagem de mão\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "checked luggage",
+                        "carry-on luggage",
+                        "souvenir",
+                        "backpack"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "carry-on luggage"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027destino\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "journey",
+                        "destination",
+                        "reservation",
+                        "delay"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "destination"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027viagem de ida e volta\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "one-way",
+                        "round trip",
+                        "connecting flight",
+                        "standby"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "round trip"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027passaporte\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "visa",
+                        "passport",
+                        "ticket",
+                        "boarding pass"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "passport"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027reserva\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "cancellation",
+                        "reservation",
+                        "confirmation",
+                        "upgrade"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "reservation"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027atraso\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "cancellation",
+                        "delay",
+                        "diversion",
+                        "gate change"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "delay"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027cartão de embarque\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "travel document",
+                        "boarding pass",
+                        "visa",
+                        "customs form"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "boarding pass"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027mochila\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "suitcase",
+                        "backpack",
+                        "duffel bag",
+                        "tote bag"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "backpack"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027cidade\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "village",
+                        "city",
+                        "countryside",
+                        "region"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "city"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027guia turístico\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "map",
+                        "tour guide",
+                        "brochure",
+                        "itinerary"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "tour guide"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027pousada\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "hotel",
+                        "hostel",
+                        "resort",
+                        "campground"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "hostel"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027aeroporto\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "train station",
+                        "airport",
+                        "bus terminal",
+                        "port"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "airport"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027turista\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "traveler",
+                        "tourist",
+                        "resident",
+                        "immigrant"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "tourist"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027visto\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "passport",
+                        "visa",
+                        "permit",
+                        "license"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "visa"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027mala\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "backpack",
+                        "suitcase",
+                        "briefcase",
+                        "trunk"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "suitcase"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027embarque\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "arrival",
+                        "departure",
+                        "connection",
+                        "layover"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "departure"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027desembarque\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "boarding",
+                        "arrival",
+                        "takeoff",
+                        "landing"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "arrival"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027estadia\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "visit",
+                        "stay",
+                        "tour",
+                        "excursion"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "stay"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027tarifas aéreas\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "transportation",
+                        "airfare",
+                        "expenses",
+                        "costs"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "airfare"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027conexão\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "transfer",
+                        "connection",
+                        "stopover",
+                        "diversion"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "connection"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027escala\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "boarding",
+                        "stopover",
+                        "connection",
+                        "layover"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "stopover"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027resort\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "hotel",
+                        "resort",
+                        "inn",
+                        "lodge"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "resort"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027museu\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "gallery",
+                        "museum",
+                        "theater",
+                        "monument"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "museum"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027atração turística\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "landmark",
+                        "tourist attraction",
+                        "sight",
+                        "viewpoint"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "tourist attraction"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027hospedaria\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "hostel",
+                        "inn",
+                        "motel",
+                        "bed and breakfast"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "inn"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027documentação\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "registration",
+                        "documentation",
+                        "verification",
+                        "validation"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "documentation"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027câmbio\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "transaction",
+                        "currency exchange",
+                        "payment",
+                        "transfer"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "currency exchange"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027banca\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "counter",
+                        "bank",
+                        "desk",
+                        "booth"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "bank"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027companhia aérea\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "carrier",
+                        "airline",
+                        "operator",
+                        "company"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "airline"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027guarda-chuva de viagem\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "rain jacket",
+                        "travel umbrella",
+                        "raincoat",
+                        "windbreaker"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "travel umbrella"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027cruzeiro\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "voyage",
+                        "cruise",
+                        "journey",
+                        "expedition"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "cruise"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027transeunte\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "passenger",
+                        "commuter",
+                        "traveler",
+                        "visitor"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "commuter"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027viático\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "accommodation",
+                        "travel allowance",
+                        "meal",
+                        "expense"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "travel allowance"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027itinerância\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "traveling",
+                        "itinerancy",
+                        "wandering",
+                        "movement"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "itinerancy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027caravana\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "convoy",
+                        "caravan",
+                        "train",
+                        "fleet"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "caravan"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027excursão\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "journey",
+                        "excursion",
+                        "trip",
+                        "adventure"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "excursion"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027peregrinação\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "journey",
+                        "pilgrimage",
+                        "expedition",
+                        "adventure"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "pilgrimage"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027acampamento\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "camp",
+                        "campsite",
+                        "shelter",
+                        "lodge"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "campsite"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027motel\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "hostel",
+                        "motel",
+                        "inn",
+                        "hotel"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "motel"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027rota\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "path",
+                        "route",
+                        "way",
+                        "direction"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "route"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027passagem\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "ticket",
+                        "passage",
+                        "transit",
+                        "crossing"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "passage"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027navio\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "vessel",
+                        "ship",
+                        "boat",
+                        "yacht"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "ship"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027jornada\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "travel",
+                        "journey",
+                        "trip",
+                        "voyage"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "journey"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027trilha\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "path",
+                        "trail",
+                        "track",
+                        "route"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "trail"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027hospedeiro\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "guest",
+                        "host",
+                        "owner",
+                        "manager"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "host"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027paisagem\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "scenery",
+                        "landscape",
+                        "view",
+                        "terrain"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "landscape"
+    }
+]

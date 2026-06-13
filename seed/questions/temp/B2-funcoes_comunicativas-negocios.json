@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Um colega atrasa uma reunião importante. Como você avisaria educadamente que precisa começar?",
+        "correctAnswer":  "I think we should get started, as several people have other commitments.",
+        "options":  [
+                        "We can\u0027t wait anymore, let\u0027s begin now!",
+                        "I think we should get started, as several people have other commitments.",
+                        "Everyone is frustrated about this delay.",
+                        "You are making us wait too long."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Durante uma apresentação, você precisa ceder a palavra ao especialista financeiro. Qual expressão é mais apropriada?",
+        "correctAnswer":  "I\u0027d like to hand over to our Finance Director, who will walk you through the details.",
+        "options":  [
+                        "Now it\u0027s your turn to speak about money stuff.",
+                        "I\u0027d like to hand over to our Finance Director, who will walk you through the details.",
+                        "The money expert will tell you everything now.",
+                        "Let the Finance Director take over from here."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Um cliente pede esclarecimentos sobre um ponto que você já mencionou. Como você reagiria de forma profissional?",
+        "correctAnswer":  "I\u0027m happy to clarify that point further. What specifically would you like to know?",
+        "options":  [
+                        "I already explained this.",
+                        "I\u0027m happy to clarify that point further. What specifically would you like to know?",
+                        "I don\u0027t think I can explain it better than I did.",
+                        "This was clear in my previous statement."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você precisa informar que os custos aumentaram significativamente. Como comunicar isso diplomaticamente?",
+        "correctAnswer":  "I\u0027m afraid we\u0027ve experienced a considerable increase in operational costs this quarter.",
+        "options":  [
+                        "The costs have gone up a lot!",
+                        "We wasted much more money this quarter.",
+                        "I\u0027m afraid we\u0027ve experienced a considerable increase in operational costs this quarter.",
+                        "The budget is now way higher than expected."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Seu supervisor sugere uma abordagem diferente para um projeto. Como você expressaria discordância respeitosa?",
+        "correctAnswer":  "I appreciate your suggestion, but I\u0027d like to explore whether the current approach might work better in this context.",
+        "options":  [
+                        "That\u0027s not the right way to do it.",
+                        "Your idea won\u0027t work.",
+                        "I appreciate your suggestion, but I\u0027d like to explore whether the current approach might work better in this context.",
+                        "I completely disagree with you."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Um parceiro de negócios oferece um desconto, mas você precisa verificar se é viável para sua empresa. Como você responderia?",
+        "correctAnswer":  "That\u0027s a compelling offer. I\u0027ll need to check with our team and get back to you by the end of the week.",
+        "options":  [
+                        "Let me ask my boss about this.",
+                        "That\u0027s a compelling offer. I\u0027ll need to check with our team and get back to you by the end of the week.",
+                        "I don\u0027t know if we can do this.",
+                        "We need to think about it."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Na reunião, você concorda parcialmente com a proposta do colega. Qual expressão comunica isso apropriadamente?",
+        "correctAnswer":  "You\u0027ve made some valid points, though I think we should also consider the potential risks.",
+        "options":  [
+                        "You\u0027re right and wrong at the same time.",
+                        "Your idea is good but has problems.",
+                        "You\u0027ve made some valid points, though I think we should also consider the potential risks.",
+                        "I don\u0027t fully agree with everything you said."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você precisa avisar que um relatório terá atraso. Como fazer isso construtivamente?",
+        "correctAnswer":  "We\u0027re going to need a bit more time on that report, but I can provide you with preliminary findings by tomorrow.",
+        "options":  [
+                        "The report will be late.",
+                        "I can\u0027t finish the report on time.",
+                        "We\u0027re going to need a bit more time on that report, but I can provide you with preliminary findings by tomorrow.",
+                        "The deadline won\u0027t be met."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Durante uma negociação, o cliente propõe um preço fora do seu orçamento. Como você responderia diplomaticamente?",
+        "correctAnswer":  "I understand your budget constraints, but our pricing reflects the comprehensive value we deliver.",
+        "options":  [
+                        "That price is too low for us.",
+                        "We can\u0027t work for that amount of money.",
+                        "I understand your budget constraints, but our pricing reflects the comprehensive value we deliver.",
+                        "You\u0027re not offering us enough money."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você precisa pedir ao colega informações específicas sobre o desempenho financeiro trimestral. Como formular?",
+        "correctAnswer":  "Could you provide me with a breakdown of our quarterly financial metrics?",
+        "options":  [
+                        "Give me the money numbers for this quarter.",
+                        "I need you to tell me how much money we made.",
+                        "Could you provide me with a breakdown of our quarterly financial metrics?",
+                        "Show me all the finance stuff from the quarter."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Seu cliente questiona por que seus preços são mais altos que os concorrentes. Como justificar?",
+        "correctAnswer":  "Our pricing reflects our superior quality, dedicated support, and long-term value proposition.",
+        "options":  [
+                        "We are just more expensive than the others.",
+                        "Our competitors don\u0027t offer the same service.",
+                        "Our pricing reflects our superior quality, dedicated support, and long-term value proposition.",
+                        "We cost more because we\u0027re better."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Na reunião estratégica, você discorda da solução proposta. Como apresentar uma alternativa construtivamente?",
+        "correctAnswer":  "I see merit in that approach. However, we might also explore an alternative that could address these concerns more directly.",
+        "options":  [
+                        "That won\u0027t work at all.",
+                        "Your solution is wrong.",
+                        "I see merit in that approach. However, we might also explore an alternative that could address these concerns more directly.",
+                        "I have a better idea than yours."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Um stakeholder importante não apareceu na conferência. Como comunicar sua ausência profissionalmente?",
+        "correctAnswer":  "It\u0027s unfortunate that Mr. Johnson couldn\u0027t join us, but we can proceed and update him separately.",
+        "options":  [
+                        "Johnson is not here.",
+                        "Mr. Johnson forgot to come to the meeting.",
+                        "It\u0027s unfortunate that Mr. Johnson couldn\u0027t join us, but we can proceed and update him separately.",
+                        "We can\u0027t start without Johnson."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você precisa fazer um pedido de investimento adicional para expandir o projeto. Como estruturar a solicitação?",
+        "correctAnswer":  "To accelerate our timeline, we would need an additional investment of 200,000 dollars, with projections showing a 35% ROI.",
+        "options":  [
+                        "We need more money for the project.",
+                        "Can you give us extra funding?",
+                        "To accelerate our timeline, we would need an additional investment of 200,000 dollars, with projections showing a 35% ROI.",
+                        "We\u0027re short on money right now."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O cliente está insatisfeito com o produto entregue. Como você iniciaria a conversação para resolver?",
+        "correctAnswer":  "I appreciate you bringing this to my attention. Let\u0027s work together to identify the specific issues and find a solution.",
+        "options":  [
+                        "The product you got is fine.",
+                        "You\u0027re being too picky about this.",
+                        "I appreciate you bringing this to my attention. Let\u0027s work together to identify the specific issues and find a solution.",
+                        "Everyone else is happy with this product."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você precisa estabelecer limites com um cliente exigente que demanda serviços fora do escopo. Como fazer isso profissionalmente?",
+        "correctAnswer":  "While we\u0027re committed to your success, additional services beyond our original agreement would require a separate scope and budget discussion.",
+        "options":  [
+                        "We can\u0027t do that for you.",
+                        "That\u0027s not our job.",
+                        "While we\u0027re committed to your success, additional services beyond our original agreement would require a separate scope and budget discussion.",
+                        "You\u0027re asking too much of us."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Seu departamento implementou mudanças que afetarão outros setores. Como comunicar isso de forma construtiva?",
+        "correctAnswer":  "We\u0027ve implemented changes that may impact your workflows, so I wanted to give you a heads-up and discuss how we can minimize disruption.",
+        "options":  [
+                        "We made changes and this will affect you.",
+                        "Things are going to be different for you.",
+                        "We\u0027ve implemented changes that may impact your workflows, so I wanted to give you a heads-up and discuss how we can minimize disruption.",
+                        "You\u0027ll have to adapt to our changes."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Durante a negociação de contrato, surge uma cláusula problemática. Como você abordaria isso?",
+        "correctAnswer":  "I\u0027d like to flag this clause, as it may create complications. Could we explore alternative wording that protects both parties?",
+        "options":  [
+                        "This clause is bad.",
+                        "We can\u0027t sign this.",
+                        "I\u0027d like to flag this clause, as it may create complications. Could we explore alternative wording that protects both parties?",
+                        "This won\u0027t work for us."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você tem feedback negativo sobre o desempenho de um membro da equipe. Como abordá-lo construtivamente?",
+        "correctAnswer":  "I\u0027ve noticed some areas where your performance could be strengthened. Let\u0027s discuss what support you might need to improve.",
+        "options":  [
+                        "You\u0027re not doing well in your job.",
+                        "Your work isn\u0027t good enough.",
+                        "I\u0027ve noticed some areas where your performance could be strengthened. Let\u0027s discuss what support you might need to improve.",
+                        "You need to work harder."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "A empresa precisa fazer cortes orçamentários significativos. Como comunicar isso ao time de forma clara mas sensível?",
+        "correctAnswer":  "Due to market conditions, we need to optimize our budget allocation. I want to assure you that we\u0027re committed to retaining our core team.",
+        "options":  [
+                        "We\u0027re cutting costs everywhere.",
+                        "Everyone\u0027s salary might be reduced.",
+                        "Due to market conditions, we need to optimize our budget allocation. I want to assure you that we\u0027re committed to retaining our core team.",
+                        "Money is tight so we\u0027re saving wherever possible."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Um parceiro comercial quer renegociar prazos de pagamento já acordados. Como você responderia?",
+        "correctAnswer":  "I understand you\u0027re looking to adjust the terms. Let me review this with our finance team and we can discuss potential options that work for both parties.",
+        "options":  [
+                        "We already agreed on this, so no changes.",
+                        "That\u0027s not fair to us.",
+                        "I understand you\u0027re looking to adjust the terms. Let me review this with our finance team and we can discuss potential options that work for both parties.",
+                        "You can\u0027t change the agreement now."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você precisa apresentar dados decepcionantes de vendas ao conselho de administração. Como estruturar essa comunicação?",
+        "correctAnswer":  "While our sales figures fell short of projections, we\u0027ve identified key challenges and developed a comprehensive action plan to address them.",
+        "options":  [
+                        "We didn\u0027t sell enough.",
+                        "Sales were really bad this quarter.",
+                        "While our sales figures fell short of projections, we\u0027ve identified key challenges and developed a comprehensive action plan to address them.",
+                        "We failed to meet our targets."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você descobre um erro significativo que afeta um cliente importante. Como comunicar e recuperar confiança?",
+        "correctAnswer":  "I need to bring something to your attention that occurred on our end. I sincerely apologize, and I\u0027m taking the following steps to resolve it immediately.",
+        "options":  [
+                        "Something went wrong with your order.",
+                        "We made a mistake.",
+                        "I need to bring something to your attention that occurred on our end. I sincerely apologize, and I\u0027m taking the following steps to resolve it immediately.",
+                        "There was an issue but we\u0027ll fix it."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Um colega apresenta uma ideia que você acha inadequada, mas quer encorajá-lo a pensar melhor. Como fazer?",
+        "correctAnswer":  "I appreciate your creative thinking. Let\u0027s explore this further—what would you see as potential obstacles, and how would you address them?",
+        "options":  [
+                        "That idea is bad.",
+                        "You haven\u0027t thought this through.",
+                        "I appreciate your creative thinking. Let\u0027s explore this further—what would you see as potential obstacles, and how would you address them?",
+                        "This won\u0027t work."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você recebe um convite para um evento de networking em um país estrangeiro, mas está incerto sobre participar. Como expressar suas preocupações educadamente?",
+        "correctAnswer":  "Thank you for the invitation. While I\u0027m interested, I have a few considerations regarding timing and logistics. Could we discuss this further?",
+        "options":  [
+                        "I\u0027m not sure if I can go.",
+                        "It\u0027s too far away for me.",
+                        "Thank you for the invitation. While I\u0027m interested, I have a few considerations regarding timing and logistics. Could we discuss this further?",
+                        "I don\u0027t want to travel right now."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Durante uma videoconferência internacional, surge um mal-entendido cultural. Como você abordaria diplomaticamente?",
+        "correctAnswer":  "I want to make sure we\u0027re on the same page here. It seems there might be a different interpretation—could we clarify our respective positions?",
+        "options":  [
+                        "That\u0027s not what we meant.",
+                        "You misunderstood us.",
+                        "I want to make sure we\u0027re on the same page here. It seems there might be a different interpretation—could we clarify our respective positions?",
+                        "You\u0027re wrong about what we said."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Seu cliente solicita um relatório abrangente sobre investimentos feitos. Como estruturar sua resposta?",
+        "correctAnswer":  "I\u0027ll compile a detailed report covering our capital expenditures, ROI analysis, and projected financial outcomes for your review by Friday.",
+        "options":  [
+                        "I\u0027ll send you information about the money we spent.",
+                        "You\u0027ll get a report about the investments.",
+                        "I\u0027ll compile a detailed report covering our capital expenditures, ROI analysis, and projected financial outcomes for your review by Friday.",
+                        "Let me gather the investment documents for you."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Uma grande oportunidade de negócio surge, mas você precisa convencer stakeholders céticos. Como estruturar seu argumento?",
+        "correctAnswer":  "This opportunity aligns with our strategic objectives and carries manageable risks. The market analysis suggests a 40% growth potential over eighteen months.",
+        "options":  [
+                        "This is a good chance for us.",
+                        "We should do this deal.",
+                        "This opportunity aligns with our strategic objectives and carries manageable risks. The market analysis suggests a 40% growth potential over eighteen months.",
+                        "I think we should take this opportunity."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você precisa negociar um acordo complexo envolvendo múltiplas partes interessadas com diferentes prioridades. Como iniciar?",
+        "correctAnswer":  "Before we proceed, I\u0027d like to understand each party\u0027s key priorities and constraints, so we can identify common ground and explore mutually beneficial solutions.",
+        "options":  [
+                        "Everyone needs to agree to the same thing.",
+                        "Let\u0027s see what everyone wants and then decide.",
+                        "Before we proceed, I\u0027d like to understand each party\u0027s key priorities and constraints, so we can identify common ground and explore mutually beneficial solutions.",
+                        "We all need to compromise on this."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Uma empresa concorrente oferece um preço substancialmente menor. Como você reposicionaria o valor de sua proposta?",
+        "correctAnswer":  "While price is certainly a factor, our comprehensive solution encompasses integrated support, scalability, and significantly lower total cost of ownership over the contract lifecycle.",
+        "options":  [
+                        "Our product is better than theirs.",
+                        "You shouldn\u0027t go with them.",
+                        "While price is certainly a factor, our comprehensive solution encompasses integrated support, scalability, and significantly lower total cost of ownership over the contract lifecycle.",
+                        "We\u0027re worth the extra money."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "A empresa está considerando uma fusão que pode resultar em redundâncias. Como você comunicaria isso ao longo prazo?",
+        "correctAnswer":  "While integration presents challenges, we\u0027re exploring organizational structures that maintain our competitive edge while being mindful of our team\u0027s concerns and wellbeing.",
+        "options":  [
+                        "Some people might lose their jobs.",
+                        "We might have to let people go.",
+                        "While integration presents challenges, we\u0027re exploring organizational structures that maintain our competitive edge while being mindful of our team\u0027s concerns and wellbeing.",
+                        "This merger could mean layoffs."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você precisa defender um projeto que perdeu entusiasmo, mas ainda é viável estrategicamente. Como reavaliar o posicionamento?",
+        "correctAnswer":  "Although initial momentum has shifted, the strategic rationale remains compelling. Let\u0027s reassess our approach and timeline to ensure alignment with current business priorities.",
+        "options":  [
+                        "We should continue with the project.",
+                        "This project is still important.",
+                        "Although initial momentum has shifted, the strategic rationale remains compelling. Let\u0027s reassess our approach and timeline to ensure alignment with current business priorities.",
+                        "We can\u0027t give up on this yet."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Um investidor questiona o modelo de negócio durante a apresentação. Como você responderia defensivamente, mas profissionalmente?",
+        "correctAnswer":  "That\u0027s an insightful question. Our model has been validated through extensive market research and our pilot program demonstrated strong customer acquisition rates and retention metrics.",
+        "options":  [
+                        "Our model works fine.",
+                        "We know what we\u0027re doing.",
+                        "That\u0027s an insightful question. Our model has been validated through extensive market research and our pilot program demonstrated strong customer acquisition rates and retention metrics.",
+                        "You don\u0027t understand how we operate."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você detecta violações de conformidade que exigem ação imediata, mas podem prejudicar relacionamentos. Como proceder?",
+        "correctAnswer":  "I\u0027ve identified compliance gaps that require immediate attention. While I value our partnership, our regulatory obligations necessitate these corrective measures, which we\u0027ll implement collaboratively.",
+        "options":  [
+                        "You\u0027re not following the rules.",
+                        "We need to fix this compliance issue.",
+                        "I\u0027ve identified compliance gaps that require immediate attention. While I value our partnership, our regulatory obligations necessitate these corrective measures, which we\u0027ll implement collaboratively.",
+                        "You\u0027re breaking regulations."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Um cliente reclama que seu serviço é inferior ao de um concorrente que experimentou. Como recuperar credibilidade?",
+        "correctAnswer":  "I appreciate the feedback. While I respect our competitor\u0027s strengths, I\u0027d like to understand specifically where we\u0027ve fallen short and demonstrate how our integrated approach delivers distinct advantages.",
+        "options":  [
+                        "Our service is better than theirs.",
+                        "You haven\u0027t given us a fair chance.",
+                        "I appreciate the feedback. While I respect our competitor\u0027s strengths, I\u0027d like to understand specifically where we\u0027ve fallen short and demonstrate how our integrated approach delivers distinct advantages.",
+                        "Their service isn\u0027t as comprehensive as ours."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você precisa renegociar um contrato com um fornecedor crítico cujos custos aumentaram exponencialmente. Como abordar?",
+        "correctAnswer":  "I understand your increased costs. Given our long-standing relationship, I\u0027d like to explore cost-sharing solutions or process efficiencies that could benefit both our organizations.",
+        "options":  [
+                        "We can\u0027t pay those prices.",
+                        "Your costs are too high.",
+                        "I understand your increased costs. Given our long-standing relationship, I\u0027d like to explore cost-sharing solutions or process efficiencies that could benefit both our organizations.",
+                        "You\u0027re charging us too much."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Uma inesperada mudança regulatória afeta significativamente sua estratégia comercial. Como comunicar e adaptar?",
+        "correctAnswer":  "The regulatory landscape has shifted unexpectedly. We\u0027re reassessing our approach and will present an adapted strategy that maintains our competitive position while ensuring full compliance.",
+        "options":  [
+                        "The laws changed so we need to do something different.",
+                        "We have to change our plans because of new rules.",
+                        "The regulatory landscape has shifted unexpectedly. We\u0027re reassessing our approach and will present an adapted strategy that maintains our competitive position while ensuring full compliance.",
+                        "New regulations are forcing us to change everything."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você observa comportamento antiético de um colega sênior. Como escalar de forma profissional e segura?",
+        "correctAnswer":  "I\u0027ve observed practices that may raise compliance concerns. I feel obligated to raise this through appropriate channels while maintaining confidentiality and professionalism.",
+        "options":  [
+                        "Your colleague is doing something wrong.",
+                        "I\u0027m going to tell the boss about this.",
+                        "I\u0027ve observed practices that may raise compliance concerns. I feel obligated to raise this through appropriate channels while maintaining confidentiality and professionalism.",
+                        "Someone needs to stop what they\u0027re doing."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Um projeto promissor falha após investimento significativo. Como comunicar aos líderes mantendo credibilidade?",
+        "correctAnswer":  "Despite our best efforts and initial positive indicators, this initiative didn\u0027t achieve sustainable outcomes. We\u0027ve conducted a thorough analysis and identified lessons that will inform future investments.",
+        "options":  [
+                        "The project failed.",
+                        "We wasted money on this project.",
+                        "Despite our best efforts and initial positive indicators, this initiative didn\u0027t achieve sustainable outcomes. We\u0027ve conducted a thorough analysis and identified lessons that will inform future investments.",
+                        "This project didn\u0027t work out."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Um cliente corporativo importante sinaliza que quer mudar de fornecedor. Como você tentaria reter o negócio?",
+        "correctAnswer":  "I\u0027d like to understand what\u0027s driving this consideration and whether there are specific gaps we can address. Your business is valuable to us, and I\u0027d welcome the opportunity to explore how we can better meet your needs.",
+        "options":  [
+                        "You can\u0027t leave us.",
+                        "We\u0027re the best option for you.",
+                        "I\u0027d like to understand what\u0027s driving this consideration and whether there are specific gaps we can address. Your business is valuable to us, and I\u0027d welcome the opportunity to explore how we can better meet your needs.",
+                        "Please don\u0027t go to another company."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você descobre que um contrato foi mal interpretado, resultando em custos não previstos. Como abordar diplomaticamente?",
+        "correctAnswer":  "Upon closer review, we\u0027ve identified a discrepancy in our contract interpretation. I\u0027d like to meet with your team to clarify the terms and work toward an equitable resolution.",
+        "options":  [
+                        "You didn\u0027t explain the contract properly.",
+                        "This clause means something different.",
+                        "Upon closer review, we\u0027ve identified a discrepancy in our contract interpretation. I\u0027d like to meet with your team to clarify the terms and work toward an equitable resolution.",
+                        "You tricked us with this contract."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "A empresa de um cliente está sendo adquirida e as prioridades podem mudar. Como manter o relacionamento?",
+        "correctAnswer":  "Congratulations on the acquisition. I recognize this brings change and new priorities. I\u0027d like to schedule a meeting with your team to understand how we can continue supporting your organization effectively.",
+        "options":  [
+                        "Your company is being bought.",
+                        "I hope you still want to work with us.",
+                        "Congratulations on the acquisition. I recognize this brings change and new priorities. I\u0027d like to schedule a meeting with your team to understand how we can continue supporting your organization effectively.",
+                        "We should keep working together."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você precisa informar sobre desperdícios significativos identificados em um departamento. Como fazê-lo sem desmoralizar?",
+        "correctAnswer":  "Our analysis has identified opportunities for resource optimization. I\u0027d like to partner with your team to implement improvements that benefit both our operations and bottom line.",
+        "options":  [
+                        "You\u0027re wasting money in your department.",
+                        "You\u0027re not managing your budget properly.",
+                        "Our analysis has identified opportunities for resource optimization. I\u0027d like to partner with your team to implement improvements that benefit both our operations and bottom line.",
+                        "You\u0027re spending too much on unnecessary things."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O gerente solicita sua opinião sobre uma proposta. Como você ofereceria uma resposta equilibrada?",
+        "correctAnswer":  "The proposal has merit, but I would like to suggest a few refinements that could strengthen our position.",
+        "options":  [
+                        "The idea is good.",
+                        "Your proposal is excellent.",
+                        "The proposal has merit, but I would like to suggest a few refinements that could strengthen our position.",
+                        "We should accept this immediately."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Um cliente insiste em prazos irrealistas. Como você responderia profissionalmente?",
+        "correctAnswer":  "I understand the urgency. Let me work with you to establish a realistic timeline that ensures quality delivery.",
+        "options":  [
+                        "We can not meet that deadline.",
+                        "That is impossible.",
+                        "I understand the urgency. Let me work with you to establish a realistic timeline that ensures quality delivery.",
+                        "We are too busy right now."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Seu chefe pede sua opinião sobre cortar custos em uma área crítica. Como você responderia?",
+        "correctAnswer":  "While cost reduction is important, I am concerned about the impact on quality. Could we explore alternatives that balance both objectives?",
+        "options":  [
+                        "Let us cut everything.",
+                        "We need to save money.",
+                        "While cost reduction is important, I am concerned about the impact on quality. Could we explore alternatives that balance both objectives?",
+                        "Go ahead and cut it."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Um cliente solicita descontos significativos em volume. Como você negociaria?",
+        "correctAnswer":  "Volume commitments are valuable to us. Let me explore pricing options that reflect the benefits of a larger partnership.",
+        "options":  [
+                        "We can not discount.",
+                        "No price changes possible.",
+                        "Volume commitments are valuable to us. Let me explore pricing options that reflect the benefits of a larger partnership.",
+                        "Our prices are fixed."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você precisa comunicar resultados negativos de uma iniciativa importante. Como proceder?",
+        "correctAnswer":  "The initiative did not achieve expected outcomes. I have prepared a detailed analysis of contributing factors and recommendations for moving forward.",
+        "options":  [
+                        "The project failed.",
+                        "It did not work.",
+                        "The initiative did not achieve expected outcomes. I have prepared a detailed analysis of contributing factors and recommendations for moving forward.",
+                        "Everything went wrong."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Um grande cliente ameaça deixar a empresa. Como você responderia?",
+        "correctAnswer":  "I understand your concerns and would like to discuss how we can address them. Your partnership is important to us and I am committed to finding solutions.",
+        "options":  [
+                        "You should stay.",
+                        "Please do not leave.",
+                        "I understand your concerns and would like to discuss how we can address them. Your partnership is important to us and I am committed to finding solutions.",
+                        "We will miss you."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Durante uma crise de comunicação, você precisa reunir os stakeholders. Como você facilitaria?",
+        "correctAnswer":  "Thank you for gathering. I want to ensure we address concerns transparently and work together on solutions that protect our shared interests.",
+        "options":  [
+                        "We have a problem.",
+                        "Things are difficult now.",
+                        "Thank you for gathering. I want to ensure we address concerns transparently and work together on solutions that protect our shared interests.",
+                        "This is complicated."
+                    ],
+        "difficulty":  "medium"
+    }
+]

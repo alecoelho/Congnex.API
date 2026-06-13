@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027umami\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Quinto sabor fundamental caracterizado por um gosto salgado e rico em proteínas",
+                        "Um tipo de fermento utilizado na panificação",
+                        "Um método de conservação de alimentos em vinagre",
+                        "Uma especiaria exótica originária da Ásia"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Quinto sabor fundamental caracterizado por um gosto salgado e rico em proteínas"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027cozer em banho-maria\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Cozinhar algo indiretamente, colocando o recipiente dentro de outro com água quente",
+                        "Mergulhar alimentos em água salgada fervendo",
+                        "Assar lentamente em forno com vapor",
+                        "Fervura rápida em grande quantidade de água"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Cozinhar algo indiretamente, colocando o recipiente dentro de outro com água quente"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027tempero\u0027 em culinária?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Substância aromática que realça o sabor dos alimentos",
+                        "Técnica de conservação de alimentos em sal",
+                        "Processo de fermentação de ingredientes",
+                        "Método de corte fino de vegetais"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Substância aromática que realça o sabor dos alimentos"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027marinar\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Deixar alimentos em molho para absorver sabores antes do cozimento",
+                        "Assar carne muito rapidamente em fogo alto",
+                        "Misturar ingredientes com as mãos",
+                        "Descascar e preparar vegetais"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Deixar alimentos em molho para absorver sabores antes do cozimento"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027emulsão\u0027 na culinária?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Mistura homogênea de dois líquidos imiscíveis com ajuda de um emulsionante",
+                        "Técnica de amassar massa de pão",
+                        "Processo de caramelizar açúcar",
+                        "Método de peneirar farinha"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Mistura homogênea de dois líquidos imiscíveis com ajuda de um emulsionante"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027brunoise\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Corte muito fino de vegetais em cubinhos pequenos e uniformes",
+                        "Técnica de flambagem de alimentos",
+                        "Processo de caramelização de cebola",
+                        "Método de fermentação de legumes"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Corte muito fino de vegetais em cubinhos pequenos e uniformes"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027redução\u0027 em culinária?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Processo de evaporar líquido para concentrar sabores e criar consistência mais densa",
+                        "Corte de alimentos em pedaços menores",
+                        "Técnica de congelamento rápido",
+                        "Método de desidratação de frutas"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Processo de evaporar líquido para concentrar sabores e criar consistência mais densa"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027al dente\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Ponto de cozimento onde a massa está firme ao morder, mas não dura",
+                        "Prato servido à temperatura ambiente",
+                        "Ingrediente adicionado no final do preparo",
+                        "Técnica de caramelização de açúcar"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Ponto de cozimento onde a massa está firme ao morder, mas não dura"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027condimento\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Substância aromática, tempero ou molho que acompanha o prato",
+                        "Técnica de corte de alimentos",
+                        "Processo de fermentação prolongada",
+                        "Método de conservação em sal"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Substância aromática, tempero ou molho que acompanha o prato"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027julienne\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Corte fino em palitos pequenos e uniformes, característico de vegetais",
+                        "Tipo de molho cremoso para massas",
+                        "Técnica de fermentação de legumes",
+                        "Método de caramelização de açúcar"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Corte fino em palitos pequenos e uniformes, característico de vegetais"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027glassar\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Cobrir alimentos com cobertura brilhante de calda açucarada ou gelatinosa",
+                        "Cortar alimentos em fatias finas",
+                        "Cozinhar em vapor",
+                        "Misturar ingredientes rapidamente"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Cobrir alimentos com cobertura brilhante de calda açucarada ou gelatinosa"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027degustação\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Ato de provar e apreciar alimentos e bebidas de forma atenta e crítica",
+                        "Técnica de corte de ingredientes",
+                        "Processo de conservação de alimentos",
+                        "Método de cozimento em forno"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Ato de provar e apreciar alimentos e bebidas de forma atenta e crítica"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027maceração\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Processo de deixar alimentos em líquido para extrair sabores ou amolecer",
+                        "Técnica de congelamento rápido",
+                        "Método de caramelização de açúcar",
+                        "Processo de fermentação prolongada"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Processo de deixar alimentos em líquido para extrair sabores ou amolecer"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027escaldar\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Mergulhar brevemente em água fervendo para cozinhar parcialmente ou remover pele",
+                        "Assar em fogo alto até dourar",
+                        "Congelar rapidamente em nitrogênio",
+                        "Misturar ingredientes com força"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Mergulhar brevemente em água fervendo para cozinhar parcialmente ou remover pele"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027tempera\u0027 ou \u0027temperar\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Adicionar sal, pimenta e outros temperos para realçar o sabor",
+                        "Cozinhar lentamente em fogo baixo",
+                        "Cortar alimentos em pedaços uniformes",
+                        "Deixar alimentos em repouso"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Adicionar sal, pimenta e outros temperos para realçar o sabor"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027palato\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Órgão sensorial que permite saborear alimentos e bebidas",
+                        "Tipo de prato quente",
+                        "Técnica de corte de alimentos",
+                        "Processo de fermentação"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Órgão sensorial que permite saborear alimentos e bebidas"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual o significado de \u0027paladar\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Capacidade de apreciar e discriminar os sabores dos alimentos",
+                        "Tipo de molho tradicional",
+                        "Método de conservação de alimentos",
+                        "Técnica de cozimento prolongado"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Capacidade de apreciar e discriminar os sabores dos alimentos"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027salpicão\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Mistura de ingredientes cortados em cubinhos pequenos, temperada com molho",
+                        "Técnica de salga de alimentos",
+                        "Processo de fermentação de vegetais",
+                        "Método de caramelização de frutas"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Mistura de ingredientes cortados em cubinhos pequenos, temperada com molho"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027salmorejo\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Líquido temperado usado para conservar ou cozinhar alimentos",
+                        "Tipo de pão tradicional",
+                        "Técnica de corte de carnes",
+                        "Processo de caramelização"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Líquido temperado usado para conservar ou cozinhar alimentos"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027gastromancia\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Arte e ciência da gastronomia, estudo elevado sobre a cozinha e alimentos",
+                        "Técnica de fermentação de bebidas",
+                        "Método de conservação tradicional",
+                        "Tipo de especiaria exótica"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Arte e ciência da gastronomia, estudo elevado sobre a cozinha e alimentos"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027enológico\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Relativo ao conhecimento científico e técnico da produção de vinho",
+                        "Relativo ao cultivo de frutas",
+                        "Relativo à fermentação de cerveja",
+                        "Relativo ao processamento de queijos"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Relativo ao conhecimento científico e técnico da produção de vinho"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027sommelier\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Profissional especializado em seleção, harmonização e serviço de vinhos",
+                        "Chef que trabalha com carnes",
+                        "Especialista em conservação de alimentos",
+                        "Técnico em fermentação de bebidas"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Profissional especializado em seleção, harmonização e serviço de vinhos"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027sous-chef\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Segundo chefe de cozinha, responsável por coordenar a equipe culinária",
+                        "Aprendiz de cozinha",
+                        "Especialista em sobremesas",
+                        "Gerenciador de suprimentos"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Segundo chefe de cozinha, responsável por coordenar a equipe culinária"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027mise en place\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Preparação e organização de todos os ingredientes e utensílios antes de começar a cozinhar",
+                        "Tipo de prato principal",
+                        "Técnica de apresentação de pratos",
+                        "Método de conservação de alimentos"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Preparação e organização de todos os ingredientes e utensílios antes de começar a cozinhar"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027aromático\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Que possui aroma intenso e agradável, caracterizado por fragrância marcante",
+                        "Que contém açúcar refinado",
+                        "Que é muito duro ao morder",
+                        "Que fermenta rapidamente"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Que possui aroma intenso e agradável, caracterizado por fragrância marcante"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027corbadura\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Curvatura ou deformação natural que ocorre em alimentos durante cozimento",
+                        "Tipo de molho tradicional italiano",
+                        "Técnica de conservação em sal",
+                        "Processo de fermentação prolongada"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Curvatura ou deformação natural que ocorre em alimentos durante cozimento"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027salteado\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Técnica de cozimento rápido em panela com pouco óleo e fogo alto",
+                        "Método de conservação em vinagre",
+                        "Processo de fermentação de vegetais",
+                        "Técnica de congelamento rápido"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Técnica de cozimento rápido em panela com pouco óleo e fogo alto"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027deglaçagem\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Técnica de adicionar líquido a uma panela para dissolver os resíduos caramelizados",
+                        "Processo de congelamento de alimentos",
+                        "Método de secagem de frutas",
+                        "Técnica de fermentação controlada"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Técnica de adicionar líquido a uma panela para dissolver os resíduos caramelizados"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027escala\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Proporção ou quantidade de ingredientes em uma receita culinária",
+                        "Técnica de corte de vegetais",
+                        "Processo de conservação tradicional",
+                        "Método de fermentação"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Proporção ou quantidade de ingredientes em uma receita culinária"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027farcia\u0027 ou \u0027recheio\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Mistura de ingredientes usada para preencher carnes, peixes ou vegetais",
+                        "Tipo de molho líquido",
+                        "Técnica de corte fino",
+                        "Processo de caramelização"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Mistura de ingredientes usada para preencher carnes, peixes ou vegetais"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027fumê\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Caldo concentrado feito a partir de carcaças ou aparas de peixe ou carne",
+                        "Tipo de queijo curado",
+                        "Técnica de defumação de alimentos",
+                        "Processo de fermentação"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Caldo concentrado feito a partir de carcaças ou aparas de peixe ou carne"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027espuma\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Preparação leve e arejada obtida pela incorporação de ar em alimento",
+                        "Tipo de bebida alcoólica",
+                        "Técnica de corte tradicional",
+                        "Processo de secagem"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Preparação leve e arejada obtida pela incorporação de ar em alimento"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027gelatinização\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Processo onde o amido absorve água e forma uma estrutura gelatinosa",
+                        "Técnica de cobertura com açúcar",
+                        "Método de fermentação rápida",
+                        "Processo de caramelização avançada"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Processo onde o amido absorve água e forma uma estrutura gelatinosa"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que é reação de Maillard?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Reação química entre aminoácidos e açúcares que cria sabores e cores complexos",
+                        "Tipo de molho francês",
+                        "Técnica de corte específica",
+                        "Processo de fermentação"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Reação química entre aminoácidos e açúcares que cria sabores e cores complexos"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027esfericação\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Técnica moderna que transforma líquidos em pequenas esferas usando alginato",
+                        "Processo tradicional de fermentação",
+                        "Método de conservação em sal",
+                        "Técnica de corte em espiral"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Técnica moderna que transforma líquidos em pequenas esferas usando alginato"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027gelificação\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Processo de transformação de um líquido em gel mediante agentes gelificantes",
+                        "Técnica de fermentação controlada",
+                        "Método de caramelização profunda",
+                        "Processo de cristalização de açúcar"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Processo de transformação de um líquido em gel mediante agentes gelificantes"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027sinérese\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Fenômeno onde um gel libera líquido durante armazenamento ou processamento",
+                        "Tipo de especiaria exótica",
+                        "Técnica de corte muito fino",
+                        "Processo de caramelização"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Fenômeno onde um gel libera líquido durante armazenamento ou processamento"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027coagulação\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Processo onde proteínas se transformam e solidificam mediante calor ou outros agentes",
+                        "Técnica de fermentação prolongada",
+                        "Método de conservação tradicional",
+                        "Processo de secagem de frutas"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Processo onde proteínas se transformam e solidificam mediante calor ou outros agentes"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027osmose\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Processo de movimento de água através de membrana semipermeável",
+                        "Técnica de corte em espiral",
+                        "Método de fermentação controlada",
+                        "Processo de caramelização"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Processo de movimento de água através de membrana semipermeável"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027cavitação\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Formação de bolhas de ar em alimentos durante aplicação de ondas ultrassônicas",
+                        "Processo tradicional de fermentação",
+                        "Técnica de corte muito fino",
+                        "Método de conservação em sal"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Formação de bolhas de ar em alimentos durante aplicação de ondas ultrassônicas"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027denaturação\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Transformação irreversível da estrutura de proteínas pela ação de calor ou agentes químicos",
+                        "Processo de fermentação controlada",
+                        "Método de conservação tradicional",
+                        "Técnica de corte especializada"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Transformação irreversível da estrutura de proteínas pela ação de calor ou agentes químicos"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027hidrólise\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Quebra de moléculas complexas em moléculas menores pela ação da água",
+                        "Técnica de fermentação lenta",
+                        "Método de conservação em sal",
+                        "Processo de caramelização"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Quebra de moléculas complexas em moléculas menores pela ação da água"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027oxidação\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Reação química onde uma substância perde elétrons, provocando escurecimento ou deterioração",
+                        "Processo de fermentação controlada",
+                        "Técnica de corte em espiral",
+                        "Método de conservação tradicional"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Reação química onde uma substância perde elétrons, provocando escurecimento ou deterioração"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027polimerização\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Processo onde moléculas simples se unem formando estruturas complexas maiores",
+                        "Técnica de fermentação prolongada",
+                        "Método de secagem de frutas",
+                        "Processo de caramelização avançada"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Processo onde moléculas simples se unem formando estruturas complexas maiores"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027cristalização\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Formação de estruturas cristalinas ordenadas em um alimento líquido ou semissólido",
+                        "Técnica de fermentação controlada",
+                        "Processo de caramelização profunda",
+                        "Método de conservação em sal"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Formação de estruturas cristalinas ordenadas em um alimento líquido ou semissólido"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027retrogradação\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Reorganização de moléculas de amido durante armazenamento, deixando produtos secos",
+                        "Processo de fermentação rápida",
+                        "Técnica de corte fino",
+                        "Método de caramelização"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Reorganização de moléculas de amido durante armazenamento, deixando produtos secos"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027peeling\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Técnica de descascamento de frutas e vegetais de forma fina e uniforme",
+                        "Processo de congelamento profundo",
+                        "Método de fermentação controlada",
+                        "Tipo de especiaria"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Técnica de descascamento de frutas e vegetais de forma fina e uniforme"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027gastrofísica\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Ciência que estuda a influência física no comportamento dos alimentos durante cozimento",
+                        "Técnica de conservação moderna",
+                        "Tipo de molho especial",
+                        "Processo de fermentação"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Ciência que estuda a influência física no comportamento dos alimentos durante cozimento"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027terroir\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Conjunto de características do local de produção que influenciam sabor de alimentos",
+                        "Tipo de emulsão especial",
+                        "Técnica de fermentação tradicional",
+                        "Processo de caramelização"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Conjunto de características do local de produção que influenciam sabor de alimentos"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027flavor\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Percepção sensorial integrada que combina sabor, aroma, textura e temperatura",
+                        "Tipo de molho francês",
+                        "Técnica de corte fino",
+                        "Processo de fermentação"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Percepção sensorial integrada que combina sabor, aroma, textura e temperatura"
+    }
+]

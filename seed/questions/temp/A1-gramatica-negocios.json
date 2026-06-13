@@ -1,0 +1,522 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'I ___ a manager at this company.'",
+    "correctAnswer": "am",
+    "options": ["am", "is", "are", "be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'She ___ in the office every day.'",
+    "correctAnswer": "works",
+    "options": ["work", "works", "working", "to work"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'They ___ a new product.'",
+    "correctAnswer": "have",
+    "options": ["has", "have", "is", "are"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The office ___ open at 8 o'clock.'",
+    "correctAnswer": "is",
+    "options": ["am", "are", "is", "be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'We ___ a meeting on Monday.'",
+    "correctAnswer": "have",
+    "options": ["has", "have", "is", "am"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'He ___ the director of the company.'",
+    "correctAnswer": "is",
+    "options": ["am", "are", "is", "be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The employees ___ very busy today.'",
+    "correctAnswer": "are",
+    "options": ["am", "is", "are", "be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'I ___ an email every morning.'",
+    "correctAnswer": "send",
+    "options": ["send", "sends", "sent", "sending"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The bank ___ at 9 am.'",
+    "correctAnswer": "opens",
+    "options": ["open", "opens", "opening", "to open"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'This ___ my business card.'",
+    "correctAnswer": "is",
+    "options": ["am", "are", "is", "be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'I ___ not the boss here.'",
+    "correctAnswer": "am",
+    "options": ["am", "is", "are", "be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'She ___ three clients today.'",
+    "correctAnswer": "has",
+    "options": ["have", "has", "is", "are"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The price ___ ten dollars.'",
+    "correctAnswer": "is",
+    "options": ["am", "are", "is", "be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'They ___ in the finance department.'",
+    "correctAnswer": "work",
+    "options": ["work", "works", "working", "to work"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The contract ___ ready.'",
+    "correctAnswer": "is",
+    "options": ["am", "are", "is", "be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'I ___ a new job.'",
+    "correctAnswer": "have",
+    "options": ["has", "have", "is", "am"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'He ___ the invoice every month.'",
+    "correctAnswer": "sends",
+    "options": ["send", "sends", "sent", "sending"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The company ___ fifty employees.'",
+    "correctAnswer": "has",
+    "options": ["have", "has", "are", "is"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'I work ___ a bank.'",
+    "correctAnswer": "at",
+    "options": ["in", "at", "on", "to"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The meeting is ___ Monday.'",
+    "correctAnswer": "on",
+    "options": ["in", "at", "on", "to"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'She ___ speak English at work.'",
+    "correctAnswer": "can",
+    "options": ["can", "cans", "to can", "is"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'Do you ___ a credit card?'",
+    "correctAnswer": "have",
+    "options": ["have", "has", "having", "had"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The office is ___ the second floor.'",
+    "correctAnswer": "on",
+    "options": ["in", "at", "on", "by"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: '___ you work here?'",
+    "correctAnswer": "Do",
+    "options": ["Do", "Does", "Is", "Are"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'He ___ not have a salary account.'",
+    "correctAnswer": "does",
+    "options": ["do", "does", "is", "are"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The salary is paid ___ the end of the month.'",
+    "correctAnswer": "at",
+    "options": ["in", "on", "at", "by"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'I work ___ a large company.'",
+    "correctAnswer": "for",
+    "options": ["to", "at", "for", "by"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'There ___ a problem with the invoice.'",
+    "correctAnswer": "is",
+    "options": ["are", "is", "am", "be"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: '___ she the new accountant?'",
+    "correctAnswer": "Is",
+    "options": ["Do", "Does", "Is", "Are"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The report is ___ the desk.'",
+    "correctAnswer": "on",
+    "options": ["in", "on", "at", "to"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'We start work ___ eight o'clock.'",
+    "correctAnswer": "at",
+    "options": ["in", "on", "at", "by"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'She ___ a presentation every week.'",
+    "correctAnswer": "gives",
+    "options": ["give", "gives", "given", "giving"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'There ___ many clients in the lobby.'",
+    "correctAnswer": "are",
+    "options": ["is", "am", "are", "be"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The manager ___ speak to you now.'",
+    "correctAnswer": "can",
+    "options": ["can", "cans", "is can", "does"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'I pay the bill ___ credit card.'",
+    "correctAnswer": "by",
+    "options": ["with", "by", "in", "on"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: '___ the store open on Sundays?'",
+    "correctAnswer": "Is",
+    "options": ["Do", "Does", "Is", "Are"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'She ___ not like to work overtime.'",
+    "correctAnswer": "does",
+    "options": ["do", "does", "is", "has"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The budget ___ approved by the board.'",
+    "correctAnswer": "is",
+    "options": ["are", "is", "be", "am"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'How ___ employees work here?'",
+    "correctAnswer": "many",
+    "options": ["much", "many", "lot", "any"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'How ___ money do you need?'",
+    "correctAnswer": "much",
+    "options": ["many", "much", "lot", "some"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The sales team ___ not work on weekends.'",
+    "correctAnswer": "does",
+    "options": ["do", "does", "is", "are"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'Please send the document ___ email.'",
+    "correctAnswer": "by",
+    "options": ["in", "on", "by", "to"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'We ___ our clients on Tuesdays and Thursdays.'",
+    "correctAnswer": "meet",
+    "options": ["meet", "meets", "meeting", "met"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The company ___ not have a branch in this city.'",
+    "correctAnswer": "does",
+    "options": ["do", "does", "is", "are"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'She always ___ her reports on time.'",
+    "correctAnswer": "submits",
+    "options": ["submit", "submits", "submitting", "submitted"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The new policy ___ all employees.'",
+    "correctAnswer": "affects",
+    "options": ["affect", "affects", "affecting", "affected"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: '___ there a discount for large orders?'",
+    "correctAnswer": "Is",
+    "options": ["Are", "Is", "Do", "Does"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'I ___ not understand the contract yet.'",
+    "correctAnswer": "do",
+    "options": ["do", "does", "am", "have"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The tax ___ included in the price.'",
+    "correctAnswer": "is",
+    "options": ["are", "is", "be", "have"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'My manager always ___ me feedback after meetings.'",
+    "correctAnswer": "gives",
+    "options": ["give", "gives", "giving", "given"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The clients ___ from different countries.'",
+    "correctAnswer": "are",
+    "options": ["is", "am", "are", "be"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'Our team ___ the project every Friday.'",
+    "correctAnswer": "reviews",
+    "options": ["review", "reviews", "reviewing", "reviewed"],
+    "difficulty": "hard"
+  }
+]

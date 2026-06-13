@@ -1,0 +1,502 @@
+[
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução para 'cabeça'?",
+    "correctAnswer": "head",
+    "options": ["foot", "head", "arm", "leg"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'dor'?",
+    "correctAnswer": "pain",
+    "options": ["joy", "pain", "smile", "laugh"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'olho' em inglês?",
+    "correctAnswer": "eye",
+    "options": ["ear", "eye", "nose", "mouth"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'doente'?",
+    "correctAnswer": "sick",
+    "options": ["healthy", "sick", "strong", "weak"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que quer dizer 'coração'?",
+    "correctAnswer": "heart",
+    "options": ["brain", "heart", "lung", "liver"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como traduzir 'mão'?",
+    "correctAnswer": "hand",
+    "options": ["foot", "hand", "arm", "finger"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'remédio'?",
+    "correctAnswer": "medicine",
+    "options": ["hospital", "medicine", "doctor", "nurse"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'febre'?",
+    "correctAnswer": "fever",
+    "options": ["cough", "fever", "cold", "flu"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'tosse' em inglês?",
+    "correctAnswer": "cough",
+    "options": ["sneeze", "cough", "hiccup", "yawn"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução para 'médico'?",
+    "correctAnswer": "doctor",
+    "options": ["nurse", "doctor", "patient", "dentist"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que quer dizer 'dente'?",
+    "correctAnswer": "tooth",
+    "options": ["nail", "tooth", "hair", "skin"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como traduzir 'pé'?",
+    "correctAnswer": "foot",
+    "options": ["hand", "foot", "leg", "knee"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'saudável'?",
+    "correctAnswer": "healthy",
+    "options": ["sick", "healthy", "tired", "injured"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'ferida'?",
+    "correctAnswer": "wound",
+    "options": ["scar", "wound", "bruise", "blister"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'braço' em inglês?",
+    "correctAnswer": "arm",
+    "options": ["leg", "arm", "elbow", "shoulder"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução para 'hospital'?",
+    "correctAnswer": "hospital",
+    "options": ["pharmacy", "hospital", "clinic", "doctor's office"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que quer dizer 'paciente'?",
+    "correctAnswer": "patient",
+    "options": ["doctor", "patient", "nurse", "surgeon"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como traduzir 'estômago'?",
+    "correctAnswer": "stomach",
+    "options": ["throat", "stomach", "chest", "back"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'nariz'?",
+    "correctAnswer": "nose",
+    "options": ["mouth", "nose", "chin", "cheek"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'sangue'?",
+    "correctAnswer": "blood",
+    "options": ["bone", "blood", "muscle", "fat"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'gripe' em inglês?",
+    "correctAnswer": "flu",
+    "options": ["cough", "flu", "cold", "sneeze"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução para 'resfriado'?",
+    "correctAnswer": "cold",
+    "options": ["cough", "cold", "flu", "fever"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que quer dizer 'fraco'?",
+    "correctAnswer": "weak",
+    "options": ["strong", "weak", "tired", "sleepy"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como traduzir 'exercício'?",
+    "correctAnswer": "exercise",
+    "options": ["sport", "exercise", "game", "activity"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'alergia'?",
+    "correctAnswer": "allergy",
+    "options": ["illness", "allergy", "disease", "infection"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'medicamento'?",
+    "correctAnswer": "medication",
+    "options": ["treatment", "medication", "remedy", "cure"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'enfermeira' em inglês?",
+    "correctAnswer": "nurse",
+    "options": ["doctor", "nurse", "midwife", "therapist"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução para 'osso'?",
+    "correctAnswer": "bone",
+    "options": ["muscle", "bone", "joint", "ligament"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que quer dizer 'pele'?",
+    "correctAnswer": "skin",
+    "options": ["hair", "skin", "nail", "bone"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como traduzir 'lesão'?",
+    "correctAnswer": "injury",
+    "options": ["pain", "injury", "sickness", "weakness"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'garganta'?",
+    "correctAnswer": "throat",
+    "options": ["mouth", "throat", "tongue", "chin"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'desconfortável'?",
+    "correctAnswer": "uncomfortable",
+    "options": ["comfortable", "uncomfortable", "pleasant", "nice"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'sintoma' em inglês?",
+    "correctAnswer": "symptom",
+    "options": ["disease", "symptom", "illness", "condition"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como traduzir 'orelha'?",
+    "correctAnswer": "ear",
+    "options": ["nose", "ear", "eye", "mouth"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução para 'cura'?",
+    "correctAnswer": "cure",
+    "options": ["treatment", "cure", "recovery", "healing"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que quer dizer 'contusão'?",
+    "correctAnswer": "bruise",
+    "options": ["scar", "bruise", "cut", "wound"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como traduzir 'inflamado'?",
+    "correctAnswer": "swollen",
+    "options": ["painful", "swollen", "red", "hot"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'artrite'?",
+    "correctAnswer": "arthritis",
+    "options": ["diabetes", "arthritis", "asthma", "bronchitis"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'tontura'?",
+    "correctAnswer": "dizziness",
+    "options": ["balance", "dizziness", "vertigo", "motion"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'diabete' em inglês?",
+    "correctAnswer": "diabetes",
+    "options": ["asthma", "diabetes", "hypertension", "depression"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução para 'vacina'?",
+    "correctAnswer": "vaccine",
+    "options": ["injection", "vaccine", "serum", "therapy"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que quer dizer 'pressão alta'?",
+    "correctAnswer": "high blood pressure",
+    "options": ["low blood pressure", "high blood pressure", "diabetes", "fever"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como traduzir 'infecção'?",
+    "correctAnswer": "infection",
+    "options": ["inflammation", "infection", "irritation", "allergy"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'bactéria'?",
+    "correctAnswer": "bacteria",
+    "options": ["virus", "bacteria", "fungus", "parasite"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'cirurgia'?",
+    "correctAnswer": "surgery",
+    "options": ["diagnosis", "surgery", "treatment", "therapy"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'receita médica' em inglês?",
+    "correctAnswer": "prescription",
+    "options": ["diagnosis", "prescription", "treatment", "consultation"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução para 'apendicite'?",
+    "correctAnswer": "appendicitis",
+    "options": ["pneumonia", "appendicitis", "gastritis", "hepatitis"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que quer dizer 'psicólogo'?",
+    "correctAnswer": "psychologist",
+    "options": ["psychiatrist", "psychologist", "therapist", "counselor"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como traduzir 'recuperação'?",
+    "correctAnswer": "recovery",
+    "options": ["healing", "recovery", "rehabilitation", "treatment"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'fisioterapia'?",
+    "correctAnswer": "physical therapy",
+    "options": ["speech therapy", "physical therapy", "occupational therapy", "psychotherapy"],
+    "difficulty": "hard"
+  }
+]

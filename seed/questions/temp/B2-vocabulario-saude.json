@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027febre\u0027?",
+        "correctAnswer":  "fever",
+        "options":  [
+                        "fever",
+                        "cough",
+                        "pain",
+                        "weakness"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual palavra em inglês significa \u0027dor de cabeça\u0027?",
+        "correctAnswer":  "headache",
+        "options":  [
+                        "headache",
+                        "backache",
+                        "stomachache",
+                        "toothache"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027gripe\u0027?",
+        "correctAnswer":  "flu",
+        "options":  [
+                        "flu",
+                        "cold",
+                        "cough",
+                        "sneeze"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027medicamento\u0027?",
+        "correctAnswer":  "medicine",
+        "options":  [
+                        "medicine",
+                        "treatment",
+                        "vaccine",
+                        "prescription"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027lesão\u0027?",
+        "correctAnswer":  "injury",
+        "options":  [
+                        "injury",
+                        "disease",
+                        "illness",
+                        "symptom"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual palavra significa \u0027cicatrização\u0027?",
+        "correctAnswer":  "healing",
+        "options":  [
+                        "healing",
+                        "cutting",
+                        "bleeding",
+                        "swelling"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027vacinação\u0027?",
+        "correctAnswer":  "vaccination",
+        "options":  [
+                        "vaccination",
+                        "medication",
+                        "prescription",
+                        "diagnosis"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual termo significa \u0027pressão arterial\u0027?",
+        "correctAnswer":  "blood pressure",
+        "options":  [
+                        "blood pressure",
+                        "heart rate",
+                        "temperature",
+                        "weight"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027cirurgia\u0027?",
+        "correctAnswer":  "surgery",
+        "options":  [
+                        "surgery",
+                        "therapy",
+                        "examination",
+                        "diagnosis"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual palavra significa \u0027alergia\u0027?",
+        "correctAnswer":  "allergy",
+        "options":  [
+                        "allergy",
+                        "infection",
+                        "inflammation",
+                        "intoxication"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027prescrição médica\u0027?",
+        "correctAnswer":  "prescription",
+        "options":  [
+                        "prescription",
+                        "receipt",
+                        "appointment",
+                        "consultation"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027ferida\u0027?",
+        "correctAnswer":  "wound",
+        "options":  [
+                        "wound",
+                        "bruise",
+                        "scratch",
+                        "scar"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027inflamação\u0027?",
+        "correctAnswer":  "inflammation",
+        "options":  [
+                        "inflammation",
+                        "irritation",
+                        "infection",
+                        "allergy"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual palavra significa \u0027repouso\u0027?",
+        "correctAnswer":  "rest",
+        "options":  [
+                        "rest",
+                        "exercise",
+                        "movement",
+                        "activity"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027antibiótico\u0027?",
+        "correctAnswer":  "antibiotic",
+        "options":  [
+                        "antibiotic",
+                        "antiviral",
+                        "antifungal",
+                        "antiseptic"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual termo significa \u0027doenças infecciosas\u0027?",
+        "correctAnswer":  "infectious diseases",
+        "options":  [
+                        "infectious diseases",
+                        "chronic diseases",
+                        "genetic diseases",
+                        "congenital diseases"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027recuperação\u0027?",
+        "correctAnswer":  "recovery",
+        "options":  [
+                        "recovery",
+                        "treatment",
+                        "diagnosis",
+                        "prevention"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027sintoma\u0027?",
+        "correctAnswer":  "symptom",
+        "options":  [
+                        "symptom",
+                        "diagnosis",
+                        "prognosis",
+                        "therapy"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027diagnóstico\u0027?",
+        "correctAnswer":  "diagnosis",
+        "options":  [
+                        "diagnosis",
+                        "prognosis",
+                        "treatment",
+                        "medication"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual palavra significa \u0027reabilitação\u0027?",
+        "correctAnswer":  "rehabilitation",
+        "options":  [
+                        "rehabilitation",
+                        "immunization",
+                        "vaccination",
+                        "sterilization"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027prognóstico\u0027?",
+        "correctAnswer":  "prognosis",
+        "options":  [
+                        "prognosis",
+                        "diagnosis",
+                        "analysis",
+                        "examination"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027complicações\u0027?",
+        "correctAnswer":  "complications",
+        "options":  [
+                        "complications",
+                        "symptoms",
+                        "treatments",
+                        "medications"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027imunidade\u0027?",
+        "correctAnswer":  "immunity",
+        "options":  [
+                        "immunity",
+                        "disease",
+                        "illness",
+                        "infection"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual palavra significa \u0027metabolismo\u0027?",
+        "correctAnswer":  "metabolism",
+        "options":  [
+                        "metabolism",
+                        "digestion",
+                        "circulation",
+                        "respiration"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027infecção\u0027?",
+        "correctAnswer":  "infection",
+        "options":  [
+                        "infection",
+                        "inflammation",
+                        "allergy",
+                        "intoxication"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027diagnóstico precoce\u0027?",
+        "correctAnswer":  "early diagnosis",
+        "options":  [
+                        "early diagnosis",
+                        "late treatment",
+                        "advanced therapy",
+                        "preventive care"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027cura\u0027?",
+        "correctAnswer":  "cure",
+        "options":  [
+                        "cure",
+                        "treatment",
+                        "therapy",
+                        "medication"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual palavra significa \u0027incapacidade\u0027?",
+        "correctAnswer":  "disability",
+        "options":  [
+                        "disability",
+                        "disease",
+                        "disorder",
+                        "deficiency"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027desintoxicação\u0027?",
+        "correctAnswer":  "detoxification",
+        "options":  [
+                        "detoxification",
+                        "intoxication",
+                        "dehydration",
+                        "inoculation"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027prognóstico reservado\u0027?",
+        "correctAnswer":  "guarded prognosis",
+        "options":  [
+                        "guarded prognosis",
+                        "positive prognosis",
+                        "negative prognosis",
+                        "uncertain prognosis"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027saúde mental\u0027?",
+        "correctAnswer":  "mental health",
+        "options":  [
+                        "mental health",
+                        "physical fitness",
+                        "emotional balance",
+                        "psychological support"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual palavra significa \u0027patogênese\u0027?",
+        "correctAnswer":  "pathogenesis",
+        "options":  [
+                        "pathogenesis",
+                        "pathology",
+                        "physiology",
+                        "pharmacology"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027antagonista\u0027?",
+        "correctAnswer":  "antagonist",
+        "options":  [
+                        "antagonist",
+                        "agonist",
+                        "inhibitor",
+                        "promoter"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027hormônios\u0027?",
+        "correctAnswer":  "hormones",
+        "options":  [
+                        "hormones",
+                        "enzymes",
+                        "proteins",
+                        "vitamins"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027síndrome\u0027?",
+        "correctAnswer":  "syndrome",
+        "options":  [
+                        "syndrome",
+                        "disease",
+                        "condition",
+                        "symptom"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027etiopatogenia\u0027?",
+        "correctAnswer":  "etiopathogenesis",
+        "options":  [
+                        "etiopathogenesis",
+                        "pathogenesis",
+                        "pathophysiology",
+                        "pathomorphology"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual palavra significa \u0027comorbidade\u0027?",
+        "correctAnswer":  "comorbidity",
+        "options":  [
+                        "comorbidity",
+                        "morbidity",
+                        "mortality",
+                        "mobility"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027farmacocinética\u0027?",
+        "correctAnswer":  "pharmacokinetics",
+        "options":  [
+                        "pharmacokinetics",
+                        "pharmacodynamics",
+                        "pharmacology",
+                        "pharmacy"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027farmacodinâmica\u0027?",
+        "correctAnswer":  "pharmacodynamics",
+        "options":  [
+                        "pharmacodynamics",
+                        "pharmacokinetics",
+                        "pharmacology",
+                        "pharmacy"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027nefrotoxicidade\u0027?",
+        "correctAnswer":  "nephrotoxicity",
+        "options":  [
+                        "nephrotoxicity",
+                        "hepatotoxicity",
+                        "cardiotoxicity",
+                        "neurotoxicity"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual palavra significa \u0027hepatotoxicidade\u0027?",
+        "correctAnswer":  "hepatotoxicity",
+        "options":  [
+                        "hepatotoxicity",
+                        "nephrotoxicity",
+                        "cardiotoxicity",
+                        "ototoxicity"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027teratogênese\u0027?",
+        "correctAnswer":  "teratogenesis",
+        "options":  [
+                        "teratogenesis",
+                        "carcinogenesis",
+                        "mutagenesis",
+                        "embryogenesis"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027carcinogênese\u0027?",
+        "correctAnswer":  "carcinogenesis",
+        "options":  [
+                        "carcinogenesis",
+                        "tumorigenesis",
+                        "mutagenesis",
+                        "teratogenesis"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027patofisiologia\u0027?",
+        "correctAnswer":  "pathophysiology",
+        "options":  [
+                        "pathophysiology",
+                        "pathology",
+                        "physiology",
+                        "pathogenesis"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual palavra significa \u0027incidência\u0027?",
+        "correctAnswer":  "incidence",
+        "options":  [
+                        "incidence",
+                        "prevalence",
+                        "mortality",
+                        "morbidity"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027prevalência\u0027?",
+        "correctAnswer":  "prevalence",
+        "options":  [
+                        "prevalence",
+                        "incidence",
+                        "mortality",
+                        "morbidity"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027biodisponibilidade\u0027?",
+        "correctAnswer":  "bioavailability",
+        "options":  [
+                        "bioavailability",
+                        "bioefficacy",
+                        "bioequivalence",
+                        "bioactivity"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027farmacovigilância\u0027?",
+        "correctAnswer":  "pharmacovigilance",
+        "options":  [
+                        "pharmacovigilance",
+                        "pharmacokinetics",
+                        "pharmacodynamics",
+                        "pharmacotherapy"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual palavra significa \u0027polimorfismo genético\u0027?",
+        "correctAnswer":  "genetic polymorphism",
+        "options":  [
+                        "genetic polymorphism",
+                        "genetic mutation",
+                        "genetic variation",
+                        "genetic diversity"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027mutagênese\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "mutagenesis",
+                        "carcinogenesis",
+                        "teratogenesis",
+                        "embryogenesis"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "mutagenesis"
+    }
+]

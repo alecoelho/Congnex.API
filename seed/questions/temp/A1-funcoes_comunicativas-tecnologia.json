@@ -1,0 +1,492 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer ligar o seu computador. O que você diz?",
+    "correctAnswer": "Turn on the computer.",
+    "options": ["Turn on the computer.", "Open the computer.", "Start the phone.", "Play the computer."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar se há internet disponível no local. O que você pergunta?",
+    "correctAnswer": "Is there Wi-Fi here?",
+    "options": ["Is there Wi-Fi here?", "Do you have a computer?", "Can I use the phone?", "Is there a TV here?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer enviar uma mensagem para um amigo pelo celular. O que você diz?",
+    "correctAnswer": "I send a message.",
+    "options": ["I send a message.", "I call a computer.", "I open a letter.", "I write a TV."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que usa o computador todos os dias. O que você diz?",
+    "correctAnswer": "I use the computer every day.",
+    "options": ["I use the computer every day.", "I play the phone every day.", "I open the TV every day.", "I read the computer every day."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir a senha do Wi-Fi. O que você pergunta?",
+    "correctAnswer": "What is the Wi-Fi password?",
+    "options": ["What is the Wi-Fi password?", "Where is the internet?", "Who has the computer?", "What is the TV number?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que tem um celular novo. O que você diz?",
+    "correctAnswer": "I have a new phone.",
+    "options": ["I have a new phone.", "I use a old computer.", "I buy a new TV.", "I see a new book."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer desligar o computador. O que você diz?",
+    "correctAnswer": "Turn off the computer.",
+    "options": ["Turn off the computer.", "Close the phone.", "Stop the TV.", "End the internet."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que está ouvindo música no celular. O que você diz?",
+    "correctAnswer": "I listen to music on my phone.",
+    "options": ["I listen to music on my phone.", "I watch music on my computer.", "I read music on my TV.", "I play music on my book."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que gosta de jogar videogame. O que você diz?",
+    "correctAnswer": "I like to play video games.",
+    "options": ["I like to play video games.", "I like to watch video games.", "I like to read video games.", "I like to write video games."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar se alguém tem um carregador de celular. O que você pergunta?",
+    "correctAnswer": "Do you have a charger?",
+    "options": ["Do you have a charger?", "Do you have a computer?", "Can I use your Wi-Fi?", "Is your phone new?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que assiste vídeos no YouTube. O que você diz?",
+    "correctAnswer": "I watch videos on YouTube.",
+    "options": ["I watch videos on YouTube.", "I read videos on YouTube.", "I listen videos on YouTube.", "I write videos on YouTube."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que o seu celular está sem bateria. O que você diz?",
+    "correctAnswer": "My phone is dead.",
+    "options": ["My phone is dead.", "My phone is off.", "My phone is slow.", "My phone is new."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que tira fotos com o celular. O que você diz?",
+    "correctAnswer": "I take photos with my phone.",
+    "options": ["I take photos with my phone.", "I make photos with my TV.", "I do photos with my computer.", "I write photos with my camera."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar o número do celular de alguém. O que você pergunta?",
+    "correctAnswer": "What is your phone number?",
+    "options": ["What is your phone number?", "What is your name?", "Where is your phone?", "How old is your phone?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que seu computador é lento. O que você diz?",
+    "correctAnswer": "My computer is slow.",
+    "options": ["My computer is slow.", "My computer is bad.", "My computer is old.", "My computer is small."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que usa a internet para pesquisar coisas. O que você diz?",
+    "correctAnswer": "I use the internet to search things.",
+    "options": ["I use the internet to search things.", "I use the computer to write things.", "I use the phone to see things.", "I use the TV to find things."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que faz videochamadas com a família. O que você diz?",
+    "correctAnswer": "I video call my family.",
+    "options": ["I video call my family.", "I phone call my family.", "I text call my family.", "I audio call my family."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar como se escreve uma palavra em inglês usando um tradutor online. O que você diz?",
+    "correctAnswer": "How do you spell this word?",
+    "options": ["How do you spell this word?", "How do you say this number?", "What is this word in English?", "Can you write the word?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir para alguém repetir o endereço de e-mail dele. O que você diz?",
+    "correctAnswer": "Can you repeat your email address?",
+    "options": ["Can you repeat your email address?", "Can you say your phone again?", "Can you write your name again?", "Can you repeat your Wi-Fi?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que não consegue acessar a internet no momento. O que você diz?",
+    "correctAnswer": "I can't connect to the internet.",
+    "options": ["I can't connect to the internet.", "I don't have a computer.", "The internet is not here.", "I can't use my phone now."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar se pode usar o computador de outra pessoa. O que você diz?",
+    "correctAnswer": "Can I use your computer?",
+    "options": ["Can I use your computer?", "Can I have your computer?", "Do you use my computer?", "Is this your computer?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que prefere usar o tablet ao invés do computador. O que você diz?",
+    "correctAnswer": "I prefer the tablet.",
+    "options": ["I prefer the tablet.", "I like better the phone.", "I use the tablet more good.", "I want not the computer."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que recebeu um e-mail importante. O que você diz?",
+    "correctAnswer": "I received an important email.",
+    "options": ["I received an important email.", "I got an important message on TV.", "I read an important letter today.", "I have an important phone call."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que seu celular precisa de atualização. O que você diz?",
+    "correctAnswer": "My phone needs an update.",
+    "options": ["My phone needs an update.", "My phone is very old.", "My phone is broken.", "My phone has no battery."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar quantas horas por dia alguém usa o celular. O que você pergunta?",
+    "correctAnswer": "How many hours do you use your phone?",
+    "options": ["How many hours do you use your phone?", "How much time is your phone?", "When do you use the phone?", "What time is your phone on?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que baixou um aplicativo novo no celular. O que você diz?",
+    "correctAnswer": "I downloaded a new app.",
+    "options": ["I downloaded a new app.", "I opened a new app.", "I bought a new app.", "I made a new app."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que usa redes sociais para falar com amigos. O que você diz?",
+    "correctAnswer": "I use social media to talk to friends.",
+    "options": ["I use social media to talk to friends.", "I use the internet to see my friends.", "I use my phone to find friends.", "I use email to play with friends."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar se alguém usa o Instagram. O que você pergunta?",
+    "correctAnswer": "Do you use Instagram?",
+    "options": ["Do you use Instagram?", "Are you on Instagram?", "Have you Instagram?", "Did you use Instagram?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que a sua internet está muito lenta hoje. O que você diz?",
+    "correctAnswer": "My internet is very slow today.",
+    "options": ["My internet is very slow today.", "My internet is not good today.", "My Wi-Fi is very bad today.", "My internet has no speed today."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que assiste séries online à noite. O que você diz?",
+    "correctAnswer": "I watch series online at night.",
+    "options": ["I watch series online at night.", "I see series on TV at night.", "I play series on the internet at night.", "I read series online at night."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir o endereço de e-mail de alguém. O que você diz?",
+    "correctAnswer": "What is your email address?",
+    "options": ["What is your email address?", "What is your email name?", "Where is your email?", "How is your email?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que não sabe usar aquele aplicativo. O que você diz?",
+    "correctAnswer": "I don't know how to use this app.",
+    "options": ["I don't know how to use this app.", "I can't see this app.", "I don't have this app.", "I don't like this app."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que guarda suas fotos na nuvem. O que você diz?",
+    "correctAnswer": "I save my photos in the cloud.",
+    "options": ["I save my photos in the cloud.", "I keep my photos on the internet.", "I store my photos on the phone.", "I put my photos on the computer."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que compra coisas pela internet. O que você diz?",
+    "correctAnswer": "I buy things online.",
+    "options": ["I buy things online.", "I sell things online.", "I get things from the internet.", "I order things by phone."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que segue perfis de tecnologia no Instagram. O que você diz?",
+    "correctAnswer": "I follow technology profiles on Instagram.",
+    "options": ["I follow technology profiles on Instagram.", "I watch technology pages on Instagram.", "I see technology accounts on Instagram.", "I like technology posts on Instagram."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Durante uma videochamada, você não está conseguindo ouvir a outra pessoa. O que você diz?",
+    "correctAnswer": "I can't hear you. Can you speak louder?",
+    "options": ["I can't hear you. Can you speak louder?", "I don't see you. Can you come here?", "You are slow. Can you repeat?", "The internet is bad. Can you wait?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer explicar para alguém que o computador dele precisa ser reiniciado para funcionar melhor. O que você diz?",
+    "correctAnswer": "You need to restart your computer.",
+    "options": ["You need to restart your computer.", "You need to turn off the internet.", "You need to open your computer again.", "You need to change your computer."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que prefere usar aplicativos gratuitos porque não quer pagar. O que você diz?",
+    "correctAnswer": "I prefer free apps because I don't want to pay.",
+    "options": ["I prefer free apps because I don't want to pay.", "I like cheap apps because they are good.", "I use free apps because they are fast.", "I want no paid apps because I am poor."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar a alguém como ele protege o celular de vírus. O que você diz?",
+    "correctAnswer": "How do you protect your phone from viruses?",
+    "options": ["How do you protect your phone from viruses?", "What do you use to clean your phone?", "Do you have a virus on your phone?", "How do you fix your broken phone?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que não compartilha sua senha com ninguém por segurança. O que você diz?",
+    "correctAnswer": "I don't share my password with anyone.",
+    "options": ["I don't share my password with anyone.", "I don't tell my phone number to people.", "I don't give my email to strangers.", "I don't show my phone to anyone."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer reclamar que recebe muitos e-mails de spam todos os dias. O que você diz?",
+    "correctAnswer": "I get many spam emails every day.",
+    "options": ["I get many spam emails every day.", "I receive many bad messages on my phone.", "I have many wrong emails every day.", "I read many junk letters every day."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir ajuda porque não consegue fazer login na sua conta. O que você diz?",
+    "correctAnswer": "I can't log in to my account. Can you help me?",
+    "options": ["I can't log in to my account. Can you help me?", "I don't remember my password. Please fix it.", "My account is broken. Can you open it?", "I forgot my phone number. Help me, please."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer explicar que usa um aplicativo de mapas quando está em um lugar desconhecido. O que você diz?",
+    "correctAnswer": "I use a maps app when I don't know the place.",
+    "options": ["I use a maps app when I don't know the place.", "I open the internet when I am lost.", "I use the phone to find new places.", "I look at the map when I travel far."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que não gosta quando alguém usa o celular durante uma refeição. O que você diz?",
+    "correctAnswer": "I don't like when people use phones at dinner.",
+    "options": ["I don't like when people use phones at dinner.", "I hate when friends eat with computers.", "I don't want phones in the kitchen.", "I am sad when people play games at lunch."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que precisa de mais memória no celular porque está cheio de fotos. O que você diz?",
+    "correctAnswer": "My phone is full of photos. I need more memory.",
+    "options": ["My phone is full of photos. I need more memory.", "My phone has many pictures. I need a new one.", "My phone is slow because of photos.", "My phone has no space. I delete photos."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer avisar um amigo que o link que ele enviou parece suspeito. O que você diz?",
+    "correctAnswer": "This link looks suspicious. Don't click it.",
+    "options": ["This link looks suspicious. Don't click it.", "This message is wrong. Don't open the phone.", "This email is bad. Delete the computer.", "This app is strange. Don't download now."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que usa fones de ouvido quando assiste a vídeos para não incomodar os outros. O que você diz?",
+    "correctAnswer": "I use headphones when I watch videos.",
+    "options": ["I use headphones when I watch videos.", "I use earphones when I listen to TV.", "I put speakers when I see videos.", "I use headphones when I use the computer."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar a um colega qual aplicativo ele usa para aprender inglês. O que você diz?",
+    "correctAnswer": "What app do you use to learn English?",
+    "options": ["What app do you use to learn English?", "Which phone do you have for English?", "What website do you study English?", "How do you learn English on the phone?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você quer explicar que desativou as notificações do celular para se concentrar nos estudos. O que você diz?",
+    "correctAnswer": "I turned off my phone notifications to study.",
+    "options": ["I turned off my phone notifications to study.", "I closed my phone to do my homework.", "I stopped the internet to concentrate.", "I put my phone away to read better."],
+    "difficulty": "hard"
+  }
+]

@@ -1,0 +1,512 @@
+[
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: After years of loyal service, the manager was finally ___ to the position of regional director.",
+    "correctAnswer": "promoted",
+    "options": ["promoted", "appointed", "elevated", "assigned"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: She submitted her ___ letter after receiving a better job offer from a competitor.",
+    "correctAnswer": "resignation",
+    "options": ["resignation", "termination", "dismissal", "retirement"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: The new employee had to go through a three-month ___ period before being confirmed in her role.",
+    "correctAnswer": "probationary",
+    "options": ["probationary", "introductory", "preliminary", "transitional"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: The company decided to ___ ten workers due to the economic downturn.",
+    "correctAnswer": "lay off",
+    "options": ["lay off", "fire out", "cut down", "push out"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: Employees are expected to ___ a professional attitude when dealing with clients.",
+    "correctAnswer": "maintain",
+    "options": ["maintain", "sustain", "preserve", "uphold"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: The HR department is responsible for ___ new staff members.",
+    "correctAnswer": "onboarding",
+    "options": ["onboarding", "inducting", "welcoming", "recruiting"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: She had to ___ her vacation request at least two weeks in advance.",
+    "correctAnswer": "submit",
+    "options": ["submit", "apply", "hand", "send"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: The board of directors held an emergency ___ to discuss the financial crisis.",
+    "correctAnswer": "meeting",
+    "options": ["meeting", "conference", "assembly", "session"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: All employees must sign a non-___ agreement before accessing confidential information.",
+    "correctAnswer": "disclosure",
+    "options": ["disclosure", "compete", "solicitation", "liability"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: He was put in ___ of the entire marketing department after the previous director retired.",
+    "correctAnswer": "charge",
+    "options": ["charge", "control", "command", "authority"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: The company offers a competitive ___ package including health insurance and a pension plan.",
+    "correctAnswer": "benefits",
+    "options": ["benefits", "rewards", "perks", "compensation"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: Candidates must have a minimum of five years of ___ experience to apply for this position.",
+    "correctAnswer": "relevant",
+    "options": ["relevant", "related", "applicable", "adequate"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: The manager asked his team to ___ a detailed report on the project's progress.",
+    "correctAnswer": "compile",
+    "options": ["compile", "write up", "draft", "prepare"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: The project was ___ to a senior consultant after the original lead resigned.",
+    "correctAnswer": "handed over",
+    "options": ["handed over", "passed along", "given away", "transferred out"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: She was recognized for her outstanding ___ to the company over the past decade.",
+    "correctAnswer": "contributions",
+    "options": ["contributions", "achievements", "accomplishments", "performances"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: The annual ___ review is a key opportunity to discuss salary increases and career development.",
+    "correctAnswer": "performance",
+    "options": ["performance", "appraisal", "evaluation", "assessment"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: Employees working overtime are entitled to ___ pay at a rate of 150% of their regular hourly wage.",
+    "correctAnswer": "overtime",
+    "options": ["overtime", "additional", "premium", "supplementary"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: The CEO's decision to ___ operations in three countries was met with mixed reactions from shareholders.",
+    "correctAnswer": "consolidate",
+    "options": ["consolidate", "streamline", "restructure", "rationalize"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: The new policy aims to ___ the hierarchical structure that has long characterized the organization.",
+    "correctAnswer": "flatten",
+    "options": ["flatten", "dismantle", "decentralize", "erode"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: The whistleblower faced significant professional ___ after exposing the company's fraudulent practices.",
+    "correctAnswer": "repercussions",
+    "options": ["repercussions", "consequences", "backlash", "ramifications"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: The firm's aggressive ___ strategy involved acquiring three competitors within a single fiscal year.",
+    "correctAnswer": "acquisition",
+    "options": ["acquisition", "expansion", "takeover", "merger"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: The executive team had to ___ with unions over the proposed changes to the pension scheme.",
+    "correctAnswer": "negotiate",
+    "options": ["negotiate", "mediate", "arbitrate", "liaise"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: A ___ clause in the contract prevented her from working for a direct competitor for two years.",
+    "correctAnswer": "non-compete",
+    "options": ["non-compete", "confidentiality", "restraint-of-trade", "exclusivity"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: The department head was known for her ability to ___ complex tasks effectively among team members.",
+    "correctAnswer": "delegate",
+    "options": ["delegate", "allocate", "assign", "distribute"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: The board voted to ___ the CEO following a series of damaging financial disclosures.",
+    "correctAnswer": "oust",
+    "options": ["oust", "dismiss", "remove", "sack"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: She was renowned for her ___ approach to problem-solving, often finding unconventional yet effective solutions.",
+    "correctAnswer": "unorthodox",
+    "options": ["unorthodox", "innovative", "unconventional", "idiosyncratic"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: The company's long-term ___ plan outlined a vision for sustainable growth over the next decade.",
+    "correctAnswer": "strategic",
+    "options": ["strategic", "operational", "tactical", "visionary"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: The auditors flagged several ___ in the company's internal controls that needed immediate attention.",
+    "correctAnswer": "deficiencies",
+    "options": ["deficiencies", "shortcomings", "inadequacies", "irregularities"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: The organization had to ___ its workforce by 20% to remain solvent during the recession.",
+    "correctAnswer": "downsize",
+    "options": ["downsize", "reduce", "trim", "shrink"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: The job posting listed ___ thinking and leadership as the most sought-after qualities in the ideal candidate.",
+    "correctAnswer": "strategic",
+    "options": ["strategic", "analytical", "critical", "lateral"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: Despite the economic pressures, the company managed to ___ its market share through aggressive innovation.",
+    "correctAnswer": "retain",
+    "options": ["retain", "sustain", "maintain", "preserve"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: The newly appointed director was tasked with ___ cross-departmental communication within the organization.",
+    "correctAnswer": "fostering",
+    "options": ["fostering", "enhancing", "facilitating", "promoting"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: The ___ of the merger was contingent upon regulatory approval from three different jurisdictions.",
+    "correctAnswer": "completion",
+    "options": ["completion", "execution", "finalization", "consummation"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: His meteoric rise through the ranks was ___ by his ability to forge strong alliances at every level.",
+    "correctAnswer": "underpinned",
+    "options": ["underpinned", "facilitated", "driven", "propelled"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: The board's decision to ___ dividends was viewed as a vote of confidence in the company's financial health.",
+    "correctAnswer": "increase",
+    "options": ["increase", "raise", "boost", "augment"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: The company's pivot toward a more ___ leadership model was intended to empower middle managers.",
+    "correctAnswer": "decentralized",
+    "options": ["decentralized", "distributed", "devolved", "federated"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: The executive's conduct was deemed ___ when she used insider information to influence procurement decisions.",
+    "correctAnswer": "indefensible",
+    "options": ["indefensible", "reprehensible", "unconscionable", "unscrupulous"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: The labor tribunal found that the dismissal was ___ and ordered the company to reinstate the employee.",
+    "correctAnswer": "wrongful",
+    "options": ["wrongful", "unlawful", "unjustified", "arbitrary"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: His unparalleled ability to ___ ambiguous situations made him invaluable during periods of organizational upheaval.",
+    "correctAnswer": "navigate",
+    "options": ["navigate", "maneuver", "negotiate", "traverse"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: The CFO's ___ stewardship of the company's finances earned her widespread respect among institutional investors.",
+    "correctAnswer": "prudent",
+    "options": ["prudent", "judicious", "meticulous", "astute"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: The organization's failure to ___ with the new data privacy regulations resulted in a substantial fine.",
+    "correctAnswer": "comply",
+    "options": ["comply", "conform", "adhere", "align"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: The restructuring plan was criticized for being overly ___, failing to account for regional operational differences.",
+    "correctAnswer": "prescriptive",
+    "options": ["prescriptive", "dogmatic", "rigid", "inflexible"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: The firm's ___ culture, where dissenting voices were routinely suppressed, ultimately led to its downfall.",
+    "correctAnswer": "sycophantic",
+    "options": ["sycophantic", "authoritarian", "hierarchical", "insular"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: The HR director's ___ handling of the harassment complaint further exacerbated the toxic workplace culture.",
+    "correctAnswer": "perfunctory",
+    "options": ["perfunctory", "cursory", "negligent", "dismissive"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: Senior leadership were accused of ___ responsibility for the company's environmental violations.",
+    "correctAnswer": "abdicating",
+    "options": ["abdicating", "shirking", "evading", "relinquishing"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: The consultant was brought in to ___ the organizational silos that were impeding cross-functional collaboration.",
+    "correctAnswer": "dismantle",
+    "options": ["dismantle", "disrupt", "dissolve", "deconstruct"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: The CEO's ___ communication style, characterized by deliberate opacity, left employees perpetually uncertain about the company's direction.",
+    "correctAnswer": "obfuscatory",
+    "options": ["obfuscatory", "evasive", "ambiguous", "cryptic"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: The acquisition was structured as a reverse ___, allowing the target company to effectively take control of the acquirer.",
+    "correctAnswer": "merger",
+    "options": ["merger", "takeover", "buyout", "absorption"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: The management consultant recommended a thorough ___ of the firm's value chain to identify inefficiencies.",
+    "correctAnswer": "audit",
+    "options": ["audit", "appraisal", "assessment", "dissection"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: The labor dispute was eventually ___ through binding arbitration, averting a costly strike.",
+    "correctAnswer": "resolved",
+    "options": ["resolved", "adjudicated", "settled", "arbitrated"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "trabalho",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: Her appointment as interim CEO was largely seen as a ___ measure until a permanent successor could be identified.",
+    "correctAnswer": "stopgap",
+    "options": ["stopgap", "provisional", "contingency", "transitional"],
+    "difficulty": "hard"
+  }
+]

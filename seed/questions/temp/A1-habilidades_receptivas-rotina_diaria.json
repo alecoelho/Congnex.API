@@ -1,0 +1,502 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu acordo cedo todos os dias.",
+    "correctAnswer": "I wake up early every day.",
+    "options": ["I wake up early every day.", "I sleep late every day.", "I go to bed early every day.", "I wake up late every day."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu tomo café da manhã em casa.",
+    "correctAnswer": "I have breakfast at home.",
+    "options": ["I have breakfast at home.", "I have lunch at home.", "I eat dinner at home.", "I drink coffee at school."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu escovo os dentes de manhã.",
+    "correctAnswer": "I brush my teeth in the morning.",
+    "options": ["I brush my teeth in the morning.", "I wash my face in the morning.", "I comb my hair in the morning.", "I brush my teeth at night."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu vou para a escola de ônibus.",
+    "correctAnswer": "I go to school by bus.",
+    "options": ["I go to school by bus.", "I go to work by bus.", "I go to school by car.", "I come from school by bus."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu durmo às dez horas.",
+    "correctAnswer": "I sleep at ten o'clock.",
+    "options": ["I sleep at ten o'clock.", "I wake up at ten o'clock.", "I eat at ten o'clock.", "I sleep at eight o'clock."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu bebo água todos os dias.",
+    "correctAnswer": "I drink water every day.",
+    "options": ["I drink water every day.", "I eat water every day.", "I drink juice every day.", "I drink water every night."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu leio um livro à noite.",
+    "correctAnswer": "I read a book at night.",
+    "options": ["I read a book at night.", "I write a book at night.", "I read a book in the morning.", "I buy a book at night."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu trabalho de segunda a sexta.",
+    "correctAnswer": "I work from Monday to Friday.",
+    "options": ["I work from Monday to Friday.", "I study from Monday to Friday.", "I work from Monday to Sunday.", "I rest from Monday to Friday."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu assisto televisão à tarde.",
+    "correctAnswer": "I watch television in the afternoon.",
+    "options": ["I watch television in the afternoon.", "I listen to television in the afternoon.", "I watch television at night.", "I read television in the afternoon."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu janto com minha família.",
+    "correctAnswer": "I have dinner with my family.",
+    "options": ["I have dinner with my family.", "I have lunch with my family.", "I have breakfast with my family.", "I drink coffee with my family."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu tomo banho todos os dias.",
+    "correctAnswer": "I take a shower every day.",
+    "options": ["I take a shower every day.", "I take a bath every week.", "I wash my hands every day.", "I take a shower every week."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu caminho no parque de manhã.",
+    "correctAnswer": "I walk in the park in the morning.",
+    "options": ["I walk in the park in the morning.", "I run in the park in the morning.", "I walk in the park at night.", "I play in the park in the morning."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu uso o celular de manhã.",
+    "correctAnswer": "I use my phone in the morning.",
+    "options": ["I use my phone in the morning.", "I buy my phone in the morning.", "I use my computer in the morning.", "I use my phone at night."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu como uma fruta no lanche.",
+    "correctAnswer": "I eat a fruit as a snack.",
+    "options": ["I eat a fruit as a snack.", "I drink a fruit as a snack.", "I eat a vegetable as a snack.", "I eat a fruit for lunch."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu faço exercício todos os dias.",
+    "correctAnswer": "I exercise every day.",
+    "options": ["I exercise every day.", "I rest every day.", "I study every day.", "I exercise every week."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu vou para a cama cedo.",
+    "correctAnswer": "I go to bed early.",
+    "options": ["I go to bed early.", "I wake up early.", "I go to bed late.", "I go to school early."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu ouço música enquanto me arrumo.",
+    "correctAnswer": "I listen to music while I get ready.",
+    "options": ["I listen to music while I get ready.", "I watch music while I get ready.", "I listen to music while I sleep.", "I play music while I get ready."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu me levanto às sete horas da manhã.",
+    "correctAnswer": "I get up at seven in the morning.",
+    "options": ["I get up at seven in the morning.", "I go to bed at seven in the morning.", "I get up at seven at night.", "I wake up at six in the morning."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu preparo o almoço antes do trabalho.",
+    "correctAnswer": "I prepare lunch before work.",
+    "options": ["I prepare lunch before work.", "I prepare dinner before work.", "I prepare lunch after work.", "I eat lunch before work."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu lavo o rosto antes de sair de casa.",
+    "correctAnswer": "I wash my face before leaving home.",
+    "options": ["I wash my face before leaving home.", "I brush my teeth before leaving home.", "I wash my face after leaving home.", "I wash my hands before leaving home."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu chego em casa às seis da tarde.",
+    "correctAnswer": "I arrive home at six in the evening.",
+    "options": ["I arrive home at six in the evening.", "I leave home at six in the evening.", "I arrive at work at six in the evening.", "I arrive home at six in the morning."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu faço minha cama depois de acordar.",
+    "correctAnswer": "I make my bed after waking up.",
+    "options": ["I make my bed after waking up.", "I make my bed before waking up.", "I clean my room after waking up.", "I make my bed after sleeping."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu estudo inglês duas vezes por semana.",
+    "correctAnswer": "I study English twice a week.",
+    "options": ["I study English twice a week.", "I study English once a week.", "I learn English twice a month.", "I study Portuguese twice a week."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu coloco o despertador para as seis horas.",
+    "correctAnswer": "I set the alarm for six o'clock.",
+    "options": ["I set the alarm for six o'clock.", "I turn off the alarm at six o'clock.", "I set the alarm for seven o'clock.", "I buy the alarm for six o'clock."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu tomo uma xícara de chá à noite.",
+    "correctAnswer": "I drink a cup of tea at night.",
+    "options": ["I drink a cup of tea at night.", "I drink a cup of coffee at night.", "I eat a cup of tea at night.", "I drink a cup of tea in the morning."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu arrumo minha mochila antes de dormir.",
+    "correctAnswer": "I pack my backpack before sleeping.",
+    "options": ["I pack my backpack before sleeping.", "I pack my bag after sleeping.", "I clean my backpack before sleeping.", "I pack my backpack after waking up."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu saio de casa às oito horas.",
+    "correctAnswer": "I leave home at eight o'clock.",
+    "options": ["I leave home at eight o'clock.", "I arrive home at eight o'clock.", "I leave school at eight o'clock.", "I leave home at nine o'clock."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu lavo a louça depois do jantar.",
+    "correctAnswer": "I wash the dishes after dinner.",
+    "options": ["I wash the dishes after dinner.", "I wash the dishes before dinner.", "I dry the dishes after dinner.", "I wash the clothes after dinner."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu leio as notícias no celular pela manhã.",
+    "correctAnswer": "I read the news on my phone in the morning.",
+    "options": ["I read the news on my phone in the morning.", "I watch the news on my phone in the morning.", "I read the news on my computer in the morning.", "I read the news on my phone at night."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu passeio com o cachorro de tarde.",
+    "correctAnswer": "I walk the dog in the afternoon.",
+    "options": ["I walk the dog in the afternoon.", "I play with the dog in the afternoon.", "I walk the cat in the afternoon.", "I walk the dog in the morning."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu vejo um filme no fim de semana.",
+    "correctAnswer": "I watch a movie on the weekend.",
+    "options": ["I watch a movie on the weekend.", "I see a film every day.", "I watch a movie on weekdays.", "I listen to a movie on the weekend."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu almoço com meus colegas de trabalho.",
+    "correctAnswer": "I have lunch with my coworkers.",
+    "options": ["I have lunch with my coworkers.", "I have dinner with my coworkers.", "I have breakfast with my coworkers.", "I have lunch with my classmates."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu pego o metrô para ir ao trabalho.",
+    "correctAnswer": "I take the subway to go to work.",
+    "options": ["I take the subway to go to work.", "I take the bus to go to work.", "I take the subway to go to school.", "I drive the subway to go to work."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu organizo minha agenda antes de começar o dia.",
+    "correctAnswer": "I organize my schedule before starting the day.",
+    "options": ["I organize my schedule before starting the day.", "I check my schedule after starting the day.", "I write my schedule before ending the day.", "I organize my bag before starting the day."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu converso com minha família durante o jantar.",
+    "correctAnswer": "I talk with my family during dinner.",
+    "options": ["I talk with my family during dinner.", "I talk with my friends during dinner.", "I eat with my family during lunch.", "I talk with my family after dinner."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu normalmente acordo antes do despertador tocar.",
+    "correctAnswer": "I usually wake up before the alarm goes off.",
+    "options": ["I usually wake up before the alarm goes off.", "I always sleep before the alarm goes off.", "I usually wake up after the alarm goes off.", "I rarely wake up before the alarm rings."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu prefiro tomar banho de manhã a tomar à noite.",
+    "correctAnswer": "I prefer to shower in the morning rather than at night.",
+    "options": ["I prefer to shower in the morning rather than at night.", "I prefer to shower at night rather than in the morning.", "I like to shower in the morning and at night.", "I need to shower in the morning instead of at night."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu geralmente fico cansado depois de um dia longo de trabalho.",
+    "correctAnswer": "I usually feel tired after a long day of work.",
+    "options": ["I usually feel tired after a long day of work.", "I always feel happy after a long day of work.", "I sometimes feel tired before a long day of work.", "I rarely feel tired after a short day of work."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu não costumo ficar acordado até tarde durante a semana.",
+    "correctAnswer": "I don't usually stay up late during the week.",
+    "options": ["I don't usually stay up late during the week.", "I always stay up late during the week.", "I don't usually wake up late during the week.", "I never go to sleep early during the week."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu às vezes pulo o café da manhã quando estou com pressa.",
+    "correctAnswer": "I sometimes skip breakfast when I am in a hurry.",
+    "options": ["I sometimes skip breakfast when I am in a hurry.", "I always eat breakfast when I am in a hurry.", "I sometimes skip dinner when I am in a hurry.", "I never skip breakfast when I am late."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Minha rotina muda nos fins de semana.",
+    "correctAnswer": "My routine changes on weekends.",
+    "options": ["My routine changes on weekends.", "My routine stays the same on weekends.", "My schedule changes on weekdays.", "My routine never changes on weekends."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu costumo me sentir mais produtivo pela manhã do que à tarde.",
+    "correctAnswer": "I tend to feel more productive in the morning than in the afternoon.",
+    "options": ["I tend to feel more productive in the morning than in the afternoon.", "I feel less productive in the morning than in the afternoon.", "I tend to feel more tired in the morning than in the afternoon.", "I always feel productive in the afternoon more than in the morning."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu gosto de planejar meu dia na noite anterior.",
+    "correctAnswer": "I like to plan my day the night before.",
+    "options": ["I like to plan my day the night before.", "I like to plan my week the night before.", "I prefer to plan my day in the morning.", "I hate to plan my day the night before."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu tento dormir pelo menos oito horas por noite.",
+    "correctAnswer": "I try to sleep at least eight hours a night.",
+    "options": ["I try to sleep at least eight hours a night.", "I sleep exactly eight hours every night.", "I try to work at least eight hours a night.", "I need to sleep more than ten hours a night."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu raramente tenho tempo para almoçar em paz durante a semana.",
+    "correctAnswer": "I rarely have time to eat lunch in peace during the week.",
+    "options": ["I rarely have time to eat lunch in peace during the week.", "I always have time to eat lunch calmly during the week.", "I never eat lunch at work during the week.", "I sometimes have time to eat dinner in peace during the week."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu acordo mais tarde do que o normal nos feriados.",
+    "correctAnswer": "I wake up later than usual on holidays.",
+    "options": ["I wake up later than usual on holidays.", "I wake up earlier than usual on holidays.", "I go to bed later than usual on holidays.", "I sleep less than usual on holidays."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu reservo um tempo para relaxar antes de dormir.",
+    "correctAnswer": "I set aside time to relax before sleeping.",
+    "options": ["I set aside time to relax before sleeping.", "I find time to work before sleeping.", "I set aside time to relax after waking up.", "I have no time to relax before sleeping."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu costumo checar meus e-mails logo que chego no trabalho.",
+    "correctAnswer": "I usually check my emails as soon as I arrive at work.",
+    "options": ["I usually check my emails as soon as I arrive at work.", "I always check my messages before I leave work.", "I sometimes check my emails when I get home.", "I rarely check my emails when I arrive at work."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu bebo um copo de água assim que acordo.",
+    "correctAnswer": "I drink a glass of water as soon as I wake up.",
+    "options": ["I drink a glass of water as soon as I wake up.", "I drink a cup of coffee as soon as I wake up.", "I eat a snack as soon as I wake up.", "I drink a glass of water before going to sleep."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu termino todas as minhas tarefas antes de assistir televisão.",
+    "correctAnswer": "I finish all my tasks before watching television.",
+    "options": ["I finish all my tasks before watching television.", "I start my tasks after watching television.", "I finish some tasks while watching television.", "I do all my tasks instead of watching television."],
+    "difficulty": "hard"
+  }
+]

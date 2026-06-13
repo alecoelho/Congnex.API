@@ -1,0 +1,512 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'mother' em inglês?",
+    "correctAnswer": "Mãe",
+    "options": ["Mãe", "Irmã", "Avó", "Tia"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'father' em inglês?",
+    "correctAnswer": "Pai",
+    "options": ["Pai", "Irmão", "Avô", "Tio"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'sister' em inglês?",
+    "correctAnswer": "Irmã",
+    "options": ["Irmã", "Mãe", "Prima", "Filha"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'brother' em inglês?",
+    "correctAnswer": "Irmão",
+    "options": ["Irmão", "Pai", "Primo", "Filho"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'baby' em inglês?",
+    "correctAnswer": "Bebê",
+    "options": ["Bebê", "Criança", "Jovem", "Adulto"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'son' em inglês?",
+    "correctAnswer": "Filho",
+    "options": ["Filho", "Pai", "Irmão", "Avô"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'daughter' em inglês?",
+    "correctAnswer": "Filha",
+    "options": ["Filha", "Mãe", "Irmã", "Avó"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'family' em inglês?",
+    "correctAnswer": "Família",
+    "options": ["Família", "Amigos", "Vizinhos", "Colegas"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'grandma' em inglês?",
+    "correctAnswer": "Avó",
+    "options": ["Avó", "Mãe", "Tia", "Bisavó"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'grandpa' em inglês?",
+    "correctAnswer": "Avô",
+    "options": ["Avô", "Pai", "Tio", "Bisavô"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'friend' em inglês?",
+    "correctAnswer": "Amigo",
+    "options": ["Amigo", "Irmão", "Colega", "Vizinho"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'husband' em inglês?",
+    "correctAnswer": "Marido",
+    "options": ["Marido", "Namorado", "Irmão", "Pai"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'wife' em inglês?",
+    "correctAnswer": "Esposa",
+    "options": ["Esposa", "Namorada", "Irmã", "Mãe"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'child' em inglês?",
+    "correctAnswer": "Criança",
+    "options": ["Criança", "Bebê", "Jovem", "Adulto"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'uncle' em inglês?",
+    "correctAnswer": "Tio",
+    "options": ["Tio", "Avô", "Pai", "Primo"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'aunt' em inglês?",
+    "correctAnswer": "Tia",
+    "options": ["Tia", "Avó", "Mãe", "Prima"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'parents' em inglês?",
+    "correctAnswer": "Pais (pai e mãe)",
+    "options": ["Pais (pai e mãe)", "Avós", "Irmãos", "Filhos"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'cousin' em inglês?",
+    "correctAnswer": "Primo ou Prima",
+    "options": ["Primo ou Prima", "Irmão ou Irmã", "Sobrinho ou Sobrinha", "Tio ou Tia"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'nephew' em inglês?",
+    "correctAnswer": "Sobrinho",
+    "options": ["Sobrinho", "Primo", "Neto", "Afilhado"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'niece' em inglês?",
+    "correctAnswer": "Sobrinha",
+    "options": ["Sobrinha", "Prima", "Neta", "Afilhada"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'grandmother' em inglês?",
+    "correctAnswer": "Avó",
+    "options": ["Avó", "Bisavó", "Mãe", "Tia"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'grandfather' em inglês?",
+    "correctAnswer": "Avô",
+    "options": ["Avô", "Bisavô", "Pai", "Tio"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'best friend' em inglês?",
+    "correctAnswer": "Melhor amigo",
+    "options": ["Melhor amigo", "Novo amigo", "Velho amigo", "Amigo próximo"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'boyfriend' em inglês?",
+    "correctAnswer": "Namorado",
+    "options": ["Namorado", "Marido", "Amigo", "Noivo"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'girlfriend' em inglês?",
+    "correctAnswer": "Namorada",
+    "options": ["Namorada", "Esposa", "Amiga", "Noiva"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'neighbor' em inglês?",
+    "correctAnswer": "Vizinho",
+    "options": ["Vizinho", "Amigo", "Colega", "Conhecido"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'twins' em inglês?",
+    "correctAnswer": "Gêmeos",
+    "options": ["Gêmeos", "Irmãos", "Primos", "Trigêmeos"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'only child' em inglês?",
+    "correctAnswer": "Filho único",
+    "options": ["Filho único", "Filho adotado", "Filho mais velho", "Filho mais novo"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'classmate' em inglês?",
+    "correctAnswer": "Colega de classe",
+    "options": ["Colega de classe", "Professor", "Amigo próximo", "Vizinho"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'couple' em inglês?",
+    "correctAnswer": "Casal",
+    "options": ["Casal", "Família", "Par de amigos", "Dupla de irmãos"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'relative' em inglês?",
+    "correctAnswer": "Parente",
+    "options": ["Parente", "Amigo", "Vizinho", "Conhecido"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'grandchildren' em inglês?",
+    "correctAnswer": "Netos",
+    "options": ["Netos", "Filhos", "Bisnetos", "Sobrinhos"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'grandson' em inglês?",
+    "correctAnswer": "Neto",
+    "options": ["Neto", "Filho", "Bisneto", "Sobrinho"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'immediate family' em inglês?",
+    "correctAnswer": "Família imediata (pais e filhos)",
+    "options": ["Família imediata (pais e filhos)", "Família extensa", "Família adotiva", "Família distante"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'nuclear family' em inglês?",
+    "correctAnswer": "Família nuclear (pais e filhos)",
+    "options": ["Família nuclear (pais e filhos)", "Família grande", "Família adotiva", "Família de criação"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'stepmother' em inglês?",
+    "correctAnswer": "Madrasta",
+    "options": ["Madrasta", "Sogra", "Mãe adotiva", "Tia"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'stepfather' em inglês?",
+    "correctAnswer": "Padrasto",
+    "options": ["Padrasto", "Sogro", "Pai adotivo", "Tio"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'stepsister' em inglês?",
+    "correctAnswer": "Meia-irmã (filha do padrasto ou madrasta)",
+    "options": ["Meia-irmã (filha do padrasto ou madrasta)", "Irmã adotiva", "Prima", "Sobrinha"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'stepbrother' em inglês?",
+    "correctAnswer": "Meio-irmão (filho do padrasto ou madrasta)",
+    "options": ["Meio-irmão (filho do padrasto ou madrasta)", "Irmão adotivo", "Primo", "Sobrinho"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'mother-in-law' em inglês?",
+    "correctAnswer": "Sogra",
+    "options": ["Sogra", "Madrasta", "Tia", "Avó"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'father-in-law' em inglês?",
+    "correctAnswer": "Sogro",
+    "options": ["Sogro", "Padrasto", "Tio", "Avô"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'brother-in-law' em inglês?",
+    "correctAnswer": "Cunhado",
+    "options": ["Cunhado", "Meio-irmão", "Primo", "Padrasto"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'sister-in-law' em inglês?",
+    "correctAnswer": "Cunhada",
+    "options": ["Cunhada", "Meia-irmã", "Prima", "Madrasta"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'godfather' em inglês?",
+    "correctAnswer": "Padrinho",
+    "options": ["Padrinho", "Padrasto", "Sogro", "Avô"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'godmother' em inglês?",
+    "correctAnswer": "Madrinha",
+    "options": ["Madrinha", "Madrasta", "Sogra", "Avó"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'godchild' em inglês?",
+    "correctAnswer": "Afilhado ou Afilhada",
+    "options": ["Afilhado ou Afilhada", "Filho adotivo", "Neto", "Sobrinho"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'adopted child' em inglês?",
+    "correctAnswer": "Filho adotivo",
+    "options": ["Filho adotivo", "Filho único", "Filho mais velho", "Filho ilegítimo"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'fiancé' em inglês?",
+    "correctAnswer": "Noivo",
+    "options": ["Noivo", "Namorado", "Marido", "Ex-namorado"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'fiancée' em inglês?",
+    "correctAnswer": "Noiva",
+    "options": ["Noiva", "Namorada", "Esposa", "Ex-namorada"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'great-grandmother' em inglês?",
+    "correctAnswer": "Bisavó",
+    "options": ["Bisavó", "Avó", "Trisavó", "Mãe"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'great-grandfather' em inglês?",
+    "correctAnswer": "Bisavô",
+    "options": ["Bisavô", "Avô", "Trisavô", "Pai"],
+    "difficulty": "hard"
+  }
+]

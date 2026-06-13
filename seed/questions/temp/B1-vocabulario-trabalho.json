@@ -1,0 +1,512 @@
+﻿[
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'currículo'?",
+    "correctAnswer": "Resume/CV",
+    "options": ["Resume/CV", "Interview/Entrevista", "Salary/Salário", "Promotion/Promoção"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'entrevista de emprego'?",
+    "correctAnswer": "Job interview",
+    "options": ["Job interview", "Team meeting", "Company event", "Training session"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual é o termo para uma pessoa que trabalha em uma empresa?",
+    "correctAnswer": "Employee",
+    "options": ["Employee", "Customer", "Investor", "Supplier"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que é 'demissão'?",
+    "correctAnswer": "Dismissal",
+    "options": ["Dismissal", "Promotion", "Transfer", "Vacation"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'promoção'?",
+    "correctAnswer": "Advancement to a higher position",
+    "options": ["Advancement to a higher position", "Decrease in salary", "Change of department", "End of contract"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'salário'?",
+    "correctAnswer": "Monthly payment for work",
+    "options": ["Monthly payment for work", "Bonus payment", "Working hours", "Job title"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual é o termo para o chefe de um departamento?",
+    "correctAnswer": "Manager",
+    "options": ["Manager", "Intern", "Trainee", "Consultant"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que é um 'estagiário'?",
+    "correctAnswer": "Intern",
+    "options": ["Intern", "Freelancer", "Director", "Shareholder"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'horário de trabalho'?",
+    "correctAnswer": "Working hours",
+    "options": ["Working hours", "Lunch break", "Training day", "Vacation period"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'empresa'?",
+    "correctAnswer": "Company/Business",
+    "options": ["Company/Business", "Government", "School", "Hospital"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual é o termo para a pausa do almoço?",
+    "correctAnswer": "Lunch break",
+    "options": ["Lunch break", "Working shift", "Overtime", "Sick leave"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que é 'férias'?",
+    "correctAnswer": "Vacation/Holiday",
+    "options": ["Vacation/Holiday", "Sick day", "Working day", "Bonus"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'carta de recomendação'?",
+    "correctAnswer": "Reference letter",
+    "options": ["Reference letter", "Contract", "Invoice", "Receipt"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'oferta de emprego'?",
+    "correctAnswer": "Job offer",
+    "options": ["Job offer", "Job search", "Job description", "Job title"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual é o termo para trabalhar como autônomo?",
+    "correctAnswer": "Freelancing",
+    "options": ["Freelancing", "Full-time employment", "Part-time work", "Internship"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que é 'posto de trabalho'?",
+    "correctAnswer": "Workstation",
+    "options": ["Workstation", "Job position", "Job market", "Job performance"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'colega de trabalho'?",
+    "correctAnswer": "Coworker",
+    "options": ["Coworker", "Boss", "Customer", "Competitor"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'solicitação de emprego'?",
+    "correctAnswer": "Job application",
+    "options": ["Job application", "Job contract", "Job reference", "Job interview"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual é o termo para trabalho realizado fora do horário normal?",
+    "correctAnswer": "Overtime",
+    "options": ["Overtime", "Shift work", "Part-time", "Contract work"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'licença médica'?",
+    "correctAnswer": "Sick leave",
+    "options": ["Sick leave", "Maternity leave", "Vacation time", "Unpaid leave"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'descrição do cargo'?",
+    "correctAnswer": "Job description",
+    "options": ["Job description", "Employee handbook", "Company policy", "Contract terms"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que é 'avaliação de desempenho'?",
+    "correctAnswer": "Performance review",
+    "options": ["Performance review", "Salary adjustment", "Promotion decision", "Termination notice"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual é o termo para um contrato de trabalho de curta duração?",
+    "correctAnswer": "Temporary contract",
+    "options": ["Temporary contract", "Permanent position", "Full-time job", "Freelance work"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'benefício'?",
+    "correctAnswer": "Perk/Fringe benefit",
+    "options": ["Perk/Fringe benefit", "Base salary", "Bonus payment", "Severance package"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'negociação salarial'?",
+    "correctAnswer": "Salary negotiation",
+    "options": ["Salary negotiation", "Wage increase", "Pay decrease", "Bonus allocation"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que é 'carta de demissão'?",
+    "correctAnswer": "Resignation letter",
+    "options": ["Resignation letter", "Reference letter", "Offer letter", "Contract letter"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual é o termo para um trabalhador que executa trabalho físico?",
+    "correctAnswer": "Blue-collar worker",
+    "options": ["Blue-collar worker", "White-collar worker", "Self-employed", "Contract worker"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'equipe'?",
+    "correctAnswer": "Team",
+    "options": ["Team", "Department", "Division", "Branch"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'realocação'?",
+    "correctAnswer": "Transfer to another location",
+    "options": ["Transfer to another location", "Promotion to new role", "Demotion in rank", "Change of company"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que é 'folha de pagamento'?",
+    "correctAnswer": "Payroll",
+    "options": ["Payroll", "Invoice", "Receipt", "Contract"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual é o termo para o período experimental em um novo emprego?",
+    "correctAnswer": "Probation period",
+    "options": ["Probation period", "Training period", "Contract term", "Notice period"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'indicação de candidato'?",
+    "correctAnswer": "Employee referral",
+    "options": ["Employee referral", "Job posting", "Recruitment agency", "Career fair"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'carreira'?",
+    "correctAnswer": "Career path",
+    "options": ["Career path", "Job market", "Employment status", "Work experience"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que é 'desenvolvimento profissional'?",
+    "correctAnswer": "Professional development",
+    "options": ["Professional development", "Work experience", "Job training", "Skill improvement"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual é o termo para a perda inesperada do emprego?",
+    "correctAnswer": "Redundancy",
+    "options": ["Redundancy", "Resignation", "Retirement", "Sabbatical"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'análise de aptidão'?",
+    "correctAnswer": "Skills assessment",
+    "options": ["Skills assessment", "Background check", "Medical evaluation", "Credit check"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'indenização por demissão'?",
+    "correctAnswer": "Severance pay",
+    "options": ["Severance pay", "Unemployment benefit", "Pension contribution", "Health insurance"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que é 'negociação coletiva'?",
+    "correctAnswer": "Collective bargaining",
+    "options": ["Collective bargaining", "Individual negotiation", "Salary discussion", "Promotion review"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual é o termo para trabalho realizado de forma remota?",
+    "correctAnswer": "Telecommuting/Remote work",
+    "options": ["Telecommuting/Remote work", "Shift work", "Contract work", "Freelancing"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'certificação profissional'?",
+    "correctAnswer": "Professional qualification",
+    "options": ["Professional qualification", "Work permit", "Company credential", "Academic degree"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'resolução de conflito'?",
+    "correctAnswer": "Conflict resolution",
+    "options": ["Conflict resolution", "Team building", "Performance appraisal", "Disciplinary action"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que é 'responsabilidade social empresarial'?",
+    "correctAnswer": "Corporate social responsibility",
+    "options": ["Corporate social responsibility", "Employee welfare", "Company benefits", "Workplace safety"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual é o termo para a documentação que prova o domínio de uma habilidade?",
+    "correctAnswer": "Credentials",
+    "options": ["Credentials", "References", "Recommendations", "Certificates"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'plano de carreira'?",
+    "correctAnswer": "Career plan",
+    "options": ["Career plan", "Succession plan", "Retirement plan", "Development plan"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'mentoria'?",
+    "correctAnswer": "Mentoring",
+    "options": ["Mentoring", "Coaching", "Training", "Supervision"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que é 'acordo de confidencialidade'?",
+    "correctAnswer": "Non-disclosure agreement",
+    "options": ["Non-disclosure agreement", "Employment contract", "Service agreement", "Partnership agreement"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual é o termo para o tempo permitido para procurar outro emprego após demissão?",
+    "correctAnswer": "Notice period",
+    "options": ["Notice period", "Probation period", "Transition period", "Grace period"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'progressão na carreira'?",
+    "correctAnswer": "Career advancement",
+    "options": ["Career advancement", "Job satisfaction", "Work experience", "Skill development"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'compensação'?",
+    "correctAnswer": "Total compensation package",
+    "options": ["Total compensation package", "Bonus payment", "Salary increase", "Penalty reduction"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "O que é 'seleção de pessoal'?",
+    "correctAnswer": "Recruitment process",
+    "options": ["Recruitment process", "Hiring decision", "Job interview", "Background verification"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual é o termo para um trabalhador que não recebe salário fixo?",
+    "correctAnswer": "Hourly worker",
+    "options": ["Hourly worker", "Salaried employee", "Commission-based worker", "Contract employee"],
+    "difficulty": "hard"
+  }
+]

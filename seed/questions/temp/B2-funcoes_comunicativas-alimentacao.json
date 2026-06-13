@@ -1,0 +1,502 @@
+[
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você está em um restaurante e quer pedir a especialidade do dia. O que você diz ao garçom?",
+    "correctAnswer": "What would you recommend as today's special?",
+    "options": ["What would you recommend as today's special?", "I don't like this food", "Give me the cheapest dish", "How old is this restaurant?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Sua amiga está contando sobre um prato que provou e achou delicioso. Como você expressa interesse genuíno?",
+    "correctAnswer": "That sounds absolutely delicious! You must tell me more about it.",
+    "options": ["That sounds absolutely delicious! You must tell me more about it.", "I don't eat those things", "That's boring", "Food is not important"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você chegou a um restaurante sem reserva e quer saber se há mesas disponíveis. O que você pergunta?",
+    "correctAnswer": "Do you have a table available for two this evening?",
+    "options": ["Do you have a table available for two this evening?", "This place is too small", "I need a new restaurant", "Tables are bad here"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Durante uma refeição em família, você quer pedir mais pão. Como você faz isso gentilmente?",
+    "correctAnswer": "Could you please pass me the bread basket?",
+    "options": ["Could you please pass me the bread basket?", "I need bread now", "Bread here!", "Stop eating the bread"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Um colega oferece compartilhar seu sobremesa com você. Como você responde aceitando a oferta educadamente?",
+    "correctAnswer": "That's very kind of you! I'd love a taste.",
+    "options": ["That's very kind of you! I'd love a taste.", "No, dessert is bad", "I never share food", "Your dessert looks terrible"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você está em um buffet e não sabe o que contém um prato. Como você pergunta ao atendente?",
+    "correctAnswer": "Could you tell me what ingredients are in this dish?",
+    "options": ["Could you tell me what ingredients are in this dish?", "This food is strange", "I hate all dishes here", "What is this garbage?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Seu amigo convida você para experimentar um novo restaurante. Como você expressa entusiasmo?",
+    "correctAnswer": "That sounds wonderful! When can we go?",
+    "options": ["That sounds wonderful! When can we go?", "Restaurants are all the same", "I don't like eating out", "New places are always bad"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você acabou de comer em um restaurante excelente. Como você elogia a comida ao garçom?",
+    "correctAnswer": "Everything was absolutely delicious. Compliments to the chef!",
+    "options": ["Everything was absolutely delicious. Compliments to the chef!", "The food was okay", "I've eaten better", "This was ordinary"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você tem alergia a frutos do mar e precisa comunicar isso ao garçom. Como você faz?",
+    "correctAnswer": "I'm allergic to seafood, so I need to know the ingredients.",
+    "options": ["I'm allergic to seafood, so I need to know the ingredients.", "I don't like seafood", "Seafood is bad for you", "Seafood restaurants are awful"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Um amigo pergunta sua opinião sobre um prato que ele cozinhou, mas você não gostou muito. Como você responde com tato?",
+    "correctAnswer": "It's a good attempt! The flavors are interesting.",
+    "options": ["It's a good attempt! The flavors are interesting.", "This is awful", "You can't cook", "This is the worst food ever"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você está em um jantar formal e quer saber qual é o curso seguinte. Como você pergunta?",
+    "correctAnswer": "What will be served next?",
+    "options": ["What will be served next?", "I'm tired of eating", "This meal is too long", "I want to leave now"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você está em uma festa e quer oferecer comida a um convidado que acaba de chegar. Como você faz?",
+    "correctAnswer": "Can I get you something to eat? We have some great appetizers.",
+    "options": ["Can I get you something to eat? We have some great appetizers.", "Food is over there", "You're late, eat alone", "I'm too busy for you"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O garçom traz a conta, mas há um erro. Como você chama sua atenção gentilmente?",
+    "correctAnswer": "Excuse me, I think there might be an error on the bill.",
+    "options": ["Excuse me, I think there might be an error on the bill.", "You're stealing from me!", "This bill is wrong!", "Your math is terrible"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você está em um café e quer fazer um pedido especial (sem açúcar, por exemplo). Como você formula o pedido?",
+    "correctAnswer": "Could I have a coffee without sugar, please?",
+    "options": ["Could I have a coffee without sugar, please?", "Remove the sugar now", "I don't want sugar", "Coffee must have no sugar"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Uma pessoa oferece mais comida depois de você ter comido bem. Como você recusa educadamente?",
+    "correctAnswer": "Thank you, but I'm quite full. That was wonderful though.",
+    "options": ["Thank you, but I'm quite full. That was wonderful though.", "No, I hate everything", "Stop forcing food on me", "Your food is terrible"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você vê um amigo com um prato que parece apetitoso. Como você expressa essa observação?",
+    "correctAnswer": "That looks really appetizing! What did you order?",
+    "options": ["That looks really appetizing! What did you order?", "Your food looks bad", "I don't care what you're eating", "Food is all the same"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você está discutindo preferências culinárias com um novo colega. Qual frase melhor expressa uma opinião pessoal nuançada?",
+    "correctAnswer": "While I appreciate traditional cuisine, I'm equally passionate about modern fusion cooking.",
+    "options": ["While I appreciate traditional cuisine, I'm equally passionate about modern fusion cooking.", "Traditional food is boring", "Modern food is all fake", "Cooking doesn't matter"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Um amigo critica sua preferência por comida vegetariana. Como você defende sua escolha articuladamente?",
+    "correctAnswer": "I've made a conscious choice for health and environmental reasons, and it works well for me.",
+    "options": ["I've made a conscious choice for health and environmental reasons, and it works well for me.", "Meat eaters are wrong", "Vegetarian food is superior", "Your opinion doesn't matter"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer sugerir um restaurante para um colega sem ser muito insistente. Qual é a melhor forma?",
+    "correctAnswer": "There's a restaurant I've been meaning to try. Would you be interested in checking it out together?",
+    "options": ["There's a restaurant I've been meaning to try. Would you be interested in checking it out together?", "You must go to this restaurant", "This restaurant is the best", "You have no taste in food"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você está em um jantar de negócios e precisa desculpar-se por não comer muito. Como você explica?",
+    "correctAnswer": "I hope you don't mind that I'm eating lightly. I had a big lunch earlier.",
+    "options": ["I hope you don't mind that I'm eating lightly. I had a big lunch earlier.", "Your food is not good enough", "I'm not hungry for your restaurant", "This meal is disgusting"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Um garçom oferece um prato, mas você quer saber mais sobre como é preparado. Como você pergunta detalhadamente?",
+    "correctAnswer": "Could you describe how this dish is prepared and what the main flavors are?",
+    "options": ["Could you describe how this dish is prepared and what the main flavors are?", "How is this made?", "Tell me about it", "Is this good?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você compartilha uma refeição com colegas de trabalho e quer conversar sobre hábitos alimentares saudáveis. Como você introduz o tópico?",
+    "correctAnswer": "I've been trying to maintain a balanced diet lately. Have you thought about what you eat?",
+    "options": ["I've been trying to maintain a balanced diet lately. Have you thought about what you eat?", "Everyone eats badly", "You should eat better", "Healthy food is boring"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Um amigo pede sua opinião sobre um novo produto alimentar que experimentou. Como você responde de forma construtiva?",
+    "correctAnswer": "It has potential, though I think it could benefit from a bit more seasoning.",
+    "options": ["It has potential, though I think it could benefit from a bit more seasoning.", "It's terrible", "Products like this are useless", "Who would buy this?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você está em um restaurante temático e quer entender a história por trás dos pratos. Como você pergunta?",
+    "correctAnswer": "Could you tell me about the cultural significance of this traditional dish?",
+    "options": ["Could you tell me about the cultural significance of this traditional dish?", "Why is your food so strange?", "What's the point of this?", "Is this authentic?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você precisa recusar alimentos oferecidos por razões religiosas ou culturais, mantendo respeito. Como você faz?",
+    "correctAnswer": "Thank you for the thought. Due to my beliefs, I prefer to avoid certain ingredients.",
+    "options": ["Thank you for the thought. Due to my beliefs, I prefer to avoid certain ingredients.", "I can't eat this food", "Your food is forbidden", "This is against my religion"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você está discutindo tendências culinárias com um chef. Qual frase mostra conhecimento sofisticado?",
+    "correctAnswer": "The fusion of Asian and Mediterranean influences is creating fascinating new palates.",
+    "options": ["The fusion of Asian and Mediterranean influences is creating fascinating new palates.", "Modern cooking is weird", "Traditional cooking is better", "All food tastes the same"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Um colega compartilha uma receita familiar especial com você. Como você expressa apreciação genuína?",
+    "correctAnswer": "What a treasure to have a family recipe like that. The personal connection makes it even more special.",
+    "options": ["What a treasure to have a family recipe like that. The personal connection makes it even more special.", "It's just food", "Recipes don't matter", "Your family's cooking is ordinary"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você está em um wine tasting e quer fazer uma observação sobre as características do vinho. Como você faz?",
+    "correctAnswer": "This one has interesting notes of oak and berry with a lingering finish.",
+    "options": ["This one has interesting notes of oak and berry with a lingering finish.", "Wine is just alcohol", "This tastes bad", "I don't know about wine"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer reivindicar uma refeição insatisfatória de forma profissional e respeitosa. Como você procede?",
+    "correctAnswer": "I appreciate the effort, but this dish didn't meet my expectations. Could we discuss options?",
+    "options": ["I appreciate the effort, but this dish didn't meet my expectations. Could we discuss options?", "This food is terrible!", "You can't cook!", "I'm never coming back!", "This is the worst meal ever!"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você está mediando uma discussão entre amigos sobre escolhas dietéticas contraditórias. Como você mantém neutralidade e respeito?",
+    "correctAnswer": "Everyone has valid reasons for their dietary choices, and that's what matters most.",
+    "options": ["Everyone has valid reasons for their dietary choices, and that's what matters most.", "One diet is clearly superior", "People who eat differently are wrong", "This argument is pointless"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Um cliente em seu restaurante tem demandas alimentares muito específicas. Como você responde com profissionalismo?",
+    "correctAnswer": "I completely understand. Let me check with our kitchen to ensure we can accommodate your requirements precisely.",
+    "options": ["I completely understand. Let me check with our kitchen to ensure we can accommodate your requirements precisely.", "We can't do that here", "You're too demanding", "This is too complicated"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você está analisando criticamente a experiência gastronômica em um novo restaurante premiado. Como você articula uma opinião balanceada?",
+    "correctAnswer": "While the presentation was exquisite and the technique impressive, I felt some dishes lacked emotional depth.",
+    "options": ["While the presentation was exquisite and the technique impressive, I felt some dishes lacked emotional depth.", "It's overrated", "Modern restaurants are pretentious", "Food is just food"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você está explicando sua aversão a certos alimentos para uma nova amiga em um contexto cultural diferente. Como você o faz respeitosamente?",
+    "correctAnswer": "I realize this might be unfamiliar, but I have a strong aversion to certain textures and flavors.",
+    "options": ["I realize this might be unfamiliar, but I have a strong aversion to certain textures and flavors.", "Your food is disgusting", "Your culture's food is wrong", "I don't respect your cuisine"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você está dando feedback construtivo a um amigo chef sobre um prato experimental. Como você equilibra honestidade com encorajamento?",
+    "correctAnswer": "The concept is innovative, and I appreciate your courage to experiment. Perhaps fine-tuning the balance would enhance it further.",
+    "options": ["The concept is innovative, and I appreciate your courage to experiment. Perhaps fine-tuning the balance would enhance it further.", "This doesn't work at all", "You should give up", "This is a failure"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você está participando de um debate sobre sustentabilidade alimentar. Como você contribui com uma perspectiva nuançada?",
+    "correctAnswer": "Sustainable eating is crucial, but we must also acknowledge the economic realities facing many communities.",
+    "options": ["Sustainable eating is crucial, but we must also acknowledge the economic realities facing many communities.", "Everyone should be vegan", "Sustainability is overrated", "The environment doesn't matter"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você está em um restaurante upscale onde o staff não compreende sua restrição alimentar. Como você comunica claramente sem ser condescendente?",
+    "correctAnswer": "I appreciate your assistance. To be absolutely clear, I cannot consume gluten due to celiac disease. Can we ensure cross-contamination is prevented?",
+    "options": ["I appreciate your assistance. To be absolutely clear, I cannot consume gluten due to celiac disease. Can we ensure cross-contamination is prevented?", "You're incompetent", "This restaurant is terrible", "You don't listen"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você está mentorando uma pessoa que está começando a cozinhar profissionalmente. Como você oferece crítica construtiva?",
+    "correctAnswer": "Your foundation is solid. The next step is understanding how to layer flavors more strategically.",
+    "options": ["Your foundation is solid. The next step is understanding how to layer flavors more strategically.", "You're not cut out for this", "Your cooking is mediocre", "You'll never be a real chef"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você está em uma conversa sobre a influência das redes sociais na cultura alimentar. Como você oferece uma visão crítica mas equilibrada?",
+    "correctAnswer": "While social media has democratized food culture, it's also created unrealistic expectations about accessibility and authenticity.",
+    "options": ["While social media has democratized food culture, it's also created unrealistic expectations about accessibility and authenticity.", "Social media ruins everything", "Food culture is meaningless", "Nobody should care about food"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você está coordenando um jantar corporativo com restrições alimentares diversas. Como você expressa isso aos fornecedores?",
+    "correctAnswer": "We need to accommodate multiple dietary requirements including vegetarian, vegan, gluten-free, and shellfish allergies. Can you provide detailed ingredient lists?",
+    "options": ["We need to accommodate multiple dietary requirements including vegetarian, vegan, gluten-free, and shellfish allergies. Can you provide detailed ingredient lists?", "Just make regular food", "Dietary requirements are inconvenient", "Everyone should eat the same thing"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você está explicando por que desaprovava um serviço de restaurante sem ofender o proprietário. Como você procura?",
+    "correctAnswer": "I respect your establishment, but I felt the service standards didn't align with the premium pricing. I'd appreciate understanding your perspective.",
+    "options": ["I respect your establishment, but I felt the service standards didn't align with the premium pricing. I'd appreciate understanding your perspective.", "Your restaurant is a rip-off", "You don't care about customers", "Your staff is incompetent"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Um amigo quer colaborar em um projeto de negócio alimentar com você, mas você tem dúvidas sobre a viabilidade. Como você comunica honestamente?",
+    "correctAnswer": "I'm genuinely interested, but I have concerns about market saturation. Could we explore the financial projections together?",
+    "options": ["I'm genuinely interested, but I have concerns about market saturation. Could we explore the financial projections together?", "Your idea will fail", "You're not a businessman", "This is a waste of time"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você está escrevendo uma resenha de restaurante online que não foi ideal. Como você balanceia honestidade com construtividade?",
+    "correctAnswer": "The ambiance was charming, but the inconsistent execution across courses prevented it from reaching its full potential. There's clear promise here.",
+    "options": ["The ambiance was charming, but the inconsistent execution across courses prevented it from reaching its full potential. There's clear promise here.", "Worst restaurant ever!", "Don't waste your money here", "This place is terrible"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você está em uma discussão sobre qualidade versus quantidade em experiências gastronômicas. Como você articula sua posição pessoal?",
+    "correctAnswer": "I believe quality should be prioritized, but accessibility is equally important for dining to be truly inclusive.",
+    "options": ["I believe quality should be prioritized, but accessibility is equally important for dining to be truly inclusive.", "Only expensive restaurants matter", "Quality doesn't matter if it's expensive", "All restaurants are the same"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você está ensinando alguém sobre técnicas culinárias avançadas. Como você explica um conceito complexo claramente?",
+    "correctAnswer": "The technique of sous vide allows precise temperature control, which ensures consistent texture and flavor throughout the protein.",
+    "options": ["The technique of sous vide allows precise temperature control, which ensures consistent texture and flavor throughout the protein.", "Just cook it", "This is too complicated", "Cooking doesn't need techniques"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você está em um restaurante e quer pedir mais água para sua mesa. Como você pede de forma educada?",
+    "correctAnswer": "Could we have some more water, please?",
+    "options": ["Could we have some more water, please?", "Bring water now", "I'm very thirsty", "This water is cold"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você está em um café internacional e quer pedir uma bebida típica do país sem açúcar. Como você faz isso?",
+    "correctAnswer": "I'd like the traditional coffee you serve here, but without any added sugar, please.",
+    "options": ["I'd like the traditional coffee you serve here, but without any added sugar, please.", "Give me whatever is the cheapest", "I want the most expensive drink", "Do you have fast food here?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Um colega menciona que não come carne. Como você expressa respeito e curiosidade sem julgamento?",
+    "correctAnswer": "That's an interesting choice. Have you found good alternatives that work well for you?",
+    "options": ["That's an interesting choice. Have you found good alternatives that work well for you?", "That must be very difficult", "You're missing out on nutrients", "That's impractical"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer sugerir um novo restaurante a um amigo que tem preferências alimentares específicas. Como você aborda isso?",
+    "correctAnswer": "I found this place that specializes in farm-to-table cooking. I think you'd enjoy it given what I know about your tastes.",
+    "options": ["I found this place that specializes in farm-to-table cooking. I think you'd enjoy it given what I know about your tastes.", "You should just eat anywhere", "Restaurants are all the same anyway", "Food doesn't matter"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Em um programa de culinária, você quer comentar sobre a evolução de um prato clássico modernizado. O que você diria?",
+    "correctAnswer": "It's refreshing to see a classic reimagined while still respecting its roots and heritage.",
+    "options": ["It's refreshing to see a classic reimagined while still respecting its roots and heritage.", "New versions are always worse", "The original was perfect", "This is not authentic"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Você está discutindo inovação em gastronomia com um chef renomado. Como você formula uma pergunta perspicaz?",
+    "correctAnswer": "How do you balance innovation with tradition, and what drives your creative process when developing new dishes?",
+    "options": ["How do you balance innovation with tradition, and what drives your creative process when developing new dishes?", "Why don't you cook traditional food?", "Modern food is always better", "Does new cooking ever work?"],
+    "difficulty": "medium"
+  }
+]

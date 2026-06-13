@@ -1,0 +1,502 @@
+﻿[
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Após realizar a compra online, o cliente _____ que o reembolso seria processado em até 5 dias úteis.",
+    "correctAnswer": "was informed",
+    "options": ["was informed", "has been informed", "had been informed", "would be informed"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "A loja oferece desconto para clientes _____ compram regularmente produtos de alta qualidade.",
+    "correctAnswer": "who",
+    "options": ["which", "who", "that", "whom"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Se você tivesse verificado o carrinho antes de finalizarem a compra, _____ percebido o erro nos valores.",
+    "correctAnswer": "would have",
+    "options": ["would have", "would", "had", "have"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O gerente pediu que o atendente _____ a política de devoluções para o cliente insatisfeito.",
+    "correctAnswer": "explain",
+    "options": ["explained", "explain", "explains", "to explain"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Sendo que as promoções _____ até o final do mês, muitos clientes estão apressando suas compras.",
+    "correctAnswer": "are lasting",
+    "options": ["lasting", "are lasting", "last", "have lasted"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O produto, _____ tem características premium, não estava em estoque na loja física.",
+    "correctAnswer": "which",
+    "options": ["that", "which", "who", "whose"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Não importa _____ caro seja o item, o cliente sempre espera qualidade excepcional.",
+    "correctAnswer": "how",
+    "options": ["what", "how", "which", "when"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "A empresa tem insistido em que seus fornecedores _____ práticas sustentáveis.",
+    "correctAnswer": "adopt",
+    "options": ["adopted", "adopt", "adopting", "to adopt"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Ele teria comprado mais produtos _____ os preços não tivessem aumentado considerávelmente.",
+    "correctAnswer": "if",
+    "options": ["unless", "if", "when", "since"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "A forma como a loja trata seus clientes, _____ considero exemplar, merecia reconhecimento.",
+    "correctAnswer": "which I",
+    "options": ["that I", "which I", "who I", "what I"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Embora o cliente _____ reclamado várias vezes, nenhuma ação foi tomada pela gerência.",
+    "correctAnswer": "had",
+    "options": ["has", "had", "have", "has been"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O vendedor sugeriu que ela _____ o item em outro tamanho para melhor ajuste.",
+    "correctAnswer": "try",
+    "options": ["tried", "try", "tries", "to try"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Caso tivéssemos sabido da promoção mais cedo, _____ economizado bastante dinheiro.",
+    "correctAnswer": "would have",
+    "options": ["would", "would have", "had", "could"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O catálogo online, _____ apresenta centenas de produtos, é atualizado semanalmente.",
+    "correctAnswer": "which",
+    "options": ["that", "which", "where", "when"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Deveríamos ter verificado as avaliações antes de _____ aquele fornecedor.",
+    "correctAnswer": "choosing",
+    "options": ["choose", "choosing", "to choose", "chosen"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Sendo impossível _____ o produto dentro do prazo, o cliente solicitou cancelamento imediato.",
+    "correctAnswer": "delivering",
+    "options": ["deliver", "delivering", "to deliver", "delivered"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "A política exige que todo cliente _____ contato via e-mail após a compra.",
+    "correctAnswer": "be contacted",
+    "options": ["contacts", "be contacted", "contacts be", "will contact"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Se o sistema _____ funcionado corretamente, o pedido não teria sido duplicado.",
+    "correctAnswer": "had",
+    "options": ["has", "had", "would", "could"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Os clientes, _____ preferem qualidade a quantidade, tendem a fazer compras mais deliberadas.",
+    "correctAnswer": "who",
+    "options": ["that", "who", "which", "whom"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Caso não houvesse reembolsos garantidos, muitos consumidores _____ comprado menos impulsivamente.",
+    "correctAnswer": "would have",
+    "options": ["would", "would have", "had", "have"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "A empresa insiste em que todos os produtos _____ de materiais ecológicos.",
+    "correctAnswer": "be made",
+    "options": ["are made", "be made", "are being made", "would be made"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Ninguém duvidava de que a promoção _____ ser verdadeira dada sua magnitude.",
+    "correctAnswer": "could",
+    "options": ["will", "could", "would", "might"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O atendente recomendou que ele _____ sua escolha cuidadosamente antes de pagar.",
+    "correctAnswer": "reconsider",
+    "options": ["reconsidered", "reconsider", "reconsiders", "to reconsider"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Tendo _____ os termos e condições, o cliente finalizou sua compra com confiança.",
+    "correctAnswer": "read",
+    "options": ["read", "reading", "to read", "reads"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O gerente solicitou que ninguém _____ itens fora de estoque aos clientes.",
+    "correctAnswer": "offer",
+    "options": ["offered", "offer", "offers", "to offer"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Sob a condição de que ele _____ a política de reembolso, receberia seu dinheiro em breve.",
+    "correctAnswer": "accepted",
+    "options": ["accepts", "accepted", "would accept", "accepting"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O fato de que a empresa _____ certificação internacional garante melhor confiabilidade.",
+    "correctAnswer": "has obtained",
+    "options": ["obtained", "has obtained", "obtain", "obtaining"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Embora os preços _____ competitivos, a qualidade permanecia questionável.",
+    "correctAnswer": "were",
+    "options": ["are", "were", "be", "would be"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O cliente exigiu que a loja _____ uma compensação pelo atraso na entrega.",
+    "correctAnswer": "provide",
+    "options": ["provided", "provide", "provides", "to provide"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Havendo _____ o relatório de qualidade, todos os produtos foram liberados para venda.",
+    "correctAnswer": "reviewed",
+    "options": ["review", "reviewing", "reviewed", "to review"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Se você tivesse lido as avaliações, _____ evitado aquele fornecedor problemático.",
+    "correctAnswer": "would have",
+    "options": ["would", "would have", "had", "could"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "A plataforma requer que os usuários _____ sua identidade antes de fazer compras maiores.",
+    "correctAnswer": "verify",
+    "options": ["verified", "verify", "verifies", "to verify"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Sendo o produto _____ defeituoso, o cliente teve direito automático ao reembolso total.",
+    "correctAnswer": "found",
+    "options": ["find", "finding", "found", "to find"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O juiz determinou que a empresa _____ indenizar todos os consumidores afetados.",
+    "correctAnswer": "must",
+    "options": ["must", "should", "might", "could"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Haveria de _____ que a propaganda enganosa prejudicou significativamente a reputação da marca.",
+    "correctAnswer": "say",
+    "options": ["be said", "say", "to say", "saying"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Nem bem _____ completado sua compra quando começou a se arrepender da decisão.",
+    "correctAnswer": "had he",
+    "options": ["he had", "had he", "has he", "he has"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "A menos que _____ tomadas medidas urgentes, a empresa declararia falência em seis meses.",
+    "correctAnswer": "be",
+    "options": ["be", "were", "be taken", "should"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "De maneira alguma o cliente _____ aceitar aquelas condições abusivas de pagamento.",
+    "correctAnswer": "would",
+    "options": ["would", "had", "could", "should"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Assumindo que você _____ cometido o mesmo erro, como teria reagido?",
+    "correctAnswer": "had",
+    "options": ["have", "had", "has", "would"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Semelhantemente _____ como a concorrência reagiu, nossa empresa preparou uma estratégia defensiva.",
+    "correctAnswer": "to how",
+    "options": ["as", "to how", "like", "in such way"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Raro é o caso em que um cliente _____ completamente satisfeito com sua experiência de compra.",
+    "correctAnswer": "be",
+    "options": ["is", "be", "are", "were"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Ainda que lhe _____ oferecido um desconto substancial, ele recusou a compra pelo princípio.",
+    "correctAnswer": "be",
+    "options": ["is", "be", "was", "were"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Fosse qual _____ a razão da devolução, a política garantia reembolso sem questionamentos.",
+    "correctAnswer": "be",
+    "options": ["was", "be", "were", "is"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "De tal sorte _____ planejadas as campanhas que cada segmento recebia mensagens personalizadas.",
+    "correctAnswer": "were",
+    "options": ["was", "were", "be", "are"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Quanto mais caro _____ o produto, maior a expectativa do cliente por atendimento excepcional.",
+    "correctAnswer": "is",
+    "options": ["be", "is", "was", "were"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "De onde _____ extraído o capital para expandir a operação de compras internacionais?",
+    "correctAnswer": "was",
+    "options": ["was", "be", "were", "is"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Pouco importa se você _____ realizado a compra há dias ou apenas horas atrás.",
+    "correctAnswer": "had",
+    "options": ["have", "had", "has", "would"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Tivesse o cliente _____ antecipadamente sobre a validade do cupom, teria feito uso dele no prazo.",
+    "correctAnswer": "been informed",
+    "options": ["informed", "been informed", "be informed", "inform"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Por mais _____ que fosse o valor do desconto, o cliente mantinha-se cético sobre a autenticidade da oferta.",
+    "correctAnswer": "substantial",
+    "options": ["substantial", "substantive", "substantia", "substance"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Mal _____ terminado o atendimento quando o cliente decidiu fazer uma segunda compra no mesmo dia.",
+    "correctAnswer": "had been",
+    "options": ["was", "had been", "has been", "being"],
+    "difficulty": "hard"
+  }
+]

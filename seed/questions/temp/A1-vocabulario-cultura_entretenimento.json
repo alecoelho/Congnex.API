@@ -1,0 +1,522 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'music' em inglês?",
+    "correctAnswer": "Música",
+    "options": ["Música", "Filme", "Livro", "Dança"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'movie' em inglês?",
+    "correctAnswer": "Filme",
+    "options": ["Música", "Filme", "Teatro", "Revista"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'book' em inglês?",
+    "correctAnswer": "Livro",
+    "options": ["Livro", "Jogo", "Canção", "Arte"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'dance' em inglês?",
+    "correctAnswer": "Dançar",
+    "options": ["Cantar", "Dançar", "Assistir", "Ler"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'song' em inglês?",
+    "correctAnswer": "Canção",
+    "options": ["Canção", "Pintura", "Esporte", "Festa"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'game' em inglês?",
+    "correctAnswer": "Jogo",
+    "options": ["Jogo", "Show", "Música", "Dança"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'art' em inglês?",
+    "correctAnswer": "Arte",
+    "options": ["Arte", "Esporte", "Livro", "Festa"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'party' em inglês?",
+    "correctAnswer": "Festa",
+    "options": ["Festa", "Parque", "Jogo", "Teatro"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'sport' em inglês?",
+    "correctAnswer": "Esporte",
+    "options": ["Esporte", "Canção", "Arte", "Dança"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'show' em inglês?",
+    "correctAnswer": "Espetáculo / Show",
+    "options": ["Espetáculo / Show", "Canção", "Livro", "Jogo"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'theater' em inglês?",
+    "correctAnswer": "Teatro",
+    "options": ["Teatro", "Cinema", "Museu", "Parque"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'sing' em inglês?",
+    "correctAnswer": "Cantar",
+    "options": ["Cantar", "Dançar", "Pintar", "Jogar"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'paint' em inglês?",
+    "correctAnswer": "Pintar",
+    "options": ["Pintar", "Cantar", "Tocar", "Assistir"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'read' em inglês?",
+    "correctAnswer": "Ler",
+    "options": ["Ler", "Ver", "Ouvir", "Escrever"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'watch' em inglês?",
+    "correctAnswer": "Assistir",
+    "options": ["Assistir", "Ler", "Cantar", "Jogar"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'fun' em inglês?",
+    "correctAnswer": "Diversão",
+    "options": ["Diversão", "Tristeza", "Trabalho", "Estudo"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'play' em inglês quando falamos de entretenimento?",
+    "correctAnswer": "Brincar / Jogar",
+    "options": ["Brincar / Jogar", "Cantar", "Dormir", "Correr"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'actor' em inglês?",
+    "correctAnswer": "Ator",
+    "options": ["Ator", "Cantor", "Escritor", "Pintor"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'singer' em inglês?",
+    "correctAnswer": "Cantor",
+    "options": ["Cantor", "Dançarino", "Ator", "Escritor"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'museum' em inglês?",
+    "correctAnswer": "Museu",
+    "options": ["Museu", "Cinema", "Teatro", "Biblioteca"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'concert' em inglês?",
+    "correctAnswer": "Concerto / Show de música",
+    "options": ["Concerto / Show de música", "Peça de teatro", "Exposição de arte", "Competição esportiva"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'cartoon' em inglês?",
+    "correctAnswer": "Desenho animado",
+    "options": ["Desenho animado", "Filme de ação", "Livro infantil", "Jogo de tabuleiro"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'band' em inglês no contexto musical?",
+    "correctAnswer": "Banda",
+    "options": ["Banda", "Canção", "Instrumento", "Festival"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'ticket' em inglês?",
+    "correctAnswer": "Ingresso / Bilhete",
+    "options": ["Ingresso / Bilhete", "Programa", "Cartaz", "Palco"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'festival' em inglês?",
+    "correctAnswer": "Festival",
+    "options": ["Festival", "Concerto", "Desfile", "Exposição"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'camera' em inglês?",
+    "correctAnswer": "Câmera",
+    "options": ["Câmera", "Tela", "Microfone", "Palco"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'story' em inglês?",
+    "correctAnswer": "História",
+    "options": ["História", "Poema", "Canção", "Peça"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'guitar' em inglês?",
+    "correctAnswer": "Violão / Guitarra",
+    "options": ["Violão / Guitarra", "Bateria", "Flauta", "Piano"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'star' em inglês quando falamos de entretenimento?",
+    "correctAnswer": "Estrela / Celebridade",
+    "options": ["Estrela / Celebridade", "Diretor", "Músico", "Espectador"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'screen' em inglês?",
+    "correctAnswer": "Tela",
+    "options": ["Tela", "Palco", "Câmera", "Plateia"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'audience' em inglês?",
+    "correctAnswer": "Plateia / Público",
+    "options": ["Plateia / Público", "Elenco", "Diretor", "Roteiro"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'hobby' em inglês?",
+    "correctAnswer": "Passatempo",
+    "options": ["Passatempo", "Trabalho", "Escola", "Viagem"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'prize' em inglês?",
+    "correctAnswer": "Prêmio",
+    "options": ["Prêmio", "Jogo", "Festa", "Canção"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'dance' em inglês quando usada como substantivo?",
+    "correctAnswer": "Dança",
+    "options": ["Dança", "Música", "Teatro", "Circo"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'best seller' em inglês?",
+    "correctAnswer": "Livro mais vendido",
+    "options": ["Livro mais vendido", "Melhor vendedor", "Promoção especial", "Produto novo"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'hero' em inglês?",
+    "correctAnswer": "Herói",
+    "options": ["Herói", "Vilão", "Monstro", "Fantasia"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'drummer' em inglês?",
+    "correctAnswer": "Baterista",
+    "options": ["Baterista", "Guitarrista", "Cantor", "Pianista"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'playwright' em inglês?",
+    "correctAnswer": "Dramaturgo / Autor de peças",
+    "options": ["Dramaturgo / Autor de peças", "Ator principal", "Diretor de teatro", "Cenógrafo"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'sculptor' em inglês?",
+    "correctAnswer": "Escultor",
+    "options": ["Escultor", "Pintor", "Fotógrafo", "Ilustrador"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'villain' em inglês?",
+    "correctAnswer": "Vilão",
+    "options": ["Vilão", "Herói", "Protagonista", "Narrador"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'rehearsal' em inglês?",
+    "correctAnswer": "Ensaio",
+    "options": ["Ensaio", "Espetáculo", "Estreia", "Encerramento"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'comedy' em inglês?",
+    "correctAnswer": "Comédia",
+    "options": ["Comédia", "Tragédia", "Drama", "Terror"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'exhibition' em inglês?",
+    "correctAnswer": "Exposição",
+    "options": ["Exposição", "Competição", "Apresentação", "Encenação"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'narrator' em inglês?",
+    "correctAnswer": "Narrador",
+    "options": ["Narrador", "Protagonista", "Personagem", "Autor"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'orchestra' em inglês?",
+    "correctAnswer": "Orquestra",
+    "options": ["Orquestra", "Banda de rock", "Coral", "Dueto"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'fiction' em inglês?",
+    "correctAnswer": "Ficção",
+    "options": ["Ficção", "Biografia", "Notícia", "Poesia"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'soundtrack' em inglês?",
+    "correctAnswer": "Trilha sonora",
+    "options": ["Trilha sonora", "Efeito especial", "Letra de música", "Arranjo musical"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'choreographer' em inglês?",
+    "correctAnswer": "Coreógrafo",
+    "options": ["Coreógrafo", "Dançarino", "Professor de dança", "Figurinista"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'documentary' em inglês?",
+    "correctAnswer": "Documentário",
+    "options": ["Documentário", "Filme de animação", "Série policial", "Novela"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'portrait' em inglês?",
+    "correctAnswer": "Retrato",
+    "options": ["Retrato", "Paisagem", "Escultura", "Mural"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'manuscript' em inglês?",
+    "correctAnswer": "Manuscrito",
+    "options": ["Manuscrito", "Publicação", "Enciclopédia", "Dicionário"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'intermission' em inglês?",
+    "correctAnswer": "Intervalo",
+    "options": ["Intervalo", "Abertura", "Encerramento", "Apresentação"],
+    "difficulty": "hard"
+  }
+]

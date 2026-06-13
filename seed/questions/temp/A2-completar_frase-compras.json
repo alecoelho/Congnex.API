@@ -1,0 +1,532 @@
+﻿[
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "I need to ___ milk at the supermarket.",
+    "correctAnswer": "buy",
+    "options": ["buy", "sell", "throw", "keep"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "How much ___ these shoes?",
+    "correctAnswer": "cost",
+    "options": ["cost", "price", "pay", "spend"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "This shirt is very ___. I like it!",
+    "correctAnswer": "nice",
+    "options": ["nice", "bad", "old", "small"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "I have no ___ to buy a new car.",
+    "correctAnswer": "money",
+    "options": ["money", "time", "place", "thing"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "The ___ at this store are very good.",
+    "correctAnswer": "prices",
+    "options": ["prices", "customers", "workers", "shelves"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Can I ___ this dress? It''s beautiful!",
+    "correctAnswer": "try",
+    "options": ["try", "sell", "break", "eat"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "I ___ a new pair of shoes yesterday.",
+    "correctAnswer": "bought",
+    "options": ["bought", "sell", "broke", "lost"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "The ___ is closed on Sundays.",
+    "correctAnswer": "shop",
+    "options": ["shop", "park", "school", "beach"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Do you have this in a different ___?",
+    "correctAnswer": "size",
+    "options": ["size", "color", "style", "brand"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "This product is ___ of charge here.",
+    "correctAnswer": "free",
+    "options": ["free", "full", "clear", "open"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "I prefer to ___ online because it''s easy.",
+    "correctAnswer": "shop",
+    "options": ["shop", "walk", "swim", "sleep"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Can you give me a ___? This is too expensive.",
+    "correctAnswer": "discount",
+    "options": ["discount", "problem", "reason", "question"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "The ___ told me the shirt is 20 dollars.",
+    "correctAnswer": "seller",
+    "options": ["seller", "buyer", "friend", "teacher"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "I want to ___ this sweater. It doesn''t fit.",
+    "correctAnswer": "return",
+    "options": ["return", "wear", "clean", "find"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "There is a special ___ on shoes this week.",
+    "correctAnswer": "offer",
+    "options": ["offer", "place", "time", "person"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "I need a ___ to pay for my shopping.",
+    "correctAnswer": "wallet",
+    "options": ["wallet", "bag", "door", "key"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Where is the ___ to pay for these items?",
+    "correctAnswer": "checkout",
+    "options": ["checkout", "entrance", "toilet", "kitchen"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "This product is very good ___.",
+    "correctAnswer": "quality",
+    "options": ["quality", "price", "size", "color"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "I prefer these shoes ___ the other ones.",
+    "correctAnswer": "to",
+    "options": ["to", "than", "or", "and"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "The store ___ many different brands of clothes.",
+    "correctAnswer": "sells",
+    "options": ["sells", "buys", "makes", "breaks"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "I spent 50 dollars ___ a new jacket.",
+    "correctAnswer": "on",
+    "options": ["on", "for", "at", "in"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Do you know if they have a ___ policy?",
+    "correctAnswer": "refund",
+    "options": ["refund", "sales", "shop", "service"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "These ___ are too small for me.",
+    "correctAnswer": "pants",
+    "options": ["pants", "shirt", "shoe", "hat"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Can you ___ me where the fitting rooms are?",
+    "correctAnswer": "tell",
+    "options": ["tell", "show", "give", "take"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "The ___ offers free shipping for orders over 100.",
+    "correctAnswer": "website",
+    "options": ["website", "store", "mall", "market"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "I always look for the best ___ when I shop.",
+    "correctAnswer": "deals",
+    "options": ["deals", "places", "people", "things"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "This store ___ credit cards and cash.",
+    "correctAnswer": "accepts",
+    "options": ["accepts", "refuses", "loses", "finds"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "I like to ___ the price of things before I buy.",
+    "correctAnswer": "check",
+    "options": ["check", "keep", "break", "forget"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "The bag ___ 5 kilos, so I can''t carry it.",
+    "correctAnswer": "weighs",
+    "options": ["weighs", "costs", "measures", "holds"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "I don''t have enough money ___ buy this.",
+    "correctAnswer": "to",
+    "options": ["to", "for", "on", "in"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "The ___ is open from 9 AM to 9 PM.",
+    "correctAnswer": "store",
+    "options": ["store", "bank", "school", "museum"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "I need to ___ my receipt to return the item.",
+    "correctAnswer": "keep",
+    "options": ["keep", "lose", "burn", "sell"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "This product is ___ with a 30-day warranty.",
+    "correctAnswer": "covered",
+    "options": ["covered", "broken", "sold", "used"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "I like to ___ my purchases online at home.",
+    "correctAnswer": "make",
+    "options": ["make", "do", "take", "bring"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "The price ___ 25 dollars per item.",
+    "correctAnswer": "is",
+    "options": ["is", "are", "was", "were"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "If you buy two, you ___ one free.",
+    "correctAnswer": "get",
+    "options": ["get", "give", "take", "have"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "I would like to ___ this item in another color.",
+    "correctAnswer": "exchange",
+    "options": ["exchange", "sell", "throw", "wear"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "The shop ___ when I arrived at 10 AM.",
+    "correctAnswer": "was open",
+    "options": ["was open", "was closed", "is open", "opens"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "I ___ three bags of groceries yesterday.",
+    "correctAnswer": "carried",
+    "options": ["carried", "bought", "sold", "saw"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Can you ___ me a bag for my items?",
+    "correctAnswer": "give",
+    "options": ["give", "sell", "show", "make"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "I prefer to ___ my clothes at the mall.",
+    "correctAnswer": "buy",
+    "options": ["buy", "sell", "rent", "borrow"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "The ___ asked if I needed any help.",
+    "correctAnswer": "assistant",
+    "options": ["assistant", "customer", "owner", "friend"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "I saved 50 dollars ___ buying the sale items.",
+    "correctAnswer": "by",
+    "options": ["by", "from", "with", "on"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "The groceries ___ more than I expected.",
+    "correctAnswer": "cost",
+    "options": ["cost", "costs", "costed", "costing"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Would you like a ___ receipt for your purchase?",
+    "correctAnswer": "paper",
+    "options": ["paper", "plastic", "metal", "cloth"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "The items in this store are of ___ quality.",
+    "correctAnswer": "high",
+    "options": ["high", "low", "bad", "old"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "I ___ to pay with a credit card.",
+    "correctAnswer": "want",
+    "options": ["want", "need", "wish", "hope"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "The ___ includes tax and shipping fees.",
+    "correctAnswer": "price",
+    "options": ["price", "bill", "cost", "total"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "I ___ a coupon for 20% off last week.",
+    "correctAnswer": "received",
+    "options": ["received", "sent", "lost", "found"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "This product is not ___ in your size today.",
+    "correctAnswer": "available",
+    "options": ["available", "expensive", "cheap", "sold"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "I prefer ___ brands because they are better.",
+    "correctAnswer": "famous",
+    "options": ["famous", "cheap", "new", "old"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "The ___ of this jacket is very comfortable.",
+    "correctAnswer": "material",
+    "options": ["material", "price", "color", "size"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "I ___ to visit the store next Saturday.",
+    "correctAnswer": "plan",
+    "options": ["plan", "wish", "hope", "try"],
+    "difficulty": "hard"
+  }
+]

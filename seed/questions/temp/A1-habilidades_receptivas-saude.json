@@ -1,0 +1,492 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Eu estou doente.",
+    "correctAnswer": "I am sick.",
+    "options": ["I am sick.", "I am hungry.", "I am tired.", "I am happy."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Eu tenho dor de cabeça.",
+    "correctAnswer": "I have a headache.",
+    "options": ["I have a headache.", "I have a stomachache.", "I have a cold.", "I have a fever."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Ela bebe água todos os dias.",
+    "correctAnswer": "She drinks water every day.",
+    "options": ["She drinks water every day.", "She drinks juice every day.", "She eats water every day.", "She drinks milk every day."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Eu preciso de um médico.",
+    "correctAnswer": "I need a doctor.",
+    "options": ["I need a doctor.", "I need a nurse.", "I need a hospital.", "I need medicine."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Ele está com febre.",
+    "correctAnswer": "He has a fever.",
+    "options": ["He has a fever.", "He has a cold.", "He has a cough.", "He has pain."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Eu tomo remédio todos os dias.",
+    "correctAnswer": "I take medicine every day.",
+    "options": ["I take medicine every day.", "I buy medicine every day.", "I drink medicine every day.", "I eat medicine every day."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Minha mão dói.",
+    "correctAnswer": "My hand hurts.",
+    "options": ["My hand hurts.", "My foot hurts.", "My head hurts.", "My arm hurts."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Eu durmo oito horas por noite.",
+    "correctAnswer": "I sleep eight hours a night.",
+    "options": ["I sleep eight hours a night.", "I sleep six hours a night.", "I rest eight hours a night.", "I work eight hours a night."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Ela está cansada.",
+    "correctAnswer": "She is tired.",
+    "options": ["She is tired.", "She is sick.", "She is sad.", "She is cold."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Eu não me sinto bem.",
+    "correctAnswer": "I do not feel well.",
+    "options": ["I do not feel well.", "I do not look well.", "I do not sleep well.", "I do not eat well."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "O hospital fica perto daqui.",
+    "correctAnswer": "The hospital is near here.",
+    "options": ["The hospital is near here.", "The pharmacy is near here.", "The hospital is far from here.", "The clinic is near here."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Ele come frutas e legumes.",
+    "correctAnswer": "He eats fruits and vegetables.",
+    "options": ["He eats fruits and vegetables.", "He eats meat and vegetables.", "He drinks fruits and vegetables.", "He buys fruits and vegetables."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Meu braço está quebrado.",
+    "correctAnswer": "My arm is broken.",
+    "options": ["My arm is broken.", "My leg is broken.", "My arm is hurt.", "My arm is bad."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Eu estou com frio.",
+    "correctAnswer": "I am cold.",
+    "options": ["I am cold.", "I am hot.", "I am sick.", "I am tired."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A enfermeira é muito gentil.",
+    "correctAnswer": "The nurse is very kind.",
+    "options": ["The nurse is very kind.", "The doctor is very kind.", "The nurse is very good.", "The nurse is very nice."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Eu preciso descansar.",
+    "correctAnswer": "I need to rest.",
+    "options": ["I need to rest.", "I need to sleep.", "I need to eat.", "I need to drink."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Meu dente dói muito.",
+    "correctAnswer": "My tooth hurts a lot.",
+    "options": ["My tooth hurts a lot.", "My back hurts a lot.", "My tooth is broken.", "My mouth hurts a lot."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Eu faço exercício três vezes por semana.",
+    "correctAnswer": "I exercise three times a week.",
+    "options": ["I exercise three times a week.", "I exercise every day.", "I walk three times a week.", "I run three times a week."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Ela tem uma consulta com o médico amanhã.",
+    "correctAnswer": "She has a doctor's appointment tomorrow.",
+    "options": ["She has a doctor's appointment tomorrow.", "She has a nurse's appointment tomorrow.", "She has a hospital visit tomorrow.", "She sees the doctor today."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Eu preciso comprar remédio na farmácia.",
+    "correctAnswer": "I need to buy medicine at the pharmacy.",
+    "options": ["I need to buy medicine at the pharmacy.", "I need to get medicine at the hospital.", "I need to take medicine at the pharmacy.", "I need to buy medicine at the store."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Ele não consegue dormir bem à noite.",
+    "correctAnswer": "He cannot sleep well at night.",
+    "options": ["He cannot sleep well at night.", "He does not eat well at night.", "He cannot rest well at night.", "He does not sleep well in the morning."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A criança está com tosse e febre.",
+    "correctAnswer": "The child has a cough and a fever.",
+    "options": ["The child has a cough and a fever.", "The child has a cold and a fever.", "The child has a cough and pain.", "The child has a headache and a fever."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Eu lavo as mãos antes de comer.",
+    "correctAnswer": "I wash my hands before eating.",
+    "options": ["I wash my hands before eating.", "I clean my hands before sleeping.", "I wash my face before eating.", "I wash my hands after eating."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Minha filha tem alergia a amendoim.",
+    "correctAnswer": "My daughter has a peanut allergy.",
+    "options": ["My daughter has a peanut allergy.", "My son has a peanut allergy.", "My daughter has a food allergy.", "My daughter is allergic to nuts."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Ele bebe muita água durante o dia.",
+    "correctAnswer": "He drinks a lot of water during the day.",
+    "options": ["He drinks a lot of water during the day.", "He drinks a lot of juice during the day.", "He drinks some water during the day.", "He drinks water at night."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Eu me machuquei jogando futebol.",
+    "correctAnswer": "I hurt myself playing soccer.",
+    "options": ["I hurt myself playing soccer.", "I broke my leg playing soccer.", "I fell down playing soccer.", "I hurt myself watching soccer."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "O médico diz que eu preciso operar.",
+    "correctAnswer": "The doctor says I need surgery.",
+    "options": ["The doctor says I need surgery.", "The nurse says I need surgery.", "The doctor says I need rest.", "The doctor says I need medicine."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Ela toma vitaminas todas as manhãs.",
+    "correctAnswer": "She takes vitamins every morning.",
+    "options": ["She takes vitamins every morning.", "She takes medicine every morning.", "She eats vitamins every morning.", "She drinks vitamins every morning."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Eu tenho pressão alta.",
+    "correctAnswer": "I have high blood pressure.",
+    "options": ["I have high blood pressure.", "I have low blood pressure.", "I have high fever.", "I have high sugar."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Nós devemos comer menos açúcar.",
+    "correctAnswer": "We should eat less sugar.",
+    "options": ["We should eat less sugar.", "We should drink less sugar.", "We should eat more sugar.", "We should eat less salt."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Eu preciso usar óculos para ler.",
+    "correctAnswer": "I need to wear glasses to read.",
+    "options": ["I need to wear glasses to read.", "I want to wear glasses to read.", "I need to use glasses to write.", "I need glasses to see far."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Meu pai faz caminhada todos os dias pela manhã.",
+    "correctAnswer": "My father walks every morning.",
+    "options": ["My father walks every morning.", "My father runs every morning.", "My father exercises every morning.", "My father walks every night."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A farmácia fecha às dez da noite.",
+    "correctAnswer": "The pharmacy closes at ten at night.",
+    "options": ["The pharmacy closes at ten at night.", "The hospital closes at ten at night.", "The pharmacy opens at ten at night.", "The pharmacy closes at nine at night."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Eu tenho que fazer um exame de sangue.",
+    "correctAnswer": "I have to do a blood test.",
+    "options": ["I have to do a blood test.", "I have to do a urine test.", "I need to give blood.", "I have to take a blood test."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Ele sofreu um acidente e está no hospital.",
+    "correctAnswer": "He had an accident and is in the hospital.",
+    "options": ["He had an accident and is in the hospital.", "He was sick and is in the hospital.", "He fell and is at the clinic.", "He had an accident and is at home."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Ela foi ao pronto-socorro porque sentia muita dor.",
+    "correctAnswer": "She went to the emergency room because she was in a lot of pain.",
+    "options": ["She went to the emergency room because she was in a lot of pain.", "She went to the hospital because she was very sick.", "She went to the clinic because she was tired.", "She went to the doctor because she had a fever."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "O médico recomendou que eu descansasse por três dias.",
+    "correctAnswer": "The doctor recommended that I rest for three days.",
+    "options": ["The doctor recommended that I rest for three days.", "The nurse told me to sleep for three days.", "The doctor said I should work for three days.", "The doctor suggested I rest for two days."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Minha mãe tem diabetes e precisa controlar o açúcar no sangue.",
+    "correctAnswer": "My mother has diabetes and needs to control her blood sugar.",
+    "options": ["My mother has diabetes and needs to control her blood sugar.", "My mother has high pressure and needs to control her blood sugar.", "My mother has diabetes and wants to lower her blood sugar.", "My mother has diabetes and needs to check her blood pressure."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Ele precisa tomar o remédio duas vezes ao dia com água.",
+    "correctAnswer": "He needs to take the medicine twice a day with water.",
+    "options": ["He needs to take the medicine twice a day with water.", "He needs to take the medicine once a day with water.", "He must drink the medicine twice a day with food.", "He needs to take the pills twice a week with water."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A médica disse que os resultados do exame são normais.",
+    "correctAnswer": "The doctor said the test results are normal.",
+    "options": ["The doctor said the test results are normal.", "The nurse said the test results are good.", "The doctor said the exam results are bad.", "The doctor told me the blood results are fine."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "É importante dormir bem para manter a saúde.",
+    "correctAnswer": "It is important to sleep well to stay healthy.",
+    "options": ["It is important to sleep well to stay healthy.", "It is necessary to eat well to stay healthy.", "It is good to rest well to be healthy.", "It is important to exercise well to stay healthy."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Você deve evitar alimentos gordurosos quando está doente.",
+    "correctAnswer": "You should avoid fatty foods when you are sick.",
+    "options": ["You should avoid fatty foods when you are sick.", "You must stop eating when you are sick.", "You should eat more vegetables when you are sick.", "You must avoid sweet foods when you are ill."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Ele fraturou o tornozelo durante a corrida.",
+    "correctAnswer": "He fractured his ankle while running.",
+    "options": ["He fractured his ankle while running.", "He broke his knee while running.", "He hurt his ankle during the game.", "He fractured his foot while walking."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Ela se recuperou da gripe depois de uma semana de repouso.",
+    "correctAnswer": "She recovered from the flu after a week of rest.",
+    "options": ["She recovered from the flu after a week of rest.", "She got better from a cold after two weeks of rest.", "She recovered from the flu after taking medicine.", "She healed from the flu after a few days of sleep."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "O dentista recomendou escovar os dentes três vezes ao dia.",
+    "correctAnswer": "The dentist recommended brushing teeth three times a day.",
+    "options": ["The dentist recommended brushing teeth three times a day.", "The doctor recommended washing teeth twice a day.", "The dentist suggested flossing teeth three times a day.", "The dentist told me to brush teeth every morning."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "É necessário usar protetor solar para proteger a pele.",
+    "correctAnswer": "It is necessary to use sunscreen to protect the skin.",
+    "options": ["It is necessary to use sunscreen to protect the skin.", "It is important to wear clothes to protect the skin.", "It is necessary to apply cream to protect the face.", "It is good to use lotion to protect the body."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Meu irmão faz fisioterapia duas vezes por semana por causa do joelho.",
+    "correctAnswer": "My brother does physical therapy twice a week because of his knee.",
+    "options": ["My brother does physical therapy twice a week because of his knee.", "My brother has therapy once a week because of his back.", "My sister does physical therapy twice a week for her knee.", "My brother goes to the gym twice a week because of his knee."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "O médico pediu que eu fizesse uma radiografia do pulmão.",
+    "correctAnswer": "The doctor asked me to take an X-ray of my lungs.",
+    "options": ["The doctor asked me to take an X-ray of my lungs.", "The nurse told me to have a scan of my chest.", "The doctor wanted me to do a blood test for my lungs.", "The doctor requested an ultrasound of my lungs."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Para ter uma vida saudável, é preciso dormir bem, comer bem e fazer exercício.",
+    "correctAnswer": "To have a healthy life, you need to sleep well, eat well, and exercise.",
+    "options": ["To have a healthy life, you need to sleep well, eat well, and exercise.", "To live healthy, you must drink water, eat fruit, and rest.", "For a good life, it is important to sleep, work, and eat well.", "To stay healthy, you should sleep a lot, avoid sugar, and run."],
+    "difficulty": "hard"
+  }
+]

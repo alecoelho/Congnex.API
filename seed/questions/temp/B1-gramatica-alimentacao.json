@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a forma correta do verbo no presente contínuo? \u0027She _____ a delicious cake right now.\u0027",
+        "difficulty":  "easy",
+        "options":  [
+                        "is baking",
+                        "bakes",
+                        "bake",
+                        "are baking"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "is baking"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Complete a frase com o artigo correto: \u0027I would like _____ apple and _____ banana for breakfast.\u0027",
+        "difficulty":  "easy",
+        "options":  [
+                        "an, a",
+                        "a, an",
+                        "the, the",
+                        "a, the"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "an, a"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a forma correta do plural? \u0027There are many _____ on the table.\u0027",
+        "difficulty":  "easy",
+        "options":  [
+                        "tomatoes",
+                        "tomatos",
+                        "tomatoe",
+                        "tomatie"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "tomatoes"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Complete com o possessivo correto: \u0027This is _____ favorite restaurant. We eat there every week.\u0027",
+        "difficulty":  "easy",
+        "options":  [
+                        "our",
+                        "ours",
+                        "us",
+                        "we"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "our"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a forma correta do past simple? \u0027He _____ coffee this morning.\u0027",
+        "difficulty":  "easy",
+        "options":  [
+                        "drank",
+                        "drink",
+                        "drinks",
+                        "drinking"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "drank"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Complete com \u0027some\u0027 ou \u0027any\u0027: \u0027Would you like _____ cheese on your pizza?\u0027",
+        "difficulty":  "easy",
+        "options":  [
+                        "some",
+                        "any",
+                        "the",
+                        "a"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "some"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a forma correta com \u0027much\u0027 ou \u0027many\u0027? \u0027How _____ water did you drink at lunch?\u0027",
+        "difficulty":  "easy",
+        "options":  [
+                        "much",
+                        "many",
+                        "more",
+                        "most"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "much"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Complete com o verbo no passado: \u0027They _____ dinner at 7 PM last night.\u0027",
+        "difficulty":  "easy",
+        "options":  [
+                        "had",
+                        "have",
+                        "has",
+                        "having"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "had"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a forma correta do comparativo? \u0027This restaurant is _____ than that one.\u0027",
+        "difficulty":  "easy",
+        "options":  [
+                        "better",
+                        "more good",
+                        "gooder",
+                        "best"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "better"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Complete com \u0027a lot of\u0027 ou \u0027a few\u0027: \u0027There are _____ restaurants in the city center.\u0027",
+        "difficulty":  "easy",
+        "options":  [
+                        "a lot of",
+                        "a few",
+                        "a little",
+                        "little"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "a lot of"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a forma correta do superlativo? \u0027This is the _____ cake I have ever tasted.\u0027",
+        "difficulty":  "easy",
+        "options":  [
+                        "best",
+                        "better",
+                        "good",
+                        "more good"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "best"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Complete com o advérbio correto: \u0027Do you _____ like spicy food?\u0027",
+        "difficulty":  "easy",
+        "options":  [
+                        "really",
+                        "can",
+                        "might",
+                        "must"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "really"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a forma correta do gerúndio? \u0027I enjoy _____ fresh vegetables.\u0027",
+        "difficulty":  "easy",
+        "options":  [
+                        "eating",
+                        "eat",
+                        "eats",
+                        "ate"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "eating"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Complete com \u0027should\u0027 ou \u0027must\u0027: \u0027You _____ try this dessert, it\u0027s delicious!\u0027",
+        "difficulty":  "easy",
+        "options":  [
+                        "should",
+                        "must",
+                        "can",
+                        "will"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "should"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a forma correta do presente perfeito? \u0027She _____ never _____ sushi before.\u0027",
+        "difficulty":  "easy",
+        "options":  [
+                        "has, tried",
+                        "have, tried",
+                        "has, try",
+                        "did, try"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "has, tried"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Complete com a preposição correta: \u0027I\u0027m looking forward _____ the dinner party next week.\u0027",
+        "difficulty":  "easy",
+        "options":  [
+                        "to",
+                        "for",
+                        "at",
+                        "on"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "to"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a forma correta com condicional? \u0027If I _____ more time, I _____ cook dinner from scratch.\u0027",
+        "difficulty":  "medium",
+        "options":  [
+                        "had, would cook",
+                        "have, will cook",
+                        "had, will cook",
+                        "have, would cook"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "had, would cook"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Complete com a forma correta do passado contínuo: \u0027While I _____ dinner, my friend arrived.\u0027",
+        "difficulty":  "medium",
+        "options":  [
+                        "was cooking",
+                        "cooked",
+                        "am cooking",
+                        "were cooking"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "was cooking"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a forma correta com voz passiva? \u0027The meal _____ by a professional chef.\u0027",
+        "difficulty":  "medium",
+        "options":  [
+                        "was prepared",
+                        "prepared",
+                        "is prepared",
+                        "has prepared"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "was prepared"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Complete com \u0027used to\u0027 ou \u0027would\u0027: \u0027When I was young, I _____ eat lots of chocolate.\u0027",
+        "difficulty":  "medium",
+        "options":  [
+                        "used to",
+                        "would eat",
+                        "was eating",
+                        "had eaten"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "used to"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a forma correta com \u0027although\u0027? \u0027Although the food was expensive, it was worth it.\u0027",
+        "difficulty":  "medium",
+        "options":  [
+                        "Although the food was expensive, it was worth it",
+                        "The food was expensive although it was worth it",
+                        "Although expensive the food, it was worth it",
+                        "It was worth it although expensive the food"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "Although the food was expensive, it was worth it"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Complete com o padrão correto: \u0027Can you give me the recipe?\u0027",
+        "difficulty":  "medium",
+        "options":  [
+                        "give me",
+                        "give to me",
+                        "send me",
+                        "tell me"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "give me"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a forma correta do infinitivo? \u0027It\u0027s important _____ healthy food.\u0027",
+        "difficulty":  "medium",
+        "options":  [
+                        "to eat",
+                        "eating",
+                        "eat",
+                        "eaten"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "to eat"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Complete com \u0027for\u0027 ou \u0027since\u0027: \u0027I haven\u0027t eaten meat _____ five years.\u0027",
+        "difficulty":  "medium",
+        "options":  [
+                        "for",
+                        "since",
+                        "during",
+                        "while"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "for"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a forma correta com \u0027either... or\u0027? \u0027_____ fish _____ chicken would be great.\u0027",
+        "difficulty":  "medium",
+        "options":  [
+                        "Either, or",
+                        "Both, and",
+                        "Neither, nor",
+                        "Either, and"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "Either, or"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Complete com \u0027if\u0027 ou \u0027whether\u0027: \u0027I don\u0027t know _____ I should add more salt.\u0027",
+        "difficulty":  "medium",
+        "options":  [
+                        "whether",
+                        "if",
+                        "what",
+                        "which"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "whether"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a forma correta do adjetivo possessivo? \u0027This is _____ favorite dish.\u0027",
+        "difficulty":  "medium",
+        "options":  [
+                        "my",
+                        "mine",
+                        "me",
+                        "myself"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "my"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Complete com \u0027as\u0027 ou \u0027like\u0027: \u0027The sauce tastes _____ honey.\u0027",
+        "difficulty":  "medium",
+        "options":  [
+                        "like",
+                        "as",
+                        "than",
+                        "such as"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "like"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a forma correta com \u0027present perfect continuous\u0027? \u0027She _____ cooking for two hours.\u0027",
+        "difficulty":  "medium",
+        "options":  [
+                        "has been",
+                        "is being",
+                        "have been",
+                        "was"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "has been"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Complete com \u0027so\u0027 ou \u0027such\u0027: \u0027This pizza is _____ delicious!\u0027",
+        "difficulty":  "medium",
+        "options":  [
+                        "so",
+                        "such",
+                        "very much",
+                        "too much"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "so"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a forma correta com \u0027I had the cake made\u0027? \u0027I _____ the cake made by the baker.\u0027",
+        "difficulty":  "medium",
+        "options":  [
+                        "had",
+                        "made",
+                        "have made",
+                        "have"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "had"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Complete com \u0027by\u0027 ou \u0027with\u0027: \u0027She cut the bread _____ a sharp knife.\u0027",
+        "difficulty":  "medium",
+        "options":  [
+                        "with",
+                        "by",
+                        "using",
+                        "through"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "with"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a forma correta do passado perfeito? \u0027Before she arrived, I _____ already _____ lunch.\u0027",
+        "difficulty":  "medium",
+        "options":  [
+                        "had, prepared",
+                        "have, prepared",
+                        "was, preparing",
+                        "did, prepare"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "had, prepared"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Complete com \u0027might\u0027, \u0027could\u0027 ou \u0027can\u0027: \u0027The restaurant _____ be closed on Mondays.\u0027",
+        "difficulty":  "hard",
+        "options":  [
+                        "might",
+                        "can",
+                        "could be",
+                        "may"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "might"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a forma correta com inversão? \u0027Only after tasting the dish _____ I understand the recipe.\u0027",
+        "difficulty":  "hard",
+        "options":  [
+                        "did",
+                        "do",
+                        "will",
+                        "would"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "did"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Complete com \u0027that\u0027 ou \u0027which\u0027: \u0027The restaurant _____ we went to last night was excellent.\u0027",
+        "difficulty":  "hard",
+        "options":  [
+                        "that",
+                        "which",
+                        "where",
+                        "whose"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "that"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a forma correta com \u0027despite\u0027 ou \u0027in spite of\u0027? \u0027_____ the high price, the food wasn\u0027t very good.\u0027",
+        "difficulty":  "hard",
+        "options":  [
+                        "Despite",
+                        "In spite of",
+                        "Although",
+                        "Though the"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "Despite"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Complete com o pronome reflexivo correto: \u0027I made the dessert _____ yesterday.\u0027",
+        "difficulty":  "hard",
+        "options":  [
+                        "myself",
+                        "me",
+                        "self",
+                        "own"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "myself"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a forma correta com inversão no condicional? \u0027Should you find the recipe, _____ me know.\u0027",
+        "difficulty":  "hard",
+        "options":  [
+                        "let",
+                        "do let",
+                        "will let",
+                        "letting"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "let"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Complete com \u0027hardly\u0027 ou \u0027scarcely\u0027: \u0027_____ had we sat down when the food arrived.\u0027",
+        "difficulty":  "hard",
+        "options":  [
+                        "Hardly",
+                        "Scarcely",
+                        "Barely",
+                        "Just"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "Hardly"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a forma correta com sentença de foco? \u0027It was _____ that made the dish so delicious.\u0027",
+        "difficulty":  "hard",
+        "options":  [
+                        "the secret ingredient",
+                        "the ingredient secret",
+                        "secret the ingredient",
+                        "ingredient the secret"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "the secret ingredient"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Complete com \u0027unless\u0027 ou \u0027if not\u0027: \u0027The restaurant won\u0027t open tomorrow _____ they fix the kitchen.\u0027",
+        "difficulty":  "hard",
+        "options":  [
+                        "unless",
+                        "if not",
+                        "until",
+                        "before"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "unless"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a forma correta com nominalização? \u0027The _____ of the meal was a highlight.\u0027",
+        "difficulty":  "hard",
+        "options":  [
+                        "preparation",
+                        "preparing",
+                        "prepared",
+                        "prepare"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "preparation"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Complete com \u0027whose\u0027 ou \u0027of which\u0027: \u0027The chef _____ restaurant has three Michelin stars is very talented.\u0027",
+        "difficulty":  "hard",
+        "options":  [
+                        "whose",
+                        "of which",
+                        "that",
+                        "which"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "whose"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a forma correta com condicional zero? \u0027If you _____ too much salt, the food _____ too salty.\u0027",
+        "difficulty":  "hard",
+        "options":  [
+                        "add, becomes",
+                        "will add, will become",
+                        "added, became",
+                        "have added, became"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "add, becomes"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Complete com \u0027as long as\u0027 ou \u0027provided that\u0027: \u0027_____ you follow the recipe, the cake will be perfect.\u0027",
+        "difficulty":  "hard",
+        "options":  [
+                        "As long as",
+                        "Provided that",
+                        "Unless",
+                        "Even if"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "As long as"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a forma correta com cláusula de particípio? \u0027_____ the spices carefully, the dish will have a better flavor.\u0027",
+        "difficulty":  "hard",
+        "options":  [
+                        "Choosing",
+                        "Chose",
+                        "To choose",
+                        "Having chose"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "Choosing"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Complete com \u0027not only... but also\u0027: \u0027This restaurant serves _____ delicious food _____ provides excellent service.\u0027",
+        "difficulty":  "hard",
+        "options":  [
+                        "not only, but also",
+                        "not just, and also",
+                        "only, also",
+                        "both, and"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "not only, but also"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a forma correta com cláusula embutida? \u0027The menu _____ was created by the new chef looks interesting.\u0027",
+        "difficulty":  "hard",
+        "options":  [
+                        "that",
+                        "which",
+                        "who",
+                        "where"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "that"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Complete com \u0027make\u0027 ou \u0027do\u0027: \u0027She _____ a delicious pasta dish every Sunday.\u0027",
+        "difficulty":  "easy",
+        "options":  [
+                        "makes",
+                        "does",
+                        "making",
+                        "made"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "makes"
+    }
+]

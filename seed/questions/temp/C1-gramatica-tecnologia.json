@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "A tecnologia blockchain, _____ revolucionará o mercado financeiro, garante os especialistas.",
+        "correctAnswer":  "which",
+        "options":  [
+                        "that",
+                        "which",
+                        "what",
+                        "whom"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Se tivéssemos investido em inteligência artificial há uma década, _____ muito mais avançados agora.",
+        "correctAnswer":  "we would be",
+        "options":  [
+                        "we are",
+                        "we would be",
+                        "we will be",
+                        "we had been"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O algoritmo, _____ por engenheiros de Stanford, demonstrou eficiência notável.",
+        "correctAnswer":  "developed",
+        "options":  [
+                        "developing",
+                        "developed",
+                        "having developed",
+                        "be developing"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Não _____ dúvida de que a computação quântica transformará a criptografia.",
+        "correctAnswer":  "is there",
+        "options":  [
+                        "is there",
+                        "there is",
+                        "is not",
+                        "has there"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Muitos usuários preferem aplicativos _____ utilizam menos memória RAM.",
+        "correctAnswer":  "that",
+        "options":  [
+                        "which",
+                        "that",
+                        "where",
+                        "when"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "A infraestrutura de nuvem, _____ as empresas dependem cada vez mais, oferece escalabilidade.",
+        "correctAnswer":  "on which",
+        "options":  [
+                        "on that",
+                        "on which",
+                        "which",
+                        "whereby"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Havíamos _____ todos os dados antes da falha no servidor.",
+        "correctAnswer":  "backed up",
+        "options":  [
+                        "back up",
+                        "backed up",
+                        "backing up",
+                        "backups"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Os protocolos de segurança, _____ implementamos este ano, reduzem vulnerabilidades.",
+        "correctAnswer":  "which",
+        "options":  [
+                        "that",
+                        "which",
+                        "whom",
+                        "whose"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Raramente _____ uma solução tão elegante para otimizar o código.",
+        "correctAnswer":  "have I seen",
+        "options":  [
+                        "I have seen",
+                        "have I seen",
+                        "had I seen",
+                        "do I see"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O servidor, _____ estava sobrecarregado, necessitava de manutenção urgente.",
+        "correctAnswer":  "which",
+        "options":  [
+                        "that",
+                        "which",
+                        "whose",
+                        "what"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Entendo _____ você está frustrado com a latência da conexão.",
+        "correctAnswer":  "why",
+        "options":  [
+                        "why",
+                        "what",
+                        "which",
+                        "how"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "A API, _____ documentação é excelente, facilita a integração.",
+        "correctAnswer":  "whose",
+        "options":  [
+                        "which",
+                        "whose",
+                        "that",
+                        "where"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Ainda que os custos _____ elevados, adotaremos a solução de IA.",
+        "correctAnswer":  "be",
+        "options":  [
+                        "are",
+                        "be",
+                        "were",
+                        "being"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O firewall _____ bloqueava acessos não autorizados funcionava perfeitamente.",
+        "correctAnswer":  "which",
+        "options":  [
+                        "that",
+                        "which",
+                        "what",
+                        "whom"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Somente quando _____ o bug conseguimos lançar a versão estável.",
+        "correctAnswer":  "we fixed",
+        "options":  [
+                        "we fixed",
+                        "we had fixed",
+                        "we fix",
+                        "we will fix"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O sistema de autenticação multifator, _____ torna a plataforma mais segura, é obrigatório.",
+        "correctAnswer":  "which",
+        "options":  [
+                        "that",
+                        "which",
+                        "what",
+                        "where"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Qualquer que _____ a causa da falha, investigaremos minuciosamente.",
+        "correctAnswer":  "be",
+        "options":  [
+                        "is",
+                        "be",
+                        "are",
+                        "were"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Caso o servidor fosse hackeado, _____ perdido todos os dados.",
+        "correctAnswer":  "would have",
+        "options":  [
+                        "would lose",
+                        "would have lost",
+                        "will lose",
+                        "had lost"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "A arquitetura de microsserviços, _____ implementámos gradualmente, oferece maior flexibilidade.",
+        "correctAnswer":  "which",
+        "options":  [
+                        "that",
+                        "which",
+                        "what",
+                        "whereby"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Nem toda solução em cloud computing, _____ parece atraente, atende às nossas necessidades específicas.",
+        "correctAnswer":  "however attractive",
+        "options":  [
+                        "although attractive",
+                        "however attractive",
+                        "whatever attractive",
+                        "as attractive"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Ter investido em infraestrutura robusta permitiu _____ milhões de requisições simultâneas.",
+        "correctAnswer":  "us to support",
+        "options":  [
+                        "us to support",
+                        "us supporting",
+                        "that we support",
+                        "supporting"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Os frameworks, _____ escolhemos com critério rigoroso, moldaram toda a estrutura do projeto.",
+        "correctAnswer":  "which",
+        "options":  [
+                        "that",
+                        "which",
+                        "whom",
+                        "what"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Por mais que _____ avançada a IA, ainda depende de dados de qualidade.",
+        "correctAnswer":  "be",
+        "options":  [
+                        "is",
+                        "be",
+                        "are",
+                        "being"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "A integração contínua, _____ processo automatizado que implementámos, reduz drasticamente o tempo de deployment.",
+        "correctAnswer":  "being a",
+        "options":  [
+                        "as a",
+                        "being a",
+                        "that is a",
+                        "which is a"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Devêssemos ter considerado as questões de escalabilidade, _____ somente agora enfrentamos.",
+        "correctAnswer":  "which",
+        "options":  [
+                        "that",
+                        "which",
+                        "what",
+                        "where"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O endpoint da API, _____ parâmetros são opcionais, oferece máxima flexibilidade.",
+        "correctAnswer":  "whose",
+        "options":  [
+                        "which",
+                        "whose",
+                        "that",
+                        "where"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Não apenas _____ a segurança melhorada, mas também o desempenho aumentou significativamente.",
+        "correctAnswer":  "has there been",
+        "options":  [
+                        "there has been",
+                        "has there been",
+                        "is there",
+                        "have there been"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Caso tivéssemos utilizado a arquitetura serverless desde o princípio, _____ muito em custos operacionais.",
+        "correctAnswer":  "would have saved",
+        "options":  [
+                        "would save",
+                        "would have saved",
+                        "will save",
+                        "had saved"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "A redundância de dados, _____ garantida por réplicas geográficas, assegura disponibilidade 24/7.",
+        "correctAnswer":  "being",
+        "options":  [
+                        "that is",
+                        "being",
+                        "which is",
+                        "to be"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Quanto mais robustos _____ os algoritmos, maior será a precisão do sistema de recomendação.",
+        "correctAnswer":  "are",
+        "options":  [
+                        "are",
+                        "be",
+                        "were",
+                        "being"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "A estratégia de cache distribuído, _____ implementámos em três camadas, otimizou significativamente a latência.",
+        "correctAnswer":  "which",
+        "options":  [
+                        "that",
+                        "which",
+                        "what",
+                        "where"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Quaisquer que _____ os desafios de integração, conseguiremos resolvê-los com a abordagem modular.",
+        "correctAnswer":  "be",
+        "options":  [
+                        "are",
+                        "be",
+                        "were",
+                        "being"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Se tivéssemos adotado DevOps anteriormente, _____ evitado diversos incidentes de produção.",
+        "correctAnswer":  "would have",
+        "options":  [
+                        "would have",
+                        "would",
+                        "will have",
+                        "had"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O sistema de versionamento, _____ utiliza hash criptográfico de imutabilidade, garante integridade total.",
+        "correctAnswer":  "which",
+        "options":  [
+                        "that",
+                        "which",
+                        "what",
+                        "whereby"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Tanto mais críticos _____ os sistemas de IA, quanto mais rigoroso deve ser o monitoramento contínuo.",
+        "correctAnswer":  "become",
+        "options":  [
+                        "become",
+                        "will become",
+                        "are becoming",
+                        "became"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "A orquestração de containers, _____ processo complexo que dominamos, permitiu escalabilidade automática.",
+        "correctAnswer":  "being the",
+        "options":  [
+                        "being the",
+                        "being a",
+                        "the",
+                        "as the"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Independentemente de _____ solução escolhamos, exigiremos conformidade com GDPR e CCPA.",
+        "correctAnswer":  "which",
+        "options":  [
+                        "that",
+                        "which",
+                        "what",
+                        "where"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Jamais _____ mecanismos de auditoria tão sofisticados para rastrear todas as operações sensíveis.",
+        "correctAnswer":  "have we implemented",
+        "options":  [
+                        "we have implemented",
+                        "have we implemented",
+                        "we implemented",
+                        "have we been implementing"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O protocolo de consenso blockchain, _____ mecanismo de Prova de Trabalho fundamenta, consumia muita energia.",
+        "correctAnswer":  "whose underlying",
+        "options":  [
+                        "which underlying",
+                        "whose underlying",
+                        "that underlying",
+                        "where underlying"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Ainda que _____ recursos limitados, conseguimos implementar uma estratégia de machine learning avançada.",
+        "correctAnswer":  "with",
+        "options":  [
+                        "with",
+                        "having",
+                        "despite",
+                        "although we had"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O modelo de dados normalizado, _____ reduz anomalias de atualização, exigiu refatoração extensa.",
+        "correctAnswer":  "which",
+        "options":  [
+                        "that",
+                        "which",
+                        "what",
+                        "whereupon"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Por conseguinte ao deployment em produção, _____ monitorado constantemente o comportamento do sistema.",
+        "correctAnswer":  "has been",
+        "options":  [
+                        "is",
+                        "has been",
+                        "was",
+                        "will be"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "A transformação digital, _____ exigência inexorável em mercados competitivos, demanda investimento substancial.",
+        "correctAnswer":  "being an",
+        "options":  [
+                        "being an",
+                        "as an",
+                        "the",
+                        "that is an"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Caso não houvéssemos implementado circuit breakers, _____ ocorrido cascata de falhas.",
+        "correctAnswer":  "would have",
+        "options":  [
+                        "would have",
+                        "would",
+                        "will have",
+                        "had"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "A serialização de dados, _____ protocolo Apache Avro otimiza, tornou-se crítica para performance.",
+        "correctAnswer":  "which",
+        "options":  [
+                        "that",
+                        "which",
+                        "what",
+                        "whereby"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Sob nenhuma circunstância _____ a integridade dos dados comprometida, por mais pressão operacional.",
+        "correctAnswer":  "shall be",
+        "options":  [
+                        "is",
+                        "shall be",
+                        "will be",
+                        "can be"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O sistema de replicação síncrona, _____ tolerância zero ao risco de perda de dados fornece, sacrifica latência.",
+        "correctAnswer":  "which",
+        "options":  [
+                        "that",
+                        "which",
+                        "what",
+                        "whereby"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "A arquitetura de microserviços, _____ implementámos progressivamente, otimizou a separação de responsabilidades.",
+        "difficulty":  "hard",
+        "options":  [
+                        "that",
+                        "which",
+                        "what",
+                        "whereby"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "which"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Os bancos de dados NoSQL, _____ escolhemos para aplicações escaláveis, oferecem flexibilidade superior.",
+        "correctAnswer":  "which",
+        "options":  [
+                        "that",
+                        "which",
+                        "what",
+                        "whereby"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "A plataforma de computação em nuvem, _____ oferece SLAs robustos, tornou-se essencial para negócios.",
+        "correctAnswer":  "which",
+        "options":  [
+                        "that",
+                        "which",
+                        "what",
+                        "where"
+                    ],
+        "difficulty":  "medium"
+    }
+]

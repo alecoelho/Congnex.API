@@ -1,0 +1,512 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: I feel ___. (Eu me sinto bem.)",
+    "correctAnswer": "good",
+    "options": ["good", "bad", "old", "big"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: I have a ___. (Eu tenho uma dor de cabeça.)",
+    "correctAnswer": "headache",
+    "options": ["headache", "homework", "holiday", "handle"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: She is ___. (Ela está doente.)",
+    "correctAnswer": "sick",
+    "options": ["sick", "slow", "soft", "small"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: I need a ___. (Eu preciso de um médico.)",
+    "correctAnswer": "doctor",
+    "options": ["doctor", "dancer", "driver", "door"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: Take this ___. (Tome este remédio.)",
+    "correctAnswer": "medicine",
+    "options": ["medicine", "machine", "magazine", "minute"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: My ___ hurts. (Minha cabeça dói.)",
+    "correctAnswer": "head",
+    "options": ["head", "hand", "hat", "hall"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: I go to the ___. (Eu vou ao hospital.)",
+    "correctAnswer": "hospital",
+    "options": ["hospital", "hotel", "house", "horse"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: Drink a lot of ___. (Beba muita água.)",
+    "correctAnswer": "water",
+    "options": ["water", "wind", "wood", "word"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: I have a sore ___. (Eu estou com dor de garganta.)",
+    "correctAnswer": "throat",
+    "options": ["throat", "three", "through", "throw"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: He has a ___. (Ele está com febre.)",
+    "correctAnswer": "fever",
+    "options": ["fever", "flower", "finger", "floor"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: I feel ___. (Eu me sinto cansado.)",
+    "correctAnswer": "tired",
+    "options": ["tired", "tall", "thin", "true"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: My ___ hurts. (Meu estômago dói.)",
+    "correctAnswer": "stomach",
+    "options": ["stomach", "street", "story", "store"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: She goes to the ___. (Ela vai à farmácia.)",
+    "correctAnswer": "pharmacy",
+    "options": ["pharmacy", "factory", "library", "bakery"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: I have a ___. (Eu tenho um resfriado.)",
+    "correctAnswer": "cold",
+    "options": ["cold", "coat", "cord", "coin"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: Eat ___ food. (Coma comida saudável.)",
+    "correctAnswer": "healthy",
+    "options": ["healthy", "heavy", "happy", "hungry"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: I need to ___. (Eu preciso descansar.)",
+    "correctAnswer": "rest",
+    "options": ["rest", "run", "read", "ride"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: My ___ is broken. (Meu braço está quebrado.)",
+    "correctAnswer": "arm",
+    "options": ["arm", "art", "air", "ant"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: I need to ___ every day. (Eu preciso me exercitar todo dia.)",
+    "correctAnswer": "exercise",
+    "options": ["exercise", "explain", "examine", "excuse"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: The nurse checks my ___. (A enfermeira verifica minha pressão.)",
+    "correctAnswer": "blood pressure",
+    "options": ["blood pressure", "body weight", "bone strength", "brain power"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: I have an ___ tomorrow. (Eu tenho uma consulta amanhã.)",
+    "correctAnswer": "appointment",
+    "options": ["appointment", "apartment", "agreement", "adventure"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: He takes ___ every morning. (Ele toma vitaminas toda manhã.)",
+    "correctAnswer": "vitamins",
+    "options": ["vitamins", "vessels", "valleys", "visions"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: I feel ___ in my chest. (Eu sinto dor no peito.)",
+    "correctAnswer": "pain",
+    "options": ["pain", "pace", "part", "park"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: She has a ___ on her leg. (Ela tem um curativo na perna.)",
+    "correctAnswer": "bandage",
+    "options": ["bandage", "basket", "blanket", "balance"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: I ___ my tooth at the dentist. (Eu arranquei meu dente no dentista.)",
+    "correctAnswer": "pulled",
+    "options": ["pulled", "painted", "placed", "passed"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: The doctor ___ me a prescription. (O médico me deu uma receita.)",
+    "correctAnswer": "gave",
+    "options": ["gave", "goes", "gets", "grows"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: I need to ___ more fruit. (Eu preciso comer mais frutas.)",
+    "correctAnswer": "eat",
+    "options": ["eat", "end", "exit", "earn"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: My ___ is very high today. (Minha temperatura está muito alta hoje.)",
+    "correctAnswer": "temperature",
+    "options": ["temperature", "telephone", "telescope", "television"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: I ___ the dentist twice a year. (Eu visito o dentista duas vezes por ano.)",
+    "correctAnswer": "visit",
+    "options": ["visit", "voice", "value", "vessel"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: She has a ___ in her back. (Ela tem uma dor nas costas.)",
+    "correctAnswer": "backache",
+    "options": ["backache", "backbone", "backpack", "backward"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: I need to ___ more water every day. (Eu preciso beber mais água todo dia.)",
+    "correctAnswer": "drink",
+    "options": ["drink", "drive", "dream", "draw"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: The doctor listens to my ___. (O médico escuta meu coração.)",
+    "correctAnswer": "heart",
+    "options": ["heart", "heat", "help", "here"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: I take ___ before I sleep. (Eu tomo remédio para dor antes de dormir.)",
+    "correctAnswer": "painkillers",
+    "options": ["painkillers", "paintbrushes", "parsnips", "pancakes"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: She ___ well after the operation. (Ela se recuperou bem após a operação.)",
+    "correctAnswer": "recovered",
+    "options": ["recovered", "remained", "remembered", "replaced"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: I wash my ___ to stop germs. (Eu lavo minhas mãos para parar os germes.)",
+    "correctAnswer": "hands",
+    "options": ["hands", "hair", "hats", "heels"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: The ___ is open on Sundays. (A clínica está aberta aos domingos.)",
+    "correctAnswer": "clinic",
+    "options": ["clinic", "castle", "cinema", "corner"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: My ___ is very strong. (Meu sistema imunológico é muito forte.)",
+    "correctAnswer": "immune system",
+    "options": ["immune system", "income stream", "iron shield", "inner sense"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: The doctor ___ my blood. (O médico examinou meu sangue.)",
+    "correctAnswer": "examined",
+    "options": ["examined", "expected", "expressed", "explained"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: I need to follow a balanced ___. (Eu preciso seguir uma dieta equilibrada.)",
+    "correctAnswer": "diet",
+    "options": ["diet", "duty", "date", "dust"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: She has an ___ to peanuts. (Ela tem alergia a amendoim.)",
+    "correctAnswer": "allergy",
+    "options": ["allergy", "ability", "activity", "advice"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: I need a ___ from the doctor. (Eu preciso de um atestado médico.)",
+    "correctAnswer": "certificate",
+    "options": ["certificate", "celebration", "collection", "competition"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: He has ___ in his knee. (Ele tem inchaço no joelho.)",
+    "correctAnswer": "swelling",
+    "options": ["swelling", "spelling", "selling", "smelling"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: The nurse gave me a ___. (A enfermeira me deu uma injeção.)",
+    "correctAnswer": "injection",
+    "options": ["injection", "intention", "infection", "inspection"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: I feel ___ after running. (Eu me sinto sem fôlego depois de correr.)",
+    "correctAnswer": "breathless",
+    "options": ["breathless", "bloodless", "brainless", "boneless"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: She needs to ___ her medicine on time. (Ela precisa tomar seu remédio na hora certa.)",
+    "correctAnswer": "take",
+    "options": ["take", "talk", "turn", "tell"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: The doctor ordered a blood ___. (O médico pediu um exame de sangue.)",
+    "correctAnswer": "test",
+    "options": ["test", "text", "tent", "team"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: I have ___ in both eyes. (Eu tenho irritação nos dois olhos.)",
+    "correctAnswer": "irritation",
+    "options": ["irritation", "invitation", "information", "imagination"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: He has a ___ in his shoulder. (Ele tem uma lesão no ombro.)",
+    "correctAnswer": "injury",
+    "options": ["injury", "industry", "inquiry", "infantry"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: The ___ showed no problems. (O exame não mostrou problemas.)",
+    "correctAnswer": "scan",
+    "options": ["scan", "scene", "skin", "sign"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: I need to avoid ___ food. (Eu preciso evitar comida processada.)",
+    "correctAnswer": "processed",
+    "options": ["processed", "promised", "proposed", "produced"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: The ___ helped me breathe better. (O inalador me ajudou a respirar melhor.)",
+    "correctAnswer": "inhaler",
+    "options": ["inhaler", "installer", "indicator", "insulator"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "saude",
+    "type": "complete_sentence",
+    "questionText": "Complete a frase: She has a ___ condition. (Ela tem uma condição crônica.)",
+    "correctAnswer": "chronic",
+    "options": ["chronic", "chemical", "critical", "central"],
+    "difficulty": "hard"
+  }
+]

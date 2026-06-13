@@ -1,0 +1,512 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer em inglês: 'Eu trabalho em um escritório.' Qual é a forma correta do verbo?",
+    "correctAnswer": "I work in an office.",
+    "options": ["I work in an office.", "I works in an office.", "I working in an office.", "I worked in an office."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer 'Ela é médica.' em inglês. Qual frase está correta?",
+    "correctAnswer": "She is a doctor.",
+    "options": ["She is a doctor.", "She are a doctor.", "She be a doctor.", "She am a doctor."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Para dizer 'Ele trabalha em uma loja.' em inglês, qual forma do verbo é correta?",
+    "correctAnswer": "He works in a shop.",
+    "options": ["He works in a shop.", "He work in a shop.", "He working in a shop.", "He is work in a shop."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Para completar a frase 'I am ___ teacher.', qual artigo é correto?",
+    "correctAnswer": "a",
+    "options": ["a", "an", "the", "---"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar 'Você é enfermeiro?' em inglês. Qual frase está correta?",
+    "correctAnswer": "Are you a nurse?",
+    "options": ["Are you a nurse?", "Is you a nurse?", "Do you a nurse?", "You are nurse?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Para dizer 'Eles são professores.' em inglês, qual é a forma correta?",
+    "correctAnswer": "They are teachers.",
+    "options": ["They are teachers.", "They is teachers.", "They am teachers.", "They be teachers."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual pronome substitui 'o chefe' (masculino) na frase em inglês?",
+    "correctAnswer": "He",
+    "options": ["He", "She", "It", "They"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Para completar 'I work ___ a hospital.', qual preposição é correta?",
+    "correctAnswer": "in",
+    "options": ["in", "at", "on", "to"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer 'Nós trabalhamos juntos.' em inglês. Qual frase está correta?",
+    "correctAnswer": "We work together.",
+    "options": ["We work together.", "We works together.", "We working together.", "We is work together."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Para dizer 'Eu sou engenheiro.' em inglês, qual forma do verbo 'to be' é correta?",
+    "correctAnswer": "I am an engineer.",
+    "options": ["I am an engineer.", "I is an engineer.", "I are an engineer.", "I be an engineer."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'She ___ a secretary.' com o verbo correto.",
+    "correctAnswer": "is",
+    "options": ["is", "are", "am", "be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual frase em inglês está correta para 'Você trabalha aqui?'",
+    "correctAnswer": "Do you work here?",
+    "options": ["Do you work here?", "Does you work here?", "Are you work here?", "You work here?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Para dizer 'Meu trabalho é interessante.' em inglês, qual frase é correta?",
+    "correctAnswer": "My job is interesting.",
+    "options": ["My job is interesting.", "My job are interesting.", "My job am interesting.", "My job be interesting."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'I am ___ accountant.' com o artigo correto.",
+    "correctAnswer": "an",
+    "options": ["an", "a", "the", "---"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual frase em inglês está correta para 'Ele não trabalha no banco.'?",
+    "correctAnswer": "He does not work at the bank.",
+    "options": ["He does not work at the bank.", "He do not work at the bank.", "He not work at the bank.", "He is not work at the bank."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Para dizer 'Onde você trabalha?' em inglês, qual é a pergunta correta?",
+    "correctAnswer": "Where do you work?",
+    "options": ["Where do you work?", "Where does you work?", "Where are you work?", "Where you work?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Complete: 'They ___ doctors.' com a forma correta do verbo 'to be'.",
+    "correctAnswer": "are",
+    "options": ["are", "is", "am", "be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual frase em inglês está correta para 'Ela trabalha de segunda a sexta.'?",
+    "correctAnswer": "She works from Monday to Friday.",
+    "options": ["She works from Monday to Friday.", "She work from Monday to Friday.", "She working from Monday to Friday.", "She is works from Monday to Friday."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Para completar 'I start work ___ 8 o'clock.', qual preposição é correta?",
+    "correctAnswer": "at",
+    "options": ["at", "in", "on", "by"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar 'Ela é sua chefe?' em inglês. Qual frase está correta?",
+    "correctAnswer": "Is she your boss?",
+    "options": ["Is she your boss?", "Does she your boss?", "Are she your boss?", "She is your boss?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Para dizer 'Meus colegas são simpáticos.' em inglês, qual frase é correta?",
+    "correctAnswer": "My colleagues are nice.",
+    "options": ["My colleagues are nice.", "My colleagues is nice.", "My colleagues am nice.", "My colleagues be nice."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'He ___ to work by bus.' com a forma correta.",
+    "correctAnswer": "goes",
+    "options": ["goes", "go", "going", "is go"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual frase em inglês está correta para 'Nós não trabalhamos aos sábados.'?",
+    "correctAnswer": "We don't work on Saturdays.",
+    "options": ["We don't work on Saturdays.", "We doesn't work on Saturdays.", "We not work on Saturdays.", "We aren't work on Saturdays."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Para completar 'I work ___ Monday mornings.', qual preposição é correta?",
+    "correctAnswer": "on",
+    "options": ["on", "in", "at", "for"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer 'Quantas horas você trabalha por dia?' em inglês. Qual frase está correta?",
+    "correctAnswer": "How many hours do you work a day?",
+    "options": ["How many hours do you work a day?", "How many hours does you work a day?", "How many hours are you work a day?", "How many hours you work a day?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'She ___ her boss every morning.' com a forma correta do verbo 'to see'.",
+    "correctAnswer": "sees",
+    "options": ["sees", "see", "seeing", "is see"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Para dizer 'O escritório fica no terceiro andar.' em inglês, qual frase é correta?",
+    "correctAnswer": "The office is on the third floor.",
+    "options": ["The office is on the third floor.", "The office is in the third floor.", "The office is at the third floor.", "The office is by the third floor."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual frase em inglês está correta para 'Ele tem uma reunião às dez horas.'?",
+    "correctAnswer": "He has a meeting at ten o'clock.",
+    "options": ["He has a meeting at ten o'clock.", "He have a meeting at ten o'clock.", "He is have a meeting at ten o'clock.", "He haves a meeting at ten o'clock."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Para completar 'I ___ emails every day at work.', qual forma é correta?",
+    "correctAnswer": "write",
+    "options": ["write", "writes", "writing", "am writes"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer 'Ela usa um computador no trabalho.' em inglês. Qual frase está correta?",
+    "correctAnswer": "She uses a computer at work.",
+    "options": ["She uses a computer at work.", "She use a computer at work.", "She using a computer at work.", "She is uses a computer at work."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'My office ___ near the train station.' com a forma correta.",
+    "correctAnswer": "is",
+    "options": ["is", "are", "has", "have"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Para perguntar 'Qual é o seu trabalho?' em inglês, qual frase é correta?",
+    "correctAnswer": "What is your job?",
+    "options": ["What is your job?", "What your job is?", "What are your job?", "What does your job is?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual frase em inglês está correta para 'Eles trabalham para uma empresa grande.'?",
+    "correctAnswer": "They work for a big company.",
+    "options": ["They work for a big company.", "They works for a big company.", "They working for a big company.", "They are work for a big company."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'Do you work ___ a team?' com a preposição correta.",
+    "correctAnswer": "in",
+    "options": ["in", "on", "at", "with"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer 'Eu não gosto do meu trabalho.' em inglês. Qual frase está correta?",
+    "correctAnswer": "I don't like my job.",
+    "options": ["I don't like my job.", "I doesn't like my job.", "I not like my job.", "I am not like my job."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Para completar 'She ___ two assistants in her department.', qual é a forma correta do verbo 'to have'?",
+    "correctAnswer": "has",
+    "options": ["has", "have", "having", "is have"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual frase em inglês está correta para 'Você sempre chega cedo ao trabalho?'",
+    "correctAnswer": "Do you always arrive early at work?",
+    "options": ["Do you always arrive early at work?", "Are you always arrive early at work?", "Does you always arrive early at work?", "Do you always arrives early at work?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The manager ___ to the employees every Friday.' com a forma correta do verbo 'to talk'.",
+    "correctAnswer": "talks",
+    "options": ["talks", "talk", "talking", "is talks"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Para dizer 'Meu chefe me liga todo dia.' em inglês, qual frase é correta?",
+    "correctAnswer": "My boss calls me every day.",
+    "options": ["My boss calls me every day.", "My boss call me every day.", "My boss calling me every day.", "My boss is calls me every day."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual frase em inglês está correta para 'Quanto você ganha por mês?'",
+    "correctAnswer": "How much do you earn a month?",
+    "options": ["How much do you earn a month?", "How much does you earn a month?", "How much are you earn a month?", "How much you earn a month?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'We ___ lunch together in the office.' com a forma correta do verbo 'to have'.",
+    "correctAnswer": "have",
+    "options": ["have", "has", "having", "are have"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer 'Ela nunca chega atrasada.' em inglês. Qual frase está correta?",
+    "correctAnswer": "She never arrives late.",
+    "options": ["She never arrives late.", "She never arrive late.", "She never is late arrive.", "She is never arrive late."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "requirements",
+    "questionText": "Para completar 'I ___ to my supervisor about the problem.', qual é a forma correta do verbo 'to speak'?",
+    "correctAnswer": "speak",
+    "options": ["speak", "speaks", "speaking", "am speaks"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual frase em inglês está correta para 'O escritório abre às nove horas.'?",
+    "correctAnswer": "The office opens at nine o'clock.",
+    "options": ["The office opens at nine o'clock.", "The office open at nine o'clock.", "The office opening at nine o'clock.", "The office is opens at nine o'clock."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'My colleague ___ the report every Monday.' com a forma correta do verbo 'to send'.",
+    "correctAnswer": "sends",
+    "options": ["sends", "send", "sending", "sents"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar 'Vocês têm uma pausa para almoço?' em inglês. Qual frase está correta?",
+    "correctAnswer": "Do you have a lunch break?",
+    "options": ["Do you have a lunch break?", "Are you have a lunch break?", "Does you have a lunch break?", "Have you a lunch break?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Para completar 'She ___ the phone and answers questions from clients.', qual é a forma correta?",
+    "correctAnswer": "answers",
+    "options": ["answers", "answer", "answering", "is answers"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Qual frase em inglês está correta para 'Eu começo o trabalho às oito da manhã.'?",
+    "correctAnswer": "I start work at eight in the morning.",
+    "options": ["I start work at eight in the morning.", "I starts work at eight in the morning.", "I starting work at eight in the morning.", "I am start work at eight in the morning."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The receptionist ___ visitors every day.' com a forma correta do verbo 'to greet'.",
+    "correctAnswer": "greets",
+    "options": ["greets", "greet", "greeting", "is greet"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Para dizer 'Você trabalha em casa ou no escritório?' em inglês, qual frase está correta?",
+    "correctAnswer": "Do you work at home or in the office?",
+    "options": ["Do you work at home or in the office?", "Are you work at home or in the office?", "Does you work at home or in the office?", "You work at home or in the office?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'He ___ his computer every morning when he arrives.' com o verbo correto.",
+    "correctAnswer": "turns on",
+    "options": ["turns on", "turn on", "turning on", "is turns on"],
+    "difficulty": "hard"
+  }
+]

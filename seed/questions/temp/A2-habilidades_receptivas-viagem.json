@@ -1,0 +1,502 @@
+[
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Qual é o seu destino?",
+    "correctAnswer": "What is your destination?",
+    "options": ["What is your destination?", "Where do you come from?", "When are you arriving?", "How much is the ticket?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Eu gostaria de uma passagem de avião.",
+    "correctAnswer": "I would like a plane ticket.",
+    "options": ["I would like a plane ticket.", "I need a hotel reservation.", "I want to rent a car.", "Please show me the map."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Quanto custa o hotel por noite?",
+    "correctAnswer": "How much does the hotel cost per night?",
+    "options": ["How much does the hotel cost per night?", "Where is the nearest hotel?", "Do you have breakfast included?", "What time is the checkout?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Preciso de ajuda com minha bagagem.",
+    "correctAnswer": "I need help with my luggage.",
+    "options": ["I need help with my luggage.", "I lost my passport.", "Where is the airport?", "Can I exchange currency here?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "A que horas o voo sai?",
+    "correctAnswer": "What time does the flight leave?",
+    "options": ["What time does the flight leave?", "Where is the boarding gate?", "Is the flight on time?", "Can I change my seat?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Preciso de um táxi para a estação.",
+    "correctAnswer": "I need a taxi to the station.",
+    "options": ["I need a taxi to the station.", "Can you call a taxi for me?", "How far is the station?", "Do you accept credit cards?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Onde é a sala de espera?",
+    "correctAnswer": "Where is the waiting room?",
+    "options": ["Where is the waiting room?", "Is there a restaurant here?", "Do you have a phone I can use?", "What is the WiFi password?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Qual é a sua primeira vez aqui?",
+    "correctAnswer": "Is this your first time here?",
+    "options": ["Is this your first time here?", "How long are you staying?", "Where are you from?", "Do you speak English?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O trem parte na hora?",
+    "correctAnswer": "Does the train leave on time?",
+    "options": ["Does the train leave on time?", "How many stops are there?", "What time does it arrive?", "Is there a restaurant car?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Preciso mudar de roupa.",
+    "correctAnswer": "I need to change clothes.",
+    "options": ["I need to change clothes.", "Where is the bathroom?", "Can I have clean towels?", "Is the water hot?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Existe um banco perto daqui?",
+    "correctAnswer": "Is there a bank near here?",
+    "options": ["Is there a bank near here?", "Where can I exchange money?", "Do you take cash payments?", "What is the exchange rate?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Eu viajo sozinho.",
+    "correctAnswer": "I travel alone.",
+    "options": ["I travel alone.", "I am traveling with my family.", "We are on holiday.", "This is a business trip."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Quando chegamos?",
+    "correctAnswer": "When do we arrive?",
+    "options": ["When do we arrive?", "How long is the journey?", "Are we there yet?", "What time is it now?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Você tem um mapa?",
+    "correctAnswer": "Do you have a map?",
+    "options": ["Do you have a map?", "Can you show me the way?", "Is it far from here?", "Which street is this?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O hotel tem piscina?",
+    "correctAnswer": "Does the hotel have a swimming pool?",
+    "options": ["Does the hotel have a swimming pool?", "Is breakfast included?", "What is the checkout time?", "Can I book another night?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Quanto tempo demora a viagem?",
+    "correctAnswer": "How long does the journey take?",
+    "options": ["How long does the journey take?", "Are there any stops?", "Is the road busy?", "What is the speed limit?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Onde fica o banheiro?",
+    "correctAnswer": "Where is the bathroom?",
+    "options": ["Where is the bathroom?", "Where is the restaurant?", "Where is the lounge?", "Where is the office?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Gostaria de alugar um carro. Vocês têm carros disponíveis?",
+    "correctAnswer": "I would like to rent a car. Do you have any cars available?",
+    "options": ["I would like to rent a car. Do you have any cars available?", "What is the daily rate for car rental?", "Do I need a valid driving license?", "Can I return the car at the airport?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Qual é a melhor forma de chegar ao centro da cidade?",
+    "correctAnswer": "What is the best way to get to the city center?",
+    "options": ["What is the best way to get to the city center?", "How far is it from the airport?", "Is public transport reliable?", "Are there any tolls on the highway?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Preciso de uma confirmação da minha reserva de voo.",
+    "correctAnswer": "I need a confirmation of my flight reservation.",
+    "options": ["I need a confirmation of my flight reservation.", "Can I change my travel dates?", "What is my booking reference number?", "Do I need travel insurance?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O voo tem conexão ou é direto?",
+    "correctAnswer": "Is the flight a direct flight or does it have a connection?",
+    "options": ["Is the flight a direct flight or does it have a connection?", "How long is the layover?", "Where is the connecting flight?", "Do I need to check my luggage again?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Qual é a temperatura média em janeiro?",
+    "correctAnswer": "What is the average temperature in January?",
+    "options": ["What is the average temperature in January?", "When is the best time to visit?", "Does it rain a lot?", "Is it usually sunny?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Você conhece bons restaurantes perto do hotel?",
+    "correctAnswer": "Do you know any good restaurants near the hotel?",
+    "options": ["Do you know any good restaurants near the hotel?", "What is the local cuisine like?", "Do they serve vegetarian food?", "What time do restaurants close?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Preciso registrar minha chegada no hotel.",
+    "correctAnswer": "I need to check in at the hotel.",
+    "options": ["I need to check in at the hotel.", "What is the room number?", "Can I have the key?", "Where is the elevator?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Qual é a política sobre cancelamento de reservas?",
+    "correctAnswer": "What is the cancellation policy?",
+    "options": ["What is the cancellation policy?", "Can I get a refund if I cancel?", "Is there a penalty for cancellation?", "How long do I have to cancel?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "A passagem inclui refeição?",
+    "correctAnswer": "Does the ticket include a meal?",
+    "options": ["Does the ticket include a meal?", "What food options are available?", "Can I order a special meal?", "Is there a cafe onboard?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Preciso de um visto para este país?",
+    "correctAnswer": "Do I need a visa for this country?",
+    "options": ["Do I need a visa for this country?", "How long is the visa valid?", "What documents do I need?", "How much does the visa cost?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Qual é a melhor época para visitar este lugar?",
+    "correctAnswer": "What is the best time to visit this place?",
+    "options": ["What is the best time to visit this place?", "Is it crowded in summer?", "Is there a rainy season?", "When are the holidays?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Vocês aceitam cartões de crédito?",
+    "correctAnswer": "Do you accept credit cards?",
+    "options": ["Do you accept credit cards?", "Can I pay by check?", "What is the currency here?", "Is there an ATM nearby?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Qual é o número do voo?",
+    "correctAnswer": "What is the flight number?",
+    "options": ["What is the flight number?", "What gate is the flight from?", "How many passengers are on board?", "Is the flight on schedule?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Há um supermercado perto do hotel?",
+    "correctAnswer": "Is there a supermarket near the hotel?",
+    "options": ["Is there a supermarket near the hotel?", "What time does it open?", "How far is it?", "What brands do they sell?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Eu perdi meu passaporte. O que devo fazer?",
+    "correctAnswer": "I lost my passport. What should I do?",
+    "options": ["I lost my passport. What should I do?", "Where is the nearest embassy?", "Do I need a police report?", "How long will it take to get a new one?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Qual é a diferença de fuso horário entre aqui e o meu país?",
+    "correctAnswer": "What is the time difference between here and my country?",
+    "options": ["What is the time difference between here and my country?", "What time is it there now?", "Do they use daylight saving time?", "Is the clock ahead or behind?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O seguro de viagem cobre doença e acidentes?",
+    "correctAnswer": "Does travel insurance cover illness and accidents?",
+    "options": ["Does travel insurance cover illness and accidents?", "What is the coverage limit?", "How much is the deductible?", "What is not included?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Como devo proceder se meu voo for adiado?",
+    "correctAnswer": "What should I do if my flight is delayed?",
+    "options": ["What should I do if my flight is delayed?", "Will I get compensation?", "Can I get a hotel for the night?", "Is meal provided?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Qual é a melhor rota para evitar o trânsito?",
+    "correctAnswer": "What is the best route to avoid traffic?",
+    "options": ["What is the best route to avoid traffic?", "How long does it usually take?", "Are there any roadworks?", "Is the highway tolled?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "As malas extras têm custo adicional?",
+    "correctAnswer": "Is there an extra charge for additional luggage?",
+    "options": ["Is there an extra charge for additional luggage?", "What is the weight limit?", "Can I bring a carry-on bag?", "Are there size restrictions?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Há um serviço de transfer do aeroporto para o hotel?",
+    "correctAnswer": "Is there airport shuttle service to the hotel?",
+    "options": ["Is there airport shuttle service to the hotel?", "How often does it run?", "What is the fare?", "Where do I catch it?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Quais são as principais atrações turísticas da região?",
+    "correctAnswer": "What are the main tourist attractions in this region?",
+    "options": ["What are the main tourist attractions in this region?", "How do I get to them?", "Are they open all year?", "Do I need tickets?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Posso estender minha estadia se houver quartos disponíveis?",
+    "correctAnswer": "Can I extend my stay if there are rooms available?",
+    "options": ["Can I extend my stay if there are rooms available?", "What is the price for extra nights?", "Do I get a discount for longer stays?", "When must I decide?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Preciso de uma cópia do meu itinerário de viagem para a imigração.",
+    "correctAnswer": "I need a copy of my travel itinerary for immigration.",
+    "options": ["I need a copy of my travel itinerary for immigration.", "Where can I print documents?", "Do you have a business center?", "Can you email it to me?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Há alguma restrição para animais de estimação em voos?",
+    "correctAnswer": "Are there any restrictions for pets on flights?",
+    "options": ["Are there any restrictions for pets on flights?", "Can I bring my dog in the cabin?", "What are the fees?", "Do I need a health certificate?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Como posso comprar uma passagem de volta?",
+    "correctAnswer": "How can I buy a return ticket?",
+    "options": ["How can I buy a return ticket?", "What is the price?", "Do I need to book in advance?", "Can I change the date?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Qual é a documentação necessária para entrar no país?",
+    "correctAnswer": "What documentation is required to enter the country?",
+    "options": ["What documentation is required to enter the country?", "Is a passport sufficient?", "Do I need a return ticket?", "How long can I stay?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Há um mercado de moeda estrangeira no aeroporto?",
+    "correctAnswer": "Is there a foreign exchange market at the airport?",
+    "options": ["Is there a foreign exchange market at the airport?", "What is the exchange rate?", "Can I exchange money 24/7?", "What commission do they charge?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Preciso de um relatório de despesas para minha empresa.",
+    "correctAnswer": "I need an expense report for my company.",
+    "options": ["I need an expense report for my company.", "Can you provide itemized receipts?", "Do you accept company checks?", "When will you send the invoice?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Qual é a política de cancelamento para o aluguel de carros?",
+    "correctAnswer": "What is the cancellation policy for car rental?",
+    "options": ["What is the cancellation policy for car rental?", "Is there a cancellation fee?", "How long before pickup can I cancel?", "Will I get a full refund?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Qual é o preço da passagem de ônibus?",
+    "correctAnswer": "What is the price of the bus ticket?",
+    "options": ["What is the price of the bus ticket?", "What time does the bus arrive?", "How many buses are there?", "Where does the bus go?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Qual é o melhor hotel para famílias?",
+    "correctAnswer": "What is the best hotel for families?",
+    "options": ["What is the best hotel for families?", "Do you have family rooms?", "Are there kids activities?", "Is there a playground?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Preciso de um intérprete durante minha viagem.",
+    "correctAnswer": "I need an interpreter during my trip.",
+    "options": ["I need an interpreter during my trip.", "Can you speak my language?", "Do you have translation services?", "Can you help me translate?"],
+    "difficulty": "medium"
+  }
+]

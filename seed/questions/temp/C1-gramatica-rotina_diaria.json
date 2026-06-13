@@ -1,0 +1,462 @@
+﻿[
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Toda manhã, eu _____ meu café enquanto leio o jornal.",
+    "correctAnswer": "sip",
+    "options": ["sip", "sips", "sipping", "am sipping"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Ontem, eu não _____ ir ao trabalho porque estava doente.",
+    "correctAnswer": "could",
+    "options": ["can", "could", "might", "would"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Se eu tivesse mais tempo, _____ exercícios todas as manhãs.",
+    "correctAnswer": "would do",
+    "options": ["do", "will do", "would do", "am doing"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Meu horário é tão ocupado que raramente _____ tempo para relaxar.",
+    "correctAnswer": "have",
+    "options": ["has", "have", "am having", "had"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Depois de _____ meu trabalho, eu vou para casa.",
+    "correctAnswer": "finishing",
+    "options": ["finish", "finishing", "to finish", "finished"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Ela _____ seu café todas as manhãs antes de sair para trabalhar.",
+    "correctAnswer": "has",
+    "options": ["is having", "have", "has", "will have"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Quando chego em casa, eu _____ minha jaqueta e sento no sofá.",
+    "correctAnswer": "take off",
+    "options": ["am taking off", "take off", "takes off", "took off"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Já _____ mais de uma hora que estou trabalhando sem parar.",
+    "correctAnswer": "It has been",
+    "options": ["It is", "It has been", "There is", "There has been"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Meus pais _____ exercício todas as noites para manter a saúde.",
+    "correctAnswer": "do",
+    "options": ["are doing", "do", "does", "will do"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que você _____ fazer logo após acordar?",
+    "correctAnswer": "do you usually",
+    "options": ["do you usually", "you usually do", "usually you do", "do usually you"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Todos os dias, _____ meu carro antes de sair para trabalhar.",
+    "correctAnswer": "I check",
+    "options": ["I am checking", "I check", "I will check", "I have checked"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Não _____ que tenho tempo para assistir a esse filme agora.",
+    "correctAnswer": "think",
+    "options": ["am thinking", "think", "will think", "am going to think"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Quando ela termina o trabalho, _____ direto para casa.",
+    "correctAnswer": "she goes",
+    "options": ["she is going", "she goes", "she will go", "she has gone"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Se você _____ acordado toda noite, deve consultar um médico.",
+    "correctAnswer": "stay",
+    "options": ["stay", "stays", "will stay", "are staying"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Desde que comecei meu novo trabalho, _____ muito mais ocupado.",
+    "correctAnswer": "I have been",
+    "options": ["I am", "I have been", "I was", "I had been"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Meu pai sempre _____ o jornal enquanto toma café da manhã.",
+    "correctAnswer": "reads",
+    "options": ["is reading", "reads", "has read", "will read"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Por que você não _____ seu trabalho ontem à noite?",
+    "correctAnswer": "didn't finish",
+    "options": ["don't finish", "didn't finish", "haven't finished", "won't finish"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "A menos que _____ chuva, vou caminhar para o trabalho amanhã.",
+    "correctAnswer": "it rains",
+    "options": ["it will rain", "it rains", "it rained", "it is raining"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Ele teria chegado no horário se _____ cedo pela manhã.",
+    "correctAnswer": "he had woken up",
+    "options": ["he woke up", "he had woken up", "he wakes up", "he would wake up"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Enquanto _____ meu trabalho, recebi um telefonema importante.",
+    "correctAnswer": "I was doing",
+    "options": ["I do", "I was doing", "I am doing", "I have done"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Quanto mais tempo _____ no trabalho, mais cansado fico.",
+    "correctAnswer": "I spend",
+    "options": ["I spend", "I am spending", "I will spend", "I have spent"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Meus colegas _____ muito bem, então continuamos trabalhando juntos.",
+    "correctAnswer": "get along",
+    "options": ["are getting along", "get along", "gets along", "will get along"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Se tivesse sabido do problema, _____ ajudá-lo.",
+    "correctAnswer": "I would have",
+    "options": ["I will", "I would have", "I would", "I had"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Todos os dias, após _____ do trabalho, vou à academia.",
+    "correctAnswer": "leaving",
+    "options": ["leave", "leaving", "to leave", "left"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Não me importaria com meu horário se _____ mais flexível.",
+    "correctAnswer": "it were",
+    "options": ["it was", "it were", "it is", "it will be"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Parece que ela _____ muito estressada com o trabalho ultimamente.",
+    "correctAnswer": "has been",
+    "options": ["is", "has been", "was", "would be"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Ele estava ocupado _____ seu trabalho quando eu cheguei.",
+    "correctAnswer": "doing",
+    "options": ["do", "doing", "to do", "done"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Mal _____ acordei, já estava pensando no trabalho.",
+    "correctAnswer": "had I",
+    "options": ["I had", "had I", "did I", "I do"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você _____ sair mais cedo se terminasse seu trabalho.",
+    "correctAnswer": "could",
+    "options": ["can", "could", "might", "would be able"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Desde que começou a trabalhar de casa, _____ muito mais produtivo.",
+    "correctAnswer": "he has become",
+    "options": ["he is becoming", "he has become", "he was becoming", "he becomes"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Contanto que _____ seu trabalho bem, o chefe não se importa com as horas.",
+    "correctAnswer": "you do",
+    "options": ["you will do", "you do", "you are doing", "you did"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Ela teria terminado sua rotina se _____ interrupções.",
+    "correctAnswer": "there hadn't been",
+    "options": ["there wasn't", "there hadn't been", "there wouldn't be", "there didn't have"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O mais importante é que você _____ saudável mantendo uma boa rotina.",
+    "correctAnswer": "stay",
+    "options": ["stay", "stays", "will stay", "are staying"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Assumindo que _____ tempo, vou participar da reunião de amanhã.",
+    "correctAnswer": "I have",
+    "options": ["I will have", "I have", "I would have", "I had"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Não fosse sua dedicação, _____ sucesso na carreira.",
+    "correctAnswer": "he wouldn't have achieved",
+    "options": ["he wouldn't achieve", "he wouldn't have achieved", "he hasn't achieved", "he won't achieve"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Independentemente de _____ ocupado, sempre encontro tempo para minha família.",
+    "correctAnswer": "being",
+    "options": ["be", "being", "to be", "been"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O quanto antes _____ essa tarefa, melhor será para todos.",
+    "correctAnswer": "you complete",
+    "options": ["you will complete", "you complete", "you are completing", "you completed"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Seu desempenho melhoraria se _____ mais atento aos detalhes.",
+    "correctAnswer": "you were",
+    "options": ["you are", "you were", "you would be", "you had been"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Aos primeiros sinais de cansaço, _____ pausas regulares para recuperar energia.",
+    "correctAnswer": "take",
+    "options": ["you take", "take", "would take", "should take"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Fosse qual fosse o desafio, ele sempre _____ suas responsabilidades com profissionalismo.",
+    "correctAnswer": "faced",
+    "options": ["faces", "faced", "would face", "has faced"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Por mais que _____ cansada, ela nunca abandona seus compromissos.",
+    "correctAnswer": "she be",
+    "options": ["she is", "she be", "she would be", "she were"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Caso não _____ seus compromissos, informe imediatamente seu supervisor.",
+    "correctAnswer": "you can meet",
+    "options": ["you will meet", "you can meet", "you meet", "you would meet"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Semelhantemente ao que fiz ontem, _____ meu trabalho com muita atenção.",
+    "correctAnswer": "I completed",
+    "options": ["I will complete", "I completed", "I am completing", "I have completed"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Ainda que _____ múltiplas tarefas, consegue manter seu equilíbrio profissional.",
+    "correctAnswer": "he manages",
+    "options": ["he will manage", "he manages", "he would manage", "he managed"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Ressalvado que _____ interferências, o projeto será concluído no prazo.",
+    "correctAnswer": "there are no",
+    "options": ["there will be", "there are no", "there were", "there wouldn't be"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Tivesse ele recebido feedback construtivo, _____ mais rápido.",
+    "correctAnswer": "he would have improved",
+    "options": ["he would improve", "he would have improved", "he improves", "he had improved"],
+    "difficulty": "hard"
+  }
+]

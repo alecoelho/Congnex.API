@@ -1,0 +1,542 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Eu trabalho em um ___.",
+    "correctAnswer": "office",
+    "options": ["office", "kitchen", "garden", "hospital"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "O ___ da empresa é muito grande.",
+    "correctAnswer": "building",
+    "options": ["building", "animal", "color", "dream"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Eu recebo meu ___ todo mês.",
+    "correctAnswer": "salary",
+    "options": ["salary", "hobby", "weather", "cloud"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Ela é a ___ da empresa.",
+    "correctAnswer": "boss",
+    "options": ["boss", "flower", "river", "shoe"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Eu preciso de ___ para comprar o produto.",
+    "correctAnswer": "money",
+    "options": ["money", "music", "snow", "leaf"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "A loja está ___ hoje.",
+    "correctAnswer": "open",
+    "options": ["open", "round", "tall", "loud"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "O ___ custa dez reais.",
+    "correctAnswer": "price",
+    "options": ["price", "dream", "wind", "gate"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Ele trabalha em um ___.",
+    "correctAnswer": "bank",
+    "options": ["bank", "beach", "forest", "star"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Eu vou ao ___ comprar comida.",
+    "correctAnswer": "store",
+    "options": ["store", "planet", "sky", "wing"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Ela assina o ___ antes de começar o trabalho.",
+    "correctAnswer": "contract",
+    "options": ["contract", "sandwich", "pillow", "bird"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Nós temos uma ___ às dez horas.",
+    "correctAnswer": "meeting",
+    "options": ["meeting", "swimming", "cooking", "sleeping"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "O ___ está em cima da mesa.",
+    "correctAnswer": "laptop",
+    "options": ["laptop", "ocean", "forest", "moon"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Eu trabalho ___ horas por dia.",
+    "correctAnswer": "eight",
+    "options": ["eight", "purple", "heavy", "clean"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "O cliente quer ___ o produto.",
+    "correctAnswer": "buy",
+    "options": ["buy", "swim", "sleep", "fly"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Ele é um ___ de vendas.",
+    "correctAnswer": "manager",
+    "options": ["manager", "painter", "driver", "singer"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "A empresa vende ___ eletrônicos.",
+    "correctAnswer": "products",
+    "options": ["products", "animals", "clouds", "rivers"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Ele envia um ___ para o cliente.",
+    "correctAnswer": "email",
+    "options": ["email", "bicycle", "mountain", "blanket"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "A empresa tem muitos ___ este ano.",
+    "correctAnswer": "clients",
+    "options": ["clients", "seasons", "colors", "insects"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Ela trabalha no departamento de ___.",
+    "correctAnswer": "finance",
+    "options": ["finance", "weather", "cooking", "sports"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "O ___ da reunião é segunda-feira.",
+    "correctAnswer": "date",
+    "options": ["date", "color", "sound", "smell"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Nós fazemos um ___ com o fornecedor.",
+    "correctAnswer": "deal",
+    "options": ["deal", "jump", "sleep", "laugh"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "O ___ mostra quanto dinheiro a empresa tem.",
+    "correctAnswer": "report",
+    "options": ["report", "carpet", "candle", "flower"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Ela assina o ___ de trabalho.",
+    "correctAnswer": "document",
+    "options": ["document", "mountain", "animal", "ocean"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "O ___ da empresa cresce todo ano.",
+    "correctAnswer": "profit",
+    "options": ["profit", "dinner", "pillow", "garden"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Ele trabalha como ___ na empresa.",
+    "correctAnswer": "accountant",
+    "options": ["accountant", "swimmer", "farmer", "dancer"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Nós precisamos de mais ___ para o projeto.",
+    "correctAnswer": "budget",
+    "options": ["budget", "weather", "forest", "music"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "A empresa paga o ___ dos funcionários.",
+    "correctAnswer": "salary",
+    "options": ["salary", "hobby", "traffic", "cloud"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "O ___ da empresa é muito famoso.",
+    "correctAnswer": "brand",
+    "options": ["brand", "river", "thunder", "lamp"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "O ___ de vendas aumentou este mês.",
+    "correctAnswer": "number",
+    "options": ["number", "color", "taste", "smell"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Ela ___ o relatório para o chefe.",
+    "correctAnswer": "sends",
+    "options": ["sends", "eats", "drinks", "sleeps"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "O ___ ajuda a empresa a crescer.",
+    "correctAnswer": "investment",
+    "options": ["investment", "blanket", "flower", "stone"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Nós ___ os produtos para outros países.",
+    "correctAnswer": "export",
+    "options": ["export", "sleep", "cook", "swim"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "O funcionário recebe um ___ por bom trabalho.",
+    "correctAnswer": "bonus",
+    "options": ["bonus", "cloud", "river", "leaf"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "A empresa tem uma ___ nova no mercado.",
+    "correctAnswer": "strategy",
+    "options": ["strategy", "kitchen", "bedroom", "garden"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "O ___ da empresa é muito alto este ano.",
+    "correctAnswer": "revenue",
+    "options": ["revenue", "carpet", "window", "sunset"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Ela ___ uma conta no banco.",
+    "correctAnswer": "opens",
+    "options": ["opens", "cooks", "swims", "flies"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "O ___ do produto é muito competitivo.",
+    "correctAnswer": "cost",
+    "options": ["cost", "dream", "cloud", "stone"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "A empresa ___ novos funcionários este mês.",
+    "correctAnswer": "hires",
+    "options": ["hires", "swims", "bakes", "paints"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "O ___ mostra as despesas do mês.",
+    "correctAnswer": "invoice",
+    "options": ["invoice", "blanket", "picture", "window"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Nós temos um ___ com outra empresa.",
+    "correctAnswer": "partnership",
+    "options": ["partnership", "breakfast", "mountain", "insect"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "O ___ analisa os dados financeiros.",
+    "correctAnswer": "analyst",
+    "options": ["analyst", "gardener", "sailor", "baker"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "A empresa ___ seus gastos todo mês.",
+    "correctAnswer": "controls",
+    "options": ["controls", "paints", "swims", "dances"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "O ___ é importante para o crescimento da empresa.",
+    "correctAnswer": "capital",
+    "options": ["capital", "blanket", "pillow", "curtain"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "O gerente ___ a reunião toda semana.",
+    "correctAnswer": "leads",
+    "options": ["leads", "cooks", "swims", "draws"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Ela faz um ___ do mercado antes de decidir.",
+    "correctAnswer": "research",
+    "options": ["research", "blanket", "window", "dinner"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "A empresa ___ seus produtos em muitos países.",
+    "correctAnswer": "sells",
+    "options": ["sells", "swims", "bakes", "sings"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "O ___ da empresa está no centro da cidade.",
+    "correctAnswer": "headquarters",
+    "options": ["headquarters", "playground", "campground", "farmhouse"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Ela ___ os contratos com os fornecedores.",
+    "correctAnswer": "negotiates",
+    "options": ["negotiates", "swims", "paints", "bakes"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "O ___ do banco é muito baixo este ano.",
+    "correctAnswer": "interest rate",
+    "options": ["interest rate", "swimming pool", "dinner table", "front door"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "A empresa precisa de um ___ para crescer.",
+    "correctAnswer": "loan",
+    "options": ["loan", "cloud", "flower", "stone"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "Ele ___ a proposta ao cliente.",
+    "correctAnswer": "presents",
+    "options": ["presents", "swims", "bakes", "flies"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "O ___ da empresa inclui metas para o próximo ano.",
+    "correctAnswer": "plan",
+    "options": ["plan", "blanket", "animal", "window"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "A ___ de negócios ajuda a empresa a se organizar.",
+    "correctAnswer": "policy",
+    "options": ["policy", "kitchen", "bedroom", "garden"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "negocios",
+    "type": "complete_sentence",
+    "questionText": "O ___ do projeto foi aprovado pela diretoria.",
+    "correctAnswer": "proposal",
+    "options": ["proposal", "blanket", "forest", "river"],
+    "difficulty": "hard"
+  }
+]

@@ -1,0 +1,502 @@
+﻿[
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Quando você ___ para as férias, já tinha comprado as passagens aéreas?",
+    "correctAnswer": "left",
+    "options": ["leave", "left", "were leaving", "had left"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Eu gostaria de ___ um quarto com vista para o mar neste hotel.",
+    "correctAnswer": "book",
+    "options": ["to book", "booking", "book", "booked"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "A viagem foi cancelada porque ___ choveu muito naquele dia.",
+    "correctAnswer": "it",
+    "options": ["that", "it", "this", "there"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Ele nunca ___ visitado aquele país antes da sua última viagem.",
+    "correctAnswer": "had",
+    "options": ["has", "had", "have", "was"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Se ___ mais tempo, teríamos explorado todas as ilhas.",
+    "correctAnswer": "we had had",
+    "options": ["we would have", "we had had", "we have had", "we will have"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Os turistas ___ malas pesadas no aeroporto quando chegaram.",
+    "correctAnswer": "were carrying",
+    "options": ["carry", "were carrying", "carried", "have carried"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Aquele museu é ___ interessante quanto o que visitamos ontem.",
+    "correctAnswer": "as",
+    "options": ["so", "as", "more", "most"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Não ___ encontrado o passaporte quando precisava embarcar.",
+    "correctAnswer": "had",
+    "options": ["have", "had", "has", "were"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O guia turístico nos ___ sobre a história da cidade enquanto caminhávamos.",
+    "correctAnswer": "told",
+    "options": ["tells", "told", "was telling", "has told"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Depois de ___ o hotel, fomos direto para a praia.",
+    "correctAnswer": "checking in",
+    "options": ["to check in", "checking in", "check in", "checked in"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Ela pediu ao recepcionista que ___ mais toalhas para o quarto.",
+    "correctAnswer": "bring",
+    "options": ["brings", "bring", "brought", "to bring"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Os voos internacionais ___ frequentemente atrasados durante a alta temporada.",
+    "correctAnswer": "are",
+    "options": ["is", "are", "were", "was"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual é a ___ da sua viagem a Portugal?",
+    "correctAnswer": "duration",
+    "options": ["long", "duration", "length", "time"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Não consigo lembrar ___ o hotel ficava perto da estação.",
+    "correctAnswer": "whether",
+    "options": ["if", "whether", "that", "what"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "As bagagens ___ foram roubadas no aeroporto.",
+    "correctAnswer": "were",
+    "options": ["was", "were", "is", "are"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Por favor, ___ de fechar a porta quando sair do quarto.",
+    "correctAnswer": "don't forget",
+    "options": ["don't forget", "not forget", "forgets not", "not to forget"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Ambos os viajantes ___ passaportes válidos para entrar no país.",
+    "correctAnswer": "had",
+    "options": ["has", "have", "had", "was having"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Se você ___ tido que escolher, qual destino escolheria?",
+    "correctAnswer": "had",
+    "options": ["would have", "had", "have", "will have"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O hotel em que ___ durante a viagem tinha uma piscina excelente.",
+    "correctAnswer": "we stayed",
+    "options": ["we stayed", "we were staying", "we have stayed", "we will stay"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Quanto mais turistas chegavam, ___ ficava a cidade.",
+    "correctAnswer": "the more crowded",
+    "options": ["more crowded", "the more crowded", "the most crowded", "more and more crowded"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Independentemente de ___ cansado, continuamos visitando museus.",
+    "correctAnswer": "being",
+    "options": ["be", "being", "to be", "been"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O gerente sugeriu que nós ___ as reservas com antecedência.",
+    "correctAnswer": "make",
+    "options": ["making", "make", "made", "to make"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Embora ___ chovido o dia inteiro, ainda fomos à praia.",
+    "correctAnswer": "it had",
+    "options": ["it had", "it was", "there had been", "there was"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Ninguém ___ imaginado que o voo seria tão longo.",
+    "correctAnswer": "had",
+    "options": ["has", "had", "have", "was"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "A comida no restaurante foi ___ cara quanto esperávamos.",
+    "correctAnswer": "not as",
+    "options": ["not so", "not as", "less", "much less"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Havíamos reservado o voo ___ partisse às 6 da manhã.",
+    "correctAnswer": "that",
+    "options": ["who", "that", "which", "whom"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Não só visitamos a capital, ___ também explorou a zona rural.",
+    "correctAnswer": "but also we",
+    "options": ["but we also", "but also we", "also but we", "but we"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Caso ___ mais dinheiro, teríamos ficado mais uma semana.",
+    "correctAnswer": "we had had",
+    "options": ["we would have", "we had had", "we have", "we will have"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O passaporte dele foi enviado para o consulado a fim de ___ renovado.",
+    "correctAnswer": "be",
+    "options": ["being", "be", "to be", "been"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Tendo ___ o carro alugado, dirigimos pela costa.",
+    "correctAnswer": "rented",
+    "options": ["rented", "rent", "to rent", "renting"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "A atmosfera no cruzeiro era ___ agradável que todos queriam voltar.",
+    "correctAnswer": "so",
+    "options": ["so", "as", "such", "very"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Ele insistiu em ___ as despesas da viagem com seus amigos.",
+    "correctAnswer": "sharing",
+    "options": ["share", "to share", "sharing", "shared"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Apenas depois de ___ no hotel é que nos relaxamos.",
+    "correctAnswer": "checking in",
+    "options": ["to check in", "checking in", "check in", "checked in"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Se tivéssemos ___ sobre o atraso do voo, teríamos saído mais cedo.",
+    "correctAnswer": "known",
+    "options": ["know", "known", "knowing", "to know"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "A razão pela qual não voltamos para aquele resort é que ___ estava muito cheio.",
+    "correctAnswer": "it",
+    "options": ["that", "which", "it", "our"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Quanto aos documentos, ___ todos foram preparados antes da partida.",
+    "correctAnswer": "they",
+    "options": ["those", "they", "which", "that"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Se calhar tínhamos ___ menos em souvenirs, a viagem teria sido mais barata.",
+    "correctAnswer": "spent",
+    "options": ["spend", "spent", "spending", "to spend"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Presumivelmente ___ ter chegado no horário se não houvesse congestionamento.",
+    "correctAnswer": "they must have",
+    "options": ["they must have", "they must", "they could have", "they would"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Desde que ___ essa agência de viagens, eles oferecem pacotes incríveis.",
+    "correctAnswer": "opened",
+    "options": ["opened", "have opened", "had opened", "open"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Dessas três cidades, qual é ___ que você recomenda para turistas?",
+    "correctAnswer": "the one",
+    "options": ["the", "the one", "which", "the best"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Não ___ estar mais feliz com a escolha do destino.",
+    "correctAnswer": "could",
+    "options": ["can", "could", "may", "might"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "À medida que ___ mais sobre a cultura local, mais apreciávamos a viagem.",
+    "correctAnswer": "we learned",
+    "options": ["we learned", "we were learning", "we would learn", "we have learned"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Ele comentou que ___ gostar de voltar para o mesmo hotel no próximo ano.",
+    "correctAnswer": "he would",
+    "options": ["he will", "he would", "he could", "he can"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Foram precisamente os detalhes ___ tornaram a viagem memorável.",
+    "correctAnswer": "that",
+    "options": ["what", "that", "which", "who"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Ao invés de ___ para casa imediatamente, ficamos mais dois dias.",
+    "correctAnswer": "returning",
+    "options": ["to return", "return", "returning", "returned"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Estou ciente de ___ o voo pode ser cancelado por mau tempo.",
+    "correctAnswer": "that",
+    "options": ["what", "that", "which", "if"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Apesar de ___ cansados da viagem, visitamos o último museu.",
+    "correctAnswer": "being",
+    "options": ["be", "to be", "being", "been"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Lamentavelmente, o hotel onde ____ ficado não tinha disponibilidade para este ano.",
+    "correctAnswer": "we had",
+    "options": ["we were", "we had", "we will be", "we have been"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Quanto aos bilhetes de trem, recomendo que os ___ com semanas de antecedência.",
+    "correctAnswer": "book",
+    "options": ["booking", "book", "booked", "books"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Ao chegarmos no destino, percebemos que ___ nos dado as informações erradas.",
+    "correctAnswer": "they had",
+    "options": ["they were", "they have", "they had", "they will"],
+    "difficulty": "medium"
+  }
+]

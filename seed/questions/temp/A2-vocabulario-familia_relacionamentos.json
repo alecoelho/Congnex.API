@@ -1,0 +1,512 @@
+[
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como é chamada a mãe do seu pai ou mãe?",
+    "correctAnswer": "Grandmother",
+    "options": ["Grandmother", "Aunt", "Sister", "Cousin"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual é a palavra em inglês para 'irmão'?",
+    "correctAnswer": "Brother",
+    "options": ["Brother", "Sister", "Cousin", "Friend"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'esposa' em inglês?",
+    "correctAnswer": "Wife",
+    "options": ["Wife", "Husband", "Daughter", "Mother"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual é o termo para o filho da sua irmã?",
+    "correctAnswer": "Nephew",
+    "options": ["Nephew", "Niece", "Cousin", "Brother"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como é chamada a mãe do seu cônjuge?",
+    "correctAnswer": "Mother-in-law",
+    "options": ["Mother-in-law", "Aunt", "Sister", "Cousin"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual é a palavra para 'pai' em inglês?",
+    "correctAnswer": "Father",
+    "options": ["Father", "Mother", "Brother", "Uncle"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se chama a filha do seu irmão?",
+    "correctAnswer": "Niece",
+    "options": ["Niece", "Nephew", "Daughter", "Sister"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual é o termo para 'prima' em inglês?",
+    "correctAnswer": "Cousin",
+    "options": ["Cousin", "Sister", "Aunt", "Niece"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'filho' em inglês?",
+    "correctAnswer": "Son",
+    "options": ["Son", "Daughter", "Brother", "Father"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual é a palavra para 'tio' em inglês?",
+    "correctAnswer": "Uncle",
+    "options": ["Uncle", "Aunt", "Cousin", "Nephew"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como é chamada a irmã do seu pai ou mãe?",
+    "correctAnswer": "Aunt",
+    "options": ["Aunt", "Sister", "Cousin", "Mother"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual é o termo para 'mãe' em inglês?",
+    "correctAnswer": "Mother",
+    "options": ["Mother", "Father", "Sister", "Aunt"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se chama uma pessoa com quem você é casado?",
+    "correctAnswer": "Spouse",
+    "options": ["Spouse", "Friend", "Colleague", "Partner"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual é a palavra para 'filha' em inglês?",
+    "correctAnswer": "Daughter",
+    "options": ["Daughter", "Son", "Sister", "Niece"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'irmã' em inglês?",
+    "correctAnswer": "Sister",
+    "options": ["Sister", "Brother", "Cousin", "Aunt"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual é o termo para 'marido' em inglês?",
+    "correctAnswer": "Husband",
+    "options": ["Husband", "Wife", "Father", "Son"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como é chamado o pai do seu cônjuge?",
+    "correctAnswer": "Father-in-law",
+    "options": ["Father-in-law", "Uncle", "Brother", "Cousin"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'single' no contexto de relacionamentos?",
+    "correctAnswer": "Unmarried person",
+    "options": ["Unmarried person", "Married person", "Engaged person", "Divorced person"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se chama alguém que está em um compromisso antes do casamento?",
+    "correctAnswer": "Engaged",
+    "options": ["Engaged", "Married", "Single", "Separated"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'divorce' em português?",
+    "correctAnswer": "Divórcio / Separação legal",
+    "options": ["Divórcio / Separação legal", "Casamento", "Noivado", "Separação temporária"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'stepmother'?",
+    "correctAnswer": "Madrasta",
+    "options": ["Madrasta", "Avó", "Tia", "Prima"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'padrasto' em inglês?",
+    "correctAnswer": "Stepfather",
+    "options": ["Stepfather", "Uncle", "Grandfather", "Brother-in-law"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual é a palavra para um filho que não é biológico?",
+    "correctAnswer": "Stepson",
+    "options": ["Stepson", "Nephew", "Brother", "Cousin"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'foster family'?",
+    "correctAnswer": "Família adotiva / Família de acolhimento",
+    "options": ["Família adotiva / Família de acolhimento", "Família extensa", "Família tradicional", "Família biológica"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se chama a irmã do seu cônjuge?",
+    "correctAnswer": "Sister-in-law",
+    "options": ["Sister-in-law", "Aunt", "Cousin", "Niece"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual é o termo para o irmão do seu cônjuge?",
+    "correctAnswer": "Brother-in-law",
+    "options": ["Brother-in-law", "Uncle", "Cousin", "Nephew"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'widow'?",
+    "correctAnswer": "Viúva",
+    "options": ["Viúva", "Divorciada", "Solteira", "Separada"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'viúvo' em inglês?",
+    "correctAnswer": "Widower",
+    "options": ["Widower", "Widow", "Bachelor", "Single man"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual é a palavra para a mãe da sua mãe?",
+    "correctAnswer": "Grandmother",
+    "options": ["Grandmother", "Aunt", "Mother", "Sister"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'godmother'?",
+    "correctAnswer": "Madrinha",
+    "options": ["Madrinha", "Tia", "Avó", "Prima"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se chama alguém que cuida de crianças da família?",
+    "correctAnswer": "Babysitter",
+    "options": ["Babysitter", "Nanny", "Teacher", "Doctor"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'twin'?",
+    "correctAnswer": "Gêmeo",
+    "options": ["Gêmeo", "Primo", "Irmão", "Parente"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'adoption' em português?",
+    "correctAnswer": "Adoção",
+    "options": ["Adoção", "Herança", "Custódia", "Tutoria"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'noivo' em inglês?",
+    "correctAnswer": "Fiancé",
+    "options": ["Fiancé", "Husband", "Boyfriend", "Friend"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual é a palavra para 'noiva' em inglês?",
+    "correctAnswer": "Fiancée",
+    "options": ["Fiancée", "Wife", "Girlfriend", "Friend"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se chama a filha da sua filha?",
+    "correctAnswer": "Granddaughter",
+    "options": ["Granddaughter", "Niece", "Daughter", "Sister"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'offspring'?",
+    "correctAnswer": "Descendentes / Filhos",
+    "options": ["Descendentes / Filhos", "Pais", "Avós", "Tios"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'padrinho' em inglês?",
+    "correctAnswer": "Godfather",
+    "options": ["Godfather", "Uncle", "Grandfather", "Cousin"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual é a palavra para a esposa do seu tio?",
+    "correctAnswer": "Aunt",
+    "options": ["Aunt", "Sister", "Cousin", "Niece"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'in-laws'?",
+    "correctAnswer": "Parentes por afinidade / Sogra/sogro",
+    "options": ["Parentes por afinidade / Sogra/sogro", "Parentes biológicos", "Tios", "Primos"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se chama o marido da sua filha?",
+    "correctAnswer": "Son-in-law",
+    "options": ["Son-in-law", "Nephew", "Grandson", "Cousin"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual é a palavra para o filho do seu primo?",
+    "correctAnswer": "Second cousin",
+    "options": ["Second cousin", "First cousin", "Nephew", "Brother"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'custody' em português?",
+    "correctAnswer": "Guarda / Custódia",
+    "options": ["Guarda / Custódia", "Adoção", "Tutoria", "Herança"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'sogra' em inglês?",
+    "correctAnswer": "Mother-in-law",
+    "options": ["Mother-in-law", "Sister-in-law", "Aunt", "Niece"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual é o termo para alguém que vive com você mas não é casado?",
+    "correctAnswer": "Live-in partner",
+    "options": ["Live-in partner", "Roommate", "Colleague", "Friend"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'guardian'?",
+    "correctAnswer": "Guardião / Tutor",
+    "options": ["Guardião / Tutor", "Pai", "Avó", "Tio"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se chama a filha do seu primo em primeiro grau?",
+    "correctAnswer": "Cousin",
+    "options": ["Cousin", "Niece", "Sister", "Aunt"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual é a palavra para quando você tem filhos com alguém sem ser casado?",
+    "correctAnswer": "Unmarried parents",
+    "options": ["Unmarried parents", "Ex-couple", "Separated couple", "Divorced couple"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'inheritance'?",
+    "correctAnswer": "Herança",
+    "options": ["Herança", "Dívida", "Empréstimo", "Presente"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'ancestral' em inglês?",
+    "correctAnswer": "Ancestor",
+    "options": ["Ancestor", "Descendant", "Relative", "Cousin"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual é a palavra para o pai da sua mãe?",
+    "correctAnswer": "Grandfather",
+    "options": ["Grandfather", "Grandfather", "Uncle", "Cousin"],
+    "difficulty": "hard"
+  }
+]

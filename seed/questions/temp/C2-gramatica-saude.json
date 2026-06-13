@@ -1,0 +1,522 @@
+[
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase com a forma verbal correta: 'The patient ___ from a rare autoimmune disorder for the past decade, making it difficult to manage her symptoms.'",
+    "correctAnswer": "has been suffering",
+    "options": ["has been suffering", "is suffering", "had suffered", "suffers"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Escolha a preposição correta: 'Doctors recommend that patients recovering ___ surgery should avoid strenuous physical activity for at least six weeks.'",
+    "correctAnswer": "from",
+    "options": ["from", "after", "of", "through"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual é o artigo correto? 'The cardiologist recommended ___ echocardiogram to assess the patient's cardiac function more accurately.'",
+    "correctAnswer": "an",
+    "options": ["an", "a", "the", "no article"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Escolha a forma correta do verbo modal: 'Given the severity of her condition, she ___ have started treatment much earlier to prevent further complications.'",
+    "correctAnswer": "should",
+    "options": ["should", "must", "would", "could"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete com o pronome reflexivo adequado: 'The athlete pushed ___ too hard during training, which resulted in a serious muscle tear.'",
+    "correctAnswer": "himself",
+    "options": ["himself", "him", "his own", "he"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual é a forma correta do comparativo? 'After switching to a plant-based diet, her cholesterol levels became ___ than they had been in years.'",
+    "correctAnswer": "lower",
+    "options": ["lower", "more low", "lowest", "less high"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase com a conjunção correta: '___ the new medication proved effective in clinical trials, it was swiftly approved by health authorities.'",
+    "correctAnswer": "Since",
+    "options": ["Since", "Despite", "Although", "Unless"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Escolha a voz passiva correta: 'The experimental drug ___ by thousands of volunteers before it received regulatory approval.'",
+    "correctAnswer": "was tested",
+    "options": ["was tested", "has tested", "tested", "had been testing"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual preposição está correta? 'The nurse administered the injection ___ the patient's upper arm, following standard protocol.'",
+    "correctAnswer": "into",
+    "options": ["into", "in", "on", "at"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete com o tempo verbal correto: 'By the time the ambulance arrived, the paramedics ___ CPR on the patient for nearly ten minutes.'",
+    "correctAnswer": "had been performing",
+    "options": ["had been performing", "were performing", "have been performing", "performed"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Escolha o quantificador correto: 'There is ___ scientific evidence to suggest that prolonged sleep deprivation contributes to metabolic disorders.'",
+    "correctAnswer": "substantial",
+    "options": ["substantial", "many", "a great number of", "much few"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual é a forma correta do condicional? 'If the surgeon ___ the correct procedure, the patient's recovery would have been significantly smoother.'",
+    "correctAnswer": "had followed",
+    "options": ["had followed", "followed", "would follow", "has followed"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete com a preposição correta: 'The oncologist explained that the tumor was ___ an advanced stage and required immediate intervention.'",
+    "correctAnswer": "at",
+    "options": ["at", "in", "on", "by"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual verbo modal expressa obrigação formal no contexto médico? 'All healthcare professionals ___ adhere to strict hygiene protocols to minimize the risk of cross-contamination.'",
+    "correctAnswer": "must",
+    "options": ["must", "might", "dare", "need not"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Escolha a forma correta do gerúndio ou infinitivo: 'The physician advised the patient ___ alcohol entirely during the course of treatment.'",
+    "correctAnswer": "to avoid",
+    "options": ["to avoid", "avoiding", "avoid", "in avoiding"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete com o tempo verbal adequado: 'Research ___ that regular meditation significantly reduces cortisol levels and improves overall mental health.'",
+    "correctAnswer": "has shown",
+    "options": ["has shown", "showed", "was showing", "had shown"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual é o uso correto do particípio? 'The patient, ___ recently discharged from the ICU, was placed under close outpatient monitoring.'",
+    "correctAnswer": "having been",
+    "options": ["having been", "being", "been", "having"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase com a estrutura correta: 'Not only ___ the medication alleviate chronic pain, but it also improved the patient's overall quality of life.'",
+    "correctAnswer": "did",
+    "options": ["did", "has", "does", "had"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Escolha a forma verbal correta para expressar uma suposição no passado: 'The patient's skin rash ___ caused by an allergic reaction to the prescribed antibiotic, based on the dermatologist's assessment.'",
+    "correctAnswer": "may have been",
+    "options": ["may have been", "might be", "could be", "must have"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual é a construção correta com 'wish'? 'Many patients ___ they had adopted healthier dietary habits before developing type 2 diabetes.'",
+    "correctAnswer": "wish",
+    "options": ["wish", "wished", "are wishing", "would wish"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase com a preposição correta: 'The new treatment protocol is aimed ___ reducing hospital readmission rates among post-surgical patients.'",
+    "correctAnswer": "at",
+    "options": ["at", "to", "for", "towards"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual é a forma correta da voz passiva com modal? 'Patients with compromised immune systems ___ contacted by their healthcare providers immediately upon receiving abnormal test results.'",
+    "correctAnswer": "should be",
+    "options": ["should be", "should have", "must have been", "ought have been"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Escolha a estrutura de inversão correta: '___ the patient been administered the antidote sooner, the neurological damage could have been minimized.'",
+    "correctAnswer": "Had",
+    "options": ["Had", "If", "Were", "Should"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete com a forma correta do subjuntivo: 'The hospital board insisted that every surgeon ___ recertified before performing complex procedures.'",
+    "correctAnswer": "be",
+    "options": ["be", "is", "was", "were"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual é a forma correta do particípio perfeito em construção absoluta? '___ all available treatment options with the patient, the oncologist recommended a watchful waiting approach.'",
+    "correctAnswer": "Having discussed",
+    "options": ["Having discussed", "Discussing", "Having been discussed", "To have discussed"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete com o conector correto: 'The new vaccine proved highly effective; ___, health authorities recommended its widespread rollout across all age groups.'",
+    "correctAnswer": "consequently",
+    "options": ["consequently", "notwithstanding", "conversely", "albeit"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Escolha o uso correto de 'despite' ou 'although': '___ undergoing six months of chemotherapy, the patient maintained a remarkably positive outlook throughout her treatment.'",
+    "correctAnswer": "Despite",
+    "options": ["Despite", "Although", "Even though", "Whereas"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual é a forma verbal correta no discurso indireto? 'The neurologist told the patient that he ___ further tests before drawing any conclusions about her condition.'",
+    "correctAnswer": "would need to run",
+    "options": ["would need to run", "will need to run", "needs to run", "needed running"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete com a preposição correta: 'The clinical guidelines are ___ compliance with international health standards and must be reviewed annually.'",
+    "correctAnswer": "in",
+    "options": ["in", "on", "under", "by"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual é a estrutura correta com 'such...that'? 'The patient's inflammation was ___ severe ___ the medical team decided to escalate treatment immediately.'",
+    "correctAnswer": "so / that",
+    "options": ["so / that", "such / that", "too / that", "very / that"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Escolha o uso correto do modal perfeito: 'Given the patient's prior history of cardiac events, the physician ___ ordered a stress test during the initial consultation.'",
+    "correctAnswer": "should have",
+    "options": ["should have", "must have", "would have", "could have"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase com o tempo verbal correto em oração temporal: 'The rehabilitation program will commence once the patient ___ cleared by the orthopedic surgeon.'",
+    "correctAnswer": "has been",
+    "options": ["has been", "will be", "is", "was"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual é a estrutura correta de ênfase com cleft sentence? 'It was the prolonged exposure ___ environmental pollutants ___ ultimately triggered her respiratory illness.'",
+    "correctAnswer": "to / that",
+    "options": ["to / that", "of / which", "to / which", "with / that"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual é o uso correto do artigo em contexto técnico-médico? 'The researchers concluded that ___ use of corticosteroids in early intervention dramatically reduced the incidence of complications.'",
+    "correctAnswer": "the",
+    "options": ["the", "a", "an", "no article"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase com a forma verbal correta: 'Scarcely ___ the patient been admitted when his condition deteriorated rapidly, requiring emergency intervention.'",
+    "correctAnswer": "had",
+    "options": ["had", "has", "was", "did"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Escolha o uso correto de 'would rather': 'The patient said she ___ undergo physical therapy than resort to invasive surgical procedures at this stage of her treatment.'",
+    "correctAnswer": "would rather",
+    "options": ["would rather", "had rather", "would prefer", "would sooner"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete com a estrutura correta de inversão hipotética: '___ the clinical trial to yield inconclusive results, the research team would seek additional funding for a follow-up study.'",
+    "correctAnswer": "Were",
+    "options": ["Were", "Should", "Had", "Would"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual é o uso correto do subjuntivo mandativo em registro formal? 'The ethics committee recommended that informed consent ___ obtained from all participants prior to the commencement of any invasive procedure.'",
+    "correctAnswer": "be",
+    "options": ["be", "should", "is", "has been"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Escolha a construção nominal correta: 'The ___ of pharmaceutical compounds with a patient's existing medication regimen is a primary concern in polypharmacy management.'",
+    "correctAnswer": "interaction",
+    "options": ["interaction", "interacting", "interacted", "interactive"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete com a preposição mais precisa em contexto técnico: 'The meta-analysis drew ___ data from over forty randomized controlled trials conducted across six continents.'",
+    "correctAnswer": "on",
+    "options": ["on", "from", "upon", "off"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual é a forma verbal mais adequada para expressar uma crítica velada no passado? 'The attending physician ___ been more forthcoming about the potential side effects of the prescribed immunosuppressants.'",
+    "correctAnswer": "might have",
+    "options": ["might have", "could have", "should have", "ought to have"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual é a construção correta com gerúndio composto em voz passiva? 'The patient objected to ___ without prior notification, citing a violation of her medical privacy rights.'",
+    "correctAnswer": "being filmed",
+    "options": ["being filmed", "having filmed", "being filming", "to be filmed"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete com a estrutura correta de 'no sooner': 'No sooner ___ the new antiretroviral therapy approved than pharmaceutical companies began competing for market dominance.'",
+    "correctAnswer": "had",
+    "options": ["had", "was", "did", "has"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Escolha a estrutura correta em inglês formal acadêmico: 'The extent ___ chronic psychological stress contributes to the pathogenesis of cardiovascular disease remains a subject of ongoing inquiry.'",
+    "correctAnswer": "to which",
+    "options": ["to which", "in which", "to what", "for which"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual é a forma correta de particípio com valor condicional? '___ the dosage reduced gradually rather than abruptly, withdrawal symptoms could potentially have been avoided.'",
+    "correctAnswer": "Had",
+    "options": ["Had", "Were", "Being", "Having been"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete com a expressão adverbial mais adequada em inglês formal: 'The patient's prognosis, ___ unfavorable at initial diagnosis, improved substantially following the introduction of targeted therapy.'",
+    "correctAnswer": "though",
+    "options": ["though", "while", "however", "yet"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual é a estrutura relativa correta em inglês formal? 'The longitudinal cohort study, the findings ___ have since been replicated across multiple independent investigations, reshaped global nutritional guidelines.'",
+    "correctAnswer": "of which",
+    "options": ["of which", "of that", "whose", "which"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Escolha a preposição correta em colocação técnica: 'The pathologist reported that the biopsy results were consistent ___ a diagnosis of early-stage melanoma.'",
+    "correctAnswer": "with",
+    "options": ["with", "to", "of", "for"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual é a forma mais gramaticalmente precisa da construção absoluta? '___ with the patient's consent and with full disclosure of potential risks, the experimental procedure was cleared to proceed.'",
+    "correctAnswer": "Obtained",
+    "options": ["Obtained", "Having obtained", "Having been obtained", "Being obtained"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase com a construção condicional mista correta: 'If the hospital ___ invested in preventive care infrastructure over the past decade, its current patient readmission rates would be considerably lower.'",
+    "correctAnswer": "had",
+    "options": ["had", "has", "would have", "were to have"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Qual é o uso correto de 'lest' em inglês formal? 'The surgeon meticulously reviewed all pre-operative scans ___ critical anatomical details ___ overlooked during the procedure.'",
+    "correctAnswer": "lest / be",
+    "options": ["lest / be", "so that / are not", "in case / would be", "for fear that / were"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Escolha a estrutura enfática mais formal: '___ the unwavering commitment of dedicated healthcare workers that sustained the public health system during the unprecedented crisis.'",
+    "correctAnswer": "It was",
+    "options": ["It was", "There was", "It had been", "What was"],
+    "difficulty": "hard"
+  }
+]

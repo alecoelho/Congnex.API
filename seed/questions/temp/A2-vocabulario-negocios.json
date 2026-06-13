@@ -1,0 +1,502 @@
+﻿[
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'salary' em português?",
+    "correctAnswer": "Salário",
+    "options": ["Salário", "Venda", "Compra", "Contrato"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'job' em português?",
+    "correctAnswer": "Emprego",
+    "options": ["Emprego", "Negócio", "Projeto", "Cliente"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que é 'money' em português?",
+    "correctAnswer": "Dinheiro",
+    "options": ["Dinheiro", "Banco", "Crédito", "Débito"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução de 'company'?",
+    "correctAnswer": "Empresa",
+    "options": ["Empresa", "Fábrica", "Loja", "Escritório"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'boss' em português?",
+    "correctAnswer": "Chefe",
+    "options": ["Chefe", "Gerente", "Funcionário", "Colega"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'customer' em português?",
+    "correctAnswer": "Cliente",
+    "options": ["Cliente", "Fornecedor", "Vendedor", "Distribuidor"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que é 'price' em português?",
+    "correctAnswer": "Preço",
+    "options": ["Preço", "Custo", "Valor", "Orçamento"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução de 'meeting'?",
+    "correctAnswer": "Reunião",
+    "options": ["Reunião", "Conferência", "Apresentação", "Seminário"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'deal' em português?",
+    "correctAnswer": "Negócio",
+    "options": ["Negócio", "Acordo", "Transação", "Contrato"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'profit' em português?",
+    "correctAnswer": "Lucro",
+    "options": ["Lucro", "Rendimento", "Ganho", "Receita"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que é 'loss' em português?",
+    "correctAnswer": "Perda",
+    "options": ["Perda", "Despesa", "Custo", "Prejuízo"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução de 'bill'?",
+    "correctAnswer": "Conta",
+    "options": ["Conta", "Fatura", "Recibo", "Cupom"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'payment' em português?",
+    "correctAnswer": "Pagamento",
+    "options": ["Pagamento", "Depósito", "Transferência", "Débito"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'office' em português?",
+    "correctAnswer": "Escritório",
+    "options": ["Escritório", "Sala", "Departamento", "Prédio"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que é 'bank' em português?",
+    "correctAnswer": "Banco",
+    "options": ["Banco", "Caixa", "Agência", "Filial"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução de 'account'?",
+    "correctAnswer": "Conta",
+    "options": ["Conta", "Saldo", "Extrato", "Transação"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'investment' em português?",
+    "correctAnswer": "Investimento",
+    "options": ["Investimento", "Empréstimo", "Poupança", "Aplicação"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Como você traduziria 'tax'?",
+    "correctAnswer": "Imposto",
+    "options": ["Imposto", "Taxa", "Tarifa", "Contribuição"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'budget' em português?",
+    "correctAnswer": "Orçamento",
+    "options": ["Orçamento", "Despesa", "Custo", "Gasto"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução de 'contract'?",
+    "correctAnswer": "Contrato",
+    "options": ["Contrato", "Acordo", "Documento", "Papel"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que é 'loan' em português?",
+    "correctAnswer": "Empréstimo",
+    "options": ["Empréstimo", "Débito", "Crédito", "Pagamento"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'invoice' em português?",
+    "correctAnswer": "Fatura",
+    "options": ["Fatura", "Conta", "Recibo", "Cupom"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'vendor' em português?",
+    "correctAnswer": "Fornecedor",
+    "options": ["Fornecedor", "Vendedor", "Distribuidor", "Fabricante"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução de 'receipt'?",
+    "correctAnswer": "Recibo",
+    "options": ["Recibo", "Fatura", "Conta", "Cupom"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que é 'expense' em português?",
+    "correctAnswer": "Despesa",
+    "options": ["Despesa", "Custo", "Gasto", "Investimento"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Como você traduziria 'income'?",
+    "correctAnswer": "Renda",
+    "options": ["Renda", "Salário", "Lucro", "Rendimento"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'profit margin' em português?",
+    "correctAnswer": "Margem de lucro",
+    "options": ["Margem de lucro", "Lucro bruto", "Lucro líquido", "Rendimento"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução de 'manager'?",
+    "correctAnswer": "Gerente",
+    "options": ["Gerente", "Chefe", "Diretor", "Supervisor"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que é 'client' em português?",
+    "correctAnswer": "Cliente",
+    "options": ["Cliente", "Fornecedor", "Parceiro", "Concorrente"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'project' em português?",
+    "correctAnswer": "Projeto",
+    "options": ["Projeto", "Programa", "Plano", "Proposta"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'deadline' em português?",
+    "correctAnswer": "Prazo",
+    "options": ["Prazo", "Data", "Vencimento", "Período"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução de 'stock'?",
+    "correctAnswer": "Ação",
+    "options": ["Ação", "Estoque", "Mercadoria", "Inventário"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que é 'quarterly report' em português?",
+    "correctAnswer": "Relatório trimestral",
+    "options": ["Relatório trimestral", "Relatório anual", "Relatório mensal", "Boletim"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Como você traduziria 'shareholder'?",
+    "correctAnswer": "Acionista",
+    "options": ["Acionista", "Investidor", "Proprietário", "Sócio"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'assets' em português?",
+    "correctAnswer": "Ativos",
+    "options": ["Ativos", "Bens", "Propriedades", "Recursos"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução de 'liability'?",
+    "correctAnswer": "Passivo",
+    "options": ["Passivo", "Débito", "Obrigação", "Dívida"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que é 'equity' em português?",
+    "correctAnswer": "Patrimônio",
+    "options": ["Patrimônio", "Capital", "Ações", "Propriedade"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'interest rate' em português?",
+    "correctAnswer": "Taxa de juros",
+    "options": ["Taxa de juros", "Juros", "Rendimento", "Retorno"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'dividend' em português?",
+    "correctAnswer": "Dividendo",
+    "options": ["Dividendo", "Lucro", "Rendimento", "Ganho"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução de 'acquisition'?",
+    "correctAnswer": "Aquisição",
+    "options": ["Aquisição", "Compra", "Incorporação", "Fusão"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que é 'merger' em português?",
+    "correctAnswer": "Fusão",
+    "options": ["Fusão", "Separação", "Incorporação", "Compra"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Como você traduziria 'cash flow'?",
+    "correctAnswer": "Fluxo de caixa",
+    "options": ["Fluxo de caixa", "Movimento de caixa", "Saldo de caixa", "Caixa"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'leverage' em português?",
+    "correctAnswer": "Alavancagem",
+    "options": ["Alavancagem", "Endividamento", "Crédito", "Empréstimo"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução de 'depreciation'?",
+    "correctAnswer": "Depreciação",
+    "options": ["Depreciação", "Redução", "Desvalorização", "Perda de valor"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que é 'amortization' em português?",
+    "correctAnswer": "Amortização",
+    "options": ["Amortização", "Pagamento", "Quitação", "Reembolso"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'balance sheet' em português?",
+    "correctAnswer": "Balanço patrimonial",
+    "options": ["Balanço patrimonial", "Demonstrativo", "Relatório", "Extrato"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'revenue' em português?",
+    "correctAnswer": "Receita",
+    "options": ["Receita", "Ganho", "Rendimento", "Lucro"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução de 'financial statement'?",
+    "correctAnswer": "Demonstração financeira",
+    "options": ["Demonstração financeira", "Relatório financeiro", "Balanço", "Extrato"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que é 'venture capital' em português?",
+    "correctAnswer": "Capital de risco",
+    "options": ["Capital de risco", "Investimento", "Fundo", "Aplicação"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Como você traduziria 'due diligence'?",
+    "correctAnswer": "Investigação prévia",
+    "options": ["Investigação prévia", "Avaliação", "Análise", "Verificação"],
+    "difficulty": "hard"
+  }
+]

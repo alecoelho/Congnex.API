@@ -1,0 +1,512 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'tree' em português?",
+    "correctAnswer": "Árvore",
+    "options": ["Árvore", "Pedra", "Rio", "Nuvem"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'water' em português?",
+    "correctAnswer": "Água",
+    "options": ["Fogo", "Água", "Terra", "Ar"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'sun' em português?",
+    "correctAnswer": "Sol",
+    "options": ["Lua", "Estrela", "Sol", "Céu"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'flower' em português?",
+    "correctAnswer": "Flor",
+    "options": ["Folha", "Raiz", "Flor", "Galho"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'rain' em português?",
+    "correctAnswer": "Chuva",
+    "options": ["Neve", "Vento", "Chuva", "Sol"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'earth' em português?",
+    "correctAnswer": "Terra",
+    "options": ["Mar", "Terra", "Céu", "Fogo"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'bird' em português?",
+    "correctAnswer": "Pássaro",
+    "options": ["Peixe", "Inseto", "Pássaro", "Réptil"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'fish' em português?",
+    "correctAnswer": "Peixe",
+    "options": ["Peixe", "Baleia", "Tubarão", "Caranguejo"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'sky' em português?",
+    "correctAnswer": "Céu",
+    "options": ["Mar", "Nuvem", "Céu", "Montanha"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'grass' em português?",
+    "correctAnswer": "Grama",
+    "options": ["Areia", "Barro", "Grama", "Pedra"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'wind' em português?",
+    "correctAnswer": "Vento",
+    "options": ["Vento", "Chuva", "Neve", "Trovão"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'cloud' em português?",
+    "correctAnswer": "Nuvem",
+    "options": ["Chuva", "Nuvem", "Raio", "Névoa"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'sea' em português?",
+    "correctAnswer": "Mar",
+    "options": ["Lago", "Rio", "Mar", "Oceano"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'leaf' em português?",
+    "correctAnswer": "Folha",
+    "options": ["Flor", "Folha", "Semente", "Fruto"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'rock' em português?",
+    "correctAnswer": "Rocha",
+    "options": ["Areia", "Barro", "Rocha", "Lama"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'animal' em português?",
+    "correctAnswer": "Animal",
+    "options": ["Planta", "Animal", "Mineral", "Fungo"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'snow' em português?",
+    "correctAnswer": "Neve",
+    "options": ["Gelo", "Neve", "Chuva", "Granizo"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'clean water' em português?",
+    "correctAnswer": "Água limpa",
+    "options": ["Água salgada", "Água quente", "Água limpa", "Água fria"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'recycle' em português?",
+    "correctAnswer": "Reciclar",
+    "options": ["Jogar fora", "Queimar", "Reciclar", "Comprar"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'forest' em português?",
+    "correctAnswer": "Floresta",
+    "options": ["Deserto", "Floresta", "Savana", "Pantanal"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'pollution' em português?",
+    "correctAnswer": "Poluição",
+    "options": ["Limpeza", "Reciclagem", "Poluição", "Preservação"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'solar energy' em português?",
+    "correctAnswer": "Energia solar",
+    "options": ["Energia elétrica", "Energia solar", "Energia eólica", "Energia nuclear"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'garbage' em português?",
+    "correctAnswer": "Lixo",
+    "options": ["Lixo", "Comida", "Água", "Energia"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'nature' em português?",
+    "correctAnswer": "Natureza",
+    "options": ["Cidade", "Indústria", "Natureza", "Tecnologia"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'planet' em português?",
+    "correctAnswer": "Planeta",
+    "options": ["Estrela", "Lua", "Planeta", "Satélite"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'save energy' em português?",
+    "correctAnswer": "Economizar energia",
+    "options": ["Gastar energia", "Produzir energia", "Economizar energia", "Vender energia"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'ocean' em português?",
+    "correctAnswer": "Oceano",
+    "options": ["Lago", "Rio", "Mar", "Oceano"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'smoke' em português?",
+    "correctAnswer": "Fumaça",
+    "options": ["Fogo", "Fumaça", "Cinza", "Vapor"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'fresh air' em português?",
+    "correctAnswer": "Ar fresco",
+    "options": ["Ar poluído", "Ar quente", "Ar fresco", "Ar frio"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'plant' em português, no contexto do meio ambiente?",
+    "correctAnswer": "Planta",
+    "options": ["Fábrica", "Planta", "Máquina", "Produto"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'wild animal' em português?",
+    "correctAnswer": "Animal selvagem",
+    "options": ["Animal doméstico", "Animal selvagem", "Animal pequeno", "Animal raro"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'drought' em português?",
+    "correctAnswer": "Seca",
+    "options": ["Enchente", "Seca", "Chuva", "Névoa"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'green energy' em português?",
+    "correctAnswer": "Energia verde / limpa",
+    "options": ["Energia cara", "Energia verde / limpa", "Energia nuclear", "Energia elétrica"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'seed' em português?",
+    "correctAnswer": "Semente",
+    "options": ["Flor", "Fruto", "Semente", "Raiz"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'soil' em português?",
+    "correctAnswer": "Solo / Terra",
+    "options": ["Água", "Ar", "Solo / Terra", "Pedra"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'endangered species' em português?",
+    "correctAnswer": "Espécie em perigo de extinção",
+    "options": ["Espécie comum", "Espécie em perigo de extinção", "Espécie doméstica", "Espécie exótica"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'sustainable' em português?",
+    "correctAnswer": "Sustentável",
+    "options": ["Poluente", "Descartável", "Sustentável", "Temporário"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'global warming' em português?",
+    "correctAnswer": "Aquecimento global",
+    "options": ["Resfriamento global", "Aquecimento global", "Mudança climática", "Poluição do ar"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'deforestation' em português?",
+    "correctAnswer": "Desmatamento",
+    "options": ["Reflorestamento", "Desmatamento", "Preservação", "Plantio"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'carbon footprint' em português?",
+    "correctAnswer": "Pegada de carbono",
+    "options": ["Emissão de fumaça", "Pegada de carbono", "Poluição hídrica", "Resíduo tóxico"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'reforestation' em português?",
+    "correctAnswer": "Reflorestamento",
+    "options": ["Desmatamento", "Irrigação", "Reflorestamento", "Colheita"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'wind turbine' em português?",
+    "correctAnswer": "Turbina eólica",
+    "options": ["Turbina a vapor", "Painel solar", "Turbina eólica", "Motor elétrico"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'compost' em português?",
+    "correctAnswer": "Composto orgânico",
+    "options": ["Lixo químico", "Composto orgânico", "Resíduo industrial", "Adubo sintético"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'greenhouse effect' em português?",
+    "correctAnswer": "Efeito estufa",
+    "options": ["Efeito estufa", "Chuva ácida", "Buraco na camada de ozônio", "Poluição do solo"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'ecosystem' em português?",
+    "correctAnswer": "Ecossistema",
+    "options": ["Clima", "Ecossistema", "Bioma", "Habitat"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'acid rain' em português?",
+    "correctAnswer": "Chuva ácida",
+    "options": ["Chuva forte", "Chuva ácida", "Chuva de granizo", "Chuva tropical"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'biodiversity' em português?",
+    "correctAnswer": "Biodiversidade",
+    "options": ["Monocultura", "Extinção", "Biodiversidade", "Evolução"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'renewable energy' em português?",
+    "correctAnswer": "Energia renovável",
+    "options": ["Energia fóssil", "Energia nuclear", "Energia renovável", "Energia cara"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'habitat' em português, no contexto do meio ambiente?",
+    "correctAnswer": "Habitat / local onde um animal vive",
+    "options": ["Alimento de um animal", "Habitat / local onde um animal vive", "Predador natural", "Espécie invasora"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'waste reduction' em português?",
+    "correctAnswer": "Redução de resíduos",
+    "options": ["Aumento de produção", "Redução de resíduos", "Coleta de lixo", "Reciclagem de plástico"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'extinct' em português?",
+    "correctAnswer": "Extinto",
+    "options": ["Abundante", "Extinto", "Migratório", "Doméstico"],
+    "difficulty": "hard"
+  }
+]

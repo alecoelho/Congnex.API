@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer saber o nome da mãe de seu amigo. O que você pergunta?",
+        "correctAnswer":  "What is your mother\u0027s name?",
+        "options":  [
+                        "What is your mother\u0027s name?",
+                        "Where is your mother name?",
+                        "How is your mother named?",
+                        "Your mother\u0027s name is what?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Seu colega diz que tem três irmãos. Como você responde mostrando interesse?",
+        "correctAnswer":  "That\u0027s nice! Tell me about them.",
+        "options":  [
+                        "That\u0027s nice! Tell me about them.",
+                        "That\u0027s not good. Don\u0027t tell me.",
+                        "That\u0027s bad. I don\u0027t care.",
+                        "That\u0027s wrong. Why do you have three?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Como você apresenta sua avó para um novo amigo?",
+        "correctAnswer":  "This is my grandmother.",
+        "options":  [
+                        "This is my grandmother.",
+                        "This is my aunt grandmother.",
+                        "This is my old mother.",
+                        "This is my mother\u0027s mother here."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer saber se seu amigo tem filhos. O que você pergunta?",
+        "correctAnswer":  "Do you have any children?",
+        "options":  [
+                        "Do you have any children?",
+                        "Have you any children do?",
+                        "Do you children have?",
+                        "Children do you have any?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Como você pergunta a idade de uma criança?",
+        "correctAnswer":  "How old is she?",
+        "options":  [
+                        "How old is she?",
+                        "How many years has she?",
+                        "What age is she in?",
+                        "How old she is?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Seu amigo pergunta se você é casado. Como você responde que sim?",
+        "correctAnswer":  "Yes, I am married.",
+        "options":  [
+                        "Yes, I am married.",
+                        "Yes, I am to married.",
+                        "Yes, I have married.",
+                        "Yes, I married am."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Como você pergunta sobre o marido ou a esposa de alguém?",
+        "correctAnswer":  "Is she married?",
+        "options":  [
+                        "Is she married?",
+                        "Is she have a husband?",
+                        "Does she married?",
+                        "Has she a marriage?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer saber sobre os pais de alguém. O que você diz?",
+        "correctAnswer":  "Tell me about your parents.",
+        "options":  [
+                        "Tell me about your parents.",
+                        "Tell me your parents about.",
+                        "Tell about your parents me.",
+                        "Your parents tell me about."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Como você apresenta seu primo para alguém?",
+        "correctAnswer":  "This is my cousin.",
+        "options":  [
+                        "This is my cousin.",
+                        "This is my mother\u0027s nephew.",
+                        "This is my family nephew.",
+                        "This is my cousin relative."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Alguém pergunta se você tem irmã. Como você responde que tem duas?",
+        "correctAnswer":  "Yes, I have two sisters.",
+        "options":  [
+                        "Yes, I have two sisters.",
+                        "Yes, I have two sister.",
+                        "Yes, I am have two sisters.",
+                        "Yes, two sisters I have."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Como você pergunta sobre os filhos de um casal?",
+        "correctAnswer":  "How many children do they have?",
+        "options":  [
+                        "How many children do they have?",
+                        "How many children they have?",
+                        "Do they have many children how?",
+                        "How many do they children have?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer saber o nome do pai de um amigo. O que você pergunta?",
+        "correctAnswer":  "What\u0027s your father\u0027s name?",
+        "options":  [
+                        "What\u0027s your father\u0027s name?",
+                        "What is name your father?",
+                        "Your father name what is?",
+                        "What your father\u0027s is name?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Como você pergunta se alguém é solteiro?",
+        "correctAnswer":  "Are you single?",
+        "options":  [
+                        "Are you single?",
+                        "You are single?",
+                        "Do you single?",
+                        "Are single you?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer conhecer melhor a família de um novo amigo. Como você inicia a conversa?",
+        "correctAnswer":  "Tell me about your family.",
+        "options":  [
+                        "Tell me about your family.",
+                        "Tell about me your family.",
+                        "Tell your family about me.",
+                        "About your family tell me."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Como você pergunta quantos anos tem a avó de alguém?",
+        "correctAnswer":  "How old is your grandmother?",
+        "options":  [
+                        "How old is your grandmother?",
+                        "How many years your grandmother has?",
+                        "What age your grandmother is?",
+                        "How old your grandmother?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Alguém diz que é viúvo. Como você responde com empatia?",
+        "correctAnswer":  "I\u0027m sorry to hear that.",
+        "options":  [
+                        "I\u0027m sorry to hear that.",
+                        "I\u0027m happy to know that.",
+                        "That\u0027s good news.",
+                        "Congratulations for that."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Você conheceu alguém casado há pouco tempo. Como você faz uma pergunta amigável?",
+        "correctAnswer":  "How long have you been married?",
+        "options":  [
+                        "How long have you been married?",
+                        "How long you are married?",
+                        "How long married are you?",
+                        "How married long have you been?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer saber se o amigo de sua mãe é solteiro. Como você pergunta de forma educada?",
+        "correctAnswer":  "Is he married?",
+        "options":  [
+                        "Is he married?",
+                        "Does he have wife?",
+                        "Has he a wife?",
+                        "Is he have wife?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Alguém mencionou sua tia. Como você pergunta sobre o trabalho dela?",
+        "correctAnswer":  "What does your aunt do?",
+        "options":  [
+                        "What does your aunt do?",
+                        "What your aunt does?",
+                        "What your aunt is doing?",
+                        "What does do your aunt?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer saber onde mora o irmão de um colega. Como você pergunta?",
+        "correctAnswer":  "Where does your brother live?",
+        "options":  [
+                        "Where does your brother live?",
+                        "Where your brother live?",
+                        "Where live your brother?",
+                        "Where does live your brother?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Alguém diz que tem um padrasto. Como você mostra compreensão?",
+        "correctAnswer":  "I understand. How long has he been your stepfather?",
+        "options":  [
+                        "I understand. How long has he been your stepfather?",
+                        "That\u0027s nice. When did you meet him?",
+                        "Oh no! That must be difficult.",
+                        "Really? Do you like him?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer saber se a mãe do seu amigo trabalha. Como você pergunta?",
+        "correctAnswer":  "Does your mother work?",
+        "options":  [
+                        "Does your mother work?",
+                        "Your mother does work?",
+                        "Does work your mother?",
+                        "Works your mother?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Alguém mencionou seus avós. Como você pergunta quantos netos eles têm?",
+        "correctAnswer":  "How many grandchildren do they have?",
+        "options":  [
+                        "How many grandchildren do they have?",
+                        "How many grandchildren they have?",
+                        "How many do they have grandchildren?",
+                        "Do they have how many grandchildren?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer saber se a filha de um amigo está na escola. Como você pergunta?",
+        "correctAnswer":  "Does your daughter go to school?",
+        "options":  [
+                        "Does your daughter go to school?",
+                        "Your daughter goes to school?",
+                        "Does go your daughter to school?",
+                        "Go your daughter to school?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Alguém diz que tem uma madrasta. Como você responde naturalmente?",
+        "correctAnswer":  "Oh, I see. Do you get along well with her?",
+        "options":  [
+                        "Oh, I see. Do you get along well with her?",
+                        "That must be hard for you.",
+                        "How did your parents divorce?",
+                        "Do you like your father more?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer saber a profissão do pai de um colega. Como você pergunta?",
+        "correctAnswer":  "What does your father do for work?",
+        "options":  [
+                        "What does your father do for work?",
+                        "What your father do?",
+                        "What does your father work?",
+                        "What your father does for work?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Alguém diz que acaba de ficar noivo. Como você responde com alegria?",
+        "correctAnswer":  "Congratulations! That\u0027s wonderful news!",
+        "options":  [
+                        "Congratulations! That\u0027s wonderful news!",
+                        "Oh no, that\u0027s too bad.",
+                        "Really? When will you break up?",
+                        "I\u0027m sorry to hear that."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer saber se um colega tem irmãos gêmeos. Como você pergunta?",
+        "correctAnswer":  "Do you have any twins in your family?",
+        "options":  [
+                        "Do you have any twins in your family?",
+                        "Do you have twins?",
+                        "Are you have twins?",
+                        "You have any twins in family?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Alguém mencionou que é filho único. Como você responde com interesse?",
+        "correctAnswer":  "That must be nice! Do you like being an only child?",
+        "options":  [
+                        "That must be nice! Do you like being an only child?",
+                        "That\u0027s unfortunate. You must be lonely.",
+                        "Only children are always spoiled.",
+                        "How many siblings do you have?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer saber sobre o genro de alguém. Como você pergunta?",
+        "correctAnswer":  "Tell me about your son-in-law.",
+        "options":  [
+                        "Tell me about your son-in-law.",
+                        "Tell me about your daughter\u0027s husband mother.",
+                        "Tell me who married your daughter.",
+                        "Tell me about your son married."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Alguém diz que tem uma relação distante com o pai. Como você mostra empatia?",
+        "correctAnswer":  "I\u0027m sorry to hear that. Do you want to talk about it?",
+        "options":  [
+                        "I\u0027m sorry to hear that. Do you want to talk about it?",
+                        "That\u0027s great news!",
+                        "You should just move away.",
+                        "Your father is probably right."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer saber sobre as responsabilidades familiares de alguém. Como você pergunta?",
+        "correctAnswer":  "Do you help with household chores?",
+        "options":  [
+                        "Do you help with household chores?",
+                        "Do you help your house?",
+                        "Are you helping with chores?",
+                        "Do you help the household?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Alguém mencionou problemas familiares. Como você oferece apoio apropriado?",
+        "correctAnswer":  "If you need someone to talk to, I\u0027m here for you.",
+        "options":  [
+                        "If you need someone to talk to, I\u0027m here for you.",
+                        "That\u0027s your problem to solve.",
+                        "You should just ignore them.",
+                        "Why don\u0027t you move out?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer saber sobre a dinâmica entre irmãos. Como você pergunta?",
+        "correctAnswer":  "How do you and your siblings get along?",
+        "options":  [
+                        "How do you and your siblings get along?",
+                        "Do you get along your siblings?",
+                        "How you with siblings get along?",
+                        "How get along your siblings with you?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Alguém diz que seus pais se divorciaram. Como você responde com sensibilidade?",
+        "correctAnswer":  "That must have been difficult for you. How are you doing now?",
+        "options":  [
+                        "That must have been difficult for you. How are you doing now?",
+                        "Divorce is common these days.",
+                        "Your parents will probably get back together.",
+                        "You should have tried to stop it."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer conhecer as características do cônjuge de alguém. Como você pergunta?",
+        "correctAnswer":  "What is your husband like?",
+        "options":  [
+                        "What is your husband like?",
+                        "What your husband is like?",
+                        "How is like your husband?",
+                        "What like is your husband?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Alguém mencionou um padrinho ou madrinha. Como você pergunta sobre essa relação?",
+        "correctAnswer":  "Are they close to your godparents?",
+        "options":  [
+                        "Are they close to your godparents?",
+                        "Is godparents are your?",
+                        "Are your godparents?",
+                        "Do you have much godparents?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer saber sobre as atividades que a família faz junta. Como você pergunta?",
+        "correctAnswer":  "What activities does your family enjoy together?",
+        "options":  [
+                        "What activities does your family enjoy together?",
+                        "What enjoy your family together?",
+                        "What does together your family enjoy?",
+                        "What together enjoy your family?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Alguém diz que mora longe de seus pais. Como você mostra compreensão?",
+        "correctAnswer":  "That must be hard. Do you get to see them often?",
+        "options":  [
+                        "That must be hard. Do you get to see them often?",
+                        "You\u0027re lucky to live far away.",
+                        "Your parents don\u0027t care about you.",
+                        "You should move back immediately."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer saber sobre relacionamentos amorosos de alguém. Como você pergunta discretamente?",
+        "correctAnswer":  "Are you seeing anyone special?",
+        "options":  [
+                        "Are you seeing anyone special?",
+                        "Do you have a girlfriend or boyfriend?",
+                        "Are you in love right now?",
+                        "Do you have romantic feelings?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Alguém diz que tem um relacionamento longo. Como você pergunta sobre seus planos?",
+        "correctAnswer":  "Are you thinking about getting married?",
+        "options":  [
+                        "Are you thinking about getting married?",
+                        "Do you marry?",
+                        "Will you get married?",
+                        "Do you plan marriage?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer saber sobre as tradições familiares de alguém. Como você pergunta?",
+        "correctAnswer":  "What family traditions are important to you?",
+        "options":  [
+                        "What family traditions are important to you?",
+                        "What traditions your family has?",
+                        "What are important traditions?",
+                        "What do you traditional family?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Alguém mencionou que é enteado. Como você mostra compreensão sobre sua situação familiar?",
+        "correctAnswer":  "I understand. How long has this been your family situation?",
+        "options":  [
+                        "I understand. How long has this been your family situation?",
+                        "That\u0027s unusual.",
+                        "You\u0027re not a real family member.",
+                        "How do you feel about that?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer saber sobre o relacionamento de alguém com a sogra. Como você pergunta?",
+        "correctAnswer":  "How do you get along with your mother-in-law?",
+        "options":  [
+                        "How do you get along with your mother-in-law?",
+                        "What is your mother-in-law like?",
+                        "Do you like your wife\u0027s mother?",
+                        "How is your mother-in-law?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Como você diz a alguém que seu irmão é mais velho que você?",
+        "difficulty":  "easy",
+        "options":  [
+                        "My brother is older than me.",
+                        "My brother is more old than me.",
+                        "My brother is older of me.",
+                        "My brother has more age than me."
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "My brother is older than me."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer perguntar quanto tempo uma pessoa está casada. Como você pergunta?",
+        "difficulty":  "medium",
+        "options":  [
+                        "When did you get married?",
+                        "How long are you married?",
+                        "Since when you are married?",
+                        "How married are you?"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "When did you get married?"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Alguém quer saber se você é primo de alguém. Como você responde que sim?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Yes, he is my cousin.",
+                        "Yes, he is my family.",
+                        "Yes, he is cousin to me.",
+                        "Yes, he is my cousin brother."
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Yes, he is my cousin."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Como você pergunta sobre a idade de uma pessoa de forma casual?",
+        "difficulty":  "medium",
+        "options":  [
+                        "How old are you?",
+                        "What age do you have?",
+                        "How many years do you have?",
+                        "What is your age number?"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "How old are you?"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Alguém diz que tem um padrinho famoso. Como você mostra interesse em saber mais?",
+        "difficulty":  "hard",
+        "options":  [
+                        "How did you get to know him?",
+                        "Tell me about your godfather.",
+                        "Where did you meet your godfather?",
+                        "Who is your godfather?"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "How did you get to know him?"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer saber se alguém planeja ter mais filhos. Como você pergunta discretamente?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Are you thinking of having more children?",
+                        "Do you want to have another child?",
+                        "Will you have more kids?",
+                        "How many more children do you want?"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Are you thinking of having more children?"
+    }
+]

@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "A regular exercise routine can help you ___ a healthy weight and improve your cardiovascular health.",
+        "correctAnswer":  "maintain",
+        "options":  [
+                        "maintain",
+                        "keep",
+                        "hold",
+                        "sustain"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "It\u0027s important to ___ your hands regularly to prevent the spread of bacteria and viruses.",
+        "correctAnswer":  "wash",
+        "options":  [
+                        "wash",
+                        "clean",
+                        "scrub",
+                        "rinse"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Getting enough ___ each night is essential for your body to recover and function properly.",
+        "correctAnswer":  "sleep",
+        "options":  [
+                        "sleep",
+                        "rest",
+                        "slumber",
+                        "nap"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Doctors recommend that adults ___ at least 150 minutes of moderate exercise per week.",
+        "correctAnswer":  "get",
+        "options":  [
+                        "get",
+                        "do",
+                        "perform",
+                        "undertake"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Eating a balanced diet rich in fruits and vegetables can ___ your risk of developing heart disease.",
+        "correctAnswer":  "reduce",
+        "options":  [
+                        "reduce",
+                        "lower",
+                        "decrease",
+                        "minimize"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Mental health is just as important as physical health, and we should not ___ its significance.",
+        "correctAnswer":  "overlook",
+        "options":  [
+                        "overlook",
+                        "ignore",
+                        "forget",
+                        "dismiss"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Regular check-ups with your doctor can help ___ health problems early.",
+        "correctAnswer":  "detect",
+        "options":  [
+                        "detect",
+                        "find",
+                        "discover",
+                        "identify"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "It\u0027s advisable to ___ sugary drinks and instead consume more water throughout the day.",
+        "correctAnswer":  "avoid",
+        "options":  [
+                        "avoid",
+                        "prevent",
+                        "refrain",
+                        "abstain"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Stress management techniques such as meditation can significantly ___ your overall well-being.",
+        "correctAnswer":  "improve",
+        "options":  [
+                        "improve",
+                        "enhance",
+                        "boost",
+                        "strengthen"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "A healthy lifestyle can ___ your life expectancy and quality of life in your later years.",
+        "correctAnswer":  "extend",
+        "options":  [
+                        "extend",
+                        "prolong",
+                        "lengthen",
+                        "increase"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Vaccines are designed to ___ your body against dangerous diseases and infections.",
+        "correctAnswer":  "protect",
+        "options":  [
+                        "protect",
+                        "guard",
+                        "shield",
+                        "defend"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Nutrition experts ___ consuming whole grains instead of refined carbohydrates for better health.",
+        "correctAnswer":  "recommend",
+        "options":  [
+                        "recommend",
+                        "suggest",
+                        "advise",
+                        "propose"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Dehydration can ___ dizziness, fatigue, and difficulty concentrating during the day.",
+        "correctAnswer":  "cause",
+        "options":  [
+                        "cause",
+                        "lead to",
+                        "result in",
+                        "create"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Physical activity should be ___ into your daily routine for optimal health benefits.",
+        "correctAnswer":  "incorporated",
+        "options":  [
+                        "incorporated",
+                        "integrated",
+                        "included",
+                        "built"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "A lack of physical activity can ___ to numerous health complications over time.",
+        "correctAnswer":  "contribute",
+        "options":  [
+                        "contribute",
+                        "lead",
+                        "add",
+                        "tend"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Proper nutrition ___ a crucial role in maintaining a strong immune system.",
+        "correctAnswer":  "plays",
+        "options":  [
+                        "plays",
+                        "takes",
+                        "holds",
+                        "carries"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Smoking can severely ___ your lungs and respiratory system over time.",
+        "correctAnswer":  "damage",
+        "options":  [
+                        "damage",
+                        "harm",
+                        "injure",
+                        "impair"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "According to recent studies, mindfulness meditation can effectively ___ blood pressure levels.",
+        "correctAnswer":  "lower",
+        "options":  [
+                        "lower",
+                        "reduce",
+                        "decrease",
+                        "diminish"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "The human body requires a wide range of vitamins and minerals to ___ optimally.",
+        "correctAnswer":  "function",
+        "options":  [
+                        "function",
+                        "operate",
+                        "work",
+                        "perform"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Chronic stress can ___ inflammation in the body and weaken immune response.",
+        "correctAnswer":  "trigger",
+        "options":  [
+                        "trigger",
+                        "provoke",
+                        "spark",
+                        "ignite"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Healthcare professionals ___ the importance of preventive care rather than treating illness.",
+        "correctAnswer":  "emphasize",
+        "options":  [
+                        "emphasize",
+                        "stress",
+                        "highlight",
+                        "underline"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Inadequate sleep can ___ your metabolism and make it harder to maintain weight.",
+        "correctAnswer":  "disrupt",
+        "options":  [
+                        "disrupt",
+                        "disturb",
+                        "interfere with",
+                        "interrupt"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "The benefits of regular exercise ___ far beyond just physical fitness and appearance.",
+        "correctAnswer":  "extend",
+        "options":  [
+                        "extend",
+                        "go",
+                        "reach",
+                        "spread"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Food allergies can ___ serious health risks if not properly managed and identified.",
+        "correctAnswer":  "pose",
+        "options":  [
+                        "pose",
+                        "present",
+                        "create",
+                        "generate"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Environmental pollution can ___ respiratory problems and other health complications.",
+        "correctAnswer":  "exacerbate",
+        "options":  [
+                        "exacerbate",
+                        "worsen",
+                        "aggravate",
+                        "intensify"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Mental health support should be ___ accessible to everyone regardless of economic status.",
+        "correctAnswer":  "equally",
+        "options":  [
+                        "equally",
+                        "fairly",
+                        "justly",
+                        "impartially"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Adopting a Mediterranean diet has been shown to ___ the risk of cardiovascular disease.",
+        "correctAnswer":  "diminish",
+        "options":  [
+                        "diminish",
+                        "lessen",
+                        "lower",
+                        "reduce"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Doctors often ___ patients to keep a health diary to track their symptoms and progress.",
+        "correctAnswer":  "advise",
+        "options":  [
+                        "advise",
+                        "counsel",
+                        "suggest",
+                        "propose"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Regular physical activity can significantly ___ the symptoms of depression and anxiety.",
+        "correctAnswer":  "alleviate",
+        "options":  [
+                        "alleviate",
+                        "relieve",
+                        "ease",
+                        "soothe"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Sedentary lifestyles have been ___ to various metabolic and cardiovascular disorders.",
+        "correctAnswer":  "linked",
+        "options":  [
+                        "linked",
+                        "connected",
+                        "associated",
+                        "related"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Healthcare systems must ___ on integrating mental health services into primary care.",
+        "correctAnswer":  "focus",
+        "options":  [
+                        "focus",
+                        "concentrate",
+                        "center",
+                        "prioritize"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Obesity can ___ numerous health complications, including diabetes and joint problems.",
+        "correctAnswer":  "precipitate",
+        "options":  [
+                        "precipitate",
+                        "trigger",
+                        "provoke",
+                        "induce"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "The immune system can be ___ by maintaining a healthy diet and getting adequate sleep.",
+        "correctAnswer":  "bolstered",
+        "options":  [
+                        "bolstered",
+                        "strengthened",
+                        "reinforced",
+                        "fortified"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Advanced medical imaging technologies have ___ our ability to diagnose diseases earlier.",
+        "correctAnswer":  "enhanced",
+        "options":  [
+                        "enhanced",
+                        "improved",
+                        "amplified",
+                        "increased"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Pharmaceutical research continues to ___ new treatments for previously incurable diseases.",
+        "correctAnswer":  "develop",
+        "options":  [
+                        "develop",
+                        "formulate",
+                        "devise",
+                        "create"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Holistic health approaches ___ the interconnection between physical, mental, and emotional well-being.",
+        "correctAnswer":  "recognize",
+        "options":  [
+                        "recognize",
+                        "acknowledge",
+                        "identify",
+                        "appreciate"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "The prevalence of lifestyle diseases has been ___ attributed to sedentary work environments.",
+        "correctAnswer":  "largely",
+        "options":  [
+                        "largely",
+                        "mostly",
+                        "chiefly",
+                        "primarily"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Genomic medicine has the potential to ___ treatment strategies based on individual genetic profiles.",
+        "correctAnswer":  "personalize",
+        "options":  [
+                        "personalize",
+                        "customize",
+                        "tailor",
+                        "adjust"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Epidemiological studies have ___ a strong correlation between smoking and lung cancer incidence.",
+        "correctAnswer":  "established",
+        "options":  [
+                        "established",
+                        "confirmed",
+                        "demonstrated",
+                        "verified"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Telemedicine platforms have ___ the accessibility of healthcare services to remote populations.",
+        "correctAnswer":  "revolutionized",
+        "options":  [
+                        "revolutionized",
+                        "transformed",
+                        "reformed",
+                        "overhauled"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "The cumulative effects of poor lifestyle choices can ___ into chronic health conditions.",
+        "correctAnswer":  "culminate",
+        "options":  [
+                        "culminate",
+                        "result",
+                        "develop",
+                        "manifest"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Bioethical considerations must ___ in all medical research involving human subjects.",
+        "correctAnswer":  "prevail",
+        "options":  [
+                        "prevail",
+                        "dominate",
+                        "supersede",
+                        "override"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Nutritional deficiencies can ___ cognitive development and academic performance in children.",
+        "correctAnswer":  "impede",
+        "options":  [
+                        "impede",
+                        "hinder",
+                        "obstruct",
+                        "impair"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Immunotherapy represents a paradigm shift in how we ___ malignant tumors and cancer cells.",
+        "correctAnswer":  "combat",
+        "options":  [
+                        "combat",
+                        "fight",
+                        "battle",
+                        "confront"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Healthcare professionals must ___ ethical principles when making decisions about end-of-life care.",
+        "correctAnswer":  "uphold",
+        "options":  [
+                        "uphold",
+                        "maintain",
+                        "sustain",
+                        "preserve"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Oxidative stress in cells can ___ the aging process and contribute to various diseases.",
+        "correctAnswer":  "accelerate",
+        "options":  [
+                        "accelerate",
+                        "speed up",
+                        "hasten",
+                        "quicken"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Psychosomatic illnesses ___ the complex relationship between psychological and physiological health.",
+        "correctAnswer":  "exemplify",
+        "options":  [
+                        "exemplify",
+                        "illustrate",
+                        "demonstrate",
+                        "show"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Antibiotic resistance has become a critical global health threat that we must ___ promptly.",
+        "correctAnswer":  "address",
+        "options":  [
+                        "address",
+                        "tackle",
+                        "confront",
+                        "resolve"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Modern epidemiology seeks to ___ the root causes of disease distribution in populations.",
+        "correctAnswer":  "elucidate",
+        "options":  [
+                        "elucidate",
+                        "clarify",
+                        "explain",
+                        "illuminate"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "saude",
+        "type":  "complete_sentence",
+        "questionText":  "Clinical trials must ___ rigorous protocols to ensure the validity and reproducibility of research findings.",
+        "difficulty":  "hard",
+        "options":  [
+                        "adhere to",
+                        "comply with",
+                        "conform to",
+                        "follow"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "adhere to"
+    }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você está em uma loja e quer saber o preço de um produto. O que você diz?",
+    "correctAnswer": "How much is this?",
+    "options": ["How much is this?", "Where is this?", "What is this?", "When is this?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer comprar uma maçã no mercado. O que você diz?",
+    "correctAnswer": "I want an apple, please.",
+    "options": ["I want an apple, please.", "I eat an apple, please.", "I see an apple, please.", "I have an apple, please."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O vendedor pergunta se você precisa de ajuda. Como você diz que não precisa?",
+    "correctAnswer": "No, thank you.",
+    "options": ["No, thank you.", "Yes, I need.", "No, I go.", "Yes, please not."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer pagar sua compra. O que você diz ao caixa?",
+    "correctAnswer": "I want to pay, please.",
+    "options": ["I want to pay, please.", "I want to go, please.", "I want to eat, please.", "I want to see, please."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você está em uma padaria e quer um pão. O que você pede?",
+    "correctAnswer": "One bread, please.",
+    "options": ["One bread, please.", "One milk, please.", "One apple, please.", "One water, please."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O vendedor diz o preço e você acha caro. Como você expressa isso de forma simples?",
+    "correctAnswer": "It's expensive!",
+    "options": ["It's expensive!", "It's good!", "It's small!", "It's big!"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber onde fica a seção de frutas no supermercado. O que você pergunta?",
+    "correctAnswer": "Where are the fruits?",
+    "options": ["Where are the fruits?", "What are the fruits?", "How are the fruits?", "When are the fruits?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer pagar com cartão de crédito. O que você pergunta?",
+    "correctAnswer": "Do you accept credit card?",
+    "options": ["Do you accept credit card?", "Do you have credit card?", "Do you buy credit card?", "Do you sell credit card?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O vendedor pergunta o que você quer. Como você responde que quer uma camisa?",
+    "correctAnswer": "I want a shirt.",
+    "options": ["I want a shirt.", "I see a shirt.", "I have a shirt.", "I like a shirt."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você achou o preço ótimo e quer dizer que está barato. O que você fala?",
+    "correctAnswer": "It's cheap!",
+    "options": ["It's cheap!", "It's tall!", "It's hard!", "It's fast!"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer dois litros de leite. Como você pede?",
+    "correctAnswer": "Two liters of milk, please.",
+    "options": ["Two liters of milk, please.", "Two liters of water, please.", "Two liters of juice, please.", "Two liters of coffee, please."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O vendedor pergunta se você quer um saco plástico. Como você diz que sim?",
+    "correctAnswer": "Yes, please.",
+    "options": ["Yes, please.", "No, I go.", "Yes, I am.", "No, thank you not."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber se a loja tem sapatos vermelhos. O que você pergunta?",
+    "correctAnswer": "Do you have red shoes?",
+    "options": ["Do you have red shoes?", "Do you see red shoes?", "Do you want red shoes?", "Do you buy red shoes?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O caixa te dá o troco. O que você diz para agradecer?",
+    "correctAnswer": "Thank you!",
+    "options": ["Thank you!", "Goodbye now!", "Sorry, no.", "Help me!"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber o horário de funcionamento da loja. O que você pergunta?",
+    "correctAnswer": "What time do you open?",
+    "options": ["What time do you open?", "What time do you eat?", "What time do you go?", "What time do you sleep?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer comprar três laranjas. Como você pede?",
+    "correctAnswer": "Three oranges, please.",
+    "options": ["Three oranges, please.", "Three apples, please.", "Three bananas, please.", "Three lemons, please."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer ao vendedor que não quer aquele produto. O que você fala?",
+    "correctAnswer": "I don't want this.",
+    "options": ["I don't want this.", "I don't see this.", "I don't have this.", "I don't like go."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você está em uma loja de roupas e quer saber se tem o seu tamanho. O que você pergunta?",
+    "correctAnswer": "Do you have my size?",
+    "options": ["Do you have my size?", "Do you have my color?", "Do you have my name?", "Do you have my price?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer experimentar uma calça antes de comprar. O que você pede?",
+    "correctAnswer": "Can I try this on?",
+    "options": ["Can I try this on?", "Can I buy this on?", "Can I see this on?", "Can I take this on?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você comprou um produto com defeito e quer devolvê-lo. O que você diz?",
+    "correctAnswer": "I want to return this.",
+    "options": ["I want to return this.", "I want to buy this.", "I want to keep this.", "I want to open this."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber se há desconto naquele produto. O que você pergunta?",
+    "correctAnswer": "Is there a discount?",
+    "options": ["Is there a discount?", "Is there a price?", "Is there a problem?", "Is there a color?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O vendedor pergunta se você vai pagar em dinheiro ou cartão. Como você diz que vai pagar em dinheiro?",
+    "correctAnswer": "I pay in cash.",
+    "options": ["I pay in cash.", "I pay in card.", "I pay in check.", "I pay in bank."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você está no caixa e percebe que não tem dinheiro suficiente. O que você diz?",
+    "correctAnswer": "I don't have enough money.",
+    "options": ["I don't have enough money.", "I don't have enough time.", "I don't have enough food.", "I don't have enough bags."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber se a loja aceita pagamento por PIX. O que você pergunta?",
+    "correctAnswer": "Do you accept PIX?",
+    "options": ["Do you accept PIX?", "Do you have PIX?", "Do you use PIX?", "Do you buy PIX?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer uma cor diferente para a blusa que achou. O que você pede ao vendedor?",
+    "correctAnswer": "Do you have this in blue?",
+    "options": ["Do you have this in blue?", "Do you want this in blue?", "Do you see this in blue?", "Do you buy this in blue?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber se a loja está aberta aos domingos. O que você pergunta?",
+    "correctAnswer": "Are you open on Sundays?",
+    "options": ["Are you open on Sundays?", "Are you closed on Sundays?", "Are you here on Sundays?", "Are you good on Sundays?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir ao vendedor para embrulhar o produto como presente. O que você diz?",
+    "correctAnswer": "Can you gift wrap this?",
+    "options": ["Can you gift wrap this?", "Can you open this?", "Can you sell this?", "Can you buy this?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber se o produto vem com garantia. O que você pergunta?",
+    "correctAnswer": "Does it have a warranty?",
+    "options": ["Does it have a warranty?", "Does it have a color?", "Does it have a bag?", "Does it have a name?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O vendedor diz o preço total. Como você pergunta se pode parcelar?",
+    "correctAnswer": "Can I pay in installments?",
+    "options": ["Can I pay in installments?", "Can I pay in cash only?", "Can I pay in the future?", "Can I pay in the bank?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer trocar um produto por outro tamanho. O que você diz?",
+    "correctAnswer": "I want to exchange this for a bigger size.",
+    "options": ["I want to exchange this for a bigger size.", "I want to buy this for a bigger size.", "I want to see this for a bigger size.", "I want to open this for a bigger size."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você está em uma loja e quer saber se aquele modelo de tênis ainda está disponível. O que você pergunta?",
+    "correctAnswer": "Is this model available?",
+    "options": ["Is this model available?", "Is this model expensive?", "Is this model old?", "Is this model new?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar se o produto está em promoção. O que você fala?",
+    "correctAnswer": "Is this on sale?",
+    "options": ["Is this on sale?", "Is this on buy?", "Is this on open?", "Is this on close?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir uma nota fiscal ao vendedor. O que você diz?",
+    "correctAnswer": "Can I have a receipt, please?",
+    "options": ["Can I have a receipt, please?", "Can I have a bag, please?", "Can I have a gift, please?", "Can I have a box, please?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber se a entrega está incluída no preço. O que você pergunta?",
+    "correctAnswer": "Is delivery included?",
+    "options": ["Is delivery included?", "Is delivery expensive?", "Is delivery free today?", "Is delivery available only?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você comprou um item errado e quer pedir reembolso. O que você diz?",
+    "correctAnswer": "I want a refund, please.",
+    "options": ["I want a refund, please.", "I want a buy, please.", "I want a sell, please.", "I want a bag, please."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer comparar dois produtos e perguntar qual é melhor. O que você diz?",
+    "correctAnswer": "Which one is better?",
+    "options": ["Which one is better?", "Which one is bigger?", "Which one is older?", "Which one is faster?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar ao vendedor qual produto ele recomenda. O que você fala?",
+    "correctAnswer": "What do you recommend?",
+    "options": ["What do you recommend?", "What do you sell?", "What do you buy?", "What do you see?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber se a loja faz entrega em domicílio. O que você pergunta?",
+    "correctAnswer": "Do you deliver to my home?",
+    "options": ["Do you deliver to my home?", "Do you open to my home?", "Do you sell to my home?", "Do you go to my home?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar qual é o prazo de entrega do produto. O que você diz?",
+    "correctAnswer": "How long does delivery take?",
+    "options": ["How long does delivery take?", "How much does delivery take?", "How many does delivery take?", "How far does delivery take?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber se existe uma versão mais barata do produto. Como você pergunta?",
+    "correctAnswer": "Do you have a cheaper option?",
+    "options": ["Do you have a cheaper option?", "Do you have a bigger option?", "Do you have a better option?", "Do you have a longer option?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber se o produto é feito de material natural. O que você pergunta?",
+    "correctAnswer": "Is this made of natural materials?",
+    "options": ["Is this made of natural materials?", "Is this made of new materials?", "Is this made of big materials?", "Is this made of good materials?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir ao vendedor para segurar um produto enquanto você pensa se vai comprar. O que você diz?",
+    "correctAnswer": "Can you hold this for me?",
+    "options": ["Can you hold this for me?", "Can you sell this for me?", "Can you open this for me?", "Can you buy this for me?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber se o produto pode ser devolvido se você não gostar. O que você pergunta?",
+    "correctAnswer": "Can I return it if I don't like it?",
+    "options": ["Can I return it if I don't like it?", "Can I buy it if I don't like it?", "Can I keep it if I don't like it?", "Can I open it if I don't like it?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar se há taxa de entrega para o seu endereço. O que você diz?",
+    "correctAnswer": "Is there a delivery fee to my address?",
+    "options": ["Is there a delivery fee to my address?", "Is there a delivery bag to my address?", "Is there a delivery time to my address?", "Is there a delivery box to my address?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber se existe um cupom de desconto disponível. O que você pergunta?",
+    "correctAnswer": "Do you have a discount coupon?",
+    "options": ["Do you have a discount coupon?", "Do you have a delivery coupon?", "Do you have a gift coupon?", "Do you have a price coupon?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar se pode pagar metade agora e o restante depois. O que você diz?",
+    "correctAnswer": "Can I pay half now and half later?",
+    "options": ["Can I pay half now and half later?", "Can I pay all now and none later?", "Can I pay now and not later?", "Can I pay later and not now?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber se a loja tem um programa de fidelidade. O que você pergunta?",
+    "correctAnswer": "Do you have a loyalty program?",
+    "options": ["Do you have a loyalty program?", "Do you have a delivery program?", "Do you have a discount program?", "Do you have a gift program?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar se o produto vem com manual em português. O que você diz?",
+    "correctAnswer": "Does it come with a manual in Portuguese?",
+    "options": ["Does it come with a manual in Portuguese?", "Does it come with a price in Portuguese?", "Does it come with a color in Portuguese?", "Does it come with a bag in Portuguese?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber se há alguma oferta especial hoje na loja. O que você pergunta?",
+    "correctAnswer": "Do you have any special offers today?",
+    "options": ["Do you have any special offers today?", "Do you have any special prices today?", "Do you have any special items today?", "Do you have any special bags today?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber até quando vai a promoção. Como você pergunta?",
+    "correctAnswer": "Until when is the sale?",
+    "options": ["Until when is the sale?", "Until when is the bag?", "Until when is the shop?", "Until when is the price?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar se o produto é novo ou recondicionado. O que você diz?",
+    "correctAnswer": "Is this new or refurbished?",
+    "options": ["Is this new or refurbished?", "Is this old or expensive?", "Is this big or small?", "Is this good or bad?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber se o produto que viu no site está disponível na loja física. O que você pergunta?",
+    "correctAnswer": "Do you have this product in store?",
+    "options": ["Do you have this product in store?", "Do you sell this product online?", "Do you buy this product in store?", "Do you open this product in store?"],
+    "difficulty": "hard"
+  }
+]

@@ -1,0 +1,707 @@
+[
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "O médico recomendou repouso absoluto após a cirurgia.",
+    "correctAnswer": "The doctor recommended complete bed rest after the surgery.",
+    "options": [
+      "The doctor recommended complete bed rest after the surgery.",
+      "The doctor suggested absolute rest after the operation.",
+      "The physician advised total repose following the surgical procedure.",
+      "The doctor ordered strict rest after the surgery."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Ela toma vitaminas todas as manhãs para fortalecer o sistema imunológico.",
+    "correctAnswer": "She takes vitamins every morning to strengthen her immune system.",
+    "options": [
+      "She takes vitamins every morning to strengthen her immune system.",
+      "She drinks vitamins every morning to reinforce the immunological system.",
+      "She consumes vitamins each morning to fortify her immunity system.",
+      "She ingests vitamins every morning to boost the immunological defense."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "É fundamental manter uma alimentação equilibrada para ter boa saúde.",
+    "correctAnswer": "It is essential to maintain a balanced diet to enjoy good health.",
+    "options": [
+      "It is essential to maintain a balanced diet to enjoy good health.",
+      "It is fundamental to keep a balanced feeding for having good health.",
+      "It is crucial to maintain a balanced alimentation to preserve good health.",
+      "It is necessary to sustain a balanced nutrition to obtain good health."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "O paciente apresentou melhora significativa após iniciar o tratamento.",
+    "correctAnswer": "The patient showed significant improvement after starting treatment.",
+    "options": [
+      "The patient showed significant improvement after starting treatment.",
+      "The patient presented significant improvement after beginning the treatment.",
+      "The patient demonstrated significant betterment after initiating the treatment.",
+      "The patient exhibited significant recovery after commencing the treatment."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Praticar exercícios físicos regularmente reduz o risco de doenças cardíacas.",
+    "correctAnswer": "Exercising regularly reduces the risk of heart disease.",
+    "options": [
+      "Exercising regularly reduces the risk of heart disease.",
+      "Practicing physical exercises regularly diminishes the risk of cardiac diseases.",
+      "Doing regular physical exercises decreases the cardiac disease risks.",
+      "Performing exercises on a regular basis lowers the chances of heart illnesses."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "O estresse prolongado pode afetar negativamente a saúde mental.",
+    "correctAnswer": "Prolonged stress can negatively affect mental health.",
+    "options": [
+      "Prolonged stress can negatively affect mental health.",
+      "Extended stress may affect negatively the mental health.",
+      "Long-lasting stress can damage negatively the mental wellbeing.",
+      "Continuous stress could negatively impact the health of the mind."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A vacinação é a forma mais eficaz de prevenir certas doenças infecciosas.",
+    "correctAnswer": "Vaccination is the most effective way to prevent certain infectious diseases.",
+    "options": [
+      "Vaccination is the most effective way to prevent certain infectious diseases.",
+      "Vaccinaton is the most efficient manner to prevent some infectious illnesses.",
+      "Immunization is the most efficacious form to avoid certain infectious diseases.",
+      "Vaccination is the best way to protect against several infectious diseases."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Dormir bem é indispensável para a recuperação do organismo.",
+    "correctAnswer": "Getting enough sleep is indispensable for the body's recovery.",
+    "options": [
+      "Getting enough sleep is indispensable for the body's recovery.",
+      "Sleeping well is indispensable to recover the organism.",
+      "Having good sleep is essential for the organism to recuperate.",
+      "Sleeping properly is fundamental for bodily recuperation."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "O consumo excessivo de sal está associado ao aumento da pressão arterial.",
+    "correctAnswer": "Excessive salt intake is associated with high blood pressure.",
+    "options": [
+      "Excessive salt intake is associated with high blood pressure.",
+      "The excessive consumption of salt is associated to the increase of arterial pressure.",
+      "Too much salt ingestion is linked to the elevation of blood pressure.",
+      "Overly consuming salt is related to arterial hypertension increases."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A higiene das mãos é uma medida simples, porém extremamente eficaz na prevenção de infecções.",
+    "correctAnswer": "Hand hygiene is a simple yet extremely effective measure in preventing infections.",
+    "options": [
+      "Hand hygiene is a simple yet extremely effective measure in preventing infections.",
+      "The hygiene of hands is a simple, but extremely efficient measure in the prevention of infections.",
+      "Washing hands is a simple, although very effective method against infection prevention.",
+      "Hand sanitation is a basic measure but extremely efficacious to prevent infections."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Os exames preventivos são essenciais para o diagnóstico precoce de doenças.",
+    "correctAnswer": "Preventive check-ups are essential for the early diagnosis of diseases.",
+    "options": [
+      "Preventive check-ups are essential for the early diagnosis of diseases.",
+      "The preventive examinations are essential for early diagnosis of illnesses.",
+      "Preventative exams are fundamental for the premature diagnosis of sicknesses.",
+      "Screening tests are essential for the preliminary detection of health conditions."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Beber bastante água ao longo do dia ajuda a manter o corpo hidratado.",
+    "correctAnswer": "Drinking plenty of water throughout the day helps keep the body hydrated.",
+    "options": [
+      "Drinking plenty of water throughout the day helps keep the body hydrated.",
+      "Drinking a lot of water during the day helps to maintain the body hydrated.",
+      "Consuming enough water along the day assists in keeping the organism moisturized.",
+      "Ingesting sufficient water over the course of the day helps sustain bodily hydration."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "O sedentarismo é considerado um dos principais fatores de risco para doenças crônicas.",
+    "correctAnswer": "A sedentary lifestyle is considered one of the main risk factors for chronic diseases.",
+    "options": [
+      "A sedentary lifestyle is considered one of the main risk factors for chronic diseases.",
+      "Sedentarism is considered one of the principal risk factors for chronic illnesses.",
+      "Physical inactivity is one of the most important risk factors for long-term diseases.",
+      "Being sedentary is seen as a main factor of risk for chronic health conditions."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A obesidade pode levar ao desenvolvimento de diversas complicações metabólicas.",
+    "correctAnswer": "Obesity can lead to the development of various metabolic complications.",
+    "options": [
+      "Obesity can lead to the development of various metabolic complications.",
+      "Obesity may take to the development of diverse metabolic complications.",
+      "Being obese can result in the developing of several metabolic complications.",
+      "Obesity might cause the emergence of many metabolic-related complications."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A saúde bucal está diretamente relacionada à saúde geral do organismo.",
+    "correctAnswer": "Oral health is directly related to the overall health of the body.",
+    "options": [
+      "Oral health is directly related to the overall health of the body.",
+      "Buccal health is directly related to the general health of the organism.",
+      "Dental health is directly connected with the complete health of the body.",
+      "Mouth health is directly linked to the total wellbeing of the organism."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Médicos recomendam que adultos façam pelo menos 150 minutos de atividade física moderada por semana.",
+    "correctAnswer": "Doctors recommend that adults get at least 150 minutes of moderate physical activity per week.",
+    "options": [
+      "Doctors recommend that adults get at least 150 minutes of moderate physical activity per week.",
+      "Physicians recommend that adults do at minimum 150 minutes of moderate physical activities weekly.",
+      "Doctors advise that adults practice at least 150 minutes of moderate exercises per week.",
+      "Medical professionals suggest that adults perform no less than 150 minutes of physical activity a week."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "O tabagismo é responsável por milhões de mortes evitáveis a cada ano no mundo.",
+    "correctAnswer": "Smoking is responsible for millions of preventable deaths every year worldwide.",
+    "options": [
+      "Smoking is responsible for millions of preventable deaths every year worldwide.",
+      "Tobacco smoking is responsible for millions of avoidable deaths each year in the world.",
+      "Cigarette addiction is responsible for millions of preventable deaths annually worldwide.",
+      "Tobacco use is accountable for millions of deaths that could be avoided globally each year."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A ansiedade crônica pode manifestar-se por meio de sintomas físicos como palpitações e falta de ar.",
+    "correctAnswer": "Chronic anxiety can manifest through physical symptoms such as palpitations and shortness of breath.",
+    "options": [
+      "Chronic anxiety can manifest through physical symptoms such as palpitations and shortness of breath.",
+      "Chronic anxiety may manifest itself by means of physical symptoms like palpitations and lack of air.",
+      "Persistent anxiety can show itself through bodily symptoms as palpitations and breath shortness.",
+      "Long-term anxiety might be expressed through physical manifestations including heartbeat and breathlessness."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A epigenética demonstra que fatores ambientais podem influenciar a expressão gênica sem alterar a sequência do DNA.",
+    "correctAnswer": "Epigenetics shows that environmental factors can influence gene expression without altering the DNA sequence.",
+    "options": [
+      "Epigenetics shows that environmental factors can influence gene expression without altering the DNA sequence.",
+      "Epigenetics demonstrates that environmental elements may influence the genetic expression without changing the DNA sequence.",
+      "Epigenetics proves that ambient factors can influence gene expression without modifying the DNA sequence.",
+      "The science of epigenetics shows that environmental factors may affect genetic expression without changing the DNA chain."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Os transtornos musculoesqueléticos relacionados ao trabalho têm aumentado entre profissionais que utilizam computadores por longas horas.",
+    "correctAnswer": "Work-related musculoskeletal disorders have been increasing among professionals who use computers for long hours.",
+    "options": [
+      "Work-related musculoskeletal disorders have been increasing among professionals who use computers for long hours.",
+      "Musculoskeletal disorders related to work have been augmenting among professionals that use computers for long periods.",
+      "Work-connected muscle and skeleton disorders have been growing among workers that utilize computers for extended hours.",
+      "Occupational musculoskeletal conditions have been rising between professionals who operate computers for prolonged durations."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A disbiose intestinal pode comprometer a absorção de nutrientes e prejudicar a resposta imunológica.",
+    "correctAnswer": "Gut dysbiosis can compromise nutrient absorption and impair immune response.",
+    "options": [
+      "Gut dysbiosis can compromise nutrient absorption and impair immune response.",
+      "Intestinal dysbiosis may compromise the absorption of nutrients and damage the immunological response.",
+      "Dysbiosis of the gut can harm nutrient assimilation and deteriorate the immune system response.",
+      "Intestinal imbalance can compromise nutritional absorption and weaken the body's immunological defenses."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A terapia cognitivo-comportamental tem se mostrado eficaz no tratamento de transtornos de ansiedade e depressão.",
+    "correctAnswer": "Cognitive-behavioral therapy has proven effective in treating anxiety disorders and depression.",
+    "options": [
+      "Cognitive-behavioral therapy has proven effective in treating anxiety disorders and depression.",
+      "Cognitive-behavioral therapy has shown itself effective in the treatment of anxiety and depression disorders.",
+      "Behavioral-cognitive therapy has been demonstrated efficient in treating anxiety disorders and depressive conditions.",
+      "Cognitive and behavioral therapy has evidenced effectiveness in treating anxiety disturbances and depression."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "O envelhecimento saudável depende de uma combinação de fatores genéticos, ambientais e comportamentais.",
+    "correctAnswer": "Healthy aging depends on a combination of genetic, environmental, and behavioral factors.",
+    "options": [
+      "Healthy aging depends on a combination of genetic, environmental, and behavioral factors.",
+      "Healthy ageing depends on a combination of genetical, environmental, and behavioral factors.",
+      "Wholesome aging relies on a combination of genetic, ambient, and behavioral factors.",
+      "Healthy getting old depends on a combination of genetic, environmental, and behavioural components."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "As doenças autoimunes ocorrem quando o sistema imunológico ataca equivocadamente os próprios tecidos do organismo.",
+    "correctAnswer": "Autoimmune diseases occur when the immune system mistakenly attacks the body's own tissues.",
+    "options": [
+      "Autoimmune diseases occur when the immune system mistakenly attacks the body's own tissues.",
+      "Autoimmune illnesses happen when the immunological system mistakenly attacks the organism's own tissues.",
+      "Self-immune diseases occur when the defense system erroneously attacks the body's own tissues.",
+      "Autoimmune conditions happen when the immune system incorrectly attacks the organism's personal tissues."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A resistência antimicrobiana representa uma das maiores ameaças à saúde pública global no século XXI.",
+    "correctAnswer": "Antimicrobial resistance represents one of the greatest threats to global public health in the 21st century.",
+    "options": [
+      "Antimicrobial resistance represents one of the greatest threats to global public health in the 21st century.",
+      "Antimicrobial resistance represents one of the biggest threats to the world public health in the 21st century.",
+      "Antibiotic resistance represents one of the greatest menaces for the global public health in the 21st century.",
+      "Microbial resistance represents one of the major threats to global health in the twenty-first century."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A meditação mindfulness tem demonstrado reduzir os níveis de cortisol e promover o equilíbrio emocional.",
+    "correctAnswer": "Mindfulness meditation has been shown to reduce cortisol levels and promote emotional balance.",
+    "options": [
+      "Mindfulness meditation has been shown to reduce cortisol levels and promote emotional balance.",
+      "Mindfulness meditation has demonstrated to diminish cortisol levels and promote emotional balance.",
+      "Attention meditation has shown to reduce cortisol levels and to promote emotional equilibrium.",
+      "Mindfulness practice has been proven to lower cortisol levels and foster emotional wellbeing."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A síndrome metabólica engloba um conjunto de fatores de risco que aumentam a probabilidade de doenças cardiovasculares.",
+    "correctAnswer": "Metabolic syndrome encompasses a cluster of risk factors that increase the likelihood of cardiovascular disease.",
+    "options": [
+      "Metabolic syndrome encompasses a cluster of risk factors that increase the likelihood of cardiovascular disease.",
+      "The metabolic syndrome encompasses a set of risk factors that augment the probability of cardiovascular diseases.",
+      "Metabolic syndrome includes a group of risk factors that raise the probability of heart and vascular diseases.",
+      "Metabolic syndrome covers a range of risk factors that heighten the chances of cardiovascular complications."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A falta de sono adequado compromete as funções cognitivas e aumenta o risco de acidentes.",
+    "correctAnswer": "Lack of adequate sleep impairs cognitive function and increases the risk of accidents.",
+    "options": [
+      "Lack of adequate sleep impairs cognitive function and increases the risk of accidents.",
+      "The lack of adequate sleeping compromises cognitive functions and augments the risk of accidents.",
+      "Insufficient sleep harms cognitive functioning and increases the accident risk.",
+      "Absence of proper sleep compromises mental functions and raises the probability of accidents."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "O diagnóstico precoce do câncer aumenta consideravelmente as chances de sucesso no tratamento.",
+    "correctAnswer": "Early diagnosis of cancer considerably increases the chances of successful treatment.",
+    "options": [
+      "Early diagnosis of cancer considerably increases the chances of successful treatment.",
+      "The early diagnosis of cancer increases considerably the chances of success in the treatment.",
+      "Premature diagnosis of cancer augments substantially the chances of treatment success.",
+      "Early detection of cancer significantly heightens the prospects for successful therapy."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A interação entre genética e estilo de vida é determinante para a longevidade saudável.",
+    "correctAnswer": "The interplay between genetics and lifestyle is a key determinant of healthy longevity.",
+    "options": [
+      "The interplay between genetics and lifestyle is a key determinant of healthy longevity.",
+      "The interaction between genetics and lifestyle is determinant for healthy longevity.",
+      "The relation between genetic inheritance and lifestyle determines healthy long life.",
+      "The interrelation of genetics and living habits is decisive in achieving a long healthy life."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Pesquisas sugerem que o microbioma intestinal desempenha um papel fundamental na regulação do humor e da cognição.",
+    "correctAnswer": "Research suggests that the gut microbiome plays a fundamental role in regulating mood and cognition.",
+    "options": [
+      "Research suggests that the gut microbiome plays a fundamental role in regulating mood and cognition.",
+      "Researches suggest that the intestinal microbiome plays a fundamental role in the regulation of mood and cognition.",
+      "Studies propose that the intestinal microbiome performs a fundamental function in regulating humor and cognition.",
+      "Scientific research suggests that the gut microbiota plays an essential role in mood and cognitive regulation."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A inflamação sistêmica de baixo grau está implicada na patogênese de diversas doenças crônicas não transmissíveis.",
+    "correctAnswer": "Low-grade systemic inflammation is implicated in the pathogenesis of several non-communicable chronic diseases.",
+    "options": [
+      "Low-grade systemic inflammation is implicated in the pathogenesis of several non-communicable chronic diseases.",
+      "Systemic low-grade inflammation is implicated in the pathogenesis of diverse non-transmissible chronic diseases.",
+      "Mild systemic inflammation is involved in the pathogenesis of various chronic non-transmissible diseases.",
+      "Low-level systemic inflammation plays a role in the pathogenesis of multiple chronic non-communicable diseases."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A farmacocinética descreve como o organismo absorve, distribui, metaboliza e excreta substâncias medicamentosas.",
+    "correctAnswer": "Pharmacokinetics describes how the body absorbs, distributes, metabolizes, and excretes medicinal substances.",
+    "options": [
+      "Pharmacokinetics describes how the body absorbs, distributes, metabolizes, and excretes medicinal substances.",
+      "Pharmacokinetics describes how the organism absorbs, distributes, metabolizes, and excretes drug substances.",
+      "Pharmacokinetics explains how the body absorbs, distributes, transforms, and eliminates medicinal substances.",
+      "Pharmacokinetics describes the way the body ingests, distributes, metabolizes, and expels pharmacological substances."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A senescência celular, outrora vista apenas como um mecanismo protetor contra o câncer, é hoje reconhecida como contribuinte para o envelhecimento tecidual.",
+    "correctAnswer": "Cellular senescence, once viewed solely as a protective mechanism against cancer, is now recognized as a contributor to tissue aging.",
+    "options": [
+      "Cellular senescence, once viewed solely as a protective mechanism against cancer, is now recognized as a contributor to tissue aging.",
+      "Cell senescence, once seen only as a protective mechanism against cancer, is nowadays recognized as contributing to tissue aging.",
+      "Cellular senescence, formerly perceived as just a protective mechanism against cancer, is today acknowledged as a contributor to tissue ageing.",
+      "Cellular aging, once regarded exclusively as a protective mechanism against cancer, is currently recognized as a factor in tissue deterioration."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A homeostase glicêmica é mantida por meio de um intrincado sistema de retroalimentação hormonal envolvendo insulina e glucagon.",
+    "correctAnswer": "Glycemic homeostasis is maintained through an intricate hormonal feedback system involving insulin and glucagon.",
+    "options": [
+      "Glycemic homeostasis is maintained through an intricate hormonal feedback system involving insulin and glucagon.",
+      "Glycemic homeostasis is maintained by means of an intricate system of hormonal feedback involving insulin and glucagon.",
+      "Blood sugar homeostasis is sustained through a complex hormonal feedback system encompassing insulin and glucagon.",
+      "Glycemic balance is maintained through an intricate hormonal retro-alimentation system involving insulin and glucagon."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A neuroplasticidade permite que o cérebro reorganize suas conexões sinápticas em resposta a experiências e lesões.",
+    "correctAnswer": "Neuroplasticity allows the brain to reorganize its synaptic connections in response to experiences and injuries.",
+    "options": [
+      "Neuroplasticity allows the brain to reorganize its synaptic connections in response to experiences and injuries.",
+      "Neuroplasticity permits the brain to reorganize its synaptic connections in response to experiences and injuries.",
+      "Neuroplasticity enables the brain to rearrange its synaptic connections in response to experiences and traumas.",
+      "Brain plasticity allows the brain to reorganize its synaptic connections as a response to experiences and lesions."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A polimorbidade representa um desafio crescente para os sistemas de saúde, exigindo abordagens de cuidado centradas no paciente.",
+    "correctAnswer": "Multimorbidity represents a growing challenge for health systems, requiring patient-centered care approaches.",
+    "options": [
+      "Multimorbidity represents a growing challenge for health systems, requiring patient-centered care approaches.",
+      "Polymorbidity represents a growing challenge for health systems, requiring patient-centered care approaches.",
+      "Multimorbidity represents an increasing challenge for healthcare systems, demanding patient-focused care approaches.",
+      "The coexistence of multiple diseases represents a growing challenge for health systems, demanding patient-centered care models."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Os telômeros encurtam a cada divisão celular, e sua erosão progressiva é considerada um marcador biológico do envelhecimento.",
+    "correctAnswer": "Telomeres shorten with each cell division, and their progressive erosion is considered a biological marker of aging.",
+    "options": [
+      "Telomeres shorten with each cell division, and their progressive erosion is considered a biological marker of aging.",
+      "Telomeres shorten at each cellular division, and their progressive erosion is considered a biological marker of aging.",
+      "Telomeres become shorter with each cell division, and their gradual erosion is considered a biological marker of aging.",
+      "Telomeres diminish with each cell division, and their progressive deterioration is considered a biological indicator of aging."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A medicina de precisão visa adaptar tratamentos às características moleculares individuais de cada paciente, superando as limitações das abordagens terapêuticas convencionais.",
+    "correctAnswer": "Precision medicine aims to tailor treatments to the individual molecular characteristics of each patient, overcoming the limitations of conventional therapeutic approaches.",
+    "options": [
+      "Precision medicine aims to tailor treatments to the individual molecular characteristics of each patient, overcoming the limitations of conventional therapeutic approaches.",
+      "Precision medicine aims to adapt treatments to the individual molecular characteristics of each patient, surpassing the limitations of conventional therapeutic approaches.",
+      "Precision medicine seeks to customize treatments according to each patient's individual molecular characteristics, transcending the limitations of conventional therapy.",
+      "Personalized medicine intends to tailor treatments to individual molecular characteristics of patients, overcoming the constraints of conventional treatment approaches."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A eixo intestino-cérebro é mediado por vias neurais, endócrinas e imunológicas que permitem uma comunicação bidirecional contínua.",
+    "correctAnswer": "The gut-brain axis is mediated by neural, endocrine, and immunological pathways that enable continuous bidirectional communication.",
+    "options": [
+      "The gut-brain axis is mediated by neural, endocrine, and immunological pathways that enable continuous bidirectional communication.",
+      "The intestine-brain axis is mediated by neural, endocrine, and immunological pathways that allow a continuous bidirectional communication.",
+      "The gut-brain axis is regulated by neural, endocrine, and immune pathways that enable continuous two-way communication.",
+      "The gut-brain connection is mediated by neurological, hormonal, and immunological pathways that allow ongoing bidirectional communication."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A apoptose é um processo de morte celular programada essencial para o desenvolvimento normal e para a manutenção da homeostase tecidual.",
+    "correctAnswer": "Apoptosis is a programmed cell death process essential for normal development and the maintenance of tissue homeostasis.",
+    "options": [
+      "Apoptosis is a programmed cell death process essential for normal development and the maintenance of tissue homeostasis.",
+      "Apoptosis is a programmed cellular death process essential for normal development and for maintenance of tissue homeostasis.",
+      "Apoptosis is a process of programmed cell death essential for normal development and for preserving tissue homeostasis.",
+      "Apoptosis is a form of programmed cell death vital for normal development and crucial to sustaining tissue homeostatic balance."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A modulação do sistema endocanabinoide tem despertado interesse terapêutico no manejo da dor crônica e dos transtornos do humor.",
+    "correctAnswer": "Modulation of the endocannabinoid system has generated therapeutic interest in managing chronic pain and mood disorders.",
+    "options": [
+      "Modulation of the endocannabinoid system has generated therapeutic interest in managing chronic pain and mood disorders.",
+      "The modulation of the endocannabinoid system has aroused therapeutic interest in the management of chronic pain and humor disorders.",
+      "Modulating the endocannabinoid system has sparked therapeutic interest in the handling of chronic pain and mood disturbances.",
+      "Endocannabinoid system modulation has raised therapeutic interest in controlling chronic pain conditions and mood-related disorders."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A imunoterapia contra o câncer aproveita a capacidade do sistema imunológico do próprio paciente para identificar e destruir células tumorais.",
+    "correctAnswer": "Cancer immunotherapy harnesses the patient's own immune system to identify and destroy tumor cells.",
+    "options": [
+      "Cancer immunotherapy harnesses the patient's own immune system to identify and destroy tumor cells.",
+      "Cancer immunotherapy takes advantage of the patient's own immune system to identify and destroy tumor cells.",
+      "Immunotherapy against cancer leverages the patient's own immune system capacity to identify and eliminate tumor cells.",
+      "Cancer immunotherapy exploits the patient's own immune system to recognize and destroy tumoral cells."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A exposição crônica a poluentes ambientais tem sido correlacionada com maior incidência de doenças respiratórias e cardiovasculares.",
+    "correctAnswer": "Chronic exposure to environmental pollutants has been correlated with a higher incidence of respiratory and cardiovascular diseases.",
+    "options": [
+      "Chronic exposure to environmental pollutants has been correlated with a higher incidence of respiratory and cardiovascular diseases.",
+      "Chronic exposure to environmental pollutants has been correlated to a greater incidence of respiratory and cardiovascular illnesses.",
+      "Long-term exposure to environmental pollutants has been associated with higher incidence of respiratory and cardiovascular diseases.",
+      "Chronic exposure to ambient pollutants has been related to an increased incidence of respiratory and heart diseases."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A desnutrição proteico-energética compromete gravemente a resposta imune e retarda a cicatrização de feridas.",
+    "correctAnswer": "Protein-energy malnutrition severely compromises immune response and delays wound healing.",
+    "options": [
+      "Protein-energy malnutrition severely compromises immune response and delays wound healing.",
+      "Protein-caloric malnutrition gravely compromises the immune response and delays the healing of wounds.",
+      "Protein and energy malnutrition severely impairs the immune response and slows wound healing.",
+      "Protein-energy undernutrition seriously compromises immune response and hinders the cicatrization of wounds."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "O conceito de saúde planetária reconhece a interdependência entre a saúde humana e a integridade dos ecossistemas terrestres.",
+    "correctAnswer": "The concept of planetary health recognizes the interdependence between human health and the integrity of Earth's ecosystems.",
+    "options": [
+      "The concept of planetary health recognizes the interdependence between human health and the integrity of Earth's ecosystems.",
+      "The concept of planetary health recognizes the interdependency between human health and the integrity of terrestrial ecosystems.",
+      "The planetary health concept acknowledges the interdependence between human health and the health of terrestrial ecosystems.",
+      "The concept of global health recognizes the interdependence between human wellbeing and the integrity of the Earth's ecological systems."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A síndrome de burnout é reconhecida pela OMS como um fenômeno ocupacional resultante do estresse crônico no trabalho não gerenciado com sucesso.",
+    "correctAnswer": "Burnout syndrome is recognized by the WHO as an occupational phenomenon resulting from chronic workplace stress that has not been successfully managed.",
+    "options": [
+      "Burnout syndrome is recognized by the WHO as an occupational phenomenon resulting from chronic workplace stress that has not been successfully managed.",
+      "Burnout syndrome is recognized by the WHO as an occupational phenomenon resulting from chronic work stress not managed with success.",
+      "Burnout syndrome is acknowledged by the WHO as a work-related phenomenon resulting from chronic occupational stress that was not properly managed.",
+      "Burnout disorder is recognized by the WHO as an occupational phenomenon arising from chronic work-related stress that has been unsuccessfully managed."
+    ],
+    "difficulty": "hard"
+  }
+]

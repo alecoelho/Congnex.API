@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Seu colega chega atrasado na reunião. O que você diz?",
+        "correctAnswer":  "Hi! You\u0027\u0027\u0027re a bit late.",
+        "options":  [
+                        "Hi! You\u0027\u0027\u0027re a bit late.",
+                        "Why did you come here?",
+                        "You always come early.",
+                        "Can you leave now?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como você se apresenta no primeiro dia de trabalho?",
+        "correctAnswer":  "Hi, my name is Sarah.",
+        "options":  [
+                        "Hi, my name is Sarah.",
+                        "I work here now forever.",
+                        "Do you know me?",
+                        "What\u0027\u0027\u0027s your problem?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Seu chefe pergunta se você pode fazer um projeto. Como você responde afirmativamente?",
+        "correctAnswer":  "Yes, I can do that.",
+        "options":  [
+                        "Yes, I can do that.",
+                        "No, that\u0027\u0027\u0027s bad.",
+                        "I don\u0027\u0027\u0027t want to work.",
+                        "Can you ask again?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como você pede permissão ao seu chefe para sair mais cedo?",
+        "correctAnswer":  "Can I leave early today?",
+        "options":  [
+                        "Can I leave early today?",
+                        "I\u0027\u0027\u0027m going home now.",
+                        "Do you like me?",
+                        "When can you work?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a melhor forma de cumprimentar seu chefe pela manhã?",
+        "correctAnswer":  "Good morning.",
+        "options":  [
+                        "Good morning.",
+                        "Wake up!",
+                        "How are your hands?",
+                        "Do you sleep?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Um colega oferece ajuda. Como você responde positivamente?",
+        "correctAnswer":  "Thank you very much.",
+        "options":  [
+                        "Thank you very much.",
+                        "No, go away.",
+                        "I don\u0027\u0027\u0027t like you.",
+                        "That\u0027\u0027\u0027s a bad idea."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como você pergunta a hora de uma reunião?",
+        "correctAnswer":  "What time is the meeting?",
+        "options":  [
+                        "What time is the meeting?",
+                        "When is you?",
+                        "Do you have a clock?",
+                        "What time are you?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como você pede informações sobre um projeto?",
+        "correctAnswer":  "Can you tell me about the project?",
+        "options":  [
+                        "Can you tell me about the project?",
+                        "The project is good.",
+                        "Do you know projects?",
+                        "Is the project here?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Um colega comete um erro. Como você avisa educadamente?",
+        "correctAnswer":  "I think there\u0027\u0027\u0027s a small mistake.",
+        "options":  [
+                        "I think there\u0027\u0027\u0027s a small mistake.",
+                        "You are very stupid.",
+                        "This is completely wrong.",
+                        "You don\u0027\u0027\u0027t know anything."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como você expressa sua opinião em uma reunião?",
+        "correctAnswer":  "I think that\u0027\u0027\u0027s a good idea.",
+        "options":  [
+                        "I think that\u0027\u0027\u0027s a good idea.",
+                        "Your idea is bad.",
+                        "I don\u0027\u0027\u0027t care about it.",
+                        "That\u0027\u0027\u0027s impossible."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como você responde quando perguntam sobre sua experiência de trabalho?",
+        "correctAnswer":  "I have worked here for two years.",
+        "options":  [
+                        "I have worked here for two years.",
+                        "I work every day.",
+                        "Working is good.",
+                        "I don\u0027\u0027\u0027t remember."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como você pede uma pausa no trabalho?",
+        "correctAnswer":  "Can I take a break?",
+        "options":  [
+                        "Can I take a break?",
+                        "I\u0027\u0027\u0027m stopping now.",
+                        "Breaks are bad.",
+                        "Do you take breaks?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como você responde quando alguém diz \u0027\u0027\u0027obrigado\u0027\u0027\u0027 pelo seu trabalho?",
+        "correctAnswer":  "You\u0027\u0027\u0027re welcome.",
+        "options":  [
+                        "You\u0027\u0027\u0027re welcome.",
+                        "Thank you too.",
+                        "I didn\u0027\u0027\u0027t help.",
+                        "That\u0027\u0027\u0027s not true."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como você explica que não entendeu uma instrução?",
+        "correctAnswer":  "I don\u0027\u0027\u0027t understand. Can you explain again?",
+        "options":  [
+                        "I don\u0027\u0027\u0027t understand. Can you explain again?",
+                        "That\u0027\u0027\u0027s very clear.",
+                        "I know everything.",
+                        "Don\u0027\u0027\u0027t talk to me."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como você oferece ajuda a um colega ocupado?",
+        "correctAnswer":  "Do you need help?",
+        "options":  [
+                        "Do you need help?",
+                        "You\u0027\u0027\u0027re too busy.",
+                        "I\u0027\u0027\u0027m very busy too.",
+                        "Stop working now."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como você responde quando seu chefe pergunta se você está pronto para apresentar?",
+        "correctAnswer":  "Yes, I\u0027\u0027\u0027m ready.",
+        "options":  [
+                        "Yes, I\u0027\u0027\u0027m ready.",
+                        "I\u0027\u0027\u0027m very tired.",
+                        "No, I hate it.",
+                        "Can I go home?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como você pede para trabalhar com um colega em um projeto?",
+        "correctAnswer":  "Can we work together on this project?",
+        "options":  [
+                        "Can we work together on this project?",
+                        "I prefer to work alone.",
+                        "We can\u0027\u0027\u0027t work together.",
+                        "What do you do?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a melhor resposta quando alguém diz \u0027\u0027\u0027Como você está?\u0027\u0027\u0027?",
+        "correctAnswer":  "I\u0027\u0027\u0027m fine, thank you. How are you?",
+        "options":  [
+                        "I\u0027\u0027\u0027m fine, thank you. How are you?",
+                        "I\u0027\u0027\u0027m working.",
+                        "My job is good.",
+                        "Why do you ask?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como você solicita um dia de folga profissionalmente?",
+        "correctAnswer":  "Could I have a day off next week?",
+        "options":  [
+                        "Could I have a day off next week?",
+                        "I\u0027\u0027\u0027m not coming tomorrow.",
+                        "Holidays are important.",
+                        "When is the break?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como você responde positivamente a um feedback crítico do chefe?",
+        "correctAnswer":  "Thank you for the feedback. I\u0027\u0027\u0027ll improve.",
+        "options":  [
+                        "Thank you for the feedback. I\u0027\u0027\u0027ll improve.",
+                        "Your feedback is wrong.",
+                        "I don\u0027\u0027\u0027t care about it.",
+                        "That\u0027\u0027\u0027s impossible to fix."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como você pergunta sobre o horário de trabalho no seu primeiro dia?",
+        "correctAnswer":  "What time do I start and finish?",
+        "options":  [
+                        "What time do I start and finish?",
+                        "When do you work?",
+                        "I like the morning.",
+                        "Is this job good?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como você comunica que precisa fazer uma chamada rápida?",
+        "correctAnswer":  "I need to make a quick call. Is that okay?",
+        "options":  [
+                        "I need to make a quick call. Is that okay?",
+                        "I\u0027\u0027\u0027m calling someone.",
+                        "Phones are important.",
+                        "Do you have a phone?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como você responde quando alguém diz \u0027\u0027\u0027Você pode ficar até mais tarde?\u0027\u0027\u0027?",
+        "correctAnswer":  "Yes, I can stay late today.",
+        "options":  [
+                        "Yes, I can stay late today.",
+                        "I have to leave now.",
+                        "Late work is bad.",
+                        "Why do you ask?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como você introduz um novo colega a outro colega?",
+        "correctAnswer":  "This is John. He\u0027\u0027\u0027s a new team member.",
+        "options":  [
+                        "This is John. He\u0027\u0027\u0027s a new team member.",
+                        "John is here now.",
+                        "Do you know John?",
+                        "John is my friend."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como você pede desculpas por um atraso no trabalho?",
+        "correctAnswer":  "I\u0027\u0027\u0027m sorry I\u0027\u0027\u0027m late. I had a problem.",
+        "options":  [
+                        "I\u0027\u0027\u0027m sorry I\u0027\u0027\u0027m late. I had a problem.",
+                        "I\u0027\u0027\u0027m always late.",
+                        "Being late is good.",
+                        "Why do you care?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como você responde quando lhe perguntam sobre suas habilidades?",
+        "correctAnswer":  "I\u0027\u0027\u0027m good at computers and writing.",
+        "options":  [
+                        "I\u0027\u0027\u0027m good at computers and writing.",
+                        "I have no skills.",
+                        "Skills are not important.",
+                        "Everyone is talented."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como você pede para trabalhar de casa?",
+        "correctAnswer":  "Could I work from home tomorrow?",
+        "options":  [
+                        "Could I work from home tomorrow?",
+                        "I want to stay home.",
+                        "Home is better.",
+                        "Why go to the office?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como você responde quando alguém pergunta qual é sua carreira?",
+        "correctAnswer":  "I\u0027\u0027\u0027m an engineer and I like my job.",
+        "options":  [
+                        "I\u0027\u0027\u0027m an engineer and I like my job.",
+                        "I work every day.",
+                        "My job is very hard.",
+                        "I don\u0027\u0027\u0027t know my job."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como você expressa que está ocupado e não pode atender?",
+        "correctAnswer":  "I\u0027\u0027\u0027m busy right now. Can I call you later?",
+        "options":  [
+                        "I\u0027\u0027\u0027m busy right now. Can I call you later?",
+                        "I\u0027\u0027\u0027m free always.",
+                        "Call me now.",
+                        "I don\u0027\u0027\u0027t want to talk."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como você responde quando perguntam se você completou uma tarefa?",
+        "correctAnswer":  "Yes, I finished it this morning.",
+        "options":  [
+                        "Yes, I finished it this morning.",
+                        "I\u0027\u0027\u0027m working on it now.",
+                        "It\u0027\u0027\u0027s very difficult.",
+                        "I can\u0027\u0027\u0027t do it."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como você demonstra interesse em um novo projeto?",
+        "correctAnswer":  "That sounds interesting. Can you tell me more?",
+        "options":  [
+                        "That sounds interesting. Can you tell me more?",
+                        "I don\u0027\u0027\u0027t like projects.",
+                        "Projects are boring.",
+                        "No thank you."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como você responde quando seu chefe pergunta se você tem sugestões?",
+        "correctAnswer":  "Yes, I have an idea for the presentation.",
+        "options":  [
+                        "Yes, I have an idea for the presentation.",
+                        "I have no ideas.",
+                        "Ideas are useless.",
+                        "Don\u0027\u0027\u0027t ask me."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como você responde quando alguém oferece ajuda no seu trabalho?",
+        "correctAnswer":  "That would be great. Thank you for offering.",
+        "options":  [
+                        "That would be great. Thank you for offering.",
+                        "I don\u0027\u0027\u0027t need help.",
+                        "Help is useless.",
+                        "Why would you help?"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como você comunica um problema técnico ao departamento de TI?",
+        "correctAnswer":  "I have a problem with my computer. Can you help?",
+        "options":  [
+                        "I have a problem with my computer. Can you help?",
+                        "My computer is broken forever.",
+                        "Technology is bad.",
+                        "Computers don\u0027\u0027\u0027t work."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como você responde quando alguém faz uma pergunta em uma reunião e você não tem certeza?",
+        "correctAnswer":  "I\u0027\u0027\u0027m not completely sure, but I think...",
+        "options":  [
+                        "I\u0027\u0027\u0027m not completely sure, but I think...",
+                        "I know everything about that.",
+                        "That\u0027\u0027\u0027s a stupid question.",
+                        "I don\u0027\u0027\u0027t know anything."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como você pede uma recapitulação durante uma conversa de trabalho?",
+        "correctAnswer":  "Could you repeat that, please? I want to understand better.",
+        "options":  [
+                        "Could you repeat that, please? I want to understand better.",
+                        "You talk too fast.",
+                        "I understand everything.",
+                        "Speak normally."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como você responde quando seu chefe pergunta sobre seu progresso em uma tarefa?",
+        "correctAnswer":  "I\u0027\u0027\u0027m making good progress. I should finish by Friday.",
+        "options":  [
+                        "I\u0027\u0027\u0027m making good progress. I should finish by Friday.",
+                        "It\u0027\u0027\u0027s going slow.",
+                        "I don\u0027\u0027\u0027t know when I\u0027\u0027\u0027ll finish.",
+                        "Progress is slow always."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como você sugere uma reunião com alguém?",
+        "correctAnswer":  "Could we meet next Tuesday to discuss this?",
+        "options":  [
+                        "Could we meet next Tuesday to discuss this?",
+                        "We need to meet now.",
+                        "Meetings are not important.",
+                        "I can\u0027\u0027\u0027t meet you."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como você responde quando alguém oferece uma promoção?",
+        "correctAnswer":  "Thank you very much. I\u0027\u0027\u0027m excited about this opportunity.",
+        "options":  [
+                        "Thank you very much. I\u0027\u0027\u0027m excited about this opportunity.",
+                        "I don\u0027\u0027\u0027t want it.",
+                        "Promotions are bad.",
+                        "Why me?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como você comunica que precisa de mais informações para completar uma tarefa?",
+        "correctAnswer":  "I need more information before I can finish this task.",
+        "options":  [
+                        "I need more information before I can finish this task.",
+                        "I have all I need.",
+                        "Information is not important.",
+                        "I can do it without details."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como você responde quando seu chefe diz que há um problema com seu trabalho?",
+        "correctAnswer":  "I understand. Can you tell me what\u0027\u0027\u0027s wrong so I can fix it?",
+        "options":  [
+                        "I understand. Can you tell me what\u0027\u0027\u0027s wrong so I can fix it?",
+                        "There\u0027\u0027\u0027s no problem.",
+                        "Your feedback is wrong.",
+                        "I don\u0027\u0027\u0027t care about it."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como você expressa que concorda com uma ideia em uma reunião?",
+        "correctAnswer":  "That\u0027\u0027\u0027s a very good point. I agree with you.",
+        "options":  [
+                        "That\u0027\u0027\u0027s a very good point. I agree with you.",
+                        "I don\u0027\u0027\u0027t like that idea.",
+                        "That\u0027\u0027\u0027s completely wrong.",
+                        "I disagree completely."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como você pede para assistir a um treinamento ou workshop?",
+        "correctAnswer":  "I\u0027\u0027\u0027d like to attend the training course next month.",
+        "options":  [
+                        "I\u0027\u0027\u0027d like to attend the training course next month.",
+                        "Trainings are a waste of time.",
+                        "I don\u0027\u0027\u0027t want to learn.",
+                        "Why do you ask?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como você responde quando alguém diz \u0027\u0027\u0027Você tem experiência com...?\u0027\u0027\u0027?",
+        "correctAnswer":  "Yes, I have some experience with that. I can help.",
+        "options":  [
+                        "Yes, I have some experience with that. I can help.",
+                        "I have no experience.",
+                        "Experience is not needed.",
+                        "Why do you need to know?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como você comunica que terá que se ausentar da reunião?",
+        "correctAnswer":  "I\u0027\u0027\u0027m sorry, but I have to leave early for another meeting.",
+        "options":  [
+                        "I\u0027\u0027\u0027m sorry, but I have to leave early for another meeting.",
+                        "I\u0027\u0027\u0027m leaving now.",
+                        "This meeting is boring.",
+                        "Goodbye everyone."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como você responde quando perguntam sobre seus planos de carreira?",
+        "correctAnswer":  "I want to develop my skills and become a manager in the future.",
+        "options":  [
+                        "I want to develop my skills and become a manager in the future.",
+                        "I have no plans.",
+                        "Career is not important.",
+                        "I just work."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como você pede desculpas por um erro no relatório?",
+        "correctAnswer":  "I apologize for the mistake in the report. I\u0027\u0027\u0027ll fix it right away.",
+        "options":  [
+                        "I apologize for the mistake in the report. I\u0027\u0027\u0027ll fix it right away.",
+                        "The report is perfect.",
+                        "Mistakes don\u0027\u0027\u0027t matter.",
+                        "Why did you check it?"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como você responde quando alguém pede sua opinião sobre um documento?",
+        "correctAnswer":  "Let me read it first and then I can give you my thoughts.",
+        "options":  [
+                        "Let me read it first and then I can give you my thoughts.",
+                        "It\u0027\u0027\u0027s probably good.",
+                        "Documents are boring.",
+                        "I don\u0027\u0027\u0027t read documents."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como você solicita uma extensão de prazo para um projeto?",
+        "correctAnswer":  "Could I have more time to finish this project?",
+        "options":  [
+                        "Could I have more time to finish this project?",
+                        "I need forever to finish.",
+                        "Deadlines are not real.",
+                        "I can\u0027\u0027\u0027t manage time."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "trabalho",
+        "type":  "multiple_choice",
+        "questionText":  "Como você responde quando seu colega oferece feedback sobre seu trabalho?",
+        "correctAnswer":  "Thank you for your feedback. That\u0027\u0027\u0027s really helpful.",
+        "options":  [
+                        "Thank you for your feedback. That\u0027\u0027\u0027s really helpful.",
+                        "Your feedback is wrong.",
+                        "I don\u0027\u0027\u0027t need feedback.",
+                        "Why are you checking my work?"
+                    ],
+        "difficulty":  "hard"
+    }
+]

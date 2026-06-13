@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Como se chama a refeição principal do meio do dia?",
+        "correctAnswer":  "Lunch",
+        "options":  [
+                        "Breakfast",
+                        "Lunch",
+                        "Dinner",
+                        "Snack"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a palavra em inglês para a primeira refeição do dia?",
+        "correctAnswer":  "Breakfast",
+        "options":  [
+                        "Breakfast",
+                        "Lunch",
+                        "Supper",
+                        "Brunch"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027pão\u0027 em inglês?",
+        "correctAnswer":  "Bread",
+        "options":  [
+                        "Butter",
+                        "Bread",
+                        "Breakfast",
+                        "Plate"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual palavra significa \u0027maçã\u0027?",
+        "correctAnswer":  "Apple",
+        "options":  [
+                        "Orange",
+                        "Apple",
+                        "Grape",
+                        "Banana"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Como se chama a bebida feita de leite e frutas?",
+        "correctAnswer":  "Smoothie",
+        "options":  [
+                        "Juice",
+                        "Smoothie",
+                        "Soda",
+                        "Coffee"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027água\u0027 em inglês?",
+        "correctAnswer":  "Water",
+        "options":  [
+                        "Wine",
+                        "Water",
+                        "Juice",
+                        "Tea"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Como se traduz \u0027carne\u0027 para o inglês?",
+        "correctAnswer":  "Meat",
+        "options":  [
+                        "Fish",
+                        "Meat",
+                        "Chicken",
+                        "Bread"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a palavra em inglês para \u0027ovos\u0027?",
+        "correctAnswer":  "Eggs",
+        "options":  [
+                        "Eggs",
+                        "Milk",
+                        "Cheese",
+                        "Butter"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027arroz\u0027 em inglês?",
+        "correctAnswer":  "Rice",
+        "options":  [
+                        "Rice",
+                        "Beans",
+                        "Pasta",
+                        "Potatoes"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027sal\u0027 em inglês?",
+        "correctAnswer":  "Salt",
+        "options":  [
+                        "Pepper",
+                        "Salt",
+                        "Sugar",
+                        "Spice"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Como se traduz \u0027leite\u0027 para o inglês?",
+        "correctAnswer":  "Milk",
+        "options":  [
+                        "Water",
+                        "Milk",
+                        "Juice",
+                        "Tea"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a palavra em inglês para \u0027queijo\u0027?",
+        "correctAnswer":  "Cheese",
+        "options":  [
+                        "Bread",
+                        "Cheese",
+                        "Butter",
+                        "Milk"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Como se chama \u0027fruta\u0027 em inglês?",
+        "correctAnswer":  "Fruit",
+        "options":  [
+                        "Vegetable",
+                        "Fruit",
+                        "Meat",
+                        "Fish"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027garfo\u0027 em inglês?",
+        "correctAnswer":  "Fork",
+        "options":  [
+                        "Fork",
+                        "Spoon",
+                        "Knife",
+                        "Plate"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027café\u0027 em inglês?",
+        "correctAnswer":  "Coffee",
+        "options":  [
+                        "Tea",
+                        "Coffee",
+                        "Juice",
+                        "Water"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027açúcar\u0027 para o inglês?",
+        "correctAnswer":  "Sugar",
+        "options":  [
+                        "Salt",
+                        "Sugar",
+                        "Pepper",
+                        "Spice"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Como se chama \u0027peixe\u0027 em inglês?",
+        "correctAnswer":  "Fish",
+        "options":  [
+                        "Fish",
+                        "Meat",
+                        "Chicken",
+                        "Beef"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027sopa\u0027 em inglês?",
+        "correctAnswer":  "Soup",
+        "options":  [
+                        "Soup",
+                        "Salad",
+                        "Stew",
+                        "Sauce"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Como se traduz \u0027verdura\u0027 ou \u0027legume\u0027 para o inglês?",
+        "correctAnswer":  "Vegetable",
+        "options":  [
+                        "Vegetable",
+                        "Salad",
+                        "Fruit",
+                        "Herb"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a palavra em inglês para \u0027manteiga\u0027?",
+        "correctAnswer":  "Butter",
+        "options":  [
+                        "Butter",
+                        "Oil",
+                        "Cream",
+                        "Margarine"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027banana\u0027 em inglês?",
+        "correctAnswer":  "Banana",
+        "options":  [
+                        "Banana",
+                        "Orange",
+                        "Apple",
+                        "Lemon"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027colher\u0027 (utensílio) em inglês?",
+        "correctAnswer":  "Spoon",
+        "options":  [
+                        "Fork",
+                        "Spoon",
+                        "Knife",
+                        "Plate"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Como se traduz \u0027faca\u0027 para o inglês?",
+        "correctAnswer":  "Knife",
+        "options":  [
+                        "Fork",
+                        "Spoon",
+                        "Knife",
+                        "Plate"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a palavra em inglês para \u0027chá\u0027?",
+        "correctAnswer":  "Tea",
+        "options":  [
+                        "Tea",
+                        "Coffee",
+                        "Juice",
+                        "Water"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Como se chama \u0027vinho\u0027 em inglês?",
+        "correctAnswer":  "Wine",
+        "options":  [
+                        "Wine",
+                        "Beer",
+                        "Juice",
+                        "Water"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027cerveja\u0027 em inglês?",
+        "correctAnswer":  "Beer",
+        "options":  [
+                        "Wine",
+                        "Beer",
+                        "Juice",
+                        "Water"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Como se traduz \u0027suco\u0027 (de fruta) para o inglês?",
+        "correctAnswer":  "Juice",
+        "options":  [
+                        "Juice",
+                        "Water",
+                        "Tea",
+                        "Soda"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a palavra em inglês para \u0027prato\u0027?",
+        "correctAnswer":  "Plate",
+        "options":  [
+                        "Fork",
+                        "Spoon",
+                        "Knife",
+                        "Plate"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027copo\u0027 em inglês?",
+        "correctAnswer":  "Glass",
+        "options":  [
+                        "Glass",
+                        "Cup",
+                        "Mug",
+                        "Bowl"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027xícara\u0027 em inglês?",
+        "correctAnswer":  "Cup",
+        "options":  [
+                        "Glass",
+                        "Cup",
+                        "Mug",
+                        "Bowl"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Como se traduz \u0027bacia\u0027 ou \u0027tigela\u0027 para o inglês?",
+        "correctAnswer":  "Bowl",
+        "options":  [
+                        "Glass",
+                        "Cup",
+                        "Mug",
+                        "Bowl"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a palavra em inglês para \u0027laranja\u0027?",
+        "correctAnswer":  "Orange",
+        "options":  [
+                        "Orange",
+                        "Lemon",
+                        "Lime",
+                        "Grape"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Como se chama \u0027limão\u0027 em inglês?",
+        "correctAnswer":  "Lemon",
+        "options":  [
+                        "Lemon",
+                        "Lime",
+                        "Orange",
+                        "Grape"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027melancia\u0027 em inglês?",
+        "correctAnswer":  "Watermelon",
+        "options":  [
+                        "Watermelon",
+                        "Melon",
+                        "Peach",
+                        "Pear"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Como se traduz \u0027melão\u0027 para o inglês?",
+        "correctAnswer":  "Melon",
+        "options":  [
+                        "Watermelon",
+                        "Melon",
+                        "Peach",
+                        "Pear"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a palavra em inglês para \u0027pêssego\u0027?",
+        "correctAnswer":  "Peach",
+        "options":  [
+                        "Watermelon",
+                        "Melon",
+                        "Peach",
+                        "Pear"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027pera\u0027 em inglês?",
+        "correctAnswer":  "Pear",
+        "options":  [
+                        "Watermelon",
+                        "Melon",
+                        "Peach",
+                        "Pear"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027uva\u0027 em inglês?",
+        "correctAnswer":  "Grape",
+        "options":  [
+                        "Grape",
+                        "Strawberry",
+                        "Blueberry",
+                        "Raspberry"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Como se traduz \u0027morango\u0027 para o inglês?",
+        "correctAnswer":  "Strawberry",
+        "options":  [
+                        "Grape",
+                        "Strawberry",
+                        "Blueberry",
+                        "Raspberry"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a palavra em inglês para \u0027frango\u0027?",
+        "correctAnswer":  "Chicken",
+        "options":  [
+                        "Chicken",
+                        "Turkey",
+                        "Duck",
+                        "Goose"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Como se chama \u0027peru\u0027 em inglês?",
+        "correctAnswer":  "Turkey",
+        "options":  [
+                        "Chicken",
+                        "Turkey",
+                        "Duck",
+                        "Goose"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027pato\u0027 em inglês?",
+        "correctAnswer":  "Duck",
+        "options":  [
+                        "Chicken",
+                        "Turkey",
+                        "Duck",
+                        "Goose"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Como se traduz \u0027vaca\u0027 ou \u0027carne de vaca\u0027 para o inglês?",
+        "correctAnswer":  "Beef",
+        "options":  [
+                        "Beef",
+                        "Pork",
+                        "Lamb",
+                        "Veal"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a palavra em inglês para \u0027porco\u0027 ou \u0027carne de porco\u0027?",
+        "correctAnswer":  "Pork",
+        "options":  [
+                        "Beef",
+                        "Pork",
+                        "Lamb",
+                        "Veal"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027cordeiro\u0027 em inglês?",
+        "correctAnswer":  "Lamb",
+        "options":  [
+                        "Beef",
+                        "Pork",
+                        "Lamb",
+                        "Veal"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027batata\u0027 em inglês?",
+        "correctAnswer":  "Potato",
+        "options":  [
+                        "Potato",
+                        "Carrot",
+                        "Celery",
+                        "Onion"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Como se traduz \u0027cenoura\u0027 para o inglês?",
+        "correctAnswer":  "Carrot",
+        "options":  [
+                        "Potato",
+                        "Carrot",
+                        "Celery",
+                        "Onion"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a palavra em inglês para \u0027cebola\u0027?",
+        "correctAnswer":  "Onion",
+        "options":  [
+                        "Potato",
+                        "Carrot",
+                        "Celery",
+                        "Onion"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a palavra em inglês para \u0027feijão\u0027?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Beans",
+                        "Lentils",
+                        "Peas",
+                        "Chickpeas"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Beans"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027receita\u0027 em inglês?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Recipe",
+                        "Menu",
+                        "Meal",
+                        "Dish"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Recipe"
+    }
+]

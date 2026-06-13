@@ -1,0 +1,512 @@
+[
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'The new smartphone model comes with a built-in ___ that allows users to make contactless payments.'",
+    "correctAnswer": "NFC chip",
+    "options": ["NFC chip", "GPS sensor", "infrared port", "optical drive"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'You should regularly ___ your operating system to protect against security vulnerabilities.'",
+    "correctAnswer": "update",
+    "options": ["update", "reboot", "format", "compress"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'She stored all her vacation photos in the ___ so she could access them from any device.'",
+    "correctAnswer": "cloud",
+    "options": ["cloud", "cache", "kernel", "registry"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'The website uses ___ encryption to ensure that sensitive data transmitted between the browser and server remains private.'",
+    "correctAnswer": "SSL",
+    "options": ["SSL", "USB", "RAM", "CPU"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'Please make sure to ___ your work before closing the application so you don't lose any changes.'",
+    "correctAnswer": "save",
+    "options": ["save", "paste", "scroll", "launch"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'The developer pushed the latest code changes to the ___ repository so the team could review them.'",
+    "correctAnswer": "remote",
+    "options": ["remote", "local", "virtual", "serial"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'A ___ is a malicious program that replicates itself and spreads to other computers without the user's knowledge.'",
+    "correctAnswer": "virus",
+    "options": ["virus", "cookie", "plugin", "widget"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'He used a ___ to block unwanted incoming connections and protect his home network.'",
+    "correctAnswer": "firewall",
+    "options": ["firewall", "browser", "router", "modem"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'The tech company announced that its new laptop has a battery life of over 12 hours on a single ___.'",
+    "correctAnswer": "charge",
+    "options": ["charge", "reboot", "update", "download"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'The IT team set up a ___ network so employees could work remotely without compromising company data.'",
+    "correctAnswer": "VPN",
+    "options": ["VPN", "LAN", "DNS", "USB"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'You can use a ___ to organize your files into categories and make them easier to locate on your hard drive.'",
+    "correctAnswer": "folder",
+    "options": ["folder", "script", "thread", "socket"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'The ___ bar at the top of the browser allows you to type in a web address and navigate to different sites.'",
+    "correctAnswer": "address",
+    "options": ["address", "status", "scroll", "menu"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'The company decided to ___ its outdated servers and replace them with more efficient cloud-based solutions.'",
+    "correctAnswer": "decommission",
+    "options": ["decommission", "relaunch", "subscribe", "monitor"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'After the system crash, the engineers worked around the clock to ___ all the lost data from the backup.'",
+    "correctAnswer": "recover",
+    "options": ["recover", "encrypt", "compile", "render"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'The app requires users to enable ___ authentication, which sends a verification code to their phone.'",
+    "correctAnswer": "two-factor",
+    "options": ["two-factor", "open-source", "peer-to-peer", "end-to-end"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'The software engineer used a ___ environment to test new features before deploying them to the live server.'",
+    "correctAnswer": "sandbox",
+    "options": ["sandbox", "kernel", "gateway", "daemon"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'The company launched a ___ program that rewards users for identifying and reporting security flaws in its software.'",
+    "correctAnswer": "bug bounty",
+    "options": ["bug bounty", "open beta", "stress test", "patch cycle"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'The new framework offers a highly ___ architecture, allowing developers to add or remove components without disrupting the core system.'",
+    "correctAnswer": "modular",
+    "options": ["modular", "volatile", "sequential", "centralized"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'The data pipeline was redesigned to handle ___ processing, enabling real-time analysis of incoming streams.'",
+    "correctAnswer": "concurrent",
+    "options": ["concurrent", "sequential", "isolated", "deferred"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'Developers rely on ___ versioning to track changes over time and collaborate efficiently on large codebases.'",
+    "correctAnswer": "semantic",
+    "options": ["semantic", "binary", "hybrid", "passive"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'The API relies on ___ authentication tokens that expire after a short period to minimize security risks.'",
+    "correctAnswer": "ephemeral",
+    "options": ["ephemeral", "static", "recursive", "compiled"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'The platform was designed with a ___ approach, ensuring that services can be independently deployed and scaled.'",
+    "correctAnswer": "microservices",
+    "options": ["microservices", "monolithic", "sequential", "compiled"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'The team adopted a ___ deployment strategy, gradually rolling out the update to a small subset of users before a full release.'",
+    "correctAnswer": "canary",
+    "options": ["canary", "hotfix", "legacy", "parallel"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'To improve performance, the engineers implemented ___ caching, storing frequently accessed data closer to the end user.'",
+    "correctAnswer": "edge",
+    "options": ["edge", "proxy", "kernel", "native"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'The company uses ___ computing to distribute processing tasks across multiple machines, improving efficiency and reliability.'",
+    "correctAnswer": "distributed",
+    "options": ["distributed", "embedded", "peripheral", "sequential"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'The application crashed due to a ___ leak, which caused the system to run out of available memory over time.'",
+    "correctAnswer": "memory",
+    "options": ["memory", "socket", "buffer", "syntax"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'By implementing ___ load balancing, the infrastructure team ensured that traffic was evenly distributed across all available servers.'",
+    "correctAnswer": "dynamic",
+    "options": ["dynamic", "static", "passive", "deferred"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'The IoT devices communicate using a lightweight ___ protocol designed specifically for constrained networks with low bandwidth.'",
+    "correctAnswer": "MQTT",
+    "options": ["MQTT", "HTTP", "SMTP", "FTP"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'The software team followed a ___ development cycle, allowing them to continuously integrate and deliver updates to production.'",
+    "correctAnswer": "CI/CD",
+    "options": ["CI/CD", "Scrum", "Waterfall", "Kanban"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'The server uses ___ hashing to store passwords in a way that is computationally expensive to reverse.'",
+    "correctAnswer": "bcrypt",
+    "options": ["bcrypt", "Base64", "MD5", "ASCII"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'The engineers introduced ___ testing to automatically verify that new code changes do not break previously working features.'",
+    "correctAnswer": "regression",
+    "options": ["regression", "unit", "manual", "benchmark"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'The application's ___ layer was refactored to decouple business logic from data access, improving maintainability.'",
+    "correctAnswer": "abstraction",
+    "options": ["abstraction", "compilation", "rendering", "encryption"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'The cybersecurity analyst identified a ___ injection vulnerability that could allow attackers to manipulate database queries.'",
+    "correctAnswer": "SQL",
+    "options": ["SQL", "CSS", "DNS", "RAM"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'The team used ___ diagrams to model the interactions between objects in the software system before writing any code.'",
+    "correctAnswer": "UML",
+    "options": ["UML", "RGB", "API", "JSON"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'The startup's entire infrastructure runs on ___ containers, making it trivial to replicate the production environment locally.'",
+    "correctAnswer": "Docker",
+    "options": ["Docker", "Maven", "Jenkins", "Gradle"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'The ___ pattern was implemented to ensure that only one instance of the configuration manager exists throughout the application's lifecycle.'",
+    "correctAnswer": "Singleton",
+    "options": ["Singleton", "Observer", "Decorator", "Facade"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'The system's resilience was enhanced by applying ___ engineering principles, deliberately introducing failures to test recovery mechanisms.'",
+    "correctAnswer": "chaos",
+    "options": ["chaos", "reactive", "functional", "imperative"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'The data warehouse leverages ___ processing to handle massive analytical queries by breaking them into parallel tasks across a cluster.'",
+    "correctAnswer": "MPP",
+    "options": ["MPP", "ORM", "RPC", "SPA"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'To prevent ___ attacks, the API enforces strict rate limiting and validates the origin of every cross-domain request.'",
+    "correctAnswer": "CSRF",
+    "options": ["CSRF", "DHCP", "RAID", "SMTP"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'The platform adopted an ___ architecture, in which components communicate via events rather than direct method calls, improving scalability.'",
+    "correctAnswer": "event-driven",
+    "options": ["event-driven", "tightly-coupled", "batch-oriented", "request-response"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'The search engine uses an ___ index to allow full-text queries to run in near-constant time regardless of dataset size.'",
+    "correctAnswer": "inverted",
+    "options": ["inverted", "relational", "composite", "clustered"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'The team applied ___ decomposition to break down a large monolith into independent services aligned with business capabilities.'",
+    "correctAnswer": "domain-driven",
+    "options": ["domain-driven", "test-driven", "behavior-driven", "data-driven"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'To guarantee ___ consistency across distributed nodes, the database uses a two-phase commit protocol for critical transactions.'",
+    "correctAnswer": "strong",
+    "options": ["strong", "eventual", "lazy", "causal"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'The compiler performs ___ analysis to detect variables that are assigned but never used, flagging potential logic errors at build time.'",
+    "correctAnswer": "static",
+    "options": ["static", "runtime", "lexical", "semantic"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'The security team implemented ___ obfuscation to make it harder for reverse engineers to understand the application's proprietary logic.'",
+    "correctAnswer": "control-flow",
+    "options": ["control-flow", "data-layer", "schema-level", "network-based"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'The cloud provider's ___ agreement guarantees 99.99% uptime, with financial penalties imposed if availability falls below that threshold.'",
+    "correctAnswer": "SLA",
+    "options": ["SLA", "ORM", "CDN", "ACL"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'The observability stack was extended with ___ tracing to follow a single request as it propagated through dozens of microservices.'",
+    "correctAnswer": "distributed",
+    "options": ["distributed", "sequential", "passive", "monolithic"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'The system's ___ backpressure mechanism prevents producers from overwhelming consumers by dynamically throttling the message ingestion rate.'",
+    "correctAnswer": "reactive",
+    "options": ["reactive", "imperative", "synchronous", "stateless"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'The team configured a ___ circuit breaker to automatically halt outgoing calls to a failing dependency and return a cached fallback response.'",
+    "correctAnswer": "half-open",
+    "options": ["half-open", "full-duplex", "round-robin", "long-polling"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'The new language model was trained using ___ feedback from human evaluators to better align its outputs with user intentions.'",
+    "correctAnswer": "reinforcement learning from human",
+    "options": ["reinforcement learning from human", "unsupervised generative", "rule-based symbolic", "deterministic heuristic"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Preencha o espaço em branco: 'The engineers used ___ profiling to identify hotspots in the application and prioritize optimization efforts where they would have the greatest impact.'",
+    "correctAnswer": "flame graph",
+    "options": ["flame graph", "stack trace", "dependency tree", "call stack"],
+    "difficulty": "hard"
+  }
+]

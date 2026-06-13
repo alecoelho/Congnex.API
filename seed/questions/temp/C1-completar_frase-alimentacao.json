@@ -1,0 +1,512 @@
+[
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "O chef adicionou uma pitada de sal para ___ o sabor do prato.",
+    "correctAnswer": "enhance",
+    "options": ["enhance", "worsen", "dilute", "mask"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "O restaurante é famoso por seus pratos ___, preparados com ingredientes locais da estação.",
+    "correctAnswer": "seasonal",
+    "options": ["seasonal", "frozen", "artificial", "imported"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "A receita exige que você ___ a manteiga antes de misturá-la com os outros ingredientes.",
+    "correctAnswer": "melt",
+    "options": ["melt", "freeze", "grind", "peel"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "O vinho tinto harmoniza bem com carnes ___, como o filé mignon.",
+    "correctAnswer": "red",
+    "options": ["red", "white", "smoked", "raw"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Para fazer um bom caldo, é necessário ___ os ossos por várias horas.",
+    "correctAnswer": "simmer",
+    "options": ["simmer", "fry", "bake", "grill"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "O pão artesanal tem uma crosta ___ que agrada os amantes da panificação.",
+    "correctAnswer": "crispy",
+    "options": ["crispy", "soggy", "sticky", "bland"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "A sobremesa foi servida com um ___ de chocolate amargo por cima.",
+    "correctAnswer": "drizzle",
+    "options": ["drizzle", "flood", "layer", "crust"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "O queijo curado tem um sabor muito mais ___ do que o queijo fresco.",
+    "correctAnswer": "intense",
+    "options": ["intense", "mild", "watery", "plain"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Para garantir a segurança alimentar, os alimentos perecíveis devem ser mantidos ___.",
+    "correctAnswer": "refrigerated",
+    "options": ["refrigerated", "boiled", "dried", "salted"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "O chef recomendou ___ a carne por 24 horas para deixá-la mais macia e saborosa.",
+    "correctAnswer": "marinating",
+    "options": ["marinating", "overcooking", "boiling", "salting"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "O restaurante oferece um menu ___, com pratos que mudam conforme a disponibilidade dos ingredientes.",
+    "correctAnswer": "rotating",
+    "options": ["rotating", "fixed", "limited", "overpriced"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "A cozinheira usou ervas ___ do jardim para temperar o frango assado.",
+    "correctAnswer": "fresh",
+    "options": ["fresh", "stale", "dried", "wilted"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "O sorvete artesanal é feito com leite ___, o que garante um sabor superior.",
+    "correctAnswer": "whole",
+    "options": ["whole", "powdered", "diluted", "synthetic"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "O risoto deve ser mexido ___ para liberar o amido do arroz e criar a textura cremosa.",
+    "correctAnswer": "constantly",
+    "options": ["constantly", "rarely", "briefly", "forcefully"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "A culinária ___ utiliza técnicas e ingredientes tradicionais passados de geração em geração.",
+    "correctAnswer": "traditional",
+    "options": ["traditional", "experimental", "industrial", "synthetic"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Para evitar que a massa grude, é necessário polvilhar ___ sobre a superfície de trabalho.",
+    "correctAnswer": "flour",
+    "options": ["flour", "sugar", "salt", "yeast"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "O salmão defumado tem um sabor ___ que combina muito bem com cream cheese.",
+    "correctAnswer": "smoky",
+    "options": ["smoky", "sour", "bitter", "sweet"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "O chef preferiu usar técnicas de cozimento ___ para preservar os nutrientes dos vegetais.",
+    "correctAnswer": "gentle",
+    "options": ["gentle", "aggressive", "prolonged", "careless"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "A textura ___ do chocolate amargo contrasta perfeitamente com a doçura do caramelo.",
+    "correctAnswer": "velvety",
+    "options": ["velvety", "coarse", "brittle", "grainy"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "O restaurante se destaca por sua abordagem ___ à gastronomia, combinando ingredientes inusitados.",
+    "correctAnswer": "avant-garde",
+    "options": ["avant-garde", "conventional", "rustic", "predictable"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Para obter uma emulsão estável no molho, é preciso adicionar o azeite ___ enquanto bate.",
+    "correctAnswer": "gradually",
+    "options": ["gradually", "abruptly", "excessively", "carelessly"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "O queijo parmesão de qualidade superior possui uma complexidade ___ que lembra nozes e frutas secas.",
+    "correctAnswer": "aromatic",
+    "options": ["aromatic", "pungent", "acidic", "metallic"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "O processo de ___ consiste em submergir alimentos em gordura quente para cozinhá-los uniformemente.",
+    "correctAnswer": "deep-frying",
+    "options": ["deep-frying", "braising", "poaching", "steaming"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "A fermentação ___ é responsável pelo sabor característico do pão sourdough.",
+    "correctAnswer": "lacto",
+    "options": ["lacto", "alcoholic", "acetic", "thermal"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "O chef utilizou a técnica de ___ para caramelizar a superfície do crème brûlée.",
+    "correctAnswer": "blowtorching",
+    "options": ["blowtorching", "chilling", "blanching", "folding"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "A ___ do prato foi elogiada pelos críticos gastronômicos pela harmonia entre cores e texturas.",
+    "correctAnswer": "presentation",
+    "options": ["presentation", "portion", "preservation", "preparation"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Os melhores azeites de oliva extravirgem possuem um sabor ___ que indica frescor e qualidade.",
+    "correctAnswer": "peppery",
+    "options": ["peppery", "rancid", "watery", "sugary"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "A técnica de ___ envolve cozinhar alimentos em líquido quente a uma temperatura abaixo da fervura.",
+    "correctAnswer": "poaching",
+    "options": ["poaching", "broiling", "sautéing", "roasting"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "O sommelier recomendou um vinho com notas ___ de baunilha e especiarias para acompanhar o cordeiro.",
+    "correctAnswer": "subtle",
+    "options": ["subtle", "overpowering", "absent", "unpleasant"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "A ___ é uma técnica culinária que consiste em cozinhar carne lentamente em seu próprio suco.",
+    "correctAnswer": "braising",
+    "options": ["braising", "blanching", "flambéing", "julienning"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "O chef adicionou um toque de ___ ao molho para equilibrar a acidez do tomate.",
+    "correctAnswer": "sweetness",
+    "options": ["sweetness", "bitterness", "saltiness", "acidity"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "O restaurante tem uma política de ___ zero para alimentos de origem duvidosa ou não rastreável.",
+    "correctAnswer": "tolerance",
+    "options": ["tolerance", "flexibility", "preference", "exclusivity"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "O vinagre balsâmico ___ tem uma doçura e espessura inigualáveis, resultado de décadas de envelhecimento.",
+    "correctAnswer": "aged",
+    "options": ["aged", "commercial", "diluted", "filtered"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "A ___ culinária do chef incorpora influências da cozinha asiática e mediterrânea.",
+    "correctAnswer": "philosophy",
+    "options": ["philosophy", "phobia", "formula", "pattern"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "A alta gastronomia frequentemente explora o conceito de ___, usando técnicas como esferificação e gelificação.",
+    "correctAnswer": "molecular gastronomy",
+    "options": ["molecular gastronomy", "street food", "comfort cooking", "fast food"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Para criar um consommé perfeito, o caldo deve ser ___ até a total clarificação.",
+    "correctAnswer": "clarified",
+    "options": ["clarified", "thickened", "reduced", "emulsified"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "O chef utilizou a técnica de ___ para criar uma textura aerada e levíssima no mousse de chocolate.",
+    "correctAnswer": "aeration",
+    "options": ["aeration", "maceration", "reduction", "coagulation"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "O perfil ___ de um vinho descreve os aromas e sabores percebidos durante a degustação.",
+    "correctAnswer": "organoleptic",
+    "options": ["organoleptic", "biochemical", "synthetic", "metabolic"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "A reação de ___ é responsável pelo escurecimento e desenvolvimento de sabores complexos na carne grelhada.",
+    "correctAnswer": "Maillard",
+    "options": ["Maillard", "osmosis", "hydrolysis", "oxidation"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "O foie gras é considerado uma iguaria ___, apreciada por gourmands em todo o mundo.",
+    "correctAnswer": "contentious",
+    "options": ["contentious", "mundane", "ubiquitous", "inexpensive"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "A técnica de ___ sous vide consiste em cozinhar alimentos embalados a vácuo em temperatura precisa e controlada.",
+    "correctAnswer": "immersion",
+    "options": ["immersion", "convection", "radiation", "conduction"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "O ___ é um quinto sabor básico, presente naturalmente em cogumelos, queijos curados e molho de soja.",
+    "correctAnswer": "umami",
+    "options": ["umami", "astringency", "piquancy", "effervescence"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "A ___  do azeite de oliva é determinada pelo nível de acidez e pelo método de extração.",
+    "correctAnswer": "grade",
+    "options": ["grade", "vintage", "batch", "yield"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "O processo de ___ consiste em envelhecer a carne em câmara fria para intensificar seu sabor e amaciá-la.",
+    "correctAnswer": "dry-aging",
+    "options": ["dry-aging", "wet-curing", "flash-freezing", "hot-smoking"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "O chef empregou a técnica de ___ para transformar o suco de fruta em esferas com membrana gelatinosa.",
+    "correctAnswer": "spherification",
+    "options": ["spherification", "emulsification", "centrifugation", "crystallization"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "A complexidade ___ de um grand cru borgonhês revela-se plenamente após anos de guarda na adega.",
+    "correctAnswer": "olfactory",
+    "options": ["olfactory", "textural", "chromatic", "acoustic"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "A culinária ___ desconstruída apresenta os elementos de um prato clássico em formas e texturas inesperadas.",
+    "correctAnswer": "deconstructed",
+    "options": ["deconstructed", "reconstructed", "simplified", "amplified"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "O chef recusou-se a usar ___ artificiais em seus pratos, preferindo extrair cor e sabor de ingredientes naturais.",
+    "correctAnswer": "additives",
+    "options": ["additives", "seasonings", "garnishes", "essences"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "A ___ de um caldo bem-elaborado depende da extração cuidadosa do colágeno dos ossos durante o cozimento longo.",
+    "correctAnswer": "gelatinous consistency",
+    "options": ["gelatinous consistency", "watery clarity", "acidic sharpness", "oily texture"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "A ___ é uma técnica de conservação que utiliza sal para inibir o crescimento bacteriano em carnes e peixes.",
+    "correctAnswer": "curing",
+    "options": ["curing", "blanching", "tempering", "rendering"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "Os críticos elogiaram a ___ do menu degustação, que conduzia os comensais por uma jornada sensorial coerente.",
+    "correctAnswer": "cohesiveness",
+    "options": ["cohesiveness", "randomness", "extravagance", "brevity"],
+    "difficulty": "hard"
+  }
+]

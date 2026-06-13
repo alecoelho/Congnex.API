@@ -1,0 +1,512 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'She ___ my mother.' (Ela é minha mãe.)",
+    "correctAnswer": "is",
+    "options": ["is", "are", "am", "be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'They ___ my parents.' (Eles são meus pais.)",
+    "correctAnswer": "are",
+    "options": ["are", "is", "am", "be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'I ___ a brother.' (Eu tenho um irmão.)",
+    "correctAnswer": "have",
+    "options": ["have", "has", "had", "having"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'He ___ a sister.' (Ele tem uma irmã.)",
+    "correctAnswer": "has",
+    "options": ["has", "have", "had", "having"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'My father ___ tall.' (Meu pai é alto.)",
+    "correctAnswer": "is",
+    "options": ["is", "are", "am", "be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'My parents ___ at home.' (Meus pais estão em casa.)",
+    "correctAnswer": "are",
+    "options": ["are", "is", "am", "be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'I ___ my grandmother.' (Eu amo minha avó.)",
+    "correctAnswer": "love",
+    "options": ["love", "loves", "loving", "loved"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual artigo completa corretamente: 'She is ___ aunt.' (Ela é uma tia.)",
+    "correctAnswer": "an",
+    "options": ["an", "a", "the", "—"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual artigo completa corretamente: 'He is ___ uncle.' (Ele é um tio.)",
+    "correctAnswer": "an",
+    "options": ["an", "a", "the", "—"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'My sister ___ happy.' (Minha irmã está feliz.)",
+    "correctAnswer": "is",
+    "options": ["is", "are", "am", "be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'We ___ a big family.' (Nós temos uma família grande.)",
+    "correctAnswer": "have",
+    "options": ["have", "has", "had", "having"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual pronome substitui 'my brother'? 'My brother is kind. ___ is kind.'",
+    "correctAnswer": "He",
+    "options": ["He", "She", "They", "It"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual pronome substitui 'my mother'? 'My mother is nice. ___ is nice.'",
+    "correctAnswer": "She",
+    "options": ["She", "He", "They", "It"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'My grandmother ___ two dogs.' (Minha avó tem dois cachorros.)",
+    "correctAnswer": "has",
+    "options": ["has", "have", "had", "having"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'My cousins ___ funny.' (Meus primos são engraçados.)",
+    "correctAnswer": "are",
+    "options": ["are", "is", "am", "be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual artigo completa: 'I have ___ brother.' (Eu tenho um irmão.)",
+    "correctAnswer": "a",
+    "options": ["a", "an", "the", "—"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'My dad ___ a teacher.' (Meu pai é professor.)",
+    "correctAnswer": "is",
+    "options": ["is", "are", "am", "be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'My parents ___ in Brazil.' (Meus pais moram no Brasil.)",
+    "correctAnswer": "live",
+    "options": ["live", "lives", "living", "lived"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'My mother ___ to work every day.' (Minha mãe vai trabalhar todo dia.)",
+    "correctAnswer": "goes",
+    "options": ["goes", "go", "going", "went"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'My brother and I ___ football on Sundays.' (Meu irmão e eu jogamos futebol aos domingos.)",
+    "correctAnswer": "play",
+    "options": ["play", "plays", "playing", "played"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'My sister ___ English at school.' (Minha irmã estuda inglês na escola.)",
+    "correctAnswer": "studies",
+    "options": ["studies", "study", "studying", "studied"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'My father ___ a car.' (Meu pai tem um carro.) — terceira pessoa do singular",
+    "correctAnswer": "has",
+    "options": ["has", "have", "having", "had"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual pronome possessivo completa: '___ mother is kind.' (A mãe dele é gentil.)",
+    "correctAnswer": "His",
+    "options": ["His", "Her", "Their", "My"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual pronome possessivo completa: '___ father works a lot.' (O pai dela trabalha muito.)",
+    "correctAnswer": "Her",
+    "options": ["Her", "His", "Their", "Our"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual pronome possessivo completa: '___ family is big.' (A família deles é grande.)",
+    "correctAnswer": "Their",
+    "options": ["Their", "His", "Her", "My"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase negativa: 'She ___ have a sister.' (Ela não tem irmã.)",
+    "correctAnswer": "doesn't",
+    "options": ["doesn't", "don't", "isn't", "aren't"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase negativa: 'They ___ have children.' (Eles não têm filhos.)",
+    "correctAnswer": "don't",
+    "options": ["don't", "doesn't", "isn't", "aren't"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Complete a pergunta: '___ your parents at home?' (Seus pais estão em casa?)",
+    "correctAnswer": "Are",
+    "options": ["Are", "Is", "Do", "Does"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Complete a pergunta: '___ your brother have a job?' (Seu irmão tem emprego?)",
+    "correctAnswer": "Does",
+    "options": ["Does", "Do", "Is", "Are"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Complete a pergunta: '___ you have any brothers or sisters?' (Você tem irmãos ou irmãs?)",
+    "correctAnswer": "Do",
+    "options": ["Do", "Does", "Are", "Is"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'My grandparents ___ in a small town.' (Meus avós moram em uma cidade pequena.)",
+    "correctAnswer": "live",
+    "options": ["live", "lives", "living", "lived"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'My aunt ___ a lot of friends.' (Minha tia tem muitos amigos.)",
+    "correctAnswer": "has",
+    "options": ["has", "have", "having", "had"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual forma verbal está correta: 'My father ___ the newspaper every morning.' (Meu pai lê o jornal toda manhã.)",
+    "correctAnswer": "reads",
+    "options": ["reads", "read", "reading", "readed"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'My children ___ to school every day.' (Meus filhos vão à escola todo dia.)",
+    "correctAnswer": "go",
+    "options": ["go", "goes", "going", "went"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'My wife ___ coffee in the morning.' (Minha esposa bebe café de manhã.)",
+    "correctAnswer": "drinks",
+    "options": ["drinks", "drink", "drinking", "drank"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual a forma negativa correta: 'My brother ___ a doctor.' (Meu irmão não é médico.)",
+    "correctAnswer": "isn't",
+    "options": ["isn't", "doesn't", "don't", "aren't"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase com a preposição correta: 'My uncle lives ___ São Paulo.' (Meu tio mora em São Paulo.)",
+    "correctAnswer": "in",
+    "options": ["in", "on", "at", "to"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase com a preposição correta: 'My mother arrives ___ home at 6 pm.' (Minha mãe chega em casa às 18h.)",
+    "correctAnswer": "at",
+    "options": ["at", "in", "on", "to"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'My sister is good ___ cooking.' (Minha irmã é boa em cozinhar.)",
+    "correctAnswer": "at",
+    "options": ["at", "in", "on", "for"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual a forma interrogativa correta para: 'Your father is a doctor.' (Seu pai é médico.)",
+    "correctAnswer": "Is your father a doctor?",
+    "options": ["Is your father a doctor?", "Does your father a doctor?", "Are your father a doctor?", "Do your father a doctor?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'My brother works ___ a hospital.' (Meu irmão trabalha em um hospital.)",
+    "correctAnswer": "in",
+    "options": ["in", "at", "on", "to"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual forma possessiva está correta: 'This is ___ bag.' — referindo-se à mochila da minha irmã.",
+    "correctAnswer": "my sister's",
+    "options": ["my sister's", "my sisters", "the sister's of my", "of my sister"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'My parents ___ married for 20 years.' (Meus pais são casados há 20 anos.) — use o verbo 'to be'",
+    "correctAnswer": "have been",
+    "options": ["have been", "are", "were", "was"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual forma do verbo está correta: 'My father usually ___ TV at night.' (Meu pai geralmente assiste TV à noite.)",
+    "correctAnswer": "watches",
+    "options": ["watches", "watch", "watchs", "watching"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'My grandmother ___ never late.' (Minha avó nunca se atrasa.)",
+    "correctAnswer": "is",
+    "options": ["is", "are", "does", "has"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual a pergunta correta para a resposta: 'I have two sisters.' (Eu tenho duas irmãs.)",
+    "correctAnswer": "How many sisters do you have?",
+    "options": ["How many sisters do you have?", "How many sisters you have?", "How many sisters does you have?", "How many sisters have you?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'My husband and I ___ a child.' (Meu marido e eu temos um filho.)",
+    "correctAnswer": "have",
+    "options": ["have", "has", "having", "had"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual a forma negativa correta: 'My cousin ___ like vegetables.' (Meu primo não gosta de legumes.)",
+    "correctAnswer": "doesn't",
+    "options": ["doesn't", "don't", "isn't", "not"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase com a preposição correta: 'My children play ___ the park on weekends.' (Meus filhos brincam no parque nos fins de semana.)",
+    "correctAnswer": "in",
+    "options": ["in", "at", "on", "to"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Qual artigo completa: 'My father is ___ engineer.' (Meu pai é engenheiro.)",
+    "correctAnswer": "an",
+    "options": ["an", "a", "the", "—"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "familia_relacionamentos",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase com a ordem correta: Para dizer 'Minha irmã mais velha mora em Londres', qual é a frase correta em inglês?",
+    "correctAnswer": "My older sister lives in London.",
+    "options": ["My older sister lives in London.", "My sister older lives in London.", "My older sister live in London.", "My older sister is live in London."],
+    "difficulty": "hard"
+  }
+]

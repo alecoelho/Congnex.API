@@ -1,0 +1,707 @@
+[
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Preciso reservar um quarto de hotel para a próxima semana.",
+    "correctAnswer": "I need to book a hotel room for next week.",
+    "options": [
+      "I need to book a hotel room for next week.",
+      "I need to reserve a hotel room for the next week.",
+      "I must book a hotel room to next week.",
+      "I need to rent a hotel room for next week."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O voo para Paris foi cancelado por causa da neblina.",
+    "correctAnswer": "The flight to Paris was cancelled due to fog.",
+    "options": [
+      "The flight to Paris was cancelled due to fog.",
+      "The flight to Paris was canceled because of the mist.",
+      "The flight for Paris was cancelled due to fog.",
+      "The flight to Paris got cancelled by fog."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Onde fica o balcão de check-in da companhia aérea?",
+    "correctAnswer": "Where is the airline's check-in counter?",
+    "options": [
+      "Where is the airline's check-in counter?",
+      "Where is the check-in counter of the airline?",
+      "Where is the airline check-in desk located at?",
+      "Where can I find the airline's check-in table?"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Minha bagagem foi extraviada durante a conexão.",
+    "correctAnswer": "My luggage was lost during the layover.",
+    "options": [
+      "My luggage was lost during the layover.",
+      "My baggage was misplaced during the connection.",
+      "My bags were lost in the connection flight.",
+      "My luggage got lost at the connection."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O hotel oferece café da manhã incluído na diária.",
+    "correctAnswer": "The hotel offers breakfast included in the room rate.",
+    "options": [
+      "The hotel offers breakfast included in the room rate.",
+      "The hotel provides breakfast included in the daily rate.",
+      "The hotel has breakfast included in the daily fee.",
+      "The hotel gives breakfast included with the room price."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Você pode me recomendar um bom restaurante perto do hotel?",
+    "correctAnswer": "Can you recommend a good restaurant near the hotel?",
+    "options": [
+      "Can you recommend a good restaurant near the hotel?",
+      "Can you indicate a good restaurant close to the hotel?",
+      "Could you suggest me a good restaurant nearby of the hotel?",
+      "Do you know a good restaurant next to the hotel?"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O passaporte dela vence no próximo mês.",
+    "correctAnswer": "Her passport expires next month.",
+    "options": [
+      "Her passport expires next month.",
+      "Her passport will be expired next month.",
+      "Her passport is expiring in next month.",
+      "Her passport ends next month."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Precisamos chegar ao aeroporto com duas horas de antecedência.",
+    "correctAnswer": "We need to arrive at the airport two hours in advance.",
+    "options": [
+      "We need to arrive at the airport two hours in advance.",
+      "We need to get to the airport with two hours of anticipation.",
+      "We must arrive at the airport two hours before.",
+      "We have to be at the airport two hours earlier."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Qual é o horário de saída do trem para Berlim?",
+    "correctAnswer": "What is the departure time of the train to Berlin?",
+    "options": [
+      "What is the departure time of the train to Berlin?",
+      "What time does the train to Berlin leave?",
+      "What is the exit schedule for the Berlin train?",
+      "At what hour does the Berlin train depart?"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O guia turístico nos levou a monumentos históricos incríveis.",
+    "correctAnswer": "The tour guide took us to incredible historic monuments.",
+    "options": [
+      "The tour guide took us to incredible historic monuments.",
+      "The touristic guide led us to amazing historical monuments.",
+      "The tourism guide brought us to incredible historic places.",
+      "The travel guide took us to visit incredible historical monuments."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Você precisa de um visto para entrar no país.",
+    "correctAnswer": "You need a visa to enter the country.",
+    "options": [
+      "You need a visa to enter the country.",
+      "You need a vise to enter the country.",
+      "You must have a visa for entering in the country.",
+      "You need a visa to get into the country."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O hotel está completamente lotado durante o feriado.",
+    "correctAnswer": "The hotel is fully booked during the holiday.",
+    "options": [
+      "The hotel is fully booked during the holiday.",
+      "The hotel is completely full on the holiday.",
+      "The hotel is totally occupied in the holiday period.",
+      "The hotel has no availability during the national holiday."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Gostaria de trocar minha passagem para um voo mais cedo.",
+    "correctAnswer": "I would like to change my ticket to an earlier flight.",
+    "options": [
+      "I would like to change my ticket to an earlier flight.",
+      "I would like to exchange my ticket to an earlier flight.",
+      "I want to switch my ticket for a more early flight.",
+      "I'd like to modify my ticket to a sooner flight."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "A viagem de barco pelo rio Amazonas foi uma experiência única.",
+    "correctAnswer": "The boat trip along the Amazon River was a unique experience.",
+    "options": [
+      "The boat trip along the Amazon River was a unique experience.",
+      "The boat travel through the Amazon River was a unique experience.",
+      "The river cruise on the Amazon was an unique experience.",
+      "The boat journey across the Amazon River was a singular experience."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Por favor, coloque sua bagagem de mão no compartimento acima.",
+    "correctAnswer": "Please put your carry-on luggage in the overhead compartment.",
+    "options": [
+      "Please put your carry-on luggage in the overhead compartment.",
+      "Please place your hand baggage in the upper compartment.",
+      "Please store your carry-on bag in the above compartment.",
+      "Please keep your hand luggage in the overhead bin."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O seguro de viagem cobre acidentes e cancelamentos.",
+    "correctAnswer": "Travel insurance covers accidents and cancellations.",
+    "options": [
+      "Travel insurance covers accidents and cancellations.",
+      "The travel insurance covers accidents and cancellations.",
+      "Traveling insurance covers accidents and cancellation.",
+      "Tourism insurance covers accidents and cancellations."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "A fronteira entre os dois países está fechada para turistas.",
+    "correctAnswer": "The border between the two countries is closed to tourists.",
+    "options": [
+      "The border between the two countries is closed to tourists.",
+      "The frontier between the two countries is shut for tourists.",
+      "The border of the two countries is closed for tourists.",
+      "The boundary between both countries is closed to tourists."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Ao fazer o check-in, o recepcionista solicitou um comprovante de reserva e um documento de identidade válido.",
+    "correctAnswer": "Upon checking in, the receptionist requested a booking confirmation and a valid form of identification.",
+    "options": [
+      "Upon checking in, the receptionist requested a booking confirmation and a valid form of identification.",
+      "When checking in, the front desk attendant asked for a reservation proof and a valid identity document.",
+      "At check-in, the receptionist demanded a reservation voucher and a valid personal document.",
+      "During check-in, the receptionist required a confirmation of booking and valid identification papers."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "A companhia aérea oferece tarifa não reembolsável, mas permite alteração de data mediante pagamento de taxa.",
+    "correctAnswer": "The airline offers a non-refundable fare but allows date changes upon payment of a fee.",
+    "options": [
+      "The airline offers a non-refundable fare but allows date changes upon payment of a fee.",
+      "The airline provides a non-refundable ticket but permits date modification with an additional charge.",
+      "The airline has a non-reimbursable rate but authorizes date alterations against a fee payment.",
+      "The airline sells non-refundable fares but enables date exchanges once a fee is paid."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O viajante ficou retido na alfândega porque não declarou os produtos que havia comprado no exterior.",
+    "correctAnswer": "The traveller was held at customs because he had not declared the goods he had purchased abroad.",
+    "options": [
+      "The traveller was held at customs because he had not declared the goods he had purchased abroad.",
+      "The traveller was retained at the customs because he didn't declared the products bought in the exterior.",
+      "The traveler got stuck at customs for not declaring the foreign goods he had bought overseas.",
+      "The tourist was detained at customs due to undeclared items purchased in foreign countries."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Recomenda-se que os viajantes verifiquem os requisitos de entrada do país de destino com pelo menos um mês de antecedência.",
+    "correctAnswer": "Travellers are advised to check the entry requirements of their destination country at least one month in advance.",
+    "options": [
+      "Travellers are advised to check the entry requirements of their destination country at least one month in advance.",
+      "It is recommended that travelers verify the entry demands of the destination country with at least a month of anticipation.",
+      "Travelers should verify entry requirements of destination countries at minimum a month beforehand.",
+      "It is advisable that travelers check the input requirements of the destination at least one month before traveling."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O itinerário do cruzeiro incluía escalas em quatro portos diferentes ao longo do Mediterrâneo.",
+    "correctAnswer": "The cruise itinerary included stops at four different ports along the Mediterranean.",
+    "options": [
+      "The cruise itinerary included stops at four different ports along the Mediterranean.",
+      "The cruise's itinerary included stopovers in four different harbours throughout the Mediterranean.",
+      "The cruise program included visits to four different ports across the Mediterranean Sea.",
+      "The cruise schedule encompassed four port calls at distinct Mediterranean locations."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Durante o safari, os turistas puderam observar animais selvagens em seu habitat natural sem perturbar o ecossistema local.",
+    "correctAnswer": "During the safari, tourists were able to observe wild animals in their natural habitat without disturbing the local ecosystem.",
+    "options": [
+      "During the safari, tourists were able to observe wild animals in their natural habitat without disturbing the local ecosystem.",
+      "Throughout the safari, tourists could watch wildlife in its natural habitat with no perturbation to the local ecosystem.",
+      "On the safari, the tourists observed wild animals in their natural environment without disturbing the ecosystem.",
+      "During the safari, tourists had the opportunity to see wild animals in their natural habitat while not disturbing local wildlife."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "A agência de turismo é especializada em roteiros personalizados para destinos fora do circuito convencional.",
+    "correctAnswer": "The travel agency specialises in customised itineraries for off-the-beaten-track destinations.",
+    "options": [
+      "The travel agency specialises in customised itineraries for off-the-beaten-track destinations.",
+      "The tourism agency specializes in personalised routes for unconventional destinations outside the common circuit.",
+      "The travel agency is specialized in custom tours for destinations outside the conventional circuit.",
+      "The tourism agency focuses on bespoke travel plans for destinations beyond the traditional tourist trail."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O turista ficou impressionado com a hospitalidade dos moradores locais durante sua estadia na região rural.",
+    "correctAnswer": "The tourist was impressed by the hospitality of the locals during his stay in the rural area.",
+    "options": [
+      "The tourist was impressed by the hospitality of the locals during his stay in the rural area.",
+      "The tourist was amazed with the hospitality from local residents during his permanence in the rural region.",
+      "The tourist felt impressed by local people's welcoming attitude during his stay in the countryside.",
+      "The tourist was struck by the warmth of the local inhabitants throughout his visit to the rural zone."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "As autoridades de saúde exigem que os viajantes apresentem comprovante de vacinação ao desembarcar.",
+    "correctAnswer": "Health authorities require travellers to present proof of vaccination upon disembarkation.",
+    "options": [
+      "Health authorities require travellers to present proof of vaccination upon disembarkation.",
+      "The health authorities demand that travelers show vaccination proof when landing.",
+      "Sanitary authorities require travelers to present a vaccination certificate at disembarkation.",
+      "Health officials ask travelers to provide vaccination evidence upon arrival."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O nível de conforto dos assentos de classe executiva justifica o preço mais elevado para voos de longa duração.",
+    "correctAnswer": "The comfort level of business class seats justifies the higher price for long-haul flights.",
+    "options": [
+      "The comfort level of business class seats justifies the higher price for long-haul flights.",
+      "The comfort of executive class seats justifies the elevated price for long duration flights.",
+      "Business class seat comfort warrants the increased cost for extended flights.",
+      "The standard of comfort in business class chairs justifies the extra cost on long-distance flights."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O albergue juvenil oferece acomodação acessível sem abrir mão de segurança e limpeza adequadas.",
+    "correctAnswer": "The youth hostel offers affordable accommodation without compromising on adequate safety and cleanliness.",
+    "options": [
+      "The youth hostel offers affordable accommodation without compromising on adequate safety and cleanliness.",
+      "The youth hostel provides accessible lodging without giving up on proper security and hygiene.",
+      "The juvenile hostel offers cheap accommodation without neglecting security and cleanliness.",
+      "The youth hostel gives affordable housing without renouncing appropriate safety and tidiness."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Para garantir o melhor preço, os viajantes experientes reservam seus voos com bastante antecedência.",
+    "correctAnswer": "To secure the best price, seasoned travellers book their flights well in advance.",
+    "options": [
+      "To secure the best price, seasoned travellers book their flights well in advance.",
+      "In order to guarantee the best price, experienced travelers book their flights long before.",
+      "To get the best fare, expert travelers reserve their flights much in advance.",
+      "To ensure the best rate, savvy travelers make their flight bookings way ahead of time."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O guia de viagem recomendou evitar determinadas áreas da cidade após o anoitecer por questões de segurança.",
+    "correctAnswer": "The travel guide recommended avoiding certain areas of the city after nightfall for safety reasons.",
+    "options": [
+      "The travel guide recommended avoiding certain areas of the city after nightfall for safety reasons.",
+      "The travel guidebook advised to avoid some city areas after dark for security issues.",
+      "The tourism guide suggested not going to specific city zones after nighttime due to safety.",
+      "The travel guide warned against visiting particular areas of the city after sunset on security grounds."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Durante a temporada de pico, os preços das acomodações em destinos turísticos populares podem triplicar.",
+    "correctAnswer": "During peak season, accommodation prices in popular tourist destinations can triple.",
+    "options": [
+      "During peak season, accommodation prices in popular tourist destinations can triple.",
+      "During the peak period, lodging prices in popular touristic destinations may triple.",
+      "In the high season, the accommodation costs at popular tourist spots can be tripled.",
+      "Throughout peak season, accommodation costs in well-known tourist destinations may increase threefold."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O cartão de embarque deve ser apresentado tanto no controle de segurança quanto no portão de embarque.",
+    "correctAnswer": "The boarding pass must be presented both at the security checkpoint and at the boarding gate.",
+    "options": [
+      "The boarding pass must be presented both at the security checkpoint and at the boarding gate.",
+      "The boarding card should be shown both at the security control and at the boarding gate.",
+      "The embarking pass has to be presented at both the security check and the departure gate.",
+      "The boarding pass needs to be shown at the security screening as well as at the embarkation gate."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "A isenção de visto para brasileiros viajando para países do Bloco Schengen tem validade de 90 dias por período de 180 dias.",
+    "correctAnswer": "The visa waiver for Brazilians travelling to Schengen Area countries is valid for 90 days within any 180-day period.",
+    "options": [
+      "The visa waiver for Brazilians travelling to Schengen Area countries is valid for 90 days within any 180-day period.",
+      "The visa exemption for Brazilians traveling to Schengen Block countries lasts 90 days every 180-day period.",
+      "Brazilians are exempt from a visa when visiting Schengen countries for up to 90 days in a 180-day window.",
+      "The Schengen visa-free access for Brazilians allows stays of 90 days per 180-day rolling period."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O fenômeno do overtourism tem gerado debates acalorados sobre a necessidade de impor limites ao fluxo de visitantes em sítios de patrimônio cultural.",
+    "correctAnswer": "The phenomenon of overtourism has sparked heated debates about the need to impose limits on visitor flows to cultural heritage sites.",
+    "options": [
+      "The phenomenon of overtourism has sparked heated debates about the need to impose limits on visitor flows to cultural heritage sites.",
+      "The overtourism phenomenon has generated heated discussions on the necessity of imposing restrictions on tourist flows to cultural heritage sites.",
+      "Overtourism has fuelled intense debate over the imposition of visitor caps at sites of cultural and historical heritage.",
+      "The overtourism issue has triggered fervent debates concerning the requirement to limit visitor numbers at world heritage cultural locations."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "A demanda reprimida acumulada durante a pandemia resultou em uma explosão de viagens de luxo ao redor do mundo.",
+    "correctAnswer": "The pent-up demand accumulated during the pandemic resulted in a surge of luxury travel worldwide.",
+    "options": [
+      "The pent-up demand accumulated during the pandemic resulted in a surge of luxury travel worldwide.",
+      "The accumulated suppressed demand during the pandemic generated an explosion of luxury travels across the globe.",
+      "The repressed demand built during the pandemic caused a boom in high-end tourism worldwide.",
+      "Demand that had been bottled up throughout the pandemic unleashed a wave of luxury tourism across the world."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O turismo regenerativo vai além da sustentabilidade ao propor que os viajantes contribuam ativamente para a restauração dos ecossistemas visitados.",
+    "correctAnswer": "Regenerative tourism goes beyond sustainability by proposing that travellers actively contribute to the restoration of the ecosystems they visit.",
+    "options": [
+      "Regenerative tourism goes beyond sustainability by proposing that travellers actively contribute to the restoration of the ecosystems they visit.",
+      "Regenerative tourism transcends sustainability by suggesting that travelers actively participate in restoring the ecosystems visited.",
+      "Regenerative tourism surpasses sustainable practices in advocating for traveler involvement in the active rehabilitation of visited ecosystems.",
+      "Beyond sustainability, regenerative tourism calls on visitors to take an active role in rehabilitating the ecosystems they travel through."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "A crescente popularidade dos nômades digitais levou muitos países a criarem vistos específicos para atrair esse perfil de viajante-trabalhador.",
+    "correctAnswer": "The growing popularity of digital nomads has led many countries to create specific visas to attract this profile of travelling worker.",
+    "options": [
+      "The growing popularity of digital nomads has led many countries to create specific visas to attract this profile of travelling worker.",
+      "The increasing popularity of digital nomadism has pushed many nations to establish tailored visa schemes to draw in this traveller-worker demographic.",
+      "As digital nomadism gains traction, many governments have devised bespoke visa categories to lure this breed of itinerant remote worker.",
+      "The rise of digital nomads has prompted numerous countries to introduce dedicated visa programmes aimed at drawing this category of mobile professional."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "A prática do turismo de choque cultural, embora controversa, é defendida por alguns como meio de desconstruir estereótipos e fomentar o diálogo intercultural.",
+    "correctAnswer": "The practice of cultural immersion tourism, though controversial, is championed by some as a means of deconstructing stereotypes and fostering intercultural dialogue.",
+    "options": [
+      "The practice of cultural immersion tourism, though controversial, is championed by some as a means of deconstructing stereotypes and fostering intercultural dialogue.",
+      "Cultural shock tourism, despite being controversial, is advocated by some as a method of breaking down stereotypes and promoting intercultural exchange.",
+      "Though contentious, cultural shock travel is endorsed by certain advocates as a way to dismantle stereotypes and encourage cross-cultural understanding.",
+      "Despite its controversial nature, cultural immersion travel is supported by some as an instrument for dismantling stereotypes and stimulating intercultural conversation."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "As restrições impostas pela pandemia revelaram a fragilidade das economias que dependem quase exclusivamente do turismo internacional.",
+    "correctAnswer": "The restrictions imposed by the pandemic revealed the fragility of economies that depend almost exclusively on international tourism.",
+    "options": [
+      "The restrictions imposed by the pandemic revealed the fragility of economies that depend almost exclusively on international tourism.",
+      "The pandemic-induced restrictions laid bare the vulnerability of economies almost wholly reliant on international tourism.",
+      "Pandemic restrictions exposed the precariousness of economies whose survival hinges almost entirely on overseas visitor revenue.",
+      "Lockdown measures during the pandemic unmasked the fragility of economies that hinge almost entirely on international visitor income."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O debate em torno da pegada de carbono das viagens aéreas tem impulsionado o desenvolvimento de combustíveis de aviação sustentável.",
+    "correctAnswer": "The debate surrounding the carbon footprint of air travel has driven the development of sustainable aviation fuels.",
+    "options": [
+      "The debate surrounding the carbon footprint of air travel has driven the development of sustainable aviation fuels.",
+      "The discussion around carbon emissions from air travel has boosted the development of sustainable aviation fuels.",
+      "The controversy over the environmental impact of flying has accelerated research into green aviation fuel technologies.",
+      "Ongoing debate about the ecological cost of air travel has spurred advances in environmentally friendly aviation fuel."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "A gentrificação decorrente do turismo massivo tem deslocado comunidades locais de bairros históricos em várias cidades europeias.",
+    "correctAnswer": "The gentrification resulting from mass tourism has displaced local communities from historic neighbourhoods across several European cities.",
+    "options": [
+      "The gentrification resulting from mass tourism has displaced local communities from historic neighbourhoods across several European cities.",
+      "Gentrification arising from mass tourism has pushed out local populations from historical districts in various European urban areas.",
+      "Mass tourism-driven gentrification has forced local residents out of historic quarters in numerous European cities.",
+      "The gentrification triggered by large-scale tourism has uprooted indigenous communities from heritage districts throughout various European cities."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O uso crescente de inteligência artificial na personalização de roteiros de viagem promete revolucionar a indústria do turismo na próxima década.",
+    "correctAnswer": "The growing use of artificial intelligence in personalising travel itineraries promises to revolutionise the tourism industry over the next decade.",
+    "options": [
+      "The growing use of artificial intelligence in personalising travel itineraries promises to revolutionise the tourism industry over the next decade.",
+      "The increasing application of artificial intelligence to customise travel plans is set to transform the tourism sector within the next decade.",
+      "Rising AI adoption in crafting tailored travel itineraries is poised to upend the travel industry within the coming ten years.",
+      "The surge in artificial intelligence usage for personalised trip planning is expected to overhaul the tourism industry within the next ten years."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "A negociação de acordos bilaterais de isenção de visto é um processo diplomático delicado que envolve considerações de reciprocidade e segurança nacional.",
+    "correctAnswer": "Negotiating bilateral visa waiver agreements is a delicate diplomatic process that involves considerations of reciprocity and national security.",
+    "options": [
+      "Negotiating bilateral visa waiver agreements is a delicate diplomatic process that involves considerations of reciprocity and national security.",
+      "The negotiation of bilateral visa exemption treaties is a sensitive diplomatic undertaking involving reciprocity and national security concerns.",
+      "Concluding bilateral visa-free travel accords is a nuanced diplomatic endeavour entailing reciprocity assessments and national security scrutiny.",
+      "Bilateral visa waiver treaty negotiations constitute a diplomatically sensitive process underpinned by mutual reciprocity and national security imperatives."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "A proliferação de plataformas de aluguel por temporada alterou profundamente a dinâmica do mercado hoteleiro tradicional.",
+    "correctAnswer": "The proliferation of short-term rental platforms has profoundly altered the dynamics of the traditional hotel market.",
+    "options": [
+      "The proliferation of short-term rental platforms has profoundly altered the dynamics of the traditional hotel market.",
+      "The spread of vacation rental platforms has deeply changed the dynamics of the conventional hotel industry.",
+      "The multiplication of short-stay rental services has dramatically reshuffled the competitive landscape of traditional hospitality.",
+      "Short-term rental platform proliferation has fundamentally disrupted the established dynamics of the conventional hotel sector."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "A sensação de desorientação e alienação que alguns viajantes experimentam ao ser imersos em uma cultura radicalmente diferente da sua é conhecida como choque cultural.",
+    "correctAnswer": "The feeling of disorientation and alienation that some travellers experience when immersed in a culture radically different from their own is known as culture shock.",
+    "options": [
+      "The feeling of disorientation and alienation that some travellers experience when immersed in a culture radically different from their own is known as culture shock.",
+      "The sensation of confusion and estrangement felt by some travellers upon immersion in a vastly different foreign culture is referred to as cultural shock.",
+      "The disorientation and sense of alienation certain travelers feel when plunged into a profoundly alien culture goes by the name of culture shock.",
+      "Culture shock is the term for the bewilderment and detachment experienced by travellers who find themselves deeply embedded in a wholly unfamiliar cultural environment."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "A preservação do patrimônio cultural imaterial de comunidades locais representa um dos maiores desafios do turismo responsável.",
+    "correctAnswer": "The preservation of the intangible cultural heritage of local communities represents one of the greatest challenges of responsible tourism.",
+    "options": [
+      "The preservation of the intangible cultural heritage of local communities represents one of the greatest challenges of responsible tourism.",
+      "Safeguarding the intangible cultural legacy of local populations stands as one of the foremost challenges facing responsible tourism.",
+      "Protecting the non-material cultural heritage of indigenous communities is among the most pressing challenges confronting sustainable travel.",
+      "The conservation of local communities' intangible cultural patrimony constitutes one of the most significant challenges within the sphere of responsible tourism."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O turismo de aventura, apesar de seu apelo crescente, exige rigorosos protocolos de segurança para mitigar os riscos inerentes às atividades praticadas em ambientes hostis.",
+    "correctAnswer": "Adventure tourism, despite its growing appeal, demands rigorous safety protocols to mitigate the risks inherent in activities carried out in hostile environments.",
+    "options": [
+      "Adventure tourism, despite its growing appeal, demands rigorous safety protocols to mitigate the risks inherent in activities carried out in hostile environments.",
+      "Despite its increasing popularity, adventure tourism requires strict safety measures to reduce the inherent dangers of activities in harsh environments.",
+      "Adventure travel, notwithstanding its mounting appeal, necessitates stringent safety standards to minimise risks intrinsic to activities in extreme environments.",
+      "In spite of its rising allure, adventure tourism calls for thorough safety procedures to lessen the risks that come with undertaking activities in challenging outdoor settings."
+    ],
+    "difficulty": "hard"
+  }
+]

@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027acordar\u0027?",
+        "correctAnswer":  "Wake up",
+        "options":  [
+                        "Wake up",
+                        "Sleep",
+                        "Run",
+                        "Eat"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027tomar banho\u0027?",
+        "correctAnswer":  "Take a shower",
+        "options":  [
+                        "Take a shower",
+                        "Take a walk",
+                        "Make a call",
+                        "Drink water"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027escovar os dentes\u0027?",
+        "correctAnswer":  "Brush your teeth",
+        "options":  [
+                        "Brush your teeth",
+                        "Wash your hands",
+                        "Comb your hair",
+                        "Cut your nails"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027tomar café da manhã\u0027 em inglês?",
+        "correctAnswer":  "Have breakfast",
+        "options":  [
+                        "Have breakfast",
+                        "Have lunch",
+                        "Have dinner",
+                        "Have snack"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027vestir-se\u0027?",
+        "correctAnswer":  "Get dressed",
+        "options":  [
+                        "Get dressed",
+                        "Get up",
+                        "Get ready",
+                        "Get tired"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027ir para a escola\u0027?",
+        "correctAnswer":  "Go to school",
+        "options":  [
+                        "Go to school",
+                        "Go to bed",
+                        "Go to work",
+                        "Go to home"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027almoçar\u0027 em inglês?",
+        "correctAnswer":  "Have lunch",
+        "options":  [
+                        "Have lunch",
+                        "Have breakfast",
+                        "Have dinner",
+                        "Have a snack"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027trabalhar\u0027?",
+        "correctAnswer":  "Work",
+        "options":  [
+                        "Work",
+                        "Play",
+                        "Study",
+                        "Rest"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027ir dormir\u0027?",
+        "correctAnswer":  "Go to bed",
+        "options":  [
+                        "Go to bed",
+                        "Go home",
+                        "Go to school",
+                        "Go outside"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027jantar\u0027 em inglês?",
+        "correctAnswer":  "Have dinner",
+        "options":  [
+                        "Have dinner",
+                        "Have lunch",
+                        "Have breakfast",
+                        "Have supper"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027levantar-se\u0027?",
+        "correctAnswer":  "Get up",
+        "options":  [
+                        "Get up",
+                        "Sit down",
+                        "Lie down",
+                        "Stand still"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027lavar as mãos\u0027?",
+        "correctAnswer":  "Wash your hands",
+        "options":  [
+                        "Wash your hands",
+                        "Wash your face",
+                        "Wash your hair",
+                        "Wash your clothes"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027preparar-se\u0027 em inglês?",
+        "correctAnswer":  "Get ready",
+        "options":  [
+                        "Get ready",
+                        "Get up",
+                        "Get dressed",
+                        "Get tired"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027sair de casa\u0027?",
+        "correctAnswer":  "Leave home",
+        "options":  [
+                        "Leave home",
+                        "Stay home",
+                        "Go home",
+                        "Come home"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027chegar em casa\u0027?",
+        "correctAnswer":  "Come home",
+        "options":  [
+                        "Come home",
+                        "Go home",
+                        "Leave home",
+                        "Stay home"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027fazer exercício\u0027 em inglês?",
+        "correctAnswer":  "Do exercise",
+        "options":  [
+                        "Do exercise",
+                        "Do homework",
+                        "Do chores",
+                        "Do shopping"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027descansar\u0027?",
+        "correctAnswer":  "Rest",
+        "options":  [
+                        "Rest",
+                        "Work",
+                        "Run",
+                        "Jump"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027estudar\u0027?",
+        "correctAnswer":  "Study",
+        "options":  [
+                        "Study",
+                        "Work",
+                        "Play",
+                        "Sleep"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027fazer tarefas de casa\u0027 em inglês?",
+        "correctAnswer":  "Do homework",
+        "options":  [
+                        "Do homework",
+                        "Do chores",
+                        "Do exercise",
+                        "Do shopping"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027pegar o ônibus\u0027?",
+        "correctAnswer":  "Take the bus",
+        "options":  [
+                        "Take the bus",
+                        "Take the train",
+                        "Take the car",
+                        "Take the bike"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027caminhar\u0027?",
+        "correctAnswer":  "Walk",
+        "options":  [
+                        "Walk",
+                        "Run",
+                        "Jump",
+                        "Skip"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027pentearse\u0027 em inglês?",
+        "correctAnswer":  "Comb your hair",
+        "options":  [
+                        "Comb your hair",
+                        "Cut your hair",
+                        "Wash your hair",
+                        "Dry your hair"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027ler um livro\u0027?",
+        "correctAnswer":  "Read a book",
+        "options":  [
+                        "Read a book",
+                        "Write a book",
+                        "Buy a book",
+                        "Sell a book"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027assistir televisão\u0027?",
+        "correctAnswer":  "Watch TV",
+        "options":  [
+                        "Watch TV",
+                        "Listen to TV",
+                        "Play TV",
+                        "See TV"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027fazer compras\u0027 em inglês?",
+        "correctAnswer":  "Go shopping",
+        "options":  [
+                        "Go shopping",
+                        "Go running",
+                        "Go walking",
+                        "Go playing"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027limpar a casa\u0027?",
+        "correctAnswer":  "Clean the house",
+        "options":  [
+                        "Clean the house",
+                        "Paint the house",
+                        "Build the house",
+                        "Decorate the house"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027cozinhar\u0027?",
+        "correctAnswer":  "Cook",
+        "options":  [
+                        "Cook",
+                        "Eat",
+                        "Drink",
+                        "Taste"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027lavar a louça\u0027 em inglês?",
+        "correctAnswer":  "Wash the dishes",
+        "options":  [
+                        "Wash the dishes",
+                        "Wash the clothes",
+                        "Wash the car",
+                        "Wash the floor"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027passear com o cachorro\u0027?",
+        "correctAnswer":  "Walk the dog",
+        "options":  [
+                        "Walk the dog",
+                        "Feed the dog",
+                        "Play with the dog",
+                        "Pet the dog"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027dirigir\u0027?",
+        "correctAnswer":  "Drive",
+        "options":  [
+                        "Drive",
+                        "Walk",
+                        "Run",
+                        "Fly"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027encontrar amigos\u0027 em inglês?",
+        "correctAnswer":  "Meet friends",
+        "options":  [
+                        "Meet friends",
+                        "Greet friends",
+                        "Beat friends",
+                        "Treat friends"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027aquecer a comida\u0027?",
+        "correctAnswer":  "Heat the food",
+        "options":  [
+                        "Heat the food",
+                        "Eat the food",
+                        "Taste the food",
+                        "Smell the food"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027fazer a cama\u0027?",
+        "correctAnswer":  "Make the bed",
+        "options":  [
+                        "Make the bed",
+                        "Wash the bed",
+                        "Clean the bed",
+                        "Fix the bed"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027colocar a mesa\u0027 em inglês?",
+        "correctAnswer":  "Set the table",
+        "options":  [
+                        "Set the table",
+                        "Clean the table",
+                        "Wash the table",
+                        "Fix the table"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027amarrar os sapatos\u0027?",
+        "correctAnswer":  "Tie your shoes",
+        "options":  [
+                        "Tie your shoes",
+                        "Put on your shoes",
+                        "Take off your shoes",
+                        "Wash your shoes"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027apagar a luz\u0027?",
+        "correctAnswer":  "Turn off the light",
+        "options":  [
+                        "Turn off the light",
+                        "Turn on the light",
+                        "Dim the light",
+                        "Adjust the light"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027acordar cedo\u0027 em inglês?",
+        "correctAnswer":  "Wake up early",
+        "options":  [
+                        "Wake up early",
+                        "Wake up late",
+                        "Sleep early",
+                        "Sleep late"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027secar o cabelo\u0027?",
+        "correctAnswer":  "Dry your hair",
+        "options":  [
+                        "Dry your hair",
+                        "Wash your hair",
+                        "Comb your hair",
+                        "Cut your hair"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027escovar o cabelo\u0027?",
+        "correctAnswer":  "Brush your hair",
+        "options":  [
+                        "Brush your hair",
+                        "Cut your hair",
+                        "Wash your hair",
+                        "Comb your hair"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027colocar maquiagem\u0027 em inglês?",
+        "correctAnswer":  "Put on makeup",
+        "options":  [
+                        "Put on makeup",
+                        "Take off makeup",
+                        "Wash makeup",
+                        "Clean makeup"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027regar as plantas\u0027?",
+        "correctAnswer":  "Water the plants",
+        "options":  [
+                        "Water the plants",
+                        "Feed the plants",
+                        "Cut the plants",
+                        "Move the plants"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027guardar as compras\u0027?",
+        "correctAnswer":  "Put away the shopping",
+        "options":  [
+                        "Put away the shopping",
+                        "Carry the shopping",
+                        "Unpack the shopping",
+                        "Buy the shopping"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027verificar o correio\u0027 em inglês?",
+        "correctAnswer":  "Check the mail",
+        "options":  [
+                        "Check the mail",
+                        "Deliver the mail",
+                        "Receive the mail",
+                        "Send the mail"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027ajustar o despertador\u0027?",
+        "correctAnswer":  "Set the alarm",
+        "options":  [
+                        "Set the alarm",
+                        "Ring the alarm",
+                        "Turn off the alarm",
+                        "Sleep through the alarm"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027carregar o celular\u0027?",
+        "correctAnswer":  "Charge your phone",
+        "options":  [
+                        "Charge your phone",
+                        "Use your phone",
+                        "Call your phone",
+                        "Lose your phone"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027trancar a porta\u0027 em inglês?",
+        "correctAnswer":  "Lock the door",
+        "options":  [
+                        "Lock the door",
+                        "Unlock the door",
+                        "Open the door",
+                        "Close the door"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027abrir as cortinas\u0027?",
+        "correctAnswer":  "Open the curtains",
+        "options":  [
+                        "Open the curtains",
+                        "Close the curtains",
+                        "Wash the curtains",
+                        "Hang the curtains"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027descer as escadas\u0027?",
+        "correctAnswer":  "Go down the stairs",
+        "options":  [
+                        "Go down the stairs",
+                        "Go up the stairs",
+                        "Stay on the stairs",
+                        "Clean the stairs"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Como se diz \u0027subir as escadas\u0027 em inglês?",
+        "correctAnswer":  "Go up the stairs",
+        "options":  [
+                        "Go up the stairs",
+                        "Go down the stairs",
+                        "Stay on the stairs",
+                        "Run the stairs"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027beber um copo de água\u0027?",
+        "correctAnswer":  "Drink a glass of water",
+        "options":  [
+                        "Drink a glass of water",
+                        "Pour a glass of water",
+                        "Fill a glass of water",
+                        "Spill a glass of water"
+                    ],
+        "difficulty":  "hard"
+    }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'teclado' em inglês?",
+    "correctAnswer": "keyboard",
+    "options": ["keyboard", "mouse", "screen", "printer"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'ratinho de computador' em inglês?",
+    "correctAnswer": "mouse",
+    "options": ["mouse", "keyboard", "monitor", "cable"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual é a palavra em inglês para 'tela'?",
+    "correctAnswer": "screen",
+    "options": ["screen", "chair", "desk", "window"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que é 'email' em português?",
+    "correctAnswer": "correio eletrônico",
+    "options": ["correio eletrônico", "telefone", "carta", "mensagem de texto"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Como se chama 'página de internet' em inglês?",
+    "correctAnswer": "website",
+    "options": ["website", "email", "download", "internet"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'clicar' em inglês?",
+    "correctAnswer": "click",
+    "options": ["click", "type", "scroll", "save"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução para 'arquivo' em inglês?",
+    "correctAnswer": "file",
+    "options": ["file", "folder", "icon", "window"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'pasta' (de documentos) em inglês?",
+    "correctAnswer": "folder",
+    "options": ["folder", "file", "document", "page"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'baixar' (arquivo) em inglês?",
+    "correctAnswer": "download",
+    "options": ["download", "upload", "delete", "copy"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Como se chama 'enviar' (arquivo) para internet em inglês?",
+    "correctAnswer": "upload",
+    "options": ["upload", "download", "send", "save"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que é um 'aplicativo' em inglês?",
+    "correctAnswer": "app",
+    "options": ["app", "website", "program", "software"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'senha' em inglês?",
+    "correctAnswer": "password",
+    "options": ["password", "username", "email", "account"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'conectar' em inglês?",
+    "correctAnswer": "connect",
+    "options": ["connect", "disconnect", "install", "download"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual é a palavra em inglês para 'rede'?",
+    "correctAnswer": "network",
+    "options": ["network", "internet", "cable", "connection"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Como se chama 'computador' em inglês?",
+    "correctAnswer": "computer",
+    "options": ["computer", "laptop", "tablet", "phone"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'enviar' (mensagem) em inglês?",
+    "correctAnswer": "send",
+    "options": ["send", "receive", "open", "close"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'celular' em inglês?",
+    "correctAnswer": "mobile phone",
+    "options": ["mobile phone", "computer", "laptop", "tablet"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que é um 'navegador de internet' em inglês?",
+    "correctAnswer": "browser",
+    "options": ["browser", "search engine", "website", "server"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Como se chama uma 'ligação de video' em inglês?",
+    "correctAnswer": "video call",
+    "options": ["video call", "phone call", "text message", "email"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'atualizar' (um programa) em inglês?",
+    "correctAnswer": "update",
+    "options": ["update", "upgrade", "install", "delete"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'backup' em português?",
+    "correctAnswer": "cópia de segurança",
+    "options": ["cópia de segurança", "arquivo", "pasta", "programa"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'sincronizar' em inglês?",
+    "correctAnswer": "sync",
+    "options": ["sync", "save", "copy", "delete"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Como se chama um 'vírus de computador' em inglês?",
+    "correctAnswer": "malware",
+    "options": ["malware", "bug", "error", "crash"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que é 'nuvem' (em computação) em inglês?",
+    "correctAnswer": "cloud",
+    "options": ["cloud", "server", "database", "network"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'armazenamento em nuvem' em inglês?",
+    "correctAnswer": "cloud storage",
+    "options": ["cloud storage", "online storage", "backup", "hard drive"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'compartilhar' em inglês?",
+    "correctAnswer": "share",
+    "options": ["share", "send", "copy", "transfer"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Como se chama um 'usuário' em inglês?",
+    "correctAnswer": "user",
+    "options": ["user", "admin", "owner", "member"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que é um 'nome de usuário' em inglês?",
+    "correctAnswer": "username",
+    "options": ["username", "password", "email", "account"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'fazer login' em inglês?",
+    "correctAnswer": "log in",
+    "options": ["log in", "log out", "sign up", "sign in"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'fazer logout' em inglês?",
+    "correctAnswer": "log out",
+    "options": ["log out", "log in", "disconnect", "exit"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Como se chama um 'servidor' em inglês?",
+    "correctAnswer": "server",
+    "options": ["server", "client", "network", "host"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que é 'dados' em inglês?",
+    "correctAnswer": "data",
+    "options": ["data", "information", "file", "document"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'base de dados' em inglês?",
+    "correctAnswer": "database",
+    "options": ["database", "data file", "data storage", "data server"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'criptografia' em inglês?",
+    "correctAnswer": "encryption",
+    "options": ["encryption", "password", "security", "protection"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Como se chama 'software de fonte aberta' em inglês?",
+    "correctAnswer": "open source",
+    "options": ["open source", "freeware", "shareware", "proprietary"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que é 'inteligência artificial' em inglês?",
+    "correctAnswer": "artificial intelligence",
+    "options": ["artificial intelligence", "machine learning", "deep learning", "neural network"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'aprendizado de máquina' em inglês?",
+    "correctAnswer": "machine learning",
+    "options": ["machine learning", "artificial intelligence", "deep learning", "algorithm"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'virtualização' em inglês?",
+    "correctAnswer": "virtualization",
+    "options": ["virtualization", "simulation", "emulation", "implementation"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Como se chama um 'protocolo de segurança' em inglês?",
+    "correctAnswer": "security protocol",
+    "options": ["security protocol", "encryption method", "firewall", "antivirus"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que é 'certificado digital' em inglês?",
+    "correctAnswer": "digital certificate",
+    "options": ["digital certificate", "SSL certificate", "security key", "token"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'autenticação de dois fatores' em inglês?",
+    "correctAnswer": "two-factor authentication",
+    "options": ["two-factor authentication", "multi-factor authentication", "password protection", "biometric authentication"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'API' em português?",
+    "correctAnswer": "interface de programação",
+    "options": ["interface de programação", "aplicação de programa", "programa de interface", "aplicação de processamento"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Como se chama um 'banco de dados NoSQL' em inglês?",
+    "correctAnswer": "NoSQL database",
+    "options": ["NoSQL database", "SQL database", "relational database", "distributed database"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que é 'containerização' em inglês?",
+    "correctAnswer": "containerization",
+    "options": ["containerization", "virtualization", "modularization", "compartmentalization"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'orquestração de containers' em inglês?",
+    "correctAnswer": "container orchestration",
+    "options": ["container orchestration", "container management", "container deployment", "container scaling"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'microsserviços' em inglês?",
+    "correctAnswer": "microservices",
+    "options": ["microservices", "microarchitecture", "mini-services", "distributed services"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Como se chama 'integração contínua' em inglês?",
+    "correctAnswer": "continuous integration",
+    "options": ["continuous integration", "continuous deployment", "continuous delivery", "continuous testing"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que é 'blockchain' em português?",
+    "correctAnswer": "cadeia de blocos",
+    "options": ["cadeia de blocos", "rede distribuída", "banco de dados distribuído", "protocolo de segurança"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que é 'firewall' em português?",
+    "correctAnswer": "parede de fogo",
+    "options": ["parede de fogo", "proteção de dados", "antivírus", "escudo de segurança"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Como se diz 'criptografia assimétrica' em inglês?",
+    "correctAnswer": "asymmetric encryption",
+    "options": ["asymmetric encryption", "symmetric encryption", "public-key encryption", "end-to-end encryption"],
+    "difficulty": "hard"
+  }
+]

@@ -1,0 +1,752 @@
+[
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir a um amigo que desligue as luzes ao sair do quarto para economizar energia. O que você diz?",
+    "correctAnswer": "Please turn off the lights when you leave the room.",
+    "options": [
+      "Please turn off the lights when you leave the room.",
+      "You should open the windows when you leave.",
+      "Don't forget to turn on the lights before you go.",
+      "Make sure you charge your phone before leaving."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer informar alguém que a reciclagem ajuda o meio ambiente. Como você expressa isso?",
+    "correctAnswer": "Recycling helps protect the environment.",
+    "options": [
+      "Recycling helps protect the environment.",
+      "Throwing away trash is good for nature.",
+      "Burning waste reduces pollution.",
+      "Recycling makes the environment more dangerous."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer sugerir a um colega que use transporte público em vez de carro para reduzir a poluição. O que você diz?",
+    "correctAnswer": "You should take public transport instead of driving to reduce pollution.",
+    "options": [
+      "You should take public transport instead of driving to reduce pollution.",
+      "You ought to drive faster to save time and fuel.",
+      "Try to use your car every day to help the environment.",
+      "Public transport is bad for the air quality in cities."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que é importante economizar água no dia a dia. Como você expressa isso em inglês?",
+    "correctAnswer": "It is important to save water every day.",
+    "options": [
+      "It is important to save water every day.",
+      "It is necessary to waste water regularly.",
+      "We must use as much water as possible.",
+      "Water conservation is not a priority."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar se alguém separa o lixo para reciclar. Como você faz essa pergunta?",
+    "correctAnswer": "Do you sort your rubbish for recycling?",
+    "options": [
+      "Do you sort your rubbish for recycling?",
+      "Do you throw everything in the same bin?",
+      "Have you ever burned your waste at home?",
+      "Do you buy new products instead of recycling?"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer avisar que jogar lixo no chão é prejudicial ao meio ambiente. O que você diz?",
+    "correctAnswer": "Littering is harmful to the environment.",
+    "options": [
+      "Littering is harmful to the environment.",
+      "Dropping litter is a good habit for the planet.",
+      "Throwing trash on the ground cleans the streets.",
+      "Littering helps keep cities tidy."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que plantar árvores é uma boa forma de ajudar o meio ambiente. Como você expressa isso?",
+    "correctAnswer": "Planting trees is a great way to help the environment.",
+    "options": [
+      "Planting trees is a great way to help the environment.",
+      "Cutting down trees improves the quality of air.",
+      "Removing forests is good for local wildlife.",
+      "Planting trees increases pollution in cities."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que usar sacolas reutilizáveis reduz o desperdício de plástico. Como você diz isso?",
+    "correctAnswer": "Using reusable bags reduces plastic waste.",
+    "options": [
+      "Using reusable bags reduces plastic waste.",
+      "Plastic bags are the best option for shopping.",
+      "Buying more plastic bags helps the environment.",
+      "Reusable bags create more waste than plastic ones."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar a um colega o que ele faz para economizar energia em casa. Como você pergunta?",
+    "correctAnswer": "What do you do to save energy at home?",
+    "options": [
+      "What do you do to save energy at home?",
+      "How much electricity do you waste every month?",
+      "Do you always leave your appliances on?",
+      "Why do you use so much power at home?"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer expressar preocupação com o aumento do desmatamento. Como você faz isso de forma simples?",
+    "correctAnswer": "I am worried about the increase in deforestation.",
+    "options": [
+      "I am worried about the increase in deforestation.",
+      "I am happy that more forests are being cut down.",
+      "Deforestation is a positive trend for the economy.",
+      "I don't mind if more trees are removed."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer informar alguém que as energias renováveis são melhores para o planeta do que os combustíveis fósseis. O que você diz?",
+    "correctAnswer": "Renewable energy is better for the planet than fossil fuels.",
+    "options": [
+      "Renewable energy is better for the planet than fossil fuels.",
+      "Fossil fuels are cleaner than renewable energy sources.",
+      "Oil and gas are the most eco-friendly options available.",
+      "Renewable energy causes more pollution than coal."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer concordar com alguém que disse que devemos proteger os oceanos. Como você expressa concordância?",
+    "correctAnswer": "I totally agree. We need to protect our oceans.",
+    "options": [
+      "I totally agree. We need to protect our oceans.",
+      "I disagree. Oceans can take care of themselves.",
+      "That's wrong. Pollution doesn't affect the sea.",
+      "I'm not sure oceans need any protection at all."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir a alguém que não desperdice alimentos, pois isso também tem impacto ambiental. O que você diz?",
+    "correctAnswer": "Please try not to waste food. It also has an environmental impact.",
+    "options": [
+      "Please try not to waste food. It also has an environmental impact.",
+      "Feel free to throw away as much food as you like.",
+      "Wasting food is completely harmless to the environment.",
+      "It's okay to leave lots of food on your plate every day."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que o aquecimento global é um problema sério que afeta todo o planeta. Como você expressa isso?",
+    "correctAnswer": "Global warming is a serious problem that affects the whole planet.",
+    "options": [
+      "Global warming is a serious problem that affects the whole planet.",
+      "Global warming only affects cold countries in the north.",
+      "Climate change is a minor issue that will go away soon.",
+      "Warming temperatures are always good for the environment."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer sugerir que as pessoas andem de bicicleta para trabalhar para reduzir as emissões de carbono. O que você diz?",
+    "correctAnswer": "Why don't people cycle to work to reduce carbon emissions?",
+    "options": [
+      "Why don't people cycle to work to reduce carbon emissions?",
+      "People should drive more cars to lower carbon emissions.",
+      "Taking a plane to work is the best way to reduce pollution.",
+      "Using more fuel helps in reducing carbon in the atmosphere."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que compramos produtos com muita embalagem plástica desnecessária. Como você expressa isso de forma simples?",
+    "correctAnswer": "We buy products with too much unnecessary plastic packaging.",
+    "options": [
+      "We buy products with too much unnecessary plastic packaging.",
+      "All plastic packaging is essential and good for the planet.",
+      "We should encourage companies to use more plastic in products.",
+      "Plastic packaging has no negative effects on the environment."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer a um amigo que deixou a torneira aberta para fechar para economizar água. O que você diz?",
+    "correctAnswer": "Could you please turn off the tap? We need to save water.",
+    "options": [
+      "Could you please turn off the tap? We need to save water.",
+      "Please leave the tap running. It doesn't matter.",
+      "Keep the water on. There's no need to worry about it.",
+      "Open the tap more so the water flows faster."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você está em uma reunião e quer propor que a empresa adote uma política de impressão reduzida para diminuir o uso de papel. Como você faz essa sugestão de forma adequada?",
+    "correctAnswer": "I'd like to suggest that we implement a reduced printing policy to cut down on paper use.",
+    "options": [
+      "I'd like to suggest that we implement a reduced printing policy to cut down on paper use.",
+      "I think we should print more documents to improve our workflow.",
+      "We need to buy more printers to handle the company's paper needs.",
+      "Perhaps we could encourage staff to use more paper for their tasks."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer explicar para turistas estrangeiros por que é importante não deixar lixo em áreas naturais. Como você expressa isso?",
+    "correctAnswer": "Leaving rubbish in natural areas damages local ecosystems and harms wildlife.",
+    "options": [
+      "Leaving rubbish in natural areas damages local ecosystems and harms wildlife.",
+      "Dropping litter in forests helps fertilise the soil naturally.",
+      "Natural areas are designed to absorb any amount of waste.",
+      "Wildlife benefits from the food scraps visitors leave behind."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Alguém pergunta o que você pensa sobre o uso de energia solar em residências. Como você expressa sua opinião de forma equilibrada?",
+    "correctAnswer": "In my opinion, solar energy is a viable option for households, although the initial cost can be high.",
+    "options": [
+      "In my opinion, solar energy is a viable option for households, although the initial cost can be high.",
+      "I believe solar panels are useless because they only work on sunny days.",
+      "As far as I'm concerned, solar energy is too expensive and should be avoided.",
+      "I think solar power is harmful because it produces a lot of carbon dioxide."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer explicar a diferença entre biodegradável e não-biodegradável para um grupo de estudantes. O que você diz?",
+    "correctAnswer": "Biodegradable materials break down naturally, whereas non-biodegradable ones remain in the environment for a long time.",
+    "options": [
+      "Biodegradable materials break down naturally, whereas non-biodegradable ones remain in the environment for a long time.",
+      "Both biodegradable and non-biodegradable materials decompose at the same speed.",
+      "Non-biodegradable materials are safer for the environment than biodegradable ones.",
+      "Biodegradable products always last longer than synthetic materials in nature."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer discordar educadamente de um colega que afirmou que a poluição não afeta a saúde humana. O que você diz?",
+    "correctAnswer": "I see your point, but I think air pollution can seriously affect people's health.",
+    "options": [
+      "I see your point, but I think air pollution can seriously affect people's health.",
+      "You're absolutely right. Pollution has no impact on human health.",
+      "I agree completely. Clean air is not necessary for good health.",
+      "That's a great point. Pollution actually makes people healthier."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar a alguém que tipo de medidas ele toma em casa para viver de forma mais sustentável. Como você pergunta?",
+    "correctAnswer": "What measures do you take at home to live more sustainably?",
+    "options": [
+      "What measures do you take at home to live more sustainably?",
+      "How many appliances do you leave on standby every night?",
+      "Do you always buy new products instead of reusing old ones?",
+      "Why do you consume so much energy and water at home?"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer relatar que sua cidade tem sofrido com a falta de chuva nos últimos meses e que isso está afetando o abastecimento de água. Como você descreve a situação?",
+    "correctAnswer": "Our city has been experiencing a drought for the past few months, which has been affecting the water supply.",
+    "options": [
+      "Our city has been experiencing a drought for the past few months, which has been affecting the water supply.",
+      "It has been raining heavily lately, so there is no problem with the water supply.",
+      "Our city has too much water and needs to find ways to use it all.",
+      "The water supply has improved greatly because of recent environmental policies."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer convencer seu irmão a comprar produtos locais em vez de importados para reduzir a pegada de carbono. O que você diz?",
+    "correctAnswer": "If you buy local products, you help reduce the carbon footprint caused by long-distance transportation.",
+    "options": [
+      "If you buy local products, you help reduce the carbon footprint caused by long-distance transportation.",
+      "Importing goods from abroad is the most environmentally friendly option.",
+      "Local products always have a larger carbon footprint than imported ones.",
+      "Buying products from other countries supports sustainable development."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Em uma apresentação escolar, você precisa introduzir o tema das mudanças climáticas. Como você começa sua fala?",
+    "correctAnswer": "Today, I'd like to talk about climate change and its impact on our planet.",
+    "options": [
+      "Today, I'd like to talk about climate change and its impact on our planet.",
+      "Today, I'm going to explain why climate change is not a real problem.",
+      "My presentation is about why we should ignore environmental issues.",
+      "I want to show you that climate change has no scientific basis."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer expressar que está comprometido a reduzir seu consumo de plástico. Como você diz isso de forma natural?",
+    "correctAnswer": "I've decided to cut down on my plastic consumption as much as possible.",
+    "options": [
+      "I've decided to cut down on my plastic consumption as much as possible.",
+      "I plan to increase my use of single-use plastic products every day.",
+      "I am committed to buying more plastic packaging whenever I can.",
+      "I want to start using more disposable items to reduce my waste."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar a um especialista quais são os principais fatores que contribuem para a perda de biodiversidade. Como você faz essa pergunta?",
+    "correctAnswer": "Could you explain what the main factors contributing to biodiversity loss are?",
+    "options": [
+      "Could you explain what the main factors contributing to biodiversity loss are?",
+      "Can you tell me why biodiversity is increasing so rapidly worldwide?",
+      "Would you mind explaining why animals and plants are flourishing globally?",
+      "Do you know how pollution helps increase the number of animal species?"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer expressar que, embora os carros elétricos sejam mais caros, eles poluem menos. Como você constrói essa frase de contraste?",
+    "correctAnswer": "Even though electric cars are more expensive, they produce far less pollution than petrol vehicles.",
+    "options": [
+      "Even though electric cars are more expensive, they produce far less pollution than petrol vehicles.",
+      "Because electric cars are cheaper, they are worse for the environment than petrol cars.",
+      "Since petrol cars are more affordable, they are the best option for reducing emissions.",
+      "Although electric cars are cleaner, they cost exactly the same as conventional vehicles."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer encorajar um grupo de voluntários antes de uma ação de limpeza ambiental. O que você diz para motivá-los?",
+    "correctAnswer": "Every small action we take today makes a real difference for the future of our planet.",
+    "options": [
+      "Every small action we take today makes a real difference for the future of our planet.",
+      "It doesn't matter what we do today since the environment will recover on its own.",
+      "Let's not waste our time here. Cleaning up won't change anything at all.",
+      "Individual efforts are pointless unless governments take action first."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar a um amigo se ele está ciente dos efeitos das mudanças climáticas no nível do mar. Como você faz isso?",
+    "correctAnswer": "Are you aware of the effects of climate change on sea levels?",
+    "options": [
+      "Are you aware of the effects of climate change on sea levels?",
+      "Do you know why sea levels are falling due to climate change?",
+      "Have you heard that rising sea levels are caused by deforestation only?",
+      "Did you know that climate change has no connection to ocean levels?"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir a uma empresa que justifique por que ainda utiliza embalagens plásticas descartáveis. Como você faz essa solicitação de forma formal?",
+    "correctAnswer": "Could you please explain why your company still uses disposable plastic packaging?",
+    "options": [
+      "Could you please explain why your company still uses disposable plastic packaging?",
+      "I'd like to congratulate your company for its continued use of single-use plastics.",
+      "Would you mind telling me how your company plans to increase plastic usage?",
+      "Can you confirm that your company will never switch to sustainable packaging?"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer descrever as consequências do derramamento de petróleo no oceano para uma plateia internacional. O que você diz?",
+    "correctAnswer": "Oil spills cause severe damage to marine ecosystems, killing sea life and polluting coastal areas.",
+    "options": [
+      "Oil spills cause severe damage to marine ecosystems, killing sea life and polluting coastal areas.",
+      "Oil spills are beneficial to the ocean as they provide nutrients for marine animals.",
+      "When oil is released into the sea, it actually helps clean the water naturally.",
+      "Marine life tends to thrive in areas where oil spills have occurred."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer fazer uma crítica construtiva a uma empresa dizendo que suas práticas de descarte de resíduos precisam melhorar. Como você expressa isso de forma profissional?",
+    "correctAnswer": "I believe your waste disposal practices could be significantly improved to meet environmental standards.",
+    "options": [
+      "I believe your waste disposal practices could be significantly improved to meet environmental standards.",
+      "Your company is doing an excellent job with waste management and needs no changes.",
+      "I think your environmental practices are perfect and should remain as they are.",
+      "Waste disposal is not important, and companies should not worry about it."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer argumentar que as empresas têm tanta responsabilidade quanto os indivíduos na luta contra a poluição. Como você estrutura esse argumento?",
+    "correctAnswer": "While individuals can make a difference, corporations bear equal, if not greater, responsibility for tackling pollution.",
+    "options": [
+      "While individuals can make a difference, corporations bear equal, if not greater, responsibility for tackling pollution.",
+      "Only governments are responsible for pollution, and individuals have no role to play.",
+      "Corporations are not responsible for environmental issues since they create jobs.",
+      "Since individuals cause all the pollution, companies should not be held accountable."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você precisa rebater o argumento de que o crescimento econômico é incompatível com a sustentabilidade ambiental. O que você diz?",
+    "correctAnswer": "Economic growth and environmental sustainability are not mutually exclusive; in fact, green industries can drive both.",
+    "options": [
+      "Economic growth and environmental sustainability are not mutually exclusive; in fact, green industries can drive both.",
+      "You're right that a country cannot grow economically while protecting the environment.",
+      "Sustainable development always slows down economic growth and should be avoided.",
+      "Environmental protection is too costly and hinders all forms of economic progress."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer expressar ceticismo em relação às promessas de uma empresa que se declara sustentável, sem descartar completamente a possibilidade. Como você faz isso?",
+    "correctAnswer": "I'm somewhat sceptical about their sustainability claims, though I'm open to being convinced by concrete evidence.",
+    "options": [
+      "I'm somewhat sceptical about their sustainability claims, though I'm open to being convinced by concrete evidence.",
+      "I completely trust everything this company says about its environmental practices.",
+      "There's no reason to doubt any company that claims to be environmentally friendly.",
+      "I am fully convinced that all green labels are accurate and trustworthy."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você precisa recomendar formalmente políticas específicas para reduzir as emissões de carbono em um relatório. Qual frase é mais adequada para fazer essa recomendação?",
+    "correctAnswer": "It is strongly recommended that governments implement carbon pricing mechanisms to incentivise emission reductions.",
+    "options": [
+      "It is strongly recommended that governments implement carbon pricing mechanisms to incentivise emission reductions.",
+      "Governments should probably think about maybe doing something about carbon at some point.",
+      "I suggest that we forget about carbon emissions since they are not that important.",
+      "Carbon pricing is too complicated and should never be considered as a policy option."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Em um debate, você quer reconhecer os pontos do oponente sobre o custo das energias renováveis, mas ainda defender sua superioridade a longo prazo. Como você faz isso?",
+    "correctAnswer": "I acknowledge that renewable energy has high upfront costs; however, its long-term benefits far outweigh these initial investments.",
+    "options": [
+      "I acknowledge that renewable energy has high upfront costs; however, its long-term benefits far outweigh these initial investments.",
+      "Renewable energy has no drawbacks whatsoever and is always cheaper than fossil fuels.",
+      "I completely disagree that renewable energy has any costs associated with it.",
+      "Since renewable energy is expensive, we should abandon it in favour of coal and oil."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você está escrevendo um ensaio acadêmico e precisa apresentar evidências que apoiem a ideia de que a desflorestação contribui para as mudanças climáticas. Qual frase é mais adequada?",
+    "correctAnswer": "Studies indicate that deforestation accounts for approximately 10% of global greenhouse gas emissions.",
+    "options": [
+      "Studies indicate that deforestation accounts for approximately 10% of global greenhouse gas emissions.",
+      "Some people say that cutting down trees is good for the atmosphere.",
+      "Research proves that forests produce more carbon dioxide than they absorb.",
+      "There is no scientific consensus on whether deforestation affects the climate."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer expressar que, embora medidas individuais sejam importantes, a mudança sistêmica é essencial para enfrentar a crise climática. Como você faz isso de forma sofisticada?",
+    "correctAnswer": "Although individual actions are valuable, systemic change at governmental and corporate levels is indispensable in addressing the climate crisis.",
+    "options": [
+      "Although individual actions are valuable, systemic change at governmental and corporate levels is indispensable in addressing the climate crisis.",
+      "Individual actions are the only solution to the climate crisis, and no other changes are needed.",
+      "Systemic change is unnecessary because small personal habits are enough to solve climate change.",
+      "Since governments do everything, individuals should not concern themselves with environmental issues."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Um jornalista te pergunta sobre o conceito de 'greenwashing'. Como você explica de forma precisa e crítica?",
+    "correctAnswer": "Greenwashing refers to the practice of companies making misleading claims about their environmental credentials to attract eco-conscious consumers.",
+    "options": [
+      "Greenwashing refers to the practice of companies making misleading claims about their environmental credentials to attract eco-conscious consumers.",
+      "Greenwashing is a method used by scientists to measure the carbon footprint of products.",
+      "Greenwashing describes the process of cleaning rivers and beaches using green technology.",
+      "Greenwashing means painting factories green to comply with environmental regulations."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer propor uma solução inovadora para o problema dos resíduos eletrônicos em uma conferência internacional. O que você diz?",
+    "correctAnswer": "I would like to propose the establishment of a global e-waste recycling framework that holds manufacturers accountable for the lifecycle of their products.",
+    "options": [
+      "I would like to propose the establishment of a global e-waste recycling framework that holds manufacturers accountable for the lifecycle of their products.",
+      "I think we should encourage consumers to throw away their electronic devices more frequently.",
+      "My proposal is to stop using all electronic devices immediately to reduce e-waste.",
+      "I suggest that countries should ignore e-waste since it is too small an issue to address."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer contextualizar historicamente o problema da poluição industrial para um público acadêmico. O que você diz?",
+    "correctAnswer": "Industrial pollution has been a growing concern since the onset of the Industrial Revolution, when unchecked emissions began altering atmospheric composition.",
+    "options": [
+      "Industrial pollution has been a growing concern since the onset of the Industrial Revolution, when unchecked emissions began altering atmospheric composition.",
+      "Industrial pollution is a recent phenomenon that only started in the 21st century.",
+      "Factories have always been environmentally friendly and do not contribute to pollution.",
+      "The Industrial Revolution led to cleaner air and better environmental conditions worldwide."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer expressar nuance ao afirmar que a tecnologia pode ser tanto parte do problema quanto da solução ambiental. Como você diz isso?",
+    "correctAnswer": "Technology is a double-edged sword in the environmental debate; while it drives consumption and pollution, it also enables renewable energy solutions.",
+    "options": [
+      "Technology is a double-edged sword in the environmental debate; while it drives consumption and pollution, it also enables renewable energy solutions.",
+      "Technology is only harmful to the environment and has no positive applications in sustainability.",
+      "All technological advancements are beneficial to the environment without exception.",
+      "The relationship between technology and the environment is simple and straightforward."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você precisa refutar de forma acadêmica o argumento de que países em desenvolvimento não deveriam ter que se preocupar com metas de emissão. O que você argumenta?",
+    "correctAnswer": "While it is true that developed nations have historically emitted more, climate change affects all countries equally, making shared but differentiated responsibility essential.",
+    "options": [
+      "While it is true that developed nations have historically emitted more, climate change affects all countries equally, making shared but differentiated responsibility essential.",
+      "Developing countries should be completely exempt from all environmental obligations.",
+      "Only wealthy nations are affected by climate change, so poorer countries can ignore it.",
+      "Emission targets are only relevant for industrialised countries and serve no purpose elsewhere."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer alertar sobre os riscos de soluções tecnológicas de geoengenharia como forma de combater as mudanças climáticas. O que você diz?",
+    "correctAnswer": "Although geoengineering offers potential solutions, deploying such technologies without thorough research could trigger unpredictable environmental consequences.",
+    "options": [
+      "Although geoengineering offers potential solutions, deploying such technologies without thorough research could trigger unpredictable environmental consequences.",
+      "Geoengineering is a completely safe approach to climate change with no risks involved.",
+      "We should immediately implement all geoengineering solutions without any further study.",
+      "Geoengineering has no effect on climate change and is a waste of research funding."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer apresentar dados sobre a aceleração do derretimento das calotas polares como evidência do aquecimento global. Como você introduz esses dados?",
+    "correctAnswer": "Recent data suggests that polar ice caps are melting at an unprecedented rate, providing compelling evidence of accelerated global warming.",
+    "options": [
+      "Recent data suggests that polar ice caps are melting at an unprecedented rate, providing compelling evidence of accelerated global warming.",
+      "New research confirms that polar ice caps have been growing steadily over the last decade.",
+      "Scientists have recently proven that climate change has no effect on polar regions.",
+      "The latest figures show that ice sheets are expanding, disproving global warming theories."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer expressar que a proteção ambiental e a justiça social estão intrinsecamente ligadas. Como você articula essa relação?",
+    "correctAnswer": "Environmental protection and social justice are deeply interconnected, as marginalised communities are disproportionately affected by ecological degradation.",
+    "options": [
+      "Environmental protection and social justice are deeply interconnected, as marginalised communities are disproportionately affected by ecological degradation.",
+      "Environmental issues and social inequality are entirely separate concerns with no relation.",
+      "Wealthy communities suffer the most from environmental pollution and climate change.",
+      "Social justice has nothing to do with the environment and should not be discussed together."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir a um especialista que esclareça o conceito de neutralidade de carbono e como ela pode ser alcançada. Como você faz essa solicitação?",
+    "correctAnswer": "Could you elaborate on what carbon neutrality means in practice and outline the steps required to achieve it?",
+    "options": [
+      "Could you elaborate on what carbon neutrality means in practice and outline the steps required to achieve it?",
+      "Can you confirm that carbon neutrality is impossible to achieve under any circumstances?",
+      "Would you agree that carbon neutrality is just a marketing term with no real meaning?",
+      "Do you think carbon neutrality refers to countries that produce no goods whatsoever?"
+    ],
+    "difficulty": "hard"
+  }
+]

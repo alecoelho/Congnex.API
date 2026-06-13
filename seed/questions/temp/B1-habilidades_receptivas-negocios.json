@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "A empresa precisa aumentar a receita este ano.",
+        "correctAnswer":  "The company needs to increase revenue this year.",
+        "options":  [
+                        "The company needs to increase revenue this year.",
+                        "The company needs to increase the cost this year.",
+                        "The company needs to decrease the profit this year.",
+                        "The company needs to reduce the budget this year."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "Qual é o lucro líquido da empresa?",
+        "correctAnswer":  "What is the company\u0027s net profit?",
+        "options":  [
+                        "What is the company\u0027s net profit?",
+                        "What is the company\u0027s total cost?",
+                        "What is the company\u0027s gross income?",
+                        "What is the company\u0027s annual expense?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "O contrato foi assinado pela diretora.",
+        "correctAnswer":  "The contract was signed by the director.",
+        "options":  [
+                        "The contract was signed by the director.",
+                        "The contract was broken by the manager.",
+                        "The contract was rejected by the CEO.",
+                        "The contract was cancelled by the board."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "Precisamos reduzir os gastos operacionais.",
+        "correctAnswer":  "We need to reduce operating expenses.",
+        "options":  [
+                        "We need to reduce operating expenses.",
+                        "We need to increase the sales department.",
+                        "We need to hire more employees.",
+                        "We need to expand the facilities."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "O investimento inicial será de dois milhões de reais.",
+        "correctAnswer":  "The initial investment will be two million reais.",
+        "options":  [
+                        "The initial investment will be two million reais.",
+                        "The final budget will be three million reais.",
+                        "The total cost will be one million reais.",
+                        "The quarterly profit will be two million reais."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "A reunião de vendas foi adiada para próxima semana.",
+        "correctAnswer":  "The sales meeting was postponed to next week.",
+        "options":  [
+                        "The sales meeting was postponed to next week.",
+                        "The sales meeting was cancelled permanently.",
+                        "The sales meeting was moved to yesterday.",
+                        "The sales meeting was rescheduled to last month."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "Devemos analisar o relatório financeiro mensal.",
+        "correctAnswer":  "We should analyze the monthly financial report.",
+        "options":  [
+                        "We should analyze the monthly financial report.",
+                        "We should ignore the yearly budget forecast.",
+                        "We should skip the quarterly review meeting.",
+                        "We should delay the annual audit process."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "Os clientes reclamaram sobre a qualidade do serviço.",
+        "correctAnswer":  "The customers complained about the quality of the service.",
+        "options":  [
+                        "The customers complained about the quality of the service.",
+                        "The customers praised the efficiency of the team.",
+                        "The customers appreciated the low prices.",
+                        "The customers were satisfied with the delivery time."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "É necessário atualizar a estratégia de marketing.",
+        "correctAnswer":  "It is necessary to update the marketing strategy.",
+        "options":  [
+                        "It is necessary to update the marketing strategy.",
+                        "It is important to keep the old advertising campaign.",
+                        "It is crucial to reduce the marketing budget.",
+                        "It is essential to stop online promotions."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "O departamento de RH entrevistou três candidatos.",
+        "correctAnswer":  "The HR department interviewed three candidates.",
+        "options":  [
+                        "The HR department interviewed three candidates.",
+                        "The management team hired ten employees.",
+                        "The company dismissed all staff members.",
+                        "The recruitment agency rejected the applications."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "O imposto sobre vendas aumentou este semestre.",
+        "correctAnswer":  "The sales tax increased this semester.",
+        "options":  [
+                        "The sales tax increased this semester.",
+                        "The corporate tax decreased this quarter.",
+                        "The income tax remained the same.",
+                        "The property tax was eliminated."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "Os clientes pagaram as faturas no prazo.",
+        "correctAnswer":  "The customers paid the invoices on time.",
+        "options":  [
+                        "The customers paid the invoices on time.",
+                        "The clients delayed all payments.",
+                        "The buyers refused to pay.",
+                        "The customers returned the products."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "O novo gerente chegou na segunda-feira.",
+        "correctAnswer":  "The new manager arrived on Monday.",
+        "options":  [
+                        "The new manager arrived on Monday.",
+                        "The old supervisor left on Friday.",
+                        "The director quit on Wednesday.",
+                        "The employee retired on Sunday."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "A proposta foi rejeitada pelo conselho.",
+        "correctAnswer":  "The proposal was rejected by the board.",
+        "options":  [
+                        "The proposal was rejected by the board.",
+                        "The plan was accepted unanimously.",
+                        "The idea was approved immediately.",
+                        "The suggestion was implemented quickly."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "A empresa vendeu o equipamento antigo.",
+        "correctAnswer":  "The company sold the old equipment.",
+        "options":  [
+                        "The company sold the old equipment.",
+                        "The business bought new machinery.",
+                        "The firm donated the items.",
+                        "The organization discarded the assets."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "O documento foi enviado por email.",
+        "correctAnswer":  "The document was sent by email.",
+        "options":  [
+                        "The document was sent by email.",
+                        "The letter was delivered by courier.",
+                        "The file was transferred manually.",
+                        "The data was uploaded online."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "O cliente recebeu o pedido ontem.",
+        "difficulty":  "easy",
+        "options":  [
+                        "The customer received the order yesterday.",
+                        "The client sent the package today.",
+                        "The buyer delivered the goods.",
+                        "The shopper placed the order."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "The customer received the order yesterday."
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "A empresa estabeleceu uma parceria com um fornecedor local.",
+        "correctAnswer":  "The company established a partnership with a local supplier.",
+        "options":  [
+                        "The company established a partnership with a local supplier.",
+                        "The business terminated its contract with the vendor.",
+                        "The organization rejected the supplier\u0027s proposal.",
+                        "The firm ended relations with all partners."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "Os acionistas votaram a favor da reestruturação corporativa.",
+        "correctAnswer":  "The shareholders voted in favor of corporate restructuring.",
+        "options":  [
+                        "The shareholders voted in favor of corporate restructuring.",
+                        "The investors opposed the business expansion plan.",
+                        "The stockholders rejected the dividend proposal.",
+                        "The board members abstained from voting."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "O gerente solicitou um aumento orçamentário para o projeto.",
+        "correctAnswer":  "The manager requested a budget increase for the project.",
+        "options":  [
+                        "The manager requested a budget increase for the project.",
+                        "The supervisor approved the reduction in funding.",
+                        "The director denied all financial requests.",
+                        "The administrator cancelled the budget allocation."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "É fundamental implementar medidas de redução de custos.",
+        "correctAnswer":  "It is essential to implement cost reduction measures.",
+        "options":  [
+                        "It is essential to implement cost reduction measures.",
+                        "It is optional to increase operational expenses.",
+                        "It is unnecessary to monitor spending.",
+                        "It is advisable to avoid financial planning."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "O fluxo de caixa da empresa está abaixo do esperado.",
+        "correctAnswer":  "The company\u0027s cash flow is below expectations.",
+        "options":  [
+                        "The company\u0027s cash flow is below expectations.",
+                        "The business\u0027s revenue exceeds the forecast.",
+                        "The firm\u0027s profit margin is improving.",
+                        "The organization\u0027s liquidity position is strong."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "Precisamos negociar melhores condições de pagamento com os fornecedores.",
+        "correctAnswer":  "We need to negotiate better payment terms with suppliers.",
+        "options":  [
+                        "We need to negotiate better payment terms with suppliers.",
+                        "We should accept all vendor demands without discussion.",
+                        "We must avoid any communication with providers.",
+                        "We have to pay in advance for all purchases."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "A análise de mercado indicou uma oportunidade de crescimento.",
+        "correctAnswer":  "The market analysis indicated a growth opportunity.",
+        "options":  [
+                        "The market analysis indicated a growth opportunity.",
+                        "The research showed a decline in market demand.",
+                        "The survey revealed customer dissatisfaction.",
+                        "The study predicted a market crash."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "O contabilista preparou o balanço patrimonial trimestral.",
+        "correctAnswer":  "The accountant prepared the quarterly balance sheet.",
+        "options":  [
+                        "The accountant prepared the quarterly balance sheet.",
+                        "The auditor rejected the annual financial statements.",
+                        "The treasurer approved the monthly invoices.",
+                        "The bookkeeper filed the tax returns."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "A estratégia de diferenciação pode aumentar a vantagem competitiva.",
+        "correctAnswer":  "The differentiation strategy can increase competitive advantage.",
+        "options":  [
+                        "The differentiation strategy can increase competitive advantage.",
+                        "The market positioning reduces customer loyalty.",
+                        "The product innovation decreases brand recognition.",
+                        "The service quality lowers market share."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "O programa de retenção de clientes foi bem-sucedido no trimestre anterior.",
+        "correctAnswer":  "The customer retention program was successful in the previous quarter.",
+        "options":  [
+                        "The customer retention program was successful in the previous quarter.",
+                        "The loyalty initiative failed to attract new clients.",
+                        "The engagement strategy lost valuable customers.",
+                        "The relationship program was discontinued abruptly."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "A empresa implementou um sistema de gestão de qualidade mais rigoroso.",
+        "correctAnswer":  "The company implemented a more rigorous quality management system.",
+        "options":  [
+                        "The company implemented a more rigorous quality management system.",
+                        "The organization abandoned all quality control procedures.",
+                        "The business reduced its standards for products.",
+                        "The firm lowered expectations for customer service."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "A conformidade regulatória é essencial para evitar multas.",
+        "correctAnswer":  "Regulatory compliance is essential to avoid fines.",
+        "options":  [
+                        "Regulatory compliance is essential to avoid fines.",
+                        "Non-compliance with regulations benefits the business.",
+                        "Ignoring legal requirements improves efficiency.",
+                        "Breaking rules reduces operational costs."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "O capital de giro deve ser suficiente para cobrir despesas operacionais.",
+        "correctAnswer":  "Working capital should be sufficient to cover operating expenses.",
+        "options":  [
+                        "Working capital should be sufficient to cover operating expenses.",
+                        "Cash reserves are unnecessary for daily operations.",
+                        "Liquid assets hinder business efficiency.",
+                        "Short-term liabilities should exceed current assets."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "A taxa de juros afeta as decisões de investimento corporativo.",
+        "correctAnswer":  "The interest rate affects corporate investment decisions.",
+        "options":  [
+                        "The interest rate affects corporate investment decisions.",
+                        "Interest rates have no impact on financing choices.",
+                        "Low borrowing costs discourage business expansion.",
+                        "High rates encourage companies to take on debt."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "O ciclo de vida do produto influencia a estratégia de preços.",
+        "correctAnswer":  "The product lifecycle influences pricing strategy.",
+        "options":  [
+                        "The product lifecycle influences pricing strategy.",
+                        "Prices remain static throughout all product stages.",
+                        "Market maturity eliminates price adjustments.",
+                        "Product decline requires constant price increases."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "A segmentação de mercado permite direcionamento mais eficaz.",
+        "correctAnswer":  "Market segmentation allows for more effective targeting.",
+        "options":  [
+                        "Market segmentation allows for more effective targeting.",
+                        "Treating all customers equally improves sales.",
+                        "Mass marketing eliminates the need for analysis.",
+                        "Generic approaches increase customer satisfaction."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "O benchmarking competitivo identifica lacunas de desempenho.",
+        "correctAnswer":  "Competitive benchmarking identifies performance gaps.",
+        "options":  [
+                        "Competitive benchmarking identifies performance gaps.",
+                        "Ignoring competitor activities maintains superiority.",
+                        "Internal focus eliminates the need for comparison.",
+                        "Avoiding benchmarks prevents organizational learning."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "A margem de lucro bruto aumentou de forma significativa.",
+        "correctAnswer":  "The gross profit margin increased significantly.",
+        "options":  [
+                        "The gross profit margin increased significantly.",
+                        "The operating expenses rose dramatically.",
+                        "The revenue decreased substantially.",
+                        "The net income fell sharply."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "O relatório de sustentabilidade corporativa evidenciou práticas responsáveis.",
+        "correctAnswer":  "The corporate sustainability report highlighted responsible practices.",
+        "options":  [
+                        "The corporate sustainability report highlighted responsible practices.",
+                        "The environmental audit revealed harmful activities.",
+                        "The social responsibility assessment showed violations.",
+                        "The business ethics review found misconduct."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "A volatilidade do mercado exigiu ajustes na carteira de investimentos.",
+        "correctAnswer":  "Market volatility required adjustments to the investment portfolio.",
+        "options":  [
+                        "Market volatility required adjustments to the investment portfolio.",
+                        "Currency stability eliminated the need for portfolio changes.",
+                        "Price stability reduced the investment risk.",
+                        "Market consistency simplified financial decisions."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "O processo de due diligence será concluído antes da fusão.",
+        "correctAnswer":  "The due diligence process will be completed before the merger.",
+        "options":  [
+                        "The due diligence process will be completed before the merger.",
+                        "The investigation will occur after the business combination.",
+                        "The audit will be skipped to accelerate the acquisition.",
+                        "The review process will be postponed indefinitely."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "O índice de rentabilidade do patrimônio líquido superou as projeções.",
+        "correctAnswer":  "The return on equity exceeded the projections.",
+        "options":  [
+                        "The return on equity exceeded the projections.",
+                        "The asset turnover fell short of expectations.",
+                        "The debt-to-equity ratio improved considerably.",
+                        "The working capital efficiency remained unchanged."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "A diversificação de receitas reduz a dependência de uma única fonte.",
+        "correctAnswer":  "Revenue diversification reduces dependence on a single source.",
+        "options":  [
+                        "Revenue diversification reduces dependence on a single source.",
+                        "Income concentration increases financial stability.",
+                        "Single revenue streams strengthen business resilience.",
+                        "Market consolidation improves profitability margins."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "O acordo de não-divulgação protege informações confidenciais da empresa.",
+        "correctAnswer":  "The non-disclosure agreement protects the company\u0027s confidential information.",
+        "options":  [
+                        "The non-disclosure agreement protects the company\u0027s confidential information.",
+                        "The confidentiality clause allows public disclosure of secrets.",
+                        "The privacy agreement requires sharing all business data.",
+                        "The secrecy contract permits unrestricted information sharing."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "A depreciação de ativos fixos afeta o resultado contábil do período.",
+        "correctAnswer":  "The depreciation of fixed assets affects the accounting result for the period.",
+        "options":  [
+                        "The depreciation of fixed assets affects the accounting result for the period.",
+                        "The appreciation of liabilities increases cash flow.",
+                        "The revaluation of inventory reduces tax expenses.",
+                        "The amortization of goodwill strengthens equity."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "A política de dividendos será revisada na próxima assembleia geral.",
+        "correctAnswer":  "The dividend policy will be reviewed at the next general assembly.",
+        "options":  [
+                        "The dividend policy will be reviewed at the next general assembly.",
+                        "The profit distribution plan was cancelled permanently.",
+                        "The shareholder compensation will be eliminated.",
+                        "The earning allocation policy will remain frozen."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "O hedge cambial minimiza riscos de flutuação de moeda estrangeira.",
+        "correctAnswer":  "The currency hedge minimizes risks from foreign exchange fluctuations.",
+        "options":  [
+                        "The currency hedge minimizes risks from foreign exchange fluctuations.",
+                        "Currency speculation increases transaction exposure.",
+                        "Exchange rate protection amplifies financial risk.",
+                        "FX hedging eliminates all market opportunities."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "A alavancagem financeira pode amplificar os retornos aos acionistas.",
+        "correctAnswer":  "Financial leverage can amplify returns to shareholders.",
+        "options":  [
+                        "Financial leverage can amplify returns to shareholders.",
+                        "Debt financing always reduces profitability ratios.",
+                        "Capital borrowing decreases return on investment.",
+                        "Leverage eliminates shareholder value creation."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "O valor presente líquido do projeto justifica o investimento inicial.",
+        "correctAnswer":  "The net present value of the project justifies the initial investment.",
+        "options":  [
+                        "The net present value of the project justifies the initial investment.",
+                        "The project\u0027s cash flow is negative over its lifetime.",
+                        "The future earnings cannot cover the upfront costs.",
+                        "The investment payback period exceeds expectations."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "A elasticidade de preço determina a sensibilidade à demanda.",
+        "correctAnswer":  "Price elasticity determines sensitivity to demand.",
+        "options":  [
+                        "Price elasticity determines sensitivity to demand.",
+                        "Inelastic demand means price changes have no effect.",
+                        "Elastic products always increase in price.",
+                        "Demand elasticity is irrelevant to pricing."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "O modelo de negócios sustentável garante viabilidade a longo prazo.",
+        "correctAnswer":  "The sustainable business model ensures long-term viability.",
+        "options":  [
+                        "The sustainable business model ensures long-term viability.",
+                        "Short-term profit maximization guarantees success.",
+                        "Environmental disregard improves business resilience.",
+                        "Ignoring sustainability concerns strengthens operations."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "A gestão de riscos corporativos mitiga ameaças operacionais.",
+        "correctAnswer":  "Corporate risk management mitigates operational threats.",
+        "options":  [
+                        "Corporate risk management mitigates operational threats.",
+                        "Ignoring risks ensures business continuity.",
+                        "Avoiding contingency plans reduces vulnerability.",
+                        "Risk exposure improves organizational performance."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "A análise SWOT mapeia forças, fraquezas, oportunidades e ameaças.",
+        "correctAnswer":  "SWOT analysis maps strengths, weaknesses, opportunities, and threats.",
+        "options":  [
+                        "SWOT analysis maps strengths, weaknesses, opportunities, and threats.",
+                        "SWOT evaluates only internal company factors.",
+                        "SWOT ignores external market conditions.",
+                        "SWOT focuses exclusively on financial metrics."
+                    ],
+        "difficulty":  "hard"
+    }
+]

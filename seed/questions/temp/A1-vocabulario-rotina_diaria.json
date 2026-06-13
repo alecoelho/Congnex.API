@@ -1,0 +1,522 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'wake up' em português?",
+    "correctAnswer": "acordar",
+    "options": ["acordar", "dormir", "comer", "sair"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'sleep' em português?",
+    "correctAnswer": "dormir",
+    "options": ["dormir", "acordar", "trabalhar", "brincar"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'eat' em português?",
+    "correctAnswer": "comer",
+    "options": ["comer", "beber", "correr", "sentar"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'drink' em português?",
+    "correctAnswer": "beber",
+    "options": ["beber", "comer", "lavar", "abrir"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'work' em português?",
+    "correctAnswer": "trabalhar",
+    "options": ["trabalhar", "descansar", "estudar", "jogar"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'school' em português?",
+    "correctAnswer": "escola",
+    "options": ["escola", "casa", "loja", "parque"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'home' em português?",
+    "correctAnswer": "casa",
+    "options": ["casa", "escola", "trabalho", "loja"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'breakfast' em português?",
+    "correctAnswer": "café da manhã",
+    "options": ["café da manhã", "almoço", "jantar", "lanche"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'lunch' em português?",
+    "correctAnswer": "almoço",
+    "options": ["almoço", "café da manhã", "jantar", "sobremesa"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'dinner' em português?",
+    "correctAnswer": "jantar",
+    "options": ["jantar", "almoço", "café da manhã", "lanche"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'shower' em português?",
+    "correctAnswer": "banho / chuveiro",
+    "options": ["banho / chuveiro", "pia", "banheira", "espelho"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'morning' em português?",
+    "correctAnswer": "manhã",
+    "options": ["manhã", "tarde", "noite", "madrugada"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'night' em português?",
+    "correctAnswer": "noite",
+    "options": ["noite", "manhã", "tarde", "dia"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'walk' em português?",
+    "correctAnswer": "caminhar",
+    "options": ["caminhar", "correr", "nadar", "pular"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'bus' em português?",
+    "correctAnswer": "ônibus",
+    "options": ["ônibus", "trem", "avião", "barco"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'read' em português?",
+    "correctAnswer": "ler",
+    "options": ["ler", "escrever", "falar", "ouvir"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'bed' em português?",
+    "correctAnswer": "cama",
+    "options": ["cama", "sofá", "cadeira", "mesa"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'go to bed' em português?",
+    "correctAnswer": "ir para a cama / deitar",
+    "options": ["ir para a cama / deitar", "acordar cedo", "tomar banho", "fazer a cama"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'get dressed' em português?",
+    "correctAnswer": "se vestir",
+    "options": ["se vestir", "se despir", "se lavar", "se pentear"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'brush teeth' em português?",
+    "correctAnswer": "escovar os dentes",
+    "options": ["escovar os dentes", "lavar o rosto", "pentear o cabelo", "cortar as unhas"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'afternoon' em português?",
+    "correctAnswer": "tarde",
+    "options": ["tarde", "manhã", "noite", "madrugada"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'cook' em português?",
+    "correctAnswer": "cozinhar",
+    "options": ["cozinhar", "lavar", "comprar", "servir"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'alarm' em português, no contexto de rotina diária?",
+    "correctAnswer": "alarme / despertador",
+    "options": ["alarme / despertador", "rádio", "telefone", "relógio de parede"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'have breakfast' em português?",
+    "correctAnswer": "tomar café da manhã",
+    "options": ["tomar café da manhã", "almoçar", "jantar", "fazer um lanche"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'study' em português?",
+    "correctAnswer": "estudar",
+    "options": ["estudar", "trabalhar", "brincar", "descansar"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'clean' em português, no contexto de tarefas domésticas?",
+    "correctAnswer": "limpar",
+    "options": ["limpar", "sujar", "organizar", "pintar"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'take a shower' em português?",
+    "correctAnswer": "tomar banho",
+    "options": ["tomar banho", "lavar a louça", "escovar os dentes", "lavar as mãos"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'tired' em português, no contexto de rotina diária?",
+    "correctAnswer": "cansado",
+    "options": ["cansado", "animado", "com fome", "com sono apenas de manhã"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'early' em português, no contexto de acordar?",
+    "correctAnswer": "cedo",
+    "options": ["cedo", "tarde", "agora", "depois"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'go to work' em português?",
+    "correctAnswer": "ir trabalhar",
+    "options": ["ir trabalhar", "sair de casa", "voltar para casa", "começar a estudar"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'watch' em português, na frase 'I watch TV'?",
+    "correctAnswer": "assistir",
+    "options": ["assistir", "ouvir", "ler", "jogar"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'late' em português, no contexto de chegar ao trabalho?",
+    "correctAnswer": "tarde / atrasado",
+    "options": ["tarde / atrasado", "cedo", "no horário", "rápido"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'come back home' em português?",
+    "correctAnswer": "voltar para casa",
+    "options": ["voltar para casa", "sair de casa", "ficar em casa", "limpar a casa"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'always' em português, na frase 'I always eat breakfast'?",
+    "correctAnswer": "sempre",
+    "options": ["sempre", "nunca", "às vezes", "raramente"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'never' em português, na frase 'She never cooks dinner'?",
+    "correctAnswer": "nunca",
+    "options": ["nunca", "sempre", "frequentemente", "às vezes"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'usually' em português?",
+    "correctAnswer": "geralmente / normalmente",
+    "options": ["geralmente / normalmente", "raramente", "nunca", "às vezes somente"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'wash the dishes' em português?",
+    "correctAnswer": "lavar a louça",
+    "options": ["lavar a louça", "secar a louça", "guardar a louça", "quebrar a louça"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'make the bed' em português?",
+    "correctAnswer": "arrumar a cama",
+    "options": ["arrumar a cama", "comprar uma cama", "deitar na cama", "trocar os lençóis"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'commute' em português, no contexto de rotina diária?",
+    "correctAnswer": "deslocamento / trajeto ao trabalho",
+    "options": ["deslocamento / trajeto ao trabalho", "folga no trabalho", "hora do almoço", "reunião de trabalho"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'take out the trash' em português?",
+    "correctAnswer": "tirar o lixo",
+    "options": ["tirar o lixo", "varrer o chão", "lavar a roupa", "organizar a gaveta"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'do the laundry' em português?",
+    "correctAnswer": "lavar a roupa",
+    "options": ["lavar a roupa", "passar a roupa", "dobrar a roupa", "guardar a roupa"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'schedule' em português, no contexto de rotina diária?",
+    "correctAnswer": "agenda / horário",
+    "options": ["agenda / horário", "lista de compras", "cardápio", "mapa"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'set the alarm' em português?",
+    "correctAnswer": "programar o alarme",
+    "options": ["programar o alarme", "desligar o despertador", "ouvir música", "ligar o rádio"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'routine' em português?",
+    "correctAnswer": "rotina",
+    "options": ["rotina", "férias", "feriado", "surpresa"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'get up early' em português?",
+    "correctAnswer": "levantar cedo",
+    "options": ["levantar cedo", "dormir até tarde", "ficar na cama", "acordar à noite"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'iron clothes' em português?",
+    "correctAnswer": "passar roupa",
+    "options": ["passar roupa", "lavar roupa", "dobrar roupa", "separar roupa"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'take a nap' em português?",
+    "correctAnswer": "tirar uma soneca",
+    "options": ["tirar uma soneca", "dormir a noite toda", "acordar cedo", "descansar sentado"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'groceries' em português, na frase 'I buy groceries'?",
+    "correctAnswer": "mantimentos / compras do mercado",
+    "options": ["mantimentos / compras do mercado", "roupas novas", "remédios", "materiais de limpeza"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'pick up the kids' em português, no contexto de rotina diária?",
+    "correctAnswer": "buscar as crianças",
+    "options": ["buscar as crianças", "levar as crianças à escola", "brincar com as crianças", "dar comida para as crianças"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'midnight' em português?",
+    "correctAnswer": "meia-noite",
+    "options": ["meia-noite", "meio-dia", "tarde da noite", "madrugada cedo"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'have a snack' em português?",
+    "correctAnswer": "comer um lanche",
+    "options": ["comer um lanche", "jantar cedo", "pular o almoço", "beber suco"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'log off' em português, no contexto de trabalho diário com computador?",
+    "correctAnswer": "sair do sistema / deslogar",
+    "options": ["sair do sistema / deslogar", "ligar o computador", "salvar um arquivo", "abrir o e-mail"],
+    "difficulty": "hard"
+  }
+]

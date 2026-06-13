@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "O chef está explicando para um cliente por que o prato saiu diferente do esperado. Qual expressão ele usaria para justificar a mudança de forma educada?",
+        "correctAnswer":  "We had to make adjustments due to seasonal ingredient availability.",
+        "options":  [
+                        "We had to make adjustments due to seasonal ingredient availability.",
+                        "The dish is wrong because we don\u0027t have the right stuff.",
+                        "We messed up your order, sorry about that.",
+                        "The ingredients were too expensive this week."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um cliente quer saber se um prato contém alergênicos. Como o garçom responderia de forma profissional e responsável?",
+        "correctAnswer":  "Let me verify with the kitchen to ensure complete accuracy about the ingredients and potential allergens.",
+        "options":  [
+                        "Let me verify with the kitchen to ensure complete accuracy about the ingredients and potential allergens.",
+                        "I think it doesn\u0027t have nuts, but I\u0027m not sure.",
+                        "All our food is safe, don\u0027t worry about it.",
+                        "We don\u0027t usually have people asking about that stuff."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um crítico gastronômico está elogiando a qualidade de um restaurante. Qual seria a expressão mais adequada para transmitir admiração sofisticada?",
+        "correctAnswer":  "The culinary mastery demonstrated here transcends conventional dining experiences.",
+        "options":  [
+                        "The culinary mastery demonstrated here transcends conventional dining experiences.",
+                        "This food is really tasty and good.",
+                        "You guys cook pretty well, I guess.",
+                        "The food here is better than fast food."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um sommelier está aconselhando um cliente indeciso sobre a escolha do vinho. Como ele apresentaria sua recomendação de forma persuasiva?",
+        "correctAnswer":  "Given the complexity of your dish, I would strongly advocate for this vintage, which complements each element magnificently.",
+        "options":  [
+                        "Given the complexity of your dish, I would strongly advocate for this vintage, which complements each element magnificently.",
+                        "This wine is good with that food.",
+                        "You should try this because it\u0027s expensive.",
+                        "Most people get this wine, so it\u0027s probably fine."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um cliente está reclamando que o prato chegou morno. Como o gerente resolveria a situação com empatia profissional?",
+        "correctAnswer":  "I sincerely apologize for this oversight. I\u0027ll have our kitchen prioritize a replacement prepared to your satisfaction immediately.",
+        "options":  [
+                        "I sincerely apologize for this oversight. I\u0027ll have our kitchen prioritize a replacement prepared to your satisfaction immediately.",
+                        "It was probably warm when it left the kitchen.",
+                        "Food temperature can change, you know.",
+                        "We can\u0027t control how fast you eat."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um chef está descrevendo sua abordagem culinária para um repórter. Qual seria a forma mais articulada de expressar sua filosofia?",
+        "correctAnswer":  "My culinary philosophy centers on the harmonious integration of classical techniques with contemporary sensibilities.",
+        "options":  [
+                        "My culinary philosophy centers on the harmonious integration of classical techniques with contemporary sensibilities.",
+                        "I cook food that tastes good.",
+                        "I like to make things that people want to eat.",
+                        "I learned to cook from my grandmother."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um restaurante está anunciando um novo prato especial. Qual seria a descrição mais atrativa e sofisticada?",
+        "correctAnswer":  "An exquisite fusion of umami-infused elements creating an unforgettable gastronomic experience.",
+        "options":  [
+                        "An exquisite fusion of umami-infused elements creating an unforgettable gastronomic experience.",
+                        "A new dish with some flavors mixed together.",
+                        "Something different we\u0027re trying out this month.",
+                        "A food that\u0027s kind of fancy and expensive."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um cliente deseja sugerir melhorias no menu de um restaurante. Como expressar isso de forma diplomática?",
+        "correctAnswer":  "While your offerings are exceptional, I wonder if you might consider exploring some alternative preparations.",
+        "options":  [
+                        "While your offerings are exceptional, I wonder if you might consider exploring some alternative preparations.",
+                        "Your menu is boring and needs new stuff.",
+                        "You should change what you cook.",
+                        "I don\u0027t like most of the things you make here."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um instrutor de culinária está dirigindo seus alunos sobre técnicas avançadas. Qual seria a instrução mais precisa?",
+        "correctAnswer":  "The emulsification process requires a meticulous balance of temperature, ratio, and whisking technique.",
+        "options":  [
+                        "The emulsification process requires a meticulous balance of temperature, ratio, and whisking technique.",
+                        "Mix it until it looks right.",
+                        "Keep stirring until you think it\u0027s done.",
+                        "Add the ingredients and hope for the best."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um crítico está expressando decepção com a qualidade de um estabelecimento tradicional. Como manifestar essa opinião de forma respeitosa?",
+        "correctAnswer":  "While this establishment maintains a venerable reputation, recent offerings suggest a regrettable departure from its former standards.",
+        "options":  [
+                        "While this establishment maintains a venerable reputation, recent offerings suggest a regrettable departure from its former standards.",
+                        "This place used to be better and now it\u0027s bad.",
+                        "They\u0027re not as good as they used to be.",
+                        "I don\u0027t want to come back here anymore."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um cliente está negociando um menu personalizado para um evento especial. Como o chef expressaria sua disposição em colaborar?",
+        "correctAnswer":  "I would be delighted to collaborate with you to craft a bespoke culinary experience tailored to your vision.",
+        "options":  [
+                        "I would be delighted to collaborate with you to craft a bespoke culinary experience tailored to your vision.",
+                        "Yeah, we can probably make something special for you.",
+                        "We could maybe do a custom menu if it\u0027s not too hard.",
+                        "You can tell us what you want and we\u0027ll try."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um sommelier está iniciando uma degustação de vinhos educativa. Como apresentar a sessão de forma profissional?",
+        "correctAnswer":  "Today\u0027s tasting will traverse diverse terroirs and vintages, illuminating the intricate nuances of oenology.",
+        "options":  [
+                        "Today\u0027s tasting will traverse diverse terroirs and vintages, illuminating the intricate nuances of oenology.",
+                        "We\u0027ll try some wines and see if you like them.",
+                        "You\u0027re going to taste different wines today.",
+                        "Let\u0027s drink some wine and I\u0027ll tell you about it."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um crítico está explicando por que um restaurante não merece estrelas Michelin. Como expressar isso diplomaticamente?",
+        "correctAnswer":  "Whilst the establishment exhibits commendable technical proficiency, it lacks the transcendent innovation requisite for such distinction.",
+        "options":  [
+                        "Whilst the establishment exhibits commendable technical proficiency, it lacks the transcendent innovation requisite for such distinction.",
+                        "This restaurant is okay but not good enough for stars.",
+                        "They cook fine, but there\u0027s nothing special about it.",
+                        "The food here is normal, not fancy enough."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um cliente está pedindo recomendações de um prato que se alinhe com suas preferências sofisticadas. Como o garçom responderia?",
+        "correctAnswer":  "Based on your discerning palate, I would recommend the chef\u0027s signature dish, which exemplifies our commitment to exquisite refinement.",
+        "options":  [
+                        "Based on your discerning palate, I would recommend the chef\u0027s signature dish, which exemplifies our commitment to exquisite refinement.",
+                        "You might like this one, it\u0027s pretty good.",
+                        "Most people order this dish when they come here.",
+                        "I think you\u0027d like whatever we have today."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um historiador está discutindo a evolução da culinária de uma região. Como expressar essa perspectiva de forma acadêmica?",
+        "correctAnswer":  "The gastronomic trajectory of this region exemplifies the confluence of historical, geographical, and cultural forces.",
+        "options":  [
+                        "The gastronomic trajectory of this region exemplifies the confluence of historical, geographical, and cultural forces.",
+                        "The food from this place changed over time.",
+                        "They used to cook like this, then they changed.",
+                        "The food here is different from what it used to be."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um nutritionista está aconselhando um cliente sobre escolhas alimentares saudáveis. Como apresentar a orientação de forma persuasiva?",
+        "correctAnswer":  "I would advocate for an integrative approach that prioritizes nutritional density while maintaining gastronomic satisfaction.",
+        "options":  [
+                        "I would advocate for an integrative approach that prioritizes nutritional density while maintaining gastronomic satisfaction.",
+                        "You should eat healthy food instead of junk.",
+                        "Try to eat better things that are good for you.",
+                        "Stop eating bad stuff and eat more vegetables."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um restaurante está recebendo elogios por sua sustentabilidade. Como o gerente expressaria esse compromisso?",
+        "correctAnswer":  "Our establishment is committed to sourcing ethically and promoting environmental stewardship through conscientious culinary practices.",
+        "options":  [
+                        "Our establishment is committed to sourcing ethically and promoting environmental stewardship through conscientious culinary practices.",
+                        "We try to be nice to the environment when we cook.",
+                        "We use local stuff and recycle things here.",
+                        "We care about nature and the planet."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um cliente está expressando preocupações sobre a qualidade de um prato antes de consumir. Como o chef responderia com confiança profissional?",
+        "correctAnswer":  "I assure you that each element has been meticulously crafted to exceed your expectations and provide an exceptional dining experience.",
+        "options":  [
+                        "I assure you that each element has been meticulously crafted to exceed your expectations and provide an exceptional dining experience.",
+                        "Don\u0027t worry, it\u0027s good, just taste it.",
+                        "The plate looks fine, I don\u0027t see anything wrong.",
+                        "Most people like this, so you probably will too."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um sommelier está introduzindo um vinho raro a um cliente bem informado. Como descrever a experiência de forma envolvente?",
+        "correctAnswer":  "This exceptional vintage showcases remarkable complexity, with layered aromatic profiles that evolve eloquently across the palate.",
+        "options":  [
+                        "This exceptional vintage showcases remarkable complexity, with layered aromatic profiles that evolve eloquently across the palate.",
+                        "This wine is old and kind of rare, so it\u0027s special.",
+                        "It\u0027s a really good wine from a long time ago.",
+                        "This wine tastes different from the usual ones."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um chef está explicando uma técnica molecular avançada em uma masterclass. Como articular essa instrução de forma didática?",
+        "correctAnswer":  "The spherification technique requires precision in sodium alginate concentration and calcium chloride immersion timing to achieve optimal textural results.",
+        "options":  [
+                        "The spherification technique requires precision in sodium alginate concentration and calcium chloride immersion timing to achieve optimal textural results.",
+                        "You drop the liquid into a chemical bath and it makes spheres.",
+                        "This thing makes little balls of flavor when you do it.",
+                        "The molecules come together in a special way using chemicals."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um crítico está analisando a coesão conceitual de um menu tematicamente estruturado. Como expressar essa avaliação?",
+        "correctAnswer":  "The menu demonstrates remarkable conceptual cohesion, with each dish functioning as a deliberate narrative progression.",
+        "options":  [
+                        "The menu demonstrates remarkable conceptual cohesion, with each dish functioning as a deliberate narrative progression.",
+                        "All the dishes in the menu go together nicely.",
+                        "Each plate tells a story about what comes next.",
+                        "The food flows from one plate to the next one."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um cliente está expressando insatisfação delicada com o tamanho das porções. Como o gerente abordaria o assunto respeitosamente?",
+        "correctAnswer":  "While our presentation emphasizes quality over quantity, we would be pleased to augment your portions according to your preferences.",
+        "options":  [
+                        "While our presentation emphasizes quality over quantity, we would be pleased to augment your portions according to your preferences.",
+                        "We give small portions but the food is good quality.",
+                        "If you want more food, we can give you more.",
+                        "The portion size is on purpose because it\u0027s fancy."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um historiador culinário está contextualizando a origem de um prato tradicional. Como apresentar essa narrativa de forma informativa?",
+        "correctAnswer":  "This dish exemplifies the syncretic culinary heritage resulting from centuries of cross-cultural exchange and regional adaptation.",
+        "options":  [
+                        "This dish exemplifies the syncretic culinary heritage resulting from centuries of cross-cultural exchange and regional adaptation.",
+                        "This food comes from an old recipe that got passed down.",
+                        "People from different places made this dish together over time.",
+                        "This is a traditional food that has a long history."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um restaurante está respondendo a críticas negativas de forma construtiva. Como elaborar uma resposta profissional?",
+        "correctAnswer":  "We appreciate your candid feedback and endeavor to perpetually refine our service standards to better align with your expectations.",
+        "options":  [
+                        "We appreciate your candid feedback and endeavor to perpetually refine our service standards to better align with your expectations.",
+                        "Thanks for the bad review, we\u0027ll try to be better.",
+                        "We\u0027re sorry you didn\u0027t like your meal here.",
+                        "We\u0027ll work on doing better next time, thanks."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um chef está descrevendo sua inspiração criativa para jornalistas especializados. Como articular esse processo?",
+        "correctAnswer":  "My creative process involves synthesizing diverse sensory stimuli, cultural observations, and technical experimentation into cohesive culinary narratives.",
+        "options":  [
+                        "My creative process involves synthesizing diverse sensory stimuli, cultural observations, and technical experimentation into cohesive culinary narratives.",
+                        "I get ideas from different places and make them into food.",
+                        "I think about what\u0027s interesting and then cook it.",
+                        "I experiment with flavors until something works."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um sommelier está educando clientes sobre terruarismo em uma degustação. Como introduzir esse conceito complexo?",
+        "correctAnswer":  "Terroir encompasses the multifaceted environmental variables that indelibly influence the phenotypic expression of viticultural characteristics.",
+        "options":  [
+                        "Terroir encompasses the multifaceted environmental variables that indelibly influence the phenotypic expression of viticultural characteristics.",
+                        "Terroir is the dirt and weather that makes wine taste different.",
+                        "The place where grapes grow affects how wine tastes.",
+                        "Different regions make wine taste a certain way."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um cliente com preferências culinárias raras está conversando com o chef. Como o chef demonstraria abertura profissional?",
+        "correctAnswer":  "Your dietary specifications present an intriguing creative challenge; I\u0027m thoroughly engaged in designing a bespoke menu that honors your requirements.",
+        "options":  [
+                        "Your dietary specifications present an intriguing creative challenge; I\u0027m thoroughly engaged in designing a bespoke menu that honors your requirements.",
+                        "We can try to make something special for your diet.",
+                        "Your requirements are kind of difficult, but we\u0027ll figure it out.",
+                        "Let me see what we can do for your special eating needs."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um crítico está desafiando o chef sobre suas afirmações culinárias em uma entrevista. Como o chef responderia defensivamente mas profissionalmente?",
+        "correctAnswer":  "While I appreciate your skepticism, my methodology is grounded in both empirical culinary science and refined intuitive sensibility.",
+        "options":  [
+                        "While I appreciate your skepticism, my methodology is grounded in both empirical culinary science and refined intuitive sensibility.",
+                        "My way of cooking works, and I know what I\u0027m doing.",
+                        "I\u0027ve been cooking for a long time so my methods are good.",
+                        "You should trust me because I\u0027m a professional chef."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um restaurante está celebrando seu aniversário com uma refeição especial. Como o menu seria apresentado de forma memorável?",
+        "correctAnswer":  "Our anniversary menu celebrates a decade of gastronomic innovation through a carefully curated retrospective of signature creations.",
+        "options":  [
+                        "Our anniversary menu celebrates a decade of gastronomic innovation through a carefully curated retrospective of signature creations.",
+                        "We\u0027re making the special dishes we used to make.",
+                        "The menu has the best foods we ever cooked.",
+                        "We\u0027ll show you our favorite dishes from our history."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um nutricionista está explicando o comportamento fisiológico dos alimentos em uma conferência. Como articular essa explicação?",
+        "correctAnswer":  "The bioavailability of micronutrients is contingent upon their molecular structure, preparation methodology, and interaction with digestive enzymes.",
+        "options":  [
+                        "The bioavailability of micronutrients is contingent upon their molecular structure, preparation methodology, and interaction with digestive enzymes.",
+                        "Your body absorbs some nutrients better than others depending on how you cook them.",
+                        "The way you eat affects how your body gets nutrients from food.",
+                        "Different foods give your body different amounts of nutrition."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um cliente está questionando a precisão de um prato comparado à descrição de menu. Como o garçom responderia com tato?",
+        "correctAnswer":  "I understand your observation; the presentation nuances sometimes shift based on ingredient availability and seasonal considerations.",
+        "options":  [
+                        "I understand your observation; the presentation nuances sometimes shift based on ingredient availability and seasonal considerations.",
+                        "It\u0027s different because we didn\u0027t have the exact stuff today.",
+                        "The plate might look a little different sometimes, sorry about that.",
+                        "Things change depending on what we have in the kitchen."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um chef está justificando a exclusão de um ingrediente tradicional em uma receita moderna. Como argumentar essa decisão?",
+        "correctAnswer":  "While honoring traditional foundations, I consciously reimagined this element to enhance contemporary palatability without compromising cultural authenticity.",
+        "options":  [
+                        "While honoring traditional foundations, I consciously reimagined this element to enhance contemporary palatability without compromising cultural authenticity.",
+                        "We took out an ingredient because modern people like it better this way.",
+                        "The old recipe had something we don\u0027t use anymore.",
+                        "We changed it to make it taste better for today\u0027s customers."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um restaurante está oferecendo harmonização de bebidas experimentais. Como descrever essa experiência?",
+        "correctAnswer":  "Our pairing selections represent a sophisticated exploration of unexpected flavor affinities and aromatic complementarities.",
+        "options":  [
+                        "Our pairing selections represent a sophisticated exploration of unexpected flavor affinities and aromatic complementarities.",
+                        "We\u0027re trying different drinks with each plate to see what works.",
+                        "The drinks go with the food in new and interesting ways.",
+                        "We matched beverages with the dishes in creative combinations."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um sommelier está explicando o envelhecimento de vinhos a colecionadores sofisticados. Como descrever esse processo?",
+        "correctAnswer":  "Prolonged maturation in controlled conditions precipitates oxidative polymerization, yielding increasingly nuanced organoleptic complexity.",
+        "options":  [
+                        "Prolonged maturation in controlled conditions precipitates oxidative polymerization, yielding increasingly nuanced organoleptic complexity.",
+                        "Wine gets better when you keep it for a long time.",
+                        "Old wine tastes more complex than new wine.",
+                        "The flavors in wine change and improve over many years."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um chef está descrevendo o seu engajamento com sustentabilidade alimentar em nível filosófico. Como articular essa posição?",
+        "correctAnswer":  "My commitment transcends mere compliance; it represents a fundamental reconceptualization of culinary responsibility toward ecological and social stewardship.",
+        "options":  [
+                        "My commitment transcends mere compliance; it represents a fundamental reconceptualization of culinary responsibility toward ecological and social stewardship.",
+                        "We try to be sustainable in our cooking practices.",
+                        "We care about the environment when we choose ingredients.",
+                        "Sustainability is important to us in our restaurant."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um crítico está analisando a fenomenologia de experiência de um restaurante contemporâneo. Como expressar essa avaliação?",
+        "correctAnswer":  "The establishment orchestrates a multisensory phenomenological encounter that transcends conventional gastronomic parameters.",
+        "options":  [
+                        "The establishment orchestrates a multisensory phenomenological encounter that transcends conventional gastronomic parameters.",
+                        "The restaurant makes you feel something special when you eat there.",
+                        "It\u0027s not just about food, it\u0027s about the whole experience.",
+                        "Everything in this restaurant comes together to create something unique."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um historiador está contextualizando a influência da globalização na culinária contemporânea. Como apresentar essa análise?",
+        "correctAnswer":  "Contemporary gastronomic practices exemplify the dialectical interplay between homogenizing globalization and locally valorized culinary particularities.",
+        "options":  [
+                        "Contemporary gastronomic practices exemplify the dialectical interplay between homogenizing globalization and locally valorized culinary particularities.",
+                        "Global food mixing with local food creates new cooking styles.",
+                        "Cooking today mixes influences from all over the world.",
+                        "International food affects how different countries cook now."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um chef está articulando sua posição sobre a autenticidade na culinária contemporânea. Como expressar essa perspectiva nuançada?",
+        "correctAnswer":  "Authenticity, in my conception, necessitates contextual fluidity rather than ossified adherence to historical paradigms.",
+        "options":  [
+                        "Authenticity, in my conception, necessitates contextual fluidity rather than ossified adherence to historical paradigms.",
+                        "Authentic food can change and still be real food.",
+                        "You don\u0027t have to follow old recipes exactly to be authentic.",
+                        "Real food is about respecting the tradition but also innovating."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um neurocientista está explicando o papel da gustação no comportamento alimentar em uma conferência gastronômica. Como descrever esse fenômeno?",
+        "correctAnswer":  "Gustatory perception operates through a complex neurochemical cascade, wherein flavor compounds interact with olfactory and gustatory receptors to modulate hedonic responses.",
+        "options":  [
+                        "Gustatory perception operates through a complex neurochemical cascade, wherein flavor compounds interact with olfactory and gustatory receptors to modulate hedonic responses.",
+                        "Your brain and taste buds work together to make you enjoy food.",
+                        "Flavor happens when your mouth and nose send signals to your brain.",
+                        "How you taste food involves your senses communicating with your brain."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um chef está reflexionando sobre o dilema ético entre inovação e preservação culinária. Como apresentar essa tensão?",
+        "correctAnswer":  "The perpetual dialectic between innovatory experimentation and cultural preservation constitutes the existential paradox of contemporary haute cuisine.",
+        "options":  [
+                        "The perpetual dialectic between innovatory experimentation and cultural preservation constitutes the existential paradox of contemporary haute cuisine.",
+                        "It\u0027s hard to change old recipes while keeping them alive.",
+                        "We have to decide between doing new things and respecting tradition.",
+                        "Innovation and tradition are in conflict in modern cooking."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um criador de conteúdo culinário está discutindo a democratização da gastronomia pela internet. Como expressar essa transformação?",
+        "correctAnswer":  "Digital platforms have precipitated a radical democratization of gastronomic literacy, destabilizing traditional hierarchies of culinary authority.",
+        "options":  [
+                        "Digital platforms have precipitated a radical democratization of gastronomic literacy, destabilizing traditional hierarchies of culinary authority.",
+                        "The internet makes it easier for regular people to learn cooking.",
+                        "Online cooking shows and recipes change who gets to be a chef.",
+                        "Anyone can learn fancy cooking now because of the internet."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um sommelier está articulando a relação semiótica entre rótulo de vinho e expectativa sensorial. Como expressar essa interação?",
+        "correctAnswer":  "The viticultural nomenclature functions as a semiotic construct that subtly primes gustatory expectations through cognitivist mechanisms.",
+        "options":  [
+                        "The viticultural nomenclature functions as a semiotic construct that subtly primes gustatory expectations through cognitivist mechanisms.",
+                        "The wine label\u0027s name makes you think it will taste a certain way.",
+                        "What\u0027s written on the bottle affects how you experience the taste.",
+                        "Your brain expects certain flavors based on the wine\u0027s label."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um restaurante está navegando as complexidades da culinária fusionista em resposta a críticas. Como justificar essa abordagem?",
+        "correctAnswer":  "Fusion cuisine, when executed with intellectual rigor, catalyzes productive cross-cultural dialogues that enrichen both culinary traditions and consumer understanding.",
+        "options":  [
+                        "Fusion cuisine, when executed with intellectual rigor, catalyzes productive cross-cultural dialogues that enrichen both culinary traditions and consumer understanding.",
+                        "Mixing cuisines helps people understand different cultures better.",
+                        "Fusion food brings different traditions together respectfully.",
+                        "When you combine food from different places, it creates something new."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um acadêmico está analisando a semiótica da apresentação de pratos em culinária conceitual. Como descrever esse fenômeno?",
+        "correctAnswer":  "Plate composition constitutes a sophisticated semiotic language wherein visual arrangement communicates narrative intent beyond gustatory parameters.",
+        "options":  [
+                        "Plate composition constitutes a sophisticated semiotic language wherein visual arrangement communicates narrative intent beyond gustatory parameters.",
+                        "How the food looks on the plate tells a story to the diner.",
+                        "The arrangement of food on a plate has meaning beyond just taste.",
+                        "Visual presentation of dishes communicates ideas to the person eating."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um chef está discutindo as implicações éticas da culinária de alta complexidade em contextos de desigualdade. Como articular essa preocupação?",
+        "correctAnswer":  "The hegemonic valorization of gustatory complexity risks reproducing socioeconomic hierarchies whilst neglecting alimentary accessibility imperatives.",
+        "options":  [
+                        "The hegemonic valorization of gustatory complexity risks reproducing socioeconomic hierarchies whilst neglecting alimentary accessibility imperatives.",
+                        "Fancy food is elitist and ignores that some people don\u0027t have enough to eat.",
+                        "Complex cooking shouldn\u0027t ignore that many people lack food access.",
+                        "We should think about fairness when we make complicated gourmet food."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um filósofo está analisando o papel da memória gustativa na identidade cultural. Como expressar essa reflexão?",
+        "correctAnswer":  "Gustatory memory functions as a palimpsestic archive wherein sensory recollection interweaves with cultural identity formation and nostalgic phenomenology.",
+        "options":  [
+                        "Gustatory memory functions as a palimpsestic archive wherein sensory recollection interweaves with cultural identity formation and nostalgic phenomenology.",
+                        "The taste of food from your childhood is connected to who you are.",
+                        "Flavor memories connect you to your culture and your past.",
+                        "What you remember tasting affects how you see your own identity."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um restaurante está posicionando-se sobre o minimalismo culinário em um contexto de abundância comercial. Como defender essa filosofia?",
+        "correctAnswer":  "Culinary minimalism constitutes a deliberate phenomenological intervention, interrogating consumer expectations through reductionist aesthetic and gustatory restraint.",
+        "options":  [
+                        "Culinary minimalism constitutes a deliberate phenomenological intervention, interrogating consumer expectations through reductionist aesthetic and gustatory restraint.",
+                        "We use fewer ingredients to make you notice the real flavors.",
+                        "Minimalism in cooking challenges what people expect from fancy food.",
+                        "Simple cooking with few ingredients can be more powerful than complex dishes."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um crítico está examinando o paradoxo entre técnica culpabilizante e experiência sensorial autentica. Como expressar essa contradição?",
+        "correctAnswer":  "The apparent antinomy between ostentatious technical virtuosity and genuine gustatory authenticity merits rigorous philosophical interrogation.",
+        "options":  [
+                        "The apparent antinomy between ostentatious technical virtuosity and genuine gustatory authenticity merits rigorous philosophical interrogation.",
+                        "Sometimes fancy technique makes food less interesting to eat.",
+                        "Showing off technical skills can sometimes ruin real flavor.",
+                        "The most technically complicated cooking isn\u0027t always the most delicious."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um antropólogo está investigando a função social de rituais alimentares contemporâneos. Como apresentar essa análise?",
+        "correctAnswer":  "Contemporary alimentary rituals function as performative social acts wherein commensality negotiates identity formation and community cohesion within postmodern frameworks.",
+        "options":  [
+                        "Contemporary alimentary rituals function as performative social acts wherein commensality negotiates identity formation and community cohesion within postmodern frameworks.",
+                        "The way we eat together today shows how we form social connections.",
+                        "Food rituals help modern communities understand their identity.",
+                        "Eating together is a way to create social bonds in society."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "alimentacao",
+        "type":  "multiple_choice",
+        "questionText":  "Um chef está articulando sua posição epistemológica sobre o conhecimento culinário empírico. Como expressar essa perspectiva?",
+        "correctAnswer":  "Culinary knowledge transcends mere empirical reductionism, necessitating integration of embodied praxis, intuitive sensibility, and scientific understanding.",
+        "options":  [
+                        "Culinary knowledge transcends mere empirical reductionism, necessitating integration of embodied praxis, intuitive sensibility, and scientific understanding.",
+                        "Cooking isn\u0027t just about following recipes, it\u0027s also about intuition.",
+                        "You need science and feeling to really understand cooking.",
+                        "Good chefs combine experience, instinct, and scientific knowledge."
+                    ],
+        "difficulty":  "medium"
+    }
+]

@@ -1,0 +1,755 @@
+﻿{
+    "value":  [
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "O professor usou uma abordagem ___ para ensinar os alunos sobre história medieval.",
+                      "difficulty":  "easy",
+                      "options":  [
+                                      "holística",
+                                      "primitiva",
+                                      "superficial",
+                                      "caótica"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "holística"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "A universidade oferece um currículo ___ que prepara os estudantes para o mercado global.",
+                      "difficulty":  "easy",
+                      "options":  [
+                                      "abrangente",
+                                      "restrito",
+                                      "obscuro",
+                                      "monótono"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "abrangente"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "O método pedagógico ___ enfatiza o aprendizado através da experiência prática.",
+                      "difficulty":  "easy",
+                      "options":  [
+                                      "construtivista",
+                                      "destrutivo",
+                                      "passivo",
+                                      "arcaico"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "construtivista"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "Os estudantes demonstraram grande ___ para aprender novas línguas.",
+                      "difficulty":  "easy",
+                      "options":  [
+                                      "aptidão",
+                                      "aversão",
+                                      "negligência",
+                                      "indolência"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "aptidão"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "A escola promove um ambiente ___ onde todos os alunos são valorizados.",
+                      "difficulty":  "easy",
+                      "options":  [
+                                      "inclusivo",
+                                      "excludente",
+                                      "hostil",
+                                      "discriminatório"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "inclusivo"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "O professor forneceu feedback ___ aos alunos para melhorar seu desempenho.",
+                      "difficulty":  "easy",
+                      "options":  [
+                                      "construtivo",
+                                      "destrutivo",
+                                      "vago",
+                                      "insignificante"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "construtivo"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "A universidade busca ___ a qualidade de seus programas acadêmicos.",
+                      "difficulty":  "easy",
+                      "options":  [
+                                      "aprimorar",
+                                      "deteriorar",
+                                      "ignorar",
+                                      "negligenciar"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "aprimorar"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "O currículo foi ___ para atender às necessidades dos alunos modernos.",
+                      "difficulty":  "easy",
+                      "options":  [
+                                      "revisado",
+                                      "ignorado",
+                                      "abandonado",
+                                      "congelado"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "revisado"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "Os estudantes têm acesso a recursos ___ na biblioteca da instituição.",
+                      "difficulty":  "easy",
+                      "options":  [
+                                      "abundantes",
+                                      "limitados",
+                                      "inexistentes",
+                                      "obsoletos"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "abundantes"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "A pedagogia ___ busca desenvolver o pensamento crítico nos alunos.",
+                      "difficulty":  "easy",
+                      "options":  [
+                                      "progressista",
+                                      "regressiva",
+                                      "estática",
+                                      "primitiva"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "progressista"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "O professor demostrou uma ___ profunda pela disciplina que ensinava.",
+                      "difficulty":  "easy",
+                      "options":  [
+                                      "erudição",
+                                      "ignorância",
+                                      "apatia",
+                                      "incompetência"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "erudição"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "A instituição oferece bolsas de estudo para alunos ___ de baixa renda.",
+                      "difficulty":  "easy",
+                      "options":  [
+                                      "meritórios",
+                                      "preguiçosos",
+                                      "mediocres",
+                                      "negligentes"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "meritórios"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "O currículo promove uma formação ___ que integra teoria e prática.",
+                      "difficulty":  "easy",
+                      "options":  [
+                                      "integral",
+                                      "fragmentada",
+                                      "superficial",
+                                      "desconectada"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "integral"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "Os alunos foram ___ a participar ativamente nas discussões em sala de aula.",
+                      "difficulty":  "easy",
+                      "options":  [
+                                      "estimulados",
+                                      "inibidos",
+                                      "desencorajados",
+                                      "ignorados"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "estimulados"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "A escola implementou políticas ___ para combater o bullying.",
+                      "difficulty":  "easy",
+                      "options":  [
+                                      "rigorosas",
+                                      "lenientes",
+                                      "inadequadas",
+                                      "ineficazes"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "rigorosas"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "O professor utilizou recursos ___ para tornar as aulas mais interativas.",
+                      "difficulty":  "easy",
+                      "options":  [
+                                      "multimídia",
+                                      "arcaicos",
+                                      "obsoletos",
+                                      "rudimentares"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "multimídia"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "A instituição promove uma cultura de excelência ___ em todos os seus programas.",
+                      "difficulty":  "easy",
+                      "options":  [
+                                      "acadêmica",
+                                      "medíocre",
+                                      "deficiente",
+                                      "inadequada"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "acadêmica"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "O objetivo da educação é ___ cidadãos preparados para enfrentar desafios globais.",
+                      "difficulty":  "medium",
+                      "options":  [
+                                      "formar",
+                                      "ignorar",
+                                      "prejudicar",
+                                      "desmoralizar"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "formar"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "A metodologia de ensino ___ desenvolve habilidades de resolução de problemas nos alunos.",
+                      "difficulty":  "medium",
+                      "options":  [
+                                      "socrática",
+                                      "dogmática",
+                                      "rígida",
+                                      "opressiva"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "socrática"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "Os professores são ___ de estimular a curiosidade intelectual nos estudantes.",
+                      "difficulty":  "medium",
+                      "options":  [
+                                      "responsáveis",
+                                      "incapazes",
+                                      "incompetentes",
+                                      "negligentes"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "responsáveis"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "A universidade implementou um sistema de avaliação mais ___.",
+                      "difficulty":  "medium",
+                      "options":  [
+                                      "equitativo",
+                                      "parcial",
+                                      "discriminatório",
+                                      "tendencioso"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "equitativo"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "O professor apresentou uma análise ___ dos temas discutidos em aula.",
+                      "difficulty":  "medium",
+                      "options":  [
+                                      "minuciosa",
+                                      "superficial",
+                                      "vaga",
+                                      "incompleta"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "minuciosa"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "A instituição valoriza a ___ entre diferentes áreas do conhecimento.",
+                      "difficulty":  "medium",
+                      "options":  [
+                                      "interdisciplinaridade",
+                                      "fragmentação",
+                                      "isolamento",
+                                      "compartimentalização"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "interdisciplinaridade"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "O currículo foi ___ para incluir novas perspectivas e saberes.",
+                      "difficulty":  "medium",
+                      "options":  [
+                                      "enriquecido",
+                                      "empobrecido",
+                                      "simplificado",
+                                      "reduzido"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "enriquecido"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "A educação ___ deve preparar os alunos para múltiplos contextos.",
+                      "difficulty":  "medium",
+                      "options":  [
+                                      "contextuada",
+                                      "abstrata",
+                                      "desconectada",
+                                      "teórica"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "contextuada"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "Os estudantes foram ___ a questionar suposições e convenções estabelecidas.",
+                      "difficulty":  "medium",
+                      "options":  [
+                                      "encorajados",
+                                      "dissuadidos",
+                                      "intimidados",
+                                      "proibidos"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "encorajados"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "A pedagogia moderna enfatiza a ___ do processo de aprendizagem.",
+                      "difficulty":  "medium",
+                      "options":  [
+                                      "personalização",
+                                      "padronização",
+                                      "uniformização",
+                                      "mecanização"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "personalização"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "O professor ofereceu uma perspectiva ___ sobre o tema estudado.",
+                      "difficulty":  "medium",
+                      "options":  [
+                                      "abrangente",
+                                      "limitada",
+                                      "enviesada",
+                                      "tendenciosa"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "abrangente"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "A instituição promove a ___ dos alunos através de programas inovadores.",
+                      "difficulty":  "medium",
+                      "options":  [
+                                      "emancipação",
+                                      "submissão",
+                                      "dependência",
+                                      "subalternidade"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "emancipação"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "Os professores adotaram uma abordagem ___ baseada em evidências científicas.",
+                      "difficulty":  "medium",
+                      "options":  [
+                                      "epistemológica",
+                                      "dogmática",
+                                      "intuitiva",
+                                      "especulativa"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "epistemológica"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "O currículo deve ___ o desenvolvimento de competências transversais.",
+                      "difficulty":  "medium",
+                      "options":  [
+                                      "potencializar",
+                                      "negligenciar",
+                                      "subestimar",
+                                      "ignorar"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "potencializar"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "A avaliação formativa é ___ no processo de ensino-aprendizagem contemporâneo.",
+                      "difficulty":  "medium",
+                      "options":  [
+                                      "fundamental",
+                                      "irrelevante",
+                                      "secundária",
+                                      "dispensável"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "fundamental"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "Os alunos demonstraram ___ em aplicar conceitos teóricos em situações práticas.",
+                      "difficulty":  "medium",
+                      "options":  [
+                                      "proficiência",
+                                      "dificuldade",
+                                      "incapacidade",
+                                      "inaptidão"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "proficiência"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "A educação deve ser ___ às necessidades individuais dos alunos.",
+                      "difficulty":  "medium",
+                      "options":  [
+                                      "adaptável",
+                                      "rígida",
+                                      "inflexível",
+                                      "imutável"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "adaptável"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "O professor utilizou estratégias de ensino ___ para diferentes estilos de aprendizagem.",
+                      "difficulty":  "hard",
+                      "options":  [
+                                      "diferenciadas",
+                                      "uniformes",
+                                      "padronizadas",
+                                      "genéricas"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "diferenciadas"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "A instituição promove uma formação ___ que valoriza a ética profissional.",
+                      "difficulty":  "hard",
+                      "options":  [
+                                      "humanística",
+                                      "mercantilista",
+                                      "tecnicista",
+                                      "utilitarista"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "humanística"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "A metodologia ___ busca desconstruir paradigmas tradicionais de ensino.",
+                      "difficulty":  "hard",
+                      "options":  [
+                                      "crítica",
+                                      "acrítica",
+                                      "conformista",
+                                      "reprodutivista"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "crítica"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "O currículo oculto ___ valores e ideologias implícitas na educação formal.",
+                      "difficulty":  "hard",
+                      "options":  [
+                                      "transmite",
+                                      "suprime",
+                                      "ignora",
+                                      "elimina"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "transmite"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "A prática ___ envolve reflexão constante sobre a ação pedagógica.",
+                      "difficulty":  "hard",
+                      "options":  [
+                                      "reflexiva",
+                                      "automática",
+                                      "mecânica",
+                                      "irrefletida"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "reflexiva"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "O ensino deve ___ o letramento crítico nos estudantes.",
+                      "difficulty":  "hard",
+                      "options":  [
+                                      "fomentar",
+                                      "obstaculizar",
+                                      "impedir",
+                                      "suprimir"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "fomentar"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "A educação emancipatória visa ___ as estruturas de opressão na sociedade.",
+                      "difficulty":  "hard",
+                      "options":  [
+                                      "desconstruir",
+                                      "reforçar",
+                                      "perpetuar",
+                                      "naturalizar"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "desconstruir"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "O professor adotou uma postura ___ frente aos conhecimentos estabelecidos.",
+                      "difficulty":  "hard",
+                      "options":  [
+                                      "questionadora",
+                                      "dogmática",
+                                      "ortodoxa",
+                                      "conservadora"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "questionadora"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "A epistemologia educacional ___ compreende como construímos conhecimento.",
+                      "difficulty":  "hard",
+                      "options":  [
+                                      "contemporânea",
+                                      "antiquada",
+                                      "obsoleta",
+                                      "arcaica"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "contemporânea"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "O currículo deve ___ perspectivas plurais e multicultural no conhecimento.",
+                      "difficulty":  "hard",
+                      "options":  [
+                                      "incorporar",
+                                      "excluir",
+                                      "marginalizar",
+                                      "subalternizar"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "incorporar"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "A educação ___ reconhece as desigualdades estruturais no sistema educacional.",
+                      "difficulty":  "hard",
+                      "options":  [
+                                      "transformadora",
+                                      "reprodutivista",
+                                      "conservadora",
+                                      "reacionária"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "transformadora"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "O professor promove o desenvolvimento do pensamento ___ nos alunos.",
+                      "difficulty":  "hard",
+                      "options":  [
+                                      "metacognitivo",
+                                      "superficial",
+                                      "automático",
+                                      "irreflexivo"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "metacognitivo"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "A avaliação ___ considera o processo de aprendizagem ao longo do tempo.",
+                      "difficulty":  "hard",
+                      "options":  [
+                                      "contínua",
+                                      "pontual",
+                                      "episódica",
+                                      "superficial"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "contínua"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "O currículo ___ busca integrar conhecimentos de múltiplas disciplinas.",
+                      "difficulty":  "hard",
+                      "options":  [
+                                      "transdisciplinar",
+                                      "fragmentado",
+                                      "compartimentalizado",
+                                      "isolado"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "transdisciplinar"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "A pedagogia dos oprimidos busca se ___ da educação como ferramenta de libertação.",
+                      "difficulty":  "hard",
+                      "options":  [
+                                      "apropriar",
+                                      "negar",
+                                      "afastar",
+                                      "divorciar"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "apropriar"
+                  },
+                  {
+                      "cefrLevel":  "C1",
+                      "topicDomain":  "educacao",
+                      "type":  "multiple_choice",
+                      "questionText":  "Os alunos desenvolveram ___ sobre suas próprias estratégias de aprendizagem.",
+                      "difficulty":  "hard",
+                      "options":  [
+                                      "metaconsciência",
+                                      "ignorância",
+                                      "inconsciência",
+                                      "indiferença"
+                                  ],
+                      "questionType":  "vocabulario",
+                      "correctAnswer":  "metaconsciência"
+                  }
+              ],
+    "Count":  50
+}

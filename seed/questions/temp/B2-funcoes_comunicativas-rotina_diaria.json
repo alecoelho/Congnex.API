@@ -1,0 +1,472 @@
+﻿[
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você pediria ao seu colega para fazer algo depois de você ter terminado?",
+    "correctAnswer": "Could you do this after I've finished?",
+    "options": ["Can you do this before I finish?", "Could you do this after I've finished?", "Will you do this when I start?", "Must you do this later?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você expressaria que alguém deveria tomar café da manhã antes de sair?",
+    "correctAnswer": "You should have breakfast before leaving.",
+    "options": ["You must eating breakfast before leave.", "You should have breakfast before leaving.", "You ought eat breakfast before leave.", "You should to have breakfast before leaving."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você sugeriria um horário alternativo para uma reunião?",
+    "correctAnswer": "What if we met at 3 PM instead?",
+    "options": ["What if we would meet at 3 PM?", "What if we met at 3 PM instead?", "Would we meet if 3 PM is better?", "Can we meet in 3 PM else?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você pediria permissão para sair mais cedo do trabalho?",
+    "correctAnswer": "Would it be possible to leave early today?",
+    "options": ["Can I leave early today?", "Would it be possible to leave early today?", "Is it okay if I leave early?", "Do you mind if I left early?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você expressaria desaprovação gentil sobre a forma como alguém organiza seu dia?",
+    "correctAnswer": "I'd say you might want to reconsider your daily schedule.",
+    "options": ["You organize your day wrong.", "I'd say you might want to reconsider your daily schedule.", "Your daily routine is bad.", "You should change everything about your day."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você ofereceria ajuda com a rotina matinal de alguém?",
+    "correctAnswer": "Would you like me to help you with your morning routine?",
+    "options": ["Do you want I help with morning?", "Would you like me to help you with your morning routine?", "Can I help you in morning time?", "Should I help with your morning routine?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você informaria que está ocupado neste momento?",
+    "correctAnswer": "I'm occupied at the moment, but I'll be free soon.",
+    "options": ["I'm busy now and forever.", "I'm occupied at the moment, but I'll be free soon.", "I cannot be available now.", "I'm too much busy right now."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você pediria ao seu chefe para agendar uma reunião?",
+    "correctAnswer": "Would you have time for a brief meeting this week?",
+    "options": ["Can we meet?", "Would you have time for a brief meeting this week?", "Do you want to meet me?", "May I schedule you for meeting?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você descreveria sua rotina de exercícios físicos?",
+    "correctAnswer": "I usually work out three times a week before breakfast.",
+    "options": ["I working out three time every week.", "I usually work out three times a week before breakfast.", "I am work out three times weekly.", "Every week three times I workout."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você pediria informações sobre o horário de trabalho?",
+    "correctAnswer": "What time do you usually start work in the morning?",
+    "options": ["At what time you start work?", "What time do you usually start work in the morning?", "When does you start to work?", "What is the start time of your work?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você reclamaria educadamente sobre uma reunião muito longa?",
+    "correctAnswer": "The meetings tend to run quite long, don't they?",
+    "options": ["These meetings are very boring and too long.", "The meetings tend to run quite long, don't they?", "I hate these long meetings.", "Your meetings are always so extended."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você confirmaria que entendeu a nova rotina de trabalho?",
+    "correctAnswer": "So, if I understand correctly, we're starting at 8 AM from now on.",
+    "options": ["So I understand we start at 8 AM.", "So, if I understand correctly, we're starting at 8 AM from now on.", "We are starting in 8 AM now.", "If I'm right, start is at 8 AM."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você narraria sua rotina noturna típica?",
+    "correctAnswer": "In the evening, I usually prepare dinner, then relax and watch TV before bed.",
+    "options": ["In evening I prepare dinner and relax watching TV.", "In the evening, I usually prepare dinner, then relax and watch TV before bed.", "Evening I cook, relax, watch TV, sleep.", "I prepare dinner in the evening and relax watching."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você expressaria que precisa de uma pausa na reunião?",
+    "correctAnswer": "Do you mind if we take a quick break here?",
+    "options": ["I need a break now.", "Do you mind if we take a quick break here?", "Can we break?", "Is it okay for break?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você diria que sua rotina mudou bastante recentemente?",
+    "correctAnswer": "My routine has changed quite a lot lately.",
+    "options": ["My routine changed very much.", "My routine has changed quite a lot lately.", "My routine is change recently.", "I changed my routine lot."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você perguntaria sobre as pausas para café durante o trabalho?",
+    "correctAnswer": "When do we usually take our coffee break around here?",
+    "options": ["When is coffee break?", "When do we usually take our coffee break around here?", "What time coffee break is?", "Do you take coffee break time?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você expressaria simpatia sobre alguém ter uma rotina muito cansativa?",
+    "correctAnswer": "That sounds like a really exhausting routine. How do you manage it?",
+    "options": ["Your routine is so tiring.", "That sounds like a really exhausting routine. How do you manage it?", "You must be tired all the time.", "Your daily life seems very hard."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você tentaria convencer seu colega a sair mais cedo para almoçar?",
+    "correctAnswer": "Why don't we leave a bit earlier for lunch today? I'm quite hungry.",
+    "options": ["We should leave for lunch now.", "Why don't we leave a bit earlier for lunch today? I'm quite hungry.", "Let's go eat lunch immediately.", "Don't you think it's lunch time?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você expressaria que algo deve ser feito regularmente na rotina?",
+    "correctAnswer": "This task ought to be done daily to maintain efficiency.",
+    "options": ["This task must be done daily.", "This task ought to be done daily to maintain efficiency.", "This task has to be done every day.", "This task should done daily."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você negociaria um horário mais flexível com seu gerente?",
+    "correctAnswer": "I was wondering if we could discuss the possibility of flexible hours.",
+    "options": ["Can I have flexible hours?", "I was wondering if we could discuss the possibility of flexible hours.", "Do you allow flexible time?", "Could flexible hours be possible?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você descreveria os hábitos de sono de alguém?",
+    "correctAnswer": "She tends to go to bed late and struggles to wake up early.",
+    "options": ["She sleep late and wake up difficult.", "She tends to go to bed late and struggles to wake up early.", "She is going late to bed and waking up with difficulty.", "Late sleep and early wake up is hard for her."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você se ofereceria para ajudar alguém que está atrasado?",
+    "correctAnswer": "If you'd like, I could help you catch up on what you've missed.",
+    "options": ["I can help you catch up.", "If you'd like, I could help you catch up on what you've missed.", "Do you want help?", "I will assist you to catch up."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você pediria um conselho sobre como organizar melhor seu dia?",
+    "correctAnswer": "Do you have any suggestions for organizing my daily schedule more efficiently?",
+    "options": ["How to organize my day?", "Do you have any suggestions for organizing my daily schedule more efficiently?", "Can you help me organize my day?", "What should I do for my routine?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você expressaria que algo é parte importante da sua rotina matinal?",
+    "correctAnswer": "Checking emails is an essential part of my morning routine.",
+    "options": ["Emails check is important in morning.", "Checking emails is an essential part of my morning routine.", "I check emails in the morning routine.", "Email checking must be done every morning."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você reclamaria educadamente sobre interrupções frequentes?",
+    "correctAnswer": "I've been getting quite a few interruptions, which is affecting my productivity.",
+    "options": ["There are too many interruptions.", "I've been getting quite a few interruptions, which is affecting my productivity.", "People interrupt me all the time.", "The interruptions are making me sad."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você se ofereceria para trabalhar fora do horário comum?",
+    "correctAnswer": "If needed, I'm willing to work outside regular hours to meet the deadline.",
+    "options": ["I can work after hours.", "If needed, I'm willing to work outside regular hours to meet the deadline.", "I could work in evening.", "Do you need me to work late?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você se referiria a algo que faz automaticamente todos os dias?",
+    "correctAnswer": "I go through my to-do list out of sheer habit every morning.",
+    "options": ["I check my list every morning.", "I go through my to-do list out of sheer habit every morning.", "Every day I look at my to-do list.", "My to-do list is checked by me daily."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você expressaria que uma tarefa será feita quando outra terminar?",
+    "correctAnswer": "Once I finish with this project, I'll move on to the next one.",
+    "options": ["When I finish this, I do next.", "Once I finish with this project, I'll move on to the next one.", "After finish this I will next.", "I will do next when finish."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você expressaria que alguém é obrigado a seguir uma rotina específica?",
+    "correctAnswer": "I'm bound to follow a strict schedule due to the nature of my work.",
+    "options": ["I must follow strict schedule.", "I'm bound to follow a strict schedule due to the nature of my work.", "I have to follow the schedule.", "The schedule makes me follow it."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você pedirira clarificação sobre novos procedimentos na rotina?",
+    "correctAnswer": "Could you clarify the new procedure? I want to make sure I understand it correctly.",
+    "options": ["What is the new procedure?", "Could you clarify the new procedure? I want to make sure I understand it correctly.", "Explain the new procedure please.", "Is the new procedure clear?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você descreveria como frequentemente algo acontece na sua rotina?",
+    "correctAnswer": "More often than not, I find myself working through lunch.",
+    "options": ["I work in lunch frequently.", "More often than not, I find myself working through lunch.", "I usually work when eating.", "Lunch time work I do often."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você expressaria que algo é impossível fazer na sua rotina atual?",
+    "correctAnswer": "There's no way I could fit that into my schedule right now.",
+    "options": ["I cannot do that.", "There's no way I could fit that into my schedule right now.", "It's impossible for me.", "That won't fit in my time."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você expressaria preocupação que alguém está trabalhando demais?",
+    "correctAnswer": "I'm concerned that you're putting in too many hours. You should consider taking time off.",
+    "options": ["You work too much.", "I'm concerned that you're putting in too many hours. You should consider taking time off.", "You are working very hard.", "Your work hours are too long now."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você suavemente sugeriria uma mudança na rotina de alguém?",
+    "correctAnswer": "It might be worth reconsidering how you structure your mornings.",
+    "options": ["Change your morning routine.", "It might be worth reconsidering how you structure your mornings.", "Your mornings should be different.", "Why don't you change your morning?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você explicaria que sua rotina é tão diferente de antes?",
+    "correctAnswer": "My routine has been turned upside down since I started this new position.",
+    "options": ["My routine changed a lot.", "My routine has been turned upside down since I started this new position.", "I have a different routine now.", "My new job changed my daily schedule."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você expressaria que algo é inevitável na sua rotina?",
+    "correctAnswer": "It's virtually impossible to avoid meetings on Mondays.",
+    "options": ["Meetings on Mondays are sure.", "It's virtually impossible to avoid meetings on Mondays.", "We must have meetings on Monday.", "Monday meetings cannot be avoided."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você diplomaticamente discordaria com a sugestão de alguém sobre horário?",
+    "correctAnswer": "I appreciate the suggestion, but that timing wouldn't really work for me.",
+    "options": ["That won't work for me.", "I appreciate the suggestion, but that timing wouldn't really work for me.", "Your idea is not good.", "I don't agree with that time."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você expressaria que algo é uma consequência natural da rotina?",
+    "correctAnswer": "Working such long hours inevitably takes its toll on work-life balance.",
+    "options": ["Long hours make you tired.", "Working such long hours inevitably takes its toll on work-life balance.", "When you work a lot, you get tired.", "Long work hours affect your life balance."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você suavemente informaria que precisa repensar sua agenda?",
+    "correctAnswer": "I've been reflecting on my schedule, and I think some adjustments are needed.",
+    "options": ["I need to change my schedule.", "I've been reflecting on my schedule, and I think some adjustments are needed.", "My schedule needs changes.", "I want to change my work time."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você expressaria que algo é rotina para você, apesar de ser estranho para outros?",
+    "correctAnswer": "It might seem unusual to others, but waking up at 5 AM is second nature to me.",
+    "options": ["I wake up at 5 AM usually.", "It might seem unusual to others, but waking up at 5 AM is second nature to me.", "Other people don't wake at 5 AM.", "5 AM wake is normal for me."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você sugeriria uma forma diferente de abordar a organização do dia?",
+    "correctAnswer": "Have you considered tackling your priorities in reverse order?",
+    "options": ["Change how you do your day.", "Have you considered tackling your priorities in reverse order?", "Maybe do things differently.", "Try a new way to organize."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você expressaria que estava acostumado a uma rotina diferente?",
+    "correctAnswer": "I was so accustomed to my old routine that the change initially felt awkward.",
+    "options": ["I was used to my old routine.", "I was so accustomed to my old routine that the change initially felt awkward.", "My old routine was different.", "I got used to doing it differently."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você expressaria frustração com as restrições de horário?",
+    "correctAnswer": "I find the rigid schedule somewhat limiting when it comes to addressing unexpected issues.",
+    "options": ["The schedule is too strict.", "I find the rigid schedule somewhat limiting when it comes to addressing unexpected issues.", "I don't like the schedule.", "This schedule restricts me."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você reconheceria que alguém melhorou sua rotina?",
+    "correctAnswer": "I've noticed a marked improvement in how you're managing your workload lately.",
+    "options": ["Your routine is better now.", "I've noticed a marked improvement in how you're managing your workload lately.", "You work better these days.", "Your schedule is improved."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você expressaria que algo é parte integral de sua rotina profissional?",
+    "correctAnswer": "Email management is so deeply embedded in my daily workflow that I do it almost unconsciously.",
+    "options": ["I manage emails daily.", "Email management is so deeply embedded in my daily workflow that I do it almost unconsciously.", "Emails are part of my work.", "Every day I manage emails."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você pediria que respeitassem sua hora de almoço?",
+    "correctAnswer": "I'd appreciate it if everyone respected my lunch hour so I can properly recharge.",
+    "options": ["Don't bother me at lunch.", "I'd appreciate it if everyone respected my lunch hour so I can properly recharge.", "Please don't interrupt lunch.", "Respect my lunch time please."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você expressaria que está usando uma estratégia específica para gerenciar o tempo?",
+    "correctAnswer": "I've adopted a time-blocking technique to maximize my productivity throughout the day.",
+    "options": ["I use a time-blocking method.", "I've adopted a time-blocking technique to maximize my productivity throughout the day.", "I manage my time with technique.", "My time management is by blocking."],
+    "difficulty": "hard"
+  }
+]

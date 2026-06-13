@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce esta tentando entender como usar um novo aplicativo no seu celular. Como voce pediria ajuda a um amigo?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Can you help me understand how to use this app?",
+                        "You must explain me the app immediately",
+                        "I am needing your help for the app",
+                        "Help me to understanding this app"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Can you help me understand how to use this app?"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Seu computador esta com problema e voce precisa descrever o problema a um tecnico. Qual frase e apropriada?",
+        "difficulty":  "easy",
+        "options":  [
+                        "My computer is not working properly. It keeps freezing.",
+                        "My computer has broken and it freezes always",
+                        "The computer is not good and freezes me",
+                        "My computer is broken very much"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "My computer is not working properly. It keeps freezing."
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer sugerir a um colega que ele tente uma nova ferramenta online. O que voce diria?",
+        "difficulty":  "easy",
+        "options":  [
+                        "You should try this online tool. I think you\u0027ll find it useful.",
+                        "Try this tool because it is good",
+                        "You must use this tool",
+                        "This tool is better than yours"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "You should try this online tool. I think you\u0027ll find it useful."
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce precisa pedir ao seu gerente permissao para acessar um documento na nuvem. Como voce faria isto?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Could I have access to the cloud document for the project?",
+                        "I need the document from the cloud now",
+                        "Give me access to the cloud please",
+                        "I want to access your cloud document"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Could I have access to the cloud document for the project?"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Um colega lhe manda uma mensagem pedindo para voce enviar um arquivo por email. Como voce confirma recebimento?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Got it! I\u0027ll send you the file right away.",
+                        "I have got it and will send",
+                        "Yes, I got and send the file",
+                        "I am receiving it and will send"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Got it! I\u0027ll send you the file right away."
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce esta em uma videoconferencia e nao conseguiu ouvir bem. O que voce diz?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Sorry, could you speak up a bit? I didn\u0027t catch that.",
+                        "I don\u0027t hear you. Speak more loud",
+                        "Can you speak louder please?",
+                        "You are not speaking clear to me"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Sorry, could you speak up a bit? I didn\u0027t catch that."
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer avisar um amigo que encontrou um virus no site que ele recomendou. Como voce faria isto delicadamente?",
+        "difficulty":  "easy",
+        "options":  [
+                        "I visited the website you suggested, but I found it has a security issue.",
+                        "Your website is bad and has virus",
+                        "The site you said has virus in it",
+                        "Don\u0027t use this site because it is infected"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "I visited the website you suggested, but I found it has a security issue."
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como voce explica a um usuario inexperiente o que e uma senha forte?",
+        "difficulty":  "easy",
+        "options":  [
+                        "A strong password should have letters, numbers, and special characters.",
+                        "Strong password is with many characters only",
+                        "You need a password that is very difficult",
+                        "Make your password long and difficult"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "A strong password should have letters, numbers, and special characters."
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce precisa informar a alguem que a internet esta lenta. Qual frase e mais natural?",
+        "difficulty":  "easy",
+        "options":  [
+                        "The internet connection seems to be very slow today.",
+                        "The internet is slow very much",
+                        "Internet today is slow",
+                        "The internet goes slow"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "The internet connection seems to be very slow today."
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como voce pede a alguem para enviar um arquivo novamente porque nao recebeu?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Could you resend the file? I didn\u0027t receive it.",
+                        "Send me again the file because I don\u0027t have",
+                        "The file didn\u0027t come to me",
+                        "You must send the file again"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Could you resend the file? I didn\u0027t receive it."
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce esta criando uma conta em um site e precisa confirmar seus dados. O que voce faria?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Is this information correct before I submit?",
+                        "This information is correct, yes",
+                        "My data is right, I am submitting",
+                        "Can my information be submitted?"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Is this information correct before I submit?"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como voce expressa interesse em aprender mais sobre um software novo?",
+        "difficulty":  "easy",
+        "options":  [
+                        "I\u0027d like to learn more about this software. Could you show me?",
+                        "This software is interesting to me learn",
+                        "I want learning this software please",
+                        "Show me this software for learning"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "I\u0027d like to learn more about this software. Could you show me?"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce esta pedindo a um tecnico para resolver um problema de conectividade. Como voce expressaria isto?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Could you help me troubleshoot my internet connection?",
+                        "My internet is broken, fix it",
+                        "Help me with my internet please fix",
+                        "I am having internet problem, can you fix"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Could you help me troubleshoot my internet connection?"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como voce confirmaria com alguem que entendeu as instrucoes de um aplicativo?",
+        "difficulty":  "easy",
+        "options":  [
+                        "I understand. I\u0027ll follow these steps.",
+                        "I am understanding and will following",
+                        "Yes, I understand and follow them",
+                        "I get it and will do this"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "I understand. I\u0027ll follow these steps."
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce quer sugerir a um amigo que ele atualize seu software. Como voce diria isto?",
+        "difficulty":  "easy",
+        "options":  [
+                        "I think you should update your software. There might be security improvements.",
+                        "Your software needs to be update",
+                        "Update your software now",
+                        "You must update because it is old"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "I think you should update your software. There might be security improvements."
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como voce informaria a alguem que perdeu acesso a sua conta?",
+        "difficulty":  "easy",
+        "options":  [
+                        "I\u0027ve lost access to my account and need to reset my password.",
+                        "My account is lost from me",
+                        "I don\u0027t have more access to my account",
+                        "My account is gone and I need it back"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "I\u0027ve lost access to my account and need to reset my password."
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce esta participando de uma teleconferencia e precisa alertar que sua bateria esta acabando. Como voce avisa?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Sorry, my battery is running out. I might need to leave soon.",
+                        "My battery is low and I will go",
+                        "My phone battery is finishing",
+                        "I am leaving because battery is empty"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Sorry, my battery is running out. I might need to leave soon."
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como voce pediria a um colega para compartilhar a senha de forma segura com voce?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Could you share the password with me securely? Maybe through an encrypted message?",
+                        "Give me your password in a message",
+                        "Send me the password please",
+                        "I need your password for the account"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Could you share the password with me securely? Maybe through an encrypted message?"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce esta explicando a alguem como fazer backup de dados. Como voce iniciaria a explicacao?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Let me explain how to backup your data. First, you should connect an external hard drive.",
+                        "You backup your data by drive",
+                        "For backup you need connecting a drive",
+                        "Backup data is doing with a drive"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Let me explain how to backup your data. First, you should connect an external hard drive."
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como voce expressaria frustracao por um aplicativo que travou?",
+        "difficulty":  "medium",
+        "options":  [
+                        "This app keeps crashing. It\u0027s really frustrating.",
+                        "The app is crashing and I am frustrated",
+                        "This app crashes me very much",
+                        "I am frustrated because the app crashes always"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "This app keeps crashing. It\u0027s really frustrating."
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce precisa relatar um problema de seguranca em um site. Como voce entraria em contato?",
+        "difficulty":  "medium",
+        "options":  [
+                        "I\u0027d like to report a security vulnerability on your website. Who should I contact?",
+                        "Your website has security problem",
+                        "Your site is not secure",
+                        "I found a bad security in your website"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "I\u0027d like to report a security vulnerability on your website. Who should I contact?"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como voce sugeriria a alguem que use autenticacao de dois fatores?",
+        "difficulty":  "medium",
+        "options":  [
+                        "I recommend enabling two-factor authentication for better security.",
+                        "You should use two-factor because is better",
+                        "Enable two-factor for your account",
+                        "Two-factor authentication makes your account safe"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "I recommend enabling two-factor authentication for better security."
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce esta em uma chamada de video e precisa informar que sua camera nao esta funcionando. O que voce diria?",
+        "difficulty":  "medium",
+        "options":  [
+                        "My camera doesn\u0027t seem to be working. Can you still hear me?",
+                        "My camera is broken and you cannot see me",
+                        "The camera is not working in my computer",
+                        "I have no camera for you to see me"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "My camera doesn\u0027t seem to be working. Can you still hear me?"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como voce pediria a um usuario para verificar se ele tem a versao mais recente do software?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Could you check if you have the latest version of the software installed?",
+                        "Check your software is the newest",
+                        "Your software must be updated",
+                        "You need the latest software version"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Could you check if you have the latest version of the software installed?"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce precisa informar a alguem que nao consegue acessar um link. Como voce faria?",
+        "difficulty":  "medium",
+        "options":  [
+                        "I\u0027ve tried clicking the link, but it\u0027s not working for me.",
+                        "The link doesn\u0027t work in my computer",
+                        "This link is broken",
+                        "I cannot open this link"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "I\u0027ve tried clicking the link, but it\u0027s not working for me."
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como voce expressaria que prefere se comunicar por email em vez de mensagem instantanea?",
+        "difficulty":  "medium",
+        "options":  [
+                        "I prefer to communicate via email rather than instant messages for this.",
+                        "I like email more than messages",
+                        "Send me email, not messages",
+                        "Email is better than instant messages"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "I prefer to communicate via email rather than instant messages for this."
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce esta pedindo ajuda para recuperar um arquivo deletado acidentalmente. Como voce faria?",
+        "difficulty":  "medium",
+        "options":  [
+                        "I accidentally deleted an important file. Is there any way to recover it?",
+                        "I delete important file by mistake",
+                        "My file was deleted and I need it",
+                        "Can you give me back my deleted file?"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "I accidentally deleted an important file. Is there any way to recover it?"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como voce sumarizaria o que aprendeu depois de assistir a um tutorial online?",
+        "difficulty":  "medium",
+        "options":  [
+                        "I\u0027ve watched the tutorial and now I understand the basic steps.",
+                        "I watch the tutorial and know the steps",
+                        "The tutorial teaches me how to doing it",
+                        "I watched and I am understanding the tutorial"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "I\u0027ve watched the tutorial and now I understand the basic steps."
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce precisa avisar que sera necessario fazer backup antes de instalar uma atualizacao. Como voce faria?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Before installing the update, you should create a backup of your files.",
+                        "Make backup before you update",
+                        "You need backup before updating",
+                        "Backup is necessary for updating"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Before installing the update, you should create a backup of your files."
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como voce pediria permissao para usar um software especifico da empresa?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Do I need special permission to use this company software?",
+                        "Can I use this software of company?",
+                        "I want to use the company software",
+                        "May I using the company software?"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Do I need special permission to use this company software?"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce esta explicando a razao pela qual alguem nao consegue fazer login. Como voce faria?",
+        "difficulty":  "hard",
+        "options":  [
+                        "It looks like your username or password might be incorrect. Have you tried resetting it?",
+                        "Your username or password is wrong",
+                        "You cannot login because password is bad",
+                        "Your credentials is not good for login"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "It looks like your username or password might be incorrect. Have you tried resetting it?"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como voce explicaria a importancia de usar uma VPN em redes publicas?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Using a VPN on public networks helps protect your personal data from being intercepted.",
+                        "VPN is good for public network safety",
+                        "You must use VPN in public networks",
+                        "VPN makes your network more secure"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Using a VPN on public networks helps protect your personal data from being intercepted."
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce esta orientando alguem sobre como identificar um email de phishing. Como voce faria?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Be careful of emails asking you to click links or provide personal information unexpectedly.",
+                        "Phishing emails are asking your information",
+                        "Don\u0027t click links in suspicious emails",
+                        "Email phishing is dangerous for you"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Be careful of emails asking you to click links or provide personal information unexpectedly."
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como voce explicaria a diferenca entre sincronizacao na nuvem e armazenamento local?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Cloud sync automatically updates your files across devices, while local storage keeps them on one device.",
+                        "Cloud sync is for computers and local storage is for phones",
+                        "Sync makes your files go everywhere",
+                        "Cloud storage is better than local storage"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Cloud sync automatically updates your files across devices, while local storage keeps them on one device."
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce esta descrevendo um erro tecnico complexo a um suporte. Como voce estruturaria sua mensagem?",
+        "difficulty":  "hard",
+        "options":  [
+                        "When I try to open the file, the system shows an error code 404. I\u0027ve restarted the application but the problem persists.",
+                        "The error 404 is showing and I don\u0027t know",
+                        "My system has error code 404 when opening file",
+                        "The file has error and I restart but nothing"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "When I try to open the file, the system shows an error code 404. I\u0027ve restarted the application but the problem persists."
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como voce explicaria a razao pela qual precisar limpar o cache do navegador?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Clearing your browser cache can improve performance and resolve loading issues.",
+                        "Cache needs cleaning for the browser",
+                        "Your browser cache makes it slow",
+                        "Delete cache to make browser faster"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Clearing your browser cache can improve performance and resolve loading issues."
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce esta aconselhando alguem sobre gestao de senhas. Como voce faria?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Consider using a password manager to generate and store strong passwords securely.",
+                        "Password manager helps to remember your passwords",
+                        "Use password manager for strong passwords",
+                        "Password managers are better than writing passwords"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Consider using a password manager to generate and store strong passwords securely."
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como voce expressaria preocupacao sobre coleta de dados por um aplicativo?",
+        "difficulty":  "easy",
+        "options":  [
+                        "I\u0027m concerned about how much personal data this app is collecting. What are the privacy settings?",
+                        "This app collects my data and I don\u0027t like",
+                        "The app takes my information",
+                        "This application is collecting data from me"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "I\u0027m concerned about how much personal data this app is collecting. What are the privacy settings?"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce esta explicando como usar ferramentas de colaboracao online para um projeto. Como comecaria?",
+        "difficulty":  "easy",
+        "options":  [
+                        "We can use this online platform to collaborate on the project. Everyone can edit in real-time.",
+                        "This platform is for collaboration and editing",
+                        "We all can edit the files together",
+                        "Use this platform for working together"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "We can use this online platform to collaborate on the project. Everyone can edit in real-time."
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como voce alertaria alguem sobre um possivel malware no seu computador?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Your computer might have a malware infection. I recommend running an antivirus scan immediately.",
+                        "Your computer has malware in it",
+                        "You need to scan for malware",
+                        "Malware is in your computer"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Your computer might have a malware infection. I recommend running an antivirus scan immediately."
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce esta explicando a importancia de atualizar o sistema operacional. Como voce faria?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Operating system updates often include security patches and bug fixes that protect your device.",
+                        "You should update your system because is important",
+                        "System updates make your computer secure",
+                        "Updating the OS is necessary for you"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Operating system updates often include security patches and bug fixes that protect your device."
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como voce pediria a alguem para compartilhar acesso a um documento sem transferir propriedade?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Could you give me view-only access to this document so I can review it?",
+                        "Share me the document but don\u0027t change owner",
+                        "Give me the document for reading",
+                        "I want access to your document"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Could you give me view-only access to this document so I can review it?"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce esta explicando a diferenca entre armazenamento em nuvem gratuito e pago. Como voce faria?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Free cloud storage has limited space and features, while paid plans offer more storage and advanced options.",
+                        "Free cloud storage is small and paid is big",
+                        "Paid cloud storage is better than free",
+                        "You get more space with paid plans"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Free cloud storage has limited space and features, while paid plans offer more storage and advanced options."
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como voce expressaria frustracao com a qualidade da conexao de internet durante uma videoconferencia?",
+        "difficulty":  "hard",
+        "options":  [
+                        "The connection seems unstable right now. Would you mind if I reconnect?",
+                        "My internet is very bad and unstable",
+                        "The connection is not good for video call",
+                        "I have bad internet connection"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "The connection seems unstable right now. Would you mind if I reconnect?"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Voce esta oferecendo ajuda para configurar um novo dispositivo. Como voce faria?",
+        "difficulty":  "hard",
+        "options":  [
+                        "I can help you set up your new device. Let me walk you through the initial setup process.",
+                        "I help you configure your device",
+                        "Your device needs setup and I help",
+                        "Let me help setting up the new device"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "I can help you set up your new device. Let me walk you through the initial setup process."
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como voce explicaria por que e importante manter copias de seguranca regulares?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Regular backups ensure that if something happens to your device, you won\u0027t lose your important files.",
+                        "Backups are important because you might lose files",
+                        "You should backup your files regularly",
+                        "Making backups prevents data loss"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Regular backups ensure that if something happens to your device, you won\u0027t lose your important files."
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como voce explicaria a diferenca entre software gratuito e pago ao comparar opcoes?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Free software is available at no cost but may have limited features, while paid software typically offers more features and support.",
+                        "Paid software is always better than free",
+                        "Free software has all the same features as paid",
+                        "You should never use free software"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Free software is available at no cost but may have limited features, while paid software typically offers more features and support."
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como voce descreveria um problema de compatibilidade entre programas?",
+        "difficulty":  "hard",
+        "options":  [
+                        "This software isn\u0027t compatible with my system version. Do you have an updated version?",
+                        "The software doesn\u0027t work with my computer",
+                        "My computer is not good for this software",
+                        "The software is broken"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "This software isn\u0027t compatible with my system version. Do you have an updated version?"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como voce pediria a alguem para otimizar seu computador para melhor desempenho?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Your computer might run faster if you uninstall unused programs and delete temporary files.",
+                        "You need a new computer",
+                        "Delete all your files to make it faster",
+                        "Your computer is too old to optimize"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Your computer might run faster if you uninstall unused programs and delete temporary files."
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "Como voce expressaria a necessidade de aprender a usar uma nova plataforma?",
+        "difficulty":  "hard",
+        "options":  [
+                        "I need some training on how to use this platform. Could you provide some guidance?",
+                        "I don\u0027t understand this platform",
+                        "This platform is too difficult",
+                        "I want to learn the platform"
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "I need some training on how to use this platform. Could you provide some guidance?"
+    }
+]

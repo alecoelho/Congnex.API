@@ -1,0 +1,432 @@
+﻿[
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Você gosta de comer fruta?",
+    "correctAnswer": "Do you like eating fruit?",
+    "options": ["Do you like eating fruit?", "Does he like fruit?", "Did you eat fruit?", "Will you like fruit?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "A água está fria.",
+    "correctAnswer": "The water is cold.",
+    "options": ["The water is cold.", "The water was cold.", "The water will be cold.", "The water is warm."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Ele come pão todos os dias.",
+    "correctAnswer": "He eats bread every day.",
+    "options": ["He eats bread every day.", "He is eating bread today.", "He ate bread yesterday.", "He will eat bread tomorrow."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Que tipo de comida você prefere?",
+    "correctAnswer": "What type of food do you prefer?",
+    "options": ["What type of food do you prefer?", "What type of food does he prefer?", "When do you prefer food?", "Why do you prefer food?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "O café está quente.",
+    "correctAnswer": "The coffee is hot.",
+    "options": ["The coffee is hot.", "The coffee is cold.", "The coffee is sweet.", "The coffee is bitter."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Ela bebe suco de laranja.",
+    "correctAnswer": "She drinks orange juice.",
+    "options": ["She drinks orange juice.", "She drinks apple juice.", "She drinks lemonade.", "She drinks water."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Quanto custa este prato?",
+    "correctAnswer": "How much does this dish cost?",
+    "options": ["How much does this dish cost?", "What is this dish?", "Where is this dish?", "When is this dish?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Nós comemos arroz e feijão.",
+    "correctAnswer": "We eat rice and beans.",
+    "options": ["We eat rice and beans.", "We ate rice and beans.", "We will eat rice and beans.", "We are eating rice and beans."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "O restaurante fecha às 22 horas.",
+    "correctAnswer": "The restaurant closes at 10 PM.",
+    "options": ["The restaurant closes at 10 PM.", "The restaurant opens at 10 PM.", "The restaurant is at 10 PM.", "The restaurant serves at 10 PM."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Você já provou este vinho?",
+    "correctAnswer": "Have you already tried this wine?",
+    "options": ["Have you already tried this wine?", "Do you like this wine?", "Will you try this wine?", "Are you drinking this wine?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "O queijo é muito salgado.",
+    "correctAnswer": "The cheese is very salty.",
+    "options": ["The cheese is very salty.", "The cheese is very sweet.", "The cheese is very spicy.", "The cheese is very soft."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Eles não comem carne vermelha.",
+    "correctAnswer": "They don't eat red meat.",
+    "options": ["They don't eat red meat.", "They eat red meat.", "They are eating red meat.", "They will eat red meat."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "A sobremesa é deliciosa.",
+    "correctAnswer": "The dessert is delicious.",
+    "options": ["The dessert is delicious.", "The dessert is spicy.", "The dessert is salty.", "The dessert is bitter."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Você prefere comida caseira ou comida de restaurante?",
+    "correctAnswer": "Do you prefer home-cooked food or restaurant food?",
+    "options": ["Do you prefer home-cooked food or restaurant food?", "Do you like home-cooked food or restaurant food?", "Where do you prefer to eat?", "How do you cook food?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Este peixe está fresco.",
+    "correctAnswer": "This fish is fresh.",
+    "options": ["This fish is fresh.", "This fish is old.", "This fish is cooked.", "This fish is raw."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Ela está com fome.",
+    "correctAnswer": "She is hungry.",
+    "options": ["She is hungry.", "She is thirsty.", "She is tired.", "She is happy."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "O prato principal é servido com batatas.",
+    "correctAnswer": "The main course is served with potatoes.",
+    "options": ["The main course is served with potatoes.", "The appetizer is served with potatoes.", "The dessert is served with potatoes.", "The side dish is served with potatoes."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Você teria de pedir uma mesa reservada neste restaurante.",
+    "correctAnswer": "You would have to book a table at this restaurant.",
+    "options": ["You would have to book a table at this restaurant.", "You could book a table at this restaurant.", "You should book a table at this restaurant.", "You might book a table at this restaurant."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Se eu fosse você, experimentaria o prato especial.",
+    "correctAnswer": "If I were you, I would try the special dish.",
+    "options": ["If I were you, I would try the special dish.", "If I was you, I try the special dish.", "If I am you, I try the special dish.", "If I were you, I will try the special dish."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "A comida estava tão boa que comemos tudo.",
+    "correctAnswer": "The food was so good that we ate everything.",
+    "options": ["The food was so good that we ate everything.", "The food is so good that we eat everything.", "The food was so bad that we ate everything.", "The food is so good that we will eat everything."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Este restaurante é conhecido por sua culinária tradicional.",
+    "correctAnswer": "This restaurant is known for its traditional cuisine.",
+    "options": ["This restaurant is known for its traditional cuisine.", "This restaurant is famous for its modern food.", "This restaurant is popular for its fast food.", "This restaurant is recognized for its exotic dishes."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "O cozinheiro prepara pratos muito saborosos.",
+    "correctAnswer": "The chef prepares very tasty dishes.",
+    "options": ["The chef prepares very tasty dishes.", "The chef cooks very tasty dishes.", "The chef makes very tasty dishes.", "The chef creates very tasty dishes."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Quanto tempo demora para preparar este prato?",
+    "correctAnswer": "How long does it take to prepare this dish?",
+    "options": ["How long does it take to prepare this dish?", "How much time do you spend preparing this dish?", "How soon will this dish be ready?", "How long has this dish been cooking?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "O cardápio oferece várias opções vegetarianas.",
+    "correctAnswer": "The menu offers several vegetarian options.",
+    "options": ["The menu offers several vegetarian options.", "The menu has many vegetarian choices.", "The menu provides vegetarian food.", "The menu includes vegetarian dishes."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Você gostaria de uma bebida para acompanhar?",
+    "correctAnswer": "Would you like a drink to go with it?",
+    "options": ["Would you like a drink to go with it?", "Do you want a drink to eat?", "Will you have a drink?", "Can you drink something?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "A receita leva ingredientes muito específicos.",
+    "correctAnswer": "The recipe requires very specific ingredients.",
+    "options": ["The recipe requires very specific ingredients.", "The recipe needs special ingredients.", "The recipe uses particular ingredients.", "The recipe contains rare ingredients."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Este azeite é de muito boa qualidade.",
+    "correctAnswer": "This olive oil is of very good quality.",
+    "options": ["This olive oil is of very good quality.", "This olive oil is very good.", "This olive oil has good quality.", "This olive oil is good quality."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Você conseguiria fazer este bolo em casa?",
+    "correctAnswer": "Could you make this cake at home?",
+    "options": ["Could you make this cake at home?", "Would you make this cake at home?", "Can you bake this cake at home?", "Will you make this cake at home?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Os pratos são decorados com muita criatividade.",
+    "correctAnswer": "The dishes are decorated with great creativity.",
+    "options": ["The dishes are decorated with great creativity.", "The dishes are presented with creativity.", "The plates are designed with creativity.", "The dishes are styled creatively."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "O molho complementa perfeitamente o sabor do peixe.",
+    "correctAnswer": "The sauce perfectly complements the fish flavor.",
+    "options": ["The sauce perfectly complements the fish flavor.", "The sauce goes well with the fish.", "The sauce enhances the fish taste.", "The sauce matches the fish perfectly."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "A textura da sobremesa é cremosa e macia.",
+    "correctAnswer": "The texture of the dessert is creamy and soft.",
+    "options": ["The texture of the dessert is creamy and soft.", "The dessert has a creamy and soft taste.", "The consistency of the dessert is creamy and tender.", "The quality of the dessert is creamy and smooth."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Ele prefere pratos que não sejam muito temperados.",
+    "correctAnswer": "He prefers dishes that are not too spicy.",
+    "options": ["He prefers dishes that are not too spicy.", "He likes dishes that are not very hot.", "He chooses dishes that are not highly seasoned.", "He enjoys dishes that are not heavily flavored."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Você diria que a refeição foi satisfatória?",
+    "correctAnswer": "Would you say the meal was satisfactory?",
+    "options": ["Would you say the meal was satisfactory?", "Did you think the meal was good?", "Do you think the meal was enough?", "Would you consider the meal adequate?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "O estabelecimento respeita rigorosamente as normas de higiene.",
+    "correctAnswer": "The establishment strictly complies with hygiene standards.",
+    "options": ["The establishment strictly complies with hygiene standards.", "The restaurant follows hygiene rules carefully.", "The place respects hygiene regulations strictly.", "The facility maintains hygiene standards rigorously."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Este prato é uma especialidade da chef.",
+    "correctAnswer": "This dish is a specialty of the chef.",
+    "options": ["This dish is a specialty of the chef.", "This dish is the chef's special.", "This is what the chef specializes in.", "The chef is known for this dish."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "A harmonização entre o prato e a bebida é excelente.",
+    "correctAnswer": "The pairing between the dish and the drink is excellent.",
+    "options": ["The pairing between the dish and the drink is excellent.", "The combination of food and drink is perfect.", "The match between the meal and beverage is great.", "The harmony of dish and drink is outstanding."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Você poderia recomendar um prato para quem não come glúten?",
+    "correctAnswer": "Could you recommend a dish for someone who doesn't eat gluten?",
+    "options": ["Could you recommend a dish for someone who doesn't eat gluten?", "Can you suggest a dish for those avoiding gluten?", "Would you recommend a gluten-free option?", "Can you propose a dish for gluten-intolerant people?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "A apresentação visual dos pratos é tão importante quanto o sabor.",
+    "correctAnswer": "The visual presentation of the dishes is as important as the taste.",
+    "options": ["The visual presentation of the dishes is as important as the taste.", "The way the dishes look is as important as how they taste.", "The appearance of food is equally important to flavor.", "The visual aspect of dishes matters as much as taste."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "O cardápio degustação oferece uma experiência gastronômica completa.",
+    "correctAnswer": "The tasting menu offers a complete gastronomic experience.",
+    "options": ["The tasting menu offers a complete gastronomic experience.", "The sampling menu provides a full dining experience.", "The tasting menu gives a comprehensive culinary journey.", "The taste menu presents a complete food experience."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Se você tivesse alergias, teria que avisar antes de fazer o pedido.",
+    "correctAnswer": "If you had allergies, you would have to inform before ordering.",
+    "options": ["If you had allergies, you would have to inform before ordering.", "If you were allergic, you should tell before ordering.", "If you had allergies, you would need to tell before you order.", "If allergic, you must inform before placing the order."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "A cozinha moderna fusiona técnicas tradicionais com criatividade contemporânea.",
+    "correctAnswer": "Modern cuisine fuses traditional techniques with contemporary creativity.",
+    "options": ["Modern cuisine fuses traditional techniques with contemporary creativity.", "Modern cooking combines traditional methods with new ideas.", "Contemporary cuisine merges classic techniques with modern innovation.", "Today's cooking blends traditional approaches with creative elements."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Você gostaria que a refeição fosse servida em etapas ou tudo de uma vez?",
+    "correctAnswer": "Would you like the meal to be served in courses or all at once?",
+    "options": ["Would you like the meal to be served in courses or all at once?", "Do you prefer the meal in stages or together?", "Should the meal be served separately or at the same time?", "Would you want the food served progressively or simultaneously?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "alimentacao",
+    "type": "translation",
+    "questionText": "Os ingredientes são selecionados cuidadosamente de fornecedores locais.",
+    "correctAnswer": "The ingredients are carefully selected from local suppliers.",
+    "options": ["The ingredients are carefully selected from local suppliers.", "The ingredients are chosen carefully from local sources.", "The ingredients are picked from local providers with care.", "The ingredients are selected thoughtfully from nearby suppliers."],
+    "difficulty": "hard"
+  }
+]

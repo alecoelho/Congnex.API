@@ -1,0 +1,482 @@
+[
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "A loja está aberta até que horas?",
+    "correctAnswer": "Until what time is the store open?",
+    "options": ["Until what time is the store open?", "What time does the store close?", "When does the store open?", "How much time is left?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Quanto custa este produto?",
+    "correctAnswer": "How much does this product cost?",
+    "options": ["How much does this product cost?", "What is the product?", "Where can I buy this?", "Is it expensive?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Vocês aceitam cartão de crédito?",
+    "correctAnswer": "Do you accept credit cards?",
+    "options": ["Do you accept credit cards?", "What cards do you have?", "Is your credit good?", "Where is the card section?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Qual é o desconto?",
+    "correctAnswer": "What is the discount?",
+    "options": ["What is the discount?", "How much is the sale?", "Where is the discount section?", "Do you have discounts?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Posso trocar este item?",
+    "correctAnswer": "Can I exchange this item?",
+    "options": ["Can I exchange this item?", "Can I buy this item?", "Is this item available?", "Where is this item?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Onde fica a seção de roupas?",
+    "correctAnswer": "Where is the clothing section?",
+    "options": ["Where is the clothing section?", "What clothes do you have?", "How much are the clothes?", "Do you sell clothes?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Tem em outro tamanho?",
+    "correctAnswer": "Do you have it in another size?",
+    "options": ["Do you have it in another size?", "What size is this?", "Is this size available?", "How big is it?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Qual é a política de devolução?",
+    "correctAnswer": "What is the return policy?",
+    "options": ["What is the return policy?", "Can I return this?", "How long do I have?", "Is there a return fee?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Você recomenda este produto?",
+    "correctAnswer": "Do you recommend this product?",
+    "options": ["Do you recommend this product?", "Is this a good product?", "Have you used this?", "What do you think about this?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Há alguma promoção hoje?",
+    "correctAnswer": "Is there any promotion today?",
+    "options": ["Is there any promotion today?", "What is on sale?", "Do you have special offers?", "How much is the sale?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Preciso de uma nota fiscal?",
+    "correctAnswer": "Do I need a receipt?",
+    "options": ["Do I need a receipt?", "Can you give me a receipt?", "Where is the receipt?", "What is a receipt?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Quando chega o próximo envio?",
+    "correctAnswer": "When does the next shipment arrive?",
+    "options": ["When does the next shipment arrive?", "Is it already here?", "How long will it take?", "Where is my order?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Vocês entregam a domicílio?",
+    "correctAnswer": "Do you deliver to home?",
+    "options": ["Do you deliver to home?", "Where do you deliver?", "How much is the delivery?", "Can you send it?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "É original ou falsificado?",
+    "correctAnswer": "Is it original or fake?",
+    "options": ["Is it original or fake?", "Where is it from?", "Is it authentic?", "How do I know it's real?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Qual é a marca?",
+    "correctAnswer": "What is the brand?",
+    "options": ["What is the brand?", "Where is the brand?", "Is it a good brand?", "Do you have this brand?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Faz desconto na quantidade?",
+    "correctAnswer": "Do you give a discount for bulk purchases?",
+    "options": ["Do you give a discount for bulk purchases?", "How much can I save?", "What is the minimum order?", "Can I buy less?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Posso parcelar a compra?",
+    "correctAnswer": "Can I pay in installments?",
+    "options": ["Can I pay in installments?", "How many payments?", "What is the interest?", "Can I pay later?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Este produto é importado ou nacional?",
+    "correctAnswer": "Is this product imported or domestic?",
+    "options": ["Is this product imported or domestic?", "Where does it come from?", "Is it made in Brazil?", "How much does import cost?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Tem cupom de desconto disponível?",
+    "correctAnswer": "Is there a discount coupon available?",
+    "options": ["Is there a discount coupon available?", "How much is the coupon?", "Where do I get a coupon?", "Can you give me a discount?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Qual é o prazo de entrega para esta região?",
+    "correctAnswer": "What is the delivery time for this region?",
+    "options": ["What is the delivery time for this region?", "How fast can you deliver?", "Where do you deliver?", "When will it arrive?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Preciso de garantia para este item?",
+    "correctAnswer": "Do I need a warranty for this item?",
+    "options": ["Do I need a warranty for this item?", "How long is the warranty?", "What does the warranty cover?", "Is it covered?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Vocês oferecem embrulho de presente?",
+    "correctAnswer": "Do you offer gift wrapping?",
+    "options": ["Do you offer gift wrapping?", "Is there a gift section?", "Can you wrap it?", "What is the wrapping cost?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Posso devolver sem o recibo original?",
+    "correctAnswer": "Can I return it without the original receipt?",
+    "options": ["Can I return it without the original receipt?", "What if I lost the receipt?", "Do I need the receipt?", "Is the receipt important?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Há limite de devoluções por cliente?",
+    "correctAnswer": "Is there a limit on returns per customer?",
+    "options": ["Is there a limit on returns per customer?", "How many times can I return?", "What is the return limit?", "Can I keep returning?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Este produto vem com manual de instruções?",
+    "correctAnswer": "Does this product come with an instruction manual?",
+    "options": ["Does this product come with an instruction manual?", "Where is the manual?", "Is there a guide?", "How do I use it?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Vocês fazem entrega no fim de semana?",
+    "correctAnswer": "Do you deliver on weekends?",
+    "options": ["Do you deliver on weekends?", "When do you deliver?", "Is there weekend delivery?", "Can you deliver today?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Preciso fazer reserva com antecedência?",
+    "correctAnswer": "Do I need to make a reservation in advance?",
+    "options": ["Do I need to make a reservation in advance?", "How long ahead should I book?", "Can I reserve this?", "When should I reserve?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Qual é a composição deste produto?",
+    "correctAnswer": "What is the composition of this product?",
+    "options": ["What is the composition of this product?", "What is it made of?", "Are there allergens?", "What are the ingredients?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Há alguma restrição na compra deste artigo?",
+    "correctAnswer": "Are there any restrictions on purchasing this item?",
+    "options": ["Are there any restrictions on purchasing this item?", "Can anyone buy this?", "Is there an age limit?", "Who can buy it?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Vocês têm programa de fidelidade?",
+    "correctAnswer": "Do you have a loyalty program?",
+    "options": ["Do you have a loyalty program?", "Can I earn points?", "What are the benefits?", "How does it work?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Preciso de CPF para fazer a compra?",
+    "correctAnswer": "Do I need my ID number to make the purchase?",
+    "options": ["Do I need my ID number to make the purchase?", "What information do you need?", "Is my ID required?", "Why do you need it?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Há algum imposto adicional na compra?",
+    "correctAnswer": "Is there any additional tax on the purchase?",
+    "options": ["Is there any additional tax on the purchase?", "What about taxes?", "Do I need to pay extra?", "How much in taxes?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Este preço inclui transporte?",
+    "correctAnswer": "Does this price include shipping?",
+    "options": ["Does this price include shipping?", "How much is the shipping?", "Is delivery included?", "What about postage?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Posso pedir uma nota de crédito em vez de reembolso?",
+    "correctAnswer": "Can I request a store credit instead of a refund?",
+    "options": ["Can I request a store credit instead of a refund?", "Do you give credit?", "What about store credit?", "Can I exchange for credit?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Qual é a margem de lucro do comerciante neste produto?",
+    "correctAnswer": "What is the retailer's profit margin on this product?",
+    "options": ["What is the retailer's profit margin on this product?", "How much profit do you make?", "What is your markup?", "Do you make money on this?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Este produto se deprecia rapidamente com o tempo?",
+    "correctAnswer": "Does this product depreciate quickly over time?",
+    "options": ["Does this product depreciate quickly over time?", "Will it lose value?", "Is it durable?", "How long will it last?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Vocês permitem devolução de produtos que já foram usados?",
+    "correctAnswer": "Do you allow returns on products that have already been used?",
+    "options": ["Do you allow returns on products that have already been used?", "Can I return used items?", "What if I used it?", "Do you take back opened packages?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Há alguma cláusula de exclusão de responsabilidade no produto?",
+    "correctAnswer": "Is there any disclaimer clause on the product?",
+    "options": ["Is there any disclaimer clause on the product?", "What are the warnings?", "Should I be aware of anything?", "Are there limitations?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Como você se assegura da autenticidade dos produtos importados?",
+    "correctAnswer": "How do you ensure the authenticity of imported products?",
+    "options": ["How do you ensure the authenticity of imported products?", "Are imported items real?", "Where do they come from?", "Can you verify authenticity?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Qual é a política de cancelamento para pedidos já processados?",
+    "correctAnswer": "What is the cancellation policy for already processed orders?",
+    "options": ["What is the cancellation policy for already processed orders?", "Can I cancel my order?", "What if I change my mind?", "How do I cancel?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Vocês oferecem compensação por atrasos na entrega?",
+    "correctAnswer": "Do you offer compensation for delivery delays?",
+    "options": ["Do you offer compensation for delivery delays?", "What if it's late?", "Can I get a refund if delayed?", "Do you pay for late delivery?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Este produto atende aos padrões internacionais de segurança?",
+    "correctAnswer": "Does this product meet international safety standards?",
+    "options": ["Does this product meet international safety standards?", "Is it safe to use?", "What certifications does it have?", "Is it approved?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Há alguma alternativa sustentável ou ecológica para este produto?",
+    "correctAnswer": "Is there any sustainable or eco-friendly alternative to this product?",
+    "options": ["Is there any sustainable or eco-friendly alternative to this product?", "Do you have green options?", "Is it environmentally friendly?", "Are there eco products?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Qual é o custo-benefício deste produto comparado aos concorrentes?",
+    "correctAnswer": "What is the value for money of this product compared to competitors?",
+    "options": ["What is the value for money of this product compared to competitors?", "Is it better than others?", "How does it compare?", "Is it worth the price?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Vocês oferecem suporte técnico para produtos eletrônicos?",
+    "correctAnswer": "Do you offer technical support for electronic products?",
+    "options": ["Do you offer technical support for electronic products?", "Is there customer support?", "Can you help with problems?", "Do you have a helpline?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Há restrições de entrega para áreas rurais ou remotas?",
+    "correctAnswer": "Are there delivery restrictions for rural or remote areas?",
+    "options": ["Are there delivery restrictions for rural or remote areas?", "Do you deliver everywhere?", "What about remote locations?", "Can you reach my area?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Este produto pode ser alvo de recall no futuro?",
+    "correctAnswer": "Could this product be subject to a recall in the future?",
+    "options": ["Could this product be subject to a recall in the future?", "Is there a recall risk?", "Has it been recalled?", "Is it safe from recalls?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "compras",
+    "type": "translation",
+    "questionText": "Você oferece opções de pagamento sem juros ou com juros reduzidos?",
+    "correctAnswer": "Do you offer interest-free or reduced-interest payment options?",
+    "options": ["Do you offer interest-free or reduced-interest payment options?", "Can I pay without interest?", "What are the payment terms?", "Do you have financing?"],
+    "difficulty": "hard"
+  }
+]

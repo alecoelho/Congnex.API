@@ -1,0 +1,502 @@
+[
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer oferecer ajuda a um colega que parece estar lutando com seu trabalho. O que você diz?",
+    "correctAnswer": "Can I give you a hand with that?",
+    "options": ["Can I give you a hand with that?", "You need help immediately!", "This work is too difficult for you.", "Do you want to fail at this task?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Seu chefe pergunta como foi sua reunião. Como você responde de forma positiva?",
+    "correctAnswer": "It went really well, thank you for asking.",
+    "options": ["It went really well, thank you for asking.", "It was boring and pointless.", "I don't want to talk about it.", "Nobody cared about my opinion."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você educadamente pergunta a hora para alguém que não conhece bem?",
+    "correctAnswer": "Do you have the time, please?",
+    "options": ["Do you have the time, please?", "Tell me the time now!", "What time is it exactly?", "I need to know the time immediately!"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Um amigo te convida para sair, mas você precisa trabalhar. Como você polida e responde?",
+    "correctAnswer": "I appreciate the invitation, but I'm busy tonight.",
+    "options": ["I appreciate the invitation, but I'm busy tonight.", "No way, I'm staying home.", "You're wasting my time with invitations.", "I hate going out, sorry."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você pergunta permissão para usar o computador de um colega?",
+    "correctAnswer": "May I use your computer for a moment?",
+    "options": ["May I use your computer for a moment?", "Give me your computer now!", "I need your computer right away.", "Your computer is mine!"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você chegou atrasado no trabalho e quer se desculpar. O que você diz?",
+    "correctAnswer": "I'm sorry I'm late. The traffic was terrible.",
+    "options": ["I'm sorry I'm late. The traffic was terrible.", "I don't care about being late.", "Lateness is not my problem.", "Why should I apologize for being late?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você sugere uma ideia durante uma reunião de forma educada?",
+    "correctAnswer": "What if we try a different approach?",
+    "options": ["What if we try a different approach?", "Your idea is completely wrong!", "Everyone else's ideas are bad.", "I'm the only one with good ideas."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Um colega pergunta como você está. Como você responde de forma natural e breve?",
+    "correctAnswer": "I'm fine, thanks. How about you?",
+    "options": ["I'm fine, thanks. How about you?", "My life is miserable.", "I'm terrible and unhappy.", "Why are you asking me?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você convida um colega para almoçar junto?",
+    "correctAnswer": "Would you like to grab lunch together?",
+    "options": ["Would you like to grab lunch together?", "You must eat with me now!", "I demand your company at lunch!", "You have no choice about lunch."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você não entendeu as instruções de seu chefe. Como você educadamente pede esclarecimento?",
+    "correctAnswer": "Could you please explain that again?",
+    "options": ["Could you please explain that again?", "Your instructions make no sense!", "I'm not listening to this.", "Your explanation was completely wrong."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Um colega oferece ajuda. Como você educadamente recusa, mas agradece?",
+    "correctAnswer": "Thanks for the offer, but I can manage.",
+    "options": ["Thanks for the offer, but I can manage.", "Get away from me!", "I don't need your pathetic help.", "You're useless anyway."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você chama a atenção de alguém que não está ouvindo?",
+    "correctAnswer": "Excuse me, can you hear me?",
+    "options": ["Excuse me, can you hear me?", "You're deaf and stupid!", "Nobody can understand you anyway.", "Stop ignoring me, you fool!"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer concordar com a opinião de um colega. O que você diz?",
+    "correctAnswer": "I completely agree with you.",
+    "options": ["I completely agree with you.", "Your opinion is totally wrong.", "Nobody cares what you think.", "You're the most stupid person here."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você se despede de um colega ao final do dia de trabalho?",
+    "correctAnswer": "Have a great evening!",
+    "options": ["Have a great evening!", "I never want to see you again!", "Your day was terrible!", "Stop bothering me now!"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Um cliente está insatisfeito com o serviço. Como você responde?",
+    "correctAnswer": "I'm sorry to hear that. Let me help you fix this.",
+    "options": ["I'm sorry to hear that. Let me help you fix this.", "Your complaint is not my problem.", "You should learn to be satisfied.", "There's nothing I can do about it."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você oferece uma bebida a um visitante durante uma reunião?",
+    "correctAnswer": "Can I get you a coffee or tea?",
+    "options": ["Can I get you a coffee or tea?", "You look thirsty and ugly.", "Nobody offers you anything here.", "Drink water from the toilet."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você cometeu um erro em um projeto e quer informar seu chefe. Como você começa?",
+    "correctAnswer": "I need to tell you about a mistake I made.",
+    "options": ["I need to tell you about a mistake I made.", "I didn't do anything wrong!", "Someone else caused all the problems.", "There are no mistakes in my work."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você diplomaticamente discorda de uma opinião expressada em uma reunião?",
+    "correctAnswer": "I see your point, but I think we should consider another angle.",
+    "options": ["I see your point, but I think we should consider another angle.", "You're completely stupid and wrong.", "That's the worst idea I've ever heard.", "Nobody intelligent would agree with you."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você expressa preocupação sobre um prazo de entrega?",
+    "correctAnswer": "I'm concerned we might not meet the deadline.",
+    "options": ["I'm concerned we might not meet the deadline.", "We will definitely fail!", "Nobody cares about deadlines anyway.", "The deadline is impossible to ignore."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você pede feedback sobre seu desempenho durante uma reunião com seu chefe?",
+    "correctAnswer": "Could you give me some feedback on my work?",
+    "options": ["Could you give me some feedback on my work?", "I'm perfect and need no feedback.", "Your opinions about me don't matter.", "Nobody can evaluate my work."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você expressa frustração de forma apropriada no trabalho?",
+    "correctAnswer": "This situation is quite frustrating, I have to admit.",
+    "options": ["This situation is quite frustrating, I have to admit.", "This is completely terrible and disgusting!", "I hate everything about this job!", "Everyone here is incompetent!"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você pede para adiar uma decisão importante?",
+    "correctAnswer": "Could we discuss this again tomorrow? I need more time to think.",
+    "options": ["Could we discuss this again tomorrow? I need more time to think.", "I refuse to decide anything right now!", "This decision is too important to think about.", "Tomorrow is too late for anything."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você elogia o trabalho de um colega de forma profissional?",
+    "correctAnswer": "I really admire the quality of your work on this project.",
+    "options": ["I really admire the quality of your work on this project.", "Your work is okay, I guess.", "Everyone could do what you do easily.", "Your effort doesn't really matter much."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você responde a uma pergunta durante uma apresentação quando não tem certeza da resposta?",
+    "correctAnswer": "That's a great question. Let me get back to you on that.",
+    "options": ["That's a great question. Let me get back to you on that.", "I have absolutely no idea what you're asking.", "Your question is stupid and irrelevant.", "I don't answer questions from the audience."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você pede uma extensão de prazo para um projeto?",
+    "correctAnswer": "Would it be possible to get a bit more time on this project?",
+    "options": ["Would it be possible to get a bit more time on this project?", "I'm definitely not finishing this on time!", "The deadline is totally unreasonable!", "I refuse to work within your timeframe."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você convida um colega para uma reunião informal?",
+    "correctAnswer": "Do you have time for a quick chat later today?",
+    "options": ["Do you have time for a quick chat later today?", "You must come to my office immediately!", "I'm commanding you to meet with me.", "Your schedule is irrelevant to me."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você expressa que está disponível para ajudar de forma profissional?",
+    "correctAnswer": "I'm available whenever you need assistance with this.",
+    "options": ["I'm available whenever you need assistance with this.", "Maybe I can help if I feel like it.", "Don't count on my help for anything.", "I'm too busy for anybody's problems."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você informa que precisa de licença do trabalho?",
+    "correctAnswer": "I need to take some time off next week.",
+    "options": ["I need to take some time off next week.", "I'm leaving and nobody can stop me!", "My vacation is mandatory for everyone to accept.", "Work without me, I'm not coming back."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você responde quando recebe um elogio no trabalho?",
+    "correctAnswer": "Thank you so much. I appreciate your feedback.",
+    "options": ["Thank you so much. I appreciate your feedback.", "Of course I'm good, everyone knows that.", "Your opinion doesn't really matter to me.", "I don't need your praise at all."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você propõe uma reunião para resolver um conflito entre colegas?",
+    "correctAnswer": "Perhaps we could all sit down and discuss this together.",
+    "options": ["Perhaps we could all sit down and discuss this together.", "This conflict is none of my business whatsoever.", "I don't care if you two are fighting.", "Stop your arguing and leave me alone."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você expressa que não compreendeu completamente uma instrução de trabalho?",
+    "correctAnswer": "I'm not entirely sure I understand. Could you clarify?",
+    "options": ["I'm not entirely sure I understand. Could you clarify?", "Your instructions are completely incomprehensible!", "I understood everything perfectly, I think.", "Nobody could understand those instructions anyway."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Um colega compartilha uma preocupação pessoal com você. Como você responde com empatia?",
+    "correctAnswer": "I understand. That must be difficult for you.",
+    "options": ["I understand. That must be difficult for you.", "Your problems are not my responsibility.", "Everyone has problems, deal with yours alone.", "I don't care about your personal issues."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você expressa que tem uma conflitante prioridade durante seu dia?",
+    "correctAnswer": "I have another commitment I need to attend to, unfortunately.",
+    "options": ["I have another commitment I need to attend to, unfortunately.", "I'm leaving this immediately and never coming back.", "You're not important enough for my time.", "Everything else comes before your request."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você reconhece suas limitações profissionais durante uma discussão de projeto?",
+    "correctAnswer": "I don't have enough expertise in that area, but I can learn.",
+    "options": ["I don't have enough expertise in that area, but I can learn.", "I know everything about every subject imaginable.", "My skills are superior to everyone else's here.", "I refuse to admit I lack any knowledge."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você responde quando seu trabalho é criticado, mantendo profissionalismo?",
+    "correctAnswer": "I appreciate the constructive feedback. I'll work on improving that.",
+    "options": ["I appreciate the constructive feedback. I'll work on improving that.", "Your criticism is completely unfair and wrong!", "I'm leaving this job because of your comments.", "My work is perfect and needs no changes."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você interrompe educadamente alguém durante uma reunião para fazer uma pergunta relevante?",
+    "correctAnswer": "Sorry to interrupt, but I have a quick question about that point.",
+    "options": ["Sorry to interrupt, but I have a quick question about that point.", "Shut up and let me talk now!", "Nobody cares about what you're saying.", "Your point is completely irrelevant and boring."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você delicadamente informa alguém que cometeu um erro sem parecer crítico?",
+    "correctAnswer": "I think there might be a small issue with this part. Should we review it?",
+    "options": ["I think there might be a small issue with this part. Should we review it?", "You made a huge mistake and ruined everything!", "Your incompetence is showing again.", "This is the worst error I've ever seen."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você comunica uma decisão difícil ao seu time de forma clara?",
+    "correctAnswer": "I know this decision might not be what you expected, but here's the reasoning.",
+    "options": ["I know this decision might not be what you expected, but here's the reasoning.", "You have no choice but to accept what I say!", "This decision has nothing to do with any of you.", "Everyone will just have to live with this."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você oferece ajuda a um colega que claramente está estressado?",
+    "correctAnswer": "You seem stressed. Is there anything I can do to help?",
+    "options": ["You seem stressed. Is there anything I can do to help?", "Your stress is your own problem to handle.", "Everyone gets stressed, get over it.", "I don't help people who can't manage themselves."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você questiona a viabilidade de um plano sem ser desrespeitoso?",
+    "correctAnswer": "I'm interested in this plan, but I have some concerns about implementation.",
+    "options": ["I'm interested in this plan, but I have some concerns about implementation.", "This plan will definitely fail and is completely stupid!", "Nobody should ever follow these ridiculous ideas.", "Your planning skills are totally inadequate."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você fornece orientação a um colega mais novo sem parecer condescendente?",
+    "correctAnswer": "Based on my experience, I'd suggest trying this approach.",
+    "options": ["Based on my experience, I'd suggest trying this approach.", "You're too inexperienced to understand anything.", "Just do exactly what I tell you without questions.", "There's no point in trying to teach you anything."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você expressa desacordo respeitoso em relação aos métodos de trabalho de alguém?",
+    "correctAnswer": "I respect your approach, but have you considered this alternative?",
+    "options": ["I respect your approach, but have you considered this alternative?", "Your methods are completely outdated and wrong!", "Nobody should work the way you do.", "There's only one correct way to do this."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você responde quando um colega assume indevidamente crédito por seu trabalho?",
+    "correctAnswer": "Actually, I'd like to clarify my role in that project.",
+    "options": ["Actually, I'd like to clarify my role in that project.", "You're a thief and a liar and everyone knows it!", "Your dishonesty is the worst I've ever witnessed.", "I'll make sure everyone knows you stole my work!"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você pede permissão para deixar uma reunião mais cedo de forma educada?",
+    "correctAnswer": "I apologize, but I need to step out early. Is that alright?",
+    "options": ["I apologize, but I need to step out early. Is that alright?", "I'm leaving right now and nobody can stop me!", "This meeting is boring so I'm going.", "Your meeting is not important enough for me to stay."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você expressa necessidade de suporte durante um projeto desafiador?",
+    "correctAnswer": "I'm handling this project, but I'd appreciate some guidance on the technical aspects.",
+    "options": ["I'm handling this project, but I'd appreciate some guidance on the technical aspects.", "I can't do this and I'm completely incompetent!", "Everyone expects too much from me constantly.", "This project is impossible for anyone to complete."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você sugere uma pausa durante uma reunião longa de forma discreta?",
+    "correctAnswer": "Would it be helpful to take a short break before continuing?",
+    "options": ["Would it be helpful to take a short break before continuing?", "I'm exhausted and I'm leaving right now!", "This meeting is never going to end, it's torture.", "Everyone should stop talking and let me rest."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você comunica sucesso de um projeto com entusiasmo apropriado?",
+    "correctAnswer": "I'm pleased to report that we've successfully completed the project ahead of schedule.",
+    "options": ["I'm pleased to report that we've successfully completed the project ahead of schedule.", "We finished the project, big deal, so what?", "The project is done and nobody cares anyway.", "Success is meaningless in the grand scheme."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você diplomaticamente recusa uma tarefa que está além de suas responsabilidades?",
+    "correctAnswer": "I understand the request, but this falls outside my current responsibilities.",
+    "options": ["I understand the request, but this falls outside my current responsibilities.", "Absolutely not, I refuse this completely!", "That's not my job and I don't care.", "You're asking the wrong person and I know it."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você quer saudar um colega de forma casual quando o encontra no corredor. O que você diz?",
+    "correctAnswer": "Hey! How's it going?",
+    "options": ["Hey! How's it going?", "We need to talk right now!", "Your presence is unwanted here.", "I have nothing to say to you."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Como você sugere que a reunião termine porque o tempo acabou?",
+    "correctAnswer": "I think we should wrap this up now, we're running out of time.",
+    "options": ["I think we should wrap this up now, we're running out of time.", "This meeting will never end!", "I'm leaving whether we're done or not.", "Time is meaningless and irrelevant here."],
+    "difficulty": "medium"
+  }
+]

@@ -1,0 +1,502 @@
+﻿[
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "I usually ___ my computer every morning to check emails.",
+    "correctAnswer": "turn on",
+    "options": ["turn on", "switch", "power up", "boot"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "The ___ connection is faster than mobile data.",
+    "correctAnswer": "broadband",
+    "options": ["broadband", "wireless", "remote", "network"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Please ___ this file before sending it to the client.",
+    "correctAnswer": "save",
+    "options": ["save", "secure", "store", "download"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "The website was ___ after the server crashed.",
+    "correctAnswer": "down",
+    "options": ["down", "offline", "broken", "closed"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "You need to ___ your password to access the account.",
+    "correctAnswer": "enter",
+    "options": ["enter", "input", "type", "write"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "The app requires ___ to run properly on your phone.",
+    "correctAnswer": "permission",
+    "options": ["permission", "access", "allowance", "right"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "I ___ the document from the email attachment.",
+    "correctAnswer": "downloaded",
+    "options": ["downloaded", "received", "got", "obtained"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "The ___ allows you to search the internet.",
+    "correctAnswer": "browser",
+    "options": ["browser", "engine", "portal", "gateway"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Make sure to ___ your data regularly.",
+    "correctAnswer": "backup",
+    "options": ["backup", "copy", "store", "save"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "The company uses ___ to protect customer data.",
+    "correctAnswer": "encryption",
+    "options": ["encryption", "security", "protection", "firewall"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "My phone's battery is ___; I need to charge it.",
+    "correctAnswer": "low",
+    "options": ["low", "weak", "empty", "dead"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "The software ___ is no longer supported.",
+    "correctAnswer": "version",
+    "options": ["version", "release", "edition", "update"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "I need to ___ the operating system to fix the bug.",
+    "correctAnswer": "update",
+    "options": ["update", "upgrade", "patch", "refresh"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "The internet ___ is very fast in this area.",
+    "correctAnswer": "speed",
+    "options": ["speed", "rate", "velocity", "connection"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "You can ___ multiple files at once to save time.",
+    "correctAnswer": "upload",
+    "options": ["upload", "send", "transfer", "move"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "The ___ protects your computer from viruses.",
+    "correctAnswer": "antivirus",
+    "options": ["antivirus", "firewall", "security", "software"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "I usually ___ out of my email before closing the browser.",
+    "correctAnswer": "log",
+    "options": ["log", "sign", "exit", "come"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "The company's IT department had to ___ a security breach.",
+    "correctAnswer": "address",
+    "options": ["address", "resolve", "handle", "manage"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Cloud storage allows users to ___ their files from anywhere.",
+    "correctAnswer": "access",
+    "options": ["access", "retrieve", "obtain", "get"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "The algorithm ___ the data to identify patterns.",
+    "correctAnswer": "processes",
+    "options": ["processes", "analyzes", "examines", "treats"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "The new interface is ___ to use compared to the previous version.",
+    "correctAnswer": "intuitive",
+    "options": ["intuitive", "simple", "easy", "straightforward"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Digital ___ has become essential for modern businesses.",
+    "correctAnswer": "transformation",
+    "options": ["transformation", "change", "development", "progress"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "The website's ___ is designed for mobile devices.",
+    "correctAnswer": "interface",
+    "options": ["interface", "layout", "design", "structure"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Artificial intelligence ___ many industries.",
+    "correctAnswer": "revolutionizes",
+    "options": ["revolutionizes", "changes", "transforms", "improves"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "The application ___ seamlessly with other tools.",
+    "correctAnswer": "integrates",
+    "options": ["integrates", "works", "combines", "connects"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "The company decided to ___ its legacy system.",
+    "correctAnswer": "migrate",
+    "options": ["migrate", "move", "transfer", "upgrade"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Network ___ must be constantly monitored for security issues.",
+    "correctAnswer": "traffic",
+    "options": ["traffic", "flow", "data", "movement"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "The system ___ automatically when there's a critical error.",
+    "correctAnswer": "crashes",
+    "options": ["crashes", "fails", "breaks", "stops"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Cybersecurity ___ protect organizations from digital attacks.",
+    "correctAnswer": "measures",
+    "options": ["measures", "strategies", "steps", "procedures"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "The database contains ___ about customer interactions.",
+    "correctAnswer": "metadata",
+    "options": ["metadata", "information", "details", "records"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "The API ___ allows developers to build custom applications.",
+    "correctAnswer": "endpoint",
+    "options": ["endpoint", "connection", "interface", "gateway"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Developers must ___ their code regularly.",
+    "correctAnswer": "commit",
+    "options": ["commit", "save", "update", "push"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "The project requires extensive ___ before launch.",
+    "correctAnswer": "debugging",
+    "options": ["debugging", "testing", "checking", "verification"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Machine learning models ___ accuracy with more training data.",
+    "correctAnswer": "improve",
+    "options": ["improve", "increase", "enhance", "optimize"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "The framework ___ the development process considerably.",
+    "correctAnswer": "streamlines",
+    "options": ["streamlines", "simplifies", "accelerates", "facilitates"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Data ___ involves removing irrelevant information from datasets.",
+    "correctAnswer": "preprocessing",
+    "options": ["preprocessing", "cleaning", "filtering", "extraction"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "The architecture ___ to handle millions of concurrent users.",
+    "correctAnswer": "scales",
+    "options": ["scales", "extends", "expands", "adapts"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "The vulnerability was ___ by the security team.",
+    "correctAnswer": "exploited",
+    "options": ["exploited", "discovered", "identified", "found"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Quantum computing ___ to revolutionize the tech industry.",
+    "correctAnswer": "promises",
+    "options": ["promises", "aims", "seeks", "intends"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "The system implements a ___ architecture for better performance.",
+    "correctAnswer": "distributed",
+    "options": ["distributed", "parallel", "concurrent", "networked"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Blockchain technology ___ transparency in financial transactions.",
+    "correctAnswer": "ensures",
+    "options": ["ensures", "guarantees", "provides", "offers"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "The algorithm's complexity ___ exponentially with input size.",
+    "correctAnswer": "increases",
+    "options": ["increases", "grows", "rises", "escalates"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "The platform ___ real-time collaboration features.",
+    "correctAnswer": "facilitates",
+    "options": ["facilitates", "enables", "supports", "allows"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "IoT devices ___ constant connectivity to function effectively.",
+    "correctAnswer": "require",
+    "options": ["require", "demand", "need", "necessitate"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "The infrastructure was ___ to accommodate increased traffic.",
+    "correctAnswer": "augmented",
+    "options": ["augmented", "expanded", "enhanced", "strengthened"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Containerization ___ the deployment process significantly.",
+    "correctAnswer": "simplifies",
+    "options": ["simplifies", "eases", "facilitates", "streamlines"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "The data ___ was instrumental in identifying fraud patterns.",
+    "correctAnswer": "visualization",
+    "options": ["visualization", "analysis", "representation", "interpretation"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "5G technology ___ unprecedented speeds and low latency.",
+    "correctAnswer": "delivers",
+    "options": ["delivers", "provides", "offers", "achieves"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "The software ___ must be installed to support the new features.",
+    "correctAnswer": "package",
+    "options": ["package", "module", "bundle", "toolkit"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "tecnologia",
+    "type": "complete_sentence",
+    "questionText": "Web ___ allows secure communication over the internet.",
+    "correctAnswer": "protocols",
+    "options": ["protocols", "standards", "formats", "systems"],
+    "difficulty": "medium"
+  }
+]

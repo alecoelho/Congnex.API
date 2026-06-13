@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Ela ______ um livro interessante ontem.",
+        "correctAnswer":  "read",
+        "options":  [
+                        "reads",
+                        "reading",
+                        "read",
+                        "have read"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Eles ______ ao cinema todas as sextas-feiras.",
+        "correctAnswer":  "go",
+        "options":  [
+                        "goes",
+                        "going",
+                        "go",
+                        "went"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O filme ______ muito bom, você deveria assistir.",
+        "correctAnswer":  "is",
+        "options":  [
+                        "be",
+                        "are",
+                        "is",
+                        "was"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Eu ______ música clássica desde a infância.",
+        "correctAnswer":  "have liked",
+        "options":  [
+                        "liked",
+                        "have liked",
+                        "likes",
+                        "like"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "A atriz ______ muitos prêmios em sua carreira.",
+        "correctAnswer":  "has won",
+        "options":  [
+                        "has win",
+                        "has won",
+                        "have won",
+                        "winning"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Nós ______ este livro durante as férias.",
+        "correctAnswer":  "will read",
+        "options":  [
+                        "read",
+                        "will read",
+                        "are reading",
+                        "have read"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Você ______ já assistido a este documentário?",
+        "correctAnswer":  "have",
+        "options":  [
+                        "has",
+                        "have",
+                        "do",
+                        "are"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "A peça de teatro ______ ontem à noite.",
+        "correctAnswer":  "was performed",
+        "options":  [
+                        "performed",
+                        "was performed",
+                        "were performed",
+                        "has performed"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Os atores ______ seus papéis com perfeição.",
+        "correctAnswer":  "played",
+        "options":  [
+                        "play",
+                        "played",
+                        "are playing",
+                        "have play"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Eu ______ gostaria de aprender a dançar.",
+        "correctAnswer":  "would",
+        "options":  [
+                        "will",
+                        "would",
+                        "could",
+                        "might"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O museu ______ uma exposição de arte moderna.",
+        "correctAnswer":  "has",
+        "options":  [
+                        "have",
+                        "has",
+                        "is",
+                        "are"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Ela ______ cantar muito bem desde criança.",
+        "correctAnswer":  "can",
+        "options":  [
+                        "can",
+                        "could",
+                        "would",
+                        "might"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O concerto ______ próximo mês será espetacular.",
+        "correctAnswer":  "that",
+        "options":  [
+                        "which",
+                        "that",
+                        "who",
+                        "what"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Eles ______ ao festival de música ano passado.",
+        "correctAnswer":  "went",
+        "options":  [
+                        "go",
+                        "going",
+                        "went",
+                        "will go"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O artista ______ suas obras em várias galerias.",
+        "correctAnswer":  "exhibits",
+        "options":  [
+                        "exhibit",
+                        "exhibits",
+                        "exhibiting",
+                        "exhibited"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Você ______ gostaria de ir ao teatro comigo?",
+        "correctAnswer":  "would",
+        "options":  [
+                        "do",
+                        "would",
+                        "could",
+                        "will"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "A dança ______ desde séculos em nossa cultura.",
+        "correctAnswer":  "has existed",
+        "options":  [
+                        "existed",
+                        "has existed",
+                        "exists",
+                        "is existing"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Se eu ______ rico, compraria uma guitarra cara.",
+        "correctAnswer":  "were",
+        "options":  [
+                        "was",
+                        "were",
+                        "am",
+                        "will be"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O filme que ______ ontem é de um diretor famoso.",
+        "correctAnswer":  "watched",
+        "options":  [
+                        "watch",
+                        "watched",
+                        "watching",
+                        "will watch"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Ela ______ para a festa se tivesse tempo.",
+        "correctAnswer":  "would come",
+        "options":  [
+                        "comes",
+                        "would come",
+                        "will come",
+                        "is coming"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Ele tem que ______ sua apresentação antes do show.",
+        "correctAnswer":  "practice",
+        "options":  [
+                        "practicing",
+                        "practice",
+                        "practiced",
+                        "practices"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Nós ______ estar em casa antes que começasse o filme.",
+        "correctAnswer":  "had to",
+        "options":  [
+                        "have to",
+                        "had to",
+                        "must",
+                        "should"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "A canção que ______ é muito melancólica e linda.",
+        "correctAnswer":  "you sang",
+        "options":  [
+                        "you sing",
+                        "you sang",
+                        "you are singing",
+                        "singing"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Eu ______ estar em forma para dançar o ballet.",
+        "correctAnswer":  "have to",
+        "options":  [
+                        "must to",
+                        "have to",
+                        "has to",
+                        "had to"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Quando ______ o filme, todos aplaudiram.",
+        "correctAnswer":  "finished",
+        "options":  [
+                        "finish",
+                        "finished",
+                        "finishing",
+                        "had finished"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Eles ______ morado aqui desde que o museu foi aberto.",
+        "correctAnswer":  "have lived",
+        "options":  [
+                        "lived",
+                        "have lived",
+                        "live",
+                        "are living"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O pintor ______ suas obras antes de exibi-las.",
+        "correctAnswer":  "always checks",
+        "options":  [
+                        "always checks",
+                        "is always checking",
+                        "always checked",
+                        "check"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Se ele ______ estudado mais, teria passado no teste de música.",
+        "correctAnswer":  "had",
+        "options":  [
+                        "has",
+                        "had",
+                        "would have",
+                        "have"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O espetáculo que ______ ontem foi fantástico.",
+        "correctAnswer":  "was held",
+        "options":  [
+                        "held",
+                        "was held",
+                        "have held",
+                        "holds"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Ela ______ nunca tinha assistido a um concerto ao vivo.",
+        "correctAnswer":  "had",
+        "options":  [
+                        "has",
+                        "had",
+                        "would",
+                        "have"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "A série de TV que ______ produzindo há 5 anos ganhou muitos prêmios.",
+        "correctAnswer":  "has been",
+        "options":  [
+                        "have been",
+                        "has been",
+                        "is",
+                        "was"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Após ______ o livro, comecei a assistir a série.",
+        "correctAnswer":  "finishing",
+        "options":  [
+                        "finish",
+                        "finishing",
+                        "finished",
+                        "to finish"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Ele prefereria ______ a um show ao vivo a assistir pela TV.",
+        "correctAnswer":  "go",
+        "options":  [
+                        "going",
+                        "go",
+                        "goes",
+                        "went"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O ator que ______ no filme ganhou o melhor prêmio.",
+        "correctAnswer":  "starred",
+        "options":  [
+                        "star",
+                        "starred",
+                        "starring",
+                        "will star"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Se pudesse, eu ______ dançar em palcos profissionais.",
+        "correctAnswer":  "would",
+        "options":  [
+                        "will",
+                        "would",
+                        "could",
+                        "can"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Embora ______ cansado, ele foi ao show.",
+        "correctAnswer":  "be",
+        "options":  [
+                        "is",
+                        "be",
+                        "was",
+                        "being"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O diretor pediu que todos os atores ______ no ensaio.",
+        "correctAnswer":  "be",
+        "options":  [
+                        "are",
+                        "be",
+                        "being",
+                        "been"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Por mais que ela ______ treinar, nunca conseguiu ser bailarina profissional.",
+        "correctAnswer":  "tried",
+        "options":  [
+                        "tries",
+                        "tried",
+                        "try",
+                        "trying"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Ele insistiu em que a peça ______ representada em inglês.",
+        "correctAnswer":  "be",
+        "options":  [
+                        "is",
+                        "be",
+                        "are",
+                        "was"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "A musica que ouvíamos ______ composta por Mozart.",
+        "correctAnswer":  "was",
+        "options":  [
+                        "were",
+                        "was",
+                        "had been",
+                        "would be"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Caso ______ chovido, o festival teria sido cancelado.",
+        "correctAnswer":  "it had",
+        "options":  [
+                        "had",
+                        "it had",
+                        "have",
+                        "would have"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O quadro ______ pendurado na galeria é uma obra-prima.",
+        "correctAnswer":  "being",
+        "options":  [
+                        "to be",
+                        "being",
+                        "been",
+                        "have been"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Não fossem os subtítulos, eu não teria ______ o filme.",
+        "correctAnswer":  "understood",
+        "options":  [
+                        "understand",
+                        "understood",
+                        "understanding",
+                        "to understand"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "A peça, ______ pelo dramaturgo renomado, foi um sucesso.",
+        "correctAnswer":  "written",
+        "options":  [
+                        "writing",
+                        "written",
+                        "wrote",
+                        "write"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Quanto mais ele ______, mais apreciava a arte.",
+        "correctAnswer":  "studied",
+        "options":  [
+                        "studies",
+                        "studied",
+                        "studying",
+                        "had studied"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Se soubéssemos que ia ______ chover, não teríamos ido ao piquenique cultural.",
+        "correctAnswer":  "be",
+        "options":  [
+                        "be",
+                        "been",
+                        "being",
+                        "are"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Considerando que ele ______ grande artista, sua contribuição foi mínima.",
+        "correctAnswer":  "is",
+        "options":  [
+                        "is",
+                        "was",
+                        "being",
+                        "been"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Nem bem o concerto ______ começado, a audiência ficou em pé.",
+        "correctAnswer":  "had",
+        "options":  [
+                        "have",
+                        "had",
+                        "has",
+                        "would have"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "Desde que ______ aprender dança, ela nunca parou.",
+        "correctAnswer":  "she started",
+        "options":  [
+                        "she starting",
+                        "she started",
+                        "she starts",
+                        "starting"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "cultura_entretenimento",
+        "type":  "multiple_choice",
+        "questionText":  "O fato de ele não ______ compreendido a mensagem da obra frustrou o crítico.",
+        "correctAnswer":  "have",
+        "options":  [
+                        "has",
+                        "have",
+                        "having",
+                        "had"
+                    ],
+        "difficulty":  "hard"
+    }
+]

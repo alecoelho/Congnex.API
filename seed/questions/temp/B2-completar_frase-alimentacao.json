@@ -1,0 +1,502 @@
+[
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "This recipe calls for ___ of garlic, finely minced.",
+    "correctAnswer": "cloves",
+    "options": ["cloves", "pieces", "bulbs", "chunks"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "The pasta should be cooked until it reaches ___ point.",
+    "correctAnswer": "al dente",
+    "options": ["al dente", "hard", "soft", "tender"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "I prefer my steak cooked to ___; it's still pink in the middle.",
+    "correctAnswer": "medium rare",
+    "options": ["medium rare", "well-done", "burnt", "cold"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "The chef ___ the vegetables before adding them to the soup.",
+    "correctAnswer": "blanched",
+    "options": ["blanched", "froze", "burned", "dissolved"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "This wine has ___ undertones of oak and vanilla.",
+    "correctAnswer": "subtle",
+    "options": ["subtle", "strong", "absent", "raw"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "The ___ of fresh herbs elevated the dish considerably.",
+    "correctAnswer": "aroma",
+    "options": ["aroma", "taste", "color", "texture"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "You need to ___ the dough for at least two hours before baking.",
+    "correctAnswer": "proof",
+    "options": ["proof", "freeze", "cook", "mix"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "The sauce was too ___, so I added more cream to balance it.",
+    "correctAnswer": "acidic",
+    "options": ["acidic", "thick", "cold", "salty"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "This dessert ___ perfectly with coffee after dinner.",
+    "correctAnswer": "pairs",
+    "options": ["pairs", "cooks", "burns", "freezes"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "The restaurant specializes in ___ cuisine from northern Italy.",
+    "correctAnswer": "authentic",
+    "options": ["authentic", "frozen", "canned", "instant"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "These berries have a ___ sweetness that doesn't overwhelm the palate.",
+    "correctAnswer": "delicate",
+    "options": ["delicate", "bitter", "sour", "harsh"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "The menu ___ several vegetarian options for guests with dietary restrictions.",
+    "correctAnswer": "offers",
+    "options": ["offers", "removes", "hides", "ignores"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "You should let the meat ___ for fifteen minutes before cutting into it.",
+    "correctAnswer": "rest",
+    "options": ["rest", "freeze", "burn", "boil"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "The ___ of this cheese is quite strong; it's definitely not for everyone.",
+    "correctAnswer": "flavor",
+    "options": ["flavor", "color", "price", "weight"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "This olive oil is ___ as extra virgin due to its low acidity.",
+    "correctAnswer": "classified",
+    "options": ["classified", "priced", "grown", "pressed"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "The ___ of ingredients is crucial to achieving the perfect balance.",
+    "correctAnswer": "proportion",
+    "options": ["proportion", "origin", "brand", "color"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "This dessert is ___ with dark chocolate chips and roasted almonds.",
+    "correctAnswer": "studded",
+    "options": ["studded", "filled", "coated", "drizzled"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "The chef decided to ___ the traditional recipe by incorporating modern techniques.",
+    "correctAnswer": "reinvent",
+    "options": ["reinvent", "abandon", "ignore", "forget"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "The ___ of the soufflé depends on not opening the oven door prematurely.",
+    "correctAnswer": "success",
+    "options": ["success", "taste", "color", "size"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "This ___ salad combines bitter greens with sweet vinaigrette and candied nuts.",
+    "correctAnswer": "composed",
+    "options": ["composed", "simple", "plain", "basic"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "The wine list is ___ for a restaurant of this caliber, with rare selections.",
+    "correctAnswer": "impressive",
+    "options": ["impressive", "ordinary", "boring", "limited"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "The pastry chef must have ___ hands to create such delicate work.",
+    "correctAnswer": "steady",
+    "options": ["steady", "cold", "warm", "strong"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "This fusion restaurant ___ flavors from Asia and Latin America seamlessly.",
+    "correctAnswer": "blends",
+    "options": ["blends", "separates", "ignores", "dismisses"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "The spices in this dish are so ___ that you can taste each one distinctly.",
+    "correctAnswer": "well-balanced",
+    "options": ["well-balanced", "overpowering", "faint", "absent"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "The restaurant's reputation ___ on sourcing only the freshest local produce.",
+    "correctAnswer": "hinges",
+    "options": ["hinges", "fades", "rests", "depends"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "To ___ the flavors of the marinade, the meat should sit overnight.",
+    "correctAnswer": "infuse",
+    "options": ["infuse", "remove", "dilute", "destroy"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "The ___ of umami is essential to Japanese cuisine and adds depth.",
+    "correctAnswer": "element",
+    "options": ["element", "taste", "smell", "texture"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "The chef's signature dish has become ___ with fine dining in the region.",
+    "correctAnswer": "synonymous",
+    "options": ["synonymous", "different", "forgotten", "unpopular"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "The ___ between sweet and savory in this sauce is absolutely perfect.",
+    "correctAnswer": "contrast",
+    "options": ["contrast", "similarity", "mix", "confusion"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "This type of fish is ___ suitable for sushi due to its firm texture.",
+    "correctAnswer": "particularly",
+    "options": ["particularly", "barely", "never", "hardly"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "The waiter ___ us on the best wine pairings for each course.",
+    "correctAnswer": "advised",
+    "options": ["advised", "ignored", "avoided", "confused"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "The bread machine ___ our morning routine by providing fresh bread daily.",
+    "correctAnswer": "simplified",
+    "options": ["simplified", "complicated", "stopped", "changed"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "The ___ of fresh mint in the mojito is what makes it so refreshing.",
+    "correctAnswer": "infusion",
+    "options": ["infusion", "lack", "taste", "color"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "The soufflé was a ___ despite the chef's meticulous technique.",
+    "correctAnswer": "disappointment",
+    "options": ["disappointment", "success", "surprise", "disaster"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "The menu features dishes that ___ various dietary restrictions including gluten-free.",
+    "correctAnswer": "accommodate",
+    "options": ["accommodate", "ignore", "challenge", "discourage"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "These molecular gastronomy techniques have ___ the way we think about food.",
+    "correctAnswer": "revolutionized",
+    "options": ["revolutionized", "destroyed", "ignored", "simplified"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "The ___ of flavors in this tasting menu is nothing short of extraordinary.",
+    "correctAnswer": "orchestration",
+    "options": ["orchestration", "jumble", "confusion", "mixture"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "The sommelier's recommendations were so ___ that they elevated the entire meal.",
+    "correctAnswer": "astute",
+    "options": ["astute", "careless", "random", "conventional"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "The chef's approach to sustainability has ___ admiration throughout the culinary world.",
+    "correctAnswer": "garnered",
+    "options": ["garnered", "lost", "avoided", "ignored"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "The ___ of traditional recipes with contemporary plating defines the restaurant's philosophy.",
+    "correctAnswer": "amalgamation",
+    "options": ["amalgamation", "rejection", "abandonment", "dismissal"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "The fermentation process ___ the foods, creating complex layers of taste.",
+    "correctAnswer": "transforms",
+    "options": ["transforms", "preserves", "destroys", "wastes"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "The ___ presentation of the dishes suggests meticulous attention to detail.",
+    "correctAnswer": "impeccable",
+    "options": ["impeccable", "careless", "hurried", "messy"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "The culinary competition proved to be a ___ of skill, creativity, and precision.",
+    "correctAnswer": "crucible",
+    "options": ["crucible", "game", "test", "challenge"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "The restaurant's ___ to excellence is evident in every meticulously prepared dish.",
+    "correctAnswer": "commitment",
+    "options": ["commitment", "indifference", "resistance", "apathy"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "The ___ of local ingredients throughout the menu reflects the chef's values.",
+    "correctAnswer": "prevalence",
+    "options": ["prevalence", "absence", "scarcity", "lack"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "The wine's ___ quality demands proper temperature control and careful aging.",
+    "correctAnswer": "inherent",
+    "options": ["inherent", "artificial", "questionable", "minimal"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "The chef's culinary training has been ___ in crafting this sophisticated menu.",
+    "correctAnswer": "instrumental",
+    "options": ["instrumental", "irrelevant", "insignificant", "unnecessary"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "The ___ between texture and flavor in this dish is masterfully achieved.",
+    "correctAnswer": "interplay",
+    "options": ["interplay", "separation", "conflict", "contrast"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "The restaurant's philosophy ___ the use of sustainable and ethical sourcing practices.",
+    "correctAnswer": "epitomizes",
+    "options": ["epitomizes", "contradicts", "ignores", "rejects"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "completar_frase",
+    "topicDomain": "alimentacao",
+    "type": "complete_sentence",
+    "questionText": "The gastronomic experience was so ___ that diners left with unforgettable memories.",
+    "correctAnswer": "sublime",
+    "options": ["sublime", "mediocre", "ordinary", "mundane"],
+    "difficulty": "hard"
+  }
+]

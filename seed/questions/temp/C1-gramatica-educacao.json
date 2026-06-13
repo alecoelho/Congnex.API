@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O professor insistiu que os alunos _____ seus trabalhos antes da data limite.",
+        "correctAnswer":  "submit their assignments before the deadline",
+        "options":  [
+                        "submit their assignments before the deadline",
+                        "would submit their assignments before the deadline",
+                        "submissive their assignments before the deadline",
+                        "have submitted their assignments before the deadline"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Após passar no exame, ela _____ a universidade de seus sonhos.",
+        "correctAnswer":  "was able to attend",
+        "options":  [
+                        "could attend",
+                        "was able to attend",
+                        "can attend",
+                        "might attend"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Se ele tivesse estudado mais, _____ em todas as disciplinas.",
+        "correctAnswer":  "he would have excelled",
+        "options":  [
+                        "he excels",
+                        "he would excel",
+                        "he would have excelled",
+                        "he has excelled"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O currículo escolar foi _____ para incluir novas metodologias de ensino.",
+        "correctAnswer":  "revised",
+        "options":  [
+                        "revising",
+                        "revised",
+                        "being revised",
+                        "would be revised"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Durante o seminário, o palestrante _____ vários casos práticos de sucesso educacional.",
+        "correctAnswer":  "presented",
+        "options":  [
+                        "presenting",
+                        "presented",
+                        "had presented",
+                        "was presenting"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "A professora pediu que os alunos _____ um resumo do capítulo lido.",
+        "correctAnswer":  "write",
+        "options":  [
+                        "writing",
+                        "write",
+                        "wrote",
+                        "have written"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Não é certo _____ as crianças a aprenderem sem incentivo adequado.",
+        "correctAnswer":  "to force",
+        "options":  [
+                        "forcing",
+                        "to force",
+                        "force",
+                        "having forced"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O diretor recomendou que _____ novas estratégias pedagógicas em sala.",
+        "correctAnswer":  "we implement",
+        "options":  [
+                        "we are implementing",
+                        "we implement",
+                        "we would implement",
+                        "we had implemented"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Desde que iniciou o programa, muitos alunos _____ suas notas significativamente.",
+        "correctAnswer":  "have improved",
+        "options":  [
+                        "improve",
+                        "have improved",
+                        "improved",
+                        "are improving"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "A instituição _____ investir em tecnologia educacional para melhorar o ensino.",
+        "correctAnswer":  "needs to",
+        "options":  [
+                        "needs",
+                        "needs to",
+                        "is needing",
+                        "will need"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O sistema educacional _____ ser reformulado para atender às demandas contemporâneas.",
+        "correctAnswer":  "ought to",
+        "options":  [
+                        "must",
+                        "ought to",
+                        "should to",
+                        "can"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Embora _____ profundamente os desafios, continuamos lutando por melhorias.",
+        "correctAnswer":  "we understand",
+        "options":  [
+                        "we understand",
+                        "understanding",
+                        "we understood",
+                        "we are understanding"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O aluno foi _____ por sua dedicação aos estudos e contribuição ao meio acadêmico.",
+        "correctAnswer":  "recognized",
+        "options":  [
+                        "recognizing",
+                        "recognized",
+                        "to recognize",
+                        "being recognize"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Quanto mais tempo os alunos _____ com os tópicos complexos, melhor será seu aprendizado.",
+        "correctAnswer":  "spend",
+        "options":  [
+                        "spending",
+                        "spend",
+                        "spent",
+                        "are spending"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O professor sempre _____ seus alunos a pensarem criticamente sobre os assuntos.",
+        "correctAnswer":  "encourages",
+        "options":  [
+                        "is encouraging",
+                        "encourages",
+                        "encouraged",
+                        "has encouraged"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Havendo _____ suficientes recursos, a escola poderia expandir seus programas.",
+        "correctAnswer":  "been",
+        "options":  [
+                        "being",
+                        "been",
+                        "be",
+                        "are"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "A educação _____ ao desenvolvimento integral da personalidade do aluno.",
+        "correctAnswer":  "contributes",
+        "options":  [
+                        "contributing",
+                        "contributes",
+                        "contribute",
+                        "is contributed"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "A pesquisa sugere que, _____ nas metodologias ativas, o aprendizado é potencializado.",
+        "correctAnswer":  "based on",
+        "options":  [
+                        "base on",
+                        "based on",
+                        "basing on",
+                        "being based on"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Caso o currículo _____ mais flexível, os professores teriam maior autonomia pedagógica.",
+        "correctAnswer":  "were",
+        "options":  [
+                        "would be",
+                        "were",
+                        "is",
+                        "has been"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O fato de ele _____ constantemente melhorar demonstra seu comprometimento com a educação.",
+        "correctAnswer":  "seeking to",
+        "options":  [
+                        "seeking to",
+                        "sought to",
+                        "seek",
+                        "having seek"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "A instituição exigiu que _____ avaliações formativas mensais para monitorar o progresso.",
+        "correctAnswer":  "there be",
+        "options":  [
+                        "there is",
+                        "there be",
+                        "there will be",
+                        "there are"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Independente de qual metodologia _____, o foco deve permanecer no aluno.",
+        "correctAnswer":  "is adopted",
+        "options":  [
+                        "adopts",
+                        "is adopted",
+                        "adopt",
+                        "will adopt"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O educador deve reconhecer que os estilos de aprendizagem dos alunos _____ significativamente.",
+        "correctAnswer":  "vary",
+        "options":  [
+                        "varies",
+                        "vary",
+                        "varied",
+                        "are varying"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Não fosse a dedicação do corpo docente, o programa não _____ com êxito implementado.",
+        "correctAnswer":  "would have been",
+        "options":  [
+                        "would be",
+                        "would have been",
+                        "will be",
+                        "has been"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "A comissão acredita que os objetivos educacionais _____ mediante esforço colaborativo.",
+        "correctAnswer":  "are best achieved",
+        "options":  [
+                        "best achieve",
+                        "are best achieved",
+                        "best achieved",
+                        "achieve best"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "À medida que a tecnologia _____, os educadores devem adaptar suas práticas.",
+        "correctAnswer":  "evolves",
+        "options":  [
+                        "is evolving",
+                        "evolves",
+                        "evolved",
+                        "will evolve"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O desenvolvimento cognitivo dos adolescentes _____ profundamente os métodos de ensino.",
+        "correctAnswer":  "should inform",
+        "options":  [
+                        "should inform",
+                        "informs",
+                        "informing",
+                        "is informing"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Supondo que _____ consenso entre stakeholders, a reforma seria viabilizada rapidamente.",
+        "correctAnswer":  "there were",
+        "options":  [
+                        "there is",
+                        "there were",
+                        "there would be",
+                        "there had been"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O pedagogo ressaltou que _____ fundamental considerar a diversidade sociocultural na sala.",
+        "correctAnswer":  "it is",
+        "options":  [
+                        "it is",
+                        "its",
+                        "it\u0027s",
+                        "it would be"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Pelos dados apresentados, _____ evidente que as políticas atuais necessitam revisão.",
+        "correctAnswer":  "it is",
+        "options":  [
+                        "its",
+                        "it is",
+                        "is it",
+                        "there is"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O aluno _____ toda a bibliografia necessária antes de redigir sua dissertação.",
+        "correctAnswer":  "should have read",
+        "options":  [
+                        "should read",
+                        "should have read",
+                        "should be reading",
+                        "will have read"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Afastado do ambiente escolar por doença, o estudante _____ acompanhamento individualizado.",
+        "correctAnswer":  "required",
+        "options":  [
+                        "requires",
+                        "required",
+                        "is required",
+                        "was required"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Ressalte-se que a formação continuada _____ contribuir substancialmente para o aperfeiçoamento profissional.",
+        "difficulty":  "medium",
+        "options":  [
+                        "can",
+                        "may",
+                        "might",
+                        "would"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "may"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "A pedagogia tradicional, _____ sua importância histórica, apresenta limitações contemporâneas.",
+        "correctAnswer":  "notwithstanding",
+        "options":  [
+                        "despite of",
+                        "notwithstanding",
+                        "although",
+                        "in spite of"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "A competência socioemocional _____ ser negligenciada em programas educacionais modernos.",
+        "correctAnswer":  "ought not to",
+        "options":  [
+                        "shouldn\u0027t",
+                        "ought not to",
+                        "mustn\u0027t",
+                        "couldn\u0027t"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Postulando-se que _____ múltiplas inteligências, o currículo deve ser inclusivo e diversificado.",
+        "correctAnswer":  "there exist",
+        "options":  [
+                        "exists",
+                        "there exist",
+                        "it exists",
+                        "there exists"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Haveria de _____ implementadas políticas de inclusão mais robustas nas instituições.",
+        "correctAnswer":  "be",
+        "options":  [
+                        "being",
+                        "be",
+                        "been",
+                        "are"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O desempenho acadêmico não é _____ condicionado apenas por capacidade intelectual.",
+        "correctAnswer":  "exclusively",
+        "options":  [
+                        "solely",
+                        "exclusively",
+                        "uniquely",
+                        "only"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Qualquer que _____ as dificuldades enfrentadas, os professores perseveram na sua missão.",
+        "correctAnswer":  "be",
+        "options":  [
+                        "are",
+                        "be",
+                        "were",
+                        "would be"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "À semelhança do que ocorre _____ outras áreas, a educação também sofre transformações.",
+        "correctAnswer":  "in",
+        "options":  [
+                        "on",
+                        "in",
+                        "at",
+                        "with"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Consoante as pesquisas recentes, _____ desejável repensar as avaliações tradicionais.",
+        "correctAnswer":  "it is",
+        "options":  [
+                        "its",
+                        "it is",
+                        "it\u0027s",
+                        "it would be"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Os marcos teóricos _____ orientam a didática contemporânea enfatizam aprendizagem significativa.",
+        "correctAnswer":  "that",
+        "options":  [
+                        "who",
+                        "that",
+                        "which",
+                        "what"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Muito embora _____ obstáculos sistemáticos, a inovação educacional persiste no contexto.",
+        "correctAnswer":  "there be",
+        "options":  [
+                        "there are",
+                        "there be",
+                        "there were",
+                        "there would be"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Pressupõe-se que _____ avaliações sejam plurais e contextualizadas no processo educativo.",
+        "correctAnswer":  "all",
+        "options":  [
+                        "every",
+                        "all",
+                        "each",
+                        "any"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "A educação integral _____ contemplar dimensões cognitivas, afetivas e comportamentais.",
+        "correctAnswer":  "should",
+        "options":  [
+                        "ought",
+                        "should",
+                        "must to",
+                        "is obliged to"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Quaisquer que _____ os modelos pedagógicos adotados, o aluno permanece no centro.",
+        "correctAnswer":  "be",
+        "options":  [
+                        "are",
+                        "be",
+                        "were",
+                        "would be"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O educador contemporâneo _____ refletir criticamente sobre suas práticas constantemente.",
+        "correctAnswer":  "ought to",
+        "options":  [
+                        "has",
+                        "ought to",
+                        "must be",
+                        "would need"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Cumpre _____ que as instituições educacionais atuem proativamente na formação integral.",
+        "correctAnswer":  "note",
+        "options":  [
+                        "noting",
+                        "note",
+                        "noted",
+                        "to note"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Sendo imprescindível _____ o diálogo entre família e escola, muitas instituições têm investido.",
+        "correctAnswer":  "foster",
+        "options":  [
+                        "fostering",
+                        "foster",
+                        "fostered",
+                        "to foster"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Por que razão há de _____ desprezada a formação socioemocional nas escolas?",
+        "correctAnswer":  "be",
+        "options":  [
+                        "being",
+                        "be",
+                        "been",
+                        "are"
+                    ],
+        "difficulty":  "hard"
+    }
+]

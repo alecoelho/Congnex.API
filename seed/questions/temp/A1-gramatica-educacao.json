@@ -1,0 +1,532 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'I ___ a student.'",
+    "correctAnswer": "am",
+    "options": ["am", "is", "are", "be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'She ___ in the classroom.'",
+    "correctAnswer": "is",
+    "options": ["am", "is", "are", "be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'We ___ students.'",
+    "correctAnswer": "are",
+    "options": ["am", "is", "are", "be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual artigo indefinido é correto? '___ book is on the desk.'",
+    "correctAnswer": "A",
+    "options": ["A", "An", "The", "Some"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual artigo indefinido é correto? '___ eraser is on the table.'",
+    "correctAnswer": "An",
+    "options": ["A", "An", "The", "Some"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'They ___ in the library now.'",
+    "correctAnswer": "are",
+    "options": ["is", "am", "are", "be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The teacher ___ the lesson.'",
+    "correctAnswer": "starts",
+    "options": ["start", "starts", "starting", "to start"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'I ___ my homework every day.'",
+    "correctAnswer": "do",
+    "options": ["do", "does", "doing", "did"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é a forma correta? 'She ___ English at school.'",
+    "correctAnswer": "studies",
+    "options": ["study", "studies", "studying", "studys"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The students ___ in the classroom.'",
+    "correctAnswer": "are",
+    "options": ["is", "am", "are", "be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'I have ___ pencil in my bag.'",
+    "correctAnswer": "a",
+    "options": ["a", "an", "the", "some"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'He ___ to school every day.'",
+    "correctAnswer": "goes",
+    "options": ["go", "goes", "going", "gone"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The book is ___ the desk.' (em cima da mesa)",
+    "correctAnswer": "on",
+    "options": ["on", "in", "at", "under"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'My pen is ___ my bag.' (dentro da mochila)",
+    "correctAnswer": "in",
+    "options": ["on", "in", "at", "under"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'I ___ not a teacher.'",
+    "correctAnswer": "am",
+    "options": ["am", "is", "are", "be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'She ___ her notebook to class.'",
+    "correctAnswer": "brings",
+    "options": ["bring", "brings", "bringing", "bringed"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: '___ you a student?' (Você é estudante?)",
+    "correctAnswer": "Are",
+    "options": ["Are", "Is", "Am", "Be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The children ___ in the school now.'",
+    "correctAnswer": "are",
+    "options": ["is", "am", "are", "was"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'I ___ my teacher every morning.'",
+    "correctAnswer": "see",
+    "options": ["see", "sees", "seeing", "to see"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é a forma correta do plural? 'Two ___' (dois cadernos — notebook)",
+    "correctAnswer": "notebooks",
+    "options": ["notebook", "notebooks", "notebooky", "notebookies"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'She ___ the answer to the question.'",
+    "correctAnswer": "knows",
+    "options": ["know", "knows", "knowing", "knowed"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The class ___ at 8 o'clock.'",
+    "correctAnswer": "starts",
+    "options": ["start", "starts", "starting", "to start"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'I like ___ new words in English.' (aprender)",
+    "correctAnswer": "learning",
+    "options": ["learn", "learns", "learning", "to learned"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'He ___ his books at home.' (esquecer — forget)",
+    "correctAnswer": "forgets",
+    "options": ["forget", "forgets", "forgeting", "forgot"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'We ___ English on Mondays.'",
+    "correctAnswer": "have",
+    "options": ["have", "has", "having", "had"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual preposição é correta? 'The school is ___ my house.' (perto de — near)",
+    "correctAnswer": "near",
+    "options": ["near", "on", "in", "at"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: '___ there a teacher in the room?' (Há um professor na sala?)",
+    "correctAnswer": "Is",
+    "options": ["Is", "Are", "Am", "Be"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The students ___ their pens now.'",
+    "correctAnswer": "have",
+    "options": ["has", "have", "having", "had"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é a forma negativa correta? 'She ___ go to school on Sundays.'",
+    "correctAnswer": "doesn't",
+    "options": ["don't", "doesn't", "isn't", "not"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'They ___ books in the library.'",
+    "correctAnswer": "read",
+    "options": ["read", "reads", "reading", "readed"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'I ___ my homework now.' (usando o presente contínuo)",
+    "correctAnswer": "am doing",
+    "options": ["am doing", "do", "does", "doing"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual pronome substitui 'the teacher' (feminino)? '___ is very good.'",
+    "correctAnswer": "She",
+    "options": ["She", "He", "It", "They"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The exam is ___ Friday.' (na sexta-feira)",
+    "correctAnswer": "on",
+    "options": ["on", "in", "at", "to"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: '___ your teacher tall?' (O seu professor é alto?)",
+    "correctAnswer": "Is",
+    "options": ["Is", "Are", "Am", "Do"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'I ___ not understand this exercise.'",
+    "correctAnswer": "do",
+    "options": ["do", "does", "am", "is"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'She is ___ a book right now.' (lendo — usando o presente contínuo)",
+    "correctAnswer": "reading",
+    "options": ["read", "reads", "reading", "readed"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The school has ___ classrooms.' (muitos)",
+    "correctAnswer": "many",
+    "options": ["many", "much", "any", "some"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: '___ do you study English?' — 'Every day.' (Usando 'how often')",
+    "correctAnswer": "How often",
+    "options": ["How often", "How many", "How much", "How long"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é a ordem correta das palavras? (ela / inglês / estuda / na escola)",
+    "correctAnswer": "She studies English at school.",
+    "options": ["She studies English at school.", "She at school English studies.", "Studies she English at school.", "English she studies at school."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'There ___ many students in the classroom.'",
+    "correctAnswer": "are",
+    "options": ["is", "are", "am", "be"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é a pergunta correta para a resposta 'It is on the table.'?",
+    "correctAnswer": "Where is the book?",
+    "options": ["Where is the book?", "What is the book?", "Who is the book?", "When is the book?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'My sister ___ English at the university.' (estudar — forma correta para terceira pessoa)",
+    "correctAnswer": "studies",
+    "options": ["study", "studies", "studys", "studying"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é a forma interrogativa correta? (você gosta de aprender inglês?)",
+    "correctAnswer": "Do you like learning English?",
+    "options": ["Do you like learning English?", "You like learning English?", "Are you like learning English?", "Does you like learning English?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'I need ___ dictionary for this exercise.' (um dicionário — escolha o artigo correto)",
+    "correctAnswer": "a",
+    "options": ["a", "an", "the", "any"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The teacher explains ___ students.' (para os alunos)",
+    "correctAnswer": "to the",
+    "options": ["to the", "for the", "at the", "on the"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é a frase correta no presente simples? (Nós não estudamos aos domingos.)",
+    "correctAnswer": "We don't study on Sundays.",
+    "options": ["We don't study on Sundays.", "We doesn't study on Sundays.", "We not study on Sundays.", "We aren't study on Sundays."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'She is ___ the lesson right now.' (escrevendo — presente contínuo)",
+    "correctAnswer": "writing",
+    "options": ["write", "writes", "writing", "writed"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é a forma correta do possessivo? 'This is ___ classroom.' (dela — pertence à professora)",
+    "correctAnswer": "her",
+    "options": ["her", "his", "their", "its"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: '___ does the class start?' — 'At 9 o'clock.' (usando 'what time')",
+    "correctAnswer": "What time",
+    "options": ["What time", "What day", "How long", "How often"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é a frase negativa correta? (Ele não é um bom aluno.)",
+    "correctAnswer": "He is not a good student.",
+    "options": ["He is not a good student.", "He not is a good student.", "He don't a good student.", "He isn't good a student."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The students are ___ to the teacher.' (ouvindo — presente contínuo)",
+    "correctAnswer": "listening",
+    "options": ["listen", "listens", "listening", "listenning"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é a forma correta do plural irregular? 'Two ___' (dois homens — man)",
+    "correctAnswer": "men",
+    "options": ["mans", "men", "manes", "mens"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'This is ___ English book.' (um livro de inglês — escolha o artigo correto)",
+    "correctAnswer": "an",
+    "options": ["a", "an", "the", "some"],
+    "difficulty": "hard"
+  }
+]

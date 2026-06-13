@@ -1,0 +1,512 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você chega ao hotel e quer fazer o check-in. O que você diz na recepção?",
+    "correctAnswer": "I have a reservation.",
+    "options": ["I have a reservation.", "I want to eat.", "Where is the bus?", "Goodbye!"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber onde fica o banheiro no aeroporto. O que você pergunta?",
+    "correctAnswer": "Where is the bathroom?",
+    "options": ["Where is the bathroom?", "How much is the ticket?", "I need a taxi.", "What time is it?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir um táxi. O que você diz?",
+    "correctAnswer": "I need a taxi, please.",
+    "options": ["I need a taxi, please.", "I want a coffee.", "Where is my bag?", "Thank you very much."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer 'obrigado' para um funcionário do hotel. O que você diz?",
+    "correctAnswer": "Thank you!",
+    "options": ["Thank you!", "Sorry!", "Please!", "Goodbye!"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer comprar uma passagem de ônibus. O que você diz no guichê?",
+    "correctAnswer": "One ticket, please.",
+    "options": ["One ticket, please.", "I am hungry.", "Where is the hotel?", "My name is Ana."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você não entendeu o que a pessoa disse. Como você pede para ela repetir?",
+    "correctAnswer": "Can you repeat, please?",
+    "options": ["Can you repeat, please?", "I don't want to.", "No, thank you.", "I am fine."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer 'com licença' para passar por alguém no corredor do avião. O que você diz?",
+    "correctAnswer": "Excuse me.",
+    "options": ["Excuse me.", "Good night.", "I am sorry.", "How are you?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber o preço de um souvenir. O que você pergunta?",
+    "correctAnswer": "How much is this?",
+    "options": ["How much is this?", "Where is the shop?", "I want water.", "What is your name?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer cumprimentar o recepcionista do hotel de manhã. O que você diz?",
+    "correctAnswer": "Good morning!",
+    "options": ["Good morning!", "Good night!", "See you!", "Bye bye!"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que não fala inglês muito bem. O que você diz?",
+    "correctAnswer": "I don't speak English well.",
+    "options": ["I don't speak English well.", "I am from Brazil.", "I speak very fast.", "English is easy."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir uma água no restaurante do hotel. O que você diz?",
+    "correctAnswer": "Water, please.",
+    "options": ["Water, please.", "I want to sleep.", "Give me the map.", "Where is my room?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer o seu nome ao fazer o check-in no hotel. Como você se apresenta?",
+    "correctAnswer": "My name is Carlos.",
+    "options": ["My name is Carlos.", "I am hungry.", "I need help.", "Where is my passport?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar onde fica o aeroporto. O que você diz?",
+    "correctAnswer": "Where is the airport?",
+    "options": ["Where is the airport?", "I want a hotel.", "How old are you?", "What is this?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O atendente pergunta quantas malas você tem. Você tem duas malas. O que você responde?",
+    "correctAnswer": "I have two bags.",
+    "options": ["I have two bags.", "I want one room.", "Two tickets, please.", "My bag is big."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer 'tchau' para o guia turístico ao final do passeio. O que você diz?",
+    "correctAnswer": "Goodbye!",
+    "options": ["Goodbye!", "Hello!", "Please!", "Sorry!"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer confirmar que entendeu as instruções do guia. O que você diz?",
+    "correctAnswer": "OK, I understand.",
+    "options": ["OK, I understand.", "I don't know.", "I am lost.", "No problem."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir ajuda a alguém na rua. Como você começa a sua fala?",
+    "correctAnswer": "Excuse me, can you help me?",
+    "options": ["Excuse me, can you help me?", "I am very happy.", "This is my hotel.", "I need food."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "No aeroporto, o agente pergunta: 'What is your nationality?' Você é brasileiro. O que você responde?",
+    "correctAnswer": "I am Brazilian.",
+    "options": ["I am Brazilian.", "I am a student.", "I speak Portuguese.", "My passport is here."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O recepcionista pergunta: 'How many nights?' Você quer ficar 3 noites. O que você responde?",
+    "correctAnswer": "Three nights, please.",
+    "options": ["Three nights, please.", "I want three rooms.", "Three days ago.", "I stay here."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber se o hotel tem Wi-Fi. O que você pergunta?",
+    "correctAnswer": "Do you have Wi-Fi?",
+    "options": ["Do you have Wi-Fi?", "Where is the Wi-Fi?", "I want the internet.", "Is Wi-Fi free today?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você perdeu a sua mala no aeroporto. O que você diz ao funcionário?",
+    "correctAnswer": "I lost my bag.",
+    "options": ["I lost my bag.", "My bag is heavy.", "I have a big bag.", "The bag is there."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber a que horas o café da manhã é servido no hotel. O que você pergunta?",
+    "correctAnswer": "What time is breakfast?",
+    "options": ["What time is breakfast?", "Where is the food?", "Is breakfast good?", "I want breakfast now."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "No check-in do aeroporto, o atendente pede o seu passaporte. Você entrega e diz:",
+    "correctAnswer": "Here is my passport.",
+    "options": ["Here is my passport.", "My passport is lost.", "I need a passport.", "The passport is old."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber se o museu fica perto do hotel. O que você pergunta?",
+    "correctAnswer": "Is the museum near the hotel?",
+    "options": ["Is the museum near the hotel?", "The museum is big.", "Where is the museum open?", "I like museums."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer reservar uma mesa para dois no restaurante do hotel. O que você diz?",
+    "correctAnswer": "A table for two, please.",
+    "options": ["A table for two, please.", "Two foods, please.", "I want two chairs.", "Table is ready."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está no metrô e quer saber se está no trem certo para o centro da cidade. O que você pergunta?",
+    "correctAnswer": "Does this train go to the city center?",
+    "options": ["Does this train go to the city center?", "I want to go by train.", "The train is fast.", "Where is the next stop?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer pagar a conta do hotel. O que você diz na recepção?",
+    "correctAnswer": "I want to check out, please.",
+    "options": ["I want to check out, please.", "I want to check in.", "I need a new room.", "The bill is wrong."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O motorista do táxi pergunta: 'Where do you want to go?' Você quer ir ao aeroporto. O que você responde?",
+    "correctAnswer": "To the airport, please.",
+    "options": ["To the airport, please.", "I want the bus stop.", "Go to the hotel.", "Fast, please."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer comprar dois ingressos para um passeio de barco. O que você diz?",
+    "correctAnswer": "Two tickets for the boat tour, please.",
+    "options": ["Two tickets for the boat tour, please.", "I want to see the boat.", "Is the boat big?", "Two boats, please."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está com dor de cabeça e precisa de remédio. O que você diz na farmácia?",
+    "correctAnswer": "I have a headache. Do you have medicine?",
+    "options": ["I have a headache. Do you have medicine?", "My head is big.", "I want to sleep.", "I am very tired."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber se o hotel tem estacionamento. O que você pergunta?",
+    "correctAnswer": "Do you have parking?",
+    "options": ["Do you have parking?", "Where is my car?", "I have a car.", "Is parking far?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber a que horas o ônibus para o aeroporto sai. O que você pergunta?",
+    "correctAnswer": "What time does the bus to the airport leave?",
+    "options": ["What time does the bus to the airport leave?", "The bus is late today.", "I want bus number one.", "Is the bus fast?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que está perdido e precisa de um mapa. O que você fala?",
+    "correctAnswer": "I am lost. Do you have a map?",
+    "options": ["I am lost. Do you have a map?", "I don't like maps.", "The map is here.", "I know this place."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O atendente pergunta se você prefere quarto com ou sem café da manhã incluído. Você quer com café da manhã. O que você diz?",
+    "correctAnswer": "With breakfast, please.",
+    "options": ["With breakfast, please.", "No breakfast for me.", "I want lunch.", "Breakfast is good."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber se o restaurante do hotel aceita cartão de crédito. O que você pergunta?",
+    "correctAnswer": "Do you accept credit cards?",
+    "options": ["Do you accept credit cards?", "I have money.", "Can I pay later?", "The card is new."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você precisa trocar dinheiro e quer saber onde fica o câmbio. O que você pergunta?",
+    "correctAnswer": "Where can I exchange money?",
+    "options": ["Where can I exchange money?", "I have dollars.", "Money is important.", "I want a bank."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "No aeroporto, o agente de imigração pergunta: 'What is the purpose of your visit?' Você está de férias. O que você responde?",
+    "correctAnswer": "I am here on vacation.",
+    "options": ["I am here on vacation.", "I work here.", "I study English.", "My family lives here."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O atendente do hotel pergunta: 'Would you like a smoking or non-smoking room?' Você prefere não fumantes. O que você responde?",
+    "correctAnswer": "Non-smoking, please.",
+    "options": ["Non-smoking, please.", "No smoke here.", "I don't smoke now.", "Smoking is bad."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer reclamar que o quarto do hotel está barulhento. O que você diz na recepção?",
+    "correctAnswer": "My room is very noisy.",
+    "options": ["My room is very noisy.", "My room is too small.", "The room has no TV.", "I don't like the room color."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você chegou ao hotel mas o seu quarto ainda não está pronto. O recepcionista pergunta se você pode esperar. O que você diz?",
+    "correctAnswer": "Yes, I can wait.",
+    "options": ["Yes, I can wait.", "No, I want another hotel.", "The room is ready.", "I want to check in now."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber se o passeio turístico inclui guia em português. O que você pergunta?",
+    "correctAnswer": "Is there a guide in Portuguese?",
+    "options": ["Is there a guide in Portuguese?", "I speak Portuguese.", "The guide is nice.", "Do you speak my language?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O agente de imigração pergunta quanto tempo você vai ficar no país. Você vai ficar 10 dias. O que você responde?",
+    "correctAnswer": "I am staying for ten days.",
+    "options": ["I am staying for ten days.", "I stay for a long time.", "Ten rooms, please.", "I don't know the date."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar se o museu é aberto aos domingos. O que você diz?",
+    "correctAnswer": "Is the museum open on Sundays?",
+    "options": ["Is the museum open on Sundays?", "I want to visit the museum.", "The museum is closed.", "When does the museum start?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está no hotel e a torneira do quarto está com problema. O que você diz ao recepcionista?",
+    "correctAnswer": "The tap in my room is broken.",
+    "options": ["The tap in my room is broken.", "My room has no water.", "I want a new room.", "The shower is cold."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber qual é a próxima parada do ônibus turístico. O que você pergunta ao motorista?",
+    "correctAnswer": "What is the next stop?",
+    "options": ["What is the next stop?", "Is the bus fast?", "Where do I get on?", "I want to stop here."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O agente de alfândega pergunta se você tem algo a declarar. Você não tem nada. O que você responde?",
+    "correctAnswer": "I have nothing to declare.",
+    "options": ["I have nothing to declare.", "I have many things.", "I don't understand.", "My bag is empty."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você perdeu o seu cartão de crédito durante a viagem. O que você diz ao recepcionista do hotel?",
+    "correctAnswer": "I lost my credit card.",
+    "options": ["I lost my credit card.", "My card does not work.", "I want to pay now.", "I need more money."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber se o restaurante tem menu em inglês. O que você pergunta ao garçom?",
+    "correctAnswer": "Do you have a menu in English?",
+    "options": ["Do you have a menu in English?", "What is on the menu?", "I want the menu.", "Is the food good here?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer ligar para o serviço de quarto do hotel e pedir toalhas extras. O que você diz?",
+    "correctAnswer": "Can I have extra towels, please?",
+    "options": ["Can I have extra towels, please?", "I need more pillows.", "Send someone to my room.", "The room is cold."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber se o voo para Londres está no horário. O que você pergunta no balcão da companhia aérea?",
+    "correctAnswer": "Is the flight to London on time?",
+    "options": ["Is the flight to London on time?", "Where is the London gate?", "I want to fly to London.", "How long is the flight?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está no hotel e a chave do quarto parou de funcionar. O que você diz na recepção?",
+    "correctAnswer": "My room key does not work.",
+    "options": ["My room key does not work.", "I lost my room key.", "Can I have another room?", "The door is closed."],
+    "difficulty": "hard"
+  }
+]

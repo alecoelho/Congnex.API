@@ -1,0 +1,502 @@
+[
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa o termo em inglês 'appetizer'?",
+    "correctAnswer": "Entrada / aperitivo",
+    "options": ["Entrada / aperitivo", "Sobremesa", "Prato principal", "Acompanhamento"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'recipe' em português?",
+    "correctAnswer": "Receita",
+    "options": ["Receita", "Ingrediente", "Tempero", "Porção"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'seasoning' para o português?",
+    "correctAnswer": "Tempero / condimento",
+    "options": ["Tempero / condimento", "Cobertura", "Recheio", "Fermentação"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'leftovers' no contexto gastronômico?",
+    "correctAnswer": "Sobras de comida",
+    "options": ["Sobras de comida", "Ingredientes frescos", "Porções extras", "Pratos do dia"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Qual o significado de 'cutlery' em português?",
+    "correctAnswer": "Talheres",
+    "options": ["Talheres", "Louças", "Copos", "Guardanapos"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O termo 'dough' em inglês refere-se a:",
+    "correctAnswer": "Massa crua (de pão, pizza, etc.)",
+    "options": ["Massa crua (de pão, pizza, etc.)", "Molho espesso", "Farinha peneirada", "Fermento em pó"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'to simmer' para o português?",
+    "correctAnswer": "Cozinhar em fogo baixo / deixar ferver levemente",
+    "options": ["Cozinhar em fogo baixo / deixar ferver levemente", "Fritar em óleo quente", "Assar no forno", "Grelhar na brasa"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que é um 'delicatessen' em inglês?",
+    "correctAnswer": "Loja que vende frios, queijos e comidas preparadas",
+    "options": ["Loja que vende frios, queijos e comidas preparadas", "Restaurante de alta gastronomia", "Mercado de produtos orgânicos", "Padaria artesanal"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Qual o significado de 'whisk' como verbo na culinária?",
+    "correctAnswer": "Bater / misturar vigorosamente com um batedor",
+    "options": ["Bater / misturar vigorosamente com um batedor", "Cortar em fatias finas", "Marinar por longo tempo", "Amassar a mão"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'broth' em português?",
+    "correctAnswer": "Caldo (de carne, frango ou legumes)",
+    "options": ["Caldo (de carne, frango ou legumes)", "Molho cremoso", "Sopa espessa", "Extrato concentrado"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'to garnish' no contexto culinário?",
+    "correctAnswer": "Guarnecer / decorar o prato",
+    "options": ["Guarnecer / decorar o prato", "Temperar previamente", "Empanar com farinha", "Reduzir o molho"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que é 'pantry' em inglês?",
+    "correctAnswer": "Despensa",
+    "options": ["Despensa", "Freezer", "Armário de panelas", "Prateleira de temperos"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Qual o significado de 'to dice' como verbo culinário?",
+    "correctAnswer": "Cortar em cubos pequenos",
+    "options": ["Cortar em cubos pequenos", "Fatiar em rodelas", "Picar grosseiramente", "Ralar finamente"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'entrée' no contexto de restaurantes americanos?",
+    "correctAnswer": "Prato principal",
+    "options": ["Prato principal", "Entrada / aperitivo", "Sobremesa", "Prato do dia"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'to blanch' no contexto culinário?",
+    "correctAnswer": "Escaldar / mergulhar brevemente em água fervente",
+    "options": ["Escaldar / mergulhar brevemente em água fervente", "Refogar em azeite", "Defumar a frio", "Caramelizar em açúcar"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que é 'batter' na linguagem culinária?",
+    "correctAnswer": "Massa líquida (para fritar ou fazer panquecas)",
+    "options": ["Massa líquida (para fritar ou fazer panquecas)", "Creme de confeitaria", "Pasta de amendoim", "Cobertura de caramelo"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "Qual o significado de 'to knead' no contexto de panificação?",
+    "correctAnswer": "Sovar / amassar a massa",
+    "options": ["Sovar / amassar a massa", "Peneirar a farinha", "Fermentar a levedura", "Polvilhar com açúcar"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'al dente' quando usado em receitas em inglês?",
+    "correctAnswer": "Cozido mas ainda firme ao morder (origem italiana)",
+    "options": ["Cozido mas ainda firme ao morder (origem italiana)", "Completamente cozido e macio", "Levemente tostado por fora", "Temperado com alho e azeite"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que é um 'confit' no jargão gastronômico em inglês?",
+    "correctAnswer": "Técnica de cozimento lento em gordura ou açúcar",
+    "options": ["Técnica de cozimento lento em gordura ou açúcar", "Método de defumação a frio", "Processo de fermentação anaeróbica", "Emulsão de azeite com ervas"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'umami' quando mencionado em textos gastronômicos em inglês?",
+    "correctAnswer": "O quinto sabor básico, associado ao gosto salgado-saboroso",
+    "options": ["O quinto sabor básico, associado ao gosto salgado-savoroso", "Técnica japonesa de corte de peixe", "Molho fermentado de soja envelhecido", "Método de apresentação minimalista"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que é 'mise en place' quando utilizado em cozinhas profissionais de língua inglesa?",
+    "correctAnswer": "Preparação e organização prévia de todos os ingredientes antes de cozinhar",
+    "options": ["Preparação e organização prévia de todos os ingredientes antes de cozinhar", "Disposição artística dos pratos na mesa", "Técnica de emplatamento de alta gastronomia", "Controle de temperatura do forno"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'to braise' em português?",
+    "correctAnswer": "Refogar e depois cozinhar lentamente em líquido com tampa",
+    "options": ["Refogar e depois cozinhar lentamente em líquido com tampa", "Grelhar diretamente na chama", "Assar em forno muito quente sem líquido", "Fritar submergido em óleo"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que é 'charcuterie' no contexto gastronômico anglófono?",
+    "correctAnswer": "Arte de preparar e apresentar carnes curadas, embutidos e patês",
+    "options": ["Arte de preparar e apresentar carnes curadas, embutidos e patês", "Culinária francesa de frutos do mar", "Técnica de defumação de queijos artesanais", "Confeitaria especializada em doces finos"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'to deglaze' numa receita em inglês?",
+    "correctAnswer": "Adicionar líquido a uma panela quente para soltar os resíduos caramelizados do fundo",
+    "options": ["Adicionar líquido a uma panela quente para soltar os resíduos caramelizados do fundo", "Reduzir um molho até consistência de xarope", "Flambar um prato com bebida alcoólica", "Emulsificar gordura em molho aquoso"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que é 'terroir' quando empregado em textos vinícolas ou gastronômicos em inglês?",
+    "correctAnswer": "Conjunto de características ambientais (solo, clima, relevo) que influenciam o sabor de um alimento",
+    "options": ["Conjunto de características ambientais (solo, clima, relevo) que influenciam o sabor de um alimento", "Técnica de envelhecimento de vinhos em barris de carvalho", "Processo de certificação de origem de produtos", "Sistema de classificação de vinhos por safra"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'to reduce' como técnica culinária em inglês?",
+    "correctAnswer": "Evaporar líquido de um molho para concentrar sabor e espessar",
+    "options": ["Evaporar líquido de um molho para concentrar sabor e espessar", "Diluir um molho muito concentrado com água", "Filtrar impurezas de um caldo", "Retirar excesso de sal de uma preparação"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que é 'ceviche' quando descrito em textos gastronômicos em inglês?",
+    "correctAnswer": "Prato de peixe ou frutos do mar crus marinados em suco cítrico",
+    "options": ["Prato de peixe ou frutos do mar crus marinados em suco cítrico", "Técnica peruana de defumação de carnes", "Ensopado andino de batata com queijo", "Sobremesa latino-americana à base de milho"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'to cure' no contexto de charcutaria em inglês?",
+    "correctAnswer": "Preservar alimentos com sal, açúcar, fumaça ou defumação",
+    "options": ["Preservar alimentos com sal, açúcar, fumaça ou defumação", "Cozinhar carne em temperatura muito baixa por horas", "Marinar proteínas em vinho ou vinagre", "Fermentar alimentos com culturas bacterianas"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que é 'gastronomy' em sentido amplo, conforme usado em textos acadêmicos em inglês?",
+    "correctAnswer": "Estudo da relação entre cultura, arte, ciência e o ato de comer",
+    "options": ["Estudo da relação entre cultura, arte, ciência e o ato de comer", "Técnica profissional de cozinha de alta complexidade", "Conjunto de receitas tradicionais de um país", "Ramo da nutrição voltado a doenças metabólicas"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'to macerate' em receitas avançadas em inglês?",
+    "correctAnswer": "Amaciar ou extrair sabor de um alimento mergulhando-o em líquido ou açúcar",
+    "options": ["Amaciar ou extrair sabor de um alimento mergulhando-o em líquido ou açúcar", "Cozinhar lentamente dentro de sua própria gordura", "Pulverizar ingredientes secos em partículas finas", "Solidificar preparações líquidas com gelatina"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que é 'foie gras' conforme descrito em menus e textos gastronômicos em inglês?",
+    "correctAnswer": "Fígado gordo de pato ou ganso produzido por alimentação forçada",
+    "options": ["Fígado gordo de pato ou ganso produzido por alimentação forçada", "Patê de carne suína envelhecido em terrina", "Mousse de frutos do mar com trufas negras", "Creme de queijo com ervas finas da Provença"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'farm-to-table' no contexto da gastronomia contemporânea em inglês?",
+    "correctAnswer": "Filosofia de servir ingredientes diretamente de produtores locais sem intermediários",
+    "options": ["Filosofia de servir ingredientes diretamente de produtores locais sem intermediários", "Técnica de apresentação rústica de pratos em tábuas de madeira", "Certificação de alimentos orgânicos aprovados pelo governo", "Método de cultivo hidropônico dentro de restaurantes"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'to emulsify' em receitas de alta gastronomia em inglês?",
+    "correctAnswer": "Criar uma mistura estável e homogênea de dois líquidos imiscíveis, como óleo e água",
+    "options": ["Criar uma mistura estável e homogênea de dois líquidos imiscíveis, como óleo e água", "Separar a gordura de um caldo por resfriamento", "Incorporar ar a uma preparação por batimento intenso", "Filtrar partículas sólidas de um líquido por peneira"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que é 'palate cleanser' no contexto de menus de degustação em inglês?",
+    "correctAnswer": "Preparação leve servida entre pratos para neutralizar sabores residuais",
+    "options": ["Preparação leve servida entre pratos para neutralizar sabores residuais", "Bebida digestiva servida após a refeição principal", "Entrada refrescante servida antes do primeiro prato", "Sobremesa gelada finalizada com flor de sal"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'organoleptic' quando aplicado à avaliação de alimentos em inglês?",
+    "correctAnswer": "Relativo às propriedades sensoriais dos alimentos (sabor, aroma, textura, aparência)",
+    "options": ["Relativo às propriedades sensoriais dos alimentos (sabor, aroma, textura, aparência)", "Referente ao valor nutricional e composição química dos alimentos", "Concernente aos métodos de conservação e processamento industrial", "Relativo à classificação taxonômica de ingredientes botânicos"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que é 'spherification' na gastronomia molecular de língua inglesa?",
+    "correctAnswer": "Técnica de encapsular líquidos em esferas gelatinosas usando alginato e cloreto de cálcio",
+    "options": ["Técnica de encapsular líquidos em esferas gelatinosas usando alginato e cloreto de cálcio", "Método de produzir espumas estáveis com lecitina de soja", "Processo de congelar preparações em nitrogênio líquido", "Técnica de criar géis transparentes com agar-agar"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'Maillard reaction' no contexto da ciência dos alimentos em inglês?",
+    "correctAnswer": "Reação química entre aminoácidos e açúcares redutores que produz cor dourada e sabor complexo ao dourar alimentos",
+    "options": ["Reação química entre aminoácidos e açúcares redutores que produz cor dourada e sabor complexo ao dourar alimentos", "Processo de caramelização do açúcar por calor seco acima de 160°C", "Fermentação lática responsável pela acidez de iogurtes e queijos", "Oxidação lipídica que causa ranço em gorduras animais expostas ao ar"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que é 'transglutaminase' quando mencionada em textos de gastronomia molecular em inglês?",
+    "correctAnswer": "Enzima usada para unir proteínas, permitindo criar novas texturas e formatos de carnes",
+    "options": ["Enzima usada para unir proteínas, permitindo criar novas texturas e formatos de carnes", "Aditivo que acelera a fermentação de massas levedadas", "Composto que estabiliza emulsões em molhos industriais", "Catalisador enzimático que decompõe amidos em açúcares simples"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'sous vide' conforme amplamente utilizado na gastronomia profissional de língua inglesa?",
+    "correctAnswer": "Técnica de cozimento a vácuo em temperatura controlada com precisão por longos períodos",
+    "options": ["Técnica de cozimento a vácuo em temperatura controlada com precisão por longos períodos", "Método de confitar proteínas completamente submersas em gordura quente", "Processo de defumação a frio com temperatura inferior a 30°C", "Técnica de branquear vegetais e chocar imediatamente em gelo"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que é 'tasting menu' ou 'dégustation menu' conforme utilizado em restaurantes de alta gastronomia?",
+    "correctAnswer": "Menu composto por múltiplas pequenas porções sequenciais que revelam a filosofia culinária do chef",
+    "options": ["Menu composto por múltiplas pequenas porções sequenciais que revelam a filosofia culinária do chef", "Cardápio simplificado com apenas um prato e sobremesa por valor fixo", "Lista de vinhos selecionados para harmonização com pratos específicos", "Cardápio sazonal renovado semanalmente conforme disponibilidade"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'nose-to-tail cooking' como filosofia gastronômica em inglês?",
+    "correctAnswer": "Filosofia de utilizar todas as partes do animal, evitando desperdício e valorizando cortes menos nobres",
+    "options": ["Filosofia de utilizar todas as partes do animal, evitando desperdício e valorizando cortes menos nobres", "Técnica de assar animais inteiros em churrasqueiras especiais", "Método de servir carnes em ordem crescente de intensidade de sabor", "Abordagem de harmonizar cada corte com seu molho derivado"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que é 'umami-rich' como descritor em críticas gastronômicas em inglês?",
+    "correctAnswer": "Rico em glutamato e nucleotídeos que conferem profundidade saborosa e satisfação prolongada ao paladar",
+    "options": ["Rico em glutamato e nucleotídeos que conferem profundidade saborosa e satisfação prolongada ao paladar", "Intensamente picante com notas defumadas e terrosas persistentes", "Extremamente aromático com voláteis complexos e finalização longa", "Notavelmente doce com acidez equilibrada e textura aveludada"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'patrimony' quando aplicado a tradições culinárias em textos em inglês?",
+    "correctAnswer": "Herança cultural transmitida através de gerações, incluindo técnicas, receitas e rituais alimentares",
+    "options": ["Herança cultural transmitida através de gerações, incluindo técnicas, receitas e rituais alimentares", "Certificação oficial de produtos de indicação geográfica protegida", "Conjunto de regulamentações sanitárias de uma culinária regional", "Inventário de ingredientes nativos de uma região geográfica específica"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que é 'protein coagulation' como conceito descrito em textos culinários científicos em inglês?",
+    "correctAnswer": "Processo pelo qual proteínas mudam de estrutura irreversivelmente ao serem aquecidas, ácidas ou agitadas",
+    "options": ["Processo pelo qual proteínas mudam de estrutura irreversivelmente ao serem aquecidas, ácidas ou agitadas", "Formação de géis proteicos pela adição de enzimas coagulantes", "Precipitação de proteínas solúveis em soluções salinas concentradas", "Desnaturação reversível de proteínas por resfriamento brusco"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'deconstructed dish' como conceito na alta gastronomia anglófona?",
+    "correctAnswer": "Prato em que os elementos de uma receita clássica são apresentados separadamente com técnicas e texturas renovadas",
+    "options": ["Prato em que os elementos de uma receita clássica são apresentados separadamente com técnicas e texturas renovadas", "Preparação que elimina ingredientes considerados desnecessários em uma receita tradicional", "Método de simplificar receitas complexas para versões domésticas acessíveis", "Técnica de servir pratos em camadas sobrepostas para revelação gradual"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que é 'bioavailability' quando aplicado à nutrição e gastronomia em textos científicos em inglês?",
+    "correctAnswer": "Grau em que um nutriente presente no alimento é absorvido e utilizado pelo organismo",
+    "options": ["Grau em que um nutriente presente no alimento é absorvido e utilizado pelo organismo", "Capacidade de um alimento de ser digerido sem causar reações adversas", "Medida da densidade calórica em relação ao volume de um alimento", "Proporção de ingredientes orgânicos certificados em uma receita"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'larder' em textos clássicos de culinária britânica em inglês?",
+    "correctAnswer": "Câmara fria ou despensa usada para guardar e maturar carnes, embutidos e laticínios",
+    "options": ["Câmara fria ou despensa usada para guardar e maturar carnes, embutidos e laticínios", "Recipiente especial para armazenar gordura animal derretida", "Conjunto de utensílios usados para preparar embutidos artesanais", "Área de trabalho de um chef especializado em proteínas animais"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que é 'gelification' como técnica descrita em gastronomia molecular em inglês?",
+    "correctAnswer": "Transformação de um líquido em gel usando agentes como agar-agar, gelatina, carragena ou metilcelulose",
+    "options": ["Transformação de um líquido em gel usando agentes como agar-agar, gelatina, carragena ou metilcelulose", "Congelamento ultrarrápido de preparações líquidas com nitrogênio", "Espessamento de molhos por redução e concentração de colágeno natural", "Solidificação de gorduras saturadas por resfriamento gradual controlado"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'condiment' em português, considerando seu uso preciso em textos culinários em inglês?",
+    "correctAnswer": "Substância usada para realçar ou complementar o sabor de um alimento, como mostarda, ketchup ou molho de pimenta",
+    "options": ["Substância usada para realçar ou complementar o sabor de um alimento, como mostarda, ketchup ou molho de pimenta", "Qualquer erva aromática usada como tempero seco em preparações", "Molho à base de manteiga servido separado do prato principal", "Mistura de especiarias utilizada na marinada de proteínas animais"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "alimentacao",
+    "type": "multiple_choice",
+    "questionText": "O que é 'artisanal' como adjetivo amplamente usado na gastronomia anglófona contemporânea?",
+    "correctAnswer": "Produzido em pequena escala com métodos tradicionais, atenção manual e qualidade superior",
+    "options": ["Produzido em pequena escala com métodos tradicionais, atenção manual e qualidade superior", "Certificado como orgânico por organismos reguladores internacionais", "Fabricado sem conservantes artificiais ou corantes sintéticos", "Importado de regiões com indicação geográfica protegida"],
+    "difficulty": "easy"
+  }
+]

@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "We should ___ water to protect the environment.",
+        "correctAnswer":  "save",
+        "options":  [
+                        "save",
+                        "waste",
+                        "lose",
+                        "spend"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "Please ___ your plastic bottles in the recycling bin.",
+        "correctAnswer":  "put",
+        "options":  [
+                        "put",
+                        "throw",
+                        "break",
+                        "hide"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "Trees help to ___ the air clean.",
+        "correctAnswer":  "keep",
+        "options":  [
+                        "keep",
+                        "make",
+                        "leave",
+                        "turn"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "The government wants to ___ pollution in the city.",
+        "correctAnswer":  "reduce",
+        "options":  [
+                        "reduce",
+                        "increase",
+                        "ignore",
+                        "accept"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "Many animals are in ___ because their habitat is being destroyed.",
+        "correctAnswer":  "danger",
+        "options":  [
+                        "danger",
+                        "safety",
+                        "comfort",
+                        "balance"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "Using solar ___ is a great way to produce clean energy.",
+        "correctAnswer":  "panels",
+        "options":  [
+                        "panels",
+                        "windows",
+                        "bottles",
+                        "cables"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "You should turn ___ the lights when you leave a room.",
+        "correctAnswer":  "off",
+        "options":  [
+                        "off",
+                        "on",
+                        "up",
+                        "away"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "Plastic bags are ___ for the environment because they take hundreds of years to break down.",
+        "correctAnswer":  "bad",
+        "options":  [
+                        "bad",
+                        "good",
+                        "safe",
+                        "useful"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "People should use public ___ instead of driving their own cars.",
+        "correctAnswer":  "transport",
+        "options":  [
+                        "transport",
+                        "building",
+                        "energy",
+                        "space"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "The Amazon rainforest is an important ___ of biodiversity.",
+        "correctAnswer":  "source",
+        "options":  [
+                        "source",
+                        "threat",
+                        "lack",
+                        "problem"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "Climate ___ is one of the biggest challenges facing our planet today.",
+        "correctAnswer":  "change",
+        "options":  [
+                        "change",
+                        "cost",
+                        "style",
+                        "view"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "We need to plant more ___ to fight deforestation.",
+        "correctAnswer":  "trees",
+        "options":  [
+                        "trees",
+                        "roads",
+                        "buildings",
+                        "machines"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "Burning ___ fuels releases carbon dioxide into the atmosphere.",
+        "correctAnswer":  "fossil",
+        "options":  [
+                        "fossil",
+                        "clean",
+                        "cold",
+                        "fresh"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "Global ___ is causing ice caps to melt at an alarming rate.",
+        "correctAnswer":  "warming",
+        "options":  [
+                        "warming",
+                        "cooling",
+                        "drying",
+                        "flooding"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "Renewable ___ sources such as wind and solar are better for the planet.",
+        "correctAnswer":  "energy",
+        "options":  [
+                        "energy",
+                        "water",
+                        "food",
+                        "land"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "We should ___ less electricity to lower our carbon footprint.",
+        "correctAnswer":  "use",
+        "options":  [
+                        "use",
+                        "buy",
+                        "find",
+                        "grow"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "Recycling helps to ___ the amount of waste in landfills.",
+        "correctAnswer":  "reduce",
+        "options":  [
+                        "reduce",
+                        "produce",
+                        "double",
+                        "ignore"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "The melting of polar ice caps is ___ sea levels to rise around the world.",
+        "correctAnswer":  "causing",
+        "options":  [
+                        "causing",
+                        "stopping",
+                        "helping",
+                        "avoiding"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "If we do not act now, many species will ___ extinct within the next century.",
+        "correctAnswer":  "become",
+        "options":  [
+                        "become",
+                        "remain",
+                        "grow",
+                        "appear"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "The factory was fined for ___ harmful chemicals into the river.",
+        "correctAnswer":  "dumping",
+        "options":  [
+                        "dumping",
+                        "collecting",
+                        "filtering",
+                        "storing"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "Electric vehicles produce fewer ___ emissions than traditional petrol cars.",
+        "correctAnswer":  "carbon",
+        "options":  [
+                        "carbon",
+                        "solar",
+                        "water",
+                        "wind"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "Deforestation ___ the natural habitats of thousands of animal species every year.",
+        "correctAnswer":  "destroys",
+        "options":  [
+                        "destroys",
+                        "builds",
+                        "protects",
+                        "studies"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "The government has introduced new laws to ___ companies from polluting local rivers.",
+        "correctAnswer":  "prevent",
+        "options":  [
+                        "prevent",
+                        "allow",
+                        "encourage",
+                        "support"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "Marine biologists are concerned about the ___ of coral reefs due to ocean acidification.",
+        "correctAnswer":  "decline",
+        "options":  [
+                        "decline",
+                        "growth",
+                        "expansion",
+                        "recovery"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "Using reusable bags instead of plastic ones is a simple ___ you can make to help the environment.",
+        "correctAnswer":  "change",
+        "options":  [
+                        "change",
+                        "mistake",
+                        "problem",
+                        "excuse"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "Wind turbines ___ electricity by converting the kinetic energy of wind into power.",
+        "correctAnswer":  "generate",
+        "options":  [
+                        "generate",
+                        "consume",
+                        "destroy",
+                        "store"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "The ozone ___ protects the Earth from harmful ultraviolet radiation from the sun.",
+        "correctAnswer":  "layer",
+        "options":  [
+                        "layer",
+                        "cloud",
+                        "storm",
+                        "zone"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "Composting food waste is an effective way to ___ the amount of rubbish sent to landfill.",
+        "correctAnswer":  "reduce",
+        "options":  [
+                        "reduce",
+                        "increase",
+                        "duplicate",
+                        "collect"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "Many countries have signed international ___ to reduce greenhouse gas emissions.",
+        "correctAnswer":  "agreements",
+        "options":  [
+                        "agreements",
+                        "conflicts",
+                        "competitions",
+                        "experiments"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "The heavy use of pesticides has had a negative ___ on bee populations worldwide.",
+        "correctAnswer":  "impact",
+        "options":  [
+                        "impact",
+                        "benefit",
+                        "reward",
+                        "purpose"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "Installing ___ insulation in homes can significantly lower heating costs and reduce energy waste.",
+        "correctAnswer":  "better",
+        "options":  [
+                        "better",
+                        "older",
+                        "louder",
+                        "smaller"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "The city council decided to ___ a congestion charge to discourage people from driving into the centre.",
+        "correctAnswer":  "introduce",
+        "options":  [
+                        "introduce",
+                        "cancel",
+                        "ignore",
+                        "enjoy"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "Rising temperatures are ___ to more frequent and severe droughts in many parts of the world.",
+        "correctAnswer":  "leading",
+        "options":  [
+                        "leading",
+                        "helping",
+                        "responding",
+                        "referring"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "Governments should ___ in clean energy infrastructure to secure a sustainable future.",
+        "correctAnswer":  "invest",
+        "options":  [
+                        "invest",
+                        "waste",
+                        "ignore",
+                        "decrease"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "The Paris Agreement ___ countries to limit global temperature increases to well below 2 degrees Celsius.",
+        "correctAnswer":  "commits",
+        "options":  [
+                        "commits",
+                        "prevents",
+                        "discourages",
+                        "ignores"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "The concept of a circular economy aims to ___ waste by keeping materials in use for as long as possible.",
+        "correctAnswer":  "eliminate",
+        "options":  [
+                        "eliminate",
+                        "produce",
+                        "celebrate",
+                        "expand"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "Carbon ___ trading allows companies to buy and sell permits for greenhouse gas emissions.",
+        "correctAnswer":  "credit",
+        "options":  [
+                        "credit",
+                        "waste",
+                        "cloud",
+                        "sink"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "Monoculture farming practices have been shown to ___ soil quality over time, reducing its fertility.",
+        "correctAnswer":  "degrade",
+        "options":  [
+                        "degrade",
+                        "improve",
+                        "restore",
+                        "maintain"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "The ___ footprint of a product includes all the greenhouse gases emitted during its entire life cycle.",
+        "correctAnswer":  "carbon",
+        "options":  [
+                        "carbon",
+                        "water",
+                        "energy",
+                        "plastic"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "Ocean ___ refers to the decrease in the pH of seawater caused by the absorption of carbon dioxide.",
+        "correctAnswer":  "acidification",
+        "options":  [
+                        "acidification",
+                        "purification",
+                        "evaporation",
+                        "circulation"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "Agroforestry is a land management approach that ___ crops and trees on the same piece of land.",
+        "correctAnswer":  "integrates",
+        "options":  [
+                        "integrates",
+                        "separates",
+                        "eliminates",
+                        "ignores"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "Wetlands act as natural ___ by absorbing floodwaters and releasing them slowly back into the environment.",
+        "correctAnswer":  "buffers",
+        "options":  [
+                        "buffers",
+                        "barriers",
+                        "burdens",
+                        "borders"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "The ___ effect occurs when greenhouse gases trap heat in the atmosphere, warming the planet.",
+        "correctAnswer":  "greenhouse",
+        "options":  [
+                        "greenhouse",
+                        "snowball",
+                        "domino",
+                        "waterfall"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "Environmental ___ involves companies falsely claiming their products or policies are environmentally friendly.",
+        "correctAnswer":  "greenwashing",
+        "options":  [
+                        "greenwashing",
+                        "recycling",
+                        "offsetting",
+                        "monitoring"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "Bioremediation uses living ___ to clean up contaminated soil and water by breaking down pollutants.",
+        "correctAnswer":  "organisms",
+        "options":  [
+                        "organisms",
+                        "machines",
+                        "chemicals",
+                        "minerals"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "The concept of net-zero ___ means balancing the amount of greenhouse gases emitted with the amount removed.",
+        "correctAnswer":  "emissions",
+        "options":  [
+                        "emissions",
+                        "investments",
+                        "solutions",
+                        "resources"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "Permafrost ___ in the Arctic is releasing large quantities of methane, a potent greenhouse gas.",
+        "correctAnswer":  "thawing",
+        "options":  [
+                        "thawing",
+                        "freezing",
+                        "expanding",
+                        "stabilizing"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "Sustainable ___ involves managing fish populations in a way that prevents overfishing and protects marine ecosystems.",
+        "correctAnswer":  "fishing",
+        "options":  [
+                        "fishing",
+                        "farming",
+                        "mining",
+                        "tourism"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "The ___ protocol was one of the first international treaties designed to phase out ozone-depleting substances.",
+        "correctAnswer":  "Montreal",
+        "options":  [
+                        "Montreal",
+                        "Kyoto",
+                        "Paris",
+                        "Geneva"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "completar_frase",
+        "topicDomain":  "meio_ambiente",
+        "type":  "complete_sentence",
+        "questionText":  "Ecological ___ refers to the process of restoring a damaged or destroyed ecosystem to its natural state.",
+        "correctAnswer":  "restoration",
+        "options":  [
+                        "restoration",
+                        "destruction",
+                        "observation",
+                        "construction"
+                    ],
+        "difficulty":  "hard"
+    }
+]

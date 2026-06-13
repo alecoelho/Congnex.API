@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027diagnóstico\u0027?",
+        "correctAnswer":  "identification of an illness or problem through examination",
+        "options":  [
+                        "identification of an illness or problem through examination",
+                        "treatment of a disease with medication",
+                        "prevention of future medical complications",
+                        "consultation with a medical specialist"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027prescrição médica\u0027?",
+        "correctAnswer":  "written instructions from a doctor for medication or treatment",
+        "options":  [
+                        "written instructions from a doctor for medication or treatment",
+                        "the duration of a patient\u0027s hospital stay",
+                        "a recommendation to exercise regularly",
+                        "the cost of medical treatment"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027sintoma\u0027?",
+        "correctAnswer":  "a sign or indication of a disease or condition",
+        "options":  [
+                        "a sign or indication of a disease or condition",
+                        "the treatment method for an illness",
+                        "the cure for a medical disorder",
+                        "the prevention of illness through vaccines"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027bem-estar\u0027?",
+        "correctAnswer":  "state of being comfortable, healthy, and happy",
+        "options":  [
+                        "state of being comfortable, healthy, and happy",
+                        "the absence of physical pain",
+                        "the result of medical treatment",
+                        "a type of exercise routine"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027reabilitação\u0027?",
+        "correctAnswer":  "process of restoring health and function after injury or illness",
+        "options":  [
+                        "process of restoring health and function after injury or illness",
+                        "a surgical procedure to remove damaged tissue",
+                        "prescription of painkillers for chronic pain",
+                        "permanent disability management"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027convalescença\u0027?",
+        "correctAnswer":  "recovery period after an illness or medical treatment",
+        "options":  [
+                        "recovery period after an illness or medical treatment",
+                        "surgical intervention for serious conditions",
+                        "permanent loss of body function",
+                        "the onset of a new disease"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027imunodeficiência\u0027?",
+        "correctAnswer":  "weakness or failure of the immune system to fight infections",
+        "options":  [
+                        "weakness or failure of the immune system to fight infections",
+                        "excessive production of white blood cells",
+                        "inflammation of the lymph nodes",
+                        "allergy to environmental factors"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027hipertensão\u0027?",
+        "correctAnswer":  "abnormally high blood pressure",
+        "options":  [
+                        "abnormally high blood pressure",
+                        "low levels of red blood cells",
+                        "abnormally high body temperature",
+                        "excessive sweating at night"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027colesterol\u0027?",
+        "correctAnswer":  "a fatty substance found in the blood that affects heart health",
+        "options":  [
+                        "a fatty substance found in the blood that affects heart health",
+                        "a type of protein in muscle tissue",
+                        "a mineral essential for bone strength",
+                        "an enzyme that aids digestion"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027infecção\u0027?",
+        "correctAnswer":  "invasion of harmful bacteria or viruses causing disease",
+        "options":  [
+                        "invasion of harmful bacteria or viruses causing disease",
+                        "a natural immune response to allergens",
+                        "inflammation due to physical injury",
+                        "abnormal cell growth in tissues"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027alergia\u0027?",
+        "correctAnswer":  "abnormal immune response to a normally harmless substance",
+        "options":  [
+                        "abnormal immune response to a normally harmless substance",
+                        "bacterial infection of the skin",
+                        "psychological fear of certain objects",
+                        "inflammation of blood vessels"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027lesão\u0027?",
+        "correctAnswer":  "damage to body tissue caused by injury or disease",
+        "options":  [
+                        "damage to body tissue caused by injury or disease",
+                        "surgical incision to treat a condition",
+                        "natural healing process after injury",
+                        "medication applied to the skin"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027vacina\u0027?",
+        "correctAnswer":  "substance used to stimulate immunity against a disease",
+        "options":  [
+                        "substance used to stimulate immunity against a disease",
+                        "medication to reduce fever and pain",
+                        "surgical procedure to remove infected tissue",
+                        "test to diagnose a specific illness"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027remissão\u0027?",
+        "correctAnswer":  "temporary or permanent disappearance of symptoms",
+        "options":  [
+                        "temporary or permanent disappearance of symptoms",
+                        "worsening of a disease condition",
+                        "complete cure of a chronic disease",
+                        "beginning of a new illness phase"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027epidemia\u0027?",
+        "correctAnswer":  "rapid spread of disease affecting many people in a region",
+        "options":  [
+                        "rapid spread of disease affecting many people in a region",
+                        "endemic disease present in one community",
+                        "individual cases of a rare disease",
+                        "seasonal variation in common illnesses"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027comorbidade\u0027?",
+        "correctAnswer":  "presence of two or more diseases in the same person simultaneously",
+        "options":  [
+                        "presence of two or more diseases in the same person simultaneously",
+                        "recovery from a chronic condition",
+                        "hereditary disease passed through families",
+                        "side effect of a medical treatment"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027cura\u0027?",
+        "correctAnswer":  "complete recovery from a disease or condition",
+        "options":  [
+                        "complete recovery from a disease or condition",
+                        "temporary relief from symptoms",
+                        "management of chronic illness",
+                        "prevention of disease spread"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027prognóstico\u0027?",
+        "correctAnswer":  "medical prediction about the likely course and outcome of a disease",
+        "options":  [
+                        "medical prediction about the likely course and outcome of a disease",
+                        "current list of symptoms and signs",
+                        "initial examination of a patient",
+                        "duration of hospital admission"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027etiologia\u0027?",
+        "correctAnswer":  "study of the causes and origins of a disease",
+        "options":  [
+                        "study of the causes and origins of a disease",
+                        "classification of different disease types",
+                        "treatment methods for chronic conditions",
+                        "prevention strategies against epidemics"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027patogênese\u0027?",
+        "correctAnswer":  "process by which a disease develops and progresses",
+        "options":  [
+                        "process by which a disease develops and progresses",
+                        "immune system\u0027s response to infection",
+                        "genetic mutation causing hereditary disease",
+                        "environmental factors triggering illness"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027incidência\u0027?",
+        "correctAnswer":  "number of new cases of a disease in a specific population over time",
+        "options":  [
+                        "number of new cases of a disease in a specific population over time",
+                        "total number of existing disease cases",
+                        "rate of recovery from a disease",
+                        "percentage of mortality from an illness"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027prevalência\u0027?",
+        "correctAnswer":  "total number of existing disease cases in a population at a given time",
+        "options":  [
+                        "total number of existing disease cases in a population at a given time",
+                        "frequency of a disease appearing in families",
+                        "speed of disease transmission between people",
+                        "survival rate after disease diagnosis"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027inflamação\u0027?",
+        "correctAnswer":  "localized physical condition with pain, heat, redness, and swelling",
+        "options":  [
+                        "localized physical condition with pain, heat, redness, and swelling",
+                        "infection caused by viral agents",
+                        "allergic reaction to food substances",
+                        "scarring after tissue damage"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027envenenamento\u0027?",
+        "correctAnswer":  "harmful effects resulting from ingestion of toxic substances",
+        "options":  [
+                        "harmful effects resulting from ingestion of toxic substances",
+                        "allergic reaction to medications",
+                        "bacterial infection of the intestines",
+                        "nutritional deficiency disease"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027mutação genética\u0027?",
+        "correctAnswer":  "permanent alteration in DNA sequence causing inherited changes",
+        "options":  [
+                        "permanent alteration in DNA sequence causing inherited changes",
+                        "temporary changes in physical appearance",
+                        "natural adaptation to environmental factors",
+                        "aging process at cellular level"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027resistência aos antibióticos\u0027?",
+        "correctAnswer":  "ability of bacteria to survive treatment with antibacterial drugs",
+        "options":  [
+                        "ability of bacteria to survive treatment with antibacterial drugs",
+                        "human immune system strength against infection",
+                        "duration of antibiotic effectiveness in treatment",
+                        "allergic reaction to antibiotic medications"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027mecanismo de ação\u0027?",
+        "correctAnswer":  "way in which a drug or treatment produces its therapeutic effect",
+        "options":  [
+                        "way in which a drug or treatment produces its therapeutic effect",
+                        "timeline for drug metabolism in the body",
+                        "list of potential side effects",
+                        "dosage requirements for optimal treatment"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027bioavailabilidade\u0027?",
+        "correctAnswer":  "proportion of an administered dose that becomes available to tissues",
+        "options":  [
+                        "proportion of an administered dose that becomes available to tissues",
+                        "duration of drug effect in the body",
+                        "speed of drug absorption in the stomach",
+                        "percentage of drug excreted by kidneys"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027farmacocinética\u0027?",
+        "correctAnswer":  "study of how drugs move through and are processed by the body",
+        "options":  [
+                        "study of how drugs move through and are processed by the body",
+                        "chemical structure of pharmaceutical compounds",
+                        "effects of drugs on body systems",
+                        "testing procedures for new medications"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027farmacodinâmica\u0027?",
+        "correctAnswer":  "study of the biochemical and physiological effects of drugs",
+        "options":  [
+                        "study of the biochemical and physiological effects of drugs",
+                        "process of drug manufacturing and production",
+                        "regulation of medicine dosage and timing",
+                        "interaction between different medications"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027terapia gênica\u0027?",
+        "correctAnswer":  "treatment involving introduction of genetic material to correct defects",
+        "options":  [
+                        "treatment involving introduction of genetic material to correct defects",
+                        "use of plants and herbs for healing",
+                        "psychological counseling for mental health",
+                        "physical exercise regimen for rehabilitation"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027inflamação crônica\u0027?",
+        "correctAnswer":  "prolonged inflammatory response lasting weeks, months, or years",
+        "options":  [
+                        "prolonged inflammatory response lasting weeks, months, or years",
+                        "sudden acute inflammatory condition",
+                        "localized infection with pus formation",
+                        "temporary swelling after minor injury"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027paliativo\u0027?",
+        "correctAnswer":  "treatment focused on relief of symptoms rather than curing the disease",
+        "options":  [
+                        "treatment focused on relief of symptoms rather than curing the disease",
+                        "medication that eliminates the cause of illness",
+                        "procedure that restores organ function",
+                        "preventive healthcare measure"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027complicação iatrogênica\u0027?",
+        "correctAnswer":  "harm or adverse effect caused by medical treatment itself",
+        "options":  [
+                        "harm or adverse effect caused by medical treatment itself",
+                        "natural progression of a disease",
+                        "patient non-compliance with medication",
+                        "environmental cause of disease"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027insuficiência orgânica\u0027?",
+        "correctAnswer":  "inability of an organ to perform its essential functions adequately",
+        "options":  [
+                        "inability of an organ to perform its essential functions adequately",
+                        "complete failure and death of organ tissue",
+                        "temporary reduction in organ activity",
+                        "inflammation affecting multiple organs"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027síndrome\u0027?",
+        "correctAnswer":  "group of symptoms and signs that occur together characterizing a specific condition",
+        "options":  [
+                        "group of symptoms and signs that occur together characterizing a specific condition",
+                        "single symptom indicating a disease",
+                        "contagious disease affecting many people",
+                        "hereditary disease passed through generations"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027fisiopatologia\u0027?",
+        "correctAnswer":  "study of how diseases affect normal body functions and structure",
+        "options":  [
+                        "study of how diseases affect normal body functions and structure",
+                        "classification of diseases by geographic location",
+                        "prevention of disease through lifestyle changes",
+                        "treatment methods for acute conditions"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027plasticidade neural\u0027?",
+        "correctAnswer":  "brain\u0027s ability to reorganize and form new neural connections after injury",
+        "options":  [
+                        "brain\u0027s ability to reorganize and form new neural connections after injury",
+                        "loss of memory due to aging",
+                        "involuntary muscle movements",
+                        "inflammation of nerve tissues"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027neuropatia\u0027?",
+        "correctAnswer":  "disease or dysfunction of one or more peripheral nerves",
+        "options":  [
+                        "disease or dysfunction of one or more peripheral nerves",
+                        "inflammation of the brain tissue",
+                        "psychological disorder affecting thought patterns",
+                        "weakness of muscles in the legs"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027carcinoma\u0027?",
+        "correctAnswer":  "malignant tumor arising from epithelial tissue cells",
+        "options":  [
+                        "malignant tumor arising from epithelial tissue cells",
+                        "benign growth of non-cancerous cells",
+                        "infectious disease caused by bacteria",
+                        "hormonal imbalance in endocrine glands"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027metástase\u0027?",
+        "correctAnswer":  "spread of cancer cells from original site to distant body locations",
+        "options":  [
+                        "spread of cancer cells from original site to distant body locations",
+                        "shrinking of a tumor under treatment",
+                        "growth of benign tissue around an organ",
+                        "infection of lymph nodes by bacteria"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027angiogênese\u0027?",
+        "correctAnswer":  "formation of new blood vessels, often promoting tumor growth",
+        "options":  [
+                        "formation of new blood vessels, often promoting tumor growth",
+                        "blockage of arteries by fatty deposits",
+                        "inflammation of blood vessel walls",
+                        "excessive bleeding from damaged capillaries"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027apoptose\u0027?",
+        "correctAnswer":  "programmed cell death preventing accumulation of damaged or abnormal cells",
+        "options":  [
+                        "programmed cell death preventing accumulation of damaged or abnormal cells",
+                        "uncontrolled cell division and multiplication",
+                        "fusion of two different cell types",
+                        "transformation of normal cells into cancer cells"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027trombose\u0027?",
+        "correctAnswer":  "formation of a blood clot inside a blood vessel obstructing blood flow",
+        "options":  [
+                        "formation of a blood clot inside a blood vessel obstructing blood flow",
+                        "thinning of blood due to medication",
+                        "inflammation of blood vessel lining",
+                        "excessive production of red blood cells"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027aterosclerose\u0027?",
+        "correctAnswer":  "buildup of fatty deposits on arterial walls narrowing blood vessels",
+        "options":  [
+                        "buildup of fatty deposits on arterial walls narrowing blood vessels",
+                        "weakening of artery walls causing aneurysm",
+                        "inflammation of the heart muscle",
+                        "calcification of heart valves"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027hipoxemia\u0027?",
+        "correctAnswer":  "abnormally low concentration of oxygen in the blood",
+        "options":  [
+                        "abnormally low concentration of oxygen in the blood",
+                        "excessive oxygen in body tissues",
+                        "carbon dioxide accumulation in blood",
+                        "insufficient hemoglobin production"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027desfibrilação\u0027?",
+        "correctAnswer":  "application of electrical shock to restore normal heart rhythm",
+        "options":  [
+                        "application of electrical shock to restore normal heart rhythm",
+                        "insertion of a tube into the airway",
+                        "manual compression of the chest",
+                        "administration of cardiac medications"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027transplante de órgão\u0027?",
+        "correctAnswer":  "surgical procedure of transferring a healthy organ to replace a failed one",
+        "options":  [
+                        "surgical procedure of transferring a healthy organ to replace a failed one",
+                        "artificial organ replacement using mechanical devices",
+                        "temporary organ support through dialysis",
+                        "regeneration of damaged organ tissue"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027rejeição de transplante\u0027?",
+        "correctAnswer":  "immune system attack on transplanted organ leading to organ failure",
+        "options":  [
+                        "immune system attack on transplanted organ leading to organ failure",
+                        "surgical complications during transplant procedure",
+                        "infection of the transplanted organ",
+                        "poor surgical technique causing organ damage"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "topicDomain":  "saude",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027comorbidade psiquiátrica\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "presence of a mental health disorder alongside a primary medical condition",
+                        "treatment of mental health using medications only",
+                        "prevention of psychiatric conditions in patients",
+                        "diagnosis of psychological disorders through brain imaging"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "presence of a mental health disorder alongside a primary medical condition"
+    }
+]

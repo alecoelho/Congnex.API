@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027shop\u0027 em português?",
+        "difficulty":  "easy",
+        "options":  [
+                        "loja",
+                        "rua",
+                        "casa",
+                        "mercado"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "loja"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027buy\u0027 em português?",
+        "difficulty":  "easy",
+        "options":  [
+                        "vender",
+                        "comprar",
+                        "pedir",
+                        "trocar"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "comprar"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027price\u0027 em português?",
+        "difficulty":  "easy",
+        "options":  [
+                        "produto",
+                        "preço",
+                        "desconto",
+                        "taxa"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "preço"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que quer dizer \u0027money\u0027 em português?",
+        "difficulty":  "easy",
+        "options":  [
+                        "moeda",
+                        "dinheiro",
+                        "banco",
+                        "cartão"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "dinheiro"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027supermarket\u0027 em português?",
+        "difficulty":  "easy",
+        "options":  [
+                        "mercado",
+                        "supermercado",
+                        "loja de roupa",
+                        "centro"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "supermercado"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027clothes\u0027 em português?",
+        "difficulty":  "easy",
+        "options":  [
+                        "sapatos",
+                        "roupas",
+                        "bolsa",
+                        "chapéu"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "roupas"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027food\u0027 em português?",
+        "difficulty":  "easy",
+        "options":  [
+                        "bebida",
+                        "comida",
+                        "fruta",
+                        "pão"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "comida"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que quer dizer \u0027pay\u0027 em português?",
+        "difficulty":  "easy",
+        "options":  [
+                        "pedir",
+                        "pagar",
+                        "levar",
+                        "contar"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "pagar"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027discount\u0027 em português?",
+        "difficulty":  "easy",
+        "options":  [
+                        "preço",
+                        "desconto",
+                        "promoção",
+                        "oferta"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "desconto"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027bill\u0027 em português?",
+        "difficulty":  "easy",
+        "options":  [
+                        "recibo",
+                        "conta",
+                        "nota",
+                        "cupom"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "conta"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027size\u0027 em português?",
+        "difficulty":  "easy",
+        "options":  [
+                        "cor",
+                        "tamanho",
+                        "marca",
+                        "modelo"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "tamanho"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que quer dizer \u0027customer\u0027 em português?",
+        "difficulty":  "easy",
+        "options":  [
+                        "vendedor",
+                        "cliente",
+                        "gerente",
+                        "caixa"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "cliente"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027product\u0027 em português?",
+        "difficulty":  "easy",
+        "options":  [
+                        "artigo",
+                        "produto",
+                        "item",
+                        "coisa"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "produto"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027shopping\u0027 em português?",
+        "difficulty":  "easy",
+        "options":  [
+                        "loja",
+                        "compras",
+                        "centro",
+                        "mercado"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "compras"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027basket\u0027 em português?",
+        "difficulty":  "easy",
+        "options":  [
+                        "caixa",
+                        "cesta",
+                        "sacola",
+                        "carrinho"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "cesta"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que quer dizer \u0027expensive\u0027 em português?",
+        "difficulty":  "easy",
+        "options":  [
+                        "caro",
+                        "barato",
+                        "grátis",
+                        "comum"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "caro"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027cheap\u0027 em português?",
+        "difficulty":  "easy",
+        "options":  [
+                        "caro",
+                        "barato",
+                        "antigo",
+                        "novo"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "barato"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027receipt\u0027 em português?",
+        "difficulty":  "medium",
+        "options":  [
+                        "recibo",
+                        "cartão",
+                        "nota",
+                        "cupom"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "recibo"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027salesman\u0027 em português?",
+        "difficulty":  "medium",
+        "options":  [
+                        "comprador",
+                        "vendedor",
+                        "gerente",
+                        "assistente"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "vendedor"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que quer dizer \u0027brand\u0027 em português?",
+        "difficulty":  "medium",
+        "options":  [
+                        "rótulo",
+                        "marca",
+                        "etiqueta",
+                        "símbolo"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "marca"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027bargain\u0027 em português?",
+        "difficulty":  "medium",
+        "options":  [
+                        "oferta",
+                        "pechincha",
+                        "desconto",
+                        "promoção"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "pechincha"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027cashier\u0027 em português?",
+        "difficulty":  "medium",
+        "options":  [
+                        "caixa",
+                        "balconista",
+                        "vendedor",
+                        "gerente"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "caixa"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027boutique\u0027 em português?",
+        "difficulty":  "medium",
+        "options":  [
+                        "loja grande",
+                        "boutique",
+                        "mercado",
+                        "centro"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "boutique"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que quer dizer \u0027quantity\u0027 em português?",
+        "difficulty":  "medium",
+        "options":  [
+                        "qualidade",
+                        "quantidade",
+                        "medida",
+                        "número"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "quantidade"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027export\u0027 em português?",
+        "difficulty":  "medium",
+        "options":  [
+                        "importação",
+                        "exportação",
+                        "comércio",
+                        "venda"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "exportação"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027retail\u0027 em português?",
+        "difficulty":  "medium",
+        "options":  [
+                        "atacado",
+                        "varejo",
+                        "comércio",
+                        "loja"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "varejo"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027wholesale\u0027 em português?",
+        "difficulty":  "medium",
+        "options":  [
+                        "varejo",
+                        "atacado",
+                        "comércio",
+                        "venda"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "atacado"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que quer dizer \u0027consumer\u0027 em português?",
+        "difficulty":  "medium",
+        "options":  [
+                        "produtor",
+                        "consumidor",
+                        "vendedor",
+                        "comerciante"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "consumidor"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027transaction\u0027 em português?",
+        "difficulty":  "medium",
+        "options":  [
+                        "transação",
+                        "compra",
+                        "venda",
+                        "pagamento"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "transação"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027invoice\u0027 em português?",
+        "difficulty":  "medium",
+        "options":  [
+                        "recibo",
+                        "fatura",
+                        "nota",
+                        "documento"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "fatura"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027delivery\u0027 em português?",
+        "difficulty":  "medium",
+        "options":  [
+                        "envio",
+                        "entrega",
+                        "transporte",
+                        "logística"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "entrega"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que quer dizer \u0027warranty\u0027 em português?",
+        "difficulty":  "medium",
+        "options":  [
+                        "garantia",
+                        "seguro",
+                        "contrato",
+                        "proteção"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "garantia"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027refund\u0027 em português?",
+        "difficulty":  "medium",
+        "options":  [
+                        "reembolso",
+                        "devolução",
+                        "troca",
+                        "crédito"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "reembolso"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027installment\u0027 em português?",
+        "difficulty":  "hard",
+        "options":  [
+                        "desconto",
+                        "parcela",
+                        "taxa",
+                        "juros"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "parcela"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027commodity\u0027 em português?",
+        "difficulty":  "hard",
+        "options":  [
+                        "produto",
+                        "mercadoria",
+                        "artigo",
+                        "bem"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "mercadoria"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que quer dizer \u0027tariff\u0027 em português?",
+        "difficulty":  "hard",
+        "options":  [
+                        "imposto",
+                        "tarifa",
+                        "taxa",
+                        "preço"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "tarifa"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027markup\u0027 em português?",
+        "difficulty":  "hard",
+        "options":  [
+                        "desconto",
+                        "margem de lucro",
+                        "custo",
+                        "preço"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "margem de lucro"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027inventory\u0027 em português?",
+        "difficulty":  "hard",
+        "options":  [
+                        "estoque",
+                        "inventário",
+                        "catálogo",
+                        "registro"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "inventário"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027supplier\u0027 em português?",
+        "difficulty":  "hard",
+        "options":  [
+                        "consumidor",
+                        "fornecedor",
+                        "distribuidor",
+                        "revendedor"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "fornecedor"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que quer dizer \u0027vendor\u0027 em português?",
+        "difficulty":  "hard",
+        "options":  [
+                        "comprador",
+                        "vendedor",
+                        "comerciante",
+                        "negociante"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "vendedor"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027acquisition\u0027 em português?",
+        "difficulty":  "hard",
+        "options":  [
+                        "venda",
+                        "aquisição",
+                        "compra",
+                        "obtenção"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "aquisição"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027tender\u0027 em português?",
+        "difficulty":  "hard",
+        "options":  [
+                        "oferta",
+                        "licitação",
+                        "proposta",
+                        "contrato"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "licitação"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027procurement\u0027 em português?",
+        "difficulty":  "hard",
+        "options":  [
+                        "compra",
+                        "contratação",
+                        "aquisição",
+                        "abastecimento"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "contratação"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que quer dizer \u0027barter\u0027 em português?",
+        "difficulty":  "hard",
+        "options":  [
+                        "negociação",
+                        "troca",
+                        "permuta",
+                        "câmbio"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "troca"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é a tradução de \u0027cartel\u0027 em português?",
+        "difficulty":  "hard",
+        "options":  [
+                        "sindicato",
+                        "cartel",
+                        "grupo",
+                        "associação"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "cartel"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027auction\u0027 em português?",
+        "difficulty":  "hard",
+        "options":  [
+                        "venda",
+                        "leilão",
+                        "oferta",
+                        "exposição"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "leilão"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o significado de \u0027monopoly\u0027 em português?",
+        "difficulty":  "hard",
+        "options":  [
+                        "cartel",
+                        "monopólio",
+                        "truste",
+                        "sindicato"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "monopólio"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que quer dizer \u0027quota\u0027 em português?",
+        "difficulty":  "hard",
+        "options":  [
+                        "limite",
+                        "quota",
+                        "cota",
+                        "parcela"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "quota"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027patent\u0027 em português?",
+        "difficulty":  "hard",
+        "options":  [
+                        "direito",
+                        "patente",
+                        "licença",
+                        "marca"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "patente"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "compras",
+        "type":  "multiple_choice",
+        "questionText":  "O que quer dizer \u0027debit\u0027 em português?",
+        "difficulty":  "medium",
+        "options":  [
+                        "débito",
+                        "crédito",
+                        "empréstimo",
+                        "depósito"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "débito"
+    }
+]

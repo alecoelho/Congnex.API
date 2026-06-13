@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Quando você vai viajar para Paris? Eu vou ______ em julho.",
+        "correctAnswer":  "go",
+        "options":  [
+                        "go",
+                        "goes",
+                        "going",
+                        "to go"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Eles ______ no hotel ontem à noite.",
+        "correctAnswer":  "stayed",
+        "options":  [
+                        "stay",
+                        "stays",
+                        "stayed",
+                        "staying"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Eu nunca ______ visitado Barcelona antes.",
+        "correctAnswer":  "have",
+        "options":  [
+                        "has",
+                        "have",
+                        "had",
+                        "having"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O avião ______ em Roma amanhã às 10h.",
+        "correctAnswer":  "will arrive",
+        "options":  [
+                        "arrives",
+                        "will arrive",
+                        "arrive",
+                        "is arriving"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Nós ______ para a praia no próximo mês.",
+        "correctAnswer":  "are going",
+        "options":  [
+                        "goes",
+                        "go",
+                        "are going",
+                        "will go"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Você ______ passaporte para entrar no país?",
+        "correctAnswer":  "need",
+        "options":  [
+                        "needs",
+                        "need",
+                        "needed",
+                        "needing"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "A bagagem dela ______ perdida no aeroporto.",
+        "correctAnswer":  "was",
+        "options":  [
+                        "is",
+                        "was",
+                        "were",
+                        "has been"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Onde você ______ suas férias normalmente?",
+        "correctAnswer":  "spend",
+        "options":  [
+                        "spends",
+                        "spend",
+                        "spent",
+                        "spending"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Eles ______ conhecer a cultura local durante a viagem.",
+        "correctAnswer":  "want to",
+        "options":  [
+                        "want",
+                        "wants",
+                        "want to",
+                        "wanting"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O guia turístico ______ português e inglês.",
+        "correctAnswer":  "speaks",
+        "options":  [
+                        "speak",
+                        "speaks",
+                        "spoke",
+                        "speaking"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Quando a sua excursão ______?",
+        "correctAnswer":  "starts",
+        "options":  [
+                        "start",
+                        "starts",
+                        "started",
+                        "starting"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Nós ______ reservado os ingressos para o museu.",
+        "correctAnswer":  "have",
+        "options":  [
+                        "has",
+                        "have",
+                        "had",
+                        "having"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "A vista do hotel era ______ bonita.",
+        "correctAnswer":  "very",
+        "options":  [
+                        "much",
+                        "very",
+                        "too",
+                        "so much"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Eu já ______ esta praia três vezes.",
+        "correctAnswer":  "visited",
+        "options":  [
+                        "visit",
+                        "visits",
+                        "visited",
+                        "have visit"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O ônibus de turismo ______ na estação em 20 minutos.",
+        "correctAnswer":  "will be",
+        "options":  [
+                        "is",
+                        "will be",
+                        "was",
+                        "has been"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Qual é o melhor hotel para ______ perto do centro?",
+        "correctAnswer":  "stay",
+        "options":  [
+                        "stays",
+                        "stay",
+                        "stayed",
+                        "staying"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Nós ______ viajar de trem ou de avião.",
+        "correctAnswer":  "prefer to",
+        "options":  [
+                        "prefer",
+                        "prefers",
+                        "prefer to",
+                        "preferring"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Se eu ______ mais dinheiro, viajaria para o exterior.",
+        "correctAnswer":  "had",
+        "options":  [
+                        "have",
+                        "has",
+                        "had",
+                        "having"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Ela ______ viajar porque tem medo de avião.",
+        "correctAnswer":  "doesn\u0027t like",
+        "options":  [
+                        "don\u0027t like",
+                        "doesn\u0027t like",
+                        "didn\u0027t like",
+                        "not likes"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O passageiro ______ que o voo estava atrasado.",
+        "correctAnswer":  "was told",
+        "options":  [
+                        "told",
+                        "was told",
+                        "is told",
+                        "has told"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Quando nós chegamos, o hotel ______ renovado.",
+        "correctAnswer":  "had been",
+        "options":  [
+                        "was",
+                        "has been",
+                        "had been",
+                        "is being"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Você sabe onde ______ a estação de trem?",
+        "correctAnswer":  "is",
+        "options":  [
+                        "is",
+                        "are",
+                        "was",
+                        "were"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Eu gostaria ______ visitar as ilhas gregas no verão.",
+        "correctAnswer":  "to",
+        "options":  [
+                        "of",
+                        "to",
+                        "for",
+                        "in"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Os turistas ______ fotografar a catedral durante a visita.",
+        "correctAnswer":  "were allowed to",
+        "options":  [
+                        "allowed to",
+                        "were allowed to",
+                        "allowed",
+                        "allows"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Nós temos ______ reservar o hotel com antecedência.",
+        "correctAnswer":  "to",
+        "options":  [
+                        "of",
+                        "to",
+                        "for",
+                        "in"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O voo foi cancelado, ______ tivemos que reservar outro.",
+        "correctAnswer":  "so",
+        "options":  [
+                        "and",
+                        "but",
+                        "so",
+                        "because"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Ela ______ visitado mais de 15 países em sua vida.",
+        "correctAnswer":  "has",
+        "options":  [
+                        "have",
+                        "has",
+                        "had",
+                        "having"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O guia explicou ______ a arquitetura da cidade era importante.",
+        "correctAnswer":  "why",
+        "options":  [
+                        "that",
+                        "which",
+                        "why",
+                        "where"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Enquanto ______ em Paris, visitamos a Torre Eiffel.",
+        "correctAnswer":  "we were",
+        "options":  [
+                        "we are",
+                        "we were",
+                        "we have been",
+                        "we would be"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O hotel ______ oferecia um café da manhã gratuito.",
+        "correctAnswer":  "which",
+        "options":  [
+                        "that",
+                        "which",
+                        "who",
+                        "where"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Eles não poderiam ______ visitado o museu se estivesse fechado.",
+        "correctAnswer":  "have",
+        "options":  [
+                        "has",
+                        "have",
+                        "had",
+                        "having"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Embora ______ chover muito, fizemos um passeio pela cidade.",
+        "correctAnswer":  "it was",
+        "options":  [
+                        "it is",
+                        "it was",
+                        "it were",
+                        "is it"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Independentemente ______ o preço, queremos ficar naquele hotel.",
+        "correctAnswer":  "of",
+        "options":  [
+                        "of",
+                        "from",
+                        "to",
+                        "in"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Se você não tivesse cancelado, ______ viajar comigo.",
+        "correctAnswer":  "you could have",
+        "options":  [
+                        "you can",
+                        "you could have",
+                        "you would",
+                        "you can have"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O passaporte dele ______ expirado quando chegou ao país.",
+        "correctAnswer":  "had",
+        "options":  [
+                        "has",
+                        "have",
+                        "had",
+                        "is having"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Nós ______ viajar há três semanas quando recebemos a notícia.",
+        "correctAnswer":  "were about to",
+        "options":  [
+                        "are about to",
+                        "were about to",
+                        "about to",
+                        "were to"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "A agência de viagens sugeriu que nós ______ os documentos agora.",
+        "correctAnswer":  "prepare",
+        "options":  [
+                        "prepare",
+                        "prepares",
+                        "prepared",
+                        "preparing"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Sem ______ pelo aeroporto, não teríamos perdido o voo.",
+        "correctAnswer":  "going through",
+        "options":  [
+                        "go through",
+                        "going through",
+                        "to go through",
+                        "goes through"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Pode parecer ______ que as malas desapareceram, mas foi verdade.",
+        "correctAnswer":  "strange",
+        "options":  [
+                        "strangely",
+                        "strange",
+                        "stranger",
+                        "strangeness"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Ele afirma ter ______ visitado mais de 100 cidades.",
+        "correctAnswer":  "already",
+        "options":  [
+                        "yet",
+                        "already",
+                        "still",
+                        "just"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O que ele disse sobre ______ partida para o aeroporto?",
+        "correctAnswer":  "his",
+        "options":  [
+                        "he",
+                        "his",
+                        "him",
+                        "himself"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Supondo que o voo saia no prazo, ______ chegaremos à noite.",
+        "correctAnswer":  "we",
+        "options":  [
+                        "we",
+                        "us",
+                        "we\u0027ll",
+                        "ours"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Ela teria chegado mais cedo se ______ tomado o voo anterior.",
+        "correctAnswer":  "she had",
+        "options":  [
+                        "she have",
+                        "she had",
+                        "she has",
+                        "she would have"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Os passageiros ______ de desembarcar quando o anúncio foi feito.",
+        "correctAnswer":  "were in the process",
+        "options":  [
+                        "were in process",
+                        "were in the process",
+                        "are in process",
+                        "being in process"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "O gerente do hotel insistiu que ele ______ um reembolso.",
+        "correctAnswer":  "offer",
+        "options":  [
+                        "offers",
+                        "offer",
+                        "offered",
+                        "offering"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Não ______ que tenhamos gostado da viagem apesar dos problemas.",
+        "correctAnswer":  "is surprising",
+        "options":  [
+                        "is surprising",
+                        "is surprised",
+                        "are surprising",
+                        "surprised"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "A conclusão ______ que deveríamos ter reservado com antecedência.",
+        "correctAnswer":  "was that",
+        "options":  [
+                        "was that",
+                        "was what",
+                        "is that",
+                        "were that"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "Mais cedo ou mais tarde, você ______ que viajar muda a perspectiva.",
+        "correctAnswer":  "will realize",
+        "options":  [
+                        "realizes",
+                        "will realize",
+                        "realize",
+                        "realized"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "A experiência ______ uma lição valiosa sobre planejamento de viagens.",
+        "correctAnswer":  "was",
+        "options":  [
+                        "were",
+                        "was",
+                        "is",
+                        "have been"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "viagem",
+        "type":  "multiple_choice",
+        "questionText":  "A companhia aérea ______ compensação aos passageiros do voo atrasado.",
+        "difficulty":  "medium",
+        "options":  [
+                        "offer",
+                        "offers",
+                        "offered",
+                        "offering"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "offered"
+    }
+]

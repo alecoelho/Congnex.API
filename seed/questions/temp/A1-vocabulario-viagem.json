@@ -1,0 +1,512 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'airport' em português?",
+    "correctAnswer": "Aeroporto",
+    "options": ["Aeroporto", "Estação de trem", "Porto", "Rodoviária"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'hotel' em português?",
+    "correctAnswer": "Hotel",
+    "options": ["Hotel", "Restaurante", "Hospital", "Escola"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'passport' em português?",
+    "correctAnswer": "Passaporte",
+    "options": ["Passaporte", "Bilhete", "Mapa", "Carteira"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'ticket' em português?",
+    "correctAnswer": "Bilhete / Ingresso",
+    "options": ["Bilhete / Ingresso", "Passaporte", "Mala", "Mapa"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'map' em português?",
+    "correctAnswer": "Mapa",
+    "options": ["Mapa", "Mala", "Ônibus", "Trem"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'bus' em português?",
+    "correctAnswer": "Ônibus",
+    "options": ["Ônibus", "Avião", "Barco", "Bicicleta"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'taxi' em português?",
+    "correctAnswer": "Táxi",
+    "options": ["Táxi", "Metrô", "Trem", "Ônibus"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'train' em português?",
+    "correctAnswer": "Trem",
+    "options": ["Trem", "Avião", "Barco", "Ônibus"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'beach' em português?",
+    "correctAnswer": "Praia",
+    "options": ["Praia", "Montanha", "Floresta", "Deserto"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'city' em português?",
+    "correctAnswer": "Cidade",
+    "options": ["Cidade", "País", "Bairro", "Rua"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'bag' em português?",
+    "correctAnswer": "Bolsa / Sacola",
+    "options": ["Bolsa / Sacola", "Mala grande", "Chapéu", "Casaco"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'car' em português?",
+    "correctAnswer": "Carro",
+    "options": ["Carro", "Caminhão", "Moto", "Bicicleta"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'water' em português, no contexto de um restaurante durante uma viagem?",
+    "correctAnswer": "Água",
+    "options": ["Água", "Suco", "Vinho", "Leite"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'food' em português?",
+    "correctAnswer": "Comida",
+    "options": ["Comida", "Bebida", "Dinheiro", "Roupa"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'room' em português, no contexto de um hotel?",
+    "correctAnswer": "Quarto",
+    "options": ["Quarto", "Banheiro", "Corredor", "Recepção"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'plane' em português?",
+    "correctAnswer": "Avião",
+    "options": ["Avião", "Helicóptero", "Barco", "Trem"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'country' em português?",
+    "correctAnswer": "País",
+    "options": ["País", "Cidade", "Estado", "Continente"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'check-in' em português, no contexto de viagem?",
+    "correctAnswer": "Registro de entrada / Embarque",
+    "options": ["Registro de entrada / Embarque", "Saída do hotel", "Compra de passagem", "Retirada de bagagem"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'luggage' em português?",
+    "correctAnswer": "Bagagem",
+    "options": ["Bagagem", "Passaporte", "Bilhete", "Mapa"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'departure' em português?",
+    "correctAnswer": "Partida / Saída",
+    "options": ["Partida / Saída", "Chegada", "Atraso", "Conexão"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'arrival' em português?",
+    "correctAnswer": "Chegada",
+    "options": ["Chegada", "Partida", "Atraso", "Embarque"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'suitcase' em português?",
+    "correctAnswer": "Mala",
+    "options": ["Mala", "Mochila", "Bolsa", "Sacola"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'boarding pass' em português?",
+    "correctAnswer": "Cartão de embarque",
+    "options": ["Cartão de embarque", "Passaporte", "Visto de entrada", "Bilhete de ônibus"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'reservation' em português?",
+    "correctAnswer": "Reserva",
+    "options": ["Reserva", "Cancelamento", "Pagamento", "Desconto"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'tourist' em português?",
+    "correctAnswer": "Turista",
+    "options": ["Turista", "Guia", "Piloto", "Motorista"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'exchange' em português, no contexto de viagem internacional?",
+    "correctAnswer": "Câmbio / Troca de moeda",
+    "options": ["Câmbio / Troca de moeda", "Passaporte", "Seguro viagem", "Reserva de hotel"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'museum' em português?",
+    "correctAnswer": "Museu",
+    "options": ["Museu", "Igreja", "Teatro", "Biblioteca"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'free time' em português?",
+    "correctAnswer": "Tempo livre",
+    "options": ["Tempo livre", "Horário de embarque", "Hora do almoço", "Tempo de viagem"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'souvenir' em português?",
+    "correctAnswer": "Lembrança / Recordação de viagem",
+    "options": ["Lembrança / Recordação de viagem", "Bilhete de entrada", "Guia turístico", "Cartão postal"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'tour guide' em português?",
+    "correctAnswer": "Guia turístico",
+    "options": ["Guia turístico", "Motorista de táxi", "Recepcionista de hotel", "Agente de viagens"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'flight' em português?",
+    "correctAnswer": "Voo",
+    "options": ["Voo", "Viagem de barco", "Viagem de trem", "Passeio de ônibus"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'destination' em português?",
+    "correctAnswer": "Destino",
+    "options": ["Destino", "Origem", "Escala", "Rota"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'travel agent' em português?",
+    "correctAnswer": "Agente de viagens",
+    "options": ["Agente de viagens", "Piloto de avião", "Guia turístico", "Recepcionista"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'customs' em português, no contexto de aeroporto?",
+    "correctAnswer": "Alfândega",
+    "options": ["Alfândega", "Embarque", "Desembarque", "Sala de espera"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'round trip' em português?",
+    "correctAnswer": "Ida e volta",
+    "options": ["Ida e volta", "Somente ida", "Viagem de cruzeiro", "Pacote de viagem"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'itinerary' em português?",
+    "correctAnswer": "Roteiro / Itinerário",
+    "options": ["Roteiro / Itinerário", "Passaporte", "Reserva de hotel", "Visto de entrada"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'layover' em português, no contexto de voos?",
+    "correctAnswer": "Escala / Parada durante o voo",
+    "options": ["Escala / Parada durante o voo", "Chegada ao destino", "Embarque antecipado", "Excesso de bagagem"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'accommodation' em português?",
+    "correctAnswer": "Acomodação / Hospedagem",
+    "options": ["Acomodação / Hospedagem", "Transporte", "Alimentação", "Entretenimento"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'travel insurance' em português?",
+    "correctAnswer": "Seguro viagem",
+    "options": ["Seguro viagem", "Passaporte válido", "Cartão de embarque", "Visto de turista"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'currency' em português?",
+    "correctAnswer": "Moeda / Dinheiro local",
+    "options": ["Moeda / Dinheiro local", "Câmbio de banco", "Taxa de conversão", "Cartão de crédito"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'one-way ticket' em português?",
+    "correctAnswer": "Passagem somente de ida",
+    "options": ["Passagem somente de ida", "Passagem de ida e volta", "Passagem de primeira classe", "Passagem com escala"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'landmark' em português?",
+    "correctAnswer": "Ponto turístico / Marco histórico",
+    "options": ["Ponto turístico / Marco histórico", "Mapa da cidade", "Placa de rua", "Guia de viagem"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'carry-on baggage' em português?",
+    "correctAnswer": "Bagagem de mão",
+    "options": ["Bagagem de mão", "Bagagem despachada", "Excesso de bagagem", "Bagagem perdida"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'visa' em português, no contexto de viagem internacional?",
+    "correctAnswer": "Visto",
+    "options": ["Visto", "Passaporte", "Cartão de crédito", "Seguro viagem"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'bed and breakfast' em português?",
+    "correctAnswer": "Hospedagem com café da manhã incluído",
+    "options": ["Hospedagem com café da manhã incluído", "Hotel de luxo com todas as refeições", "Albergue para mochileiros", "Apartamento para temporada"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'ferry' em português?",
+    "correctAnswer": "Balsa / Ferry-boat",
+    "options": ["Balsa / Ferry-boat", "Avião de pequeno porte", "Trem de alta velocidade", "Ônibus expresso"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'jet lag' em português?",
+    "correctAnswer": "Cansaço causado pela diferença de fuso horário",
+    "options": ["Cansaço causado pela diferença de fuso horário", "Medo de voar de avião", "Atraso no voo internacional", "Perda de bagagem no aeroporto"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'hostel' em português?",
+    "correctAnswer": "Albergue / Hostel",
+    "options": ["Albergue / Hostel", "Hotel de luxo", "Apartamento de temporada", "Pousada rural"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'travel package' em português?",
+    "correctAnswer": "Pacote de viagem",
+    "options": ["Pacote de viagem", "Mala de viagem", "Seguro de bagagem", "Passaporte válido"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'port' em português, no contexto de viagem marítima?",
+    "correctAnswer": "Porto",
+    "options": ["Porto", "Aeroporto", "Estação", "Terminal"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'local time' em português?",
+    "correctAnswer": "Horário local",
+    "options": ["Horário local", "Fuso horário", "Diferença de horário", "Hora de partida"],
+    "difficulty": "hard"
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'bagagem de mão'?",
+    "correctAnswer": "hand luggage",
+    "options": ["hand luggage", "checked baggage", "travel document", "boarding pass"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Como se chama o documento necessário para viajar para outro país?",
+    "correctAnswer": "passport",
+    "options": ["passport", "ticket", "visa card", "boarding ticket"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual é a palavra em inglês para 'hospedagem'?",
+    "correctAnswer": "accommodation",
+    "options": ["accommodation", "transport", "sightseeing", "luggage"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'roteiro turístico'?",
+    "correctAnswer": "itinerary",
+    "options": ["itinerary", "destination", "souvenir", "guidebook"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Como se chama o lugar onde os aviões decolam e pousam?",
+    "correctAnswer": "airport",
+    "options": ["airport", "station", "terminal", "runway"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual é a palavra para 'reembolso' em inglês?",
+    "correctAnswer": "refund",
+    "options": ["refund", "discount", "payment", "deposit"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'cartão de embarque'?",
+    "correctAnswer": "boarding pass",
+    "options": ["boarding pass", "travel document", "luggage tag", "ticket stub"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Como se chama a taxa adicional cobrada pelas companhias aéreas?",
+    "correctAnswer": "surcharge",
+    "options": ["surcharge", "discount", "subsidy", "allowance"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'reserva'?",
+    "correctAnswer": "booking",
+    "options": ["booking", "cancellation", "extension", "upgrade"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'moeda estrangeira'?",
+    "correctAnswer": "foreign currency",
+    "options": ["foreign currency", "local money", "cash register", "change purse"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Como se chama um guia que acompanha turistas?",
+    "correctAnswer": "tour guide",
+    "options": ["tour guide", "travel agent", "concierge", "bellhop"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual é a palavra para 'destino' em inglês?",
+    "correctAnswer": "destination",
+    "options": ["destination", "departure", "arrival", "location"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'atrações turísticas'?",
+    "correctAnswer": "tourist attractions",
+    "options": ["tourist attractions", "travel tickets", "hotel amenities", "flight routes"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Como se chama a taxa de hospedagem por noite?",
+    "correctAnswer": "room rate",
+    "options": ["room rate", "package deal", "travel fee", "entrance fee"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'viagem redonda'?",
+    "correctAnswer": "round trip",
+    "options": ["round trip", "one way", "connecting flight", "transfer"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'check-in'?",
+    "correctAnswer": "registration at hotel or airport",
+    "options": ["registration at hotel or airport", "check-out from hotel", "departure from airport", "arrival at destination"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Como se chama a informação sobre pontos de interesse?",
+    "correctAnswer": "guidebook",
+    "options": ["guidebook", "brochure", "travel plan", "itinerary"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'voo direto'?",
+    "correctAnswer": "direct flight",
+    "options": ["direct flight", "connecting flight", "charter flight", "domestic flight"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual é a palavra para 'seguro de viagem'?",
+    "correctAnswer": "travel insurance",
+    "options": ["travel insurance", "health insurance", "baggage claim", "accident coverage"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Como se chama a área de desembarque de passageiros?",
+    "correctAnswer": "arrivals lounge",
+    "options": ["arrivals lounge", "departure lounge", "waiting area", "transit zone"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'conexão' em um voo?",
+    "correctAnswer": "connecting flight",
+    "options": ["connecting flight", "layover period", "transfer time", "route change"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'cinta de segurança' no avião?",
+    "correctAnswer": "seatbelt",
+    "options": ["seatbelt", "safety vest", "overhead bin", "emergency exit"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Como se chama o documento que autoriza entrada em outro país?",
+    "correctAnswer": "visa",
+    "options": ["visa", "passport stamp", "travel permit", "border pass"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'pousada'?",
+    "correctAnswer": "guesthouse",
+    "options": ["guesthouse", "hotel", "resort", "hostel"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual é a palavra para 'albergue para mochileiros'?",
+    "correctAnswer": "youth hostel",
+    "options": ["youth hostel", "budget hotel", "bed and breakfast", "shared accommodation"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Como se chama o serviço de transporte de malas para o quarto?",
+    "correctAnswer": "bellhop",
+    "options": ["bellhop", "concierge", "porter", "valet"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'piscina do hotel'?",
+    "correctAnswer": "swimming pool",
+    "options": ["swimming pool", "spa facilities", "fitness center", "recreation area"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'meia pensão'?",
+    "correctAnswer": "half board",
+    "options": ["half board", "full board", "room only", "all inclusive"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Como se chama um passeio de barco em turismo?",
+    "correctAnswer": "boat tour",
+    "options": ["boat tour", "cruise ship", "ferry ride", "sailing trip"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'passe de turista'?",
+    "correctAnswer": "tourist pass",
+    "options": ["tourist pass", "entry ticket", "souvenir card", "discount voucher"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual é a palavra para 'taxa de turismo'?",
+    "correctAnswer": "tourist tax",
+    "options": ["tourist tax", "entrance fee", "parking fee", "service charge"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Como se chama a reserva de hotel antecipada?",
+    "correctAnswer": "advance booking",
+    "options": ["advance booking", "early bird deal", "last minute offer", "walk-in reservation"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'cancelamento livre' para um voo?",
+    "correctAnswer": "free cancellation",
+    "options": ["free cancellation", "refundable ticket", "flexible booking", "change of date"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'bagagem extraviada'?",
+    "correctAnswer": "lost luggage",
+    "options": ["lost luggage", "damaged baggage", "delayed baggage", "excess baggage"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Como se chama a companhia que oferece tours turísticos?",
+    "correctAnswer": "tour operator",
+    "options": ["tour operator", "travel agency", "tourism board", "destination management"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'upgrade de classe'?",
+    "correctAnswer": "class upgrade",
+    "options": ["class upgrade", "seat selection", "priority boarding", "extra service"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual é a palavra para 'itinerário personalizado'?",
+    "correctAnswer": "bespoke itinerary",
+    "options": ["bespoke itinerary", "standard package", "group tour", "customized route"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Como se chama a taxa cobrada por noites extras?",
+    "correctAnswer": "late checkout fee",
+    "options": ["late checkout fee", "early bird discount", "extension rate", "daily surcharge"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'pacote all-inclusive'?",
+    "correctAnswer": "all-inclusive package",
+    "options": ["all-inclusive package", "partial board", "meals excluded", "activities à la carte"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'acomodação de luxo'?",
+    "correctAnswer": "luxury accommodation",
+    "options": ["luxury accommodation", "budget hostel", "basic room", "shared quarters"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Como se chama um documento de identidade quando viajando?",
+    "correctAnswer": "travel documents",
+    "options": ["travel documents", "boarding tickets", "hotel confirmation", "itinerary printout"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'conexão internacional'?",
+    "correctAnswer": "international connection",
+    "options": ["international connection", "domestic flight", "regional transfer", "local commute"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual é a palavra para 'franquia de bagagem'?",
+    "correctAnswer": "baggage allowance",
+    "options": ["baggage allowance", "luggage limit", "weight restriction", "carry-on policy"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Como se chama a área de espera no aeroporto antes do voo?",
+    "correctAnswer": "departure lounge",
+    "options": ["departure lounge", "transit area", "loading zone", "gate area"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'tarifa especial para grupos'?",
+    "correctAnswer": "group rate",
+    "options": ["group rate", "individual discount", "bulk purchase", "family plan"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'serviço de concierge'?",
+    "correctAnswer": "concierge service",
+    "options": ["concierge service", "room service", "housekeeping", "front desk"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Como se chama a autorização para residir temporariamente em outro país?",
+    "correctAnswer": "residence permit",
+    "options": ["residence permit", "tourist visa", "entry stamp", "travel authorization"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'programa de fidelização de hotel'?",
+    "correctAnswer": "loyalty program",
+    "options": ["loyalty program", "membership fee", "discount card", "rewards points"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'itinerário de negócios'?",
+    "correctAnswer": "business itinerary",
+    "options": ["business itinerary", "vacation schedule", "leisure plan", "tourist route"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Como se chama a confirmação de chegada de um voo?",
+    "correctAnswer": "arrival confirmation",
+    "options": ["arrival confirmation", "departure notice", "booking confirmation", "seat assignment"],
+    "difficulty": "hard"
+  }
+]

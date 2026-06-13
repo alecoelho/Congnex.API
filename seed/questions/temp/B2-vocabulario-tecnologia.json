@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027Download\u0027?",
+        "correctAnswer":  "Transferência de arquivos de um servidor para seu computador",
+        "options":  [
+                        "Transferência de arquivos de um servidor para seu computador",
+                        "Envio de dados pela internet",
+                        "Exclusão de um arquivo",
+                        "Limpeza do cache do navegador"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027Upload\u0027?",
+        "correctAnswer":  "Envio de arquivos do seu computador para um servidor",
+        "options":  [
+                        "Baixar um programa da internet",
+                        "Envio de arquivos do seu computador para um servidor",
+                        "Sincronizar dados entre dispositivos",
+                        "Compartilhar um link na internet"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027Browser\u0027?",
+        "correctAnswer":  "Programa para acessar a internet",
+        "options":  [
+                        "Um arquivo compactado",
+                        "Programa para acessar a internet",
+                        "Servidor de dados",
+                        "Sistema operacional"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027Cache\u0027?",
+        "correctAnswer":  "Armazenamento temporário de dados para acesso rápido",
+        "options":  [
+                        "Um tipo de senha",
+                        "Armazenamento temporário de dados para acesso rápido",
+                        "Vírus de computador",
+                        "Backup automático de arquivos"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027Server\u0027?",
+        "correctAnswer":  "Computador que fornece dados e serviços para outros computadores",
+        "options":  [
+                        "Um tipo de antivírus",
+                        "Computador que fornece dados e serviços para outros computadores",
+                        "Programa para editar imagens",
+                        "Ferramenta para comprimir arquivos"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027Password\u0027?",
+        "correctAnswer":  "Código secreto para acessar uma conta",
+        "options":  [
+                        "Um tipo de arquivo",
+                        "Código secreto para acessar uma conta",
+                        "Sistema operacional",
+                        "Programa antivírus"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027Email\u0027?",
+        "correctAnswer":  "Correspondência eletrônica enviada pela internet",
+        "options":  [
+                        "Um servidor de dados",
+                        "Correspondência eletrônica enviada pela internet",
+                        "Rede social",
+                        "Programa de edição de texto"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027Wi-Fi\u0027?",
+        "correctAnswer":  "Conexão sem fio para internet",
+        "options":  [
+                        "Um tipo de antivírus",
+                        "Conexão sem fio para internet",
+                        "Programa para enviar mensagens",
+                        "Dispositivo de armazenamento externo"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027URL\u0027?",
+        "correctAnswer":  "Endereço de um site na internet",
+        "options":  [
+                        "Um tipo de navegador",
+                        "Endereço de um site na internet",
+                        "Sistema de proteção contra vírus",
+                        "Programa para compactar arquivos"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027Cloud\u0027?",
+        "correctAnswer":  "Armazenamento de dados na internet",
+        "options":  [
+                        "Um tipo de navegador",
+                        "Armazenamento de dados na internet",
+                        "Sistema operacional",
+                        "Programa de edição de vídeos"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027Backup\u0027?",
+        "correctAnswer":  "Cópia de segurança de dados",
+        "options":  [
+                        "Exclusão de arquivos antigos",
+                        "Cópia de segurança de dados",
+                        "Sincronização automática",
+                        "Compressão de arquivos"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027App\u0027?",
+        "correctAnswer":  "Aplicativo de software",
+        "options":  [
+                        "Um tipo de arquivo compactado",
+                        "Aplicativo de software",
+                        "Servidor remoto",
+                        "Conexão de rede"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027Log in\u0027?",
+        "correctAnswer":  "Acessar uma conta com usuário e senha",
+        "options":  [
+                        "Sair de uma conta",
+                        "Acessar uma conta com usuário e senha",
+                        "Deletar um perfil",
+                        "Mudar a senha"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027Bandwidth\u0027?",
+        "correctAnswer":  "Capacidade de transferência de dados pela internet",
+        "options":  [
+                        "Um tipo de navegador",
+                        "Capacidade de transferência de dados pela internet",
+                        "Sistema de proteção",
+                        "Programa de compactação"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027Icon\u0027?",
+        "correctAnswer":  "Pequeno símbolo gráfico que representa um programa ou arquivo",
+        "options":  [
+                        "Um navegador de internet",
+                        "Pequeno símbolo gráfico que representa um programa ou arquivo",
+                        "Tipo de arquivo de vídeo",
+                        "Sistema de criptografia"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027Bug\u0027?",
+        "correctAnswer":  "Erro em um programa de computador",
+        "options":  [
+                        "Um tipo de vírus",
+                        "Erro em um programa de computador",
+                        "Sistema de segurança",
+                        "Dispositivo periférico"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027Scroll\u0027?",
+        "correctAnswer":  "Deslizar a página para cima ou para baixo",
+        "options":  [
+                        "Clicar em um botão",
+                        "Deslizar a página para cima ou para baixo",
+                        "Abrir um arquivo",
+                        "Fechar um programa"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027Firewall\u0027?",
+        "correctAnswer":  "Sistema de segurança que controla o tráfego de dados",
+        "options":  [
+                        "Um tipo de antivírus",
+                        "Sistema de segurança que controla o tráfego de dados",
+                        "Programa para limpar o disco",
+                        "Navegador de internet"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027Encryption\u0027?",
+        "correctAnswer":  "Codificação de dados para proteger as informações",
+        "options":  [
+                        "Transferência de dados pela internet",
+                        "Codificação de dados para proteger as informações",
+                        "Sincronização de arquivo",
+                        "Compressão de dados"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027Phishing\u0027?",
+        "correctAnswer":  "Tentativa fraudulenta de obter informações pessoais",
+        "options":  [
+                        "Um tipo de antivírus",
+                        "Tentativa fraudulenta de obter informações pessoais",
+                        "Sincronização de dados",
+                        "Compressão de arquivos"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027Interface\u0027?",
+        "correctAnswer":  "Meio de interação entre o usuário e o computador",
+        "options":  [
+                        "Um tipo de arquivo",
+                        "Meio de interação entre o usuário e o computador",
+                        "Sistema operacional",
+                        "Programa de segurança"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027Algorithm\u0027?",
+        "correctAnswer":  "Conjunto de instruções para resolver um problema",
+        "options":  [
+                        "Um tipo de arquivo",
+                        "Conjunto de instruções para resolver um problema",
+                        "Sistema de proteção",
+                        "Programa de compactação"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027Database\u0027?",
+        "correctAnswer":  "Coleção organizada de dados armazenada no computador",
+        "options":  [
+                        "Um tipo de navegador",
+                        "Coleção organizada de dados armazenada no computador",
+                        "Sistema operacional",
+                        "Programa antivírus"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027API\u0027?",
+        "correctAnswer":  "Interface que permite comunicação entre softwares diferentes",
+        "options":  [
+                        "Um tipo de arquivo",
+                        "Interface que permite comunicação entre softwares diferentes",
+                        "Sistema de criptografia",
+                        "Programa de compactação"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027Router\u0027?",
+        "correctAnswer":  "Dispositivo que conecta redes de computadores",
+        "options":  [
+                        "Um tipo de navegador",
+                        "Dispositivo que conecta redes de computadores",
+                        "Software antivírus",
+                        "Programa de edição de imagens"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027Malware\u0027?",
+        "correctAnswer":  "Software prejudicial que danifica o computador",
+        "options":  [
+                        "Um tipo de navegador",
+                        "Software prejudicial que danifica o computador",
+                        "Programa de limpeza de disco",
+                        "Sistema operacional"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027Spam\u0027?",
+        "correctAnswer":  "Mensagens não solicitadas enviadas em massa",
+        "options":  [
+                        "Um tipo de arquivo",
+                        "Mensagens não solicitadas enviadas em massa",
+                        "Sistema de proteção",
+                        "Programa de compactação"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027Widget\u0027?",
+        "correctAnswer":  "Pequeno aplicativo que fornece informações rápidas",
+        "options":  [
+                        "Um tipo de antivírus",
+                        "Pequeno aplicativo que fornece informações rápidas",
+                        "Sistema operacional",
+                        "Programa de edição"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027Drag and drop\u0027?",
+        "correctAnswer":  "Arrastar um objeto na tela e soltar em outro local",
+        "options":  [
+                        "Clicar duas vezes rapidamente",
+                        "Arrastar um objeto na tela e soltar em outro local",
+                        "Pressionar uma tecla",
+                        "Abrir um menu"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027Cookie\u0027?",
+        "correctAnswer":  "Pequeno arquivo que armazena informações do usuário",
+        "options":  [
+                        "Um tipo de antivírus",
+                        "Pequeno arquivo que armazena informações do usuário",
+                        "Sistema operacional",
+                        "Programa de compactação"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027Two-factor authentication\u0027?",
+        "correctAnswer":  "Sistema de segurança que requer duas formas de verificação",
+        "options":  [
+                        "Usar dois navegadores",
+                        "Sistema de segurança que requer duas formas de verificação",
+                        "Mudar a senha duas vezes",
+                        "Fazer backup de dois arquivos"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027VPN\u0027?",
+        "correctAnswer":  "Rede privada virtual que protege sua conexão",
+        "options":  [
+                        "Um tipo de navegador",
+                        "Rede privada virtual que protege sua conexão",
+                        "Sistema operacional",
+                        "Programa antivírus"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027Bandwidth throttling\u0027?",
+        "correctAnswer":  "Limitação intencional da velocidade de conexão",
+        "options":  [
+                        "Aceleração da internet",
+                        "Limitação intencional da velocidade de conexão",
+                        "Aumento de armazenamento",
+                        "Sincronização de dados"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027Latency\u0027?",
+        "correctAnswer":  "Tempo de atraso na transmissão de dados",
+        "options":  [
+                        "Velocidade máxima de download",
+                        "Tempo de atraso na transmissão de dados",
+                        "Capacidade de armazenamento",
+                        "Sistema de proteção"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027Zero-day exploit\u0027?",
+        "correctAnswer":  "Ataque a uma vulnerabilidade desconhecida do fabricante",
+        "options":  [
+                        "Ataque no primeiro dia do mês",
+                        "Ataque a uma vulnerabilidade desconhecida do fabricante",
+                        "Falha de sistema operacional",
+                        "Erro de sincronização"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027Regex\u0027 ou \u0027Regular expression\u0027?",
+        "correctAnswer":  "Padrão para buscar e manipular texto",
+        "options":  [
+                        "Um tipo de arquivo",
+                        "Padrão para buscar e manipular texto",
+                        "Sistema operacional",
+                        "Programa antivírus"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027Bytecode\u0027?",
+        "correctAnswer":  "Código intermediário que máquinas virtuais interpretam",
+        "options":  [
+                        "Um tipo de arquivo de vídeo",
+                        "Código intermediário que máquinas virtuais interpretam",
+                        "Sistema de criptografia",
+                        "Programa de compactação"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027Middleware\u0027?",
+        "correctAnswer":  "Software que conecta diferentes aplicações",
+        "options":  [
+                        "Um tipo de antivírus",
+                        "Software que conecta diferentes aplicações",
+                        "Sistema operacional",
+                        "Programa de edição"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027Bottleneck\u0027?",
+        "correctAnswer":  "Ponto de limitação que reduz o desempenho geral",
+        "options":  [
+                        "Um tipo de arquivo",
+                        "Ponto de limitação que reduz o desempenho geral",
+                        "Sistema de proteção",
+                        "Programa de compactação"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027Legacy system\u0027?",
+        "correctAnswer":  "Sistema antigo que ainda está em uso",
+        "options":  [
+                        "Um novo sistema operacional",
+                        "Sistema antigo que ainda está em uso",
+                        "Programa de segurança moderna",
+                        "Rede de internet rápida"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027Subnet mask\u0027?",
+        "correctAnswer":  "Endereço que define a faixa de rede",
+        "options":  [
+                        "Um tipo de navegador",
+                        "Endereço que define a faixa de rede",
+                        "Sistema operacional",
+                        "Programa antivírus"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027Daemon\u0027 ou \u0027Service\u0027?",
+        "correctAnswer":  "Programa que executa em background fornecendo serviços",
+        "options":  [
+                        "Um tipo de arquivo",
+                        "Programa que executa em background fornecendo serviços",
+                        "Sistema de criptografia",
+                        "Programa de limpeza"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027Distributed denial-of-service (DDoS)\u0027?",
+        "correctAnswer":  "Ataque onde múltiplos computadores sobrecarregam um servidor",
+        "options":  [
+                        "Falha de sincronização",
+                        "Ataque onde múltiplos computadores sobrecarregam um servidor",
+                        "Erro de backup",
+                        "Problema de armazenamento"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027Protocol\u0027?",
+        "correctAnswer":  "Conjunto de regras para comunicação entre computadores",
+        "options":  [
+                        "Um tipo de arquivo",
+                        "Conjunto de regras para comunicação entre computadores",
+                        "Sistema operacional",
+                        "Programa de edição"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027Hash function\u0027?",
+        "correctAnswer":  "Função que converte dados em sequência de caracteres única",
+        "options":  [
+                        "Um tipo de navegador",
+                        "Função que converte dados em sequência de caracteres única",
+                        "Sistema operacional",
+                        "Programa antivírus"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027SSL/TLS\u0027?",
+        "correctAnswer":  "Protocolo que criptografa a comunicação na web",
+        "options":  [
+                        "Um tipo de antivírus",
+                        "Protocolo que criptografa a comunicação na web",
+                        "Sistema operacional",
+                        "Programa de compactação"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027Load balancing\u0027?",
+        "correctAnswer":  "Distribuição de carga de trabalho entre múltiplos servidores",
+        "options":  [
+                        "Aumento de velocidade",
+                        "Distribuição de carga de trabalho entre múltiplos servidores",
+                        "Redução de armazenamento",
+                        "Sincronização de backup"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "vocabulario",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027Sandbox\u0027?",
+        "correctAnswer":  "Ambiente isolado para testar software de forma segura",
+        "options":  [
+                        "Um tipo de arquivo",
+                        "Ambiente isolado para testar software de forma segura",
+                        "Sistema operacional",
+                        "Programa de edição"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027Link\u0027?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Conexão entre duas páginas ou arquivos",
+                        "Um tipo de arquivo",
+                        "Sistema operacional",
+                        "Programa antivírus"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Conexão entre duas páginas ou arquivos"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "tecnologia",
+        "type":  "multiple_choice",
+        "questionText":  "O que é \u0027File\u0027?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Um tipo de antivírus",
+                        "Documento ou programa armazenado no computador",
+                        "Sistema operacional",
+                        "Rede de internet"
+                    ],
+        "questionType":  "vocabulario",
+        "correctAnswer":  "Documento ou programa armazenado no computador"
+    }
+]

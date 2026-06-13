@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer saber o preço de um produto em uma loja. O que você diz?",
+        "correctAnswer":  "How much is this?",
+        "options":  [
+                        "How much is this?",
+                        "Do you like this?",
+                        "Can I have this?",
+                        "Why is this here?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Seu colega pergunta: \u0027Can you help me with this task?\u0027 Como você responde positivamente?",
+        "correctAnswer":  "Yes, of course. I can help you.",
+        "options":  [
+                        "Yes, of course. I can help you.",
+                        "No, I am busy.",
+                        "I don\u0027t understand.",
+                        "Maybe later."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você chega no trabalho e quer cumprimentar seu chefe. O que você diz?",
+        "correctAnswer":  "Good morning. How are you?",
+        "options":  [
+                        "Good morning. How are you?",
+                        "Wake up!",
+                        "What\u0027s wrong?",
+                        "You look tired."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer marcar uma reunião com um cliente. O que você escreve no email?",
+        "correctAnswer":  "Can we meet next week?",
+        "options":  [
+                        "Can we meet next week?",
+                        "I don\u0027t want to see you.",
+                        "Why don\u0027t you call me?",
+                        "Meeting is boring."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Um cliente está insatisfeito com o serviço. O que você diz para ser educado?",
+        "correctAnswer":  "I\u0027m sorry about that. How can I help?",
+        "options":  [
+                        "I\u0027m sorry about that. How can I help?",
+                        "It\u0027s not my fault.",
+                        "You are wrong.",
+                        "Go away."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você precisa pedir um desconto no preço. Como você faz o pedido?",
+        "correctAnswer":  "Could you give me a discount?",
+        "options":  [
+                        "Could you give me a discount?",
+                        "The price is too high for me.",
+                        "I don\u0027t have money.",
+                        "Your prices are bad."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Seu colega pergunta se você conhece o novo sistema. Como você responde que sim?",
+        "correctAnswer":  "Yes, I know how to use it.",
+        "options":  [
+                        "Yes, I know how to use it.",
+                        "No, it\u0027s complicated.",
+                        "Maybe I can learn.",
+                        "I don\u0027t care."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer confirmar uma reunião por telefone. O que você diz?",
+        "correctAnswer":  "Is the meeting still on for tomorrow at 3 PM?",
+        "options":  [
+                        "Is the meeting still on for tomorrow at 3 PM?",
+                        "Do you like meetings?",
+                        "Tomorrow is bad.",
+                        "Call me later."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Um vendedor pergunta: \u0027Can I help you?\u0027 Como você responde que está apenas olhando?",
+        "correctAnswer":  "No, thanks. I\u0027m just looking.",
+        "options":  [
+                        "No, thanks. I\u0027m just looking.",
+                        "I need everything.",
+                        "Your store is bad.",
+                        "Too expensive."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer saber qual é o método de pagamento aceito. O que você pergunta?",
+        "correctAnswer":  "Do you accept credit cards?",
+        "options":  [
+                        "Do you accept credit cards?",
+                        "I have no money.",
+                        "This is expensive.",
+                        "Where is the ATM?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Seu chefe pede sua opinião sobre um projeto. Como você responde?",
+        "correctAnswer":  "I think it\u0027s a good idea.",
+        "options":  [
+                        "I think it\u0027s a good idea.",
+                        "I don\u0027t want to work.",
+                        "It\u0027s your problem.",
+                        "Ask someone else."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você precisa avisar que será atrasado para o trabalho. O que você faz?",
+        "correctAnswer":  "I\u0027ll be late today. I\u0027m sorry.",
+        "options":  [
+                        "I\u0027ll be late today. I\u0027m sorry.",
+                        "I\u0027m not coming.",
+                        "Work is not important.",
+                        "See you tomorrow."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Um cliente quer saber sobre a qualidade do produto. O que você responde?",
+        "correctAnswer":  "Our products are very good quality.",
+        "options":  [
+                        "Our products are very good quality.",
+                        "They are not expensive.",
+                        "Everyone buys them.",
+                        "They are old."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer pedir ao seu colega para compartilhar informações. Como você faz?",
+        "correctAnswer":  "Can you share that information with me?",
+        "options":  [
+                        "Can you share that information with me?",
+                        "I don\u0027t need it.",
+                        "Tell no one.",
+                        "Keep it secret."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você precisa se apresentar em uma reunião de negócios. O que você diz?",
+        "correctAnswer":  "Hello. My name is [Your Name]. I work in sales.",
+        "options":  [
+                        "Hello. My name is [Your Name]. I work in sales.",
+                        "I am tired.",
+                        "Don\u0027t ask me questions.",
+                        "This is boring."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Um cliente pergunta: \u0027Do you have this item in stock?\u0027 Como você responde que sim?",
+        "correctAnswer":  "Yes, we have it in stock.",
+        "options":  [
+                        "Yes, we have it in stock.",
+                        "We don\u0027t sell that.",
+                        "Come back later.",
+                        "It\u0027s too popular."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer fazer uma sugestão sobre como melhorar o processo. Como você começa?",
+        "correctAnswer":  "I have a suggestion. What if we try a different approach?",
+        "options":  [
+                        "I have a suggestion. What if we try a different approach?",
+                        "This is wrong.",
+                        "Nobody cares.",
+                        "I don\u0027t know."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Um fornecedor pergunta sobre suas necessidades. Como você responde detalhadamente?",
+        "correctAnswer":  "We need 100 units per month for the next three months.",
+        "options":  [
+                        "We need 100 units per month for the next three months.",
+                        "Just send some.",
+                        "As much as possible.",
+                        "I\u0027m not sure."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você recebe uma reclamação de um cliente sobre entrega atrasada. Como você responde?",
+        "correctAnswer":  "I apologize for the delay. We will send it today.",
+        "options":  [
+                        "I apologize for the delay. We will send it today.",
+                        "It\u0027s not my problem.",
+                        "The traffic is bad.",
+                        "Try ordering again."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer negociar o preço com um fornecedor. Como você inicia a negociação?",
+        "correctAnswer":  "Is there any possibility to reduce the price?",
+        "options":  [
+                        "Is there any possibility to reduce the price?",
+                        "Your price is wrong.",
+                        "Everyone is cheaper.",
+                        "I need it for free."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Seu gerente quer saber sobre o progresso do projeto. Como você relatoria?",
+        "correctAnswer":  "The project is on schedule. We should finish next week.",
+        "options":  [
+                        "The project is on schedule. We should finish next week.",
+                        "I don\u0027t know what\u0027s happening.",
+                        "It\u0027s too difficult.",
+                        "Maybe never."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer explicar a política de retorno para um cliente. Como começa?",
+        "correctAnswer":  "If you are not satisfied, you can return it within 30 days.",
+        "options":  [
+                        "If you are not satisfied, you can return it within 30 days.",
+                        "No returns allowed.",
+                        "We don\u0027t accept returns.",
+                        "Keep everything you buy."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Um colega pede feedback sobre seu trabalho. Como você responde de forma construtiva?",
+        "correctAnswer":  "Your report is well organized, but you could add more details.",
+        "options":  [
+                        "Your report is well organized, but you could add more details.",
+                        "It\u0027s terrible.",
+                        "Don\u0027t ask me.",
+                        "I didn\u0027t read it."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você precisa informar sobre uma mudança de horário de funcionamento. Como você anuncia?",
+        "correctAnswer":  "From next Monday, we will open at 9 AM instead of 8 AM.",
+        "options":  [
+                        "From next Monday, we will open at 9 AM instead of 8 AM.",
+                        "We\u0027re closing.",
+                        "Come whenever you want.",
+                        "Nobody cares about hours."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Um cliente quer saber sobre garantia do produto. Como você explica?",
+        "correctAnswer":  "This product has a one-year warranty against defects.",
+        "options":  [
+                        "This product has a one-year warranty against defects.",
+                        "No warranty.",
+                        "It\u0027s your problem if it breaks.",
+                        "Warranty costs extra."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer pedir aumento de salário ao seu chefe. Como você apresenta o caso?",
+        "correctAnswer":  "I\u0027ve been working hard and my responsibilities have increased. I think I deserve a salary increase.",
+        "options":  [
+                        "I\u0027ve been working hard and my responsibilities have increased. I think I deserve a salary increase.",
+                        "I need more money.",
+                        "Give me a raise or I\u0027ll quit.",
+                        "Everyone makes more than me."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Um cliente pergunta sobre condições de pagamento a prazo. Como você responde?",
+        "correctAnswer":  "We can offer you payment in three monthly installments.",
+        "options":  [
+                        "We can offer you payment in three monthly installments.",
+                        "You must pay now.",
+                        "We only accept cash.",
+                        "Payment plans don\u0027t exist."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer confirmar detalhes de um pedido por email. Como você estrutura?",
+        "correctAnswer":  "I would like to confirm: we ordered 50 units at $10 each, total $500, delivery next Friday.",
+        "options":  [
+                        "I would like to confirm: we ordered 50 units at $10 each, total $500, delivery next Friday.",
+                        "We want something.",
+                        "Send whatever you want.",
+                        "I forgot the details."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Um fornecedor informa que o preço aumentará. Como você responde diplomaticamente?",
+        "correctAnswer":  "I understand. Can we discuss the impact on our agreement?",
+        "options":  [
+                        "I understand. Can we discuss the impact on our agreement?",
+                        "That\u0027s not acceptable. Goodbye.",
+                        "You\u0027re stealing from us.",
+                        "We\u0027ll buy from someone else."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você precisa lidar com uma solicitação de orçamento. Como você responde?",
+        "correctAnswer":  "I can send you a detailed quote. Can you tell me exactly what you need?",
+        "options":  [
+                        "I can send you a detailed quote. Can you tell me exactly what you need?",
+                        "A quote is too expensive.",
+                        "We don\u0027t do quotes.",
+                        "Just guess the price."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Um cliente quer saber sobre descontos para pedidos em volume. Como você oferece?",
+        "correctAnswer":  "For orders over 500 units, we offer a 10% discount.",
+        "options":  [
+                        "For orders over 500 units, we offer a 10% discount.",
+                        "Big orders cost more.",
+                        "Discounts don\u0027t exist.",
+                        "Buy less to save money."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você precisa relatar um problema técnico ao suporte. Como você descreve?",
+        "correctAnswer":  "The system is slow and freezing when I try to process payments.",
+        "options":  [
+                        "The system is slow and freezing when I try to process payments.",
+                        "It doesn\u0027t work.",
+                        "It\u0027s broken.",
+                        "I don\u0027t know what\u0027s wrong."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Um cliente reclama que recebeu produto diferente do pedido. Como você trata?",
+        "correctAnswer":  "I sincerely apologize for this error. I will arrange an exchange immediately.",
+        "options":  [
+                        "I sincerely apologize for this error. I will arrange an exchange immediately.",
+                        "That\u0027s what you ordered.",
+                        "We can\u0027t change anything.",
+                        "Tough luck."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você precisa comunicar uma mudança importante de política aos clientes. Como você estrutura?",
+        "correctAnswer":  "Effective from January 1st, we will no longer accept cash payments. Only credit cards and bank transfers.",
+        "options":  [
+                        "Effective from January 1st, we will no longer accept cash payments. Only credit cards and bank transfers.",
+                        "Things are changing.",
+                        "Rules are new now.",
+                        "Deal with it."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Um fornecedor oferece condições especiais. Como você demonstra interesse enquanto negocia?",
+        "correctAnswer":  "That\u0027s interesting. However, we need to evaluate how this fits with our budget.",
+        "options":  [
+                        "That\u0027s interesting. However, we need to evaluate how this fits with our budget.",
+                        "We\u0027ll take it immediately.",
+                        "No, never.",
+                        "Tell us later."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer estabelecer relacionamento de longo prazo com cliente novo. Como você aborda?",
+        "correctAnswer":  "We would like to establish a long-term partnership with you. Let\u0027s discuss how we can support your business growth.",
+        "options":  [
+                        "We would like to establish a long-term partnership with you. Let\u0027s discuss how we can support your business growth.",
+                        "Just buy from us.",
+                        "We only do one-time sales.",
+                        "Relationships don\u0027t matter."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Um cliente questiona a qualidade vs. preço. Como você justifica?",
+        "correctAnswer":  "Although our price is higher, the superior quality and durability justify the investment.",
+        "options":  [
+                        "Although our price is higher, the superior quality and durability justify the investment.",
+                        "You get what you pay for.",
+                        "Cheap is always better.",
+                        "Quality doesn\u0027t matter."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você precisa informar sobre atraso de entrega esperado. Como você comunica profissionalmente?",
+        "correctAnswer":  "Due to unforeseen circumstances, your order will be delayed by one week. We appreciate your patience.",
+        "options":  [
+                        "Due to unforeseen circumstances, your order will be delayed by one week. We appreciate your patience.",
+                        "It will be late.",
+                        "Something happened.",
+                        "We lost your order."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Um vendedor concorrente oferece melhores condições. Como você responde mantendo o cliente?",
+        "correctAnswer":  "I understand their offer is attractive, but consider our proven track record and superior customer support.",
+        "options":  [
+                        "I understand their offer is attractive, but consider our proven track record and superior customer support.",
+                        "Go with them then.",
+                        "We\u0027ll match any price.",
+                        "Nobody else matters."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer sugerir um cronograma de implementação para novo projeto. Como apresenta?",
+        "correctAnswer":  "I propose the following timeline: Phase 1 - 2 weeks, Phase 2 - 3 weeks, Phase 3 - final quality check - 1 week.",
+        "options":  [
+                        "I propose the following timeline: Phase 1 - 2 weeks, Phase 2 - 3 weeks, Phase 3 - final quality check - 1 week.",
+                        "It will take some time.",
+                        "Do it quickly.",
+                        "I don\u0027t plan."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Um cliente quer conhecer suas políticas de suporte pós-venda. Como você explica?",
+        "correctAnswer":  "We offer free technical support for 12 months. For issues beyond that period, we charge a service fee.",
+        "options":  [
+                        "We offer free technical support for 12 months. For issues beyond that period, we charge a service fee.",
+                        "Support costs money.",
+                        "No support at all.",
+                        "Forever support is free."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você precisa responder a uma oferta de compra de sua empresa. Como você trata formalmente?",
+        "correctAnswer":  "Thank you for your interest. We appreciate the offer and would like to discuss the details and valuation with our management team.",
+        "options":  [
+                        "Thank you for your interest. We appreciate the offer and would like to discuss the details and valuation with our management team.",
+                        "We\u0027re not for sale.",
+                        "Offer us more money.",
+                        "Call us tomorrow."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Um cliente tem dúvida sobre termos de contrato. Como você explica claramente?",
+        "correctAnswer":  "This clause means that if either party wants to end the contract, they must provide 60 days notice.",
+        "options":  [
+                        "This clause means that if either party wants to end the contract, they must provide 60 days notice.",
+                        "Contracts are confusing.",
+                        "Just sign it.",
+                        "I don\u0027t understand contracts."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer explicar por que seu produto é diferente do concorrente. Como você diferencia?",
+        "correctAnswer":  "Unlike competitors, we use sustainable materials and offer a five-year warranty.",
+        "options":  [
+                        "Unlike competitors, we use sustainable materials and offer a five-year warranty.",
+                        "We\u0027re better than them.",
+                        "Everyone is the same.",
+                        "I don\u0027t know the difference."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Um cliente pergunta sobre certificações do seu produto. Como você responde com autoridade?",
+        "correctAnswer":  "Our products are certified by ISO 9001 and comply with all international safety standards.",
+        "options":  [
+                        "Our products are certified by ISO 9001 and comply with all international safety standards.",
+                        "They\u0027re safe.",
+                        "I think so.",
+                        "We don\u0027t check certifications."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer propor uma reunião estratégica com stakeholders importantes. Como convida?",
+        "correctAnswer":  "I would like to arrange a strategic meeting with all key stakeholders to align on our quarterly objectives.",
+        "options":  [
+                        "I would like to arrange a strategic meeting with all key stakeholders to align on our quarterly objectives.",
+                        "Let\u0027s have a meeting.",
+                        "Come to my office.",
+                        "We need to talk."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Um fornecedor cancela um grande pedido. Como você responde mantendo a relacionamento?",
+        "correctAnswer":  "I understand circumstances have changed. Let\u0027s discuss how we can adjust the arrangement to work for both parties.",
+        "options":  [
+                        "I understand circumstances have changed. Let\u0027s discuss how we can adjust the arrangement to work for both parties.",
+                        "That\u0027s unacceptable. You\u0027re fired.",
+                        "We\u0027ll sue you.",
+                        "Whatever happens, happens."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Um cliente quer saber se seu produto é novo ou usado. Como você responde?",
+        "difficulty":  "easy",
+        "options":  [
+                        "This is a brand new product.",
+                        "It\u0027s not important.",
+                        "It was used before.",
+                        "We don\u0027t know."
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "This is a brand new product."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer saber se um cliente está satisfeito com o atendimento. Como pergunta?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Are you satisfied with our service?",
+                        "Do you like us?",
+                        "Service is good, right?",
+                        "You seem happy."
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "Are you satisfied with our service?"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Um cliente quer conhecer seus horários de atendimento. Como você informa?",
+        "difficulty":  "medium",
+        "options":  [
+                        "We are open from 9 AM to 6 PM, Monday to Friday.",
+                        "Come whenever you want.",
+                        "We\u0027re always open.",
+                        "Check the sign."
+                    ],
+        "questionType":  "funcoes_comunicativas",
+        "correctAnswer":  "We are open from 9 AM to 6 PM, Monday to Friday."
+    }
+]

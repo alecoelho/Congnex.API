@@ -1,0 +1,502 @@
+[
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O filme ganhou o Oscar de melhor direção, e o diretor subiu ao palco para ___ o prêmio com emoção.",
+    "correctAnswer": "accept",
+    "options": ["accept", "receive", "gain", "collect"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "A banda fez um ___ surpresa no festival, deixando o público completamente animado.",
+    "correctAnswer": "cameo",
+    "options": ["cameo", "debut", "solo", "encore"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "A série de televisão foi renovada para uma segunda temporada devido ao seu enorme ___ entre os espectadores.",
+    "correctAnswer": "success",
+    "options": ["success", "outcome", "result", "profit"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O ator principal da peça teatral recebeu uma ___ de pé ao final do espetáculo.",
+    "correctAnswer": "standing ovation",
+    "options": ["standing ovation", "round of applause", "loud cheer", "warm welcome"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O novo álbum do artista estreou no ___ da Billboard 200, vendendo mais de 500 mil cópias na primeira semana.",
+    "correctAnswer": "top",
+    "options": ["top", "peak", "lead", "front"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O romance ganhou o Booker Prize e rapidamente se tornou um ___ internacional.",
+    "correctAnswer": "bestseller",
+    "options": ["bestseller", "blockbuster", "hit", "smash"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O documentário revelou aspectos desconhecidos da vida ___ do famoso músico.",
+    "correctAnswer": "backstage",
+    "options": ["backstage", "offstage", "behind-the-scenes", "private"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "A exposição de arte moderna atraiu milhares de visitantes ao museu durante o ___ de abertura.",
+    "correctAnswer": "opening night",
+    "options": ["opening night", "launch day", "first show", "premiere evening"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "A cantora decidiu fazer um ___ após anos sem lançar músicas, surpreendendo os fãs.",
+    "correctAnswer": "comeback",
+    "options": ["comeback", "return", "revival", "relaunch"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O diretor de cinema é conhecido por seu estilo visual único e altamente ___ que define cada um de seus filmes.",
+    "correctAnswer": "distinctive",
+    "options": ["distinctive", "peculiar", "strange", "odd"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "A peça foi encenada em um teatro ___, com apenas cem lugares disponíveis para cada apresentação.",
+    "correctAnswer": "intimate",
+    "options": ["intimate", "small", "narrow", "limited"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O festival de jazz acontece ___ todo mês de julho na cidade de Nova Orleães.",
+    "correctAnswer": "annually",
+    "options": ["annually", "yearly", "routinely", "periodically"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O roteiro do filme foi escrito em apenas duas semanas, o que é considerado um verdadeiro ___ criativo.",
+    "correctAnswer": "feat",
+    "options": ["feat", "achievement", "victory", "triumph"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "A galeria decidiu ___ a coleção de pinturas impressionistas para o museu de Paris.",
+    "correctAnswer": "loan",
+    "options": ["loan", "lend", "donate", "send"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O videogame foi lançado com uma edição ___ que incluía arte exclusiva e itens colecionáveis.",
+    "correctAnswer": "collector's",
+    "options": ["collector's", "special", "deluxe", "premium"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "A atriz recebeu críticas ___ por sua interpretação emocionante no drama histórico.",
+    "correctAnswer": "rave",
+    "options": ["rave", "glowing", "warm", "positive"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O concerto foi transmitido ___ para todo o mundo através da plataforma de streaming.",
+    "correctAnswer": "live",
+    "options": ["live", "direct", "real-time", "online"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "A crítica literária descreveu o romance como uma obra que ___ os limites do gênero policial.",
+    "correctAnswer": "pushes",
+    "options": ["pushes", "breaks", "crosses", "bends"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O filme de arte foi exibido em uma ___ limitada nos cinemas antes de chegar às plataformas digitais.",
+    "correctAnswer": "run",
+    "options": ["run", "release", "showing", "screening"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "A obra escultórica foi considerada ___ por combinar elementos da arte clássica com a estética contemporânea.",
+    "correctAnswer": "groundbreaking",
+    "options": ["groundbreaking", "revolutionary", "innovative", "pioneering"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O compositor decidiu ___ à tradição musical de sua terra natal ao criar a sinfonia.",
+    "correctAnswer": "pay homage",
+    "options": ["pay homage", "pay tribute", "give credit", "show respect"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "A série documental levantou questões ___ sobre os impactos da fama na saúde mental dos artistas.",
+    "correctAnswer": "pertinent",
+    "options": ["pertinent", "relevant", "important", "pressing"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O espetáculo de dança foi elogiado pela perfeita ___ entre os movimentos dos bailarinos e a música ao vivo.",
+    "correctAnswer": "synchrony",
+    "options": ["synchrony", "harmony", "coordination", "alignment"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O autor utilizou a técnica narrativa do ___ para revelar gradualmente o passado traumático do protagonista.",
+    "correctAnswer": "flashback",
+    "options": ["flashback", "foreshadowing", "backstory", "exposition"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O músico acusado de plágio conseguiu provar que a semelhança entre as músicas era ___ e não intencional.",
+    "correctAnswer": "coincidental",
+    "options": ["coincidental", "accidental", "unintentional", "incidental"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "A produtora cinematográfica apostou em um elenco ___ para garantir o apelo global do filme.",
+    "correctAnswer": "ensemble",
+    "options": ["ensemble", "varied", "mixed", "diverse"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "A instalação artística foi projetada para ___ o visitante em uma experiência sensorial completa.",
+    "correctAnswer": "immerse",
+    "options": ["immerse", "involve", "engage", "absorb"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O crítico afirmou que o livro é uma ___ satírica da sociedade de consumo contemporânea.",
+    "correctAnswer": "scathing",
+    "options": ["scathing", "sharp", "harsh", "biting"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O festival atraiu artistas de ___ mundial, tornando-se um dos eventos mais relevantes do circuito cultural.",
+    "correctAnswer": "renown",
+    "options": ["renown", "fame", "prestige", "acclaim"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "A saga literária foi adaptada para o cinema em uma trilogia que ___ fielmente o universo original.",
+    "correctAnswer": "captured",
+    "options": ["captured", "portrayed", "depicted", "rendered"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "A cantora utilizou sua música como veículo para ___ questões sociais urgentes para o grande público.",
+    "correctAnswer": "bring",
+    "options": ["bring", "raise", "voice", "address"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O museu lançou uma campanha para ___ fundos para a restauração de obras danificadas pelo tempo.",
+    "correctAnswer": "raise",
+    "options": ["raise", "collect", "gather", "accumulate"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O roteirista foi contratado para dar uma ___ ao script original, modernizando sua linguagem e temas.",
+    "correctAnswer": "revamp",
+    "options": ["revamp", "refresh", "revision", "overhaul"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "A peça foi encenada com um cenário ___, usando apenas luz e sombra para criar a atmosfera dramática.",
+    "correctAnswer": "minimalist",
+    "options": ["minimalist", "sparse", "bare", "stripped"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O álbum conceitual do artista foi amplamente considerado como seu ___ opus, consolidando seu legado.",
+    "correctAnswer": "magnum",
+    "options": ["magnum", "greatest", "defining", "finest"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O diretor é conhecido por seu uso ___ da mise-en-scène para transmitir estados psicológicos dos personagens.",
+    "correctAnswer": "masterly",
+    "options": ["masterly", "masterful", "virtuosic", "consummate"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "A instalação artística desafia a ___ entre o observador e a obra, tornando o público parte integrante da peça.",
+    "correctAnswer": "dichotomy",
+    "options": ["dichotomy", "boundary", "distinction", "barrier"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "A obra literária emprega uma narrativa ___ que subverte as expectativas do leitor ao revelar o narrador como não confiável.",
+    "correctAnswer": "unreliable",
+    "options": ["unreliable", "deceptive", "misleading", "ambiguous"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O compositor utilizou técnicas ___ como clusters tonais e polirritmos para criar uma atmosfera de tensão crescente.",
+    "correctAnswer": "avant-garde",
+    "options": ["avant-garde", "modernist", "experimental", "contemporary"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "A crítica apontou que o filme sofre de ___, tentando abordar demasiados temas sem aprofundar nenhum.",
+    "correctAnswer": "diffuseness",
+    "options": ["diffuseness", "sprawl", "fragmentation", "overreach"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O artista plástico é reconhecido por sua habilidade em ___ diferentes tradições culturais em uma estética singular.",
+    "correctAnswer": "synthesize",
+    "options": ["synthesize", "merge", "blend", "amalgamate"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "A dramaturga utiliza o recurso do ___ brechtiano para romper com a ilusão teatral e provocar reflexão crítica no público.",
+    "correctAnswer": "Verfremdungseffekt",
+    "options": ["Verfremdungseffekt", "catharsis", "mimesis", "diegesis"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O romance é considerado uma obra ___ por ter antecipado décadas antes os dilemas éticos da era digital.",
+    "correctAnswer": "prescient",
+    "options": ["prescient", "prophetic", "visionary", "clairvoyant"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "A cinematografia do filme se destaca pelo uso ___ do chiaroscuro para intensificar o suspense psicológico.",
+    "correctAnswer": "chiaroscuro",
+    "options": ["chiaroscuro", "tenebrism", "sfumato", "impasto"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "A obra do pintor é frequentemente classificada dentro do movimento ___, caracterizado pela distorção expressiva da forma humana.",
+    "correctAnswer": "expressionist",
+    "options": ["expressionist", "surrealist", "cubist", "fauviست"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "A produção operística recebeu críticas mistas por sua encenação ___, que recontextualizou a obra original em um cenário futurista.",
+    "correctAnswer": "anachronistic",
+    "options": ["anachronistic", "revisionist", "transgressive", "subversive"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O roteirista foi elogiado pela sua capacidade de construir diálogos que soam ___, capturando a cadência real da fala contemporânea.",
+    "correctAnswer": "vernacular",
+    "options": ["vernacular", "colloquial", "idiomatic", "naturalistic"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "O festival de cinema independente se tornou um importante ___ para novos cineastas apresentarem suas visões ao mundo.",
+    "correctAnswer": "launchpad",
+    "options": ["launchpad", "springboard", "platform", "vehicle"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "A narrativa do documentário adota uma perspectiva ___, deixando o público tirar suas próprias conclusões sem interferência editorial.",
+    "correctAnswer": "non-judgmental",
+    "options": ["non-judgmental", "impartial", "objective", "detached"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "cultura_entretenimento",
+    "type": "complete_sentence",
+    "questionText": "A cantora foi aclamada por sua capacidade de ___ um amplo espectro emocional com a voz, indo do frágil ao poderoso.",
+    "correctAnswer": "convey",
+    "options": ["convey", "express", "project", "channel"],
+    "difficulty": "hard"
+  }
+]

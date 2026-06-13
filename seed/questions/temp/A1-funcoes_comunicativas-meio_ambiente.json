@@ -1,0 +1,512 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que gosta de árvores. O que você diz?",
+    "correctAnswer": "I like trees.",
+    "options": ["I like trees.", "I have trees.", "I see trees.", "I want trees."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer falar que a água está limpa. O que você diz?",
+    "correctAnswer": "The water is clean.",
+    "options": ["The water is clean.", "The water is big.", "The water is happy.", "The water is old."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar onde está o lixo. O que você pergunta?",
+    "correctAnswer": "Where is the trash?",
+    "options": ["Where is the trash?", "What is the trash?", "Who is the trash?", "When is the trash?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que o parque é bonito. O que você diz?",
+    "correctAnswer": "The park is beautiful.",
+    "options": ["The park is beautiful.", "The park is small.", "The park is hot.", "The park is new."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que recicla papel. O que você diz?",
+    "correctAnswer": "I recycle paper.",
+    "options": ["I recycle paper.", "I eat paper.", "I buy paper.", "I open paper."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que o sol é quente. O que você diz?",
+    "correctAnswer": "The sun is hot.",
+    "options": ["The sun is hot.", "The sun is cold.", "The sun is green.", "The sun is small."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer falar que há flores no jardim. O que você diz?",
+    "correctAnswer": "There are flowers in the garden.",
+    "options": ["There are flowers in the garden.", "There are flowers in the box.", "There are flowers in the book.", "There are flowers in the car."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que o rio é azul. O que você diz?",
+    "correctAnswer": "The river is blue.",
+    "options": ["The river is blue.", "The river is red.", "The river is yellow.", "The river is black."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar se seu amigo gosta de animais. O que você pergunta?",
+    "correctAnswer": "Do you like animals?",
+    "options": ["Do you like animals?", "Are you like animals?", "Have you like animals?", "Can you like animals?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que planta árvores. O que você diz?",
+    "correctAnswer": "I plant trees.",
+    "options": ["I plant trees.", "I cut trees.", "I eat trees.", "I draw trees."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que o ar está sujo. O que você diz?",
+    "correctAnswer": "The air is dirty.",
+    "options": ["The air is dirty.", "The air is happy.", "The air is long.", "The air is sweet."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que vê um pássaro. O que você diz?",
+    "correctAnswer": "I see a bird.",
+    "options": ["I see a bird.", "I hear a bird.", "I have a bird.", "I make a bird."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que a praia é grande. O que você diz?",
+    "correctAnswer": "The beach is big.",
+    "options": ["The beach is big.", "The beach is fast.", "The beach is loud.", "The beach is short."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que não joga lixo no chão. O que você diz?",
+    "correctAnswer": "I don't throw trash on the ground.",
+    "options": ["I don't throw trash on the ground.", "I don't eat trash on the ground.", "I don't see trash on the ground.", "I don't have trash on the ground."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar a cor do céu. O que você pergunta?",
+    "correctAnswer": "What color is the sky?",
+    "options": ["What color is the sky?", "Where color is the sky?", "Who color is the sky?", "When color is the sky?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que ama a natureza. O que você diz?",
+    "correctAnswer": "I love nature.",
+    "options": ["I love nature.", "I open nature.", "I break nature.", "I close nature."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que a floresta é verde. O que você diz?",
+    "correctAnswer": "The forest is green.",
+    "options": ["The forest is green.", "The forest is pink.", "The forest is white.", "The forest is purple."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer para alguém economizar água. O que você diz?",
+    "correctAnswer": "Save water, please.",
+    "options": ["Save water, please.", "Drink water, please.", "Buy water, please.", "Cook water, please."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer explicar que apaga a luz quando sai do quarto. O que você diz?",
+    "correctAnswer": "I turn off the light when I leave the room.",
+    "options": ["I turn off the light when I leave the room.", "I turn on the light when I leave the room.", "I open the light when I leave the room.", "I close the light when I leave the room."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar se há um parque perto daqui. O que você pergunta?",
+    "correctAnswer": "Is there a park near here?",
+    "options": ["Is there a park near here?", "Are there a park near here?", "Have there a park near here?", "Do there a park near here?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que os peixes vivem na água. O que você diz?",
+    "correctAnswer": "Fish live in water.",
+    "options": ["Fish live in water.", "Fish live in trees.", "Fish live in mountains.", "Fish live in the sky."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar quantas árvores há na floresta. O que você pergunta?",
+    "correctAnswer": "How many trees are in the forest?",
+    "options": ["How many trees are in the forest?", "How much trees are in the forest?", "How old trees are in the forest?", "How big trees are in the forest?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir para alguém não desperdiçar comida. O que você diz?",
+    "correctAnswer": "Please don't waste food.",
+    "options": ["Please don't waste food.", "Please don't eat food.", "Please don't buy food.", "Please don't cook food."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que seu bairro tem muitas plantas. O que você diz?",
+    "correctAnswer": "My neighborhood has many plants.",
+    "options": ["My neighborhood has many plants.", "My neighborhood does many plants.", "My neighborhood makes many plants.", "My neighborhood sees many plants."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que vai ao trabalho de bicicleta para ajudar o meio ambiente. O que você diz?",
+    "correctAnswer": "I go to work by bike to help the environment.",
+    "options": ["I go to work by bike to help the environment.", "I go to work by car to help the environment.", "I go to work by bus to help the environment.", "I go to work by plane to help the environment."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar se aquele animal é selvagem. O que você pergunta?",
+    "correctAnswer": "Is that animal wild?",
+    "options": ["Is that animal wild?", "Is that animal fast?", "Is that animal happy?", "Is that animal small?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que usa sacolas reutilizáveis no mercado. O que você diz?",
+    "correctAnswer": "I use reusable bags at the market.",
+    "options": ["I use reusable bags at the market.", "I use plastic bags at the market.", "I use paper bags at the market.", "I use small bags at the market."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer informar que o oceano está em perigo. O que você diz?",
+    "correctAnswer": "The ocean is in danger.",
+    "options": ["The ocean is in danger.", "The ocean is in water.", "The ocean is in winter.", "The ocean is in summer."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar o que seu amigo faz para ajudar o planeta. O que você pergunta?",
+    "correctAnswer": "What do you do to help the planet?",
+    "options": ["What do you do to help the planet?", "What are you do to help the planet?", "What you do to help the planet?", "What does you do to help the planet?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que as estações do ano são importantes para a natureza. O que você diz?",
+    "correctAnswer": "The seasons are important for nature.",
+    "options": ["The seasons are important for nature.", "The seasons are big for nature.", "The seasons are happy for nature.", "The seasons are old for nature."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer sugerir que usem menos plástico. O que você diz?",
+    "correctAnswer": "Let's use less plastic.",
+    "options": ["Let's use less plastic.", "Let's eat less plastic.", "Let's buy less plastic.", "Let's see less plastic."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que os pássaros cantam nas árvores de manhã. O que você diz?",
+    "correctAnswer": "Birds sing in the trees in the morning.",
+    "options": ["Birds sing in the trees in the morning.", "Birds sing in the trees in the evening.", "Birds sing in the trees at night.", "Birds sing in the trees at noon."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que a chuva é importante para as plantas. O que você diz?",
+    "correctAnswer": "Rain is important for plants.",
+    "options": ["Rain is important for plants.", "Rain is important for cars.", "Rain is important for books.", "Rain is important for computers."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar como o clima está hoje. O que você pergunta?",
+    "correctAnswer": "How is the weather today?",
+    "options": ["How is the weather today?", "What is the weather today?", "Where is the weather today?", "Who is the weather today?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que não corta as flores do parque. O que você diz?",
+    "correctAnswer": "I don't cut the flowers in the park.",
+    "options": ["I don't cut the flowers in the park.", "I don't plant the flowers in the park.", "I don't buy the flowers in the park.", "I don't see the flowers in the park."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer explicar por que é importante reciclar. O que você diz?",
+    "correctAnswer": "We recycle because it helps the planet.",
+    "options": ["We recycle because it helps the planet.", "We recycle because it hurts the planet.", "We recycle because it cleans the car.", "We recycle because it opens the door."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que as abelhas são importantes para as flores. O que você diz?",
+    "correctAnswer": "Bees are important for flowers.",
+    "options": ["Bees are important for flowers.", "Bees are dangerous for flowers.", "Bees are bad for flowers.", "Bees are small for flowers."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que seu país tem muitos recursos naturais. O que você diz?",
+    "correctAnswer": "My country has many natural resources.",
+    "options": ["My country has many natural resources.", "My country does many natural resources.", "My country sees many natural resources.", "My country makes many natural resources."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar onde as pessoas jogam o lixo reciclável. O que você pergunta?",
+    "correctAnswer": "Where do people put the recycling?",
+    "options": ["Where do people put the recycling?", "Where do people see the recycling?", "Where do people eat the recycling?", "Where do people make the recycling?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer expressar que a poluição do ar é um problema grande. O que você diz?",
+    "correctAnswer": "Air pollution is a big problem.",
+    "options": ["Air pollution is a big problem.", "Air pollution is a small gift.", "Air pollution is a good thing.", "Air pollution is a happy event."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que os animais precisam de um lugar seguro para viver. O que você diz?",
+    "correctAnswer": "Animals need a safe place to live.",
+    "options": ["Animals need a safe place to live.", "Animals need a fast place to live.", "Animals need a cheap place to live.", "Animals need a clean place to eat."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer sugerir para um amigo que caminhem até a escola para não poluir. O que você diz?",
+    "correctAnswer": "Let's walk to school. It doesn't pollute.",
+    "options": ["Let's walk to school. It doesn't pollute.", "Let's drive to school. It doesn't pollute.", "Let's fly to school. It doesn't pollute.", "Let's swim to school. It doesn't pollute."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que as pessoas devem cuidar dos rios. O que você diz?",
+    "correctAnswer": "People must take care of the rivers.",
+    "options": ["People must take care of the rivers.", "People must look at the rivers.", "People must swim in the rivers.", "People must drink from the rivers."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar com que frequência seu amigo recicla. O que você pergunta?",
+    "correctAnswer": "How often do you recycle?",
+    "options": ["How often do you recycle?", "How much do you recycle?", "How long do you recycle?", "How many do you recycle?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que prefere produtos naturais por causa do meio ambiente. O que você diz?",
+    "correctAnswer": "I prefer natural products because of the environment.",
+    "options": ["I prefer natural products because of the environment.", "I like natural products because of the weather.", "I buy natural products because of the animals.", "I eat natural products because of the plants."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer expressar que a desflorestação é um problema sério. O que você diz?",
+    "correctAnswer": "Deforestation is a serious problem.",
+    "options": ["Deforestation is a serious problem.", "Deforestation is a good solution.", "Deforestation is a small question.", "Deforestation is a happy event."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que as crianças aprendem sobre reciclagem na escola. O que você diz?",
+    "correctAnswer": "Children learn about recycling at school.",
+    "options": ["Children learn about recycling at school.", "Children see about recycling at school.", "Children eat about recycling at school.", "Children play about recycling at school."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que todos podem ajudar a proteger o meio ambiente. O que você diz?",
+    "correctAnswer": "Everyone can help protect the environment.",
+    "options": ["Everyone can help protect the environment.", "Everyone can see protect the environment.", "Everyone can stop protect the environment.", "Everyone can buy protect the environment."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar quais animais estão em extinção. O que você pergunta?",
+    "correctAnswer": "Which animals are in danger of extinction?",
+    "options": ["Which animals are in danger of extinction?", "Which animals are in water of extinction?", "Which animals are in school of extinction?", "Which animals are in house of extinction?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que seu amigo deve plantar uma árvore este ano. O que você diz?",
+    "correctAnswer": "You should plant a tree this year.",
+    "options": ["You should plant a tree this year.", "You can eat a tree this year.", "You must buy a tree this year.", "You need see a tree this year."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer expressar que economizar energia é bom para o planeta. O que você diz?",
+    "correctAnswer": "Saving energy is good for the planet.",
+    "options": ["Saving energy is good for the planet.", "Saving energy is bad for the planet.", "Saving energy is fast for the planet.", "Saving energy is small for the planet."],
+    "difficulty": "hard"
+  }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'doctor' em português?",
+    "correctAnswer": "Médico",
+    "options": ["Médico", "Enfermeiro", "Dentista", "Farmacêutico"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'hospital' em português?",
+    "correctAnswer": "Hospital",
+    "options": ["Hospital", "Farmácia", "Clínica", "Laboratório"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'sick' em português?",
+    "correctAnswer": "Doente",
+    "options": ["Doente", "Saudável", "Cansado", "Feliz"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'pain' em português?",
+    "correctAnswer": "Dor",
+    "options": ["Dor", "Febre", "Tosse", "Fome"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'medicine' em português?",
+    "correctAnswer": "Remédio",
+    "options": ["Remédio", "Cirurgia", "Exame", "Vacina"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'nurse' em português?",
+    "correctAnswer": "Enfermeiro(a)",
+    "options": ["Enfermeiro(a)", "Médico", "Paciente", "Dentista"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'water' no contexto de saúde em português?",
+    "correctAnswer": "Água",
+    "options": ["Água", "Suco", "Leite", "Chá"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'sleep' em português?",
+    "correctAnswer": "Dormir",
+    "options": ["Dormir", "Comer", "Correr", "Tossir"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'healthy' em português?",
+    "correctAnswer": "Saudável",
+    "options": ["Saudável", "Doente", "Fraco", "Gordo"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'head' no contexto de saúde em português?",
+    "correctAnswer": "Cabeça",
+    "options": ["Cabeça", "Braço", "Perna", "Mão"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'eye' em português?",
+    "correctAnswer": "Olho",
+    "options": ["Olho", "Ouvido", "Nariz", "Boca"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'hand' em português?",
+    "correctAnswer": "Mão",
+    "options": ["Mão", "Pé", "Joelho", "Cotovelo"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'cold' quando alguém diz 'I have a cold'?",
+    "correctAnswer": "Resfriado",
+    "options": ["Resfriado", "Febre", "Dor de cabeça", "Gripe forte"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'hungry' em português?",
+    "correctAnswer": "Com fome",
+    "options": ["Com fome", "Com sede", "Com sono", "Com dor"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'tired' em português?",
+    "correctAnswer": "Cansado",
+    "options": ["Cansado", "Animado", "Doente", "Nervoso"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'body' em português?",
+    "correctAnswer": "Corpo",
+    "options": ["Corpo", "Mente", "Alma", "Coração"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'feel good' em português?",
+    "correctAnswer": "Sentir-se bem",
+    "options": ["Sentir-se bem", "Sentir dor", "Estar doente", "Ter febre"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'fever' em português?",
+    "correctAnswer": "Febre",
+    "options": ["Febre", "Tosse", "Enjoo", "Dor de garganta"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'cough' em português?",
+    "correctAnswer": "Tosse",
+    "options": ["Tosse", "Febre", "Espirro", "Dor"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'throat' em português?",
+    "correctAnswer": "Garganta",
+    "options": ["Garganta", "Pescoço", "Ombro", "Peito"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'stomach' em português?",
+    "correctAnswer": "Estômago",
+    "options": ["Estômago", "Coração", "Pulmão", "Fígado"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'take a pill' em português?",
+    "correctAnswer": "Tomar um comprimido",
+    "options": ["Tomar um comprimido", "Tomar uma injeção", "Fazer um exame", "Ir ao médico"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'pharmacy' em português?",
+    "correctAnswer": "Farmácia",
+    "options": ["Farmácia", "Hospital", "Clínica", "Consultório"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'appointment' no contexto médico em português?",
+    "correctAnswer": "Consulta",
+    "options": ["Consulta", "Exame", "Cirurgia", "Receita"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'back' quando alguém diz 'I have back pain'?",
+    "correctAnswer": "Costas",
+    "options": ["Costas", "Barriga", "Pescoço", "Cabeça"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'exercise' em português?",
+    "correctAnswer": "Exercício",
+    "options": ["Exercício", "Descanso", "Dieta", "Remédio"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'drink water' em português?",
+    "correctAnswer": "Beber água",
+    "options": ["Beber água", "Tomar remédio", "Fazer dieta", "Dormir cedo"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'allergy' em português?",
+    "correctAnswer": "Alergia",
+    "options": ["Alergia", "Infecção", "Fratura", "Resfriado"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'heart' em português?",
+    "correctAnswer": "Coração",
+    "options": ["Coração", "Pulmão", "Rim", "Fígado"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'tooth' em português?",
+    "correctAnswer": "Dente",
+    "options": ["Dente", "Língua", "Lábio", "Bochechas"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'sneeze' em português?",
+    "correctAnswer": "Espirrar",
+    "options": ["Espirrar", "Tossir", "Vomitar", "Respirar"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'feel dizzy' em português?",
+    "correctAnswer": "Sentir tontura",
+    "options": ["Sentir tontura", "Sentir dor", "Ter febre", "Estar cansado"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'rest' no contexto de saúde em português?",
+    "correctAnswer": "Descanso",
+    "options": ["Descanso", "Exercício", "Dieta", "Tratamento"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'blood' em português?",
+    "correctAnswer": "Sangue",
+    "options": ["Sangue", "Osso", "Músculo", "Nervo"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'ear' em português?",
+    "correctAnswer": "Ouvido / Orelha",
+    "options": ["Ouvido / Orelha", "Nariz", "Boca", "Olho"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'go to the doctor' em português?",
+    "correctAnswer": "Ir ao médico",
+    "options": ["Ir ao médico", "Ir à farmácia", "Fazer cirurgia", "Tomar remédio"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'nausea' em português?",
+    "correctAnswer": "Náusea / Enjoo",
+    "options": ["Náusea / Enjoo", "Tontura", "Febre", "Dor de cabeça"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'prescription' em português?",
+    "correctAnswer": "Receita médica",
+    "options": ["Receita médica", "Diagnóstico", "Exame de sangue", "Consulta"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'swollen' em português?",
+    "correctAnswer": "Inchado",
+    "options": ["Inchado", "Machucado", "Quebrado", "Infectado"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'wound' em português?",
+    "correctAnswer": "Ferida",
+    "options": ["Ferida", "Fratura", "Hematoma", "Cicatriz"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'pulse' no contexto médico em português?",
+    "correctAnswer": "Pulso",
+    "options": ["Pulso", "Pressão", "Temperatura", "Respiração"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'rash' em português?",
+    "correctAnswer": "Erupção cutânea / Manchas na pele",
+    "options": ["Erupção cutânea / Manchas na pele", "Inchaço", "Corte", "Queimadura"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'blood pressure' em português?",
+    "correctAnswer": "Pressão arterial",
+    "options": ["Pressão arterial", "Batimento cardíaco", "Temperatura corporal", "Nível de açúcar"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'inhaler' em português?",
+    "correctAnswer": "Inalador",
+    "options": ["Inalador", "Seringa", "Curativo", "Termômetro"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'sprain' em português?",
+    "correctAnswer": "Entorse / Torção",
+    "options": ["Entorse / Torção", "Fratura", "Hérnia", "Luxação"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'bandage' em português?",
+    "correctAnswer": "Atadura / Curativo",
+    "options": ["Atadura / Curativo", "Compressa", "Seringa", "Esparadrapo"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'symptom' em português?",
+    "correctAnswer": "Sintoma",
+    "options": ["Sintoma", "Diagnóstico", "Tratamento", "Doença"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'fracture' em português?",
+    "correctAnswer": "Fratura",
+    "options": ["Fratura", "Entorse", "Luxação", "Contusão"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'first aid' em português?",
+    "correctAnswer": "Primeiros socorros",
+    "options": ["Primeiros socorros", "Pronto socorro", "Urgência médica", "Triagem"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'surgery' em português?",
+    "correctAnswer": "Cirurgia",
+    "options": ["Cirurgia", "Consulta", "Exame", "Internação"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'thermometer' em português?",
+    "correctAnswer": "Termômetro",
+    "options": ["Termômetro", "Estetoscópio", "Esfigmomanômetro", "Oxímetro"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'infection' em português?",
+    "correctAnswer": "Infecção",
+    "options": ["Infecção", "Inflamação", "Intoxicação", "Alergia"],
+    "difficulty": "hard"
+  }
+]

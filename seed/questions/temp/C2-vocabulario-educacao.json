@@ -1,0 +1,512 @@
+[
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "No contexto educacional, o que significa o verbo 'to learn'?",
+    "correctAnswer": "Aprender",
+    "options": ["Aprender", "Ensinar", "Avaliar", "Revisar"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa o substantivo 'knowledge' em contextos acadêmicos?",
+    "correctAnswer": "Conhecimento",
+    "options": ["Conhecimento", "Habilidade", "Experiência", "Opinião"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'classroom' no ambiente escolar?",
+    "correctAnswer": "Sala de aula",
+    "options": ["Sala de aula", "Biblioteca", "Laboratório", "Auditório"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'homework' para estudantes?",
+    "correctAnswer": "Tarefa de casa",
+    "options": ["Tarefa de casa", "Prova escolar", "Trabalho em grupo", "Apresentação oral"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'teacher' para o português?",
+    "correctAnswer": "Professor(a)",
+    "options": ["Professor(a)", "Estudante", "Diretor(a)", "Coordenador(a)"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'exam' no contexto escolar?",
+    "correctAnswer": "Exame / Prova",
+    "options": ["Exame / Prova", "Redação", "Seminário", "Debate"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'university' em português?",
+    "correctAnswer": "Universidade",
+    "options": ["Universidade", "Escola técnica", "Colégio", "Instituto de pesquisa"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'graduate' quando usado como adjetivo em 'graduate student'?",
+    "correctAnswer": "Pós-graduando",
+    "options": ["Pós-graduando", "Calouro", "Intercambista", "Bolsista"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'textbook' para o português?",
+    "correctAnswer": "Livro didático",
+    "options": ["Livro didático", "Caderno de exercícios", "Apostila complementar", "Dicionário escolar"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'scholarship' no contexto acadêmico?",
+    "correctAnswer": "Bolsa de estudos",
+    "options": ["Bolsa de estudos", "Taxa de matrícula", "Mensalidade escolar", "Auxílio moradia"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'syllabus' em português?",
+    "correctAnswer": "Ementa / Plano de aula",
+    "options": ["Ementa / Plano de aula", "Boletim escolar", "Carteira de estudante", "Certificado de conclusão"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'tutor' no contexto educacional britânico?",
+    "correctAnswer": "Professor particular / orientador acadêmico",
+    "options": ["Professor particular / orientador acadêmico", "Coordenador pedagógico", "Inspetor escolar", "Monitor de biblioteca"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'curriculum' para o português?",
+    "correctAnswer": "Currículo / Grade curricular",
+    "options": ["Currículo / Grade curricular", "Histórico escolar", "Relatório pedagógico", "Diário de classe"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'dissertation' no contexto acadêmico?",
+    "correctAnswer": "Dissertação / Tese",
+    "options": ["Dissertação / Tese", "Resumo executivo", "Relatório de estágio", "Artigo de opinião"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'lecture' no ambiente universitário?",
+    "correctAnswer": "Aula expositiva / palestra acadêmica",
+    "options": ["Aula expositiva / palestra acadêmica", "Seminário interativo", "Aula prática em laboratório", "Sessão de tutoria individual"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'enroll' no contexto educacional?",
+    "correctAnswer": "Matricular-se",
+    "options": ["Matricular-se", "Graduar-se", "Trancar matrícula", "Solicitar transferência"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'feedback' quando utilizado por professores para alunos?",
+    "correctAnswer": "Retorno / avaliação comentada",
+    "options": ["Retorno / avaliação comentada", "Nota final", "Relatório de desempenho", "Parecer disciplinar"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "No contexto de ensino superior, o que significa 'prerequisite'?",
+    "correctAnswer": "Pré-requisito",
+    "options": ["Pré-requisito", "Crédito complementar", "Disciplina eletiva", "Matéria optativa"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'pedagogy' quando aplicado à prática docente?",
+    "correctAnswer": "Pedagogia / arte e ciência do ensino",
+    "options": ["Pedagogia / arte e ciência do ensino", "Psicologia educacional", "Filosofia da educação", "Sociologia escolar"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'accreditation' no contexto de instituições de ensino?",
+    "correctAnswer": "Credenciamento / reconhecimento oficial",
+    "options": ["Credenciamento / reconhecimento oficial", "Financiamento público", "Auditoria interna", "Certificação de qualidade voluntária"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'remedial' em 'remedial education'?",
+    "correctAnswer": "Voltado para recuperação de defasagem de aprendizado",
+    "options": ["Voltado para recuperação de defasagem de aprendizado", "Destinado a alunos superdotados", "Focado em habilidades avançadas", "Relacionado ao ensino experimental"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'formative assessment' no planejamento pedagógico?",
+    "correctAnswer": "Avaliação processual / diagnóstica durante o aprendizado",
+    "options": ["Avaliação processual / diagnóstica durante o aprendizado", "Avaliação somativa ao final do semestre", "Avaliação comparativa entre turmas", "Avaliação institucional externa"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "No contexto acadêmico, o que significa 'peer review'?",
+    "correctAnswer": "Revisão por pares / avaliação por colegas especialistas",
+    "options": ["Revisão por pares / avaliação por colegas especialistas", "Autoavaliação do estudante", "Avaliação feita pelo orientador", "Revisão editorial de uma revista"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'tenure' quando referente à carreira de um professor universitário?",
+    "correctAnswer": "Estabilidade / cargo efetivo vitalício na universidade",
+    "options": ["Estabilidade / cargo efetivo vitalício na universidade", "Período de estágio probatório", "Contrato temporário de docência", "Afastamento remunerado para pesquisa"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'matriculation' no sistema universitário britânico?",
+    "correctAnswer": "Ingresso formal e registro na universidade",
+    "options": ["Ingresso formal e registro na universidade", "Cerimônia de formatura", "Transferência entre cursos", "Reintegração após suspensão"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'scaffolding' na teoria pedagógica construtivista?",
+    "correctAnswer": "Suporte estruturado oferecido ao aluno para alcançar competências além do nível atual",
+    "options": ["Suporte estruturado oferecido ao aluno para alcançar competências além do nível atual", "Método de avaliação baseado em projetos", "Técnica de memorização por repetição", "Estratégia de aprendizado autônomo"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "No contexto de pesquisa acadêmica, o que significa 'citation'?",
+    "correctAnswer": "Citação de obra ou autor em texto acadêmico",
+    "options": ["Citação de obra ou autor em texto acadêmico", "Convocação para defesa de tese", "Premiação por mérito acadêmico", "Referência bibliográfica incompleta"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'sabbatical' no contexto da carreira acadêmica?",
+    "correctAnswer": "Afastamento remunerado para pesquisa ou estudo",
+    "options": ["Afastamento remunerado para pesquisa ou estudo", "Licença médica prolongada", "Período de avaliação de desempenho", "Suspensão disciplinar temporária"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'didactics' como área de estudo?",
+    "correctAnswer": "Didática / ciência dos métodos de ensino e aprendizagem",
+    "options": ["Didática / ciência dos métodos de ensino e aprendizagem", "Ética profissional do educador", "Teoria do currículo escolar", "Psicologia do desenvolvimento infantil"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'to audit a course' nas universidades anglófonas?",
+    "correctAnswer": "Assistir a uma disciplina sem receber créditos ou notas",
+    "options": ["Assistir a uma disciplina sem receber créditos ou notas", "Reprovar em uma disciplina por ausências", "Solicitar revisão da nota final", "Cancelar a matrícula em uma disciplina"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "No ambiente acadêmico, o que significa 'thesis defence'?",
+    "correctAnswer": "Defesa oral da dissertação ou tese perante banca examinadora",
+    "options": ["Defesa oral da dissertação ou tese perante banca examinadora", "Submissão final da versão escrita da tese", "Processo de publicação da pesquisa", "Apresentação de projeto de pesquisa inicial"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'cognitivism' como teoria de aprendizagem?",
+    "correctAnswer": "Teoria que enfatiza os processos mentais internos na aquisição do conhecimento",
+    "options": ["Teoria que enfatiza os processos mentais internos na aquisição do conhecimento", "Abordagem baseada exclusivamente no comportamento observável", "Método de ensino por descoberta guiada", "Filosofia que prioriza o aprendizado social e colaborativo"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'epistemology' no contexto de filosofia da educação?",
+    "correctAnswer": "Ramo da filosofia que estuda a natureza, origem e limites do conhecimento",
+    "options": ["Ramo da filosofia que estuda a natureza, origem e limites do conhecimento", "Estudo das práticas pedagógicas contemporâneas", "Análise dos sistemas educacionais comparados", "Teoria sobre o desenvolvimento moral do indivíduo"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "No campo da linguística aplicada ao ensino, o que significa 'interlanguage'?",
+    "correctAnswer": "Sistema linguístico intermediário desenvolvido pelo aprendiz entre a L1 e a L2",
+    "options": ["Sistema linguístico intermediário desenvolvido pelo aprendiz entre a L1 e a L2", "Língua franca utilizada em contextos multilíngues", "Método de tradução simultânea no ensino de idiomas", "Dialeto regional adquirido em contexto de imersão"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'heuristic' quando aplicado a estratégias de ensino?",
+    "correctAnswer": "Método exploratório que encoraja o aluno a descobrir soluções por si mesmo",
+    "options": ["Método exploratório que encoraja o aluno a descobrir soluções por si mesmo", "Técnica de avaliação baseada em rubricas detalhadas", "Abordagem dedutiva de apresentação de regras gramaticais", "Estratégia de instrução direta e transmissão de conteúdo"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "No contexto da teoria educacional, o que significa 'zone of proximal development' (ZPD)?",
+    "correctAnswer": "Distância entre o que o aprendiz pode fazer sozinho e o que pode fazer com orientação",
+    "options": ["Distância entre o que o aprendiz pode fazer sozinho e o que pode fazer com orientação", "Nível máximo de capacidade cognitiva atingível pelo indivíduo", "Conjunto de habilidades já consolidadas pelo estudante", "Espaço físico ideal para aprendizagem colaborativa"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'constructivism' como paradigma epistemológico na educação?",
+    "correctAnswer": "Perspectiva segundo a qual o conhecimento é ativamente construído pelo aprendiz, não transmitido passivamente",
+    "options": ["Perspectiva segundo a qual o conhecimento é ativamente construído pelo aprendiz, não transmitido passivamente", "Teoria que defende a instrução direta como método mais eficaz", "Abordagem que prioriza a memorização de conteúdos estruturados", "Modelo baseado na repetição e no reforço comportamental"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'andragogy' em contraposição à pedagogia tradicional?",
+    "correctAnswer": "Arte e ciência de ensinar adultos, considerando sua autonomia e experiência prévia",
+    "options": ["Arte e ciência de ensinar adultos, considerando sua autonomia e experiência prévia", "Método de ensino voltado para crianças com necessidades especiais", "Abordagem interdisciplinar do currículo universitário", "Técnica de aprendizagem acelerada por imersão cultural"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "No contexto da avaliação educacional, o que significa 'summative assessment'?",
+    "correctAnswer": "Avaliação realizada ao final de um período para mensurar o aprendizado acumulado",
+    "options": ["Avaliação realizada ao final de um período para mensurar o aprendizado acumulado", "Avaliação contínua integrada ao processo de ensino", "Diagnóstico inicial das habilidades do estudante", "Autoavaliação reflexiva sobre o progresso pessoal"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'metacognition' no desenvolvimento de habilidades de aprendizagem?",
+    "correctAnswer": "Capacidade de refletir e monitorar os próprios processos de pensamento e aprendizagem",
+    "options": ["Capacidade de refletir e monitorar os próprios processos de pensamento e aprendizagem", "Habilidade de memorizar grandes volumes de informação", "Técnica de resolução criativa de problemas complexos", "Competência para aprender por observação de modelos"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "No contexto da linguística aplicada, o que significa 'fossilization'?",
+    "correctAnswer": "Estagnação permanente de erros na interlíngua do aprendiz, resistentes à instrução",
+    "options": ["Estagnação permanente de erros na interlíngua do aprendiz, resistentes à instrução", "Processo de consolidação de estruturas linguísticas corretas", "Fenômeno de esquecimento de uma língua por desuso prolongado", "Transferência positiva de padrões da língua materna"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'hermeneutics' quando aplicado à interpretação de textos acadêmicos?",
+    "correctAnswer": "Teoria e prática da interpretação de textos, buscando o significado em seu contexto histórico e cultural",
+    "options": ["Teoria e prática da interpretação de textos, buscando o significado em seu contexto histórico e cultural", "Método de análise estatística de dados qualitativos", "Técnica de síntese e resumo de literatura científica", "Processo de verificação da autenticidade de documentos históricos"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "No campo da educação crítica, o que significa 'conscientization' (conscientização), conceito de Paulo Freire?",
+    "correctAnswer": "Processo pelo qual indivíduos desenvolvem consciência crítica da realidade sociopolítica para transformá-la",
+    "options": ["Processo pelo qual indivíduos desenvolvem consciência crítica da realidade sociopolítica para transformá-la", "Método de instrução baseado na memorização de conteúdos culturais", "Técnica de sensibilização emocional no ambiente escolar", "Abordagem psicológica de autoconhecimento e inteligência emocional"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'tacit knowledge' em epistemologia e aprendizagem organizacional?",
+    "correctAnswer": "Conhecimento implícito, difícil de articular ou codificar, adquirido pela experiência prática",
+    "options": ["Conhecimento implícito, difícil de articular ou codificar, adquirido pela experiência prática", "Saber formal adquirido por meio de instrução explícita", "Conjunto de teorias científicas ainda não comprovadas empiricamente", "Informação classificada ou restrita a especialistas certificados"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "No contexto da avaliação acadêmica, o que significa 'rubric'?",
+    "correctAnswer": "Conjunto de critérios explícitos e escalas descritivas usados para avaliar o desempenho",
+    "options": ["Conjunto de critérios explícitos e escalas descritivas usados para avaliar o desempenho", "Resumo executivo de um trabalho científico", "Guia de formatação de referências bibliográficas", "Modelo de planejamento de unidade didática"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'plagiarism' no ambiente acadêmico?",
+    "correctAnswer": "Plágio / apropriação não autorizada de ideias ou textos alheios sem devida atribuição",
+    "options": ["Plágio / apropriação não autorizada de ideias ou textos alheios sem devida atribuição", "Autorecycling de trabalhos do próprio autor", "Citação excessiva de fontes secundárias", "Adaptação autorizada de obra para outro idioma"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'blended learning' na educação contemporânea?",
+    "correctAnswer": "Modalidade híbrida que combina ensino presencial e on-line de forma integrada",
+    "options": ["Modalidade híbrida que combina ensino presencial e on-line de forma integrada", "Aprendizagem exclusivamente mediada por tecnologia digital", "Método de ensino por projetos interdisciplinares", "Abordagem que combina línguas diferentes na mesma aula"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'differentiated instruction' como abordagem pedagógica?",
+    "correctAnswer": "Ensino adaptado às diferentes necessidades, ritmos e estilos de aprendizagem dos alunos",
+    "options": ["Ensino adaptado às diferentes necessidades, ritmos e estilos de aprendizagem dos alunos", "Separação de alunos por nível de desempenho em turmas distintas", "Método de ensino com ênfase em avaliação diagnóstica frequente", "Abordagem que distingue habilidades receptivas das produtivas"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'flipped classroom' no contexto do ensino moderno?",
+    "correctAnswer": "Modelo em que o conteúdo é estudado em casa e as atividades práticas são realizadas em sala",
+    "options": ["Modelo em que o conteúdo é estudado em casa e as atividades práticas são realizadas em sala", "Sala de aula reorganizada fisicamente para facilitar trabalhos em grupo", "Abordagem em que o aluno ensina o conteúdo aos colegas", "Sistema de rodízio em que professores trocam de turmas periodicamente"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'abstruse' quando aplicado a um texto ou teoria acadêmica?",
+    "correctAnswer": "Obscuro, de difícil compreensão, extremamente complexo e hermético",
+    "options": ["Obscuro, de difícil compreensão, extremamente complexo e hermético", "Inovador e revolucionário no campo do conhecimento", "Amplamente aceito e consolidado pela comunidade científica", "Superficial e carente de embasamento teórico rigoroso"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "No contexto da teoria crítica da educação, o que significa 'hegemony' (hegemonia)?",
+    "correctAnswer": "Dominância ideológica e cultural de um grupo sobre outros, reproduzida pelos sistemas educacionais",
+    "options": ["Dominância ideológica e cultural de um grupo sobre outros, reproduzida pelos sistemas educacionais", "Conjunto de valores universais transmitidos pela educação formal", "Autonomia pedagógica das instituições de ensino perante o Estado", "Sistema meritocrático de acesso ao ensino superior"],
+    "difficulty": "hard"
+  }
+]

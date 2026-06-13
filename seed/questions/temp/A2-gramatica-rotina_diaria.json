@@ -1,0 +1,502 @@
+﻿[
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Eu _____ todos os dias às 7 horas da manhã.",
+    "correctAnswer": "wake up",
+    "options": ["wake up", "wakes up", "waked up", "am waking up"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Ela _____ o café da manhã antes de ir ao trabalho.",
+    "correctAnswer": "has",
+    "options": ["has", "is having", "having", "have"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Nós _____ para a escola todos os dias.",
+    "correctAnswer": "go",
+    "options": ["goes", "go", "going", "went"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Ele _____ na cama às 11 da noite.",
+    "correctAnswer": "goes to bed",
+    "options": ["go to bed", "goes to bed", "going to bed", "went to bed"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você _____ os dentes duas vezes por dia?",
+    "correctAnswer": "brush",
+    "options": ["brushes", "brush", "brushing", "brushed"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Eles _____ o almoço na cozinha.",
+    "correctAnswer": "eat",
+    "options": ["eats", "eat", "eating", "ate"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Eu _____ no espelho toda manhã.",
+    "correctAnswer": "look",
+    "options": ["looks", "look", "looking", "looked"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Maria _____ uma ducha antes de se vestir.",
+    "correctAnswer": "takes",
+    "options": ["take", "takes", "taking", "took"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Nós _____ roupas limpas todos os dias.",
+    "correctAnswer": "wear",
+    "options": ["wears", "wear", "wearing", "wore"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "O gato _____ leite todas as manhãs.",
+    "correctAnswer": "drinks",
+    "options": ["drink", "drinks", "drinking", "drank"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Eles _____ seus livros todos os dias.",
+    "correctAnswer": "read",
+    "options": ["reads", "read", "reading", "readed"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Eu _____ meu quarto todo sábado.",
+    "correctAnswer": "clean",
+    "options": ["cleans", "clean", "cleaning", "cleaned"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Ela _____ rápido de manhã porque está atrasada.",
+    "correctAnswer": "runs",
+    "options": ["run", "runs", "running", "ran"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você _____ televisão à noite?",
+    "correctAnswer": "watch",
+    "options": ["watches", "watch", "watching", "watched"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Nós _____ exercício no parque.",
+    "correctAnswer": "do",
+    "options": ["does", "do", "doing", "did"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Ele _____ uma xícara de chá no café da manhã.",
+    "correctAnswer": "drinks",
+    "options": ["drink", "drinks", "drinking", "drank"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Eles _____ juntos todas as noites.",
+    "correctAnswer": "sleep",
+    "options": ["sleeps", "sleep", "sleeping", "slept"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Eu costumava _____ cedo, mas agora acordo tarde.",
+    "correctAnswer": "wake up",
+    "options": ["waking up", "wake up", "wakes up", "woken up"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Quando eu chego em casa, eu estou _____ cansado.",
+    "correctAnswer": "very",
+    "options": ["very", "so", "much", "too"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Ela _____ de se exercitar regularmente.",
+    "correctAnswer": "should",
+    "options": ["must", "should", "can", "will"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Nós _____ estar na escola às 8 da manhã.",
+    "correctAnswer": "have to",
+    "options": ["have to", "can", "may", "will"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você _____ comido algo antes de sair?",
+    "correctAnswer": "have",
+    "options": ["has", "have", "having", "had"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Ele nunca _____ o café da manhã.",
+    "correctAnswer": "skips",
+    "options": ["skip", "skips", "skipping", "skipped"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Elas _____ se alongarem antes de correr.",
+    "correctAnswer": "should",
+    "options": ["can", "should", "may", "will"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Eu _____ meu trabalho a partir das 9 da manhã.",
+    "correctAnswer": "start",
+    "options": ["starts", "start", "starting", "started"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Quando _____ você tomar banho?",
+    "correctAnswer": "do",
+    "options": ["does", "do", "is", "have"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Ela _____ estar pronta em meia hora.",
+    "correctAnswer": "will be",
+    "options": ["is", "will be", "has been", "was"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Nós _____ saído do trabalho às 5 da tarde.",
+    "correctAnswer": "have",
+    "options": ["has", "have", "having", "had"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Você _____ ir à cama cedo se quiser acordar cedo.",
+    "correctAnswer": "should",
+    "options": ["can", "should", "may", "will"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Eles _____ se preparando para a escola quando chegou a mãe.",
+    "correctAnswer": "were",
+    "options": ["was", "were", "are", "been"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Enquanto eu _____ o café, meu marido lê o jornal.",
+    "correctAnswer": "make",
+    "options": ["makes", "make", "making", "made"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Se você _____ cedo, terá mais tempo.",
+    "correctAnswer": "leave",
+    "options": ["leaves", "leave", "leaving", "left"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Ele disse que _____ sua rotina desde a infância.",
+    "correctAnswer": "has followed",
+    "options": ["follows", "has followed", "is following", "followed"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Após _____ o trabalho, ela descansa.",
+    "correctAnswer": "finishing",
+    "options": ["finish", "finishes", "finishing", "finished"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Se tivéssemos acordado mais cedo, _____ chegado no tempo.",
+    "correctAnswer": "would have",
+    "options": ["would have", "will have", "have", "had"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Ela _____ exercício desde que saiu do trabalho.",
+    "correctAnswer": "has been doing",
+    "options": ["does", "is doing", "has been doing", "did"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Porque ele _____ sua rotina, está sempre atrasado.",
+    "correctAnswer": "ignores",
+    "options": ["ignores", "ignored", "is ignoring", "has ignored"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Ainda que _____ cansada, ela terminou sua rotina.",
+    "correctAnswer": "was",
+    "options": ["is", "was", "were", "been"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Nós _____ nossos dentes se não comêssemos doces.",
+    "correctAnswer": "would save",
+    "options": ["save", "would save", "are saving", "saved"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Ele pediu que eu _____ a porta antes de sair.",
+    "correctAnswer": "lock",
+    "options": ["locks", "lock", "locking", "locked"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Mais cedo ela _____ quando acordou.",
+    "correctAnswer": "had already made",
+    "options": ["makes", "is making", "had already made", "has made"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Não _____ para onde ir depois da escola.",
+    "correctAnswer": "knew",
+    "options": ["know", "knows", "knowing", "knew"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Eles gostariam que nós _____ essa atividade todos os dias.",
+    "correctAnswer": "did",
+    "options": ["do", "does", "doing", "did"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Caso não _____ na hora, teremos que esperar.",
+    "correctAnswer": "arrive",
+    "options": ["arrives", "arrive", "arriving", "arrived"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Ela _____ seu trabalho se tivesse mais tempo livre.",
+    "correctAnswer": "would enjoy",
+    "options": ["enjoys", "would enjoy", "is enjoying", "enjoyed"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Supondo que ele _____ a tempo, podemos começar a reunião.",
+    "correctAnswer": "arrives",
+    "options": ["arrive", "arrives", "arriving", "arrived"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Há uma semana que ela _____ fazendo o mesmo exercício.",
+    "correctAnswer": "has been",
+    "options": ["is", "has been", "was", "been"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Independente de _____ cansado, ele sempre vai à academia.",
+    "correctAnswer": "being",
+    "options": ["be", "being", "been", "is"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Pelo fato de ela _____ acordado cedo, conseguiu terminar tudo.",
+    "correctAnswer": "have",
+    "options": ["has", "have", "having", "had"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "gramatica",
+    "topicDomain": "rotina_diaria",
+    "type": "multiple_choice",
+    "questionText": "Desde que começou a trabalhar, ele _____ sua rotina de exercícios.",
+    "correctAnswer": "has maintained",
+    "options": ["maintains", "has maintained", "is maintaining", "maintained"],
+    "difficulty": "medium"
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer sugerir a seu amigo que ele use transporte público em vez de carro. Como você diria isso?",
+    "correctAnswer": "Why don't you try taking the bus instead of driving?",
+    "options": ["Why don't you try taking the bus instead of driving?", "You should not drive your car anymore", "I think driving is bad for you", "Stop using your car now"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Um colega lhe oferece um copo plástico de bebida. Como você educadamente recusa porque está tentando reduzir o plástico?",
+    "correctAnswer": "Thank you, but I prefer to use my own reusable cup",
+    "options": ["Thank you, but I prefer to use my own reusable cup", "I don't like your cup", "Plastic is terrible for nature", "No way, I'm not drinking that"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como você pediria a alguém para apagar as luzes para economizar energia?",
+    "correctAnswer": "Could you turn off the lights to save energy?",
+    "options": ["Could you turn off the lights to save energy?", "The lights must be off now", "You are wasting electricity", "Turn off those lights immediately"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer avisar seus colegas sobre a importância de reciclar. Como você começaria?",
+    "correctAnswer": "I think it's important that we all recycle our waste",
+    "options": ["I think it's important that we all recycle our waste", "Everyone must recycle or else", "Recycling is the only solution to pollution", "You're all irresponsible with waste"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como você ofereceria a sugestão de fazer um piquenique em um parque em vez de comer em um restaurante que gera muito lixo?",
+    "correctAnswer": "How about having a picnic in the park instead?",
+    "options": ["How about having a picnic in the park instead?", "Restaurants produce too much garbage", "You should stop eating out immediately", "Parks are better than restaurants"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Um amigo está jogando papel no chão. Como você diria educadamente para ele não fazer isso?",
+    "correctAnswer": "Could you please put that in the bin? We should keep the environment clean",
+    "options": ["Could you please put that in the bin? We should keep the environment clean", "You are polluting the planet", "That's littering and it's illegal", "You are so careless with waste"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como você pediria a seu vizinho para reduzir o barulho das áreas verdes?",
+    "correctAnswer": "Would you mind using your equipment a bit later in the day?",
+    "options": ["Would you mind using your equipment a bit later in the day?", "Your noise is destroying nature", "You must stop making noise immediately", "The garden can't handle this noise"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer animar seus amigos a começarem a usar bicicleta. O que você diria?",
+    "correctAnswer": "Cycling is a great way to stay fit and help the environment",
+    "options": ["Cycling is a great way to stay fit and help the environment", "Bikes are the only real way to travel", "Cars are destroying the planet, use a bike", "Everyone should cycle or they're bad"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como você expressaria preocupação sobre o consumo excessivo de água em sua casa?",
+    "correctAnswer": "I'm concerned about how much water we're using at home",
+    "options": ["I'm concerned about how much water we're using at home", "We must stop wasting water or the world ends", "Everyone wastes water carelessly", "Water is becoming too scarce for us"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Um colega de trabalho utiliza muitos copos descartáveis. Como você sensibilizaria sobre alternativas sustentáveis?",
+    "correctAnswer": "Have you considered using a reusable cup? It would be better for the environment",
+    "options": ["Have you considered using a reusable cup? It would be better for the environment", "Plastic cups are destroying the oceans", "You should feel guilty about those cups", "Everyone knows plastic is bad for nature"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como você incentivaria alguém a plantar uma árvore?",
+    "correctAnswer": "Why don't we plant a tree in the garden? It would help the environment",
+    "options": ["Why don't we plant a tree in the garden? It would help the environment", "You must plant trees to save the planet", "Trees are essential and you're irresponsible if you don't", "Everyone should be forced to plant trees"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como você explicaria a importância de usar produtos ecológicos para alguém que é novo nesse conceito?",
+    "correctAnswer": "Eco-friendly products are better for the environment and our health",
+    "options": ["Eco-friendly products are better for the environment and our health", "Only stupid people use regular products", "You're harming the planet if you don't buy organic", "Normal products are actually dangerous to everyone"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como você ofereceria ajuda a alguém que quer começar a compostar em casa?",
+    "correctAnswer": "Would you like some help starting your compost? I can show you how",
+    "options": ["Would you like some help starting your compost? I can show you how", "Composting is complex and you'll never do it right", "You should already know how to compost by now", "Only expert gardeners can compost properly"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Um amigo pergunta se você quer participar de uma limpeza de praia. Como você responde entusiasticamente?",
+    "correctAnswer": "That sounds great! I'd love to help clean up the beach",
+    "options": ["That sounds great! I'd love to help clean up the beach", "I guess I could go if I have to", "Beaches are too dirty anyway", "Cleaning won't really help the environment"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como você pediria a alguém para usar menos produtos químicos no jardim?",
+    "correctAnswer": "I think we should consider using natural methods instead of chemicals",
+    "options": ["I think we should consider using natural methods instead of chemicals", "Chemical products are poison and you're killing yourself", "Your garden is toxic because of those products", "Only careless people use chemicals"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como você expressaria apoio a uma decisão de um amigo de deixar de usar plástico?",
+    "correctAnswer": "That's a really good decision. I support your effort to reduce plastic",
+    "options": ["That's a really good decision. I support your effort to reduce plastic", "You're just following a trend with plastic", "It won't make any difference to the environment", "You should have done this years ago"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você está em uma reunião de trabalho e quer sugerir usar menos papel. Como você faria?",
+    "correctAnswer": "I'd like to suggest we try to use less paper and go more digital",
+    "options": ["I'd like to suggest we try to use less paper and go more digital", "Paper is wasteful and we're destroying forests", "Only old companies use that much paper", "We should immediately stop using paper completely"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como você explicaria a alguém por que escolheu comprar roupas de segunda mão em vez de novas?",
+    "correctAnswer": "I prefer buying secondhand clothes because it's more sustainable",
+    "options": ["I prefer buying secondhand clothes because it's more sustainable", "New clothes are too expensive for anyone to buy", "Only rich people should buy new clothes", "Fashion industry is completely evil and nobody should shop there"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Um colega sugere organizar um programa de voluntariado ambiental na empresa. Como você mostraria interesse?",
+    "correctAnswer": "That's an excellent idea. I'd definitely be interested in participating",
+    "options": ["That's an excellent idea. I'd definitely be interested in participating", "Volunteering won't really change anything anyway", "The company is just trying to look good with this", "I don't have time for environmental causes"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como você responderia a alguém que acha que sustentabilidade é apenas uma moda passageira?",
+    "correctAnswer": "I disagree. I think environmental responsibility is essential for our future",
+    "options": ["I disagree. I think environmental responsibility is essential for our future", "Climate change is a hoax anyway", "Only crazy people care about sustainability", "The environment will fix itself without our help"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Um amigo lhe pede conselho sobre como reduzir sua pegada de carbono. O que você diria?",
+    "correctAnswer": "You could start by walking or cycling more, and reducing your energy consumption at home",
+    "options": ["You could start by walking or cycling more, and reducing your energy consumption at home", "Your carbon footprint is too large to reduce", "There's nothing individuals can do to help the planet", "You should stop traveling entirely"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como você responderia se alguém disser que não vê razão para reciclar?",
+    "correctAnswer": "I understand, but recycling helps reduce waste and conserve resources",
+    "options": ["I understand, but recycling helps reduce waste and conserve resources", "Recycling is pointless and won't save the planet", "You're ignorant if you don't see the importance of it", "Landfills can contain all our waste indefinitely"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Um membro da família quer começar a cultivar uma horta urbana. Como você os encorajaria?",
+    "correctAnswer": "That's wonderful! Growing your own vegetables is healthy and sustainable",
+    "options": ["That's wonderful! Growing your own vegetables is healthy and sustainable", "Urban gardening is too difficult for most people", "You don't have enough space to grow anything useful", "Store-bought vegetables are just as fresh anyway"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como você abordaria alguém que constantemente deixa água escorrendo enquanto escova os dentes?",
+    "correctAnswer": "I've noticed you leave the tap running. We could save water if you turned it off while brushing",
+    "options": ["I've noticed you leave the tap running. We could save water if you turned it off while brushing", "You're wasting the world's most precious resource", "Your habits are destroying freshwater systems", "Everyone who does this is irresponsible"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer convencer seu gestor a adotar práticas mais sustentáveis na empresa. Como começaria?",
+    "correctAnswer": "I'd like to discuss some sustainability initiatives that could benefit both the company and the environment",
+    "options": ["I'd like to discuss some sustainability initiatives that could benefit both the company and the environment", "The company is destroying the planet and must change immediately", "You're a horrible leader if you don't go green", "Sustainability will ruin the company financially"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como você responderia a alguém que diz que não pode estar sem sua geladeira, mesmo que consuma muita energia?",
+    "correctAnswer": "I understand, but there are ways to use it more efficiently, like keeping it at the right temperature",
+    "options": ["I understand, but there are ways to use it more efficiently, like keeping it at the right temperature", "Refrigerators are destroying the ozone layer", "You should live without one to save energy", "Energy consumption from refrigerators is insignificant"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Um colega sugere parar de ir ao trabalho de carro uma vez por semana. Como você responderia?",
+    "correctAnswer": "That sounds like a good plan. It would reduce emissions and I could use the exercise",
+    "options": ["That sounds like a good plan. It would reduce emissions and I could use the exercise", "One day won't make any difference to pollution", "Using public transport is always uncomfortable", "Cars aren't really the main cause of pollution anyway"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como você expressaria preocupação sobre o consumo excessivo durante as compras sazonais?",
+    "correctAnswer": "I'm worried about how much we're buying during the holidays. Perhaps we could focus on quality over quantity",
+    "options": ["I'm worried about how much we're buying during the holidays. Perhaps we could focus on quality over quantity", "Shopping is the main cause of environmental destruction", "Everyone is wasteful during holidays and there's nothing we can do", "Consumer goods don't really affect the environment"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer sugerir a um restaurante que use embalagens sustentáveis. Como abordaria o gerente?",
+    "correctAnswer": "I'd like to suggest that you consider using more sustainable packaging materials",
+    "options": ["I'd like to suggest that you consider using more sustainable packaging materials", "Your restaurant is poisoning people with plastic", "You're destroying the ocean with your packaging", "Only irresponsible restaurants use regular packaging"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como você responderia se alguém disser que comprar orgânico é muito caro?",
+    "correctAnswer": "I know it costs more upfront, but you could buy organic for key items and it's worth it for your health",
+    "options": ["I know it costs more upfront, but you could buy organic for key items and it's worth it for your health", "Organic food is just marketing and not actually healthier", "Only wealthy people can afford to be healthy", "Regular pesticides don't harm people anyway"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Um amigo está considerando comprar um carro elétrico. Como você ofereceria sua opinião?",
+    "correctAnswer": "I think that would be a great choice for the environment and you'd save on fuel costs long-term",
+    "options": ["I think that would be a great choice for the environment and you'd save on fuel costs long-term", "Electric cars are too expensive and won't work properly", "Fossil fuel cars are already clean enough", "Buying an electric car won't make any real difference"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como você incentivaria alguém a participar de uma campanha de reflorestamento?",
+    "correctAnswer": "Join us in planting trees this weekend. It's a meaningful way to help combat climate change",
+    "options": ["Join us in planting trees this weekend. It's a meaningful way to help combat climate change", "Planting trees won't reverse deforestation", "Only professionals should plant trees", "Reforestation projects are just for show"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer explicar por que escolheu mudou para energia solar em sua casa. Como você descreveria essa experiência?",
+    "correctAnswer": "I switched to solar energy because it reduces my carbon footprint and lowers my electricity bills",
+    "options": ["I switched to solar energy because it reduces my carbon footprint and lowers my electricity bills", "Solar panels are too expensive and don't work well", "Traditional electricity is cleaner than solar", "Solar energy can't power a modern home"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como você responderia a um crítico que diz que mudanças individuais são irrelevantes frente aos problemas ambientais globais?",
+    "correctAnswer": "While global issues are important, individual actions collectively create significant impact and inspire systemic change",
+    "options": ["While global issues are important, individual actions collectively create significant impact and inspire systemic change", "You're right, individuals can do nothing to help", "Only governments and corporations matter", "Environmental change is impossible regardless of effort"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como você abordaria um debate sobre consumo consciente versus privação necessária?",
+    "correctAnswer": "I believe we can balance meeting our needs with environmental responsibility through thoughtful consumption",
+    "options": ["I believe we can balance meeting our needs with environmental responsibility through thoughtful consumption", "Consumers should buy whatever they want freely", "Environmental concerns should prevent all consumption", "There's no difference between waste and necessity"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer explicar a conexão entre hábitos de consumo pessoais e degradação ambiental. Como faria isso?",
+    "correctAnswer": "Our everyday choices about what we buy and throw away directly affect ecosystems and resource depletion",
+    "options": ["Our everyday choices about what we buy and throw away directly affect ecosystems and resource depletion", "Personal consumption has no connection to environmental problems", "Only industries are responsible for environmental damage", "Consumer choices are irrelevant to sustainability"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como você responderia a alguém que questiona se a sustentabilidade é uma responsabilidade pessoal ou governamental?",
+    "correctAnswer": "I think it requires both personal responsibility and government policies working together to be effective",
+    "options": ["I think it requires both personal responsibility and government policies working together to be effective", "Only governments are responsible for environmental protection", "Individuals have no role in environmental solutions", "Personal actions are more important than policy change"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como você explicaria o conceito de economia circular a alguém novo nele?",
+    "correctAnswer": "Circular economy means designing products to be reused, repaired, or recycled instead of discarded",
+    "options": ["Circular economy means designing products to be reused, repaired, or recycled instead of discarded", "Circular economy is just recycling with a different name", "It's impossible to create a truly circular economic system", "The circular economy will harm industrial development"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Um colega de trabalho afirma que mudanças climáticas são naturais e não causadas por humanos. Como responderia com diplomacia?",
+    "correctAnswer": "While climate has natural cycles, scientific consensus shows human activities are accelerating current warming",
+    "options": ["While climate has natural cycles, scientific consensus shows human activities are accelerating current warming", "Climate change is completely natural and humans can't affect it", "All climate scientists are wrong about this", "Human-caused climate change is definitely a hoax"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como você argumentaria que investimentos em energia renovável são economicamente viáveis?",
+    "correctAnswer": "Renewable energy creates jobs, reduces long-term costs, and prevents expensive environmental damage",
+    "options": ["Renewable energy creates jobs, reduces long-term costs, and prevents expensive environmental damage", "Renewable energy is too expensive to ever become viable", "Traditional energy sources are cheaper in all circumstances", "Environmental costs don't have economic impact"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como você responderia a alguém que diz que preocupações ambientais prejudicam o desenvolvimento econômico?",
+    "correctAnswer": "Environmental protection and economic growth can coexist; sustainability drives innovation and long-term prosperity",
+    "options": ["Environmental protection and economic growth can coexist; sustainability drives innovation and long-term prosperity", "Environmental concerns must stop all economic development", "Economic development doesn't affect the environment", "It's impossible to be both profitable and sustainable"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como você explicaria o impacto da fast fashion na sustentabilidade ambiental?",
+    "correctAnswer": "Fast fashion creates massive waste, uses excessive water and chemicals, and promotes throwaway culture",
+    "options": ["Fast fashion creates massive waste, uses excessive water and chemicals, and promotes throwaway culture", "Fast fashion has minimal environmental impact", "Only natural materials would solve fashion waste", "The fashion industry doesn't contribute significantly to pollution"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Um cliente pergunta se sua empresa pode demonstrar seu compromisso ambiental. Como você responderia?",
+    "correctAnswer": "We're committed to reducing waste, conserving resources, and implementing sustainable practices throughout our operations",
+    "options": ["We're committed to reducing waste, conserving resources, and implementing sustainable practices throughout our operations", "Environmental responsibility would be too expensive for us", "We don't believe environmental commitments are important", "Sustainability is just marketing that doesn't affect business"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como você argumentaria sobre a importância de proteger biodiversidade além de apenas mitigar mudanças climáticas?",
+    "correctAnswer": "Biodiversity preservation is crucial because ecosystems provide essential services and species extinction is irreversible",
+    "options": ["Biodiversity preservation is crucial because ecosystems provide essential services and species extinction is irreversible", "Climate change is the only environmental concern that matters", "Protecting animals isn't as important as human concerns", "Biodiversity loss has no effect on human survival"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como você explicaria o conceito de pegada hídrica a um público leigo?",
+    "correctAnswer": "Water footprint measures the total water used to produce goods we consume, including hidden water in manufacturing",
+    "options": ["Water footprint measures the total water used to produce goods we consume, including hidden water in manufacturing", "Water footprint only means the water you use directly at home", "Water footprint is an irrelevant measurement for sustainability", "Water usage doesn't affect environmental sustainability"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como você responderia a um negociante que teme que regulações ambientais são injustas para pequenas empresas?",
+    "correctAnswer": "Environmental regulations can be implemented with support for small businesses through incentives and gradual transitions",
+    "options": ["Environmental regulations can be implemented with support for small businesses through incentives and gradual transitions", "Environmental regulations are always fair to all business sizes", "Small businesses shouldn't have to follow environmental rules", "There's no way to balance business needs with environmental protection"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como você abordaria uma discussão sobre justiça ambiental e comunidades afetadas desproporcionalmente?",
+    "correctAnswer": "Environmental justice means ensuring all communities have equal protection from pollution regardless of wealth or status",
+    "options": ["Environmental justice means ensuring all communities have equal protection from pollution regardless of wealth or status", "Environmental issues affect all communities equally", "Poor communities should accept pollution as necessary", "Environmental protection shouldn't consider social justice"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como você explicaria a relação entre educação ambiental e mudança de comportamento?",
+    "correctAnswer": "Environmental education creates awareness and understanding that motivates people to make sustainable choices",
+    "options": ["Environmental education creates awareness and understanding that motivates people to make sustainable choices", "Knowing about environmental problems doesn't change behavior", "Education alone can't address environmental issues", "People won't change habits regardless of information provided"],
+    "difficulty": "hard"
+  }
+]

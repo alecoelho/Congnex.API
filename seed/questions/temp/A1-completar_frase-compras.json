@@ -1,0 +1,522 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: I want to ___ a shirt.",
+    "correctAnswer": "buy",
+    "options": ["buy", "eat", "drink", "sleep"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: The ___ is very cheap.",
+    "correctAnswer": "shirt",
+    "options": ["shirt", "rain", "music", "sun"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: I need some ___.",
+    "correctAnswer": "money",
+    "options": ["money", "cloud", "tree", "wind"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: She goes to the ___.",
+    "correctAnswer": "store",
+    "options": ["store", "river", "mountain", "desert"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: How ___ is this bag?",
+    "correctAnswer": "much",
+    "options": ["much", "tall", "fast", "loud"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: I ___ bread at the bakery.",
+    "correctAnswer": "buy",
+    "options": ["buy", "swim", "fly", "run"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: The shoes are on ___.",
+    "correctAnswer": "sale",
+    "options": ["sale", "fire", "ice", "sand"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: I pay with my credit ___.",
+    "correctAnswer": "card",
+    "options": ["card", "bird", "flower", "door"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: The market is ___ on Sunday.",
+    "correctAnswer": "open",
+    "options": ["open", "cold", "dark", "wet"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: I want to ___ this item.",
+    "correctAnswer": "return",
+    "options": ["return", "cook", "paint", "sing"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: We go ___ every week.",
+    "correctAnswer": "shopping",
+    "options": ["shopping", "fishing", "skiing", "camping"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: This dress is very ___.",
+    "correctAnswer": "expensive",
+    "options": ["expensive", "angry", "happy", "tired"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: The ___ has many products.",
+    "correctAnswer": "shop",
+    "options": ["shop", "park", "beach", "forest"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: He pays ___ cash.",
+    "correctAnswer": "with",
+    "options": ["with", "from", "into", "about"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: Can I have a ___?",
+    "correctAnswer": "receipt",
+    "options": ["receipt", "cloud", "shadow", "leaf"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: The supermarket is ___ the street.",
+    "correctAnswer": "on",
+    "options": ["on", "under", "inside", "behind"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: I need to buy some ___.",
+    "correctAnswer": "food",
+    "options": ["food", "rock", "sand", "smoke"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: This product is ___ stock.",
+    "correctAnswer": "in",
+    "options": ["in", "at", "by", "of"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: Can I try ___ these shoes?",
+    "correctAnswer": "on",
+    "options": ["on", "up", "in", "at"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: The price ___ ten dollars.",
+    "correctAnswer": "is",
+    "options": ["is", "are", "am", "be"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: I am looking ___ a jacket.",
+    "correctAnswer": "for",
+    "options": ["for", "at", "in", "to"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: Do you have ___ in size medium?",
+    "correctAnswer": "this",
+    "options": ["this", "those", "there", "then"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: The ___ is at the end of the aisle.",
+    "correctAnswer": "cashier",
+    "options": ["cashier", "doctor", "teacher", "pilot"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: I ___ like to buy some fruit.",
+    "correctAnswer": "would",
+    "options": ["would", "could", "should", "might"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: These apples are ___ a kilo.",
+    "correctAnswer": "two dollars",
+    "options": ["two dollars", "two meters", "two hours", "two miles"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: Where is the ___ section?",
+    "correctAnswer": "dairy",
+    "options": ["dairy", "rainy", "daily", "hairy"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: I need a ___ bag for my groceries.",
+    "correctAnswer": "plastic",
+    "options": ["plastic", "electric", "classic", "magic"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: The ___ is open until nine.",
+    "correctAnswer": "mall",
+    "options": ["mall", "ball", "wall", "fall"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: I want to ___ this for a smaller size.",
+    "correctAnswer": "exchange",
+    "options": ["exchange", "explain", "explore", "express"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: She puts the items in the ___.",
+    "correctAnswer": "cart",
+    "options": ["cart", "card", "car", "cat"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: I always check the ___ before buying.",
+    "correctAnswer": "price",
+    "options": ["price", "prize", "pride", "prince"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: He is standing in the checkout ___.",
+    "correctAnswer": "line",
+    "options": ["line", "lane", "link", "lime"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: I have a ___ for ten percent off.",
+    "correctAnswer": "coupon",
+    "options": ["coupon", "crayon", "cannon", "carbon"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: The ___ shows the name and price of the item.",
+    "correctAnswer": "label",
+    "options": ["label", "table", "cable", "fable"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: I only have ___ cash today.",
+    "correctAnswer": "a little",
+    "options": ["a little", "a few", "many", "much"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: These jeans ___ well on you.",
+    "correctAnswer": "fit",
+    "options": ["fit", "feel", "fill", "fall"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: The store offers free ___ on weekends.",
+    "correctAnswer": "delivery",
+    "options": ["delivery", "discovery", "dictionary", "directory"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: I prefer to shop ___ because it is convenient.",
+    "correctAnswer": "online",
+    "options": ["online", "outline", "offline", "airline"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: Do you accept ___ payments?",
+    "correctAnswer": "contactless",
+    "options": ["contactless", "countless", "colorless", "careless"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: The item is ___ of stock right now.",
+    "correctAnswer": "out",
+    "options": ["out", "off", "over", "onto"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: I would like to ___ a complaint about this product.",
+    "correctAnswer": "make",
+    "options": ["make", "take", "fake", "bake"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: She ___ her purchase with a mobile app.",
+    "correctAnswer": "paid for",
+    "options": ["paid for", "paid at", "paid in", "paid on"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: The store has a ___ policy of thirty days.",
+    "correctAnswer": "refund",
+    "options": ["refund", "reward", "remind", "rescue"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: I always make a ___ before going to the supermarket.",
+    "correctAnswer": "list",
+    "options": ["list", "last", "lost", "lust"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: The clothes are ___ by size on the rack.",
+    "correctAnswer": "sorted",
+    "options": ["sorted", "started", "sported", "shorted"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: Can I get a ___ on this item?",
+    "correctAnswer": "discount",
+    "options": ["discount", "discomfort", "discover", "discuss"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: The checkout ___ is very long today.",
+    "correctAnswer": "queue",
+    "options": ["queue", "quite", "quote", "quake"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: I need to ___ my budget before buying.",
+    "correctAnswer": "check",
+    "options": ["check", "chess", "chief", "chain"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: The product comes with a one-year ___.",
+    "correctAnswer": "warranty",
+    "options": ["warranty", "quantity", "variety", "security"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: You can ___ the price using the website.",
+    "correctAnswer": "compare",
+    "options": ["compare", "compete", "complete", "compose"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: The shop assistant helped me ___ a gift.",
+    "correctAnswer": "choose",
+    "options": ["choose", "cheese", "chase", "charge"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra correta: I saved money by buying the ___ brand.",
+    "correctAnswer": "generic",
+    "options": ["generic", "genetic", "generous", "genuine"],
+    "difficulty": "hard"
+  }
+]

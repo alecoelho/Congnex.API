@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Eu _____ todos os dias às 7 da manhã.",
+        "correctAnswer":  "wake up",
+        "options":  [
+                        "wake up",
+                        "wakes up",
+                        "am waking up",
+                        "will wake up"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Ela _____ café da manhã antes de sair para o trabalho.",
+        "correctAnswer":  "has",
+        "options":  [
+                        "have",
+                        "has",
+                        "is having",
+                        "had"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Nós _____ o ônibus todos os dias para ir à escola.",
+        "correctAnswer":  "take",
+        "options":  [
+                        "takes",
+                        "taking",
+                        "take",
+                        "are taking"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Você _____ suas tarefas de casa todas as noites?",
+        "correctAnswer":  "Do you do",
+        "options":  [
+                        "Do you do",
+                        "Does you do",
+                        "Are you doing",
+                        "Do you does"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Ele _____ para o trabalho às 8 da manhã.",
+        "correctAnswer":  "leaves",
+        "options":  [
+                        "leave",
+                        "leaves",
+                        "is leaving",
+                        "will leave"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Eu _____ minhas roupas antes de dormir.",
+        "correctAnswer":  "change",
+        "options":  [
+                        "changes",
+                        "changing",
+                        "change",
+                        "am changed"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Eles _____ na piscina três vezes por semana.",
+        "correctAnswer":  "swim",
+        "options":  [
+                        "swims",
+                        "swimming",
+                        "swim",
+                        "are swim"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Maria _____ seus dentes duas vezes ao dia.",
+        "correctAnswer":  "brushes",
+        "options":  [
+                        "brush",
+                        "brushes",
+                        "brushing",
+                        "is brushes"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Nós _____ TV depois de jantar.",
+        "correctAnswer":  "watch",
+        "options":  [
+                        "watches",
+                        "watching",
+                        "watch",
+                        "are watches"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Você _____ no fim de semana?",
+        "correctAnswer":  "sleep in",
+        "options":  [
+                        "sleep in",
+                        "sleeps in",
+                        "sleeping in",
+                        "is sleep in"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Eu _____ um chuveiro todas as manhãs.",
+        "correctAnswer":  "take",
+        "options":  [
+                        "takes",
+                        "taking",
+                        "take",
+                        "am taking"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Ela _____ suas malas antes de viajar.",
+        "correctAnswer":  "packs",
+        "options":  [
+                        "pack",
+                        "packs",
+                        "packing",
+                        "is pack"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Eles _____ na cama até tarde nos fins de semana.",
+        "correctAnswer":  "stay",
+        "options":  [
+                        "stays",
+                        "staying",
+                        "stay",
+                        "are stays"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Meu pai _____ o jornal todas as manhãs.",
+        "correctAnswer":  "reads",
+        "options":  [
+                        "read",
+                        "reads",
+                        "reading",
+                        "is reads"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Nós _____ jantar às 7 da noite.",
+        "correctAnswer":  "have",
+        "options":  [
+                        "has",
+                        "having",
+                        "have",
+                        "are having"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Você _____ exercício todas as manhãs?",
+        "correctAnswer":  "do exercise",
+        "options":  [
+                        "do exercise",
+                        "does exercise",
+                        "are doing exercise",
+                        "you exercise"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Ela _____ maquiagem antes de sair.",
+        "correctAnswer":  "puts on",
+        "options":  [
+                        "puts on",
+                        "put on",
+                        "is put on",
+                        "putting on"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Quando eu _____ do trabalho, estou muito cansado.",
+        "correctAnswer":  "come home",
+        "options":  [
+                        "comes home",
+                        "come home",
+                        "am coming home",
+                        "is coming home"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Se você _____ cedo, pode aproveitar mais o dia.",
+        "correctAnswer":  "wake up",
+        "options":  [
+                        "will wake up",
+                        "wake up",
+                        "wakes up",
+                        "are waking up"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Eu _____ meu café enquanto _____ meus emails.",
+        "correctAnswer":  "drink, check",
+        "options":  [
+                        "drinks, checks",
+                        "drink, check",
+                        "am drinking, checking",
+                        "drinking, checking"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Nós nunca _____ sem um bom café da manhã.",
+        "correctAnswer":  "leave home",
+        "options":  [
+                        "leaves home",
+                        "leave home",
+                        "are leaving home",
+                        "leaving home"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Ela _____ seus filhos para a escola todos os dias.",
+        "correctAnswer":  "takes",
+        "options":  [
+                        "take",
+                        "takes",
+                        "is taking",
+                        "taking"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Quantas horas você _____ por noite?",
+        "correctAnswer":  "sleep",
+        "options":  [
+                        "are sleeping",
+                        "sleeping",
+                        "sleep",
+                        "sleeps"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Ele _____ a lição de casa quando volta para casa.",
+        "correctAnswer":  "does",
+        "options":  [
+                        "do",
+                        "does",
+                        "is doing",
+                        "doing"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Eu _____ minha cama todas as manhãs antes de sair.",
+        "correctAnswer":  "make",
+        "options":  [
+                        "makes",
+                        "making",
+                        "make",
+                        "am making"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Eles _____ suas mochilas na noite anterior.",
+        "correctAnswer":  "prepare",
+        "options":  [
+                        "prepares",
+                        "preparing",
+                        "prepare",
+                        "are prepare"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Nós _____ em casa no domingo para relaxar.",
+        "correctAnswer":  "stay",
+        "options":  [
+                        "stays",
+                        "staying",
+                        "stay",
+                        "are stays"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Você _____ afazeres domésticos no fim de semana?",
+        "correctAnswer":  "do",
+        "options":  [
+                        "are doing",
+                        "do",
+                        "does",
+                        "you doing"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Ela sempre _____ sua rotina pela manhã.",
+        "correctAnswer":  "follows",
+        "options":  [
+                        "follow",
+                        "follows",
+                        "following",
+                        "is follows"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Eu _____ lembrado de verificar a porta antes de sair.",
+        "correctAnswer":  "am reminded",
+        "options":  [
+                        "always remind",
+                        "am reminded",
+                        "always am reminded",
+                        "always be reminded"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Quando você _____ do trabalho, o que você _____ primeiro?",
+        "correctAnswer":  "arrive, do",
+        "options":  [
+                        "arrives, do",
+                        "arrive, do",
+                        "are arriving, doing",
+                        "arriving, doing"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Se ela _____ suas roupas hoje, não _____ amanhã.",
+        "correctAnswer":  "washes, won\u0027t wash",
+        "options":  [
+                        "washes, doesn\u0027t wash",
+                        "washes, won\u0027t wash",
+                        "will wash, won\u0027t wash",
+                        "washes, will not washing"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Enquanto eu _____ café, meus filhos _____ para a escola.",
+        "correctAnswer":  "drink, get ready",
+        "options":  [
+                        "am drinking, are getting ready",
+                        "drink, gets ready",
+                        "drinking, getting ready",
+                        "drinks, gets ready"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Ela _____ estado ocupada com seus afazeres todos os dias.",
+        "correctAnswer":  "has been",
+        "options":  [
+                        "have been",
+                        "has been",
+                        "is being",
+                        "was being"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Não importa quanto cansado eu _____, sempre _____ meu exercício.",
+        "correctAnswer":  "am, do",
+        "options":  [
+                        "am, do",
+                        "is, does",
+                        "being, doing",
+                        "am, doing"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Eles _____ estado chegando atrasado porque _____ acordar cedo.",
+        "correctAnswer":  "have been, can\u0027t",
+        "options":  [
+                        "has been, can\u0027t",
+                        "have been, can\u0027t",
+                        "are, cannot",
+                        "have been, won\u0027t"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Desde que ela _____ seu novo trabalho, _____ menos tempo para sua família.",
+        "correctAnswer":  "started, has had",
+        "options":  [
+                        "starts, has had",
+                        "started, has had",
+                        "has started, has",
+                        "started, having"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Se você _____ seus objetivos de saúde, _____ exercitar regularmente.",
+        "correctAnswer":  "want to achieve, need to",
+        "options":  [
+                        "wants to achieve, needs to",
+                        "want to achieve, need to",
+                        "wanting to achieve, needing to",
+                        "wants to achieve, needs"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Minha mãe _____ estado _____ seus netos todas as manhãs.",
+        "correctAnswer":  "has been, taking",
+        "options":  [
+                        "have been, taking",
+                        "has been, taking",
+                        "is being, take",
+                        "has been, took"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Depois de _____ o trabalho, nós _____ sair para passear.",
+        "correctAnswer":  "finishing, like to",
+        "options":  [
+                        "finish, like",
+                        "finishing, like to",
+                        "finished, are liking",
+                        "finishes, like to"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Ele _____ seus medicamentos todas as noites, não importa como se _____ sentindo.",
+        "correctAnswer":  "takes, is",
+        "options":  [
+                        "takes, is",
+                        "take, be",
+                        "taking, being",
+                        "takes, be"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Quando _____ crianças, nós _____ dormir mais cedo.",
+        "correctAnswer":  "were, used to",
+        "options":  [
+                        "are, use to",
+                        "were, used to",
+                        "was, was using",
+                        "would be, using"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Ela teria _____ mais tempo com sua família se não _____ tão ocupada.",
+        "correctAnswer":  "had, were",
+        "options":  [
+                        "had, was",
+                        "had, were",
+                        "have, is",
+                        "having, be"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Suponha que você _____ acordar às 5 da manhã, qual seria sua reação?",
+        "correctAnswer":  "had to",
+        "options":  [
+                        "have to",
+                        "had to",
+                        "would have to",
+                        "having to"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Todos os dias, ele _____ seu café preto e depois _____ para a academia.",
+        "correctAnswer":  "drinks, goes",
+        "options":  [
+                        "drink, go",
+                        "drinks, goes",
+                        "is drinking, going",
+                        "drinking, going"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "gramatica",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "As crianças _____ estado _____ mais educadas desde que começou a nova rotina.",
+        "correctAnswer":  "have been, being",
+        "options":  [
+                        "has been, being",
+                        "have been, being",
+                        "are, be",
+                        "have been, to be"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Eles _____ acordado cedo para a prova amanhã?",
+        "difficulty":  "easy",
+        "options":  [
+                        "will be",
+                        "are",
+                        "have been",
+                        "would be"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "will be"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Desde muito jovem, ela _____ uma rotina de leitura todos os dias.",
+        "difficulty":  "medium",
+        "options":  [
+                        "keeps",
+                        "has kept",
+                        "keep",
+                        "is keeping"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "has kept"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Se ela _____ sua rotina, _____ muito mais saudável.",
+        "difficulty":  "medium",
+        "options":  [
+                        "kept, would be",
+                        "keeps, would be",
+                        "would keep, would be",
+                        "will keep, will be"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "keeps, would be"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Para _____ uma rotina bem estabelecida, é necessário _____ consistência.",
+        "difficulty":  "hard",
+        "options":  [
+                        "establishing, having",
+                        "establish, have",
+                        "established, having",
+                        "establishing, to have"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "establish, have"
+    }
+]

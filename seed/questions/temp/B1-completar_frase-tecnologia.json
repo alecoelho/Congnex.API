@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "I usually ___ my email at least three times a day.",
+        "difficulty":  "easy",
+        "options":  [
+                        "check",
+                        "checks",
+                        "checking",
+                        "checked"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "check"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "My computer is very slow because I have too many ___ open.",
+        "difficulty":  "easy",
+        "options":  [
+                        "programs",
+                        "devices",
+                        "networks",
+                        "systems"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "programs"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "I need to ___ my password because I forgot it.",
+        "difficulty":  "easy",
+        "options":  [
+                        "reset",
+                        "change",
+                        "update",
+                        "modify"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "reset"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "The ___ is broken, so I cannot type anything.",
+        "difficulty":  "easy",
+        "options":  [
+                        "keyboard",
+                        "mouse",
+                        "monitor",
+                        "cable"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "keyboard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "I downloaded a large file from the ___.",
+        "difficulty":  "easy",
+        "options":  [
+                        "internet",
+                        "device",
+                        "screen",
+                        "server"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "internet"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "You need to ___ your password carefully before pressing enter.",
+        "difficulty":  "easy",
+        "options":  [
+                        "type",
+                        "write",
+                        "print",
+                        "display"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "type"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "The ___ shows all the information on my computer.",
+        "difficulty":  "easy",
+        "options":  [
+                        "screen",
+                        "device",
+                        "memory",
+                        "program"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "screen"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ the document before sending it to my boss.",
+        "difficulty":  "easy",
+        "options":  [
+                        "saved",
+                        "opened",
+                        "deleted",
+                        "uploaded"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "saved"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "This website requires a strong ___ for security.",
+        "difficulty":  "easy",
+        "options":  [
+                        "password",
+                        "username",
+                        "email",
+                        "code"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "password"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ my phone every night before sleeping.",
+        "difficulty":  "easy",
+        "options":  [
+                        "charge",
+                        "plug",
+                        "connect",
+                        "turn"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "charge"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "The ___ allows me to connect to the internet wirelessly.",
+        "difficulty":  "easy",
+        "options":  [
+                        "WiFi",
+                        "cable",
+                        "phone",
+                        "server"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "WiFi"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ a lot of time on social media every day.",
+        "difficulty":  "easy",
+        "options":  [
+                        "spend",
+                        "use",
+                        "waste",
+                        "pass"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "spend"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "The app will ___ automatically when you open it.",
+        "difficulty":  "easy",
+        "options":  [
+                        "update",
+                        "start",
+                        "load",
+                        "install"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "update"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "I prefer to ___ my files in the cloud for safety.",
+        "difficulty":  "easy",
+        "options":  [
+                        "backup",
+                        "delete",
+                        "print",
+                        "download"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "backup"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "The ___ is running very slowly today.",
+        "difficulty":  "easy",
+        "options":  [
+                        "website",
+                        "email",
+                        "message",
+                        "browser"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "website"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ the instructions carefully before installing the software.",
+        "difficulty":  "easy",
+        "options":  [
+                        "read",
+                        "check",
+                        "see",
+                        "watch"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "read"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "My laptop has a ___ that makes it fast and efficient.",
+        "difficulty":  "easy",
+        "options":  [
+                        "processor",
+                        "screen",
+                        "speaker",
+                        "battery"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "processor"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "If you don\u0027t ___ the software correctly, it may crash.",
+        "difficulty":  "medium",
+        "options":  [
+                        "install",
+                        "start",
+                        "open",
+                        "run"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "install"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "The ___ is responsible for storing all my personal information.",
+        "difficulty":  "medium",
+        "options":  [
+                        "database",
+                        "browser",
+                        "network",
+                        "interface"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "database"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ a strong antivirus program to protect my computer.",
+        "difficulty":  "medium",
+        "options":  [
+                        "installed",
+                        "updated",
+                        "downloaded",
+                        "activated"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "installed"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "The ___ showed that the system was infected with malware.",
+        "difficulty":  "medium",
+        "options":  [
+                        "scan",
+                        "test",
+                        "check",
+                        "report"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "scan"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "You should always ___ your data before installing a new operating system.",
+        "difficulty":  "medium",
+        "options":  [
+                        "backup",
+                        "erase",
+                        "transfer",
+                        "migrate"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "backup"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "The ___ quality of this video is excellent.",
+        "difficulty":  "medium",
+        "options":  [
+                        "video",
+                        "screen",
+                        "display",
+                        "image"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "video"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "I need to ___ this software to get the latest features.",
+        "difficulty":  "medium",
+        "options":  [
+                        "upgrade",
+                        "update",
+                        "download",
+                        "install"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "upgrade"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "The ___ is the brain of the computer.",
+        "difficulty":  "medium",
+        "options":  [
+                        "CPU",
+                        "RAM",
+                        "GPU",
+                        "SSD"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "CPU"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ the attachment before opening it to check for viruses.",
+        "difficulty":  "medium",
+        "options":  [
+                        "scanned",
+                        "checked",
+                        "tested",
+                        "verified"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "scanned"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "The ___ allows you to input commands into the computer.",
+        "difficulty":  "medium",
+        "options":  [
+                        "keyboard",
+                        "monitor",
+                        "speaker",
+                        "printer"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "keyboard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "This application requires ___ permissions to function properly.",
+        "difficulty":  "medium",
+        "options":  [
+                        "admin",
+                        "user",
+                        "guest",
+                        "standard"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "admin"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "The ___ speed of my internet connection is very fast.",
+        "difficulty":  "medium",
+        "options":  [
+                        "download",
+                        "upload",
+                        "streaming",
+                        "transfer"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "download"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ the router because the WiFi was not working.",
+        "difficulty":  "medium",
+        "options":  [
+                        "restarted",
+                        "replaced",
+                        "repaired",
+                        "removed"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "restarted"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "The ___ contains all the programs installed on this computer.",
+        "difficulty":  "medium",
+        "options":  [
+                        "hard drive",
+                        "memory",
+                        "processor",
+                        "motherboard"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "hard drive"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "I need to ___ this PDF file to email it to my colleague.",
+        "difficulty":  "medium",
+        "options":  [
+                        "compress",
+                        "convert",
+                        "download",
+                        "share"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "compress"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "The system was ___ due to an unexpected error.",
+        "difficulty":  "medium",
+        "options":  [
+                        "crashed",
+                        "frozen",
+                        "stuck",
+                        "locked"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "crashed"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ my account by using two-factor authentication for extra security.",
+        "difficulty":  "hard",
+        "options":  [
+                        "secured",
+                        "protected",
+                        "locked",
+                        "verified"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "secured"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "The ___ transmits data between different devices on the network.",
+        "difficulty":  "hard",
+        "options":  [
+                        "server",
+                        "cable",
+                        "port",
+                        "router"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "server"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ my credentials for sensitive applications to prevent unauthorized access.",
+        "difficulty":  "hard",
+        "options":  [
+                        "encrypted",
+                        "secured",
+                        "protected",
+                        "encoded"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "encrypted"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "The ___ allowed us to collaborate remotely during the pandemic.",
+        "difficulty":  "hard",
+        "options":  [
+                        "cloud platform",
+                        "local network",
+                        "device",
+                        "monitor"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "cloud platform"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "The firewall ___ all unauthorized attempts to access the network.",
+        "difficulty":  "hard",
+        "options":  [
+                        "blocks",
+                        "allows",
+                        "monitors",
+                        "tracks"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "blocks"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "I need to ___ my system to improve its performance.",
+        "difficulty":  "hard",
+        "options":  [
+                        "optimize",
+                        "update",
+                        "repair",
+                        "clean"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "optimize"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "The ___ is a temporary storage area used by the processor.",
+        "difficulty":  "hard",
+        "options":  [
+                        "cache",
+                        "memory",
+                        "buffer",
+                        "stack"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "cache"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ the code to identify and fix the bugs.",
+        "difficulty":  "hard",
+        "options":  [
+                        "debugged",
+                        "compiled",
+                        "executed",
+                        "analyzed"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "debugged"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "The ___ manages the flow of data between the CPU and memory.",
+        "difficulty":  "hard",
+        "options":  [
+                        "bus",
+                        "port",
+                        "cable",
+                        "interface"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "bus"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "I ___ the API to retrieve user data from the database.",
+        "difficulty":  "hard",
+        "options":  [
+                        "called",
+                        "accessed",
+                        "requested",
+                        "queried"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "called"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "The deployment ___ on the production server was successful.",
+        "difficulty":  "hard",
+        "options":  [
+                        "process",
+                        "system",
+                        "service",
+                        "update"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "process"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "We ___ the source code in the repository to maintain version control.",
+        "difficulty":  "hard",
+        "options":  [
+                        "committed",
+                        "uploaded",
+                        "saved",
+                        "transferred"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "committed"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "The bandwidth ___ prevented us from streaming the video in high quality.",
+        "difficulty":  "hard",
+        "options":  [
+                        "limitation",
+                        "issue",
+                        "problem",
+                        "error"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "limitation"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "I need to ___ my algorithm to handle larger datasets.",
+        "difficulty":  "hard",
+        "options":  [
+                        "optimize",
+                        "update",
+                        "modify",
+                        "improve"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "optimize"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "The network ___ occurred due to excessive traffic.",
+        "difficulty":  "hard",
+        "options":  [
+                        "congestion",
+                        "problem",
+                        "failure",
+                        "issue"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "congestion"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "The ___ protocol ensures secure communication over the internet.",
+        "difficulty":  "hard",
+        "options":  [
+                        "SSL",
+                        "HTTP",
+                        "FTP",
+                        "SMTP"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "SSL"
+    },
+    {
+        "cefrLevel":  "B1",
+        "topicDomain":  "tecnologia",
+        "type":  "complete_sentence",
+        "questionText":  "The ___ allows multiple users to work on the same project simultaneously.",
+        "difficulty":  "medium",
+        "options":  [
+                        "collaboration tool",
+                        "device",
+                        "server",
+                        "network"
+                    ],
+        "questionType":  "completar_frase",
+        "correctAnswer":  "collaboration tool"
+    }
+]

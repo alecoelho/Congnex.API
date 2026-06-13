@@ -1,0 +1,522 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'shop' em inglês?",
+    "correctAnswer": "Loja",
+    "options": ["Loja", "Casa", "Escola", "Carro"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'buy' em inglês?",
+    "correctAnswer": "Comprar",
+    "options": ["Comprar", "Vender", "Pagar", "Trocar"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'money' em inglês?",
+    "correctAnswer": "Dinheiro",
+    "options": ["Dinheiro", "Cartão", "Banco", "Moeda"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'price' em inglês?",
+    "correctAnswer": "Preço",
+    "options": ["Preço", "Desconto", "Produto", "Etiqueta"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'sell' em inglês?",
+    "correctAnswer": "Vender",
+    "options": ["Vender", "Comprar", "Trocar", "Guardar"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'bag' em inglês, no contexto de compras?",
+    "correctAnswer": "Sacola",
+    "options": ["Sacola", "Caixa", "Carrinho", "Cesta"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'food' em inglês?",
+    "correctAnswer": "Comida",
+    "options": ["Comida", "Bebida", "Fruta", "Legume"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'pay' em inglês?",
+    "correctAnswer": "Pagar",
+    "options": ["Pagar", "Receber", "Gastar", "Economizar"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'market' em inglês?",
+    "correctAnswer": "Mercado",
+    "options": ["Mercado", "Farmácia", "Padaria", "Açougue"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'cheap' em inglês?",
+    "correctAnswer": "Barato",
+    "options": ["Barato", "Caro", "Novo", "Velho"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'expensive' em inglês?",
+    "correctAnswer": "Caro",
+    "options": ["Caro", "Barato", "Grátis", "Bom"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'cart' em inglês, no contexto de compras?",
+    "correctAnswer": "Carrinho",
+    "options": ["Carrinho", "Cesta", "Sacola", "Prateleira"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'store' em inglês?",
+    "correctAnswer": "Loja",
+    "options": ["Loja", "Armazém", "Depósito", "Escritório"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'list' em inglês, no contexto de compras?",
+    "correctAnswer": "Lista",
+    "options": ["Lista", "Nota", "Recibo", "Catálogo"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'free' em inglês, no contexto de preço?",
+    "correctAnswer": "Grátis",
+    "options": ["Grátis", "Barato", "Caro", "Desconto"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'open' em inglês, no contexto de uma loja?",
+    "correctAnswer": "Aberto",
+    "options": ["Aberto", "Fechado", "Cheio", "Vazio"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'closed' em inglês, no contexto de uma loja?",
+    "correctAnswer": "Fechado",
+    "options": ["Fechado", "Aberto", "Cheio", "Novo"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'receipt' em inglês?",
+    "correctAnswer": "Recibo",
+    "options": ["Recibo", "Nota fiscal", "Etiqueta", "Cupom"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'discount' em inglês?",
+    "correctAnswer": "Desconto",
+    "options": ["Desconto", "Aumento", "Preço", "Taxa"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'cashier' em inglês?",
+    "correctAnswer": "Caixa (pessoa)",
+    "options": ["Caixa (pessoa)", "Gerente", "Segurança", "Cliente"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'shelf' em inglês, no contexto de uma loja?",
+    "correctAnswer": "Prateleira",
+    "options": ["Prateleira", "Corredor", "Vitrine", "Balcão"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'change' em inglês, no contexto de pagamento?",
+    "correctAnswer": "Troco",
+    "options": ["Troco", "Desconto", "Taxa", "Valor"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'how much?' em inglês?",
+    "correctAnswer": "Quanto custa?",
+    "options": ["Quanto custa?", "Onde fica?", "Qual é?", "Tem mais?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'product' em inglês?",
+    "correctAnswer": "Produto",
+    "options": ["Produto", "Serviço", "Marca", "Modelo"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'customer' em inglês?",
+    "correctAnswer": "Cliente",
+    "options": ["Cliente", "Vendedor", "Fornecedor", "Funcionário"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'sale' em inglês, no contexto de loja?",
+    "correctAnswer": "Promoção / Liquidação",
+    "options": ["Promoção / Liquidação", "Venda normal", "Devolução", "Entrega"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'size' em inglês, no contexto de roupas?",
+    "correctAnswer": "Tamanho",
+    "options": ["Tamanho", "Cor", "Estilo", "Modelo"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'clothes' em inglês?",
+    "correctAnswer": "Roupas",
+    "options": ["Roupas", "Sapatos", "Acessórios", "Bolsas"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'wallet' em inglês?",
+    "correctAnswer": "Carteira",
+    "options": ["Carteira", "Bolsa", "Mochila", "Porta-moedas"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'spend' em inglês?",
+    "correctAnswer": "Gastar",
+    "options": ["Gastar", "Guardar", "Economizar", "Investir"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'aisle' em inglês, no contexto de supermercado?",
+    "correctAnswer": "Corredor",
+    "options": ["Corredor", "Caixa", "Prateleira", "Seção"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'brand' em inglês?",
+    "correctAnswer": "Marca",
+    "options": ["Marca", "Modelo", "Estilo", "Tipo"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'sold out' em inglês?",
+    "correctAnswer": "Esgotado",
+    "options": ["Esgotado", "Em promoção", "Novo", "Disponível"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'exchange' em inglês, no contexto de compras?",
+    "correctAnswer": "Troca",
+    "options": ["Troca", "Devolução", "Desconto", "Entrega"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'window shopping' em inglês?",
+    "correctAnswer": "Ver vitrines sem comprar",
+    "options": ["Ver vitrines sem comprar", "Comprar pela janela", "Limpar vitrines", "Abrir loja"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'checkout' em inglês, no contexto de supermercado?",
+    "correctAnswer": "Caixa (local de pagamento)",
+    "options": ["Caixa (local de pagamento)", "Entrada da loja", "Depósito", "Corredor"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'refund' em inglês?",
+    "correctAnswer": "Reembolso",
+    "options": ["Reembolso", "Desconto", "Crédito", "Troca"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'buy one get one free' em inglês?",
+    "correctAnswer": "Leve dois, pague um",
+    "options": ["Leve dois, pague um", "Compre e ganhe desconto", "Primeiro item grátis", "Frete grátis"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'loyalty card' em inglês, no contexto de compras?",
+    "correctAnswer": "Cartão fidelidade",
+    "options": ["Cartão fidelidade", "Cartão de crédito", "Cartão de débito", "Cupom de desconto"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'voucher' em inglês?",
+    "correctAnswer": "Vale / Cupom",
+    "options": ["Vale / Cupom", "Recibo", "Nota fiscal", "Extrato"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'bargain' em inglês, no contexto de compras?",
+    "correctAnswer": "Pechincha / Boa compra",
+    "options": ["Pechincha / Boa compra", "Produto caro", "Produto importado", "Produto em falta"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'in stock' em inglês?",
+    "correctAnswer": "Em estoque / Disponível",
+    "options": ["Em estoque / Disponível", "Esgotado", "Em promoção", "Em entrega"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'installment' em inglês, no contexto de pagamento?",
+    "correctAnswer": "Parcela",
+    "options": ["Parcela", "Entrada", "Juros", "Desconto"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'cash on delivery' em inglês?",
+    "correctAnswer": "Pagamento na entrega",
+    "options": ["Pagamento na entrega", "Pagamento antecipado", "Pagamento parcelado", "Pagamento com cartão"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'wholesale' em inglês?",
+    "correctAnswer": "Atacado",
+    "options": ["Atacado", "Varejo", "Importado", "Exportado"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'retail' em inglês?",
+    "correctAnswer": "Varejo",
+    "options": ["Varejo", "Atacado", "Importação", "Distribuição"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'price tag' em inglês?",
+    "correctAnswer": "Etiqueta de preço",
+    "options": ["Etiqueta de preço", "Nota fiscal", "Recibo", "Catálogo"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'shoplifting' em inglês?",
+    "correctAnswer": "Furto em loja",
+    "options": ["Furto em loja", "Compra em excesso", "Devolução de produto", "Troca de mercadoria"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'out of stock' em inglês?",
+    "correctAnswer": "Sem estoque / Esgotado",
+    "options": ["Sem estoque / Esgotado", "Em promoção", "Disponível", "Em reposição"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'queue' em inglês, no contexto de compras?",
+    "correctAnswer": "Fila",
+    "options": ["Fila", "Corredor", "Caixa", "Balcão"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'shopping mall' em inglês?",
+    "correctAnswer": "Shopping center",
+    "options": ["Shopping center", "Mercado ao ar livre", "Loja de departamentos", "Feira livre"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'vendor' em inglês?",
+    "correctAnswer": "Vendedor / Fornecedor",
+    "options": ["Vendedor / Fornecedor", "Cliente", "Gerente", "Entregador"],
+    "difficulty": "hard"
+  }
+]

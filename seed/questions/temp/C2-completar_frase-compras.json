@@ -1,0 +1,502 @@
+[
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Quando você vai ao supermercado, é importante fazer uma ___ antes de sair de casa para não esquecer nada.",
+    "correctAnswer": "shopping list",
+    "options": ["shopping list", "price tag", "receipt", "checkout"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "O vendedor disse que o produto estava em ___, então eu aproveitei para comprar dois.",
+    "correctAnswer": "on sale",
+    "options": ["on sale", "on stock", "on demand", "on display"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Ela sempre verifica o ___ antes de comprar para ter certeza de que o preço é justo.",
+    "correctAnswer": "price tag",
+    "options": ["price tag", "bar code", "warranty", "receipt"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Após realizar a compra, o caixa me entregou o ___ com todos os itens listados.",
+    "correctAnswer": "receipt",
+    "options": ["receipt", "coupon", "invoice", "voucher"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "O cliente foi até o ___ para pagar pelos produtos que escolheu.",
+    "correctAnswer": "checkout",
+    "options": ["checkout", "aisle", "counter", "shelf"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "A loja oferece ___ para clientes que compram acima de um determinado valor.",
+    "correctAnswer": "discounts",
+    "options": ["discounts", "deposits", "debts", "dividends"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Muitas pessoas preferem fazer compras ___ porque é mais conveniente do que ir à loja.",
+    "correctAnswer": "online",
+    "options": ["online", "outdoor", "overhead", "outright"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Ele usou seu ___ para pagar a conta em vez de usar dinheiro.",
+    "correctAnswer": "credit card",
+    "options": ["credit card", "gift card", "loyalty card", "boarding pass"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "A loja estava completamente ___ de estoque naquele produto popular.",
+    "correctAnswer": "out of",
+    "options": ["out of", "short of", "away from", "ahead of"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Ela usou um ___ para obter desconto adicional em sua compra.",
+    "correctAnswer": "coupon",
+    "options": ["coupon", "token", "stamp", "label"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Os produtos foram colocados nas ___ de forma organizada para facilitar a visualização.",
+    "correctAnswer": "shelves",
+    "options": ["shelves", "aisles", "carts", "counters"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "O ___ do produto inclui uma garantia de dois anos.",
+    "correctAnswer": "warranty",
+    "options": ["warranty", "invoice", "receipt", "coupon"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Durante a Black Friday, muitas lojas oferecem ___ incríveis para atrair consumidores.",
+    "correctAnswer": "deals",
+    "options": ["deals", "dates", "dues", "drafts"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "O cliente pediu um ___ porque o produto estava com defeito.",
+    "correctAnswer": "refund",
+    "options": ["refund", "reward", "rebate", "renewal"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Ela colocou todos os produtos no ___ enquanto caminhava pelo supermercado.",
+    "correctAnswer": "shopping cart",
+    "options": ["shopping cart", "shopping bag", "shopping list", "shopping mall"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "O ___ da loja era muito caro, mas a qualidade justificava o preço.",
+    "correctAnswer": "merchandise",
+    "options": ["merchandise", "management", "maintenance", "membership"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Ele sempre compara preços antes de fazer uma ___ importante.",
+    "correctAnswer": "purchase",
+    "options": ["purchase", "payment", "profit", "proposal"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "A empresa lançou uma campanha para atrair consumidores mais ___, que valorizam produtos sustentáveis.",
+    "correctAnswer": "conscientious",
+    "options": ["conscientious", "conspicuous", "conventional", "contentious"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "O comportamento ___ dos consumidores modernos inclui pesquisar extensivamente antes de qualquer compra significativa.",
+    "correctAnswer": "discerning",
+    "options": ["discerning", "disruptive", "disconcerting", "dismissive"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "A loja decidiu fazer uma ___ de todos os produtos de inverno para abrir espaço para a nova coleção.",
+    "correctAnswer": "clearance sale",
+    "options": ["clearance sale", "closing down sale", "charity sale", "clearance stock"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Os preços ___ na região metropolitana tornaram difícil para famílias de baixa renda fazerem compras básicas.",
+    "correctAnswer": "skyrocketed",
+    "options": ["skyrocketed", "streamlined", "subsidized", "standardized"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "O programa de ___ da loja recompensa clientes frequentes com pontos que podem ser trocados por descontos.",
+    "correctAnswer": "loyalty",
+    "options": ["loyalty", "lavishness", "leniency", "leverage"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "A tendência de ___ tem incentivado consumidores a preferirem qualidade em vez de quantidade.",
+    "correctAnswer": "mindful consumption",
+    "options": ["mindful consumption", "mass consumption", "material consumption", "marginal consumption"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "O comerciante tentou ___ o preço inicial, mas o cliente recusou pagar mais do que o mercado indicava.",
+    "correctAnswer": "inflate",
+    "options": ["inflate", "implicate", "imitate", "impersonate"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "A ___ de produtos importados aumentou significativamente devido à queda nas tarifas alfandegárias.",
+    "correctAnswer": "influx",
+    "options": ["influx", "influence", "inflation", "infraction"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Os consumidores estão cada vez mais atentos ao ___ de carbono dos produtos que compram.",
+    "correctAnswer": "carbon footprint",
+    "options": ["carbon footprint", "carbon copy", "carbon dating", "carbon offset"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Ela ficou impressionada com o ___ da loja, que oferecia uma experiência de compra verdadeiramente personalizada.",
+    "correctAnswer": "bespoke service",
+    "options": ["bespoke service", "basic service", "bulk service", "budget service"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "A empresa adoptou uma estratégia ___ para atrair tanto clientes de alto poder aquisitivo quanto os mais econômicos.",
+    "correctAnswer": "dual-market",
+    "options": ["dual-market", "dual-purpose", "dual-income", "dual-channel"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "O varejo ___ tem crescido substancialmente, permitindo que marcas de luxo alcancem consumidores em mercados emergentes.",
+    "correctAnswer": "omnichannel",
+    "options": ["omnichannel", "multinational", "multicultural", "multiplatform"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "A política de devolução da loja era tão restritiva que muitos consumidores preferiram comprar em outro lugar, o que levou à ___ de clientes.",
+    "correctAnswer": "attrition",
+    "options": ["attrition", "attraction", "attribution", "attention"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "O fenômeno do ___ ocorre quando consumidores adquirem produtos sem necessidade real, apenas pela satisfação momentânea.",
+    "correctAnswer": "impulse buying",
+    "options": ["impulse buying", "impulsive spending", "instant buying", "instinct purchasing"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Para aumentar a fidelização, a empresa passou a oferecer ___ exclusivos para membros do seu programa premium.",
+    "correctAnswer": "perks",
+    "options": ["perks", "peaks", "pecks", "peeks"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "A ___ do produto foi tão bem elaborada que convenceu muitos consumidores a pagar mais pela embalagem do que pelo conteúdo.",
+    "correctAnswer": "packaging",
+    "options": ["packaging", "patching", "pairing", "publishing"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "O consumidor exigente sempre verifica o ___ de um produto antes de comprá-lo, especialmente em lojas online.",
+    "correctAnswer": "return policy",
+    "options": ["return policy", "refund receipt", "replacement plan", "retail protocol"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "A marca usou uma estratégia de ___ para criar a ilusão de exclusividade ao limitar a quantidade de produtos disponíveis.",
+    "correctAnswer": "artificial scarcity",
+    "options": ["artificial scarcity", "artificial surplus", "artificial demand", "artificial supply"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "A prática de ___ envolve empresas que deliberadamente tornam produtos difíceis de reparar para forçar novas compras.",
+    "correctAnswer": "planned obsolescence",
+    "options": ["planned obsolescence", "planned consumption", "planned depreciation", "planned redundancy"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "A estratégia de ___ adotada pela rede de supermercados visava capturar segmentos de mercado com diferentes perfis de renda.",
+    "correctAnswer": "price tiering",
+    "options": ["price tiering", "price pegging", "price anchoring", "price gauging"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "O fenômeno de ___ ocorre quando um consumidor se afasta de marcas conhecidas e passa a preferir produtos genéricos.",
+    "correctAnswer": "brand detachment",
+    "options": ["brand detachment", "brand dilution", "brand dissolution", "brand devaluation"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "O relatório concluiu que a ___ dos preços nas plataformas digitais havia criado distorções significativas no mercado varejista.",
+    "correctAnswer": "algorithmic manipulation",
+    "options": ["algorithmic manipulation", "algorithmic moderation", "algorithmic mediation", "algorithmic monetization"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "O conceito de ___ sugere que consumidores atribuem valor excessivo a bens adquiridos, tornando difícil abrir mão deles.",
+    "correctAnswer": "endowment effect",
+    "options": ["endowment effect", "anchoring effect", "exposure effect", "engagement effect"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "A tendência de ___ reflete o desejo crescente de consumidores de adquirir experiências em vez de bens materiais.",
+    "correctAnswer": "experiential consumption",
+    "options": ["experiential consumption", "experimental consumption", "existential consumption", "expedient consumption"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Ao analisar os dados de compra, os analistas identificaram um padrão de ___ entre os consumidores mais jovens, que tendem a comprar em ciclos específicos.",
+    "correctAnswer": "cyclical purchasing behaviour",
+    "options": ["cyclical purchasing behaviour", "circular purchasing pattern", "cyclical payment behaviour", "cyclic buying tendency"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "O crescimento do movimento ___ tem incentivado consumidores a questionarem a necessidade de possuir bens em vez de simplesmente utilizá-los.",
+    "correctAnswer": "collaborative consumption",
+    "options": ["collaborative consumption", "collective consumption", "communal consumption", "coordinated consumption"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "A técnica de ___ é frequentemente usada em negociações de alto nível para ancorar as expectativas do comprador em torno de um preço inicial elevado.",
+    "correctAnswer": "anchoring",
+    "options": ["anchoring", "arbitrating", "appraising", "averaging"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "A investigação revelou práticas de ___ por parte de várias marcas de luxo, que inflacionavam artificialmente seus preços de referência.",
+    "correctAnswer": "price gouging",
+    "options": ["price gouging", "price gauging", "price gaming", "price grading"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "O conceito de ___ no varejo refere-se à tendência de consumidores em gastar mais do que planejado quando o ambiente da loja é cuidadosamente projetado para estimular compras.",
+    "correctAnswer": "retail therapy effect",
+    "options": ["retail therapy effect", "retail surplus effect", "retail trigger effect", "retail trapping effect"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "A análise de ___ permite que empresas de e-commerce personalizem ofertas com base no histórico detalhado de navegação e compra de cada usuário.",
+    "correctAnswer": "behavioural data",
+    "options": ["behavioural data", "biometric data", "binary data", "benchmark data"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "A prática conhecida como ___ envolve a cobrança de preços diferentes para o mesmo produto com base na localização ou perfil do consumidor.",
+    "correctAnswer": "dynamic pricing",
+    "options": ["dynamic pricing", "differential pricing", "discriminatory pricing", "discretionary pricing"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "O efeito de ___ no comportamento do consumidor ocorre quando a presença de uma terceira opção inflacionada torna as outras opções parecerem mais atraentes.",
+    "correctAnswer": "decoy pricing",
+    "options": ["decoy pricing", "decay pricing", "default pricing", "deferred pricing"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "A crescente demanda por ___ tem levado marcas a reformularem suas cadeias de fornecimento para reduzir o impacto ambiental.",
+    "correctAnswer": "ethically sourced products",
+    "options": ["ethically sourced products", "externally sourced products", "extensively sourced products", "exclusively sourced products"],
+    "difficulty": "hard"
+  }
+]

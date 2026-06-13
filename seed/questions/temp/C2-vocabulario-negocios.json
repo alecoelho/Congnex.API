@@ -1,0 +1,492 @@
+[
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "No contexto de finanças corporativas, o que significa o termo 'revenue'?",
+    "correctAnswer": "Receita",
+    "options": ["Lucro", "Receita", "Despesa", "Patrimônio"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Na linguagem empresarial em inglês, o que significa 'merger'?",
+    "correctAnswer": "Fusão",
+    "options": ["Aquisição", "Fusão", "Parceria", "Dissolução"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa a expressão 'bottom line' no contexto financeiro?",
+    "correctAnswer": "Lucro líquido",
+    "options": ["Linha de crédito", "Custo operacional", "Lucro líquido", "Meta de vendas"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'shareholder' em português?",
+    "correctAnswer": "Acionista",
+    "options": ["Gerente", "Credor", "Acionista", "Auditor"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Na área de negócios, o que significa 'invoice'?",
+    "correctAnswer": "Fatura",
+    "options": ["Contrato", "Fatura", "Recibo", "Orçamento"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa o termo 'budget' no contexto empresarial?",
+    "correctAnswer": "Orçamento",
+    "options": ["Déficit", "Orçamento", "Lucro", "Despesa"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'headquarters' em português, no contexto corporativo?",
+    "correctAnswer": "Sede",
+    "options": ["Filial", "Sede", "Departamento", "Subsidiária"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa o termo 'dividend' no contexto de investimentos?",
+    "correctAnswer": "Dividendo",
+    "options": ["Juro", "Dividendo", "Amortização", "Provisão"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "No inglês de negócios, o que significa 'liability'?",
+    "correctAnswer": "Passivo / Obrigação",
+    "options": ["Ativo", "Passivo / Obrigação", "Patrimônio líquido", "Receita bruta"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'fiscal year' em português?",
+    "correctAnswer": "Ano fiscal",
+    "options": ["Trimestre fiscal", "Ano fiscal", "Período contábil", "Exercício semestral"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "No contexto financeiro, o que significa 'cash flow'?",
+    "correctAnswer": "Fluxo de caixa",
+    "options": ["Saldo bancário", "Fluxo de caixa", "Reserva de capital", "Linha de crédito"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa o termo 'equity' no contexto de finanças corporativas?",
+    "correctAnswer": "Patrimônio líquido",
+    "options": ["Dívida", "Ativo fixo", "Patrimônio líquido", "Capital de giro"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "No inglês empresarial, o que significa 'workforce'?",
+    "correctAnswer": "Força de trabalho / mão de obra",
+    "options": ["Produtividade", "Força de trabalho / mão de obra", "Capacidade instalada", "Gestão de pessoas"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'outsourcing' no contexto empresarial?",
+    "correctAnswer": "Terceirização",
+    "options": ["Exportação", "Terceirização", "Subcontratação interna", "Franquia"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'interest rate' em português?",
+    "correctAnswer": "Taxa de juros",
+    "options": ["Taxa de câmbio", "Taxa de inflação", "Taxa de juros", "Taxa de retorno"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "No contexto financeiro, o que significa 'audit'?",
+    "correctAnswer": "Auditoria",
+    "options": ["Auditoria", "Consultoria", "Perícia judicial", "Revisão fiscal"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'benchmark' no contexto de análise de negócios?",
+    "correctAnswer": "Referência de desempenho / parâmetro comparativo",
+    "options": ["Meta financeira", "Referência de desempenho / parâmetro comparativo", "Indicador de lucratividade", "Padrão regulatório"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa o termo 'leveraged buyout' (LBO) no contexto de fusões e aquisições?",
+    "correctAnswer": "Aquisição alavancada com uso de dívida",
+    "options": ["Compra direta com capital próprio", "Aquisição alavancada com uso de dívida", "Fusão entre empresas de mesmo porte", "Venda parcial de ativos estratégicos"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Na linguagem financeira avançada, o que significa 'amortization'?",
+    "correctAnswer": "Amortização de ativos intangíveis ao longo do tempo",
+    "options": ["Pagamento antecipado de dívidas", "Amortização de ativos intangíveis ao longo do tempo", "Reavaliação de ativos fixos", "Provisão para devedores duvidosos"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'working capital' no contexto de gestão financeira?",
+    "correctAnswer": "Capital de giro",
+    "options": ["Capital social", "Capital de giro", "Reserva de caixa", "Fundo de investimento"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'due diligence' no contexto de negócios e finanças?",
+    "correctAnswer": "Processo de investigação e avaliação antes de uma transação",
+    "options": ["Cumprimento de obrigações legais", "Processo de investigação e avaliação antes de uma transação", "Auditoria contábil obrigatória", "Revisão de contratos vigentes"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'hedge' no contexto de gestão de riscos financeiros?",
+    "correctAnswer": "Estratégia para proteger contra oscilações de preço ou câmbio",
+    "options": ["Especulação em mercados futuros", "Estratégia para proteger contra oscilações de preço ou câmbio", "Diversificação de portfólio", "Reequilíbrio de ativos"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'goodwill' no balanço patrimonial de uma empresa?",
+    "correctAnswer": "Valor intangível pago acima do valor contábil numa aquisição",
+    "options": ["Reputação da marca no mercado consumidor", "Valor intangível pago acima do valor contábil numa aquisição", "Reserva de capital para expansão", "Ativo circulante de curto prazo"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'yield' no contexto de renda fixa e investimentos?",
+    "correctAnswer": "Rendimento ou retorno de um ativo",
+    "options": ["Valor nominal do título", "Rendimento ou retorno de um ativo", "Prazo de vencimento", "Risco de crédito associado"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'accounts receivable' no contexto contábil?",
+    "correctAnswer": "Contas a receber",
+    "options": ["Contas a pagar", "Contas a receber", "Provisão de créditos", "Duplicatas descontadas"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "No contexto de mercado de capitais, o que significa 'IPO' (Initial Public Offering)?",
+    "correctAnswer": "Oferta pública inicial de ações",
+    "options": ["Recompra de ações pela empresa", "Oferta pública inicial de ações", "Emissão privada de debêntures", "Listagem secundária em bolsa estrangeira"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'depreciation' no contexto de contabilidade de ativos?",
+    "correctAnswer": "Depreciação — redução do valor de ativos tangíveis ao longo do tempo",
+    "options": ["Valorização de ativos por reavaliação", "Depreciação — redução do valor de ativos tangíveis ao longo do tempo", "Baixa contábil por obsolescência imediata", "Amortização de passivos de longo prazo"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Na linguagem corporativa avançada, o que significa 'stakeholder'?",
+    "correctAnswer": "Parte interessada com influência ou interesse na empresa",
+    "options": ["Acionista majoritário com direito a voto", "Parte interessada com influência ou interesse na empresa", "Membro do conselho de administração", "Investidor institucional de longo prazo"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'collateral' no contexto de operações de crédito?",
+    "correctAnswer": "Garantia oferecida em troca de um empréstimo",
+    "options": ["Cláusula de inadimplência", "Garantia oferecida em troca de um empréstimo", "Linha de crédito rotativo", "Spread de juros cobrado pelo banco"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'venture capital' no ecossistema de startups e investimentos?",
+    "correctAnswer": "Capital de risco investido em empresas de alto crescimento",
+    "options": ["Empréstimo bancário para PMEs", "Capital de risco investido em empresas de alto crescimento", "Fundo de investimento em renda fixa", "Financiamento público para inovação"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'profit margin' no contexto de análise financeira?",
+    "correctAnswer": "Margem de lucro",
+    "options": ["Volume de vendas", "Margem de lucro", "Custo variável unitário", "Ponto de equilíbrio"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "Na análise de demonstrações financeiras, o que significa 'EBITDA'?",
+    "correctAnswer": "Lucro antes de juros, impostos, depreciação e amortização",
+    "options": ["Lucro líquido após todos os encargos", "Lucro antes de juros, impostos, depreciação e amortização", "Receita bruta menos custo dos produtos vendidos", "Fluxo de caixa livre após reinvestimentos"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'market capitalization' (market cap) no mercado de ações?",
+    "correctAnswer": "Valor total de mercado de uma empresa listada em bolsa",
+    "options": ["Patrimônio líquido contábil da empresa", "Valor total de mercado de uma empresa listada em bolsa", "Volume diário de negociação das ações", "Reserva de capital autorizada pela assembleia"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'procurement' no contexto de operações empresariais?",
+    "correctAnswer": "Processo de aquisição de bens e serviços para a empresa",
+    "options": ["Gestão da cadeia de distribuição", "Processo de aquisição de bens e serviços para a empresa", "Controle de qualidade de fornecedores", "Negociação de contratos com clientes"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa o termo 'divestiture' no contexto de estratégia corporativa?",
+    "correctAnswer": "Desinvestimento — venda ou alienação de ativos ou divisões",
+    "options": ["Restruturação da dívida corporativa", "Desinvestimento — venda ou alienação de ativos ou divisões", "Fusão entre subsidiárias do mesmo grupo", "Recompra alavancada de ações próprias"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'covenant' no contexto de contratos de dívida corporativa?",
+    "correctAnswer": "Cláusula restritiva que o devedor deve cumprir durante a vigência do empréstimo",
+    "options": ["Garantia real oferecida em operações de crédito", "Cláusula restritiva que o devedor deve cumprir durante a vigência do empréstimo", "Acordo de confidencialidade entre partes", "Cláusula de vencimento antecipado por inadimplência"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'fungible' no contexto de ativos e instrumentos financeiros?",
+    "correctAnswer": "Intercambiável — unidades são equivalentes e substituíveis entre si",
+    "options": ["Negociável no mercado secundário", "Intercambiável — unidades são equivalentes e substituíveis entre si", "Conversível em moeda estrangeira", "Vinculado a índice de referência"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'arbitrage' no contexto de mercados financeiros?",
+    "correctAnswer": "Exploração de diferenças de preço do mesmo ativo em mercados distintos para obter lucro sem risco",
+    "options": ["Especulação baseada em análise técnica de tendências", "Exploração de diferenças de preço do mesmo ativo em mercados distintos para obter lucro sem risco", "Estratégia de hedge cambial em operações internacionais", "Compra e venda simultânea de derivativos correlacionados"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'liquidity trap' no contexto de política monetária e macroeconomia?",
+    "correctAnswer": "Situação em que a política monetária expansionista perde eficácia pois agentes preferem reter liquidez",
+    "options": ["Excesso de oferta monetária gerando hiperinflação", "Situação em que a política monetária expansionista perde eficácia pois agentes preferem reter liquidez", "Crise bancária causada por corrida aos depósitos", "Restrição de crédito imposta pelo banco central"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'moral hazard' no contexto de finanças e economia?",
+    "correctAnswer": "Tendência de assumir riscos excessivos quando se está protegido das consequências",
+    "options": ["Conflito de interesse entre acionistas e credores", "Tendência de assumir riscos excessivos quando se está protegido das consequências", "Assimetria de informação na precificação de ativos", "Risco sistêmico decorrente de falhas regulatórias"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'securitization' no contexto de mercado de capitais?",
+    "correctAnswer": "Processo de transformar ativos ilíquidos em títulos negociáveis no mercado",
+    "options": ["Emissão de ações preferenciais com cláusula de resgate", "Processo de transformar ativos ilíquidos em títulos negociáveis no mercado", "Estruturação de debêntures conversíveis em equity", "Garantia de depósitos pelo fundo garantidor"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'predatory pricing' no contexto de estratégia competitiva e antitruste?",
+    "correctAnswer": "Prática de reduzir preços abaixo do custo para eliminar concorrentes e depois aumentá-los",
+    "options": ["Diferenciação de preços por segmento de mercado", "Prática de reduzir preços abaixo do custo para eliminar concorrentes e depois aumentá-los", "Estratégia de preço premium para posicionamento de marca", "Acordo tácito de precificação entre oligopolistas"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'solvency' em contraposição a 'liquidity' no contexto de análise financeira?",
+    "correctAnswer": "Capacidade de longo prazo de honrar todas as obrigações com os ativos totais",
+    "options": ["Capacidade imediata de converter ativos em caixa", "Capacidade de longo prazo de honrar todas as obrigações com os ativos totais", "Cobertura de dívidas de curto prazo pelo capital de giro", "Índice de endividamento em relação ao patrimônio líquido"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'fiduciary duty' no contexto de governança corporativa?",
+    "correctAnswer": "Obrigação legal de agir no melhor interesse de outra parte, como acionistas ou beneficiários",
+    "options": ["Responsabilidade civil por danos causados a terceiros", "Obrigação legal de agir no melhor interesse de outra parte, como acionistas ou beneficiários", "Dever de sigilo sobre informações privilegiadas", "Compromisso contratual de não concorrência"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'contango' no mercado de derivativos e commodities?",
+    "correctAnswer": "Situação em que o preço futuro de um ativo é superior ao seu preço à vista",
+    "options": ["Situação em que o preço futuro é inferior ao preço à vista", "Situação em que o preço futuro de um ativo é superior ao seu preço à vista", "Convergência entre preço futuro e spot na data de vencimento", "Volatilidade implícita superior à volatilidade histórica"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'clawback provision' no contexto de remuneração executiva?",
+    "correctAnswer": "Cláusula que permite recuperar bônus pagos a executivos em caso de reapresentação de resultados ou má conduta",
+    "options": ["Bônus de retenção vinculado a metas de longo prazo", "Cláusula que permite recuperar bônus pagos a executivos em caso de reapresentação de resultados ou má conduta", "Indenização contratual por rescisão sem justa causa", "Participação nos lucros condicionada a desempenho coletivo"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'adverse selection' no contexto de mercados com assimetria de informação?",
+    "correctAnswer": "Fenômeno em que a parte com menos informação atrai desproporcionalmente contrapartes de maior risco",
+    "options": ["Escolha deliberada de investimentos de alto risco por gestores", "Fenômeno em que a parte com menos informação atrai desproporcionalmente contrapartes de maior risco", "Seleção de portfólio baseada em análise fundamentalista", "Viés de confirmação na tomada de decisões financeiras"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'mezzanine financing' no contexto de estrutura de capital?",
+    "correctAnswer": "Financiamento híbrido entre dívida sênior e equity, geralmente com warrants ou conversão",
+    "options": ["Empréstimo bancário com garantia de ativos imobiliários", "Financiamento híbrido entre dívida sênior e equity, geralmente com warrants ou conversão", "Emissão de ações preferenciais com resgate compulsório", "Linha de crédito rotativa para capital de giro de curto prazo"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "negocios",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'accretive acquisition' no contexto de fusões e aquisições?",
+    "correctAnswer": "Aquisição que aumenta o lucro por ação da empresa adquirente após a transação",
+    "options": ["Aquisição que dilui o lucro por ação da empresa compradora", "Aquisição que aumenta o lucro por ação da empresa adquirente após a transação", "Compra de empresa a preço abaixo do valor contábil", "Aquisição financiada exclusivamente com emissão de novas ações"],
+    "difficulty": "hard"
+  }
+]

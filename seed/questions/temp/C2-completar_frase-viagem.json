@@ -1,0 +1,522 @@
+[
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Ao chegar ao aeroporto, o viajante deve ir direto ao balcão de ___ para registrar sua bagagem.",
+    "correctAnswer": "check-in",
+    "options": ["check-in", "boarding", "customs", "layover"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "O avião decolou no horário previsto e chegou ao ___ sem atrasos.",
+    "correctAnswer": "destination",
+    "options": ["destination", "terminal", "runway", "departure"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Para entrar em outro país, os viajantes precisam apresentar seu ___ na fronteira.",
+    "correctAnswer": "passport",
+    "options": ["passport", "ticket", "receipt", "boarding pass"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "O hotel oferece um serviço de ___ que permite que os hóspedes armazenem suas bagagens após o horário de saída.",
+    "correctAnswer": "luggage storage",
+    "options": ["luggage storage", "room service", "concierge", "valet parking"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "O turista comprou um ___ de ônibus para se locomover pela cidade durante toda a semana.",
+    "correctAnswer": "travel pass",
+    "options": ["travel pass", "boarding card", "entry permit", "road map"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "O voo foi cancelado devido ao mau tempo, então os passageiros receberam um ___ para a próxima saída disponível.",
+    "correctAnswer": "rebooking",
+    "options": ["rebooking", "refund", "upgrade", "delay notice"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Ao reservar o quarto de hotel, ela pediu uma vista para o ___ para apreciar a paisagem.",
+    "correctAnswer": "ocean",
+    "options": ["ocean", "lobby", "corridor", "basement"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "O guia turístico recomendou que o grupo visitasse o museu logo pela manhã para evitar as ___ de turistas.",
+    "correctAnswer": "crowds",
+    "options": ["crowds", "guides", "queues", "tours"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Antes de embarcar, os passageiros devem estar na ___ pelo menos 30 minutos antes do horário de partida.",
+    "correctAnswer": "gate",
+    "options": ["gate", "lounge", "runway", "terminal"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Durante a viagem de cruzeiro, os passageiros aproveitaram o ___ para relaxar e admirar o mar.",
+    "correctAnswer": "deck",
+    "options": ["deck", "cabin", "port", "stern"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "O turista alugou um carro e precisou de um ___ para navegar pelas estradas desconhecidas.",
+    "correctAnswer": "GPS",
+    "options": ["GPS", "compass", "itinerary", "road sign"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Ao fazer o ___ no hotel, o hóspede recebeu as chaves do quarto e informações sobre os serviços disponíveis.",
+    "correctAnswer": "check-in",
+    "options": ["check-in", "checkout", "reservation", "concierge"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "O viajante contratou um seguro de ___ para se proteger contra imprevistos durante sua aventura ao exterior.",
+    "correctAnswer": "travel insurance",
+    "options": ["travel insurance", "travel allowance", "flight coverage", "health benefit"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "O turista trocou sua moeda local por ___ antes de embarcar para os Estados Unidos.",
+    "correctAnswer": "dollars",
+    "options": ["dollars", "euros", "pounds", "yen"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "O voo ___ parou em Lisboa antes de continuar para São Paulo.",
+    "correctAnswer": "connecting",
+    "options": ["connecting", "direct", "chartered", "domestic"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "O grupo de turistas ficou maravilhado com os ___ locais e experimentou pratos típicos da região.",
+    "correctAnswer": "restaurants",
+    "options": ["restaurants", "museums", "monuments", "theatres"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "O viajante reservou um quarto ___ no hotel para ter mais privacidade e conforto durante a estadia.",
+    "correctAnswer": "single",
+    "options": ["single", "double", "suite", "shared"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "O passageiro perdeu seu voo de ___ em Frankfurt e precisou remarcar para o próximo disponível.",
+    "correctAnswer": "connection",
+    "options": ["connection", "departure", "arrival", "transit"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Após uma longa viagem, o turista sofreu de ___, sentindo-se desorientado e com dificuldade para dormir.",
+    "correctAnswer": "jet lag",
+    "options": ["jet lag", "travel sickness", "altitude sickness", "homesickness"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "O viajante solicitou um ___ de seu voo para a classe executiva, usando suas milhas acumuladas.",
+    "correctAnswer": "upgrade",
+    "options": ["upgrade", "transfer", "rebooking", "refund"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "O guia alertou os turistas sobre a necessidade de ___ local antes de fotografar pessoas ou locais sagrados.",
+    "correctAnswer": "permission",
+    "options": ["permission", "awareness", "caution", "guidance"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "A companhia aérea anunciou que todos os voos estavam sujeitos a ___ devido às condições climáticas adversas.",
+    "correctAnswer": "delays",
+    "options": ["delays", "diversions", "cancellations", "groundings"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "O hotel boutique oferecia uma experiência ___ com decoração artesanal e serviço altamente personalizado.",
+    "correctAnswer": "immersive",
+    "options": ["immersive", "exclusive", "affordable", "conventional"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "A agência de viagens organizou um ___ completo incluindo voos, hospedagem e passeios guiados.",
+    "correctAnswer": "package tour",
+    "options": ["package tour", "group excursion", "travel bundle", "sightseeing trip"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "O viajante independente preferiu explorar a cidade sem roteiro fixo, adotando uma abordagem mais ___.",
+    "correctAnswer": "spontaneous",
+    "options": ["spontaneous", "structured", "cautious", "guided"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "A companhia ofereceu aos passageiros afetados pelo cancelamento um ___ em hotel próximo ao aeroporto.",
+    "correctAnswer": "complimentary stay",
+    "options": ["complimentary stay", "partial refund", "travel voucher", "overnight allowance"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "Ao visitar países com culturas distintas, os turistas devem estar cientes das ___ locais para não ofender os moradores.",
+    "correctAnswer": "customs",
+    "options": ["customs", "traditions", "regulations", "etiquette"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "O viajante de negócios aproveitou a ___ do aeroporto para trabalhar enquanto aguardava o próximo voo.",
+    "correctAnswer": "lounge",
+    "options": ["lounge", "terminal", "transit zone", "waiting area"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "O roteiro de viagem incluía um ___ de dois dias em Amsterdã antes da chegada ao destino final.",
+    "correctAnswer": "stopover",
+    "options": ["stopover", "layover", "detour", "transit"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "O turista precisou pagar uma taxa de ___ ao trazer produtos acima do limite permitido pela alfândega.",
+    "correctAnswer": "duty",
+    "options": ["duty", "tariff", "surcharge", "levy"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "A viajante optou por hospedagem em uma ___ para ter uma experiência mais autêntica e próxima dos moradores locais.",
+    "correctAnswer": "guesthouse",
+    "options": ["guesthouse", "hostel", "resort", "inn"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "O viajante experiente sempre mantém uma cópia digitalizada de seus documentos importantes em caso de ___.",
+    "correctAnswer": "emergency",
+    "options": ["emergency", "loss", "theft", "misplacement"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "O cruzeiro de luxo oferecia excursões ___ em cada porto de escala, com guias especializados.",
+    "correctAnswer": "shore",
+    "options": ["shore", "land", "coastal", "port"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "A política de ___ da companhia aérea permite que passageiros frequentes acumulem pontos para resgatar passagens.",
+    "correctAnswer": "frequent flyer",
+    "options": ["frequent flyer", "loyalty program", "reward miles", "bonus points"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "O turista ficou encantado com a ___ arquitetônica da cidade, que mesclava estilos medievais e contemporâneos.",
+    "correctAnswer": "heritage",
+    "options": ["heritage", "landscape", "scenery", "panorama"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "A viagem de ___ foi planejada para coincidir com o festival local, garantindo uma experiência cultural única.",
+    "correctAnswer": "immersion",
+    "options": ["immersion", "adventure", "exploration", "discovery"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "O viajante veterano soube que a melhor forma de ___ o culture shock era adotar uma postura aberta e curiosa.",
+    "correctAnswer": "mitigate",
+    "options": ["mitigate", "overcome", "suppress", "avoid"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "O itinerário foi elaborado com extremo ___ para garantir que nenhuma atração imperdível fosse negligenciada.",
+    "correctAnswer": "meticulousness",
+    "options": ["meticulousness", "thoroughness", "precision", "diligence"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "A travessia pela região remota exigiu que os aventureiros fossem completamente ___ em termos de suprimentos.",
+    "correctAnswer": "self-sufficient",
+    "options": ["self-sufficient", "well-equipped", "independent", "resourceful"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "O fenômeno do ___ turismo tem transformado destinos antes tranquilos em locais superlotados e degradados.",
+    "correctAnswer": "overtourism",
+    "options": ["overtourism", "mass tourism", "hyper-tourism", "flood tourism"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "A empresa de turismo adotou práticas de ___ para minimizar o impacto ambiental de suas operações.",
+    "correctAnswer": "sustainable tourism",
+    "options": ["sustainable tourism", "responsible travel", "eco-conscious travel", "green tourism"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "O viajante de longa data desenvolveu uma aguda ___ cultural que lhe permitia adaptar-se rapidamente a novos ambientes.",
+    "correctAnswer": "acumen",
+    "options": ["acumen", "sensitivity", "awareness", "intuition"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "A companhia aérea implementou uma política de ___ para passageiros com necessidades de acessibilidade durante o embarque.",
+    "correctAnswer": "reasonable accommodation",
+    "options": ["reasonable accommodation", "special assistance", "priority boarding", "disability support"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "A jornada pelo deserto exigiu que os exploradores desenvolvessem uma ___ impressionante para sobreviver às condições adversas.",
+    "correctAnswer": "resilience",
+    "options": ["resilience", "endurance", "fortitude", "perseverance"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "O movimento de ___ encoraja os viajantes a explorar destinos fora do circuito turístico convencional.",
+    "correctAnswer": "off-the-beaten-path",
+    "options": ["off-the-beaten-path", "alternative travel", "unconventional tourism", "fringe travel"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "A experiência de ___ permitiu que os viajantes vivessem como verdadeiros moradores locais, mergulhando na cultura cotidiana.",
+    "correctAnswer": "slow travel",
+    "options": ["slow travel", "cultural immersion", "local living", "homestay travel"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "O visto de ___ permite que nômades digitais residam e trabalhem remotamente em determinados países por períodos prolongados.",
+    "correctAnswer": "digital nomad",
+    "options": ["digital nomad", "work abroad", "remote worker", "freelance travel"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "As autoridades de imigração submeteram o viajante a um interrogatório ___ antes de autorizar sua entrada no país.",
+    "correctAnswer": "rigorous",
+    "options": ["rigorous", "extensive", "thorough", "exhaustive"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "O conceito de ___ travel baseia-se na ideia de viajar com impacto mínimo sobre as comunidades e ecossistemas locais.",
+    "correctAnswer": "responsible",
+    "options": ["responsible", "sustainable", "ethical", "mindful"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "O turista de luxo exigiu um serviço completamente ___, com cada detalhe da viagem personalizado segundo suas preferências.",
+    "correctAnswer": "bespoke",
+    "options": ["bespoke", "tailored", "customized", "exclusive"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "A ___ do turismo de massa em pequenas comunidades insulares tem gerado debates sobre sustentabilidade e preservação cultural.",
+    "correctAnswer": "encroachment",
+    "options": ["encroachment", "proliferation", "expansion", "intrusion"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "viagem",
+    "type": "complete_sentence",
+    "questionText": "A experiência gastronômica ___ incluiu uma visita ao mercado local e uma aula de culinária com um chef renomado da região.",
+    "correctAnswer": "curated",
+    "options": ["curated", "tailored", "exclusive", "bespoke"],
+    "difficulty": "hard"
+  }
+]

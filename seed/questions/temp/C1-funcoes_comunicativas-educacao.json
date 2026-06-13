@@ -1,0 +1,662 @@
+[
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Durante uma apresentação em classe, você quer pedir ao professor para esclarecer um conceito que não ficou claro. Como você poderia fazer isso de forma educada e profissional?",
+    "correctAnswer": "Could you perhaps elaborate on that concept? I found it rather obscure.",
+    "options": [
+      "Could you perhaps elaborate on that concept? I found it rather obscure.",
+      "I didn't get what you said. Explain it again.",
+      "That was confusing. Say it differently.",
+      "I don't understand nothing you said."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Um colega pede sua ajuda para compreender um tópico difícil. Qual expressão demonstra sua disponibilidade para ajudar?",
+    "correctAnswer": "I'd be delighted to walk you through it step by step.",
+    "options": [
+      "I'd be delighted to walk you through it step by step.",
+      "OK, I help you with this.",
+      "Yeah, I can help you maybe.",
+      "If I got time, I explain it to you."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Ao enviar um email ao seu professor questionando uma nota recebida, qual tom seria mais apropriado?",
+    "correctAnswer": "I would appreciate your perspective on the feedback provided for my assignment. Could we discuss the evaluation criteria?",
+    "options": [
+      "I would appreciate your perspective on the feedback provided for my assignment. Could we discuss the evaluation criteria?",
+      "Why did you give me this bad grade? It's not fair.",
+      "I'm not happy with my mark. Change it please.",
+      "Your marking is wrong. I deserve a better grade."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer expressar discordância respeitosa com a opinião de um professor durante uma aula de discussão. Como faria isso?",
+    "correctAnswer": "While I understand your viewpoint, I'd like to offer an alternative perspective on this matter.",
+    "options": [
+      "While I understand your viewpoint, I'd like to offer an alternative perspective on this matter.",
+      "You're wrong about that, professor.",
+      "I don't agree with what you said.",
+      "That's not right at all, teacher."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Em um seminário acadêmico, você precisa interromper elegantemente alguém para fazer uma pergunta relevante. Qual seria a melhor abordagem?",
+    "correctAnswer": "If I may interject for a moment, I have a question that seems pertinent to your argument.",
+    "options": [
+      "If I may interject for a moment, I have a question that seems pertinent to your argument.",
+      "Wait, I got a question for you.",
+      "Stop. I wanna ask something.",
+      "Hey, let me say something here."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Um aluno quer pedir extensão de prazo para entregar um trabalho acadêmico. Como faria isso formalmente?",
+    "correctAnswer": "I was wondering if it might be possible to request an extension given unforeseen circumstances.",
+    "options": [
+      "I was wondering if it might be possible to request an extension given unforeseen circumstances.",
+      "Can I have more time? I'm not done yet.",
+      "I need more days to do my homework.",
+      "Give me extra time, please, I'm busy."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Ao apresentar suas ideias em um debate acadêmico, qual frase melhor estrutura um argumento sólido?",
+    "correctAnswer": "This contention is substantiated by compelling evidence that demonstrates...",
+    "options": [
+      "This contention is substantiated by compelling evidence that demonstrates...",
+      "My idea is good because I think it's right.",
+      "I believe this is true and stuff.",
+      "The thing is, I'm pretty sure about this."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer expressar que precisa de mais tempo para processar informações complexas fornecidas pelo professor. Como diria isso?",
+    "correctAnswer": "I need some time to absorb and synthesize the material you've presented.",
+    "options": [
+      "I need some time to absorb and synthesize the material you've presented.",
+      "This is too much. I don't understand.",
+      "Give me time, OK? It's difficult.",
+      "I need more time to get this."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Durante uma orientação acadêmica, como você pediria feedback específico sobre seu desempenho?",
+    "correctAnswer": "Could you furnish more detailed feedback regarding the particular areas where my performance fell short?",
+    "options": [
+      "Could you furnish more detailed feedback regarding the particular areas where my performance fell short?",
+      "Tell me what I did wrong.",
+      "What did I do bad in my work?",
+      "I'm not good at this. Help me, please."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Um professor faz uma pergunta e você está bem preparado para responder com confiança. Como responderia?",
+    "correctAnswer": "Based on my research and analysis, I would argue that the evidence predominantly supports...",
+    "options": [
+      "Based on my research and analysis, I would argue that the evidence predominantly supports...",
+      "I know this one. The answer is...",
+      "Yeah, I studied this. It's like...",
+      "I'm pretty sure the answer is this thing."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Em um trabalho em grupo, você discorda da abordagem de um colega. Como expressaria sua preocupação de forma construtiva?",
+    "correctAnswer": "I appreciate your proposed methodology, but I'd like to propose a more efficacious approach.",
+    "options": [
+      "I appreciate your proposed methodology, but I'd like to propose a more efficacious approach.",
+      "Your way is wrong. Do it my way.",
+      "That's not a good idea. Mine is better.",
+      "I don't like your plan. Let's do something else."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer reconhecer a dificuldade de um conceito sem parecer incompetente. Como expressaria isso?",
+    "correctAnswer": "While admittedly challenging, I'm committed to grappling with the complexities of this subject matter.",
+    "options": [
+      "While admittedly challenging, I'm committed to grappling with the complexities of this subject matter.",
+      "This is so hard. I don't get it.",
+      "This is too difficult for me to understand.",
+      "I'm stupid. I don't know this stuff."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Em um seminário, você quer conectar as ideias do palestrante a conceitos previamente estudados. Como faria isso?",
+    "correctAnswer": "This dovetails remarkably well with the paradigm we examined in our previous module.",
+    "options": [
+      "This dovetails remarkably well with the paradigm we examined in our previous module.",
+      "This is like what we studied before.",
+      "Yeah, it's the same thing as before kind of.",
+      "It's related to what we learned earlier."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer expressar que necessita de orientação mais aprofundada em uma área específica. Como comunicaria isso?",
+    "correctAnswer": "I would greatly benefit from more comprehensive guidance in this particular domain.",
+    "options": [
+      "I would greatly benefit from more comprehensive guidance in this particular domain.",
+      "I need help with this part.",
+      "Can you teach me more about this?",
+      "I don't know this topic very well."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Durante uma discussão acadêmica, como você reformularia diplomaticamente um ponto que um colega expressou inadequadamente?",
+    "correctAnswer": "What I believe you're attempting to articulate is that the variables in question demonstrate a correlative relationship.",
+    "options": [
+      "What I believe you're attempting to articulate is that the variables in question demonstrate a correlative relationship.",
+      "You said that wrong. Here's what you meant.",
+      "That doesn't make sense. You meant this.",
+      "You explained that badly. Let me say it right."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você precisa pedir permissão ao professor para deixar a sala durante a aula por motivos legítimos. Como o faria?",
+    "correctAnswer": "Might I be excused for a moment? I have an urgent matter requiring my immediate attention.",
+    "options": [
+      "Might I be excused for a moment? I have an urgent matter requiring my immediate attention.",
+      "Can I go? I gotta do something.",
+      "I need to leave. Be back soon.",
+      "Is it OK if I leave for a bit?"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Em uma entrevista para bolsa de estudos, como você expressaria suas motivações acadêmicas de forma convincente?",
+    "correctAnswer": "My scholarly aspirations are driven by an unwavering commitment to advancing knowledge in this field.",
+    "options": [
+      "My scholarly aspirations are driven by an unwavering commitment to advancing knowledge in this field.",
+      "I wanna study this because it's cool.",
+      "I like learning about this stuff.",
+      "I think this subject is interesting and important."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Ao refutar um argumento acadêmico apresentado por um colega, qual abordagem seria mais sofisticada e respeitosa?",
+    "correctAnswer": "While your premise is noteworthy, the empirical data appears to undermine your central thesis considerably.",
+    "options": [
+      "While your premise is noteworthy, the empirical data appears to undermine your central thesis considerably.",
+      "You're totally wrong about that.",
+      "That doesn't work because you're wrong.",
+      "I disagree. Your idea is bad."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Um professor solicita que você justifique suas escolhas metodológicas em um projeto de pesquisa. Como responderia de forma erudita?",
+    "correctAnswer": "The methodological framework I've adopted affords the most robust analytical lens for interrogating the research questions at hand.",
+    "options": [
+      "The methodological framework I've adopted affords the most robust analytical lens for interrogating the research questions at hand.",
+      "I chose this way because it works better.",
+      "I think this method is the best one to use.",
+      "This approach seemed like the right choice."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer expressar apoio a uma ideia inovadora de um colega enquanto mantém pensamento crítico. Como faria?",
+    "correctAnswer": "Your proposition is intriguing, though I would posit that further empirical validation would strengthen its credibility.",
+    "options": [
+      "Your proposition is intriguing, though I would posit that further empirical validation would strengthen its credibility.",
+      "That's a good idea. I think it's correct.",
+      "Yeah, that sounds right to me.",
+      "I like your idea. It's probably true."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Durante uma aula, você quer apontar uma inconsistência lógica no argumento do professor sem parecer pretensioso. Como procederia?",
+    "correctAnswer": "I'm perhaps misunderstanding, but doesn't this premise seem somewhat incongruent with the subsequent assertion?",
+    "options": [
+      "I'm perhaps misunderstanding, but doesn't this premise seem somewhat incongruent with the subsequent assertion?",
+      "That doesn't make sense, professor.",
+      "You're contradicting yourself there.",
+      "That's not logical. It doesn't fit together."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você precisa solicitar uma carta de recomendação a um professor que o conhece bem. Como faria esse pedido formal?",
+    "correctAnswer": "I would be most grateful if you would consider writing a letter of recommendation attesting to my academic capabilities.",
+    "options": [
+      "I would be most grateful if you would consider writing a letter of recommendation attesting to my academic capabilities.",
+      "Can you write me a recommendation letter?",
+      "Will you write a letter saying I'm good?",
+      "I need a recommendation. Can you write it?"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Em uma conferência acadêmica, como você faria uma pergunta sofisticada para aprofundar o entendimento sobre um tema?",
+    "correctAnswer": "To what extent might the variables you've identified be subject to confounding factors that could potentially vitiate your conclusions?",
+    "options": [
+      "To what extent might the variables you've identified be subject to confounding factors that could potentially vitiate your conclusions?",
+      "What about the other things that might affect your answer?",
+      "Did you think about other stuff that could change this?",
+      "Are there other factors you didn't think about?"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer reconhecer a expertise de um colega enquanto contribui com uma perspectiva diferente. Como expressaria isso?",
+    "correctAnswer": "Your expertise is indisputable; nevertheless, I would venture to suggest an alternative angle that merits consideration.",
+    "options": [
+      "Your expertise is indisputable; nevertheless, I would venture to suggest an alternative angle that merits consideration.",
+      "You know a lot, but I think different.",
+      "You're smart, but I see it differently.",
+      "You're the expert, but maybe try this way."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Em um trabalho em grupo, você precisa supervisionar o progresso sem alienar seus colegas. Como comunicaria suas preocupações?",
+    "correctAnswer": "I wonder if we might reconvene to assess our trajectory and ensure we're meeting our stipulated benchmarks.",
+    "options": [
+      "I wonder if we might reconvene to assess our trajectory and ensure we're meeting our stipulated benchmarks.",
+      "We need to check what we're doing. Are we on track?",
+      "Let's see how we're going with this project.",
+      "We should probably meet up to see if we're doing OK."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir desculpas por não ter completado uma tarefa acadêmica e explicar a situação responsavelmente. Como faria?",
+    "correctAnswer": "I must apologize for the oversight; unforeseen circumstances notwithstanding, I take full responsibility for my failure to meet the deadline.",
+    "options": [
+      "I must apologize for the oversight; unforeseen circumstances notwithstanding, I take full responsibility for my failure to meet the deadline.",
+      "Sorry, I didn't do it. Stuff came up.",
+      "I'm sorry I didn't finish. I was busy.",
+      "My bad. I couldn't get it done in time."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Durante uma revisão de literatura para sua dissertação, como você expressaria que precisa de orientação sobre fontes primárias?",
+    "correctAnswer": "I would appreciate your guidance in discerning which primary sources would constitute the most authoritative and relevant evidence for my investigation.",
+    "options": [
+      "I would appreciate your guidance in discerning which primary sources would constitute the most authoritative and relevant evidence for my investigation.",
+      "Which sources should I use for my paper?",
+      "What are the best books to read for this?",
+      "Can you tell me what to use for my research?"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Um colega propõe uma estratégia para um projeto que você acha arriscada. Como expressaria sua preocupação diplomaticamente?",
+    "correctAnswer": "While I commend your boldness, I harbor reservations regarding the viability of this approach given the inherent constraints.",
+    "options": [
+      "While I commend your boldness, I harbor reservations regarding the viability of this approach given the inherent constraints.",
+      "That won't work. It's too risky.",
+      "I don't think that will work because it's risky.",
+      "That's a bad idea. We shouldn't do it."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer solicitar que um professor revise seu trabalho anterior antes de submeter a versão final. Como faria essa solicitação?",
+    "correctAnswer": "I would be most appreciative if you could peruse my draft and furnish preliminary feedback prior to final submission.",
+    "options": [
+      "I would be most appreciative if you could peruse my draft and furnish preliminary feedback prior to final submission.",
+      "Can you read my paper and tell me if it's good?",
+      "Will you look at my draft and give feedback?",
+      "Can you check my work before I turn it in?"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Em uma palestra, você quer fazer uma observação que complementa o argumento principal. Como o faria?",
+    "correctAnswer": "As a corollary to your assertion, one might adduce that this phenomenon corroborates the broader theoretical framework.",
+    "options": [
+      "As a corollary to your assertion, one might adduce that this phenomenon corroborates the broader theoretical framework.",
+      "That's like what you said before kind of.",
+      "Yeah, that goes with what you're saying.",
+      "This is also related to your main point."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você precisa argumentar por uma mudança de paradigma em um campo académico durante uma apresentação formal. Como estruturaria isso?",
+    "correctAnswer": "The preponderance of recent scholarship necessitates a fundamental reconceptualization of our theoretical underpinnings in this discipline.",
+    "options": [
+      "The preponderance of recent scholarship necessitates a fundamental reconceptualization of our theoretical underpinnings in this discipline.",
+      "I think we need to change how we look at this stuff.",
+      "People are saying we should think about this differently.",
+      "Maybe it's time to change our ideas about this topic."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Durante um seminário de tese, como você responderia a críticas substanciais de forma erudita e sem ser defensivo?",
+    "correctAnswer": "Your critique is perspicacious; I shall endeavor to incorporate these insights to fortify the intellectual rigor of my dissertation.",
+    "options": [
+      "Your critique is perspicacious; I shall endeavor to incorporate these insights to fortify the intellectual rigor of my dissertation.",
+      "OK, I'll try to fix those things you said.",
+      "Yeah, I'll change my paper based on your comments.",
+      "Thanks for pointing that out. I'll improve it."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer propor uma colaboração interdisciplinar com pesquisadores de outro departamento. Como faria essa abordagem?",
+    "correctAnswer": "I would propose a synergistic collaboration that capitalizes on the complementary expertise of our respective disciplines.",
+    "options": [
+      "I would propose a synergistic collaboration that capitalizes on the complementary expertise of our respective disciplines.",
+      "Do you wanna work together on a project?",
+      "Maybe we could team up and do research.",
+      "Could we collaborate on something together?"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Em um congresso acadêmico, como você desafiaria elegantemente uma premissa aceita sem parecer arrogante?",
+    "correctAnswer": "While consensus exists regarding this proposition, I would venture to interrogate its foundational assumptions.",
+    "options": [
+      "While consensus exists regarding this proposition, I would venture to interrogate its foundational assumptions.",
+      "Everyone says this is true, but I don't think so.",
+      "People believe this, but I think they're wrong.",
+      "This is what everyone believes, but maybe it's not right."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer articular uma lacuna significativa na literatura acadêmica de forma persuasiva. Como procederia?",
+    "correctAnswer": "Extant scholarship exhibits a conspicuous lacuna regarding the intersection of these phenomena, thus necessitating further empirical investigation.",
+    "options": [
+      "Extant scholarship exhibits a conspicuous lacuna regarding the intersection of these phenomena, thus necessitating further empirical investigation.",
+      "There's not much written about this combination of things.",
+      "Nobody has really studied how these things work together.",
+      "The research doesn't really cover this area well enough."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Durante uma defesa de tese, como você responderia a uma pergunta desafiadora que expõe uma fraqueza em sua pesquisa?",
+    "correctAnswer": "That constitutes a salutary point; while my methodology did impose certain constraints, I maintain that the findings retain considerable validity.",
+    "options": [
+      "That constitutes a salutary point; while my methodology did impose certain constraints, I maintain that the findings retain considerable validity.",
+      "Yeah, that's a problem, but I still think my research is good.",
+      "That's true, but my study still works even with that issue.",
+      "You're right about that, but my conclusions are still valid."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer demonstrar familiaridade com perspectivas contraditórias em sua área enquanto mantém sua posição intelectual. Como faria?",
+    "correctAnswer": "The antagonistic schools of thought, while substantively divergent, both contribute valuable frameworks that I shall synthesize in my analysis.",
+    "options": [
+      "The antagonistic schools of thought, while substantively divergent, both contribute valuable frameworks that I shall synthesize in my analysis.",
+      "These two ways of thinking are different, but both are kind of right.",
+      "Both sides have good points, and I'll use them both.",
+      "These opposing ideas both have something good to offer."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Em um painel acadêmico internacional, como você relacionaria seu trabalho ao contexto global de forma sofisticada?",
+    "correctAnswer": "My research endeavors to elucidate how these localized phenomena instantiate broader patterns of transnational significance.",
+    "options": [
+      "My research endeavors to elucidate how these localized phenomena instantiate broader patterns of transnational significance.",
+      "My study is about local stuff that happens everywhere.",
+      "This shows how small things connect to big international patterns.",
+      "My research relates local issues to global problems."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer solicitar acesso a dados ou recursos acadêmicos restritos de forma profissional. Como abordaria o responsável?",
+    "correctAnswer": "Would you countenance granting provisional access to the aforementioned dataset, contingent upon adherence to the requisite protocols?",
+    "options": [
+      "Would you countenance granting provisional access to the aforementioned dataset, contingent upon adherence to the requisite protocols?",
+      "Can I use your data? I promise to be careful.",
+      "Could you let me use these numbers for my project?",
+      "Is it OK if I look at your research data?"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Durante uma sessão de orientação de pesquisa, como você buscaria validação de sua escolha teórica sem parecer inseguro?",
+    "correctAnswer": "I would be remiss not to solicit your perspective on whether this theoretical apparatus adequately addresses the research questions I've delineated.",
+    "options": [
+      "I would be remiss not to solicit your perspective on whether this theoretical apparatus adequately addresses the research questions I've delineated.",
+      "Does my theory work for my questions? I'm not sure.",
+      "I picked this theory, but is it the right one?",
+      "Do you think this approach is good for what I'm studying?"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer articular uma transição conceitual em sua dissertação de forma elegante. Como o faria?",
+    "correctAnswer": "Having established the aforementioned parameters, we shall now pivot to an examination of how these variables manifest in the empirical domain.",
+    "options": [
+      "Having established the aforementioned parameters, we shall now pivot to an examination of how these variables manifest in the empirical domain.",
+      "Now let's look at how this works in real life.",
+      "So we've covered that, now let's look at examples.",
+      "OK, so we've explained that. Now let's see it in practice."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Em uma conferência, como você expressaria que um trabalho anterior precisa de reinterpretação à luz de novas evidências?",
+    "correctAnswer": "Contemporary scholarship compels us to reconsider extant interpretations in light of these heretofore unavailable evidentiary materials.",
+    "options": [
+      "Contemporary scholarship compels us to reconsider extant interpretations in light of these heretofore unavailable evidentiary materials.",
+      "We need to rethink old ideas because we found new evidence.",
+      "The older research needs to be reinterpreted with the new evidence.",
+      "We have new information that changes what people thought before."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer reconhecer o trabalho de um mentor enquanto afirma sua própria contribuição intelectual independente. Como faria?",
+    "correctAnswer": "While my intellectual trajectory owes considerable debt to my mentor's tutelage, I have endeavored to chart a somewhat divergent analytical path.",
+    "options": [
+      "While my intellectual trajectory owes considerable debt to my mentor's tutelage, I have endeavored to chart a somewhat divergent analytical path.",
+      "My teacher helped me a lot, but I have my own ideas too.",
+      "I learned from my mentor, but I think differently now.",
+      "My advisor influenced me, but I've developed my own approach."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Durante uma avaliação de pares, como você forneceria crítica construtiva sobre um trabalho com sérias deficiências metodológicas?",
+    "correctAnswer": "While the research question is compelling, the methodological framework exhibits notable deficiencies that substantially undermine the validity of the conclusions.",
+    "options": [
+      "While the research question is compelling, the methodological framework exhibits notable deficiencies that substantially undermine the validity of the conclusions.",
+      "This paper has a good question but the method is bad.",
+      "The idea is good, but the way you did it is wrong.",
+      "The research question is interesting, but your method doesn't work."
+    ],
+    "difficulty": "hard"
+  }
+]

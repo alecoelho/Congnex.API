@@ -1,0 +1,502 @@
+[
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'deforestation' em português?",
+    "correctAnswer": "Desmatamento",
+    "options": ["Reflorestamento", "Desmatamento", "Erosão", "Poluição"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'greenhouse gases' para o português?",
+    "correctAnswer": "Gases de efeito estufa",
+    "options": ["Gases de efeito estufa", "Gases tóxicos", "Gases naturais", "Gases industriais"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'renewable energy' em português?",
+    "correctAnswer": "Energia renovável",
+    "options": ["Energia nuclear", "Energia renovável", "Energia fóssil", "Energia elétrica"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução de 'biodiversity' para o português?",
+    "correctAnswer": "Biodiversidade",
+    "options": ["Bioengenharia", "Biotecnologia", "Biodiversidade", "Biomassa"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'carbon footprint' para o português?",
+    "correctAnswer": "Pegada de carbono",
+    "options": ["Rastro de carbono", "Pegada de carbono", "Emissão de carbono", "Depósito de carbono"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'pollution' em português?",
+    "correctAnswer": "Poluição",
+    "options": ["Purificação", "Poluição", "Evaporação", "Condensação"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'ecosystem' em português?",
+    "correctAnswer": "Ecossistema",
+    "options": ["Ecossistema", "Biosfera", "Hidrosfera", "Litosfera"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'recycling' para o português?",
+    "correctAnswer": "Reciclagem",
+    "options": ["Reutilização", "Reciclagem", "Descarte", "Compostagem"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'drought' em português?",
+    "correctAnswer": "Seca",
+    "options": ["Inundação", "Tempestade", "Seca", "Nevasca"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução de 'endangered species' para o português?",
+    "correctAnswer": "Espécies ameaçadas de extinção",
+    "options": ["Espécies invasoras", "Espécies extintas", "Espécies ameaçadas de extinção", "Espécies domesticadas"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'fossil fuels' para o português?",
+    "correctAnswer": "Combustíveis fósseis",
+    "options": ["Combustíveis renováveis", "Combustíveis fósseis", "Combustíveis sintéticos", "Combustíveis orgânicos"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'habitat destruction' em português?",
+    "correctAnswer": "Destruição de habitat",
+    "options": ["Preservação de habitat", "Restauração de habitat", "Destruição de habitat", "Expansão de habitat"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'ozone layer' em português?",
+    "correctAnswer": "Camada de ozônio",
+    "options": ["Camada de ozônio", "Camada de gelo", "Camada vegetal", "Camada sedimentar"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'sustainable development' para o português?",
+    "correctAnswer": "Desenvolvimento sustentável",
+    "options": ["Desenvolvimento industrial", "Desenvolvimento sustentável", "Desenvolvimento urbano", "Desenvolvimento rural"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'global warming' em português?",
+    "correctAnswer": "Aquecimento global",
+    "options": ["Resfriamento global", "Aquecimento global", "Variação climática", "Mudança sazonal"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução de 'water scarcity' para o português?",
+    "correctAnswer": "Escassez de água",
+    "options": ["Excesso de água", "Purificação de água", "Escassez de água", "Distribuição de água"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'reforestation' para o português?",
+    "correctAnswer": "Reflorestamento",
+    "options": ["Desmatamento", "Reflorestamento", "Arborização", "Silvicultura"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'carbon sequestration' em português?",
+    "correctAnswer": "Sequestro de carbono",
+    "options": ["Emissão de carbono", "Sequestro de carbono", "Armazenamento de carbono", "Liberação de carbono"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'anthropogenic' no contexto ambiental?",
+    "correctAnswer": "Causado pela ação humana",
+    "options": ["Causado por fenômenos naturais", "Causado pela ação humana", "Relacionado à fauna silvestre", "Relacionado às forças geológicas"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'ecological resilience' para o português?",
+    "correctAnswer": "Resiliência ecológica",
+    "options": ["Fragilidade ecológica", "Resiliência ecológica", "Recuperação ecológica", "Sustentabilidade ecológica"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'eutrophication' em português?",
+    "correctAnswer": "Eutrofização",
+    "options": ["Desertificação", "Eutrofização", "Salinização", "Acidificação"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução de 'phytoremediation' para o português?",
+    "correctAnswer": "Fitorremediação",
+    "options": ["Fitorremediação", "Biorremediação", "Georremediação", "Hidroremediação"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'bioremediation' para o português?",
+    "correctAnswer": "Biorremediação",
+    "options": ["Biorremediação", "Compostagem", "Fitorremediação", "Descontaminação química"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'desertification' em português?",
+    "correctAnswer": "Desertificação",
+    "options": ["Reflorestamento", "Desertificação", "Savanização", "Aridez temporária"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'mitigation strategies' no contexto das mudanças climáticas?",
+    "correctAnswer": "Estratégias de mitigação",
+    "options": ["Estratégias de adaptação", "Estratégias de mitigação", "Estratégias de compensação", "Estratégias de monitoramento"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'permafrost' para o português?",
+    "correctAnswer": "Permafrost (solo permanentemente congelado)",
+    "options": ["Neve permanente", "Permafrost (solo permanentemente congelado)", "Gelo ártico sazonal", "Camada de gelo superficial"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'trophic cascade' em português?",
+    "correctAnswer": "Cascata trófica",
+    "options": ["Cadeia alimentar", "Cascata trófica", "Pirâmide ecológica", "Nível trófico"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução de 'carbon trading' para o português?",
+    "correctAnswer": "Comércio de carbono",
+    "options": ["Taxação de carbono", "Comércio de carbono", "Compensação de carbono", "Crédito de carbono"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'keystone species' para o português?",
+    "correctAnswer": "Espécie-chave",
+    "options": ["Espécie invasora", "Espécie-chave", "Espécie endêmica", "Espécie pioneira"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'albedo effect' em português?",
+    "correctAnswer": "Efeito albedo (reflexão da radiação solar)",
+    "options": ["Efeito estufa", "Efeito albedo (reflexão da radiação solar)", "Efeito de ilha de calor", "Efeito de névoa radiativa"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'ecological footprint' em português?",
+    "correctAnswer": "Pegada ecológica",
+    "options": ["Pegada de carbono", "Pegada ecológica", "Impacto ambiental", "Capacidade de suporte"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'biogeochemical cycles' para o português?",
+    "correctAnswer": "Ciclos biogeoquímicos",
+    "options": ["Ciclos hidrológicos", "Ciclos biogeoquímicos", "Ciclos climáticos", "Ciclos ecológicos"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'invasive species' em português?",
+    "correctAnswer": "Espécies invasoras",
+    "options": ["Espécies nativas", "Espécies invasoras", "Espécies endêmicas", "Espécies migratórias"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução de 'climate feedback loops' para o português?",
+    "correctAnswer": "Ciclos de retroalimentação climática",
+    "options": ["Variações climáticas cíclicas", "Ciclos de retroalimentação climática", "Tendências climáticas lineares", "Oscilações climáticas naturais"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'xerophyte' para o português no contexto botânico ambiental?",
+    "correctAnswer": "Xerófita (planta adaptada a ambientes áridos)",
+    "options": ["Hidrófita (planta aquática)", "Xerófita (planta adaptada a ambientes áridos)", "Mesófita (planta de clima temperado)", "Epífita (planta que cresce sobre outras)"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'pedosphere' em português?",
+    "correctAnswer": "Pedosfera (esfera do solo terrestre)",
+    "options": ["Hidrosfera", "Pedosfera (esfera do solo terrestre)", "Litosfera", "Rizosfera"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'cryosphere' em português?",
+    "correctAnswer": "Criosfera (porção congelada da Terra)",
+    "options": ["Criosfera (porção congelada da Terra)", "Atmosfera superior", "Zona abissal oceânica", "Camada sedimentar polar"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'ecocide' para o português?",
+    "correctAnswer": "Ecocídio (destruição em massa de ecossistemas)",
+    "options": ["Genocídio ambiental", "Ecocídio (destruição em massa de ecossistemas)", "Biocídio (extinção de espécies)", "Deicídio ecológico"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'phenological mismatch' em ecologia?",
+    "correctAnswer": "Descompasso fenológico entre espécies interdependentes",
+    "options": ["Sincronização entre ciclos naturais", "Descompasso fenológico entre espécies interdependentes", "Variação sazonal previsível", "Adaptação evolutiva acelerada"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução de 'benthic zone' para o português?",
+    "correctAnswer": "Zona bentônica (fundo de corpos d'água)",
+    "options": ["Zona pelágica", "Zona bentônica (fundo de corpos d'água)", "Zona eufótica", "Zona limnética"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'edaphic factors' para o português no contexto ecológico?",
+    "correctAnswer": "Fatores edáficos (relacionados ao solo)",
+    "options": ["Fatores climáticos", "Fatores edáficos (relacionados ao solo)", "Fatores bióticos", "Fatores hidrológicos"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'thermocline' em português no contexto oceanográfico?",
+    "correctAnswer": "Termoclina (camada de transição térmica nos oceanos)",
+    "options": ["Corrente oceânica superficial", "Termoclina (camada de transição térmica nos oceanos)", "Zona afótica oceânica", "Gradiente de salinidade"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'halophyte' em português?",
+    "correctAnswer": "Halófita (planta adaptada a solos salinos)",
+    "options": ["Halófita (planta adaptada a solos salinos)", "Hidrófita (planta aquática)", "Calcícola (planta que prefere solos calcários)", "Acidófila (planta que prefere solos ácidos)"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'epilimnion' para o português no contexto limnológico?",
+    "correctAnswer": "Epilímnio (camada superior quente de um lago estratificado)",
+    "options": ["Hipolímnio (camada inferior fria de um lago)", "Metalímnio (zona de transição térmica)", "Epilímnio (camada superior quente de um lago estratificado)", "Termoclina lacustre"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'allelopathy' em português no contexto ecológico-botânico?",
+    "correctAnswer": "Alelopatia (inibição química entre plantas)",
+    "options": ["Alelopatia (inibição química entre plantas)", "Simbiose mutualística", "Competição interespecífica", "Facilitação ecológica"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução de 'metapopulation dynamics' para o português?",
+    "correctAnswer": "Dinâmica de metapopulações",
+    "options": ["Dinâmica populacional local", "Dinâmica de metapopulações", "Variação genética de populações", "Dispersão de espécies migratórias"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'stoichiometry' para o português no contexto da ecologia de nutrientes?",
+    "correctAnswer": "Estequiometria (relação entre elementos químicos em organismos e ecossistemas)",
+    "options": ["Estequiometria (relação entre elementos químicos em organismos e ecossistemas)", "Bioquímica dos solos", "Ciclagem de nutrientes", "Metabolismo ecossistêmico"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'bioaccumulation' em português?",
+    "correctAnswer": "Bioacumulação (acúmulo de substâncias em organismos vivos)",
+    "options": ["Biomagnificação trófica", "Bioacumulação (acúmulo de substâncias em organismos vivos)", "Biodegradação de poluentes", "Biotransformação química"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'limnology' em português?",
+    "correctAnswer": "Limnologia (ciência que estuda ecossistemas de água doce)",
+    "options": ["Limnologia (ciência que estuda ecossistemas de água doce)", "Oceanografia costeira", "Hidrologia fluvial aplicada", "Ecologia de zonas úmidas"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'tipping point' no contexto de mudanças climáticas?",
+    "correctAnswer": "Ponto de inflexão (limiar irreversível do sistema climático)",
+    "options": ["Ponto de equilíbrio climático", "Ponto de inflexão (limiar irreversível do sistema climático)", "Máximo de aquecimento projetado", "Limiar de adaptação ecossistêmica"],
+    "difficulty": "hard"
+  }
+]

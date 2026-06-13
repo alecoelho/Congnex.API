@@ -1,0 +1,502 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você está chegando ao trabalho pela primeira vez. Como você se apresenta ao seu novo colega?",
+    "correctAnswer": "Hi, I am Ana. I am the new employee.",
+    "options": ["Hi, I am Ana. I am the new employee.", "Bye, I am Ana. I am old.", "Hello, I am a manager.", "Good night, my name is work."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Seu chefe pergunta o seu nome. O que você diz?",
+    "correctAnswer": "My name is Carlos.",
+    "options": ["My name is Carlos.", "I work is Carlos.", "Name me Carlos.", "I am work Carlos."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber o nome do seu novo colega de trabalho. O que você pergunta?",
+    "correctAnswer": "What is your name?",
+    "options": ["What is your name?", "Where is your name?", "Who is your work?", "What is your job name?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "É segunda-feira de manhã e você encontra seu chefe no escritório. Como você o cumprimenta?",
+    "correctAnswer": "Good morning!",
+    "options": ["Good morning!", "Good night!", "Goodbye!", "See you later!"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você está saindo do escritório no final do dia. O que você diz para seus colegas?",
+    "correctAnswer": "Goodbye! See you tomorrow.",
+    "options": ["Goodbye! See you tomorrow.", "Hello! See you now.", "Good morning! Bye work.", "Good afternoon! I am here."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você precisa dizer qual é a sua profissão. Você é médico. O que você diz?",
+    "correctAnswer": "I am a doctor.",
+    "options": ["I am a doctor.", "I work doctor.", "I is a doctor.", "My job doctor."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber onde seu colega trabalha. O que você pergunta?",
+    "correctAnswer": "Where do you work?",
+    "options": ["Where do you work?", "What do you work?", "Who do you work?", "When do you work?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Seu colega te pergunta se você gosta do seu trabalho. Você quer dizer que sim. O que você responde?",
+    "correctAnswer": "Yes, I like my job.",
+    "options": ["Yes, I like my job.", "No, I like my job.", "Yes, I work like.", "Yes, my job is you."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você precisa pedir desculpas ao seu chefe por chegar atrasado. O que você diz?",
+    "correctAnswer": "I am sorry. I am late.",
+    "options": ["I am sorry. I am late.", "I am happy. I am late.", "Sorry, I am good.", "I no late. Sorry work."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você quer agradecer ao seu colega por ajudá-lo com uma tarefa. O que você diz?",
+    "correctAnswer": "Thank you for your help.",
+    "options": ["Thank you for your help.", "Hello for your help.", "Goodbye for your work.", "Please for your help."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você não entendeu o que seu chefe disse. O que você pede?",
+    "correctAnswer": "Please, can you repeat that?",
+    "options": ["Please, can you repeat that?", "Please, can you go away?", "No, I understand you.", "Yes, I repeat that."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você quer saber que horas são, pois tem uma reunião. O que você pergunta ao colega?",
+    "correctAnswer": "What time is it?",
+    "options": ["What time is it?", "What day is it?", "Where is the time?", "Who is the time?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Seu colega pergunta se você fala inglês. Você fala um pouco. O que você responde?",
+    "correctAnswer": "Yes, I speak a little English.",
+    "options": ["Yes, I speak a little English.", "No, I speak all English.", "Yes, I work English.", "I speak no English a lot."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você precisa dizer que trabalha em um banco. O que você diz?",
+    "correctAnswer": "I work at a bank.",
+    "options": ["I work at a bank.", "I am at a bank work.", "Bank is my work at.", "I working in a bank."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que seu colega é professor. O que você fala?",
+    "correctAnswer": "He is a teacher.",
+    "options": ["He is a teacher.", "He work teacher.", "He am a teacher.", "His is teacher."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar ao seu colega qual é a profissão dele. O que você diz?",
+    "correctAnswer": "What is your job?",
+    "options": ["What is your job?", "Who is your job?", "Where is your job?", "What are your job?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você precisa dizer que começa a trabalhar às oito horas. O que você diz?",
+    "correctAnswer": "I start work at eight o'clock.",
+    "options": ["I start work at eight o'clock.", "I work start at eight.", "I am work eight clock.", "Eight o'clock I work start."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você está em uma entrevista de emprego e o entrevistador pede que você se sente. O que você diz ao agradecer?",
+    "correctAnswer": "Thank you.",
+    "options": ["Thank you.", "Sorry, I sit.", "No, I stand.", "Goodbye, thank."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Na entrevista de emprego, o entrevistador pergunta: 'Can you use a computer?' Você sabe usar. O que você responde?",
+    "correctAnswer": "Yes, I can.",
+    "options": ["Yes, I can.", "No, I can.", "Yes, I cannot.", "No, I can use."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer ao seu chefe que terminou a tarefa. O que você fala?",
+    "correctAnswer": "I finished the task.",
+    "options": ["I finished the task.", "I am start the task.", "The task is me finish.", "I no finish the task."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você precisa dizer ao seu chefe que não consegue ir ao trabalho porque está doente. O que você diz?",
+    "correctAnswer": "I am sick. I cannot come to work today.",
+    "options": ["I am sick. I cannot come to work today.", "I am happy. I cannot work today.", "I am sick. I can come to work today.", "I am tired. I can come to work."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar ao colega onde fica a sala de reuniões. O que você diz?",
+    "correctAnswer": "Where is the meeting room?",
+    "options": ["Where is the meeting room?", "What is the meeting room?", "When is the meeting room?", "Who is the meeting room?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você precisa dizer a um colega que a reunião é às duas da tarde. O que você diz?",
+    "correctAnswer": "The meeting is at two o'clock.",
+    "options": ["The meeting is at two o'clock.", "The meeting are at two o'clock.", "At two o'clock the meeting am.", "The meeting is on two o'clock."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Seu chefe pede para você ligar para um cliente. Você quer confirmar que entendeu. O que você diz?",
+    "correctAnswer": "OK, I will call the client.",
+    "options": ["OK, I will call the client.", "OK, I am call the client.", "OK, I calls the client.", "OK, I no call the client."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar se há uma vaga de emprego na empresa. O que você diz?",
+    "correctAnswer": "Is there a job here?",
+    "options": ["Is there a job here?", "Are there a job here?", "Is here has job?", "There is job have here?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você precisa dizer que trabalha das nove ao meio-dia. O que você diz?",
+    "correctAnswer": "I work from nine to twelve.",
+    "options": ["I work from nine to twelve.", "I work at nine and twelve.", "I work between nine or twelve.", "I work since nine until at twelve."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir ao seu colega para fechar a porta do escritório. O que você diz?",
+    "correctAnswer": "Please, close the door.",
+    "options": ["Please, close the door.", "Please, open the door.", "Please, go to the door.", "Please, door is close."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que seu escritório fica no segundo andar. O que você diz?",
+    "correctAnswer": "My office is on the second floor.",
+    "options": ["My office is on the second floor.", "My office is in the second floor.", "My office are on the second floor.", "My office is at the second floor."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer ao seu colega que precisa de ajuda com o computador. O que você fala?",
+    "correctAnswer": "I need help with the computer.",
+    "options": ["I need help with the computer.", "I want help the computer.", "I need the computer help.", "The computer need help me."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar ao seu chefe quando é a próxima reunião. O que você pergunta?",
+    "correctAnswer": "When is the next meeting?",
+    "options": ["When is the next meeting?", "What is the next meeting?", "Where is the next meeting?", "Who is the next meeting?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que sua colega é secretária na empresa. O que você diz?",
+    "correctAnswer": "She is a secretary at the company.",
+    "options": ["She is a secretary at the company.", "She work a secretary at the company.", "She is secretary in the company.", "She are a secretary at the company."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você está ao telefone e precisa pedir para o cliente esperar um momento. O que você diz?",
+    "correctAnswer": "Please, wait a moment.",
+    "options": ["Please, wait a moment.", "Please, go now.", "Please, talk more.", "Please, I am busy now."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você quer confirmar ao seu chefe que você entende as instruções dele. O que você diz?",
+    "correctAnswer": "I understand.",
+    "options": ["I understand.", "I no understand.", "I am understand.", "I understands."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer ao seu colega que não tem caneta. O que você diz?",
+    "correctAnswer": "I don't have a pen.",
+    "options": ["I don't have a pen.", "I have a pen.", "I no have a pen.", "I not have pen."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você precisa apresentar seu chefe ao cliente. Seu chefe se chama Sr. Costa. O que você diz?",
+    "correctAnswer": "This is Mr. Costa, my manager.",
+    "options": ["This is Mr. Costa, my manager.", "This are Mr. Costa, my manager.", "He is Mr. Costa, yours manager.", "Is this Mr. Costa, manager mine."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar ao recepcionista se o Sr. Lima está disponível. O que você diz?",
+    "correctAnswer": "Is Mr. Lima available?",
+    "options": ["Is Mr. Lima available?", "Are Mr. Lima available?", "Is Mr. Lima avail?", "Does Mr. Lima available?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você precisa deixar uma mensagem para seu chefe dizendo que vai chegar tarde. O que você escreve?",
+    "correctAnswer": "I will be late today. Sorry.",
+    "options": ["I will be late today. Sorry.", "I am late yesterday. Sorry.", "I can be late tomorrow. Happy.", "I was late today. Sorry."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você está ao telefone e quer deixar o seu número para o cliente ligar de volta. O que você diz?",
+    "correctAnswer": "My number is 5511999.",
+    "options": ["My number is 5511999.", "The number mine is 5511999.", "I number 5511999.", "Number my are 5511999."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você precisa dizer ao seu chefe que você não sabe fazer a tarefa. O que você diz?",
+    "correctAnswer": "I don't know how to do this.",
+    "options": ["I don't know how to do this.", "I know not how do this.", "I don't know this how.", "I not know do this how."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar ao seu colega se ele pode ajudá-lo agora. O que você diz?",
+    "correctAnswer": "Can you help me now?",
+    "options": ["Can you help me now?", "Can you helps me now?", "Do you can help me now?", "Can me help you now?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você precisa dizer ao cliente que a loja abre às dez da manhã. O que você diz?",
+    "correctAnswer": "The store opens at ten in the morning.",
+    "options": ["The store opens at ten in the morning.", "The store open at ten in the morning.", "The store is opening at ten in morning.", "The store opened at ten in the morning."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você está em uma entrevista de emprego e o entrevistador pergunta: 'Do you have experience?' Você não tem. O que você responde?",
+    "correctAnswer": "No, I don't have experience.",
+    "options": ["No, I don't have experience.", "Yes, I don't have experience.", "No, I have experience.", "No, I haven't experience."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Seu chefe pede para você enviar um e-mail para o cliente. Você quer confirmar o endereço de e-mail. O que você pergunta?",
+    "correctAnswer": "What is the client's email address?",
+    "options": ["What is the client's email address?", "Where is the client's email address?", "Who is the client's email?", "What are the client email address?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você precisa dizer que seu departamento tem cinco pessoas. O que você diz?",
+    "correctAnswer": "There are five people in my department.",
+    "options": ["There are five people in my department.", "There is five people in my department.", "Five people are in my department have.", "In my department there are peoples five."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar ao seu novo chefe quais são as suas responsabilidades no trabalho. O que você diz?",
+    "correctAnswer": "What are my responsibilities?",
+    "options": ["What are my responsibilities?", "What is my responsibilities?", "Who are my responsibilities?", "What do my responsibilities?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você está respondendo ao telefone no trabalho. Como você atende a ligação?",
+    "correctAnswer": "Good afternoon, ABC Company. How can I help you?",
+    "options": ["Good afternoon, ABC Company. How can I help you?", "Hello, who are you? What do you want?", "Hi! I am here. Please talk.", "ABC Company. You call me now."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você precisa dizer ao cliente que o produto custa trinta reais. O que você diz?",
+    "correctAnswer": "The product costs thirty reais.",
+    "options": ["The product costs thirty reais.", "The product cost thirty reais.", "The product is costing thirty reais.", "The product are thirty reais cost."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer ao seu colega que o chefe não está no escritório hoje. O que você diz?",
+    "correctAnswer": "The boss is not in the office today.",
+    "options": ["The boss is not in the office today.", "The boss not is in the office today.", "The boss is no at the office today.", "The boss are not in the office today."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar ao seu chefe se pode sair mais cedo hoje. O que você diz?",
+    "correctAnswer": "Can I leave early today?",
+    "options": ["Can I leave early today?", "Can I go early today work?", "I can leave early today?", "Can I living early today?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você recebe uma ligação no trabalho e precisa dizer que a pessoa que o cliente busca não está disponível no momento. O que você diz?",
+    "correctAnswer": "She is not available right now.",
+    "options": ["She is not available right now.", "She is available not right now.", "She not is available right now.", "She is not available right then."],
+    "difficulty": "hard"
+  }
+]

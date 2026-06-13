@@ -1,0 +1,502 @@
+﻿[
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'recycling' em português?",
+    "correctAnswer": "Reciclagem",
+    "options": ["Reciclagem", "Reparação", "Redução", "Renovação"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'pollution' em português?",
+    "correctAnswer": "Poluição",
+    "options": ["Poluição", "Purificação", "Proteção", "Processamento"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'climate change' para o português?",
+    "correctAnswer": "Mudança climática",
+    "options": ["Mudança climática", "Mudança de estação", "Mudança de temperatura", "Mudança ambiental"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'deforestation'?",
+    "correctAnswer": "Desflorestação",
+    "options": ["Desflorestação", "Reflorestação", "Florestação", "Desmatamento"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que quer dizer 'renewable energy'?",
+    "correctAnswer": "Energia renovável",
+    "options": ["Energia renovável", "Energia nuclear", "Energia elétrica", "Energia térmica"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'greenhouse gas' para português?",
+    "correctAnswer": "Gás do efeito estufa",
+    "options": ["Gás do efeito estufa", "Gás tóxico", "Gás natural", "Gás industrial"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'biodiversity'?",
+    "correctAnswer": "Biodiversidade",
+    "options": ["Biodiversidade", "Biologia", "Bioma", "Biomassa"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'conservation'?",
+    "correctAnswer": "Conservação",
+    "options": ["Conservação", "Construção", "Conservadora", "Conservante"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'sustainable development'?",
+    "correctAnswer": "Desenvolvimento sustentável",
+    "options": ["Desenvolvimento sustentável", "Desenvolvimento rápido", "Desenvolvimento económico", "Desenvolvimento social"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'carbon footprint'?",
+    "correctAnswer": "Pegada de carbono",
+    "options": ["Pegada de carbono", "Pegada ecológica", "Pegada ambiental", "Pegada industrial"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que quer dizer 'ecosystem'?",
+    "correctAnswer": "Ecossistema",
+    "options": ["Ecossistema", "Ecologia", "Economia", "Ecoturismo"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'waste management'?",
+    "correctAnswer": "Gestão de resíduos",
+    "options": ["Gestão de resíduos", "Gestão de água", "Gestão de lixo", "Gestão de poluição"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'ozone layer'?",
+    "correctAnswer": "Camada de ozono",
+    "options": ["Camada de ozono", "Camada atmosférica", "Camada de ar", "Camada superior"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'habitat loss'?",
+    "correctAnswer": "Perda de habitat",
+    "options": ["Perda de habitat", "Perda de população", "Perda de espécies", "Perda de território"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'renewable resources'?",
+    "correctAnswer": "Recursos renováveis",
+    "options": ["Recursos renováveis", "Recursos naturais", "Recursos escassos", "Recursos limitados"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'environmental protection'?",
+    "correctAnswer": "Proteção ambiental",
+    "options": ["Proteção ambiental", "Proteção natural", "Proteção ecológica", "Proteção territorial"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que quer dizer 'global warming'?",
+    "correctAnswer": "Aquecimento global",
+    "options": ["Aquecimento global", "Aquecimento local", "Aquecimento atmosférico", "Aquecimento climático"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução de 'fossil fuel'?",
+    "correctAnswer": "Combustível fóssil",
+    "options": ["Combustível fóssil", "Combustível natural", "Combustível renovável", "Combustível limpo"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'emission reduction'?",
+    "correctAnswer": "Redução de emissões",
+    "options": ["Redução de emissões", "Aumento de emissões", "Controle de emissões", "Eliminação de emissões"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'endangered species'?",
+    "correctAnswer": "Espécie em risco de extinção",
+    "options": ["Espécie em risco de extinção", "Espécie extinta", "Espécie rara", "Espécie protegida"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'carbon neutral'?",
+    "correctAnswer": "Neutro em carbono",
+    "options": ["Neutro em carbono", "Livre de carbono", "Pobre em carbono", "Rico em carbono"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que quer dizer 'water scarcity'?",
+    "correctAnswer": "Escassez de água",
+    "options": ["Escassez de água", "Excesso de água", "Poluição da água", "Conservação de água"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'green technology'?",
+    "correctAnswer": "Tecnologia verde",
+    "options": ["Tecnologia verde", "Tecnologia limpa", "Tecnologia sustentável", "Tecnologia ecológica"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'air quality'?",
+    "correctAnswer": "Qualidade do ar",
+    "options": ["Qualidade do ar", "Qualidade da água", "Qualidade do solo", "Qualidade ambiental"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'ecological impact'?",
+    "correctAnswer": "Impacto ecológico",
+    "options": ["Impacto ecológico", "Impacto ambiental", "Impacto natural", "Impacto social"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'natural resources'?",
+    "correctAnswer": "Recursos naturais",
+    "options": ["Recursos naturais", "Recursos renováveis", "Recursos sustentáveis", "Recursos limitados"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução de 'wildlife protection'?",
+    "correctAnswer": "Proteção da vida selvagem",
+    "options": ["Proteção da vida selvagem", "Proteção da biodiversidade", "Proteção das espécies", "Proteção do habitat"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que quer dizer 'soil degradation'?",
+    "correctAnswer": "Degradação do solo",
+    "options": ["Degradação do solo", "Perda do solo", "Erosão do solo", "Contaminação do solo"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'sustainable agriculture'?",
+    "correctAnswer": "Agricultura sustentável",
+    "options": ["Agricultura sustentável", "Agricultura biológica", "Agricultura moderna", "Agricultura industrial"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'environmental impact'?",
+    "correctAnswer": "Impacto ambiental",
+    "options": ["Impacto ambiental", "Impacto ecológico", "Impacto natural", "Impacto climático"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'circular economy'?",
+    "correctAnswer": "Economia circular",
+    "options": ["Economia circular", "Economia verde", "Economia sustentável", "Economia limpa"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'marine conservation'?",
+    "correctAnswer": "Conservação marinha",
+    "options": ["Conservação marinha", "Proteção marinha", "Preservação marinha", "Defesa marinha"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução de 'environmental policy'?",
+    "correctAnswer": "Política ambiental",
+    "options": ["Política ambiental", "Política ecológica", "Política de proteção", "Política natural"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que quer dizer 'climate crisis'?",
+    "correctAnswer": "Crise climática",
+    "options": ["Crise climática", "Crise ambiental", "Crise ecológica", "Crise de aquecimento"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'ecosystem restoration'?",
+    "correctAnswer": "Restauração do ecossistema",
+    "options": ["Restauração do ecossistema", "Reabilitação ecológica", "Recuperação ambiental", "Reconstrução natural"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'climate mitigation'?",
+    "correctAnswer": "Mitigação climática",
+    "options": ["Mitigação climática", "Redução climática", "Adaptação climática", "Controle climático"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'carbon offset'?",
+    "correctAnswer": "Compensação de carbono",
+    "options": ["Compensação de carbono", "Redução de carbono", "Absorção de carbono", "Neutralização de carbono"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'renewable portfolio'?",
+    "correctAnswer": "Portfólio renovável",
+    "options": ["Portfólio renovável", "Carteira renovável", "Plano renovável", "Programa renovável"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução de 'biodiversity hotspot'?",
+    "correctAnswer": "Ponto crítico de biodiversidade",
+    "options": ["Ponto crítico de biodiversidade", "Zona de biodiversidade", "Área de biodiversidade", "Região de biodiversidade"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que quer dizer 'climate adaptation'?",
+    "correctAnswer": "Adaptação climática",
+    "options": ["Adaptação climática", "Mitigação climática", "Redução climática", "Preparação climática"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'environmental remediation'?",
+    "correctAnswer": "Remediação ambiental",
+    "options": ["Remediação ambiental", "Limpeza ambiental", "Purificação ambiental", "Descontaminação ambiental"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'ocean acidification'?",
+    "correctAnswer": "Acidificação oceânica",
+    "options": ["Acidificação oceânica", "Poluição oceânica", "Contaminação oceânica", "Aquecimento oceânico"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'permafrost thaw'?",
+    "correctAnswer": "Descongelamento do permafrost",
+    "options": ["Descongelamento do permafrost", "Fusão do gelo", "Congelamento do solo", "Mudança do solo"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'invasive species'?",
+    "correctAnswer": "Espécie invasora",
+    "options": ["Espécie invasora", "Espécie invasiva", "Espécie agressiva", "Espécie estranha"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução de 'ecosystem services'?",
+    "correctAnswer": "Serviços ecossistémicos",
+    "options": ["Serviços ecossistémicos", "Benefícios ecológicos", "Serviços ambientais", "Funções ecológicas"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que quer dizer 'environmental compliance'?",
+    "correctAnswer": "Conformidade ambiental",
+    "options": ["Conformidade ambiental", "Cumprimento ambiental", "Obediência ambiental", "Adequação ambiental"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'carbon sequestration'?",
+    "correctAnswer": "Sequestro de carbono",
+    "options": ["Sequestro de carbono", "Captura de carbono", "Armazenamento de carbono", "Retenção de carbono"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'environmental stewardship'?",
+    "correctAnswer": "Administração ambiental",
+    "options": ["Administração ambiental", "Gestão ambiental", "Responsabilidade ambiental", "Cuidado ambiental"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'tipping point'?",
+    "correctAnswer": "Ponto de não retorno",
+    "options": ["Ponto de não retorno", "Ponto crítico", "Ponto de inflexão", "Ponto limite"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Como se traduz 'environmental audit'?",
+    "correctAnswer": "Auditoria ambiental",
+    "options": ["Auditoria ambiental", "Inspeção ambiental", "Verificação ambiental", "Avaliação ambiental"],
+    "difficulty": "hard"
+  }
+]

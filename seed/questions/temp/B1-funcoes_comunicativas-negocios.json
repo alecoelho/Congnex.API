@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você precisa pedir ao seu colega para enviar o relatório mensal. O que você diz?",
+        "correctAnswer":  "Could you send me the monthly report, please?",
+        "options":  [
+                        "Could you send me the monthly report, please?",
+                        "You must send the monthly report now",
+                        "Why you don\u0027t send the report?",
+                        "Send the monthly report immediately"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Seu chefe pergunta sua opinião sobre uma nova estratégia de marketing. Como você responde educadamente?",
+        "correctAnswer":  "I think it\u0027s a good idea, but we should consider the budget first.",
+        "options":  [
+                        "I think it\u0027s a good idea, but we should consider the budget first.",
+                        "No, that\u0027s a bad idea",
+                        "I don\u0027t know what you\u0027re talking about",
+                        "That\u0027s not my job"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Como você oferece ajuda a um cliente que parece confuso durante uma apresentação?",
+        "correctAnswer":  "Can I help you understand this part better?",
+        "options":  [
+                        "Can I help you understand this part better?",
+                        "You don\u0027t understand anything",
+                        "This is too complicated for you",
+                        "Stop asking stupid questions"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer concordar parcialmente com a proposta de seu colega. O que você diz?",
+        "correctAnswer":  "I agree with you, but I have some concerns about the timeline.",
+        "options":  [
+                        "I agree with you, but I have some concerns about the timeline.",
+                        "I completely disagree with everything",
+                        "Your idea is perfect",
+                        "I don\u0027t understand anything"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Como você se desculpa por um erro em um documento que enviou para o cliente?",
+        "correctAnswer":  "I apologize for the error. I\u0027ll correct it and send you the updated version.",
+        "options":  [
+                        "I apologize for the error. I\u0027ll correct it and send you the updated version.",
+                        "The error is not important",
+                        "You should have noticed the error",
+                        "I don\u0027t care about mistakes"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Seu gerente pede feedback sobre seu desempenho. Como você começa a resposta?",
+        "correctAnswer":  "I think I\u0027ve done well in meeting my targets, though I\u0027d like to improve my presentation skills.",
+        "options":  [
+                        "I think I\u0027ve done well in meeting my targets, though I\u0027d like to improve my presentation skills.",
+                        "I\u0027m perfect at everything",
+                        "Everything is bad in this company",
+                        "I have no idea what you mean"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você está em uma reunião e precisa clarificar um ponto. Como você faz isso?",
+        "correctAnswer":  "Could you clarify what you mean by \u0027budget constraints\u0027?",
+        "options":  [
+                        "Could you clarify what you mean by \u0027budget constraints\u0027?",
+                        "That makes no sense at all",
+                        "You\u0027re wrong about everything",
+                        "I don\u0027t listen to this"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Como você convida um cliente para uma reunião de acompanhamento?",
+        "correctAnswer":  "Would you be available for a follow-up meeting next week?",
+        "options":  [
+                        "Would you be available for a follow-up meeting next week?",
+                        "You must come to another meeting",
+                        "I\u0027m going to schedule you without asking",
+                        "Meetings are a waste of time"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você precisa recusar educadamente um pedido de seu supervisor. Como você faz isso?",
+        "correctAnswer":  "I appreciate the offer, but I\u0027m already committed to another project right now.",
+        "options":  [
+                        "I appreciate the offer, but I\u0027m already committed to another project right now.",
+                        "No way, I\u0027m too busy",
+                        "That\u0027s impossible to do",
+                        "I\u0027m going to ignore this request"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Como você expressa preocupação sobre o custo de um novo projeto?",
+        "correctAnswer":  "I\u0027m concerned about the costs involved in this project.",
+        "options":  [
+                        "I\u0027m concerned about the costs involved in this project.",
+                        "Money is not important",
+                        "This project costs nothing",
+                        "I never worry about expenses"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você trabalha em um projeto com um colega e quer dividir as responsabilidades. Como você sugere isso?",
+        "correctAnswer":  "Why don\u0027t we divide the tasks between us to make it more efficient?",
+        "options":  [
+                        "Why don\u0027t we divide the tasks between us to make it more efficient?",
+                        "You do all the work",
+                        "I\u0027m not working with you",
+                        "Let\u0027s ignore this project"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Como você expressa surpresa ao descobrir que uma deadline foi mudada?",
+        "correctAnswer":  "I wasn\u0027t aware that the deadline had been moved. When is it now?",
+        "options":  [
+                        "I wasn\u0027t aware that the deadline had been moved. When is it now?",
+                        "The deadline never changes",
+                        "You should have told me yesterday",
+                        "Deadlines are not important"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer sugerir uma solução alternativa durante uma reunião de negócios. Como você começa?",
+        "correctAnswer":  "What if we considered a different approach to this problem?",
+        "options":  [
+                        "What if we considered a different approach to this problem?",
+                        "Your idea is completely wrong",
+                        "I refuse to listen to your proposal",
+                        "Let\u0027s ignore the problem"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Como você confirma a compreensão de instruções importantes do seu gerente?",
+        "correctAnswer":  "So, if I understand correctly, I need to finish the report by Friday, right?",
+        "options":  [
+                        "So, if I understand correctly, I need to finish the report by Friday, right?",
+                        "I don\u0027t need to understand anything",
+                        "You didn\u0027t explain it well",
+                        "Instructions are not clear"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer parabenizar um colega pelo sucesso de um projeto. Como você faz isso?",
+        "correctAnswer":  "Congratulations on completing the project successfully!",
+        "options":  [
+                        "Congratulations on completing the project successfully!",
+                        "Your project was okay, I guess",
+                        "Everyone could have done that",
+                        "Success is not important"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Como você pede uma extensão de prazo de forma educada?",
+        "correctAnswer":  "Would it be possible to have a bit more time to complete this task?",
+        "options":  [
+                        "Would it be possible to have a bit more time to complete this task?",
+                        "I\u0027m not going to finish on time",
+                        "Deadlines are silly",
+                        "I need more time and that\u0027s final"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você está em uma conversa de negócios e quer resumir os pontos principais. Como você faz isso?",
+        "correctAnswer":  "Let me summarize what we\u0027ve discussed so far.",
+        "options":  [
+                        "Let me summarize what we\u0027ve discussed so far.",
+                        "I don\u0027t remember anything we discussed",
+                        "This meeting is boring",
+                        "Nobody said anything important"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Como você solicita um aumento de orçamento para seu departamento?",
+        "correctAnswer":  "I\u0027d like to discuss increasing our department\u0027s budget to improve our efficiency.",
+        "options":  [
+                        "I\u0027d like to discuss increasing our department\u0027s budget to improve our efficiency.",
+                        "Give me more money now",
+                        "The budget is too small and unfair",
+                        "We don\u0027t need any budget adjustments"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer expressar desacordo profissional com a decisão de um colega de nível similar. Como você faz isso?",
+        "correctAnswer":  "I see your point, but I think we should reconsider this decision based on the market data.",
+        "options":  [
+                        "I see your point, but I think we should reconsider this decision based on the market data.",
+                        "Your decision is stupid",
+                        "I completely disagree with everything you do",
+                        "That\u0027s the worst idea ever"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Como você informa a um cliente sobre um atraso na entrega de um produto?",
+        "correctAnswer":  "I wanted to inform you that there will be a slight delay in delivering your order.",
+        "options":  [
+                        "I wanted to inform you that there will be a slight delay in delivering your order.",
+                        "Your order is late and it\u0027s not our fault",
+                        "Don\u0027t worry about the delay",
+                        "We probably won\u0027t deliver your order"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você precisa pedir permissão para sair mais cedo do trabalho. Como você faz isso?",
+        "correctAnswer":  "Would it be okay if I left early today? I have an important appointment.",
+        "options":  [
+                        "Would it be okay if I left early today? I have an important appointment.",
+                        "I\u0027m leaving now and that\u0027s it",
+                        "You can\u0027t stop me from going",
+                        "I don\u0027t need permission to leave"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Como você responde educadamente a uma crítica construtiva sobre seu trabalho?",
+        "correctAnswer":  "Thank you for the feedback. I\u0027ll work on improving those areas.",
+        "options":  [
+                        "Thank you for the feedback. I\u0027ll work on improving those areas.",
+                        "Your criticism is wrong",
+                        "I\u0027m doing my job perfectly",
+                        "I don\u0027t need your advice"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer propor uma parceria comercial com outra empresa. Como você inicia essa conversa?",
+        "correctAnswer":  "I think there could be mutual benefits if we explored a partnership between our companies.",
+        "options":  [
+                        "I think there could be mutual benefits if we explored a partnership between our companies.",
+                        "You need to work with us or you\u0027ll fail",
+                        "Partnership is not important",
+                        "We don\u0027t care about other companies"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Como você pede esclarecimento sobre as condições de pagamento em um contrato?",
+        "correctAnswer":  "Could you clarify the payment terms mentioned in section three of the contract?",
+        "options":  [
+                        "Could you clarify the payment terms mentioned in section three of the contract?",
+                        "The payment terms make no sense",
+                        "Why are the terms so complicated?",
+                        "I don\u0027t understand business contracts"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você está negociando com um fornecedor e quer conseguir um preço melhor. Como você pode fazer isso?",
+        "correctAnswer":  "Would you be able to offer a better price if we place a larger order?",
+        "options":  [
+                        "Would you be able to offer a better price if we place a larger order?",
+                        "Your prices are too expensive",
+                        "I won\u0027t pay that much, period",
+                        "Reduce the price or we\u0027re done"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Como você expressa confiança nos objetivos da empresa durante uma reunião de equipe?",
+        "correctAnswer":  "I\u0027m confident that we can achieve these targets if we work together effectively.",
+        "options":  [
+                        "I\u0027m confident that we can achieve these targets if we work together effectively.",
+                        "These goals are impossible to reach",
+                        "Nobody in this company is competent enough",
+                        "Success is just a dream"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você precisa relatar um problema técnico que afeta o prazo de um projeto. Como você comunica isso?",
+        "correctAnswer":  "We\u0027ve encountered a technical issue that may impact our project deadline. We\u0027re working on a solution.",
+        "options":  [
+                        "We\u0027ve encountered a technical issue that may impact our project deadline. We\u0027re working on a solution.",
+                        "Everything is broken and we can\u0027t fix it",
+                        "The deadline doesn\u0027t matter anymore",
+                        "Technical problems are unavoidable"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Como você oferece uma alternativa quando a solução inicial não é viável?",
+        "correctAnswer":  "While that approach won\u0027t work, we could try this alternative instead.",
+        "options":  [
+                        "While that approach won\u0027t work, we could try this alternative instead.",
+                        "That will never work, no point trying",
+                        "All solutions are equally bad",
+                        "There\u0027s no way to solve this problem"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer sugerir uma mudança de estratégia sem ofender o criador da estratégia original. Como você faz isso?",
+        "correctAnswer":  "The strategy is solid, but given the recent market changes, we might want to adjust our approach.",
+        "options":  [
+                        "The strategy is solid, but given the recent market changes, we might want to adjust our approach.",
+                        "Your strategy is outdated",
+                        "The original plan was completely wrong",
+                        "We should ignore what was planned before"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Como você maneja uma situação onde um cliente está insatisfeito com a qualidade do serviço?",
+        "correctAnswer":  "I understand your concerns. Let\u0027s discuss what went wrong and how we can make it right.",
+        "options":  [
+                        "I understand your concerns. Let\u0027s discuss what went wrong and how we can make it right.",
+                        "The quality is fine, you\u0027re just being picky",
+                        "It\u0027s not our fault if you\u0027re unhappy",
+                        "Complaints are not valid"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você precisa delegar uma tarefa importante a um membro da equipe menos experiente. Como você faz isso?",
+        "correctAnswer":  "I\u0027d like to give you this responsibility because I think you\u0027re ready for the challenge and I\u0027ll be available to help.",
+        "options":  [
+                        "I\u0027d like to give you this responsibility because I think you\u0027re ready for the challenge and I\u0027ll be available to help.",
+                        "You have to do this task whether you like it or not",
+                        "Nobody else wants this task, so it\u0027s yours",
+                        "This is a punishment for your poor performance"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Como você navega em uma situação onde você comete um erro que afeta o cliente?",
+        "correctAnswer":  "I sincerely apologize for this error and its impact. Here\u0027s my plan to rectify the situation immediately.",
+        "options":  [
+                        "I sincerely apologize for this error and its impact. Here\u0027s my plan to rectify the situation immediately.",
+                        "Mistakes happen, you just have to deal with it",
+                        "It\u0027s not completely my fault",
+                        "We can\u0027t fix this now"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer expressar preocupação sobre a viabilidade de um projeto sem parecer negativo. Como você faz isso?",
+        "correctAnswer":  "While I appreciate the vision, I want to ensure we\u0027ve considered all the potential risks and resource constraints.",
+        "options":  [
+                        "While I appreciate the vision, I want to ensure we\u0027ve considered all the potential risks and resource constraints.",
+                        "This project will definitely fail",
+                        "We don\u0027t have the resources to do this",
+                        "I\u0027m completely against this idea"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Como você motiva uma equipe que está desanimada com um projeto de longo prazo?",
+        "correctAnswer":  "I know it\u0027s a long process, but if we break it into smaller milestones, I believe we can celebrate our progress along the way.",
+        "options":  [
+                        "I know it\u0027s a long process, but if we break it into smaller milestones, I believe we can celebrate our progress along the way.",
+                        "This project is tedious and nobody cares",
+                        "Long projects are always boring",
+                        "We should just abandon this"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você precisa negociar um termo contratual que é desfavorável para sua empresa. Como você o faz?",
+        "correctAnswer":  "I\u0027d like to propose a revision to this clause. Here\u0027s why it\u0027s important for a balanced partnership.",
+        "options":  [
+                        "I\u0027d like to propose a revision to this clause. Here\u0027s why it\u0027s important for a balanced partnership.",
+                        "This clause is completely unfair to us",
+                        "We won\u0027t accept these terms at all",
+                        "Take it or leave it"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Como você facilita uma discussão entre dois colegas que têm opiniões conflitantes?",
+        "correctAnswer":  "Both perspectives have merit. Let\u0027s look at the data and find common ground.",
+        "options":  [
+                        "Both perspectives have merit. Let\u0027s look at the data and find common ground.",
+                        "One of you is clearly wrong",
+                        "Stop arguing or you\u0027re both fired",
+                        "It\u0027s impossible to agree on anything"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer comunicar más notícias sobre uma redução de orçamento sem desmoralizar a equipe. Como você faz isso?",
+        "correctAnswer":  "I need to inform you that our budget will be reduced, but I have a plan for how we can maintain our productivity.",
+        "options":  [
+                        "I need to inform you that our budget will be reduced, but I have a plan for how we can maintain our productivity.",
+                        "We\u0027re getting less money and that\u0027s the end of it",
+                        "The company doesn\u0027t care about us anymore",
+                        "We\u0027re all going to lose our jobs"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Como você articula uma sugestão de melhoria em um processo estabelecido sem parecer que você está criticando?",
+        "correctAnswer":  "I\u0027ve been thinking about how we could optimize this process. Would you be open to exploring a slight variation?",
+        "options":  [
+                        "I\u0027ve been thinking about how we could optimize this process. Would you be open to exploring a slight variation?",
+                        "This process is completely outdated",
+                        "Nobody knows how to do this correctly",
+                        "The current system is broken"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você precisa estabelecer limites profissionais com um cliente que está pedindo demandas excessivas. Como você faz isso?",
+        "correctAnswer":  "I understand you need this urgently, but to ensure quality, we\u0027ll need to schedule this for next week.",
+        "options":  [
+                        "I understand you need this urgently, but to ensure quality, we\u0027ll need to schedule this for next week.",
+                        "That\u0027s too much work for us",
+                        "You\u0027re being unreasonable with your demands",
+                        "We can\u0027t help you with that"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Como você reconhece o trabalho duro de uma equipe enquanto introduz mudanças organizacionais significativas?",
+        "correctAnswer":  "I\u0027m grateful for your hard work, and these changes are designed to help us reach our goals more effectively.",
+        "options":  [
+                        "I\u0027m grateful for your hard work, and these changes are designed to help us reach our goals more effectively.",
+                        "Your efforts weren\u0027t sufficient, so we\u0027re making changes",
+                        "Things are going to be completely different now",
+                        "The current approach clearly wasn\u0027t working"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você precisa comunicar a um investidor potencial por que seu projeto é viável financeiramente. Como você começa?",
+        "correctAnswer":  "Our financial projections show steady growth with a break-even point within 18 months.",
+        "options":  [
+                        "Our financial projections show steady growth with a break-even point within 18 months.",
+                        "We might make money eventually, we\u0027re not sure",
+                        "Money doesn\u0027t matter, we just need investors",
+                        "Nobody knows if this will be profitable"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Como você maneja uma conversa delicada sobre desempenho insatisfatório com um funcionário?",
+        "correctAnswer":  "I\u0027ve noticed some areas where we could improve your performance. Let\u0027s discuss what support you need.",
+        "options":  [
+                        "I\u0027ve noticed some areas where we could improve your performance. Let\u0027s discuss what support you need.",
+                        "Your work has been terrible lately",
+                        "You\u0027re not meeting expectations and we\u0027re disappointed",
+                        "You should consider finding another job"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Você quer propor um projeto novo com um orçamento significativo. Como você justifica isso?",
+        "correctAnswer":  "This investment will generate revenue and improve our market position over the next two years.",
+        "options":  [
+                        "This investment will generate revenue and improve our market position over the next two years.",
+                        "This project is really cool and we should do it",
+                        "The company has too much money anyway",
+                        "If we don\u0027t do this, we\u0027ll fail"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Como você estrutura uma apresentação formal para investidores em uma reunião importante?",
+        "correctAnswer":  "I\u0027d like to start with our company overview, then move to our financial projections and market analysis.",
+        "options":  [
+                        "I\u0027d like to start with our company overview, then move to our financial projections and market analysis.",
+                        "Let\u0027s just talk about whatever comes to mind",
+                        "Numbers are boring, let\u0027s skip them",
+                        "I don\u0027t know how to organize presentations"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Como você pede a um colega mais experiente para ser seu mentor?",
+        "correctAnswer":  "Would you be willing to mentor me? I\u0027d really appreciate learning from your experience.",
+        "options":  [
+                        "Would you be willing to mentor me? I\u0027d really appreciate learning from your experience.",
+                        "You have to teach me everything",
+                        "I don\u0027t need any help from anyone",
+                        "Everyone is supposed to know everything already"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Como você se apresenta profissionalmente em uma conferência de negócios?",
+        "correctAnswer":  "Hi, I\u0027m John Smith from ABC Company. I\u0027m the sales manager. What\u0027s your role?",
+        "options":  [
+                        "Hi, I\u0027m John Smith from ABC Company. I\u0027m the sales manager. What\u0027s your role?",
+                        "I\u0027m just someone who works in business",
+                        "You probably know who I am already",
+                        "I don\u0027t like introducing myself"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Como você segue com um cliente que não respondeu ao seu email?",
+        "correctAnswer":  "I wanted to follow up on my previous email regarding the project proposal.",
+        "options":  [
+                        "I wanted to follow up on my previous email regarding the project proposal.",
+                        "Why haven\u0027t you responded to me yet?",
+                        "You\u0027re ignoring my emails on purpose",
+                        "I\u0027ll never contact you again"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Como você expressa urgência sem parecer agressivo em uma comunicação de negócios?",
+        "correctAnswer":  "This matter requires our immediate attention to prevent any delays in our timeline.",
+        "options":  [
+                        "This matter requires our immediate attention to prevent any delays in our timeline.",
+                        "Deal with this now or else",
+                        "This is an emergency and nobody cares",
+                        "It can wait forever"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Como você pede desculpas por um atraso causado por um membro de sua equipe?",
+        "correctAnswer":  "I sincerely apologize for the delay. We\u0027ve identified the issue and are implementing measures to prevent this in the future.",
+        "options":  [
+                        "I sincerely apologize for the delay. We\u0027ve identified the issue and are implementing measures to prevent this in the future.",
+                        "It\u0027s not my fault, blame someone else",
+                        "Delays happen to everyone",
+                        "We don\u0027t owe you an explanation"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B1",
+        "questionType":  "funcoes_comunicativas",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Como você convida um cliente importante para um jantar de negócios de forma sofisticada?",
+        "correctAnswer":  "I\u0027d like to invite you to dinner next Thursday to discuss our partnership opportunities in a more relaxed setting.",
+        "options":  [
+                        "I\u0027d like to invite you to dinner next Thursday to discuss our partnership opportunities in a more relaxed setting.",
+                        "Let\u0027s grab food sometime",
+                        "You must come to dinner with us",
+                        "Dinner is just for small talk anyway"
+                    ],
+        "difficulty":  "medium"
+    }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "No contexto de compras online, o que significa o termo 'checkout'?",
+    "correctAnswer": "Finalização da compra",
+    "options": ["Finalização da compra", "Carrinho de compras", "Lista de desejos", "Rastreamento de pedido"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'refund' no contexto de compras?",
+    "correctAnswer": "Reembolso",
+    "options": ["Reembolso", "Desconto", "Troca", "Cancelamento"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "No varejo, o que significa 'out of stock'?",
+    "correctAnswer": "Fora de estoque / Esgotado",
+    "options": ["Fora de estoque / Esgotado", "Em promoção", "Produto novo", "Disponível para entrega"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que é um 'loyalty card' em uma loja?",
+    "correctAnswer": "Cartão fidelidade",
+    "options": ["Cartão fidelidade", "Cartão de crédito", "Cartão presente", "Cupom de desconto"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'bargain' no contexto de compras?",
+    "correctAnswer": "Pechincha / Ótimo negócio",
+    "options": ["Pechincha / Ótimo negócio", "Produto de luxo", "Produto falsificado", "Artigo importado"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "No contexto de lojas de departamento, o que significa 'clearance sale'?",
+    "correctAnswer": "Liquidação / Venda de produtos para limpar estoque",
+    "options": ["Liquidação / Venda de produtos para limpar estoque", "Venda exclusiva para membros", "Promoção de inauguração", "Venda relâmpago online"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que é 'shoplifting'?",
+    "correctAnswer": "Furto em loja",
+    "options": ["Furto em loja", "Compra por impulso", "Compra a prazo", "Devolução de mercadoria"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'receipt' no contexto de compras?",
+    "correctAnswer": "Recibo / Nota fiscal",
+    "options": ["Recibo / Nota fiscal", "Etiqueta de preço", "Garantia do produto", "Contrato de compra"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que é um 'flagship store'?",
+    "correctAnswer": "Loja principal / Loja carro-chefe de uma marca",
+    "options": ["Loja principal / Loja carro-chefe de uma marca", "Loja de segunda mão", "Loja temporária pop-up", "Loja de artigos náuticos"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "No comércio eletrônico, o que significa 'wishlist'?",
+    "correctAnswer": "Lista de desejos",
+    "options": ["Lista de desejos", "Histórico de compras", "Carrinho abandonado", "Produtos recomendados"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que é 'window shopping'?",
+    "correctAnswer": "Olhar vitrines sem intenção de comprar",
+    "options": ["Olhar vitrines sem intenção de comprar", "Comprar pela janela do carro", "Fazer compras online", "Comparar preços em diferentes lojas"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'wholesale' no comércio?",
+    "correctAnswer": "Atacado / Venda por grosso",
+    "options": ["Atacado / Venda por grosso", "Varejo / Venda a retalho", "Venda por catálogo", "Venda sob encomenda"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que é um 'gift voucher'?",
+    "correctAnswer": "Vale-presente",
+    "options": ["Vale-presente", "Cupom de desconto por fidelidade", "Nota fiscal eletrônica", "Garantia estendida"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "No varejo, o que significa 'markdown'?",
+    "correctAnswer": "Redução de preço",
+    "options": ["Redução de preço", "Aumento de preço", "Margem de lucro", "Preço de custo"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que é 'layaway' no contexto de varejo americano?",
+    "correctAnswer": "Sistema de reserva de produto com pagamento parcelado antes da retirada",
+    "options": ["Sistema de reserva de produto com pagamento parcelado antes da retirada", "Entrega programada para data futura", "Serviço de embalagem para presente", "Programa de devolução simplificado"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'counterfeit goods' no comércio?",
+    "correctAnswer": "Produtos falsificados / Mercadorias contrafeitas",
+    "options": ["Produtos falsificados / Mercadorias contrafeitas", "Produtos importados sem imposto", "Mercadorias com defeito de fábrica", "Artigos de segunda linha"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "No e-commerce, o que é 'free shipping'?",
+    "correctAnswer": "Frete grátis",
+    "options": ["Frete grátis", "Entrega expressa", "Retirada na loja", "Entrega agendada"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'impulse buying' no comportamento do consumidor?",
+    "correctAnswer": "Compra por impulso",
+    "options": ["Compra por impulso", "Compra planejada com antecedência", "Compra coletiva com desconto", "Compra por assinatura recorrente"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que é 'omnichannel retailing'?",
+    "correctAnswer": "Estratégia de varejo integrada que une canais físicos e digitais para uma experiência de compra unificada",
+    "options": ["Estratégia de varejo integrada que une canais físicos e digitais para uma experiência de compra unificada", "Venda exclusiva por canais digitais sem lojas físicas", "Técnica de precificação dinâmica em múltiplos mercados", "Sistema de distribuição logística multimodal"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'caveat emptor' no contexto de transações comerciais?",
+    "correctAnswer": "Que o comprador tome cuidado / Princípio de que a responsabilidade recai sobre o comprador",
+    "options": ["Que o comprador tome cuidado / Princípio de que a responsabilidade recai sobre o comprador", "Garantia legal obrigatória do vendedor ao comprador", "Direito de arrependimento dentro de 7 dias", "Cláusula de reembolso incondicional"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que é 'dead stock' no varejo?",
+    "correctAnswer": "Mercadoria parada / Estoque que não gira e não é vendido",
+    "options": ["Mercadoria parada / Estoque que não gira e não é vendido", "Produtos com prazo de validade vencido", "Itens retirados de circulação por recall", "Artigos doados para instituições de caridade"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "No marketing de varejo, o que é 'loss leader'?",
+    "correctAnswer": "Produto vendido abaixo do custo para atrair clientes à loja",
+    "options": ["Produto vendido abaixo do custo para atrair clientes à loja", "Gerente de vendas com desempenho abaixo da meta", "Estratégia de liquidação de estoque encalhado", "Produto de baixo giro com alta margem de lucro"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'bricks-and-mortar' quando se fala de varejo?",
+    "correctAnswer": "Loja física / Estabelecimento comercial tradicional com espaço físico",
+    "options": ["Loja física / Estabelecimento comercial tradicional com espaço físico", "Loja de materiais de construção", "Plataforma de vendas exclusivamente online", "Franquia de grande rede varejista"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que é 'predatory pricing' no mercado consumidor?",
+    "correctAnswer": "Precificação predatória / Prática de reduzir preços a níveis insustentáveis para eliminar concorrência",
+    "options": ["Precificação predatória / Prática de reduzir preços a níveis insustentáveis para eliminar concorrência", "Estratégia de preços diferenciados por segmento de mercado", "Política de preços máximos imposta pelo governo", "Sistema de desconto progressivo por volume de compras"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que é 'shrinkage' no contexto do varejo?",
+    "correctAnswer": "Perda de estoque por furto, erro administrativo ou dano",
+    "options": ["Perda de estoque por furto, erro administrativo ou dano", "Redução do tamanho de produtos mantendo o mesmo preço", "Encolhimento de tecidos ao lavar", "Depreciação do valor de mercado dos produtos"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'brand equity' para uma empresa?",
+    "correctAnswer": "Valor agregado que uma marca confere a um produto ou serviço",
+    "options": ["Valor agregado que uma marca confere a um produto ou serviço", "Capital investido em campanhas publicitárias", "Participação acionária dos fundadores da empresa", "Percentual de mercado conquistado pela marca"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que é 'chargeback' no contexto de transações com cartão de crédito?",
+    "correctAnswer": "Estorno de cobrança contestada pelo titular do cartão junto ao banco emissor",
+    "options": ["Estorno de cobrança contestada pelo titular do cartão junto ao banco emissor", "Taxa adicional cobrada por parcelamento", "Limite extra concedido em situações de emergência", "Cobrança duplicada por falha no sistema"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "No e-commerce, o que é 'cart abandonment'?",
+    "correctAnswer": "Fenômeno em que consumidores adicionam itens ao carrinho mas não concluem a compra",
+    "options": ["Fenômeno em que consumidores adicionam itens ao carrinho mas não concluem a compra", "Política de descarte de carrinhos de supermercado danificados", "Estratégia de remover itens não rentáveis do portfólio", "Sistema de exclusão automática de contas inativas"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que é 'upcycling' no contexto do consumo consciente?",
+    "correctAnswer": "Transformação criativa de produtos descartados em itens de maior valor",
+    "options": ["Transformação criativa de produtos descartados em itens de maior valor", "Reciclagem convencional de materiais para reuso industrial", "Processo de atualização de software em dispositivos usados", "Estratégia de reposicionamento de marca no mercado"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que é 'planned obsolescence' (obsolescência planejada)?",
+    "correctAnswer": "Estratégia de fabricantes de projetar produtos com vida útil limitada para estimular novas compras",
+    "options": ["Estratégia de fabricantes de projetar produtos com vida útil limitada para estimular novas compras", "Programa de atualização tecnológica patrocinado pelo governo", "Política de descontinuação de produtos não lucrativos", "Fenômeno natural de envelhecimento de tecnologias de ponta"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'price gouging' no comércio?",
+    "correctAnswer": "Prática abusiva de inflar excessivamente preços em situações de crise ou escassez",
+    "options": ["Prática abusiva de inflar excessivamente preços em situações de crise ou escassez", "Estratégia de precificação baseada em valor percebido pelo cliente", "Técnica de negociação agressiva para obter descontos máximos", "Sistema de leilão inverso para aquisição de insumos"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que é 'greenwashing' no contexto do consumo?",
+    "correctAnswer": "Prática de empresas que promovem falsamente produtos ou práticas como ecologicamente sustentáveis",
+    "options": ["Prática de empresas que promovem falsamente produtos ou práticas como ecologicamente sustentáveis", "Campanha legítima de conscientização ambiental patrocinada por marcas", "Certificação oficial de produtos orgânicos e sustentáveis", "Movimento de consumidores que boicotam empresas poluidoras"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "No marketing, o que é 'anchoring' (efeito âncora)?",
+    "correctAnswer": "Tendência cognitiva de consumidores de basear decisões no primeiro preço apresentado como referência",
+    "options": ["Tendência cognitiva de consumidores de basear decisões no primeiro preço apresentado como referência", "Técnica de fixar produtos no topo de resultados de busca pagos", "Estratégia de vincular marcas a celebridades e influenciadores", "Processo de associar produtos a valores e identidades culturais"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que é 'shrinkflation' no mercado de consumo?",
+    "correctAnswer": "Prática de reduzir a quantidade ou qualidade de um produto mantendo o preço inalterado",
+    "options": ["Prática de reduzir a quantidade ou qualidade de um produto mantendo o preço inalterado", "Política de descontos progressivos em períodos de deflação", "Fenômeno de encolhimento econômico que reduz o poder de compra", "Estratégia de segmentação de mercado por faixa de renda"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'conspicuous consumption' (consumo conspícuo)?",
+    "correctAnswer": "Aquisição de bens de luxo ostensivos para demonstrar status social",
+    "options": ["Aquisição de bens de luxo ostensivos para demonstrar status social", "Consumo excessivo de produtos essenciais por acumuladores", "Prática de comprar em grandes quantidades para revenda", "Comportamento de compra orientado exclusivamente por funcionalidade"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que é 'monopsony' no contexto de mercados de consumo e produção?",
+    "correctAnswer": "Situação de mercado em que há apenas um comprador para múltiplos fornecedores",
+    "options": ["Situação de mercado em que há apenas um comprador para múltiplos fornecedores", "Monopólio de um único vendedor dominando um mercado consumidor", "Conluio entre varejistas para fixar preços mínimos", "Sistema de compras centralizado em grandes conglomerados"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que é 'Veblen good' (bem de Veblen) na teoria econômica do consumo?",
+    "correctAnswer": "Bem cuja demanda aumenta à medida que seu preço sobe, pois o alto custo reforça seu valor de status",
+    "options": ["Bem cuja demanda aumenta à medida que seu preço sobe, pois o alto custo reforça seu valor de status", "Produto essencial com demanda inelástica independente do preço", "Artigo de luxo cuja produção é limitada por escassez natural de matéria-prima", "Mercadoria com externalidades positivas que justificam subsídios governamentais"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'disintermediation' no contexto da cadeia de consumo?",
+    "correctAnswer": "Eliminação de intermediários na cadeia de distribuição, permitindo venda direta do produtor ao consumidor",
+    "options": ["Eliminação de intermediários na cadeia de distribuição, permitindo venda direta do produtor ao consumidor", "Processo de fragmentação de grandes varejistas em unidades menores", "Estratégia de diversificação de canais de distribuição simultâneos", "Fenômeno de desconcentração do poder de mercado por regulação antitruste"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que é 'willingness to pay' (disposição a pagar) na economia do consumidor?",
+    "correctAnswer": "Valor máximo que um consumidor está disposto a desembolsar por um bem ou serviço específico",
+    "options": ["Valor máximo que um consumidor está disposto a desembolsar por um bem ou serviço específico", "Limiar de tolerância a condições de pagamento desfavoráveis como altas taxas de juros", "Propensão marginal ao consumo em diferentes faixas de renda", "Flexibilidade do consumidor para aceitar substitutos de marcas preferidas"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que é 'dark pattern' no design de experiências de compra online?",
+    "correctAnswer": "Técnica de design de interface que manipula o usuário a tomar decisões de compra indesejadas ou não intencionais",
+    "options": ["Técnica de design de interface que manipula o usuário a tomar decisões de compra indesejadas ou não intencionais", "Modo noturno de interfaces de e-commerce para reduzir fadiga visual", "Estratégia de marketing subliminar em plataformas digitais", "Sistema de segurança que oculta dados de pagamento do usuário"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que é 'price elasticity of demand' (elasticidade-preço da demanda)?",
+    "correctAnswer": "Medida da sensibilidade da quantidade demandada de um produto em resposta a variações em seu preço",
+    "options": ["Medida da sensibilidade da quantidade demandada de um produto em resposta a variações em seu preço", "Capacidade de um varejista de ajustar preços em tempo real conforme a demanda", "Índice que mede a variação de preços ao longo da cadeia de suprimentos", "Flexibilidade contratual de fornecedores para renegociar preços sazonais"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que é 'bait-and-switch' no varejo?",
+    "correctAnswer": "Prática desonesta de atrair clientes com oferta irresistível e depois desviá-los para produto mais caro ou inferior",
+    "options": ["Prática desonesta de atrair clientes com oferta irresistível e depois desviá-los para produto mais caro ou inferior", "Técnica de negociação em que vendedor oferece produto complementar como bonificação", "Estratégia de fidelização através de sistema de pontos convertíveis em descontos", "Política de troca imediata de produtos com defeito sem burocracia"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que é 'consumer sovereignty' (soberania do consumidor) no pensamento econômico liberal?",
+    "correctAnswer": "Princípio de que os consumidores, por suas escolhas, determinam quais bens e serviços são produzidos na economia",
+    "options": ["Princípio de que os consumidores, por suas escolhas, determinam quais bens e serviços são produzidos na economia", "Legislação que protege direitos dos consumidores contra práticas abusivas de mercado", "Capacidade do consumidor de negociar preços individualmente com grandes varejistas", "Movimento social que defende o boicote a empresas com práticas antiéticas"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que é 'hedonic adaptation' no comportamento do consumidor?",
+    "correctAnswer": "Tendência psicológica de retornar ao nível basal de satisfação após uma compra, reduzindo o prazer proporcionado pelo bem adquirido",
+    "options": ["Tendência psicológica de retornar ao nível basal de satisfação após uma compra, reduzindo o prazer proporcionado pelo bem adquirido", "Processo de adaptação de produtos ao gosto e preferências hedonistas de nichos específicos", "Capacidade de consumidores de comparar racionalmente utilidades de produtos distintos", "Estratégia de marketing que associa produtos a experiências sensoriais prazerosas"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que é 'deadweight loss' no contexto de impostos sobre consumo?",
+    "correctAnswer": "Perda de eficiência econômica resultante de transações que deixam de ocorrer devido a distorções como impostos ou monopólios",
+    "options": ["Perda de eficiência econômica resultante de transações que deixam de ocorrer devido a distorções como impostos ou monopólios", "Custo de transporte de mercadorias pesadas que reduz a margem do varejista", "Prejuízo causado por produtos encalhados que precisam ser descartados", "Taxa cobrada por reguladores sobre práticas comerciais anticompetitivas"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que é 'asymmetric information' no mercado de consumo?",
+    "correctAnswer": "Situação em que vendedor e comprador possuem níveis desiguais de informação sobre a qualidade ou características do produto",
+    "options": ["Situação em que vendedor e comprador possuem níveis desiguais de informação sobre a qualidade ou características do produto", "Estratégia de comunicação que usa diferentes mensagens para distintos segmentos de consumidores", "Política de transparência de preços imposta por órgãos reguladores do comércio", "Fenômeno de dispersão de informações contraditórias sobre produtos nas redes sociais"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que é 'predatory lending' no contexto financeiro relacionado ao consumo?",
+    "correctAnswer": "Prática abusiva de concessão de crédito com condições injustas que exploram consumidores vulneráveis",
+    "options": ["Prática abusiva de concessão de crédito com condições injustas que exploram consumidores vulneráveis", "Estratégia competitiva de bancos que oferecem taxas muito abaixo do mercado para captar clientes", "Sistema de crédito rotativo com juros progressivos vinculado a cartões de fidelidade", "Programa governamental de microcrédito para empreendedores de baixa renda"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que é 'rational choice theory' aplicada ao comportamento do consumidor?",
+    "correctAnswer": "Teoria que pressupõe que consumidores tomam decisões de compra de forma consistente, maximizando sua utilidade com base em preferências estáveis",
+    "options": ["Teoria que pressupõe que consumidores tomam decisões de compra de forma consistente, maximizando sua utilidade com base em preferências estáveis", "Modelo de análise que explica compras irracionais por gatilhos emocionais e vieses cognitivos", "Abordagem de marketing baseada em apelos racionais como qualidade, preço e funcionalidade", "Princípio ético que orienta empresas a oferecer apenas produtos com custo-benefício justificável"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que é 'inelastic demand' (demanda inelástica) aplicada ao consumo?",
+    "correctAnswer": "Situação em que a variação percentual do preço de um produto provoca variação proporcionalmente menor na quantidade demandada",
+    "options": ["Situação em que a variação percentual do preço de um produto provoca variação proporcionalmente menor na quantidade demandada", "Comportamento de consumidores que não alteram suas preferências mesmo diante de novas tendências de mercado", "Estratégia de manter preços fixos independente de flutuações na cadeia de suprimentos", "Política de precificação rígida adotada por monopólios regulados pelo Estado"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que é 'regulatory capture' no contexto de proteção ao consumidor?",
+    "correctAnswer": "Fenômeno em que agências reguladoras acabam defendendo os interesses das indústrias que deveriam regular, em detrimento dos consumidores",
+    "options": ["Fenômeno em que agências reguladoras acabam defendendo os interesses das indústrias que deveriam regular, em detrimento dos consumidores", "Processo de captura de dados de consumidores por plataformas digitais para fins de regulamentação", "Estratégia de empresas para antecipar e influenciar legislação de defesa do consumidor", "Programa governamental de monitoramento de preços em setores essenciais"],
+    "difficulty": "hard"
+  }
+]

@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A mudança climática é um dos maiores desafios do nosso tempo.",
+        "difficulty":  "easy",
+        "options":  [
+                        "Climate change is the more greatest challenge of our era.",
+                        "Climate change becoming the biggest challenge in modern times.",
+                        "Climate change is one of the greatest challenges of our time.",
+                        "Climate change represents the largest challenge that we face today."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Climate change is one of the greatest challenges of our time."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "As florestas desempenham um papel fundamental na proteção do nosso planeta.",
+        "difficulty":  "easy",
+        "options":  [
+                        "Forests are playing a fundamental role to protect our planet.",
+                        "Forests play a fundamental role in protecting our planet.",
+                        "Forests are fundamental for protecting our planet\u0027s existence.",
+                        "Forests have played a crucial role in the protection of planet."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Forests play a fundamental role in protecting our planet."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A poluição do ar afeta a saúde de milhões de pessoas.",
+        "difficulty":  "easy",
+        "options":  [
+                        "Air pollution affecting millions of people\u0027s health.",
+                        "Air pollution affects the health from millions of people.",
+                        "Air pollution affects the health of millions of people.",
+                        "Air pollution is affecting health of the millions peoples."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Air pollution affects the health of millions of people."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Precisamos reduzir o consumo de plástico para proteger os oceanos.",
+        "difficulty":  "easy",
+        "options":  [
+                        "We need reducing plastic consumption for protecting the oceans.",
+                        "We need to reduce plastic consumption to protect the oceans.",
+                        "We must reduce of plastic consumption to protect oceans.",
+                        "We are needing to reduce plastic consuming to protect oceans."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "We need to reduce plastic consumption to protect the oceans."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A energia renovável é essencial para um futuro sustentável.",
+        "difficulty":  "easy",
+        "options":  [
+                        "Renewable energy is essential for future that is sustainable.",
+                        "Renewable energy being essential for a sustainable future.",
+                        "Renewable energy is essential for a sustainable future.",
+                        "Renewable energy is essential for futures sustainable ones."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Renewable energy is essential for a sustainable future."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "O desmatamento causa impactos graves no ecossistema.",
+        "difficulty":  "easy",
+        "options":  [
+                        "Deforestation causes serious impacts on the ecosystem.",
+                        "Deforestation is causing serious impacts in the ecosystem.",
+                        "Deforestation causes grave impacts in ecosystem.",
+                        "Deforestation is making serious impacts to ecosystems."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Deforestation causes serious impacts on the ecosystem."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Os animais selvagens enfrentam riscos cada vez maiores.",
+        "difficulty":  "easy",
+        "options":  [
+                        "Wild animals are facing risks increasingly greater.",
+                        "Wild animals face greater and greater risks every time.",
+                        "Wild animals face increasingly greater risks.",
+                        "Wild animals are facing greater risks in increasing manner."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Wild animals face increasingly greater risks."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A reciclagem é uma prática importante para preservar recursos.",
+        "difficulty":  "easy",
+        "options":  [
+                        "Recycling is a practice important to preserve resources.",
+                        "Recycling is an important practice for preserving resources.",
+                        "Recycling being important practice for resources preservation.",
+                        "Recycling is important practice in preserving of resources."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Recycling is an important practice for preserving resources."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "As mudanças climáticas causam secas prolongadas em várias regiões.",
+        "difficulty":  "easy",
+        "options":  [
+                        "Climate changes are causing prolonged droughts in regions.",
+                        "Climate changes causing prolonged droughts in various regions.",
+                        "Climate changes cause prolonged droughts in several regions.",
+                        "Climate changing causes droughts prolonged in many regions."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Climate changes cause prolonged droughts in several regions."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A conservação da biodiversidade é crucial para o equilíbrio natural.",
+        "difficulty":  "easy",
+        "options":  [
+                        "Conservation of biodiversity being crucial for natural balance.",
+                        "The conservation from biodiversity is crucial for natural balance.",
+                        "The conservation of biodiversity is crucial for natural balance.",
+                        "Conserving biodiversity is crucial for the natural balances."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "The conservation of biodiversity is crucial for natural balance."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Os países devem estabelecer políticas ambientais mais rigorosas.",
+        "difficulty":  "easy",
+        "options":  [
+                        "Countries must establishing more rigorous environmental policies.",
+                        "Countries should establish more rigorous environmental policies.",
+                        "Countries should establishing more environmental policies rigorous.",
+                        "Countries are needing to establish policies environmental rigorous."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Countries should establish more rigorous environmental policies."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A qualidade da água é fundamental para a vida aquática.",
+        "difficulty":  "easy",
+        "options":  [
+                        "Quality of water being fundamental for aquatic life.",
+                        "Water quality is fundamental for the life aquatic.",
+                        "Water quality is fundamental for aquatic life.",
+                        "Water quality being fundamental to aquatic life\u0027s existence."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Water quality is fundamental for aquatic life."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "O aquecimento global acelera o derretimento das calotas polares.",
+        "difficulty":  "easy",
+        "options":  [
+                        "Global warming is accelerating melting of polar ice caps.",
+                        "Global warming accelerates the melting of polar ice caps.",
+                        "Global warming accelerates melting from polar ice caps.",
+                        "Global warming accelerating the polar ice caps melting process."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Global warming accelerates the melting of polar ice caps."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Os resíduos industriais representam uma ameaça ao meio ambiente.",
+        "difficulty":  "easy",
+        "options":  [
+                        "Industrial waste representing a threat to the environment.",
+                        "Industrial waste represents a threat to the environment.",
+                        "Industrial waste being a threat to environmental system.",
+                        "Industrial wastes represent a threat in the environment."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Industrial waste represents a threat to the environment."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A energia solar oferece uma alternativa limpa e renovável.",
+        "difficulty":  "easy",
+        "options":  [
+                        "Solar energy is offering a clean and renewable alternative.",
+                        "Solar energy offers a clean and renewable alternative.",
+                        "Solar energy offering clean renewable alternative options.",
+                        "Solar energy offers alternative clean and renewable forms."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Solar energy offers a clean and renewable alternative."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Devemos proteger as espécies ameaçadas de extinção.",
+        "difficulty":  "easy",
+        "options":  [
+                        "We are protecting species that are threatened with extinction.",
+                        "We must protect species threatened with extinction.",
+                        "We must protecting the species threatened of extinction.",
+                        "We have to protect the species in danger of extinct."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "We must protect species threatened with extinction."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A degradação do solo afeta a produção agrícola global.",
+        "difficulty":  "easy",
+        "options":  [
+                        "Soil degradation affecting global agricultural production.",
+                        "Soil degradation affects the global agricultural production.",
+                        "Soil degradation affects global agricultural production.",
+                        "Soil degradation is affecting productions agricultural globally."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Soil degradation affects global agricultural production."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Embora haja progressos, ainda há muito trabalho a fazer na sustentabilidade.",
+        "difficulty":  "medium",
+        "options":  [
+                        "Although there is progress, still much work to be done for sustainability.",
+                        "Although there is progress, there is still much work to be done on sustainability.",
+                        "Although there is progress, there is much more work needs to be done.",
+                        "Despite progress exists, much work still needs for sustainability."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Although there is progress, there is still much work to be done on sustainability."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Os ecossistemas costeiros servem como berço de muitas espécies marinhas.",
+        "difficulty":  "medium",
+        "options":  [
+                        "Coastal ecosystems serving as a cradle to many marine species.",
+                        "Coastal ecosystems serve as a cradle for many marine species.",
+                        "Coastal ecosystems are cradles from many marine species.",
+                        "Coastal ecosystems serving like cradle of marine species."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Coastal ecosystems serve as a cradle for many marine species."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A transição para fontes de energia limpa requer investimentos significativos.",
+        "difficulty":  "medium",
+        "options":  [
+                        "Transition to clean energy sources is requiring significant investments.",
+                        "The transition to clean energy sources requires significant investments.",
+                        "Transition for clean energy sources requiring investments significant.",
+                        "The transition to sources of clean energy requires big investments."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "The transition to clean energy sources requires significant investments."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Os órgãos ambientais internacionais coordenam esforços para combater a poluição.",
+        "difficulty":  "medium",
+        "options":  [
+                        "International environmental bodies are coordinating efforts to fight pollution.",
+                        "International environmental bodies coordinate efforts to fight pollution.",
+                        "International organs of environment coordinate to fight pollution.",
+                        "International environmental organizations coordinate efforts fighting pollution."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "International environmental bodies coordinate efforts to fight pollution."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A agricultura sustentável promove o uso responsável dos recursos naturais.",
+        "difficulty":  "medium",
+        "options":  [
+                        "Sustainable agriculture is promoting responsible use of natural resources.",
+                        "Sustainable agriculture promotes the responsible use of natural resources.",
+                        "Sustainable agriculture promoting responsible use from natural resources.",
+                        "Sustainable agriculture promotes resources natural responsible uses."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Sustainable agriculture promotes the responsible use of natural resources."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Os microplásticos penetram a cadeia alimentar marinha com consequências desconhecidas.",
+        "difficulty":  "medium",
+        "options":  [
+                        "Microplastics are penetrating the marine food chain with unknown consequences.",
+                        "Microplastics penetrate the marine food chain with unknown consequences.",
+                        "Microplastics penetrating in the marine food chains with unknown consequences.",
+                        "Microplastics penetrate marine food chains consequences unknown."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Microplastics penetrate the marine food chain with unknown consequences."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Os cemitérios de plástico submarinos crescem exponencialmente a cada ano.",
+        "difficulty":  "medium",
+        "options":  [
+                        "Underwater plastic graveyards are growing exponentially each year.",
+                        "Underwater plastic graveyards grow exponentially each year.",
+                        "Underwater cemeteries of plastic grow exponential per year.",
+                        "The underwater plastic graveyards growing exponentially every year."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Underwater plastic graveyards grow exponentially each year."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "As certificações de sustentabilidade indicam compromisso ambiental das empresas.",
+        "difficulty":  "medium",
+        "options":  [
+                        "Sustainability certifications are indicating commitment environmental of companies.",
+                        "Sustainability certifications indicate the environmental commitment of companies.",
+                        "Sustainability certifications indicate commitment from companies environmental.",
+                        "Sustainability certifications indicating companies environmental commitment levels."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Sustainability certifications indicate the environmental commitment of companies."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A restauração de wetlands é essencial para preservar habitats críticos.",
+        "difficulty":  "medium",
+        "options":  [
+                        "Restoration from wetlands being essential for preserving critical habitats.",
+                        "The restoration of wetlands is essential for preserving critical habitats.",
+                        "Restoration of wetlands being essential to preserve habitats critical.",
+                        "Restoration from wetlands essentially preserve the critical habitats."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "The restoration of wetlands is essential for preserving critical habitats."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A economia circular busca eliminar o conceito de resíduos.",
+        "difficulty":  "medium",
+        "options":  [
+                        "Circular economy is seeking to eliminate concept of waste.",
+                        "The circular economy seeks to eliminate the concept of waste.",
+                        "Circular economy seeking eliminating the concept from waste.",
+                        "Circular economy seeks eliminating waste concepts completely."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "The circular economy seeks to eliminate the concept of waste."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Embora pareça impossível, a recuperação ecológica é alcançável com dedicação.",
+        "difficulty":  "medium",
+        "options":  [
+                        "Although it seems impossible, ecological recovery being achievable with dedication.",
+                        "Although it seems impossible, ecological recovery is achievable with dedication.",
+                        "Although seeming impossible, the ecological recovery achievable with dedication.",
+                        "Although seems impossible, recovery ecological is achievable dedication."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Although it seems impossible, ecological recovery is achievable with dedication."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A pegada de carbono das corporações multinacionais continua aumentando.",
+        "difficulty":  "medium",
+        "options":  [
+                        "Carbon footprint of multinational corporations is continuing to increase.",
+                        "The carbon footprint of multinational corporations continues to increase.",
+                        "Carbon footprint from multinational corporations continuing increasing.",
+                        "Footprint of carbon in multinational corporations keeps increasing."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "The carbon footprint of multinational corporations continues to increase."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Os acordos internacionais sobre clima enfrentam dificuldades na implementação.",
+        "difficulty":  "medium",
+        "options":  [
+                        "International climate agreements are facing difficulties in implementation.",
+                        "International climate agreements face difficulties in implementation.",
+                        "International climate agreements facing difficulty in implementations.",
+                        "International agreements on climate facing implementation difficulties."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "International climate agreements face difficulties in implementation."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A consciência ambiental dos consumidores influencia as decisões comerciais.",
+        "difficulty":  "medium",
+        "options":  [
+                        "Environmental awareness from consumers influencing business decisions.",
+                        "Consumer environmental awareness influences business decisions.",
+                        "Consumer awareness environmental is influencing decisions commercial.",
+                        "Environmental consciousness of consumers influencing commercial decisions."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Consumer environmental awareness influences business decisions."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Se continuarmos neste padrão, os ecossistemas colapso serão inevitáveis.",
+        "difficulty":  "hard",
+        "options":  [
+                        "If we are continuing at this rate, ecosystem collapse will be inevitable.",
+                        "If we continue at this rate, ecosystem collapse will be inevitable.",
+                        "If continue we on this rate, collapses of ecosystems inevitable.",
+                        "Should we continue this rate, ecosystem collapse will inevitably happen."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "If we continue at this rate, ecosystem collapse will be inevitable."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Os ecossistemas de floresta tropical armazenam quantidades imensuráveis de biodiversidade.",
+        "difficulty":  "hard",
+        "options":  [
+                        "Tropical rainforest ecosystems are storing immeasurable amounts of biodiversity.",
+                        "Tropical rainforest ecosystems store immeasurable amounts of biodiversity.",
+                        "Tropical forest ecosystems storing quantities immeasurable of biodiversity.",
+                        "Rainforest ecosystems from tropics storing biodiversity immeasurable."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Tropical rainforest ecosystems store immeasurable amounts of biodiversity."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A bioamplificação de contaminantes atravessa a cadeia alimentar com efeitos devastadores.",
+        "difficulty":  "hard",
+        "options":  [
+                        "Bioaccumulation of contaminants is traveling through food chain devastating effects.",
+                        "Bioaccumulation of contaminants travels through the food chain with devastating effects.",
+                        "Bioaccumulation from contaminants traveling the food chain devastating.",
+                        "Contaminants bioaccumulation through food chains with devastating consequences."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Bioaccumulation of contaminants travels through the food chain with devastating effects."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Os eventos climáticos extremos tornaram-se mais frequentes e intensos nas últimas décadas.",
+        "difficulty":  "hard",
+        "options":  [
+                        "Extreme weather events becoming more frequent and intense in recent decades.",
+                        "Extreme weather events have become more frequent and intense in recent decades.",
+                        "Extreme climate events becoming frequent and intense in the last decades.",
+                        "Weather events extreme have been more frequent and intense decades."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Extreme weather events have become more frequent and intense in recent decades."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A gentrificação verde em cidades deslocava comunidades vulneráveis de seus territórios.",
+        "difficulty":  "hard",
+        "options":  [
+                        "Green gentrification in cities is displacing vulnerable communities from their territories.",
+                        "Green gentrification in cities displaces vulnerable communities from their territories.",
+                        "Green gentrification displaces communities vulnerable from territories theirs.",
+                        "Gentrification green in cities displacing communities from vulnerable territories."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Green gentrification in cities displaces vulnerable communities from their territories."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Os tratados de biodiversidade buscam harmonizar conservação com desenvolvimento econômico.",
+        "difficulty":  "hard",
+        "options":  [
+                        "Biodiversity treaties are seeking to harmonize conservation with economic development.",
+                        "Biodiversity treaties seek to harmonize conservation with economic development.",
+                        "Biodiversity treaties seeking harmonizing conservation and development economic.",
+                        "Treaties of biodiversity harmonize conservation with development economic."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Biodiversity treaties seek to harmonize conservation with economic development."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A salinização crescente de aquíferos costeiros compromete a segurança hídrica regional.",
+        "difficulty":  "hard",
+        "options":  [
+                        "Increasing salinization of coastal aquifers is compromising regional water security.",
+                        "The increasing salinization of coastal aquifers compromises regional water security.",
+                        "Salinization increasing from aquifers coastal compromises water security regional.",
+                        "The salinization of aquifers coastal increasing compromises security water."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "The increasing salinization of coastal aquifers compromises regional water security."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A economia de baixo carbono requer mudanças estruturais nas matrizes energéticas.",
+        "difficulty":  "hard",
+        "options":  [
+                        "Low-carbon economy is requiring structural changes in energy matrices.",
+                        "A low-carbon economy requires structural changes in energy matrices.",
+                        "Economy low-carbon requiring changes structural in matrices energy.",
+                        "Low-carbon economy requires structural change for energy matrices."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "A low-carbon economy requires structural changes in energy matrices."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Paradoxalmente, algumas soluções ambientais criam novos dilemas éticos.",
+        "difficulty":  "hard",
+        "options":  [
+                        "Paradoxically some environmental solutions creating new ethical dilemmas.",
+                        "Paradoxically, some environmental solutions create new ethical dilemmas.",
+                        "Paradoxically environmental solutions create some new dilemmas ethical.",
+                        "Some environmental solutions paradoxically are creating ethical dilemmas."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Paradoxically, some environmental solutions create new ethical dilemmas."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Os sumidouros de carbono naturais estão sendo comprometidos pela interferência humana.",
+        "difficulty":  "hard",
+        "options":  [
+                        "Natural carbon sinks being compromised from human interference.",
+                        "Natural carbon sinks are being compromised by human interference.",
+                        "Sinks of carbon natural are compromised by interfering human.",
+                        "Carbon sinks natural are being compromised with human interference."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Natural carbon sinks are being compromised by human interference."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A desertificação avançada em regiões semiáridas exacerba conflitos por recursos.",
+        "difficulty":  "hard",
+        "options":  [
+                        "Advanced desertification in semiarid regions is exacerbating resource conflicts.",
+                        "Advanced desertification in semiarid regions exacerbates resource conflicts.",
+                        "Desertification advanced in regions semiarid exacerbate conflicts of resources.",
+                        "Advanced desertification in regions semiarid is exacerbating conflicts resources."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Advanced desertification in semiarid regions exacerbates resource conflicts."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A tributação ambiental redistribui custos externos para produtores poluidores.",
+        "difficulty":  "hard",
+        "options":  [
+                        "Environmental taxation is redistributing external costs to polluting producers.",
+                        "Environmental taxation redistributes external costs to polluting producers.",
+                        "Taxation environmental redistributes costs external to producers polluting.",
+                        "Environmental tax redistributes costs external from polluters producers."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Environmental taxation redistributes external costs to polluting producers."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A sincronização de esforços governamentais transcende fronteiras nacionais efetivamente.",
+        "difficulty":  "hard",
+        "options":  [
+                        "Synchronization of government efforts is transcending national borders effectively.",
+                        "The synchronization of government efforts effectively transcends national borders.",
+                        "Synchronization government efforts effectively transcends borders national.",
+                        "Synchronizing government efforts effectively transcend borders nationally."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "The synchronization of government efforts effectively transcends national borders."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Os organismos geneticamente modificados oferecem promessas, mas também riscos ambientais.",
+        "difficulty":  "hard",
+        "options":  [
+                        "Genetically modified organisms offering promises, but also environmental risks.",
+                        "Genetically modified organisms offer promises, but also environmental risks.",
+                        "Organisms genetically modified offer promises but environmental risks also.",
+                        "GMOs offer promising solutions but also environmental risks present."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Genetically modified organisms offer promises, but also environmental risks."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A resiliência dos ecossistemas diminui quando submete-se a pressões múltiplas.",
+        "difficulty":  "hard",
+        "options":  [
+                        "Ecosystem resilience is decreasing when subjected to multiple pressures.",
+                        "Ecosystem resilience decreases when subjected to multiple pressures.",
+                        "Resilience from ecosystems decreases when submitted multiple pressures.",
+                        "When ecosystems are subjected pressures multiple resilience decreases."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Ecosystem resilience decreases when subjected to multiple pressures."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Os mecanismos de pagamento por serviços ambientais incentivam conservação voluntária.",
+        "difficulty":  "hard",
+        "options":  [
+                        "Payment mechanisms for environmental services are incentivizing voluntary conservation.",
+                        "Payment mechanisms for environmental services incentivize voluntary conservation.",
+                        "Mechanisms of payment for environmental services incentivize conservation voluntary.",
+                        "Payment for services environmental incentivizing conservation voluntary mechanisms."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Payment mechanisms for environmental services incentivize voluntary conservation."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A vulnerabilidade ambiental das nações em desenvolvimento exige assistência técnica internacional.",
+        "difficulty":  "medium",
+        "options":  [
+                        "Environmental vulnerability of developing nations requiring international technical assistance.",
+                        "The environmental vulnerability of developing nations requires international technical assistance.",
+                        "Vulnerability environmental from nations developing requires assistance technical international.",
+                        "Developing nations environmental vulnerability requires international assistance technical."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "The environmental vulnerability of developing nations requires international technical assistance."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A mobilização de capitais verdes financia projetos de sustentabilidade em escala global.",
+        "difficulty":  "medium",
+        "options":  [
+                        "Green capital mobilization financing sustainability projects in global scale.",
+                        "The mobilization of green capital finances sustainability projects on a global scale.",
+                        "Mobilization of green capitals financing projects of sustainability in global scale.",
+                        "Green capital being mobilized to finance sustainability projects globally."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "The mobilization of green capital finances sustainability projects on a global scale."
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A gestão integrada de recursos hídricos transcende limitações políticas e geográficas.",
+        "difficulty":  "medium",
+        "options":  [
+                        "Integrated water resources management transcending political and geographical limitations.",
+                        "Integrated water resources management transcends political and geographical limitations.",
+                        "Management integrated of water resources transcends limitations political geographical.",
+                        "Integrated management of water resources transcends boundaries political and geographical."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Integrated water resources management transcends political and geographical limitations."
+    }
+]

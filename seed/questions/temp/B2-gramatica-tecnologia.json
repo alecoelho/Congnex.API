@@ -1,0 +1,502 @@
+﻿[
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O usuário _____ instalar o software antes de usar a plataforma.",
+    "correctAnswer": "precisa",
+    "options": ["precisa", "precisando", "precisado", "precisará ter"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "A empresa _____ desenvolvido uma nova aplicação mobile.",
+    "correctAnswer": "has developed",
+    "options": ["has developed", "has been developed", "was developed", "have developed"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Se você _____ o navegador, a página carregará mais rápido.",
+    "correctAnswer": "limpar",
+    "options": ["limpar", "limpando", "limpou", "limpará"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O download _____ completo assim que você clicar no botão.",
+    "correctAnswer": "will be",
+    "options": ["will be", "would be", "will have been", "was"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Ele está _____ a programação desde o ano passado.",
+    "correctAnswer": "aprendendo",
+    "options": ["aprendendo", "aprendido", "aprender", "aprende"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "A equipe _____ finalizar o projeto antes do prazo.",
+    "correctAnswer": "conseguiu",
+    "options": ["conseguiu", "conseguindo", "conseguindo ter", "conseguirá"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O servidor _____ offline desde esta manhã.",
+    "correctAnswer": "has been",
+    "options": ["has been", "was", "is being", "had been"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Você _____ atualizar sua senha regularmente por segurança.",
+    "correctAnswer": "deve",
+    "options": ["deve", "devendo", "deveria ter", "devia"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "A interface _____ muito intuitiva e fácil de usar.",
+    "correctAnswer": "is",
+    "options": ["is", "are", "was", "been"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Nós _____ enviado os arquivos para o armazenamento em nuvem.",
+    "correctAnswer": "have",
+    "options": ["have", "has", "had", "were"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O algoritmo _____ otimizado para melhor desempenho.",
+    "correctAnswer": "foi",
+    "options": ["foi", "era", "sendo", "sido"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Eles _____ usando a API para integrar os sistemas.",
+    "correctAnswer": "are",
+    "options": ["are", "were", "be", "been"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O código _____ revisado antes de ser publicado.",
+    "correctAnswer": "needs to be",
+    "options": ["needs to be", "need being", "needs being", "need to be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "A plataforma _____ oferecer suporte em múltiplos idiomas.",
+    "correctAnswer": "deve",
+    "options": ["deve", "devendo", "deverá ter", "devia"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Se o sistema _____ sobrecarregado, os usuários terão que esperar.",
+    "correctAnswer": "ficar",
+    "options": ["ficar", "fica", "ficando", "ficado"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Os dados _____ armazenados com criptografia de ponta a ponta.",
+    "correctAnswer": "are",
+    "options": ["are", "is", "were", "was"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Eu _____ implementar essa funcionalidade se você me der mais tempo.",
+    "correctAnswer": "posso",
+    "options": ["posso", "podendo", "poderia ter", "pude"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O desenvolvedor _____ corrigido todos os bugs na última versão.",
+    "correctAnswer": "has",
+    "options": ["has", "have", "had", "having"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Embora _____ investido bastante em segurança, o sistema ainda foi hackeado.",
+    "correctAnswer": "tivessem",
+    "options": ["tivessem", "tendo", "tiveram", "tenham"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Para que o aplicativo _____ funcionar corretamente, você precisa de permissões.",
+    "correctAnswer": "possa",
+    "options": ["possa", "pode", "pudesse", "podia"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "A IA _____ processando milhões de dados simultaneamente.",
+    "correctAnswer": "is",
+    "options": ["is", "are", "was", "were"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Se você _____ clicado no link, você teria recebido o formulário.",
+    "correctAnswer": "tivesse",
+    "options": ["tivesse", "tivera", "tenha", "tem"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O projeto _____ finalizado pela equipe de desenvolvimento.",
+    "correctAnswer": "was",
+    "options": ["was", "is", "been", "are"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Desde que o sistema foi _____, não houve mais problemas de compatibilidade.",
+    "correctAnswer": "atualizado",
+    "options": ["atualizado", "atualizando", "atualizar", "atualiza"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O banco de dados _____ sincronizando com o servidor todas as noites.",
+    "correctAnswer": "has been",
+    "options": ["has been", "is", "was", "have"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "É importante que você _____ suas informações de login em segurança.",
+    "correctAnswer": "mantenha",
+    "options": ["mantenha", "mantém", "mantendo", "mantive"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "A conexão de internet _____ melhorado significativamente após a instalação.",
+    "correctAnswer": "has",
+    "options": ["has", "have", "had", "having"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Exceto que o servidor _____ desligado, todos os sistemas estão funcionando.",
+    "correctAnswer": "está",
+    "options": ["está", "estando", "estiver", "esteve"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Ninguém _____ acessar a pasta sem as credenciais corretas.",
+    "correctAnswer": "can",
+    "options": ["can", "could", "might", "should"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O software _____ desenvolvido em Python e JavaScript.",
+    "correctAnswer": "foi",
+    "options": ["foi", "era", "sendo", "sido"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Quer _____ em você mesmo, a inovação é sempre possível.",
+    "correctAnswer": "acredite",
+    "options": ["acredite", "acreditando", "acreditado", "acredita"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "A página _____ carregada em menos de 3 segundos.",
+    "correctAnswer": "is",
+    "options": ["is", "are", "was", "were"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Considere que o código _____ ser escrito de forma mais limpa.",
+    "correctAnswer": "poderia",
+    "options": ["poderia", "pode", "pode ter", "podendo"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Sem importar como você _____, o resultado será o mesmo.",
+    "correctAnswer": "tente",
+    "options": ["tente", "tentando", "tentado", "tenta"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O sistema de recomendações _____ aprimorado com algoritmos de machine learning.",
+    "correctAnswer": "has been",
+    "options": ["has been", "have been", "is being", "was"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Caso houvesse _____ em relação à privacidade, poderíamos ajustar as configurações.",
+    "correctAnswer": "preocupação",
+    "options": ["preocupação", "preocupando", "preocupado", "preocupa"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Quando _____ implementada, a função de cache reduzirá o tempo de resposta.",
+    "correctAnswer": "for",
+    "options": ["for", "fosse", "é", "será"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Havendo _____ de recursos, o projeto seria concluído mais rapidamente.",
+    "correctAnswer": "abundância",
+    "options": ["abundância", "abundando", "abundado", "abunda"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O framework _____ facilitar o desenvolvimento, não complicá-lo.",
+    "correctAnswer": "deveria",
+    "options": ["deveria", "deve", "deverá", "devendo"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Supondo _____ implementado corretamente, o teste passará.",
+    "correctAnswer": "esteja",
+    "options": ["esteja", "está", "estando", "estava"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Não fosse a redundância, o sistema _____ completamente durante a falha.",
+    "correctAnswer": "teria caído",
+    "options": ["teria caído", "caiu", "cairá", "cai"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Independentemente de _____ escolhido, o resultado será otimizado.",
+    "correctAnswer": "qual banco de dados tenha sido",
+    "options": ["qual banco de dados tenha sido", "qual banco de dados é", "qual banco de dados foi", "qual banco de dados seja"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Pelos erros _____, a equipe revisará o código completamente.",
+    "correctAnswer": "encontrados",
+    "options": ["encontrados", "encontrando", "encontrar", "encontra"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Ainda que _____ investido em infraestrutura, a escalabilidade permanece limitada.",
+    "correctAnswer": "tenha",
+    "options": ["tenha", "tendo", "tivesse", "tem"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "A menos que _____ patches de segurança regularmente, o risco aumenta.",
+    "correctAnswer": "sejam aplicados",
+    "options": ["sejam aplicados", "são aplicados", "serem aplicados", "terem sido aplicados"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Visto que _____ inúmeras vulnerabilidades, a segurança foi reforçada.",
+    "correctAnswer": "houve",
+    "options": ["houve", "houvendo", "havendo", "há"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Posto que _____ com a integração, a API será lançada em breve.",
+    "correctAnswer": "terminaram",
+    "options": ["terminaram", "terminando", "terminar", "termina"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Procure compreender como o algoritmo _____ otimizado para evitar gargalos.",
+    "correctAnswer": "foi",
+    "options": ["foi", "era", "sendo", "será"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Sendo _____ a escalabilidade, a arquitetura foi completamente redesenhada.",
+    "correctAnswer": "crítica",
+    "options": ["crítica", "criticando", "criticado", "critica"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "gramatica",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Demonstrou-se que a implementação _____ ser executada em menor tempo.",
+    "correctAnswer": "poderia",
+    "options": ["poderia", "pode", "pôde", "pode ter"],
+    "difficulty": "hard"
+  }
+]

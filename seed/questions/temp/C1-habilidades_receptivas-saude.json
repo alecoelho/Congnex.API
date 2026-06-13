@@ -1,0 +1,737 @@
+[
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "O médico recomendou que ela descansasse bastante e bebesse muita água.",
+    "correctAnswer": "The doctor recommended that she get plenty of rest and drink a lot of water.",
+    "options": [
+      "The doctor recommended that she get plenty of rest and drink a lot of water.",
+      "The doctor suggested that she should take a nap and consume water.",
+      "The doctor advised her to sleep all day and avoid dehydration.",
+      "The doctor told her to relax completely and hydrate herself sometimes."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Ela faz exames de rotina todo ano para monitorar sua saúde.",
+    "correctAnswer": "She has routine check-ups every year to monitor her health.",
+    "options": [
+      "She has routine check-ups every year to monitor her health.",
+      "She makes routine exams each year to check on her wellness.",
+      "She does yearly routine tests to supervise her health status.",
+      "She takes regular health tests every year to observe her condition."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Praticar exercícios físicos regularmente contribui para uma vida mais saudável.",
+    "correctAnswer": "Exercising regularly contributes to a healthier life.",
+    "options": [
+      "Exercising regularly contributes to a healthier life.",
+      "Doing physical activities sometimes helps to have a good life.",
+      "Practicing sports on a daily basis makes your life completely healthy.",
+      "Physical exercises practiced often result in a perfect lifestyle."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A alimentação equilibrada é fundamental para manter o peso ideal.",
+    "correctAnswer": "A balanced diet is essential for maintaining an ideal weight.",
+    "options": [
+      "A balanced diet is essential for maintaining an ideal weight.",
+      "Eating well is important to keep your weight in control.",
+      "Good nutrition is fundamental to achieve the perfect body weight.",
+      "A healthy food plan is necessary to not gain too much weight."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Ele precisou ser internado no hospital por causa de uma infecção grave.",
+    "correctAnswer": "He had to be admitted to the hospital due to a severe infection.",
+    "options": [
+      "He had to be admitted to the hospital due to a severe infection.",
+      "He was forced to go to the hospital because of a strong disease.",
+      "He needed to enter the hospital for treating a very bad sickness.",
+      "He had to stay at the clinic because he got a serious problem."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A pressão arterial alta pode causar problemas cardíacos sérios.",
+    "correctAnswer": "High blood pressure can cause serious heart problems.",
+    "options": [
+      "High blood pressure can cause serious heart problems.",
+      "Elevated arterial pressure may create dangerous cardiac issues.",
+      "High blood levels might lead to problems in your heart region.",
+      "Strong blood pressure can make your heart work in a bad way."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Dormir bem à noite é essencial para a recuperação do organismo.",
+    "correctAnswer": "Getting a good night's sleep is essential for the body's recovery.",
+    "options": [
+      "Getting a good night's sleep is essential for the body's recovery.",
+      "Sleeping well during the night is very important for your organism.",
+      "Having good sleep at night helps the body to recover itself properly.",
+      "To sleep well during nighttime is needed so the body can rest."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "O tabagismo é um dos principais fatores de risco para o câncer de pulmão.",
+    "correctAnswer": "Smoking is one of the main risk factors for lung cancer.",
+    "options": [
+      "Smoking is one of the main risk factors for lung cancer.",
+      "Cigarette usage is a big danger factor that causes problems in lungs.",
+      "Tobacco consumption is considered a major risk for developing cancer.",
+      "Smoking cigarettes frequently is one reason why people get lung diseases."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A vacinação protege as pessoas de doenças potencialmente fatais.",
+    "correctAnswer": "Vaccination protects people from potentially fatal diseases.",
+    "options": [
+      "Vaccination protects people from potentially fatal diseases.",
+      "Getting vaccinated helps people to avoid very dangerous illnesses.",
+      "Vaccines work to defend individuals against diseases that can be mortal.",
+      "The vaccination process keeps people safe from deadly sicknesses overall."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Reduzir o consumo de açúcar ajuda a prevenir o diabetes tipo 2.",
+    "correctAnswer": "Reducing sugar intake helps prevent type 2 diabetes.",
+    "options": [
+      "Reducing sugar intake helps prevent type 2 diabetes.",
+      "Consuming less sugar is good for avoiding diabetes of the second type.",
+      "Cutting down on sweets helps you not to develop type two diabetes.",
+      "Lowering sugar consumption in your diet prevents the second type of diabetes."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A saúde mental merece tanta atenção quanto a saúde física.",
+    "correctAnswer": "Mental health deserves as much attention as physical health.",
+    "options": [
+      "Mental health deserves as much attention as physical health.",
+      "Psychological health needs the same care and attention as body health.",
+      "The health of the mind is just as important than having a healthy body.",
+      "Mental conditions should be treated with the same importance as physical ones."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "O médico prescreveu antibióticos para tratar a infecção bacteriana.",
+    "correctAnswer": "The doctor prescribed antibiotics to treat the bacterial infection.",
+    "options": [
+      "The doctor prescribed antibiotics to treat the bacterial infection.",
+      "The physician recommended antibiotic medicine for the bacterial sickness.",
+      "The doctor gave her some antibiotics so she could fight the bacteria.",
+      "The medical doctor wrote a prescription for bacteria-fighting medication."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Manter-se hidratado é crucial para o bom funcionamento do organismo.",
+    "correctAnswer": "Staying hydrated is crucial for the proper functioning of the body.",
+    "options": [
+      "Staying hydrated is crucial for the proper functioning of the body.",
+      "Drinking enough water is very important so that your body works well.",
+      "Keeping yourself with water in your body is needed for a healthy life.",
+      "Being well-hydrated daily ensures that all your body systems function."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A obesidade está associada a um maior risco de desenvolver doenças crônicas.",
+    "correctAnswer": "Obesity is associated with a higher risk of developing chronic diseases.",
+    "options": [
+      "Obesity is associated with a higher risk of developing chronic diseases.",
+      "Being obese is linked to more chances of getting long-lasting illnesses.",
+      "Overweight people have a bigger risk to develop serious chronic conditions.",
+      "Obesity connects to having more probability of catching chronic sicknesses."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Após a cirurgia, ele precisou de semanas de repouso e fisioterapia.",
+    "correctAnswer": "After the surgery, he needed weeks of rest and physiotherapy.",
+    "options": [
+      "After the surgery, he needed weeks of rest and physiotherapy.",
+      "Following the operation, he required some time resting and doing exercises.",
+      "After his surgical procedure, weeks of recovery and therapy were necessary.",
+      "Post-surgery, the patient had to rest and go to physical therapy sessions."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Os sintomas da gripe incluem febre, tosse e dores no corpo.",
+    "correctAnswer": "Flu symptoms include fever, cough, and body aches.",
+    "options": [
+      "Flu symptoms include fever, cough, and body aches.",
+      "Influenza signs are fever, coughing constantly and pains throughout the body.",
+      "The symptoms of the flu are high temperature, cough and muscle pain.",
+      "Flu indicators encompass fever episodes, a persistent cough and body soreness."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "O uso excessivo de telas pode prejudicar a saúde ocular.",
+    "correctAnswer": "Excessive screen time can harm eye health.",
+    "options": [
+      "Excessive screen time can harm eye health.",
+      "Using screens for too long can be bad for your vision and eyesight.",
+      "Looking at screens excessively damages the eyes and causes visual problems.",
+      "Too much use of screens might create problems related to your visual health."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "O estresse crônico pode desencadear uma série de complicações de saúde.",
+    "correctAnswer": "Chronic stress can trigger a range of health complications.",
+    "options": [
+      "Chronic stress can trigger a range of health complications.",
+      "Long-lasting stress is able to cause many kinds of health-related problems.",
+      "Constant stress tends to provoke several different complications in one's health.",
+      "Persistent stress levels may initiate numerous complications affecting your well-being."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A terapia cognitivo-comportamental tem se mostrado eficaz no tratamento da ansiedade.",
+    "correctAnswer": "Cognitive-behavioural therapy has proven effective in treating anxiety.",
+    "options": [
+      "Cognitive-behavioural therapy has proven effective in treating anxiety.",
+      "Cognitive and behavioural treatment has demonstrated good results against anxiety.",
+      "The cognitive-behavioural approach to therapy is well-known for curing anxiety.",
+      "Behavioural cognitive sessions have shown themselves useful to deal with anxiety."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "O sedentarismo prolongado está associado a um maior risco cardiovascular.",
+    "correctAnswer": "Prolonged sedentariness is associated with a higher cardiovascular risk.",
+    "options": [
+      "Prolonged sedentariness is associated with a higher cardiovascular risk.",
+      "Being inactive for long periods connects with greater cardiovascular risk factors.",
+      "Extended physical inactivity has been linked to higher risks of heart disease.",
+      "A sedentary lifestyle over time is related to more cardiovascular complications overall."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "O diagnóstico precoce aumenta significativamente as chances de cura em muitos tipos de câncer.",
+    "correctAnswer": "Early diagnosis significantly increases the chances of recovery in many types of cancer.",
+    "options": [
+      "Early diagnosis significantly increases the chances of recovery in many types of cancer.",
+      "Diagnosing cancer early has an important effect in improving cure rates overall.",
+      "A timely diagnosis greatly enhances the odds of surviving several forms of cancer.",
+      "Getting diagnosed early can substantially boost recovery possibilities across cancer types."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A automedicação pode mascarar sintomas graves e atrasar o tratamento adequado.",
+    "correctAnswer": "Self-medication can mask serious symptoms and delay proper treatment.",
+    "options": [
+      "Self-medication can mask serious symptoms and delay proper treatment.",
+      "Medicating yourself may hide severe symptoms and postpone the right treatment.",
+      "Taking medicines on your own can cover important symptoms and delay healing.",
+      "Self-prescribed medication tends to conceal critical symptoms and hinder treatment timing."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A ingestão regular de probióticos contribui para o equilíbrio da microbiota intestinal.",
+    "correctAnswer": "Regular intake of probiotics contributes to the balance of the gut microbiota.",
+    "options": [
+      "Regular intake of probiotics contributes to the balance of the gut microbiota.",
+      "Consuming probiotics on a regular basis helps to maintain intestinal bacteria balance.",
+      "Taking probiotics frequently aids in preserving the proper balance of gut health.",
+      "Regular probiotic consumption is beneficial for keeping the intestinal flora balanced."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "O acompanhamento nutricional é indispensável para pacientes com doenças metabólicas.",
+    "correctAnswer": "Nutritional monitoring is indispensable for patients with metabolic diseases.",
+    "options": [
+      "Nutritional monitoring is indispensable for patients with metabolic diseases.",
+      "Diet follow-up is essential and required for those suffering from metabolic disorders.",
+      "Nutrition counselling is highly necessary for people diagnosed with metabolic conditions.",
+      "Following up on nutrition habits is compulsory for metabolically ill patients to recover."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A privação de sono recorrente compromete as funções cognitivas e o sistema imunológico.",
+    "correctAnswer": "Recurrent sleep deprivation compromises cognitive functions and the immune system.",
+    "options": [
+      "Recurrent sleep deprivation compromises cognitive functions and the immune system.",
+      "Frequently not sleeping enough damages brain functions and weakens the immunity.",
+      "Recurring lack of sleep harms cognitive processes and diminishes immune responses.",
+      "Constant sleep loss tends to impair mental functions and affect the immune defence."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "Estudos recentes indicam que a atividade física regular reduz o risco de depressão.",
+    "correctAnswer": "Recent studies indicate that regular physical activity reduces the risk of depression.",
+    "options": [
+      "Recent studies indicate that regular physical activity reduces the risk of depression.",
+      "New research shows that exercising frequently can lower the chances of feeling depressed.",
+      "Latest scientific research demonstrates that physical exercise lowers depression rates.",
+      "Recent evidence suggests that habitual physical activity diminishes depression-related risks."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A resistência antimicrobiana representa uma das maiores ameaças à saúde pública global.",
+    "correctAnswer": "Antimicrobial resistance represents one of the greatest threats to global public health.",
+    "options": [
+      "Antimicrobial resistance represents one of the greatest threats to global public health.",
+      "The resistance to antibiotics is one of the biggest dangers for health worldwide.",
+      "Microbe resistance to medicines is considered a major global public health concern.",
+      "Antimicrobial resistance poses a significant challenge and risk to worldwide health systems."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A hidratação adequada facilita a eliminação de toxinas pelo organismo.",
+    "correctAnswer": "Adequate hydration facilitates the elimination of toxins by the body.",
+    "options": [
+      "Adequate hydration facilitates the elimination of toxins by the body.",
+      "Drinking enough water daily supports the body in flushing out harmful toxins.",
+      "Proper hydration helps the body to remove waste substances more efficiently.",
+      "Sufficient water intake makes it easier for the organism to expel toxic substances."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A síndrome metabólica engloba um conjunto de condições que aumentam o risco de doenças cardíacas.",
+    "correctAnswer": "Metabolic syndrome encompasses a set of conditions that increase the risk of heart disease.",
+    "options": [
+      "Metabolic syndrome encompasses a set of conditions that increase the risk of heart disease.",
+      "Metabolic syndrome includes different health conditions that raise the chance of cardiac problems.",
+      "A metabolic syndrome groups various conditions together that create cardiovascular risk factors.",
+      "Metabolic syndrome is a collection of medical states that contribute to higher heart risks."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "O rastreamento precoce de doenças oncológicas pode ser decisivo para a sobrevivência do paciente.",
+    "correctAnswer": "Early screening for oncological diseases can be decisive for the patient's survival.",
+    "options": [
+      "Early screening for oncological diseases can be decisive for the patient's survival.",
+      "Detecting cancer-related diseases at an early stage could determine whether a patient survives.",
+      "An early oncological screening test may prove to be the difference in patient survival.",
+      "Early diagnosis through screening of cancer conditions is often key to the patient living."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A prática de mindfulness tem demonstrado benefícios substanciais para a regulação emocional.",
+    "correctAnswer": "The practice of mindfulness has demonstrated substantial benefits for emotional regulation.",
+    "options": [
+      "The practice of mindfulness has demonstrated substantial benefits for emotional regulation.",
+      "Mindfulness practising has shown significant advantages for managing emotions effectively.",
+      "Doing mindfulness exercises has proved to have considerable benefits for emotional control.",
+      "Mindfulness as a practice shows great benefits in helping individuals regulate their emotions."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A inflamação sistêmica crônica está implicada na patogênese de diversas doenças degenerativas.",
+    "correctAnswer": "Chronic systemic inflammation is implicated in the pathogenesis of several degenerative diseases.",
+    "options": [
+      "Chronic systemic inflammation is implicated in the pathogenesis of several degenerative diseases.",
+      "Long-term systemic inflammation plays a role in the origin and development of degenerative conditions.",
+      "Persistent widespread inflammation has been linked to the onset of multiple degenerative pathologies.",
+      "Systemic chronic inflammation is associated with the development process of various degenerative disorders."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A disbiose intestinal pode comprometer a absorção de nutrientes e a resposta imune.",
+    "correctAnswer": "Intestinal dysbiosis can compromise nutrient absorption and immune response.",
+    "options": [
+      "Intestinal dysbiosis can compromise nutrient absorption and immune response.",
+      "Gut dysbiosis may impair the absorption of nutrients and negatively affect immunity.",
+      "Intestinal microbiome imbalance can hinder proper nutrient uptake and immune functioning.",
+      "Dysbiosis of the gut tends to interfere with nutrient assimilation and immune defence mechanisms."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A epigenética revela como fatores ambientais podem silenciar ou ativar genes relacionados à saúde.",
+    "correctAnswer": "Epigenetics reveals how environmental factors can silence or activate health-related genes.",
+    "options": [
+      "Epigenetics reveals how environmental factors can silence or activate health-related genes.",
+      "The field of epigenetics shows how the environment influences gene expression in the body.",
+      "Epigenetic research demonstrates how external factors switch health genes on and off.",
+      "Epigenetics uncovers the mechanisms by which environmental elements modulate gene activity in health."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A imunoterapia tem revolucionado o tratamento de determinados tipos de neoplasias malignas.",
+    "correctAnswer": "Immunotherapy has revolutionised the treatment of certain types of malignant neoplasms.",
+    "options": [
+      "Immunotherapy has revolutionised the treatment of certain types of malignant neoplasms.",
+      "Immune system therapy has transformed how specific kinds of malignant cancer are managed.",
+      "Immunotherapy brought about a revolution in treating particular forms of malignant tumours.",
+      "The use of immunotherapy has drastically changed approaches to certain malignant cancer treatments."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A telomeria encurtada é considerada um biomarcador do envelhecimento celular acelerado.",
+    "correctAnswer": "Shortened telomeres are considered a biomarker of accelerated cellular ageing.",
+    "options": [
+      "Shortened telomeres are considered a biomarker of accelerated cellular ageing.",
+      "The shortening of telomeres indicates a biological sign of speeded-up cell ageing.",
+      "Reduced telomere length has been identified as a marker of accelerated ageing at the cellular level.",
+      "Telomere shortening is regarded as an indicator for the accelerated deterioration of cells over time."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A neuroplasticidade do cérebro adulto permite a reorganização sináptica em resposta a lesões.",
+    "correctAnswer": "The neuroplasticity of the adult brain allows for synaptic reorganisation in response to injuries.",
+    "options": [
+      "The neuroplasticity of the adult brain allows for synaptic reorganisation in response to injuries.",
+      "Adult brain neuroplasticity enables synaptic restructuring as a reaction to brain damage.",
+      "The capacity of the adult brain to reorganise itself at the synaptic level is linked to its plasticity.",
+      "Neuroplasticity in mature brains permits neural rewiring and synaptic changes following injury events."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A farmacovigilância monitora os efeitos adversos dos medicamentos após a sua comercialização.",
+    "correctAnswer": "Pharmacovigilance monitors the adverse effects of medications after their commercialisation.",
+    "options": [
+      "Pharmacovigilance monitors the adverse effects of medications after their commercialisation.",
+      "Post-market drug surveillance tracks unwanted effects of medicines once they are on the market.",
+      "Pharmacovigilance is the process of observing medication side effects after regulatory approval.",
+      "The pharmacovigilance system oversees negative drug reactions following their approval for market use."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A homeostase fisiológica é o mecanismo pelo qual o organismo regula seus parâmetros internos.",
+    "correctAnswer": "Physiological homeostasis is the mechanism by which the body regulates its internal parameters.",
+    "options": [
+      "Physiological homeostasis is the mechanism by which the body regulates its internal parameters.",
+      "Homeostasis refers to the biological process through which the organism maintains its inner balance.",
+      "Physiological homeostasis describes how the body keeps all its internal conditions in a stable state.",
+      "The concept of homeostasis explains how the human body self-regulates its internal physiological values."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A predisposição genética, aliada a fatores ambientais, pode precipitar o surgimento de doenças autoimunes.",
+    "correctAnswer": "Genetic predisposition, combined with environmental factors, can precipitate the onset of autoimmune diseases.",
+    "options": [
+      "Genetic predisposition, combined with environmental factors, can precipitate the onset of autoimmune diseases.",
+      "Being genetically predisposed, together with external influences, may trigger the emergence of autoimmune conditions.",
+      "A genetic tendency, along with environmental elements, is capable of leading to autoimmune disease development.",
+      "Hereditary susceptibility interacting with environmental triggers can accelerate the appearance of autoimmune pathologies."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A biossíntese de hormônios esteroides ocorre principalmente nas glândulas suprarrenais e nas gônadas.",
+    "correctAnswer": "The biosynthesis of steroid hormones occurs mainly in the adrenal glands and gonads.",
+    "options": [
+      "The biosynthesis of steroid hormones occurs mainly in the adrenal glands and gonads.",
+      "Steroid hormone production takes place predominantly in the adrenal glands and reproductive organs.",
+      "Steroid hormones are mainly synthesised within the adrenal cortex and the gonadal glands.",
+      "The production of steroid hormones happens mostly in the suprarenal glands and reproductive gonads."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A modulação do eixo hipotálamo-hipófise-adrenal é central na resposta fisiológica ao estresse.",
+    "correctAnswer": "The modulation of the hypothalamic-pituitary-adrenal axis is central to the physiological response to stress.",
+    "options": [
+      "The modulation of the hypothalamic-pituitary-adrenal axis is central to the physiological response to stress.",
+      "Regulating the hypothalamic-pituitary-adrenal axis plays a key role in how the body responds to stress.",
+      "The control of the HPA axis is fundamental to the biological mechanisms underlying the stress response.",
+      "Modulating the hypothalamus-pituitary-adrenal pathway is essential for managing physiological stress reactions."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A senescência celular pode atuar tanto como supressora de tumores quanto como promotora da inflamação tecidual.",
+    "correctAnswer": "Cellular senescence can act both as a tumour suppressor and as a promoter of tissue inflammation.",
+    "options": [
+      "Cellular senescence can act both as a tumour suppressor and as a promoter of tissue inflammation.",
+      "Cell senescence plays a dual role, suppressing tumour growth while also stimulating inflammatory tissue responses.",
+      "Cellular ageing processes may simultaneously inhibit cancer development and trigger inflammation in body tissues.",
+      "Senescent cells possess the capacity to prevent tumour formation and to enhance local inflammatory processes."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "O microbioma intestinal influencia diretamente a permeabilidade da barreira epitelial e a sinalização imunológica.",
+    "correctAnswer": "The gut microbiome directly influences the permeability of the epithelial barrier and immunological signalling.",
+    "options": [
+      "The gut microbiome directly influences the permeability of the epithelial barrier and immunological signalling.",
+      "Intestinal microorganisms have a direct effect on gut wall permeability and on immune signal transmission.",
+      "The microbiome of the gut modulates the integrity of the epithelial barrier and regulates immune system signals.",
+      "Gut bacteria directly affect how permeable the intestinal lining is and how the immune system communicates."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A cronicidade da dor nociceptiva pode resultar em alterações neuroplásticas centrais que perpetuam o sofrimento.",
+    "correctAnswer": "The chronicity of nociceptive pain can result in central neuroplastic changes that perpetuate suffering.",
+    "options": [
+      "The chronicity of nociceptive pain can result in central neuroplastic changes that perpetuate suffering.",
+      "Long-term nociceptive pain may lead to central nervous system changes that maintain the pain experience.",
+      "Chronic nociceptive pain conditions can produce neuroplastic alterations in the brain that sustain ongoing pain.",
+      "Persistent nociceptive pain has the potential to trigger neurological adaptations that keep suffering ongoing."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A fitoterapia, quando baseada em evidências científicas, pode complementar protocolos clínicos convencionais.",
+    "correctAnswer": "Phytotherapy, when based on scientific evidence, can complement conventional clinical protocols.",
+    "options": [
+      "Phytotherapy, when based on scientific evidence, can complement conventional clinical protocols.",
+      "Herbal medicine, if supported by scientific research, can serve as a complement to standard clinical treatments.",
+      "Plant-based therapy, grounded in evidence, is capable of supplementing established clinical treatment protocols.",
+      "Evidence-based phytotherapy may act as an adjunct to conventional medical treatment approaches and protocols."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A resistência insulínica precede frequentemente o desenvolvimento clínico do diabetes mellitus tipo 2.",
+    "correctAnswer": "Insulin resistance frequently precedes the clinical development of type 2 diabetes mellitus.",
+    "options": [
+      "Insulin resistance frequently precedes the clinical development of type 2 diabetes mellitus.",
+      "Resistance to insulin often comes before the clinical onset of type 2 diabetes mellitus.",
+      "Insulin insensitivity tends to occur prior to the manifestation of type 2 diabetes in clinical settings.",
+      "Type 2 diabetes mellitus is commonly preceded by a prolonged period of insulin resistance in the body."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "A mitocôndria desempenha um papel crucial na apoptose celular e no metabolismo energético.",
+    "correctAnswer": "The mitochondria plays a crucial role in cellular apoptosis and energy metabolism.",
+    "options": [
+      "The mitochondria plays a crucial role in cellular apoptosis and energy metabolism.",
+      "Mitochondria are fundamentally involved in the process of cell death and in energy production.",
+      "The mitochondrion has a central function in triggering apoptosis and in cellular energy conversion.",
+      "Mitochondria bear critical responsibility for both programmed cell death mechanisms and metabolic energy cycles."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "saude",
+    "type": "translation",
+    "questionText": "O estresse oxidativo resulta do desequilíbrio entre a produção de espécies reativas de oxigênio e a capacidade antioxidante.",
+    "correctAnswer": "Oxidative stress results from an imbalance between the production of reactive oxygen species and antioxidant capacity.",
+    "options": [
+      "Oxidative stress results from an imbalance between the production of reactive oxygen species and antioxidant capacity.",
+      "Oxidative stress arises when reactive oxygen molecules overwhelm the body's ability to neutralise them antioxidatively.",
+      "The condition known as oxidative stress emerges from a disproportion between free radical production and antioxidant defences.",
+      "When reactive oxygen species are overproduced relative to antioxidant defences, oxidative stress occurs in the organism."
+    ],
+    "difficulty": "hard"
+  }
+]

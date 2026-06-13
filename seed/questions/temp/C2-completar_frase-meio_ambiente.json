@@ -1,0 +1,522 @@
+[
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "Florestas tropicais são frequentemente chamadas de ___ da Terra porque produzem grande parte do oxigênio do planeta.",
+    "correctAnswer": "lungs",
+    "options": ["lungs", "heart", "veins", "roots"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "O aumento das temperaturas globais é principalmente causado pelo efeito ___, que aprisiona o calor na atmosfera terrestre.",
+    "correctAnswer": "greenhouse",
+    "options": ["greenhouse", "sunscreen", "thermal", "ozone"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "Reciclar materiais como papel, vidro e plástico ajuda a reduzir a quantidade de lixo enviada para os ___ aterros sanitários.",
+    "correctAnswer": "landfills",
+    "options": ["landfills", "warehouses", "factories", "quarries"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "A energia solar e a energia eólica são exemplos de fontes de energia ___, pois não se esgotam com o uso.",
+    "correctAnswer": "renewable",
+    "options": ["renewable", "nuclear", "fossil", "combustible"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "O derretimento das ___ polares está causando o aumento do nível dos oceanos em todo o mundo.",
+    "correctAnswer": "ice caps",
+    "options": ["ice caps", "glaciers only", "snowflakes", "icebergs alone"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "Muitas espécies de animais estão em risco de ___ devido à destruição de seus habitats naturais.",
+    "correctAnswer": "extinction",
+    "options": ["extinction", "migration", "hibernation", "reproduction"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "O uso de sacolas ___ em vez de plástico descartável é uma pequena atitude que contribui para a sustentabilidade.",
+    "correctAnswer": "reusable",
+    "options": ["reusable", "colorful", "transparent", "disposable"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "O desmatamento da Amazônia ameaça a ___ biológica da região, lar de milhões de espécies.",
+    "correctAnswer": "biodiversity",
+    "options": ["biodiversity", "agriculture", "economy", "population"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "Veículos elétricos emitem menos ___ de carbono do que veículos movidos a combustíveis fósseis.",
+    "correctAnswer": "emissions",
+    "options": ["emissions", "productions", "absorptions", "reflections"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "A camada de ___ na estratosfera protege a Terra da radiação ultravioleta prejudicial do sol.",
+    "correctAnswer": "ozone",
+    "options": ["ozone", "nitrogen", "carbon", "hydrogen"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "O lixo plástico que chega aos oceanos representa uma séria ameaça à vida ___ marinha.",
+    "correctAnswer": "marine",
+    "options": ["marine", "domestic", "aerial", "terrestrial"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "Empresas sustentáveis buscam reduzir sua ___ de carbono ao longo de toda a cadeia de produção.",
+    "correctAnswer": "footprint",
+    "options": ["footprint", "headline", "revenue", "trademark"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "O Acordo de Paris foi um marco global para limitar o ___ climático e reduzir as emissões de gases.",
+    "correctAnswer": "change",
+    "options": ["change", "debate", "investment", "conflict"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "A agricultura ___ utiliza práticas que preservam o solo e reduzem o uso de pesticidas químicos.",
+    "correctAnswer": "organic",
+    "options": ["organic", "industrial", "genetic", "synthetic"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "A poluição do ar em grandes cidades é agravada pela alta concentração de ___ emitidos por veículos.",
+    "correctAnswer": "pollutants",
+    "options": ["pollutants", "nutrients", "minerals", "vapors"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "O uso racional da água é fundamental para preservar os ___ hídricos do planeta.",
+    "correctAnswer": "resources",
+    "options": ["resources", "taxes", "barriers", "structures"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "Construções ___ são projetadas para consumir menos energia e gerar menor impacto ambiental.",
+    "correctAnswer": "sustainable",
+    "options": ["sustainable", "decorative", "temporary", "expensive"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "The concept of a ___ economy aims to eliminate waste by keeping materials in use for as long as possible.",
+    "correctAnswer": "circular",
+    "options": ["circular", "linear", "parallel", "speculative"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "Carbon ___ projects allow companies to offset their emissions by funding forest conservation or clean energy.",
+    "correctAnswer": "offsetting",
+    "options": ["offsetting", "trading", "capping", "sequestering"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "The ___ principle in environmental law holds that those who cause pollution should bear the costs of managing it.",
+    "correctAnswer": "polluter pays",
+    "options": ["polluter pays", "precautionary", "prior informed", "proportionality"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "Wetlands serve as natural ___ zones, filtering contaminants before they reach rivers and aquifers.",
+    "correctAnswer": "buffer",
+    "options": ["buffer", "transition", "discharge", "retention"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "Governments are increasingly investing in ___ infrastructure such as green roofs and urban forests to combat heat islands.",
+    "correctAnswer": "green",
+    "options": ["green", "grey", "smart", "resilient"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "The term ___ refers to the process by which oceans absorb excess CO₂, causing water to become more acidic.",
+    "correctAnswer": "ocean acidification",
+    "options": ["ocean acidification", "marine eutrophication", "coastal erosion", "thermal stratification"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "Many nations have pledged to achieve ___ neutrality by mid-century, meaning they will balance emissions with removals.",
+    "correctAnswer": "carbon",
+    "options": ["carbon", "nitrogen", "energy", "water"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "The ___ effect occurs when dark surfaces such as asphalt absorb more heat than reflective surfaces, warming urban areas.",
+    "correctAnswer": "heat island",
+    "options": ["heat island", "greenhouse", "albedo", "thermal"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "Ecological ___ involves restoring degraded ecosystems to their former state, often through replanting native species.",
+    "correctAnswer": "restoration",
+    "options": ["restoration", "succession", "conservation", "isolation"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "A ___ impact assessment is conducted before major construction projects to evaluate potential environmental harm.",
+    "correctAnswer": "environmental",
+    "options": ["environmental", "financial", "social", "technical"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "The ___ Protocol was the first international treaty to set binding emission reduction targets for developed nations.",
+    "correctAnswer": "Kyoto",
+    "options": ["Kyoto", "Montreal", "Geneva", "Stockholm"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "Sustainable fisheries management relies on setting catch limits that do not exceed the fish population's natural ___ rate.",
+    "correctAnswer": "replenishment",
+    "options": ["replenishment", "migration", "spawning", "depletion"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "Replacing single-use plastics with ___ alternatives is a key strategy in reducing plastic waste entering the environment.",
+    "correctAnswer": "biodegradable",
+    "options": ["biodegradable", "recyclable", "compostable", "durable"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "The ___ of a species describes its role and position within an ecosystem, including its diet and habitat use.",
+    "correctAnswer": "ecological niche",
+    "options": ["ecological niche", "trophic level", "food chain", "habitat range"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "Permafrost ___ in the Arctic releases vast amounts of methane, significantly accelerating global warming.",
+    "correctAnswer": "thawing",
+    "options": ["thawing", "erosion", "compaction", "sublimation"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "The ___ transition refers to the global shift from fossil fuel-based energy systems to cleaner, low-carbon sources.",
+    "correctAnswer": "energy",
+    "options": ["energy", "industrial", "agricultural", "digital"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "Agroforestry integrates trees into agricultural landscapes, enhancing ___ services such as soil stabilisation and carbon storage.",
+    "correctAnswer": "ecosystem",
+    "options": ["ecosystem", "financial", "community", "regulatory"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "Nations that are particularly vulnerable to rising sea levels advocate for limiting global warming to 1.5°C through ___ ambition.",
+    "correctAnswer": "enhanced",
+    "options": ["enhanced", "moderate", "provisional", "restrained"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "The ___ of habitat fragmentation on wildlife is compounded when isolated populations can no longer interbreed.",
+    "correctAnswer": "impact",
+    "options": ["impact", "extent", "result", "consequence"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "The concept of ___ denotes the hypothetical boundary beyond which Earth's systems may undergo irreversible tipping points.",
+    "correctAnswer": "planetary boundaries",
+    "options": ["planetary boundaries", "ecological thresholds", "biospheric limits", "climate ceilings"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "Critics of carbon markets argue that ___ — the practice of claiming emission reductions that would have occurred anyway — undermines their environmental integrity.",
+    "correctAnswer": "additionality fraud",
+    "options": ["additionality fraud", "baseline shifting", "phantom crediting", "leakage manipulation"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "The ___ feedback loop describes how melting Arctic ice reduces the planet's reflectivity, causing further warming and accelerated ice loss.",
+    "correctAnswer": "ice-albedo",
+    "options": ["ice-albedo", "water-vapour", "cloud-radiation", "permafrost-methane"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "The practice of ___ involves deliberately manipulating Earth's climate systems on a large scale to counteract warming effects.",
+    "correctAnswer": "geoengineering",
+    "options": ["geoengineering", "terraforming", "biosequestration", "geomorphology"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "In ecosystem ecology, ___ refers to the flow of energy and matter through an ecosystem as organisms consume one another.",
+    "correctAnswer": "trophic cascade",
+    "options": ["trophic cascade", "nutrient cycling", "biomass transfer", "predation chain"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "The ___ hypothesis posits that Earth functions as a self-regulating system in which living organisms maintain conditions suitable for life.",
+    "correctAnswer": "Gaia",
+    "options": ["Gaia", "Medea", "Biophilia", "Holocene"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "Stratospheric aerosol ___ is a proposed solar radiation management technique that would involve injecting reflective particles into the upper atmosphere.",
+    "correctAnswer": "injection",
+    "options": ["injection", "seeding", "dispersion", "deposition"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "The phenomenon of ___ occurs when nutrient overloading in water bodies causes explosive algal growth, depleting oxygen and killing aquatic life.",
+    "correctAnswer": "eutrophication",
+    "options": ["eutrophication", "salinisation", "sedimentation", "acidification"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "The legal doctrine of ___ obliges states to avoid significant transboundary environmental harm, even when activities occur within their own territory.",
+    "correctAnswer": "sic utere tuo",
+    "options": ["sic utere tuo", "erga omnes", "res communis", "jus cogens"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "Biotic ___ describes the gradual change in species composition of an ecological community over time following a disturbance.",
+    "correctAnswer": "succession",
+    "options": ["succession", "dispersal", "oscillation", "speciation"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "Nature-based solutions that restore ___ flows between fragmented habitats can significantly reduce species extinction rates.",
+    "correctAnswer": "connectivity",
+    "options": ["connectivity", "diversity", "productivity", "resilience"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "The ___ principle holds that where there are threats of serious or irreversible environmental damage, lack of full scientific certainty shall not be used as a reason for postponing measures.",
+    "correctAnswer": "precautionary",
+    "options": ["precautionary", "proportionality", "subsidiarity", "non-regression"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "Rewilding advocates argue that reintroducing apex ___ can trigger trophic cascades that spontaneously restore ecosystem structure.",
+    "correctAnswer": "predators",
+    "options": ["predators", "herbivores", "decomposers", "pollinators"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "The concept of ___ justice addresses the disproportionate burden borne by low-income and marginalised communities from pollution and climate impacts.",
+    "correctAnswer": "environmental",
+    "options": ["environmental", "distributive", "procedural", "restorative"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "Bioenergy with carbon capture and storage, known as BECCS, is classified as a ___ emissions technology because it removes more CO₂ than it releases.",
+    "correctAnswer": "negative",
+    "options": ["negative", "neutral", "residual", "offset"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "meio_ambiente",
+    "type": "complete_sentence",
+    "questionText": "The ___ boundary for biosphere integrity, as defined by the planetary boundaries framework, has already been transgressed due to unprecedented biodiversity loss.",
+    "correctAnswer": "safe operating",
+    "options": ["safe operating", "critical load", "maximum sustainable", "carrying capacity"],
+    "difficulty": "hard"
+  }
+]

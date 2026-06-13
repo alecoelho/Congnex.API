@@ -1,0 +1,752 @@
+[
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você está em uma consulta médica e quer expressar que seus sintomas pioraram nos últimos dias. Como você comunicaria isto de forma educada e clara?",
+    "correctAnswer": "I'm afraid my symptoms have worsened considerably over the past few days.",
+    "options": [
+      "I'm afraid my symptoms have worsened considerably over the past few days.",
+      "My symptoms are more bad than before now.",
+      "The symptoms got very worse during this time.",
+      "I think the health problem is getting larger recently."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Durante uma conversação sobre exercício físico, você quer mencionar que é importante manter a consistência. Qual frase expressa melhor isto?",
+    "correctAnswer": "Consistency is key when it comes to maintaining physical fitness.",
+    "options": [
+      "Consistency is key when it comes to maintaining physical fitness.",
+      "To do exercise good, you must be consistent always.",
+      "Physical fitness needs you to be consistent in the way.",
+      "The consistency is important because fitness must be continuous."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer aconselhar um amigo sobre a importância de uma alimentação saudável. Como você expressaria isto naturalmente?",
+    "correctAnswer": "I would strongly advise you to adopt a more balanced diet.",
+    "options": [
+      "I would strongly advise you to adopt a more balanced diet.",
+      "You should to eat food that is healthy very much.",
+      "A balanced diet is what you need to eat it.",
+      "The food you eat should be healthy and in balance."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Ao comunicar com um nutricionista, você quer explicar que tem dificuldades em seguir um regime alimentar específico. Qual expressão é mais apropriada?",
+    "correctAnswer": "I find it challenging to adhere to such a restrictive diet.",
+    "options": [
+      "I find it challenging to adhere to such a restrictive diet.",
+      "I am having trouble to follow this diet that is restricted.",
+      "This diet is difficult for me to do it every day.",
+      "The diet is very hard because it has many restrictions in it."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você está discutindo opções de tratamento com seu médico e quer expressar preferência por uma abordagem menos invasiva. Como você comunicaria isto?",
+    "correctAnswer": "I would prefer a less invasive approach if possible.",
+    "options": [
+      "I would prefer a less invasive approach if possible.",
+      "I like to have a treatment that is not too invasive.",
+      "I want a method of treating that is not invasive so much.",
+      "The approach must be not invasive in the way I want."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Em uma conversa sobre bem-estar mental, você quer mencionar que o stress afeta sua qualidade de vida. Qual frase é mais apropriada?",
+    "correctAnswer": "Stress has been significantly impacting my quality of life.",
+    "options": [
+      "Stress has been significantly impacting my quality of life.",
+      "The stress is making my life quality to be worse.",
+      "Stress does bad things to my living quality.",
+      "My life is not good because of the stress I have."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer informar seu médico que precisa de repouso e recuperação. Como você expressaria isto de forma clara?",
+    "correctAnswer": "I believe I need to prioritize rest and recovery at this moment.",
+    "options": [
+      "I believe I need to prioritize rest and recovery at this moment.",
+      "I need to rest and to recover from my sickness now.",
+      "Rest and recovery is what I need for getting better.",
+      "I must to have time for rest and for recovering."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Ao discutir prevenção de doenças, você quer enfatizar a importância de check-ups regulares. Qual expressão funciona melhor?",
+    "correctAnswer": "Regular health check-ups are instrumental in preventing serious illnesses.",
+    "options": [
+      "Regular health check-ups are instrumental in preventing serious illnesses.",
+      "You should go to check-ups because they prevent the sickness.",
+      "Regular check-ups help you to not get illness.",
+      "To check health regularly is important for prevent disease."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você deseja expressar simpatia por alguém que está passando por um problema de saúde. Qual frase é mais adequada?",
+    "correctAnswer": "I deeply empathize with what you're going through.",
+    "options": [
+      "I deeply empathize with what you're going through.",
+      "I am sorry that you have this health problem.",
+      "The sickness you have is sad and I am sorry.",
+      "I understand that your health situation is bad."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Em uma consulta de seguimento, você quer relatar que houve melhorias significativas. Como você expressaria isto?",
+    "correctAnswer": "I'm pleased to report that there has been a marked improvement.",
+    "options": [
+      "I'm pleased to report that there has been a marked improvement.",
+      "I am happy because I am better than before now.",
+      "The improvement is big and I am very happy.",
+      "I feel good because my health is more better."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir informações sobre efeitos colaterais de um medicamento. Qual forma de questionar é mais profissional?",
+    "correctAnswer": "Could you elaborate on the potential side effects of this medication?",
+    "options": [
+      "Could you elaborate on the potential side effects of this medication?",
+      "What are the bad effects that this medicine can do?",
+      "Tell me what is wrong with this drug for the body.",
+      "The medicine have side effects? What are they?"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Ao conversar sobre estilo de vida saudável, você quer mencionar hábitos que contribuem para o bem-estar. Qual frase é mais natural?",
+    "correctAnswer": "Cultivating healthy habits is fundamental to overall well-being.",
+    "options": [
+      "Cultivating healthy habits is fundamental to overall well-being.",
+      "If you have healthy habits, your well being will be good.",
+      "Healthy habits are needed for to have well being.",
+      "To be healthy in your life, you need the habits."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você deseja sugerir que alguém procure ajuda profissional para um problema de saúde. Como você faria isto de forma sensível?",
+    "correctAnswer": "I would gently suggest seeking professional assistance with this matter.",
+    "options": [
+      "I would gently suggest seeking professional assistance with this matter.",
+      "You should go to a doctor because you need the help.",
+      "Go to the doctor because this is a problem for you.",
+      "A professional must help you with this health thing."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Em uma aula sobre nutrição, você quer questionar a validade de uma afirmação comum. Qual frase é mais apropriada?",
+    "correctAnswer": "I would question the validity of that widely-held belief.",
+    "options": [
+      "I would question the validity of that widely-held belief.",
+      "Is this true? I don't think this belief is right.",
+      "That thing that many people believe is maybe not true.",
+      "This belief that everybody has is not sure if it is correct."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer expressar gratidão ao seu médico pela atenção e cuidado recebidos. Qual expressão é mais sincera?",
+    "correctAnswer": "I'm deeply grateful for the exceptional care you've provided.",
+    "options": [
+      "I'm deeply grateful for the exceptional care you've provided.",
+      "Thank you because you are a good doctor to me.",
+      "I am thankful for the care that you give me.",
+      "Your care is good and I say thank you to you."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Ao discutir mudanças de hábito, você quer reconhecer as dificuldades do processo. Como você faria isto?",
+    "correctAnswer": "I acknowledge that changing entrenched habits is a gradual process.",
+    "options": [
+      "I acknowledge that changing entrenched habits is a gradual process.",
+      "Changing habits is difficult and it take time to do it.",
+      "The habits are hard to change because you have them.",
+      "It is slow to change habits that you have for time."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você está em uma sessão de fisioterapia e quer comunicar que está sentindo progresso. Qual frase é mais apropriada?",
+    "correctAnswer": "I can tangibly feel the progress in my rehabilitation.",
+    "options": [
+      "I can tangibly feel the progress in my rehabilitation.",
+      "I feel that I am getting better in my physio.",
+      "My rehabilitation is working because I feel better.",
+      "The progress of my therapy is something I can feel now."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer discutir a relação entre sono adequado e saúde geral. Como você introduziria este tópico?",
+    "correctAnswer": "Adequate sleep plays a pivotal role in maintaining overall health.",
+    "options": [
+      "Adequate sleep plays a pivotal role in maintaining overall health.",
+      "Sleep is important for your health in all ways.",
+      "When you sleep good, your health is more better.",
+      "The sleep must be good for to have the health."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Durante uma discussão sobre vacinação, você quer expressar apoio baseado em evidências científicas. Qual frase é mais adequada?",
+    "correctAnswer": "Vaccination is supported by substantial scientific evidence and data.",
+    "options": [
+      "Vaccination is supported by substantial scientific evidence and data.",
+      "The vaccine is good because science say it is true.",
+      "Scientists say vaccines is good and work for you.",
+      "Vaccines are important because many scientist believe in them."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer sugerir uma abordagem holística para a saúde. Como você expressaria isto?",
+    "correctAnswer": "I advocate for a comprehensive, holistic approach to health management.",
+    "options": [
+      "I advocate for a comprehensive, holistic approach to health management.",
+      "You should take care of all things in your health.",
+      "Health need many things together, not just one thing.",
+      "The health should be see in all the ways together."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Em uma conversa sobre autodiagnóstico, você quer alertar alguém sobre os riscos dessa prática. Como você faria isto?",
+    "correctAnswer": "I would caution against relying solely on self-diagnosis without professional evaluation.",
+    "options": [
+      "I would caution against relying solely on self-diagnosis without professional evaluation.",
+      "You should not just think you have sickness without a doctor.",
+      "Self-diagnosis is dangerous because you can make mistake in it.",
+      "The diagnosis you make by yourself might be wrong thing."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer explicar como fatores psicológicos influenciam a recuperação física. Qual frase expressa isto melhor?",
+    "correctAnswer": "Psychological well-being can substantially influence the pace of physical recovery.",
+    "options": [
+      "Psychological well-being can substantially influence the pace of physical recovery.",
+      "Your mind affect how fast your body get better.",
+      "If your mind is good, your body can recover more fast.",
+      "The psychology and the body recovery are connected to each other."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Ao solicitar um segunda opinião médica, você quer expressar isto diplomaticamente. Como você faria?",
+    "correctAnswer": "Would it be possible to seek a second medical opinion for peace of mind?",
+    "options": [
+      "Would it be possible to seek a second medical opinion for peace of mind?",
+      "I want another doctor to see me because I am not sure.",
+      "Can I go to another doctor to check if this is right?",
+      "I need to have another doctor look at me to be safe."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer discutir como a atividade física regular contribui para a saúde mental. Qual expressão é mais apropriada?",
+    "correctAnswer": "Regular physical activity has been shown to ameliorate mental health conditions.",
+    "options": [
+      "Regular physical activity has been shown to ameliorate mental health conditions.",
+      "Exercising help to make your mental health more good.",
+      "If you exercise much, your mental health will be better.",
+      "The exercise is good for your mind and health both."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Em uma discussão sobre medicação, você quer questionar sobre possíveis interações. Como você expressaria isto?",
+    "correctAnswer": "I'm concerned about potential interactions with my current medications.",
+    "options": [
+      "I'm concerned about potential interactions with my current medications.",
+      "Can this medicine have problem with my other medicine?",
+      "Does this drug work good with the medicine I am taking?",
+      "My other medicines might not work if I take this one."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer explicar a importância da adesão ao tratamento. Como você faria isto?",
+    "correctAnswer": "Adherence to the prescribed treatment regimen is crucial for optimal outcomes.",
+    "options": [
+      "Adherence to the prescribed treatment regimen is crucial for optimal outcomes.",
+      "You must follow the treatment to get the best result.",
+      "If you follow the medicine, you will be more better.",
+      "The treatment must be follow exactly for to work good."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Ao discutir limitações físicas resultantes de uma condição, como você expressaria empatia?",
+    "correctAnswer": "I fully comprehend the challenges your condition has imposed on your daily activities.",
+    "options": [
+      "I fully comprehend the challenges your condition has imposed on your daily activities.",
+      "I understand that your condition make your life difficult.",
+      "Your sickness is making hard things to do in life.",
+      "The condition you have is making your life more hard now."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer expressar preocupação com os custos dos cuidados de saúde. Como você faria isto de forma clara?",
+    "correctAnswer": "I'm apprehensive about the financial burden of ongoing medical treatment.",
+    "options": [
+      "I'm apprehensive about the financial burden of ongoing medical treatment.",
+      "The medical care is very expensive and I worry about money.",
+      "I am worried because the treatment cost is much money.",
+      "The health care is costly and this make me feel bad."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Em uma consulta sobre prevenção, você quer discutir fatores de risco genéticos. Como você abordaria isto?",
+    "correctAnswer": "I would like to discuss any hereditary risk factors that may apply to my situation.",
+    "options": [
+      "I would like to discuss any hereditary risk factors that may apply to my situation.",
+      "My family have some sickness, can this affect me?",
+      "I want to know if my family disease can come to me.",
+      "My relative have health problem, do I get it too?"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer explicar como o estresse crônico afeta o sistema imunológico. Como você faria isto?",
+    "correctAnswer": "Prolonged stress can significantly compromise immune system function.",
+    "options": [
+      "Prolonged stress can significantly compromise immune system function.",
+      "When you have much stress, your immune system is weak.",
+      "Stress that last long make your body fight disease less good.",
+      "The immune system is affected by stress in your body."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Ao fazer um pedido de ajuda para dependência química, como você expressaria isto?",
+    "correctAnswer": "I'm seeking professional intervention for substance abuse issues.",
+    "options": [
+      "I'm seeking professional intervention for substance abuse issues.",
+      "I am having problem with drugs and I need help now.",
+      "I am addicted to something and I want to stop it.",
+      "The drug use is making problem and I need doctor help."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer discutir a importância da comunicação aberta com profissionais de saúde. Como você expressaria isto?",
+    "correctAnswer": "Transparent communication with healthcare providers is essential for optimal care.",
+    "options": [
+      "Transparent communication with healthcare providers is essential for optimal care.",
+      "You should tell the doctor everything about your health.",
+      "If you tell the doctor all things, you can get better help.",
+      "The doctor need to know all your health thing to help you good."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Em uma discussão sobre envelhecimento saudável, como você abordaria o tema?",
+    "correctAnswer": "Healthy aging requires a multifaceted approach encompassing nutrition, exercise, and mental engagement.",
+    "options": [
+      "Healthy aging requires a multifaceted approach encompassing nutrition, exercise, and mental engagement.",
+      "You should eat good, exercise, and think good to age well.",
+      "Aging healthy is when you have good food, exercise, and mind.",
+      "The aging can be healthy if you do many thing together."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer expressar incredulidade sobre um remédio alternativo não comprovado. Como você faria isto?",
+    "correctAnswer": "I'm skeptical about the efficacy of remedies that lack scientific substantiation.",
+    "options": [
+      "I'm skeptical about the efficacy of remedies that lack scientific substantiation.",
+      "I don't think this medicine work because science not prove it.",
+      "This alternative medicine is maybe not true in science.",
+      "I am not sure this remedy is working without the science."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Ao discutir reabilitação pós-cirúrgica, como você explicaria a importância da fisioterapia?",
+    "correctAnswer": "Physiotherapy post-surgery is instrumental in restoring functional mobility and preventing complications.",
+    "options": [
+      "Physiotherapy post-surgery is instrumental in restoring functional mobility and preventing complications.",
+      "After surgery you need physio to move your body again.",
+      "The physio help you after surgery to move more good.",
+      "Post-surgery physio is needed to make your body work again."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer questionar a eficácia de um novo tratamento ainda em fase experimental. Como você faria isto?",
+    "correctAnswer": "I would require more longitudinal data before endorsing an experimental treatment protocol.",
+    "options": [
+      "I would require more longitudinal data before endorsing an experimental treatment protocol.",
+      "I need more time to see if this treatment is working.",
+      "This experimental treatment need more test before I use it.",
+      "The new treatment should be test more before I try it."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer discutir a relação entre ambiente social e saúde mental. Como você abordaria isto?",
+    "correctAnswer": "Robust social networks and community engagement significantly mitigate mental health vulnerabilities.",
+    "options": [
+      "Robust social networks and community engagement significantly mitigate mental health vulnerabilities.",
+      "When you have good friends, your mental health is better.",
+      "Social life and community help to protect your mental health.",
+      "If you have friend and community, your mind is more healthy."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Em uma discussão sobre biomarcadores e diagnóstico, como você expressaria uma preocupação técnica?",
+    "correctAnswer": "The interpretation of these biomarkers warrants careful clinical correlation and expert analysis.",
+    "options": [
+      "The interpretation of these biomarkers warrants careful clinical correlation and expert analysis.",
+      "These markers should be look at careful by the doctor.",
+      "The test result need expert to understand what it mean.",
+      "The biomarker should be carefully check by specialist doctor."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer discutir as implicações éticas de certos tratamentos. Como você abordaria isto?",
+    "correctAnswer": "The ethical implications of this therapeutic approach merit thorough examination and deliberation.",
+    "options": [
+      "The ethical implications of this therapeutic approach merit thorough examination and deliberation.",
+      "This treatment have some problem about ethics that we should think.",
+      "The treatment is ethically question and need more discussion.",
+      "We must think about the right and wrong of this cure."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Ao discutir farmacogenética personalizada, como você expressaria interesse nesse campo?",
+    "correctAnswer": "Pharmacogenetic profiling offers promising potential for optimizing personalized medication regimens.",
+    "options": [
+      "Pharmacogenetic profiling offers promising potential for optimizing personalized medication regimens.",
+      "Your genetic can help to choose the best medicine for you.",
+      "Personalized medicine base on gene is very good for health.",
+      "The gene test can help doctor give you the right drug."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer explicar os efeitos das mudanças climáticas na saúde pública global. Como você faria isto?",
+    "correctAnswer": "Climate change poses unprecedented challenges to public health through disease vector expansion and environmental degradation.",
+    "options": [
+      "Climate change poses unprecedented challenges to public health through disease vector expansion and environmental degradation.",
+      "Climate change make many disease spread and people get sick.",
+      "The environment that change affect the health of many people.",
+      "Global warming is making the health problem bigger in world."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Em uma discussão sobre saúde do trabalhador, como você abordaria riscos ocupacionais?",
+    "correctAnswer": "Occupational health risks necessitate comprehensive workplace safety protocols and regular health surveillance.",
+    "options": [
+      "Occupational health risks necessitate comprehensive workplace safety protocols and regular health surveillance.",
+      "The work place can have danger to health and need safety rules.",
+      "Workers should have health check because the work can hurt them.",
+      "The job can make people sick, so need to protect them."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer discutir disparidades na acesso a cuidados de saúde. Como você expressaria isto?",
+    "correctAnswer": "Healthcare access disparities constitute a significant barrier to equitable health outcomes across different populations.",
+    "options": [
+      "Healthcare access disparities constitute a significant barrier to equitable health outcomes across different populations.",
+      "Some people cannot get health care because they are poor.",
+      "Different group have different access to the medical treatment.",
+      "Rich people can get better health care than poor people."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Ao discutir resistência a antibióticos, como você abordaria esse problema crítico?",
+    "correctAnswer": "Antimicrobial resistance represents a burgeoning global threat requiring judicious prescription practices and surveillance infrastructure.",
+    "options": [
+      "Antimicrobial resistance represents a burgeoning global threat requiring judicious prescription practices and surveillance infrastructure.",
+      "Bacteria is become strong against antibiotics because of much use.",
+      "The antibiotic resistance is a big problem for the world now.",
+      "Bacteria develop protection from medicine if use it too much."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer discutir a neuroplasticidade no contexto de reabilitação neurológica. Como você expressaria isto?",
+    "correctAnswer": "Neuroplasticity mechanisms facilitate functional recovery through targeted rehabilitation and cognitive engagement.",
+    "options": [
+      "Neuroplasticity mechanisms facilitate functional recovery through targeted rehabilitation and cognitive engagement.",
+      "The brain can change and recover after injury with training.",
+      "Brain rehabilitation work because brain can remake itself.",
+      "The brain have ability to fix itself when you train it."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Em uma discussão sobre medicina preventiva, como você explicaria seu valor?",
+    "correctAnswer": "Preventive medicine strategies are substantially more cost-effective than treating advanced disease stages.",
+    "options": [
+      "Preventive medicine strategies are substantially more cost-effective than treating advanced disease stages.",
+      "It is cheaper to prevent disease than to treat it after.",
+      "Preventing sickness cost less money than curing it later.",
+      "The prevention is better and cheaper than the cure."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer questionar a eficácia de uma terapia baseada em placebo. Como você faria isto?",
+    "correctAnswer": "I would scrutinize whether improvements result from genuine therapeutic mechanisms or merely placebo effects.",
+    "options": [
+      "I would scrutinize whether improvements result from genuine therapeutic mechanisms or merely placebo effects.",
+      "I want to know if this therapy work or if it is just placebo.",
+      "The improvement may come from belief not from real treatment.",
+      "Is the cure working or is it only the mind believing it work?"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Ao discutir telemedicina, como você avaliaria suas limitações?",
+    "correctAnswer": "While telemedicine facilitates accessibility, it presents inherent limitations in physical examination and diagnostic precision.",
+    "options": [
+      "While telemedicine facilitates accessibility, it presents inherent limitations in physical examination and diagnostic precision.",
+      "Video doctor is good but doctor cannot touch you to check.",
+      "Telemedicine help people but the doctor cannot examine body.",
+      "The remote medicine is convenient but have some limitation."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer discutir a importância da educação sanitária nas comunidades. Como você expressaria isto?",
+    "correctAnswer": "Health literacy initiatives are paramount in empowering communities to make informed health decisions.",
+    "options": [
+      "Health literacy initiatives are paramount in empowering communities to make informed health decisions.",
+      "Teaching people about health help them to take care of self.",
+      "Community education about health make people more responsible.",
+      "If people know about health, they can choose better for it."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Em uma discussão sobre comorbidades, como você explicaria sua complexidade?",
+    "correctAnswer": "Managing multiple comorbid conditions requires sophisticated clinical judgment and integrated treatment coordination.",
+    "options": [
+      "Managing multiple comorbid conditions requires sophisticated clinical judgment and integrated treatment coordination.",
+      "When someone have many sickness at same time, it is more complicated.",
+      "The treatment is hard when patient have multiple health problem.",
+      "Having many disease together make the cure more difficult."
+    ],
+    "difficulty": "hard"
+  }
+]

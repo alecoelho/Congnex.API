@@ -1,0 +1,512 @@
+[
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'layover' no contexto de viagens aéreas?",
+    "correctAnswer": "Escala ou parada entre voos",
+    "options": ["Escala ou parada entre voos", "Bagagem despachada", "Embarque prioritário", "Assento de corredor"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'check-in' no contexto de hospedagem em hotéis?",
+    "correctAnswer": "Processo de registro e entrada no hotel",
+    "options": ["Processo de registro e entrada no hotel", "Pagamento da diária", "Serviço de quarto", "Reserva antecipada"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução de 'boarding pass' para o português?",
+    "correctAnswer": "Cartão de embarque",
+    "options": ["Cartão de embarque", "Passaporte", "Visto de entrada", "Bilhete de ida e volta"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'round trip' em inglês, no contexto de passagens aéreas?",
+    "correctAnswer": "Ida e volta",
+    "options": ["Ida e volta", "Somente ida", "Voo direto", "Conexão internacional"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'carry-on luggage' quando se viaja de avião?",
+    "correctAnswer": "Bagagem de mão",
+    "options": ["Bagagem de mão", "Bagagem despachada", "Excesso de bagagem", "Mala extraviada"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que é um 'hostel' no contexto de hospedagem para viajantes?",
+    "correctAnswer": "Albergue ou pousada de baixo custo com quartos compartilhados",
+    "options": ["Albergue ou pousada de baixo custo com quartos compartilhados", "Hotel de luxo cinco estrelas", "Apartamento de temporada", "Pousada rural exclusiva"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução de 'sightseeing' para o português?",
+    "correctAnswer": "Passeio turístico para conhecer atrações locais",
+    "options": ["Passeio turístico para conhecer atrações locais", "Compras em lojas duty-free", "Excursão de aventura na natureza", "Degustação de culinária local"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'travel insurance' no contexto de planejamento de viagens?",
+    "correctAnswer": "Seguro viagem",
+    "options": ["Seguro viagem", "Agência de turismo", "Passagem aérea", "Visto consular"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'itinerary' no planejamento de uma viagem?",
+    "correctAnswer": "Roteiro ou programação detalhada da viagem",
+    "options": ["Roteiro ou programação detalhada da viagem", "Mapa turístico impresso", "Lista de bagagens permitidas", "Guia de conversação em idioma estrangeiro"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que é um 'souvenir' trazido de uma viagem?",
+    "correctAnswer": "Lembrança ou recordação comprada no destino",
+    "options": ["Lembrança ou recordação comprada no destino", "Documento de viagem oficial", "Formulário de imigração", "Taxa de turismo obrigatória"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução de 'departure gate' em um aeroporto?",
+    "correctAnswer": "Portão de embarque",
+    "options": ["Portão de embarque", "Sala de desembarque", "Esteira de bagagens", "Balcão de check-in"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'jet lag' para viajantes que cruzam fusos horários?",
+    "correctAnswer": "Desajuste do ritmo circadiano causado por viagens longas",
+    "options": ["Desajuste do ritmo circadiano causado por viagens longas", "Medo de voar em aviões", "Cansaço de longas caminhadas turísticas", "Enjôo em viagens de navio"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'customs' no contexto de passagem por fronteiras internacionais?",
+    "correctAnswer": "Alfândega",
+    "options": ["Alfândega", "Imigração", "Controle de passaportes", "Sala de espera VIP"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que é um 'travel guide' usado por turistas?",
+    "correctAnswer": "Guia de viagem com informações sobre destinos e atrações",
+    "options": ["Guia de viagem com informações sobre destinos e atrações", "Passagem de ônibus turístico", "Mapa de metrô da cidade", "Plano de seguro saúde internacional"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução de 'bed and breakfast' (B&B) para o contexto de hospedagem?",
+    "correctAnswer": "Pousada que oferece quarto e café da manhã",
+    "options": ["Pousada que oferece quarto e café da manhã", "Restaurante com serviço de quarto", "Hotel com pensão completa", "Apartamento com cozinha equipada"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'exchange rate' no contexto de viagens internacionais?",
+    "correctAnswer": "Taxa de câmbio entre moedas",
+    "options": ["Taxa de câmbio entre moedas", "Taxa de embarque no aeroporto", "Custo do seguro viagem", "Valor da bagagem extra"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'visa' no contexto de viagens internacionais?",
+    "correctAnswer": "Autorização oficial para entrada em um país estrangeiro",
+    "options": ["Autorização oficial para entrada em um país estrangeiro", "Documento de identidade nacional", "Passaporte de emergência temporário", "Seguro médico internacional"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução mais precisa de 'amenities' no contexto de hotéis?",
+    "correctAnswer": "Comodidades e facilidades oferecidas ao hóspede",
+    "options": ["Comodidades e facilidades oferecidas ao hóspede", "Taxa de serviço incluída na diária", "Cardápio do restaurante do hotel", "Regulamento interno do estabelecimento"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'complimentary' quando um hotel oferece algo 'complimentary'?",
+    "correctAnswer": "Gratuito, sem custo adicional",
+    "options": ["Gratuito, sem custo adicional", "Opcional mediante pagamento", "Exclusivo para hóspedes VIP", "Incluído apenas no café da manhã"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que é 'overbooked' no contexto de reservas de voos ou hotéis?",
+    "correctAnswer": "Quando há mais reservas confirmadas do que lugares ou quartos disponíveis",
+    "options": ["Quando há mais reservas confirmadas do que lugares ou quartos disponíveis", "Quando uma reserva é cancelada pelo cliente", "Quando todos os assentos estão disponíveis para upgrade", "Quando a tarifa aumenta no último momento"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'concierge' em um hotel de alto padrão?",
+    "correctAnswer": "Funcionário que auxilia hóspedes com serviços, reservas e informações locais",
+    "options": ["Funcionário que auxilia hóspedes com serviços, reservas e informações locais", "Responsável pela limpeza dos quartos", "Gerente de segurança do estabelecimento", "Chef responsável pelo restaurante do hotel"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'all-inclusive' em pacotes de viagem ou resorts?",
+    "correctAnswer": "Pacote que inclui hospedagem, refeições, bebidas e algumas atividades",
+    "options": ["Pacote que inclui hospedagem, refeições, bebidas e algumas atividades", "Passagem aérea com franquia de bagagem", "Hotel com café da manhã incluído", "Tour com guia e transporte"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução de 'connecting flight' no contexto de viagens aéreas?",
+    "correctAnswer": "Voo com conexão, onde é necessário trocar de aeronave",
+    "options": ["Voo com conexão, onde é necessário trocar de aeronave", "Voo direto sem escalas", "Voo fretado para grupos", "Voo inaugural de nova rota"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que é 'duty-free shopping' em aeroportos internacionais?",
+    "correctAnswer": "Compras isentas de impostos em lojas de aeroportos internacionais",
+    "options": ["Compras isentas de impostos em lojas de aeroportos internacionais", "Compras com desconto para passageiros frequentes", "Lojas exclusivas para passageiros de primeira classe", "Serviço de entrega de compras no destino"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'backpacking' como estilo de viagem?",
+    "correctAnswer": "Viajar com mochila e orçamento reduzido, explorando destinos de forma independente",
+    "options": ["Viajar com mochila e orçamento reduzido, explorando destinos de forma independente", "Fazer trilhas ecológicas em parques nacionais", "Viajar em grupos organizados por agências", "Explorar destinos de luxo com serviço premium"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'travel advisory' emitido por governos?",
+    "correctAnswer": "Aviso oficial com recomendações e alertas sobre segurança em destinos",
+    "options": ["Aviso oficial com recomendações e alertas sobre segurança em destinos", "Guia turístico oficial do governo", "Promoção de pacotes de turismo subsidiados", "Lista de destinos recomendados para viajantes"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução de 'charter flight' no setor de aviação?",
+    "correctAnswer": "Voo fretado, geralmente contratado por grupos ou operadoras de turismo",
+    "options": ["Voo fretado, geralmente contratado por grupos ou operadoras de turismo", "Voo comercial regular de baixo custo", "Voo inaugural de uma nova companhia aérea", "Voo executivo para passageiros premium"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que é 'ecotourism' como modalidade de viagem?",
+    "correctAnswer": "Turismo sustentável focado na preservação da natureza e culturas locais",
+    "options": ["Turismo sustentável focado na preservação da natureza e culturas locais", "Turismo de aventura com esportes radicais", "Viagens de negócios com impacto ambiental zero", "Turismo rural sem infraestrutura tecnológica"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'stopover' no contexto de viagens aéreas internacionais?",
+    "correctAnswer": "Parada intencional em uma cidade intermediária durante uma viagem maior",
+    "options": ["Parada intencional em uma cidade intermediária durante uma viagem maior", "Atraso imprevisto causado por condições climáticas", "Cancelamento de voo por razões operacionais", "Escala técnica sem possibilidade de desembarque"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'peak season' no turismo?",
+    "correctAnswer": "Temporada de alta demanda turística com preços elevados",
+    "options": ["Temporada de alta demanda turística com preços elevados", "Período de baixa temporada com descontos", "Época de festivais e celebrações locais", "Meses com melhores condições climáticas"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução de 'travel agent' para o contexto profissional de turismo?",
+    "correctAnswer": "Agente de viagens que planeja e organiza roteiros para clientes",
+    "options": ["Agente de viagens que planeja e organiza roteiros para clientes", "Guia turístico local certificado", "Funcionário de companhia aérea", "Representante consular de turismo"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que é 'travel hacking' no contexto de viajantes experientes?",
+    "correctAnswer": "Uso estratégico de milhas, pontos e promoções para viajar com menor custo",
+    "options": ["Uso estratégico de milhas, pontos e promoções para viajar com menor custo", "Invasão de sistemas de reservas online", "Forma ilegal de obter upgrades em voos", "Técnica de negociação agressiva com hotéis"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução de 'wanderlust' no contexto de comportamento de viajantes?",
+    "correctAnswer": "Desejo ou paixão intensa por viajar e conhecer novos lugares",
+    "options": ["Desejo ou paixão intensa por viajar e conhecer novos lugares", "Saudade do lar durante viagens longas", "Ansiedade antes de uma viagem internacional", "Coleção de destinos já visitados"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'tarmac' no contexto aeroportuário?",
+    "correctAnswer": "Pista de asfalto onde aeronaves taxiam, decolam e pousam",
+    "options": ["Pista de asfalto onde aeronaves taxiam, decolam e pousam", "Terminal de passageiros do aeroporto", "Área de controle de tráfego aéreo", "Hangar para manutenção de aeronaves"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'pilgrimage' no contexto de viagens com motivação espiritual?",
+    "correctAnswer": "Peregrinação a um local sagrado com propósito religioso ou espiritual",
+    "options": ["Peregrinação a um local sagrado com propósito religioso ou espiritual", "Viagem de aventura a regiões remotas", "Turismo cultural em sítios históricos", "Expedição científica a locais inóspitos"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'peregrinate' no contexto de viagens literárias ou formais?",
+    "correctAnswer": "Viajar de um lugar para outro, especialmente por longos percursos",
+    "options": ["Viajar de um lugar para outro, especialmente por longos percursos", "Negociar tarifas em estabelecimentos turísticos", "Documentar experiências de viagem em diários", "Retornar ao país de origem após longa ausência"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'perambulate' quando usado por escritores de viagem?",
+    "correctAnswer": "Deambular ou caminhar por uma área sem destino fixo, explorando livremente",
+    "options": ["Deambular ou caminhar por uma área sem destino fixo, explorando livremente", "Planejar meticulosamente cada etapa de uma viagem", "Contratar guias locais especializados", "Transportar bagagens pesadas entre destinos"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que é 'xenophilia' no contexto do comportamento de viajantes?",
+    "correctAnswer": "Atração ou fascínio por culturas, pessoas e costumes estrangeiros",
+    "options": ["Atração ou fascínio por culturas, pessoas e costumes estrangeiros", "Medo irracional de viajar para países desconhecidos", "Preferência por destinos turísticos domésticos", "Aversão a comidas exóticas em viagens internacionais"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução precisa de 'perennial tourist trap' no contexto de críticas turísticas?",
+    "correctAnswer": "Atração que explora turistas de forma recorrente com baixo valor real",
+    "options": ["Atração que explora turistas de forma recorrente com baixo valor real", "Destino renovado que recebe turistas constantemente", "Armadilha física para proteção de sítios arqueológicos", "Barreira de segurança em monumentos históricos"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'perquisite' no contexto de benefícios para viajantes frequentes?",
+    "correctAnswer": "Privilégio ou vantagem especial concedida além do acordado formalmente",
+    "options": ["Privilégio ou vantagem especial concedida além do acordado formalmente", "Taxa obrigatória cobrada em aeroportos internacionais", "Desconto padrão para reservas antecipadas", "Penalidade por cancelamento de reservas"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'plenipotentiary' quando um diplomata viaja com esse status?",
+    "correctAnswer": "Com plenos poderes para representar e negociar em nome de um governo",
+    "options": ["Com plenos poderes para representar e negociar em nome de um governo", "Com imunidade diplomática limitada a visitas oficiais", "Com acesso irrestrito a zonas de controle fronteiriço", "Com autorização para viajar em aeronaves de Estado"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que é 'overtourism' como fenômeno contemporâneo?",
+    "correctAnswer": "Saturação de destinos turísticos por excesso de visitantes, causando degradação",
+    "options": ["Saturação de destinos turísticos por excesso de visitantes, causando degradação", "Supervalorização de pacotes turísticos em alta temporada", "Proliferação de plataformas digitais de reservas turísticas", "Fenômeno de turistas que visitam os mesmos destinos repetidamente"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'sojourn' em contextos literários de viagem?",
+    "correctAnswer": "Estadia temporária em um lugar durante uma viagem mais longa",
+    "options": ["Estadia temporária em um lugar durante uma viagem mais longa", "Viagem de retorno ao país de origem", "Expedição de longa duração a regiões isoladas", "Pausa forçada por condições climáticas adversas"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'itinerant' quando aplicado a um estilo de vida de viajantes?",
+    "correctAnswer": "Nômade, que viaja constantemente sem residência fixa",
+    "options": ["Nômade, que viaja constantemente sem residência fixa", "Especialista em elaborar roteiros turísticos", "Viajante que frequenta os mesmos destinos anualmente", "Profissional que trabalha no setor de turismo local"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução de 'rucksack' no contexto de equipamentos para viagens de aventura?",
+    "correctAnswer": "Mochila de trekking ou de viagem com estrutura e suporte para costas",
+    "options": ["Mochila de trekking ou de viagem com estrutura e suporte para costas", "Bolsa de couro para documentos de viagem", "Maleta rígida para transporte de equipamentos frágeis", "Sacola dobrável de uso único para compras"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'grand tour' no contexto histórico de viagens europeias?",
+    "correctAnswer": "Viagem educativa tradicional pela Europa feita por jovens aristocratas nos séculos XVII e XVIII",
+    "options": ["Viagem educativa tradicional pela Europa feita por jovens aristocratas nos séculos XVII e XVIII", "Cruzeiro de luxo pelo Mediterrâneo para turistas abastados", "Pacote turístico completo que abrange vários países europeus", "Excursão guiada pelos principais museus de uma capital europeia"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'bespoke travel' como serviço turístico de luxo?",
+    "correctAnswer": "Viagem totalmente personalizada e elaborada sob medida para o cliente",
+    "options": ["Viagem totalmente personalizada e elaborada sob medida para o cliente", "Pacote turístico de última hora com desconto elevado", "Viagem em grupo com itinerário fixo e guia especializado", "Experiência de voluntariado em comunidades locais"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que é 'slow travel' como filosofia de viagem contemporânea?",
+    "correctAnswer": "Abordagem que prioriza imersão cultural profunda em poucos destinos em detrimento de quantidade",
+    "options": ["Abordagem que prioriza imersão cultural profunda em poucos destinos em detrimento de quantidade", "Viagem de trem ou barco evitando transporte aéreo", "Turismo acessível para pessoas com mobilidade reduzida", "Metodologia de planejamento gradual de viagens longas"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'wayfarer' em contextos literários e poéticos sobre viagens?",
+    "correctAnswer": "Viajante que percorre caminhos a pé, especialmente em longas jornadas",
+    "options": ["Viajante que percorre caminhos a pé, especialmente em longas jornadas", "Navegador experiente em rotas marítimas internacionais", "Guia de turismo especializado em trilhas ecológicas", "Comerciante itinerante que viaja entre cidades"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'déjà voyagé' como sensação experienciada por viajantes experientes?",
+    "correctAnswer": "Familiaridade com um lugar visitado anteriormente que evoca memórias detalhadas",
+    "options": ["Familiaridade com um lugar visitado anteriormente que evoca memórias detalhadas", "Sensação de que se conhece um destino sem nunca tê-lo visitado", "Desejo irrefreável de retornar a um destino já conhecido", "Confusão entre destinos diferentes visitados em viagens distintas"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "vocabulario",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução precisa de 'peripatetic lifestyle' no contexto de trabalho e viagem?",
+    "correctAnswer": "Estilo de vida nômade caracterizado por deslocamentos frequentes entre vários lugares",
+    "options": ["Estilo de vida nômade caracterizado por deslocamentos frequentes entre vários lugares", "Método filosófico de reflexão durante caminhadas em viagens", "Abordagem de turismo baseada em rotas históricas gregas", "Forma de viajar combinando trabalho voluntário e turismo"],
+    "difficulty": "hard"
+  }
+]

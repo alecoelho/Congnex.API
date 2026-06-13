@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "A empresa precisa aumentar o preço dos produtos.",
+        "correctAnswer":  "The company needs to raise the product prices.",
+        "options":  [
+                        "The company needs to raise the product prices.",
+                        "The company wants to lower the product costs.",
+                        "The company must decrease the customer payments.",
+                        "The company should buy more products."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "Ele trabalha na área de vendas.",
+        "correctAnswer":  "He works in the sales department.",
+        "options":  [
+                        "He works in the sales department.",
+                        "He buys products for the company.",
+                        "He manages the warehouse.",
+                        "He trains new employees."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "O cliente quer pagar a fatura em parcelas.",
+        "correctAnswer":  "The customer wants to pay the invoice in installments.",
+        "options":  [
+                        "The customer wants to pay the invoice in installments.",
+                        "The customer refuses to pay the bill.",
+                        "The customer needs a discount on the price.",
+                        "The customer cancelled the order."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "Nós enviamos os produtos ontem.",
+        "correctAnswer":  "We sent the products yesterday.",
+        "options":  [
+                        "We sent the products yesterday.",
+                        "We received the products today.",
+                        "We are sending the products tomorrow.",
+                        "We will deliver the products next week."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "A reunião começa às 10 horas.",
+        "correctAnswer":  "The meeting starts at 10 o\u0027clock.",
+        "options":  [
+                        "The meeting starts at 10 o\u0027clock.",
+                        "The meeting ends at 10 o\u0027clock.",
+                        "The meeting is in 10 minutes.",
+                        "The meeting was at 10 o\u0027clock yesterday."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "Eu tenho uma proposta de negócio para você.",
+        "correctAnswer":  "I have a business proposal for you.",
+        "options":  [
+                        "I have a business proposal for you.",
+                        "I want to buy your business.",
+                        "I need to sell my company.",
+                        "I am looking for a new job."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "O lucro da empresa cresceu este ano.",
+        "correctAnswer":  "The company\u0027s profit grew this year.",
+        "options":  [
+                        "The company\u0027s profit grew this year.",
+                        "The company\u0027s loss increased this year.",
+                        "The company\u0027s expenses were reduced.",
+                        "The company lost money this year."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "Você recebeu a confirmação de pagamento?",
+        "correctAnswer":  "Did you receive the payment confirmation?",
+        "options":  [
+                        "Did you receive the payment confirmation?",
+                        "Do you want to make a payment?",
+                        "Have you sent the payment yet?",
+                        "Will you accept the payment?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "A qualidade deste produto é muito boa.",
+        "correctAnswer":  "The quality of this product is very good.",
+        "options":  [
+                        "The quality of this product is very good.",
+                        "This product is not of good quality.",
+                        "The quality of this product needs improvement.",
+                        "This product is too expensive for its quality."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "O contrato foi assinado por ambas as partes.",
+        "correctAnswer":  "The contract was signed by both parties.",
+        "options":  [
+                        "The contract was signed by both parties.",
+                        "The contract was rejected by both sides.",
+                        "The contract is still being negotiated.",
+                        "The contract will be signed next month."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "Nós precisamos reduzir os custos operacionais.",
+        "correctAnswer":  "We need to reduce operational costs.",
+        "options":  [
+                        "We need to reduce operational costs.",
+                        "We want to increase our expenses.",
+                        "We should spend more on marketing.",
+                        "We must hire more employees."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "O gerente pediu um relatório sobre as vendas.",
+        "correctAnswer":  "The manager asked for a sales report.",
+        "options":  [
+                        "The manager asked for a sales report.",
+                        "The manager approved the sales team.",
+                        "The manager fired the sales representative.",
+                        "The manager increased the sales commission."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "Este é o melhor negócio que já fizemos.",
+        "correctAnswer":  "This is the best deal we have ever made.",
+        "options":  [
+                        "This is the best deal we have ever made.",
+                        "This is the worst business decision ever.",
+                        "We made a bad deal with this company.",
+                        "This deal cost us a lot of money."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "A empresa oferece um bom pacote de benefícios.",
+        "correctAnswer":  "The company offers a good benefits package.",
+        "options":  [
+                        "The company offers a good benefits package.",
+                        "The company provides low salaries.",
+                        "The company has no benefits for employees.",
+                        "The company reduces employee benefits every year."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "Qual é o prazo de entrega para este pedido?",
+        "correctAnswer":  "What is the delivery deadline for this order?",
+        "options":  [
+                        "What is the delivery deadline for this order?",
+                        "When will you place this order?",
+                        "How much does this delivery cost?",
+                        "Do you want to cancel this order?"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "Precisamos renovar nosso contrato com o fornecedor.",
+        "correctAnswer":  "We need to renew our contract with the supplier.",
+        "options":  [
+                        "We need to renew our contract with the supplier.",
+                        "We want to break the contract with the supplier.",
+                        "The supplier cancelled our contract.",
+                        "We will sign a new contract with another supplier."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "O preço do produto está muito alto.",
+        "correctAnswer":  "The product price is very high.",
+        "options":  [
+                        "The product price is very high.",
+                        "We need to increase the price.",
+                        "The price is competitive and fair.",
+                        "Everyone is buying this product."
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "A empresa está procurando investidores para expandir seus negócios.",
+        "correctAnswer":  "The company is looking for investors to expand its business.",
+        "options":  [
+                        "The company is looking for investors to expand its business.",
+                        "The company wants to close some of its offices.",
+                        "The company is reducing its operations.",
+                        "The company plans to sell all its assets."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "O departamento de RH está recrutando novos funcionários.",
+        "correctAnswer":  "The HR department is recruiting new employees.",
+        "options":  [
+                        "The HR department is recruiting new employees.",
+                        "The HR department is firing all workers.",
+                        "The HR department closed the company.",
+                        "The HR department reduced the number of staff."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "Nós devemos seguir as normas regulatórias da indústria.",
+        "correctAnswer":  "We must follow the industry regulatory standards.",
+        "options":  [
+                        "We must follow the industry regulatory standards.",
+                        "We can ignore the industry regulations.",
+                        "The industry does not have any rules.",
+                        "We are free to break the industry standards."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "O cliente solicitou um desconto especial.",
+        "correctAnswer":  "The customer requested a special discount.",
+        "options":  [
+                        "The customer requested a special discount.",
+                        "The customer paid full price.",
+                        "The customer refused the offer.",
+                        "The customer asked for a refund."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "A estratégia de marketing precisa ser revisada.",
+        "correctAnswer":  "The marketing strategy needs to be reviewed.",
+        "options":  [
+                        "The marketing strategy needs to be reviewed.",
+                        "The marketing strategy is perfect.",
+                        "We should abandon our marketing plan.",
+                        "The marketing team is not effective."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "O mercado está em crescimento constante.",
+        "correctAnswer":  "The market is in constant growth.",
+        "options":  [
+                        "The market is in constant growth.",
+                        "The market is shrinking every day.",
+                        "The market has no future.",
+                        "The market is stagnant."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "Precisamos melhorar a eficiência operacional.",
+        "correctAnswer":  "We need to improve operational efficiency.",
+        "options":  [
+                        "We need to improve operational efficiency.",
+                        "We should work less efficiently.",
+                        "Our operations are already perfect.",
+                        "We need to hire more staff."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "O orçamento anual foi aprovado pela diretoria.",
+        "correctAnswer":  "The annual budget was approved by the board.",
+        "options":  [
+                        "The annual budget was approved by the board.",
+                        "The board rejected the annual budget.",
+                        "The budget was increased without approval.",
+                        "The board has not reviewed the budget yet."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "A empresa tem uma forte presença no mercado internacional.",
+        "correctAnswer":  "The company has a strong presence in the international market.",
+        "options":  [
+                        "The company has a strong presence in the international market.",
+                        "The company only operates domestically.",
+                        "The company is closing its international offices.",
+                        "The company has no international customers."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "O fluxo de caixa da empresa está saudável.",
+        "correctAnswer":  "The company\u0027s cash flow is healthy.",
+        "options":  [
+                        "The company\u0027s cash flow is healthy.",
+                        "The company is facing cash flow problems.",
+                        "The company has no money left.",
+                        "The company cannot pay its bills."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "Precisamos diversificar nosso portfólio de produtos.",
+        "correctAnswer":  "We need to diversify our product portfolio.",
+        "options":  [
+                        "We need to diversify our product portfolio.",
+                        "We should focus on only one product.",
+                        "We will stop producing new products.",
+                        "We need to reduce our product line."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "A empresa implementou um novo sistema de gestão.",
+        "correctAnswer":  "The company implemented a new management system.",
+        "options":  [
+                        "The company implemented a new management system.",
+                        "The company removed its management system.",
+                        "The company is using old management methods.",
+                        "The company has no management system."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "O departamento de vendas apresentou excelentes resultados.",
+        "correctAnswer":  "The sales department presented excellent results.",
+        "options":  [
+                        "The sales department presented excellent results.",
+                        "The sales department closed its operations.",
+                        "We lost all our sales last month.",
+                        "The sales team is not performing well."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "A empresa planeja abrir uma nova filial.",
+        "correctAnswer":  "The company plans to open a new branch.",
+        "options":  [
+                        "The company plans to open a new branch.",
+                        "The company is closing all its branches.",
+                        "We decided not to expand our business.",
+                        "The company opened its first office yesterday."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "Nossos clientes estão muito satisfeitos com o serviço.",
+        "correctAnswer":  "Our customers are very satisfied with the service.",
+        "options":  [
+                        "Our customers are very satisfied with the service.",
+                        "Our customers are complaining about everything.",
+                        "We do not care about customer satisfaction.",
+                        "The service is not good at all."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "O crescimento anual da empresa foi significativo.",
+        "correctAnswer":  "The company\u0027s annual growth was significant.",
+        "options":  [
+                        "The company\u0027s annual growth was significant.",
+                        "The company lost money last year.",
+                        "There was no change in revenue.",
+                        "The company\u0027s profits decreased."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "Os clientes apreciam a qualidade de nossos produtos.",
+        "correctAnswer":  "Customers appreciate the quality of our products.",
+        "options":  [
+                        "Customers appreciate the quality of our products.",
+                        "Nobody is interested in our products.",
+                        "Our products are of poor quality.",
+                        "Customers complain about everything."
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "O retorno sobre investimento foi acima das expectativas.",
+        "correctAnswer":  "The return on investment exceeded expectations.",
+        "options":  [
+                        "The return on investment exceeded expectations.",
+                        "The investment was a complete loss.",
+                        "The return was lower than expected.",
+                        "We did not get any return on our investment."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "A empresa precisa fortalecer sua posição competitiva.",
+        "correctAnswer":  "The company needs to strengthen its competitive position.",
+        "options":  [
+                        "The company needs to strengthen its competitive position.",
+                        "The company is ignoring its competitors.",
+                        "The company has the weakest position in the market.",
+                        "The company will abandon its market share."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "Nós assinamos um acordo de parceria com a empresa concorrente.",
+        "correctAnswer":  "We signed a partnership agreement with the competing company.",
+        "options":  [
+                        "We signed a partnership agreement with the competing company.",
+                        "We declared war on our competitors.",
+                        "We ended all business relations with competitors.",
+                        "We refused to work with any other company."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "O pessoal de vendas alcançou a meta trimestral.",
+        "correctAnswer":  "The sales team reached the quarterly target.",
+        "options":  [
+                        "The sales team reached the quarterly target.",
+                        "The sales team failed to meet their goals.",
+                        "The sales team exceeded their budget.",
+                        "The sales department was disbanded."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "A análise de mercado indica uma oportunidade de expansão.",
+        "correctAnswer":  "Market analysis indicates an opportunity for expansion.",
+        "options":  [
+                        "Market analysis indicates an opportunity for expansion.",
+                        "The market analysis shows no opportunities.",
+                        "The market is shrinking rapidly.",
+                        "We should not expand our business."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "O departamento financeiro audita as contas regularmente.",
+        "correctAnswer":  "The finance department audits the accounts regularly.",
+        "options":  [
+                        "The finance department audits the accounts regularly.",
+                        "The finance department never checks the accounts.",
+                        "The finance team ignores financial records.",
+                        "We do not have anyone auditing our finances."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "A empresa está considerando uma fusão com outra organização.",
+        "correctAnswer":  "The company is considering a merger with another organization.",
+        "options":  [
+                        "The company is considering a merger with another organization.",
+                        "The company will never merge with anyone.",
+                        "The company is filing for bankruptcy.",
+                        "The company is closing all its operations."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "O índice de satisfação do cliente apresentou melhoria.",
+        "correctAnswer":  "The customer satisfaction rate showed improvement.",
+        "options":  [
+                        "The customer satisfaction rate showed improvement.",
+                        "Customer satisfaction has decreased significantly.",
+                        "Our customers are very unhappy.",
+                        "We lost most of our customers."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "A instituição financeira oferece juros competitivos.",
+        "correctAnswer":  "The financial institution offers competitive interest rates.",
+        "options":  [
+                        "The financial institution offers competitive interest rates.",
+                        "The bank charges the highest interest rates.",
+                        "Interest rates at this bank are not competitive.",
+                        "The bank does not offer any interest rates."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "Nós precisamos cumprir as obrigações contratuais.",
+        "correctAnswer":  "We need to fulfill our contractual obligations.",
+        "options":  [
+                        "We need to fulfill our contractual obligations.",
+                        "We can ignore the contract terms.",
+                        "We should break our contractual agreement.",
+                        "We do not need to follow the contract."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "O setor de tecnologia está em expansão acelerada.",
+        "correctAnswer":  "The technology sector is in rapid expansion.",
+        "options":  [
+                        "The technology sector is in rapid expansion.",
+                        "The technology industry is declining.",
+                        "Tech companies are closing down.",
+                        "The technology sector has no growth potential."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "A empresa possui certificações internacionais importantes.",
+        "correctAnswer":  "The company holds important international certifications.",
+        "options":  [
+                        "The company holds important international certifications.",
+                        "The company has no certifications.",
+                        "International certifications are not important to us.",
+                        "Our company does not meet international standards."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "A cadeia de suprimentos foi otimizada para reduzir prazos.",
+        "correctAnswer":  "The supply chain was optimized to reduce lead times.",
+        "options":  [
+                        "The supply chain was optimized to reduce lead times.",
+                        "The supply chain is getting worse every day.",
+                        "We are not concerned with delivery times.",
+                        "The supply chain is inefficient and slow."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "A empresa está investindo em desenvolvimento de novos produtos.",
+        "correctAnswer":  "The company is investing in new product development.",
+        "options":  [
+                        "The company is investing in new product development.",
+                        "The company is stopping all product innovations.",
+                        "We are not interested in new products.",
+                        "The company is closing its research department."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "Os beneficiários de programas de fidelização aumentaram.",
+        "correctAnswer":  "The beneficiaries of loyalty programs increased.",
+        "options":  [
+                        "The beneficiaries of loyalty programs increased.",
+                        "Fewer customers are joining our loyalty program.",
+                        "Our loyalty program was discontinued.",
+                        "No one is interested in our rewards program."
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "habilidades_receptivas",
+        "topicDomain":  "negocios",
+        "type":  "translation",
+        "questionText":  "O desempenho da empresa superou as metas trimestrais.",
+        "correctAnswer":  "The company\u0027s performance exceeded quarterly targets.",
+        "options":  [
+                        "The company\u0027s performance exceeded quarterly targets.",
+                        "The company failed to achieve its goals.",
+                        "The quarterly targets were not met.",
+                        "Performance was below expectations."
+                    ],
+        "difficulty":  "hard"
+    }
+]

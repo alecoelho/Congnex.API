@@ -1,0 +1,522 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Eu trabalho em um escritório.",
+    "correctAnswer": "I work in an office.",
+    "options": ["I work in an office.", "I work in a school.", "I work in a hospital.", "I work in a store."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Ele é médico.",
+    "correctAnswer": "He is a doctor.",
+    "options": ["He is a doctor.", "He is a teacher.", "He is a driver.", "He is a cook."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Ela é professora.",
+    "correctAnswer": "She is a teacher.",
+    "options": ["She is a nurse.", "She is a teacher.", "She is a manager.", "She is a secretary."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Eu tenho um emprego.",
+    "correctAnswer": "I have a job.",
+    "options": ["I have a job.", "I have a car.", "I have a house.", "I have a class."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Ele trabalha todos os dias.",
+    "correctAnswer": "He works every day.",
+    "options": ["He works every day.", "He plays every day.", "He reads every day.", "He sleeps every day."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Meu chefe é simpático.",
+    "correctAnswer": "My boss is friendly.",
+    "options": ["My boss is friendly.", "My boss is tall.", "My boss is young.", "My boss is busy."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Eu começo o trabalho às oito horas.",
+    "correctAnswer": "I start work at eight o'clock.",
+    "options": ["I start work at eight o'clock.", "I finish work at eight o'clock.", "I start school at eight o'clock.", "I start work at nine o'clock."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Ela não trabalha no fim de semana.",
+    "correctAnswer": "She does not work on the weekend.",
+    "options": ["She does not work on the weekend.", "She does not work on Monday.", "She does not study on the weekend.", "She does not live on the weekend."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "O trabalho é bom.",
+    "correctAnswer": "The job is good.",
+    "options": ["The job is good.", "The job is bad.", "The place is good.", "The school is good."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Eu sou enfermeira.",
+    "correctAnswer": "I am a nurse.",
+    "options": ["I am a nurse.", "I am a doctor.", "I am a teacher.", "I am a pilot."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Nós trabalhamos juntos.",
+    "correctAnswer": "We work together.",
+    "options": ["We work together.", "We live together.", "We study together.", "We play together."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "O salário é bom.",
+    "correctAnswer": "The salary is good.",
+    "options": ["The salary is good.", "The salary is low.", "The office is good.", "The work is good."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Eu preciso de um emprego.",
+    "correctAnswer": "I need a job.",
+    "options": ["I need a job.", "I want a job.", "I have a job.", "I need a car."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Ele é engenheiro.",
+    "correctAnswer": "He is an engineer.",
+    "options": ["He is an engineer.", "He is a lawyer.", "He is an accountant.", "He is a mechanic."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Eu trabalho de segunda a sexta.",
+    "correctAnswer": "I work from Monday to Friday.",
+    "options": ["I work from Monday to Friday.", "I work from Monday to Sunday.", "I study from Monday to Friday.", "I work from Tuesday to Friday."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Ela trabalha em um hospital.",
+    "correctAnswer": "She works in a hospital.",
+    "options": ["She works in a hospital.", "She works in a school.", "She lives in a hospital.", "She works in a clinic."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "O meu trabalho é interessante.",
+    "correctAnswer": "My job is interesting.",
+    "options": ["My job is interesting.", "My job is boring.", "My school is interesting.", "My job is easy."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Eu mando um e-mail para o meu chefe.",
+    "correctAnswer": "I send an email to my boss.",
+    "options": ["I send an email to my boss.", "I write a letter to my boss.", "I send a message to my friend.", "I read an email from my boss."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Ela tem uma reunião hoje.",
+    "correctAnswer": "She has a meeting today.",
+    "options": ["She has a meeting today.", "She has a class today.", "She has a party today.", "She has an interview today."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Ele chega ao trabalho de ônibus.",
+    "correctAnswer": "He gets to work by bus.",
+    "options": ["He gets to work by bus.", "He goes to school by bus.", "He gets home by bus.", "He gets to work by car."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Nós temos uma pausa para o almoço.",
+    "correctAnswer": "We have a lunch break.",
+    "options": ["We have a lunch break.", "We have a coffee break.", "We have a lunch meeting.", "We have a work break."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Ela quer uma promoção.",
+    "correctAnswer": "She wants a promotion.",
+    "options": ["She wants a promotion.", "She needs a promotion.", "She wants a raise.", "She wants a new job."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Eu uso o computador no trabalho.",
+    "correctAnswer": "I use the computer at work.",
+    "options": ["I use the computer at work.", "I use the phone at work.", "I use the computer at home.", "I see the computer at work."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Ele termina o trabalho às cinco horas.",
+    "correctAnswer": "He finishes work at five o'clock.",
+    "options": ["He finishes work at five o'clock.", "He starts work at five o'clock.", "He finishes school at five o'clock.", "He finishes work at six o'clock."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Ela fala inglês no trabalho.",
+    "correctAnswer": "She speaks English at work.",
+    "options": ["She speaks English at work.", "She learns English at work.", "She speaks English at school.", "She reads English at work."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "O escritório fica no centro da cidade.",
+    "correctAnswer": "The office is in the city center.",
+    "options": ["The office is in the city center.", "The school is in the city center.", "The office is near the city center.", "The office is outside the city."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Meus colegas de trabalho são legais.",
+    "correctAnswer": "My coworkers are nice.",
+    "options": ["My coworkers are nice.", "My classmates are nice.", "My coworkers are smart.", "My friends are nice."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Eu assino o contrato de trabalho.",
+    "correctAnswer": "I sign the work contract.",
+    "options": ["I sign the work contract.", "I read the work contract.", "I sign the work document.", "I write the work contract."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Ele trabalha em período integral.",
+    "correctAnswer": "He works full time.",
+    "options": ["He works full time.", "He works part time.", "He studies full time.", "He works overtime."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "A empresa fica na rua principal.",
+    "correctAnswer": "The company is on the main street.",
+    "options": ["The company is on the main street.", "The office is on the main street.", "The company is near the main street.", "The store is on the main street."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Ela tira férias em julho.",
+    "correctAnswer": "She takes a vacation in July.",
+    "options": ["She takes a vacation in July.", "She takes a break in July.", "She takes a vacation in June.", "She works in July."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Eu ligo para o cliente todas as semanas.",
+    "correctAnswer": "I call the client every week.",
+    "options": ["I call the client every week.", "I email the client every week.", "I call the boss every week.", "I visit the client every week."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Nós temos uma equipe pequena.",
+    "correctAnswer": "We have a small team.",
+    "options": ["We have a small team.", "We have a big team.", "We have a new team.", "We need a small team."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Ele pede um aumento de salário.",
+    "correctAnswer": "He asks for a salary raise.",
+    "options": ["He asks for a salary raise.", "He asks for a promotion.", "He wants a salary raise.", "He gets a salary raise."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Ela entrega o relatório na sexta-feira.",
+    "correctAnswer": "She submits the report on Friday.",
+    "options": ["She submits the report on Friday.", "She reads the report on Friday.", "She submits the report on Thursday.", "She writes the report on Friday."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Eu gosto de trabalhar em equipe.",
+    "correctAnswer": "I like to work in a team.",
+    "options": ["I like to work in a team.", "I like to work alone.", "I need to work in a team.", "I like to study in a team."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Ela candidatou-se para a vaga de gerente de projetos.",
+    "correctAnswer": "She applied for the project manager position.",
+    "options": ["She applied for the project manager position.", "She applied for the sales manager position.", "She was hired for the project manager position.", "She interviewed for the project manager role."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "O prazo para entregar o projeto é amanhã.",
+    "correctAnswer": "The deadline to deliver the project is tomorrow.",
+    "options": ["The deadline to deliver the project is tomorrow.", "The date to start the project is tomorrow.", "The time to finish the project is tomorrow.", "The deadline to begin the project is tomorrow."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Ele foi demitido da empresa na semana passada.",
+    "correctAnswer": "He was fired from the company last week.",
+    "options": ["He was fired from the company last week.", "He was hired by the company last week.", "He left the company last week.", "He was promoted at the company last week."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Ela trabalha em regime de home office três dias por semana.",
+    "correctAnswer": "She works from home three days a week.",
+    "options": ["She works from home three days a week.", "She works at the office three days a week.", "She works from home five days a week.", "She studies from home three days a week."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Nós precisamos contratar mais funcionários para o departamento.",
+    "correctAnswer": "We need to hire more employees for the department.",
+    "options": ["We need to hire more employees for the department.", "We want to hire more managers for the department.", "We need to train more employees for the department.", "We need to hire more people for the company."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "O candidato tem muita experiência na área de vendas.",
+    "correctAnswer": "The candidate has a lot of experience in sales.",
+    "options": ["The candidate has a lot of experience in sales.", "The candidate has little experience in sales.", "The employee has a lot of experience in sales.", "The candidate has a lot of knowledge in sales."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Ela recebeu um feedback positivo do seu supervisor.",
+    "correctAnswer": "She received positive feedback from her supervisor.",
+    "options": ["She received positive feedback from her supervisor.", "She gave positive feedback to her supervisor.", "She received negative feedback from her supervisor.", "She received positive feedback from her manager."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "O treinamento para novos funcionários começa na próxima segunda-feira.",
+    "correctAnswer": "The training for new employees starts next Monday.",
+    "options": ["The training for new employees starts next Monday.", "The meeting for new employees starts next Monday.", "The training for all employees starts next Monday.", "The training for new employees ends next Monday."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Ele precisa melhorar suas habilidades de comunicação.",
+    "correctAnswer": "He needs to improve his communication skills.",
+    "options": ["He needs to improve his communication skills.", "He wants to improve his communication skills.", "He needs to learn his communication skills.", "He needs to improve his technical skills."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "A empresa oferece benefícios como plano de saúde e vale-refeição.",
+    "correctAnswer": "The company offers benefits such as health insurance and meal vouchers.",
+    "options": ["The company offers benefits such as health insurance and meal vouchers.", "The company provides services such as health insurance and meal vouchers.", "The company offers benefits like dental insurance and meal vouchers.", "The company offers benefits such as health insurance and transport vouchers."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Ela foi aprovada na entrevista de emprego e começa na próxima semana.",
+    "correctAnswer": "She passed the job interview and starts next week.",
+    "options": ["She passed the job interview and starts next week.", "She failed the job interview and starts next week.", "She passed the job interview and started last week.", "She took the job interview and starts next week."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "O gerente enviou um relatório detalhado para toda a equipe.",
+    "correctAnswer": "The manager sent a detailed report to the whole team.",
+    "options": ["The manager sent a detailed report to the whole team.", "The manager wrote a detailed report for the whole team.", "The supervisor sent a detailed report to the whole team.", "The manager sent a short report to the whole team."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Nós participamos de uma conferência sobre liderança no mês passado.",
+    "correctAnswer": "We attended a conference on leadership last month.",
+    "options": ["We attended a conference on leadership last month.", "We organized a conference on leadership last month.", "We attended a workshop on leadership last month.", "We attended a conference on management last month."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Ele assina o contrato de trabalho antes de começar o novo cargo.",
+    "correctAnswer": "He signs the employment contract before starting the new position.",
+    "options": ["He signs the employment contract before starting the new position.", "He reads the employment contract before starting the new position.", "He signs the work agreement before starting the new position.", "He signs the employment contract after starting the new position."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "A diretora apresentou o plano estratégico para os acionistas da empresa.",
+    "correctAnswer": "The director presented the strategic plan to the company's shareholders.",
+    "options": ["The director presented the strategic plan to the company's shareholders.", "The manager presented the strategic plan to the company's shareholders.", "The director explained the strategic plan to the company's shareholders.", "The director presented the annual report to the company's shareholders."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "trabalho",
+    "type": "translation",
+    "questionText": "Os funcionários receberam um bônus no final do ano por bom desempenho.",
+    "correctAnswer": "The employees received a bonus at the end of the year for good performance.",
+    "options": ["The employees received a bonus at the end of the year for good performance.", "The employees got a raise at the end of the year for good performance.", "The employees received a bonus at the start of the year for good performance.", "The managers received a bonus at the end of the year for good performance."],
+    "difficulty": "hard"
+  }
+]

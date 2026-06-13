@@ -1,0 +1,502 @@
+﻿[
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'bargain' em português?",
+    "correctAnswer": "Pechincha, ótima oferta",
+    "options": ["Pechincha, ótima oferta", "Negócio ruim", "Discussão acalorada", "Contrato vago"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'budget' no contexto de compras?",
+    "correctAnswer": "Orçamento",
+    "options": ["Orçamento", "Estoque", "Débito", "Empréstimo"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'cashier'?",
+    "correctAnswer": "Caixa (atendente)",
+    "options": ["Caixa (atendente)", "Gerente de loja", "Cliente", "Fornecedor"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'discount'?",
+    "correctAnswer": "Desconto",
+    "options": ["Desconto", "Aumento de preço", "Frete grátis", "Cupom"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'deal' em transações comerciais?",
+    "correctAnswer": "Negócio, acordo comercial",
+    "options": ["Negócio, acordo comercial", "Empréstimo de dinheiro", "Roubo", "Discussão"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'receipt'?",
+    "correctAnswer": "Recibo, comprovante",
+    "options": ["Recibo, comprovante", "Embalagem", "Catálogo", "Anúncio"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'retail'?",
+    "correctAnswer": "Varejo",
+    "options": ["Varejo", "Atacado", "Fabricação", "Distribuição"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'consumer'?",
+    "correctAnswer": "Consumidor",
+    "options": ["Consumidor", "Vendedor", "Fabricante", "Distribuidor"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'payment'?",
+    "correctAnswer": "Pagamento",
+    "options": ["Pagamento", "Dívida", "Empréstimo", "Aluguel"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'merchandise'?",
+    "correctAnswer": "Mercadorias, produtos",
+    "options": ["Mercadorias, produtos", "Dinheiro", "Transporte", "Publicidade"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'transaction'?",
+    "correctAnswer": "Transação, operação comercial",
+    "options": ["Transação, operação comercial", "Devolução de produto", "Reclamação", "Pedido"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'invoice'?",
+    "correctAnswer": "Fatura",
+    "options": ["Fatura", "Recibo", "Nota fiscal", "Cupom"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'warranty'?",
+    "correctAnswer": "Garantia",
+    "options": ["Garantia", "Devolução", "Troca", "Reembolso"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'vendor'?",
+    "correctAnswer": "Vendedor, fornecedor",
+    "options": ["Vendedor, fornecedor", "Comprador", "Cliente", "Gerente"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'shortage'?",
+    "correctAnswer": "Falta, escassez",
+    "options": ["Falta, escassez", "Excesso", "Lucro", "Prejuízo"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'brand'?",
+    "correctAnswer": "Marca",
+    "options": ["Marca", "Preço", "Qualidade", "Embalagem"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'coupon'?",
+    "correctAnswer": "Cupom, vale de desconto",
+    "options": ["Cupom, vale de desconto", "Embalagem", "Etiqueta", "Comprovante"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Complete: 'The store offered a _____ on bulk purchases.' (A loja ofereceu desconto em compras em grande quantidade)",
+    "correctAnswer": "rebate",
+    "options": ["rebate", "penalty", "charge", "tax"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'expiration date'?",
+    "correctAnswer": "Data de vencimento",
+    "options": ["Data de vencimento", "Data de compra", "Data de entrega", "Data de fabricação"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'impulse buying'?",
+    "correctAnswer": "Compra por impulso",
+    "options": ["Compra por impulso", "Compra planejada", "Compra online", "Compra em lote"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'exchange'?",
+    "correctAnswer": "Troca",
+    "options": ["Troca", "Devolução", "Reembolso", "Desconto"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Complete: 'This product has excellent _____.' (Este produto tem excelente qualidade)",
+    "correctAnswer": "quality",
+    "options": ["quality", "price", "design", "packaging"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'shipping cost'?",
+    "correctAnswer": "Custo de envio",
+    "options": ["Custo de envio", "Custo de embalagem", "Imposto", "Desconto"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'authentication certificate'?",
+    "correctAnswer": "Certificado de autenticidade",
+    "options": ["Certificado de autenticidade", "Comprovante de compra", "Recibo", "Garantia"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Complete: 'The store is having a _____ sale this weekend.' (A loja está tendo uma liquidação)",
+    "correctAnswer": "clearance",
+    "options": ["clearance", "special", "grand", "exclusive"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'price tag'?",
+    "correctAnswer": "Etiqueta de preço",
+    "options": ["Etiqueta de preço", "Código de barras", "Logotipo", "Marca"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'out of stock'?",
+    "correctAnswer": "Fora de estoque",
+    "options": ["Fora de estoque", "Em promoção", "Em desenvolvimento", "Descontinuado"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Complete: 'I need to _____ my purchase because it didn't fit.' (Preciso devolver minha compra)",
+    "correctAnswer": "return",
+    "options": ["return", "exchange", "recall", "refund"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'credit card'?",
+    "correctAnswer": "Cartão de crédito",
+    "options": ["Cartão de crédito", "Cartão de débito", "Cheque", "Vales"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'wholesale'?",
+    "correctAnswer": "Atacado",
+    "options": ["Atacado", "Varejo", "Importação", "Exportação"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Complete: 'The _____ of the shirt is too small for me.' (O tamanho da camiseta é pequeno para mim)",
+    "correctAnswer": "size",
+    "options": ["size", "length", "width", "fit"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'loyalty program'?",
+    "correctAnswer": "Programa de fidelidade",
+    "options": ["Programa de fidelidade", "Promoção temporária", "Desconto para clientes novos", "Serviço de entrega"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'bulk purchase'?",
+    "correctAnswer": "Compra em lote",
+    "options": ["Compra em lote", "Compra urgente", "Compra online", "Compra de amostra"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Complete: 'I got a great _____ on this jacket - it was 50% off.' (Consegui uma ótima pechincha)",
+    "correctAnswer": "bargain",
+    "options": ["bargain", "purchase", "transaction", "deal"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'refund'?",
+    "correctAnswer": "Reembolso",
+    "options": ["Reembolso", "Desconto", "Crédito", "Troca"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'season sale'?",
+    "correctAnswer": "Liquidação sazonal",
+    "options": ["Liquidação sazonal", "Venda exclusiva", "Venda online", "Venda de oportunidade"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Complete: 'The company offers a _____ guarantee on all products.' (A empresa oferece garantia em todos os produtos)",
+    "correctAnswer": "satisfaction",
+    "options": ["satisfaction", "quality", "service", "delivery"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'counterfeit'?",
+    "correctAnswer": "Falsificado",
+    "options": ["Falsificado", "Original", "Importado", "Certificado"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'promotional offer'?",
+    "correctAnswer": "Oferta promocional",
+    "options": ["Oferta promocional", "Preço regular", "Preço máximo", "Preço sugerido"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Complete: 'I need to _____ with the store manager about the damaged goods.' (Preciso conversar com o gerente)",
+    "correctAnswer": "negotiate",
+    "options": ["negotiate", "purchase", "sell", "deliver"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'trade-in'?",
+    "correctAnswer": "Troca com abatimento",
+    "options": ["Troca com abatimento", "Venda à vista", "Compra futura", "Desconto progressivo"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'consumer protection'?",
+    "correctAnswer": "Proteção ao consumidor",
+    "options": ["Proteção ao consumidor", "Seguro de compra", "Garantia estendida", "Serviço ao cliente"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Complete: 'The store has a strict _____ on returns within 30 days.' (A loja tem uma política rigorosa)",
+    "correctAnswer": "policy",
+    "options": ["policy", "rule", "agreement", "contract"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'installment'?",
+    "correctAnswer": "Parcela",
+    "options": ["Parcela", "Desconto", "Imposto", "Taxa"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'resale value'?",
+    "correctAnswer": "Valor de revenda",
+    "options": ["Valor de revenda", "Preço original", "Valor de desconto", "Valor de mercado"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Complete: 'Online shopping has become more popular due to _____ and convenience.' (A compra online tornou-se mais popular)",
+    "correctAnswer": "accessibility",
+    "options": ["accessibility", "security", "reliability", "quality"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'deductible'?",
+    "correctAnswer": "Franquia (valor não coberto)",
+    "options": ["Franquia (valor não coberto)", "Desconto automático", "Reembolso parcial", "Taxa de serviço"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'premium product'?",
+    "correctAnswer": "Produto de qualidade superior",
+    "options": ["Produto de qualidade superior", "Produto com desconto", "Produto importado", "Produto em promoção"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Complete: 'The _____ of products in supermarkets is often overwhelming.' (A variedade de produtos)",
+    "correctAnswer": "variety",
+    "options": ["variety", "quantity", "quality", "selection"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "compras",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'cash back'?",
+    "correctAnswer": "Devolução em dinheiro",
+    "options": ["Devolução em dinheiro", "Crédito em loja", "Desconto futuro", "Pontos de recompensa"],
+    "difficulty": "hard"
+  }
+]

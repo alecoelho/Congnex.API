@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "A empresa _____ expandir suas operações no próximo trimestre.",
+        "correctAnswer":  "is planning to",
+        "options":  [
+                        "is planning to",
+                        "plan to",
+                        "is going plan",
+                        "planned to"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Se você não _____ os contratos a tempo, perderemos o negócio.",
+        "correctAnswer":  "don\u0027t sign",
+        "options":  [
+                        "don\u0027t sign",
+                        "won\u0027t sign",
+                        "not sign",
+                        "didn\u0027t sign"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O mercado tem crescido consistentemente _____ os últimos cinco anos.",
+        "correctAnswer":  "for",
+        "options":  [
+                        "for",
+                        "since",
+                        "during",
+                        "while"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Apesar _____ desafios econômicos, a empresa manteve seus lucros.",
+        "correctAnswer":  "of the",
+        "options":  [
+                        "of the",
+                        "to the",
+                        "with the",
+                        "by the"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O CEO espera que o projeto _____ concluído antes de dezembro.",
+        "correctAnswer":  "be",
+        "options":  [
+                        "be",
+                        "is",
+                        "will be",
+                        "was"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Todos os funcionários _____ receber treinamento obrigatório sobre conformidade.",
+        "correctAnswer":  "are required to",
+        "options":  [
+                        "are required to",
+                        "required to",
+                        "require to",
+                        "are requiring to"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O relatório financeiro _____ submetido ao conselho administrativo ontem.",
+        "correctAnswer":  "was",
+        "options":  [
+                        "was",
+                        "were",
+                        "had",
+                        "has been"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "A diretora argumentou _____ a implementação de novos procedimentos era essencial.",
+        "correctAnswer":  "that",
+        "options":  [
+                        "that",
+                        "which",
+                        "what",
+                        "where"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Não apenas _____ os custos operacionais, mas também a produtividade melhorou.",
+        "correctAnswer":  "did we reduce",
+        "options":  [
+                        "did we reduce",
+                        "we reduce",
+                        "we reduced",
+                        "reduced we"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Quanto mais clientes _____ adquiridos, maior será nosso retorno sobre investimento.",
+        "correctAnswer":  "are",
+        "options":  [
+                        "are",
+                        "is",
+                        "being",
+                        "have"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O governo introduziu novas regulamentações _____ proteger os consumidores.",
+        "correctAnswer":  "in order to",
+        "options":  [
+                        "in order to",
+                        "for to",
+                        "so that to",
+                        "to in order"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Se tivéssemos investido antes, _____ muito mais lucro agora.",
+        "correctAnswer":  "we would have",
+        "options":  [
+                        "we would have",
+                        "we will have",
+                        "we had",
+                        "we could"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O analista recomendou que _____ diversificar o portfólio de investimentos.",
+        "correctAnswer":  "we",
+        "options":  [
+                        "we",
+                        "we should",
+                        "should we",
+                        "we could"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "A parceria entre as duas empresas _____ ambas as partes consideráveis benefícios.",
+        "correctAnswer":  "has brought",
+        "options":  [
+                        "has brought",
+                        "have brought",
+                        "bring",
+                        "bringing"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Qualquer que _____ a estratégia escolhida, precisamos implementá-la rapidamente.",
+        "correctAnswer":  "be",
+        "options":  [
+                        "be",
+                        "is",
+                        "being",
+                        "been"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O contrato _____ uma cláusula que obriga ambas as partes a cumprir os prazos.",
+        "correctAnswer":  "contains",
+        "options":  [
+                        "contains",
+                        "contain",
+                        "containing",
+                        "contained"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Caso a demanda _____, ajustaremos nossa produção imediatamente.",
+        "correctAnswer":  "increases",
+        "options":  [
+                        "increases",
+                        "increase",
+                        "increased",
+                        "will increase"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "A empresa deveria ter _____ uma análise mais profunda antes de tomar essa decisão.",
+        "correctAnswer":  "conducted",
+        "options":  [
+                        "conducted",
+                        "conduct",
+                        "conducting",
+                        "to conduct"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "A maioria dos investidores está convencida de _____ o mercado vai se recuperar em breve.",
+        "correctAnswer":  "that",
+        "options":  [
+                        "that",
+                        "whether",
+                        "if",
+                        "when"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Não só a qualidade dos produtos melhorou, _____ também a satisfação dos clientes.",
+        "correctAnswer":  "but so did",
+        "options":  [
+                        "but so did",
+                        "but also",
+                        "but did also",
+                        "nor did"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O departamento de RH sugeriu que _____ programas de desenvolvimento profissional.",
+        "correctAnswer":  "we implement",
+        "options":  [
+                        "we implement",
+                        "we should implement",
+                        "we implementing",
+                        "we implemented"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Desde que _____ o novo sistema, a eficiência tem aumentado significativamente.",
+        "correctAnswer":  "we implemented",
+        "options":  [
+                        "we implemented",
+                        "we implement",
+                        "we have implemented",
+                        "we had implemented"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O gerente insistiu em _____ todos os fornecedores antes de assinar o contrato.",
+        "correctAnswer":  "meeting",
+        "options":  [
+                        "meeting",
+                        "meet",
+                        "to meet",
+                        "met"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "A estratégia de marketing _____ ser revista completamente para acompanhar as tendências atuais.",
+        "correctAnswer":  "needs to",
+        "options":  [
+                        "needs to",
+                        "should to",
+                        "must to",
+                        "ought"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Se você _____ que sua proposta fosse aceita, deveria ter apresentado dados mais convincentes.",
+        "correctAnswer":  "wanted",
+        "options":  [
+                        "wanted",
+                        "want",
+                        "had wanted",
+                        "would want"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O conselho aprovou a resolução, que _____ foi implementada dentro de um mês.",
+        "correctAnswer":  "subsequently",
+        "options":  [
+                        "subsequently",
+                        "subsequent",
+                        "subsequently was",
+                        "after that"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "A empresa está _____ pressão para reduzir seus custos operacionais.",
+        "correctAnswer":  "under",
+        "options":  [
+                        "under",
+                        "upon",
+                        "on",
+                        "in"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Embora o projeto _____ inicialmente enfrentar obstáculos, foi bem-sucedido no final.",
+        "correctAnswer":  "might have",
+        "options":  [
+                        "might have",
+                        "would have",
+                        "may have",
+                        "could have"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O relatório sugerido pelo auditor _____ ser levado em consideração por toda a administração.",
+        "correctAnswer":  "needs to",
+        "options":  [
+                        "needs to",
+                        "to need",
+                        "needs",
+                        "to be needed"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Quanto _____ mais atentamente o mercado, melhor compreenderão as oportunidades.",
+        "correctAnswer":  "they study",
+        "options":  [
+                        "they study",
+                        "they studied",
+                        "do they study",
+                        "they are studying"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O sistema de controle de qualidade _____ foi implementado para garantir a conformidade.",
+        "correctAnswer":  "that we",
+        "options":  [
+                        "that we",
+                        "which we",
+                        "who we",
+                        "where we"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Seria prudente se a empresa _____ adotar uma abordagem mais conservadora para gerenciar riscos.",
+        "correctAnswer":  "were to",
+        "options":  [
+                        "were to",
+                        "was to",
+                        "would",
+                        "should to"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Os acionistas argumentaram que _____ transparência nos relatórios financeiros era fundamental.",
+        "correctAnswer":  "greater",
+        "options":  [
+                        "greater",
+                        "greatest",
+                        "more great",
+                        "more greater"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "A fusão entre as duas corporações _____ criar uma empresa muito mais competitiva.",
+        "correctAnswer":  "is expected to",
+        "options":  [
+                        "is expected to",
+                        "expects to",
+                        "expected to",
+                        "expecting to"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Dado que o investimento inicial é significativo, é crucial que _____ um plano de contingência.",
+        "correctAnswer":  "we have",
+        "options":  [
+                        "we have",
+                        "we must have",
+                        "we should have",
+                        "having"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Não apenas _____ aumento de receita, como também melhoria significativa na retenção de clientes.",
+        "correctAnswer":  "did we achieve",
+        "options":  [
+                        "did we achieve",
+                        "we achieved",
+                        "achieved we",
+                        "have we achieved"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "A política de dividendos _____ foi estabelecida pelo conselho prevê pagamentos semestrais aos acionistas.",
+        "correctAnswer":  "that",
+        "options":  [
+                        "that",
+                        "which",
+                        "what",
+                        "where"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Independentemente de _____ desafios surgirem, a empresa permanecerá comprometida com seus objetivos.",
+        "correctAnswer":  "what",
+        "options":  [
+                        "what",
+                        "which",
+                        "where",
+                        "whenever"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Caso não _____ revisado o contrato cuidadosamente, estaríamos em uma posição de desvantagem.",
+        "correctAnswer":  "had been",
+        "options":  [
+                        "had been",
+                        "has been",
+                        "be",
+                        "would be"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "A eficácia da campanha de marketing depende de _____ cuidadosamente cada elemento seja testado.",
+        "correctAnswer":  "how carefully",
+        "options":  [
+                        "how carefully",
+                        "that carefully",
+                        "which carefully",
+                        "what carefully"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O gestor financeiro recomendou que se _____ a liquidez da empresa antes de buscar novos empréstimos.",
+        "correctAnswer":  "assessed",
+        "options":  [
+                        "assessed",
+                        "assess",
+                        "assesses",
+                        "to assess"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Muito embora o mercado _____ bastante competitivo, a empresa conseguiu se destacar pela inovação.",
+        "correctAnswer":  "be",
+        "options":  [
+                        "be",
+                        "is",
+                        "being",
+                        "was"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "A magnitude do impacto econômico _____ a pandemia teve foi amplamente subestimada inicialmente.",
+        "correctAnswer":  "that",
+        "options":  [
+                        "that",
+                        "which",
+                        "what",
+                        "where"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Observa-se que a rentabilidade das empresas _____ adotaram modelos sustentáveis tende a ser maior.",
+        "correctAnswer":  "that have",
+        "options":  [
+                        "that have",
+                        "which have",
+                        "what have",
+                        "that has"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Pressupondo que os dados _____ corretos, podemos proceder com a implementação da estratégia.",
+        "correctAnswer":  "are",
+        "options":  [
+                        "are",
+                        "were",
+                        "be",
+                        "being"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "A falta de transparência nas operações _____ levar a sérias consequências legais para a organização.",
+        "correctAnswer":  "could",
+        "options":  [
+                        "could",
+                        "can",
+                        "would",
+                        "might to"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Por conseguinte, a estrutura organizacional _____ foi redesenhada para melhor refletir a estratégia corporativa.",
+        "correctAnswer":  "that",
+        "options":  [
+                        "that",
+                        "which",
+                        "what",
+                        "where"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "O analista afirmou que, se não tivéssemos _____ com a fusão, teria sido um erro estratégico.",
+        "difficulty":  "hard",
+        "options":  [
+                        "gone ahead",
+                        "go ahead",
+                        "went ahead",
+                        "will go ahead"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "gone ahead"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "Considerando o cenário econômico volátil, é imprescindível que a empresa _____ periodicamente seus ativos.",
+        "difficulty":  "hard",
+        "options":  [
+                        "reassess",
+                        "reassesses",
+                        "reassessed",
+                        "will reassess"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "reassess"
+    },
+    {
+        "cefrLevel":  "B2",
+        "topicDomain":  "negocios",
+        "type":  "multiple_choice",
+        "questionText":  "A gestão de risco _____ foi implementada demonstrou ser fundamental para a estabilidade financeira.",
+        "difficulty":  "hard",
+        "options":  [
+                        "that",
+                        "which",
+                        "what",
+                        "where"
+                    ],
+        "questionType":  "gramatica",
+        "correctAnswer":  "that"
+    }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O aluno _____ estava estudando quando a professora entrou na sala.",
+    "correctAnswer": "who",
+    "options": ["what", "which", "that", "who"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Ela _____ terminar os deveres de casa antes das 8 da noite.",
+    "correctAnswer": "has to",
+    "options": ["have to", "must to", "should to", "has to"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Se você não _____ atenção na aula, não entenderá a matéria.",
+    "correctAnswer": "pay",
+    "options": ["pays", "paying", "paid", "pay"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Os alunos já _____ seus projetos de pesquisa.",
+    "correctAnswer": "have completed",
+    "options": ["has completed", "are completed", "completed", "have completed"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "É importante que você _____ regularmente na biblioteca.",
+    "correctAnswer": "study",
+    "options": ["studies", "studied", "are studying", "study"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Meu colega e eu _____ frequentado a mesma escola desde 2015.",
+    "correctAnswer": "have been",
+    "options": ["has been", "am being", "are being", "have been"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "A professora _____ que os alunos fizessem mais exercícios.",
+    "correctAnswer": "suggested",
+    "options": ["suggests", "had suggested", "is suggesting", "suggested"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Quando você _____, você aprenderá mais rápido.",
+    "correctAnswer": "practice regularly",
+    "options": ["are practicing regularly", "practiced regularly", "will practice regularly", "practice regularly"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Os professores _____ mais paciência com os alunos iniciantes.",
+    "correctAnswer": "have",
+    "options": ["has", "having", "are having", "have"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Ele disse que _____ aprender inglês era seu objetivo principal.",
+    "correctAnswer": "learning",
+    "options": ["learn", "to learn", "learned", "learning"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "A escola _____ novos computadores para a sala de informática.",
+    "correctAnswer": "needs",
+    "options": ["need", "are needing", "have needed", "needs"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Se eu _____ mais tempo, teria feito um trabalho melhor.",
+    "correctAnswer": "had had",
+    "options": ["have had", "would have had", "had", "had had"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Os alunos _____ concentrados durante a prova.",
+    "correctAnswer": "were",
+    "options": ["are", "was", "have been", "were"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "A universidade _____ cursos online desde o ano passado.",
+    "correctAnswer": "has been offering",
+    "options": ["is offering", "offers", "offered", "has been offering"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você deve _____ seus documentos com você no primeiro dia de aula.",
+    "correctAnswer": "bring",
+    "options": ["brings", "brought", "to bring", "bring"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "As notas _____ publicadas na próxima terça-feira.",
+    "correctAnswer": "will be",
+    "options": ["are", "were", "have been", "will be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Não há razão pela qual você não _____ melhorar sua leitura.",
+    "correctAnswer": "should",
+    "options": ["should to", "could to", "might to", "should"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Embora ele _____ dedicado, seus resultados ainda não melhoraram.",
+    "correctAnswer": "is",
+    "options": ["is being", "was", "were", "is"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "A maioria dos alunos _____ participado de programas de intercâmbio.",
+    "correctAnswer": "has",
+    "options": ["have", "has been", "are", "has"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Se você tivesse _____ todas as aulas, teria compreendido melhor.",
+    "correctAnswer": "attended",
+    "options": ["attending", "attend", "to attend", "attended"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O livro _____ você recomendou é muito interessante para o curso.",
+    "correctAnswer": "that",
+    "options": ["who", "whom", "which one", "that"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Desde que _____ nesta escola, aprendi muito sobre educação internacional.",
+    "correctAnswer": "I have been studying",
+    "options": ["I study", "I studied", "I am studying", "I have been studying"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Os cursos online _____ de alta qualidade comparados aos presenciais.",
+    "correctAnswer": "are considered to be",
+    "options": ["are considered as", "consider to be", "are considering", "are considered to be"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Ela está animada _____ sua primeira aula universitária próxima semana.",
+    "correctAnswer": "about attending",
+    "options": ["to attend", "for attending", "on attending", "about attending"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Caso você _____ alguma dúvida, a professora estará disponível.",
+    "correctAnswer": "have",
+    "options": ["has", "will have", "had", "have"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Os pesquisadores _____ seus dados de forma confidencial e segura.",
+    "correctAnswer": "are handling",
+    "options": ["handle", "handles", "handled", "are handling"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Não importa quanto _____, alguns alunos ainda enfrentam dificuldades.",
+    "correctAnswer": "they study",
+    "options": ["they are studying", "they studied", "they have studied", "they study"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Espera-se que os professores _____ atualizados com as novas metodologias.",
+    "correctAnswer": "keep themselves",
+    "options": ["keep", "are keeping", "kept", "keep themselves"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Os alunos que _____ os exercícios terão melhor desempenho.",
+    "correctAnswer": "do",
+    "options": ["are doing", "does", "have done", "do"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O diretor sugeriu que o currículo _____ revisado completamente.",
+    "correctAnswer": "be",
+    "options": ["is", "was", "were", "be"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Desejamos que você _____ sucesso em seus próximos exames.",
+    "correctAnswer": "have",
+    "options": ["has", "having", "had", "have"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Os materiais didáticos _____ distribuídos gratuitamente para todos os alunos.",
+    "correctAnswer": "will be",
+    "options": ["are being", "are", "have been", "will be"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Assumindo que você _____ o material, o teste será fácil.",
+    "correctAnswer": "have studied",
+    "options": ["study", "studied", "are studying", "have studied"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Se as aulas _____ online, mais alunos poderiam participar.",
+    "correctAnswer": "were",
+    "options": ["are", "was", "would be", "were"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O programa de mentoria, _____ foi estabelecido há cinco anos, tem ajudado centenas de alunos.",
+    "correctAnswer": "which",
+    "options": ["that", "who", "whom", "which"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Quanto mais você _____, melhor seu desempenho acadêmico será.",
+    "correctAnswer": "read",
+    "options": ["reads", "are reading", "have read", "read"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Apesar de os alunos _____ feito o dever de casa, o professor pediu para fazer novamente.",
+    "correctAnswer": "have",
+    "options": ["has", "having", "had", "have"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "A não ser que você _____ o certificado com você, não poderá se inscrever.",
+    "correctAnswer": "bring",
+    "options": ["brings", "brought", "to bring", "bring"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Os alunos acham-se _____ pela quantidade de trabalhos que precisam fazer.",
+    "correctAnswer": "overwhelmed",
+    "options": ["overwhelm", "overwhelming", "being overwhelmed", "overwhelmed"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Era essencial que todo aluno _____ a apresentação antes do prazo.",
+    "correctAnswer": "finish",
+    "options": ["finishes", "finished", "would finish", "finish"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Se não fosse pela bolsa de estudos, ele não _____ continuar seus estudos.",
+    "correctAnswer": "could have",
+    "options": ["would have", "could", "would have been able to", "could have"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O professor pediu que os alunos _____ seus dispositivos eletrônicos durante a aula.",
+    "correctAnswer": "turn off",
+    "options": ["turned off", "turn offing", "to turn off", "turn off"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Independentemente de como você _____, o mais importante é aprender.",
+    "correctAnswer": "learn",
+    "options": ["are learning", "learned", "learning", "learn"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Os professores preferem que os alunos _____ perguntas em vez de simplesmente copiar.",
+    "correctAnswer": "ask",
+    "options": ["asks", "asked", "to ask", "ask"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Deveria _____ mais investimento na educação para melhorar as infraestruturas escolares.",
+    "correctAnswer": "be",
+    "options": ["being", "are", "have been", "be"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "A instituição por _____ estudei foi reconhecida internacionalmente.",
+    "correctAnswer": "which",
+    "options": ["who", "that", "where", "which"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Acredita-se que a educação tecnológica _____ essencial para o futuro dos alunos.",
+    "correctAnswer": "is",
+    "options": ["are", "be", "being", "is"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Os alunos _____ que seus pais os apoiassem durante a transição para a universidade.",
+    "correctAnswer": "needed",
+    "options": ["need", "are needing", "have needed", "needed"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Propõe-se que o novo programa _____ implementado a partir do próximo semestre.",
+    "correctAnswer": "be",
+    "options": ["is", "was", "being", "be"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "gramatica",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Caso contrário, ele teria _____ seus objetivos acadêmicos muito antes.",
+    "correctAnswer": "achieved",
+    "options": ["achieve", "achieves", "achieving", "achieved"],
+    "difficulty": "hard"
+  }
+]

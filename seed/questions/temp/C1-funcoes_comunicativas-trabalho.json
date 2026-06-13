@@ -1,0 +1,752 @@
+[
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Durante uma reunião de equipe, você quer expressar sua discordância de forma educada com a opinião do seu colega.",
+    "correctAnswer": "I appreciate your perspective, but I'd have to respectfully disagree on that point.",
+    "options": [
+      "I appreciate your perspective, but I'd have to respectfully disagree on that point.",
+      "You're completely wrong about what you just said.",
+      "I don't think you have any idea what you're talking about.",
+      "That's the worst idea I've ever heard in my entire life."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você precisa pedir ao seu gerente para trabalhar de casa dois dias por semana. Como você faria essa solicitação formal?",
+    "correctAnswer": "Would it be possible to discuss a flexible working arrangement that would allow me to work from home two days a week?",
+    "options": [
+      "Can I work from home sometimes?",
+      "Would it be possible to discuss a flexible working arrangement that would allow me to work from home two days a week?",
+      "I'm gonna need to work from home twice a week.",
+      "Do you think I could maybe work remotely occasionally?"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você quer oferecer sua ajuda em um projeto para demonstrar sua capacidade de liderar.",
+    "correctAnswer": "I'd be delighted to take the lead on this project and demonstrate my capabilities.",
+    "options": [
+      "I'd be delighted to take the lead on this project and demonstrate my capabilities.",
+      "Let me help you with this thing.",
+      "I could maybe do this project if I have time.",
+      "Can I show you how smart I am by doing this project?"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Seu chefe sugere uma estratégia que você acredita ser ineficiente. Como você ofereceria uma alternativa diplomaticamente?",
+    "correctAnswer": "That's an interesting approach. Have you considered exploring an alternative strategy that might yield even better results?",
+    "options": [
+      "Your idea won't work at all.",
+      "That's an interesting approach. Have you considered exploring an alternative strategy that might yield even better results?",
+      "I think your plan is stupid.",
+      "We should definitely not do what you just suggested."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Durante uma entrevista, o entrevistador pergunta sobre seus pontos fracos. Como você responderia de forma construtiva?",
+    "correctAnswer": "I tend to be a perfectionist, which has sometimes led me to spend excessive time on details. I've learned to prioritize and delegate more effectively.",
+    "options": [
+      "I don't really have any weaknesses.",
+      "I tend to be a perfectionist, which has sometimes led me to spend excessive time on details. I've learned to prioritize and delegate more effectively.",
+      "I'm not very good at talking to people.",
+      "I'm lazy and don't like working hard."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você precisa comunicar um atraso importante em um projeto ao cliente. Como você faria isso profissionalmente?",
+    "correctAnswer": "I wanted to inform you that we're experiencing a slight delay in our timeline. We're implementing measures to minimize the impact and will have a revised schedule to share with you shortly.",
+    "options": [
+      "We're gonna be late with your project.",
+      "I wanted to inform you that we're experiencing a slight delay in our timeline. We're implementing measures to minimize the impact and will have a revised schedule to share with you shortly.",
+      "Sorry, we messed up and can't finish on time.",
+      "The project is delayed because of our mistakes."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você quer elogiar o desempenho excepcional de um colega em uma reunião de equipe.",
+    "correctAnswer": "I'd like to acknowledge your outstanding contribution to this project. Your work has significantly enhanced our team's output.",
+    "options": [
+      "Nice job on the project.",
+      "I'd like to acknowledge your outstanding contribution to this project. Your work has significantly enhanced our team's output.",
+      "You did good stuff.",
+      "That was cool what you did."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Como você solicitaria diplomaticamente que um colega melhorasse seu desempenho em uma tarefa específica?",
+    "correctAnswer": "I believe there's room for improvement in how we're approaching this task. Would you be open to discussing some strategies that might enhance our results?",
+    "options": [
+      "You're doing it wrong.",
+      "I believe there's room for improvement in how we're approaching this task. Would you be open to discussing some strategies that might enhance our results?",
+      "Your work is terrible and needs to change.",
+      "You need to figure out how to do this better immediately."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você quer iniciar uma negociação salarial com seu gerente. Como você abordaria o tópico?",
+    "correctAnswer": "I'd appreciate the opportunity to discuss my compensation in light of my contributions and current market rates for this position.",
+    "options": [
+      "I need more money.",
+      "I'd appreciate the opportunity to discuss my compensation in light of my contributions and current market rates for this position.",
+      "Why am I paid so little?",
+      "Give me a raise or I'll quit."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Como você recusaria um pedido adicional de trabalho quando já está sobrecarregado, mantendo a profissionalidade?",
+    "correctAnswer": "I appreciate you thinking of me for this project. However, given my current commitments, I want to ensure I can deliver quality work. Could we discuss how to best allocate this task?",
+    "options": [
+      "No, I'm too busy.",
+      "I appreciate you thinking of me for this project. However, given my current commitments, I want to ensure I can deliver quality work. Could we discuss how to best allocate this task?",
+      "I can't do it, I don't have time.",
+      "That's impossible for me right now."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você quer expressar entusiasmo sobre uma nova oportunidade de projeto de forma profissional.",
+    "correctAnswer": "I'm genuinely excited about this opportunity and believe my expertise could add significant value to the initiative.",
+    "options": [
+      "That sounds cool, I'm in.",
+      "I'm genuinely excited about this opportunity and believe my expertise could add significant value to the initiative.",
+      "Oh wow, this is gonna be fun!",
+      "Yeah, I really wanna do this project."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Como você pediria feedback construtivo sobre seu desempenho de forma profissional?",
+    "correctAnswer": "I'd welcome your observations on my performance and would appreciate any insights on areas where I could further develop my skills.",
+    "options": [
+      "Am I doing okay?",
+      "I'd welcome your observations on my performance and would appreciate any insights on areas where I could further develop my skills.",
+      "Tell me what I did wrong.",
+      "Do you think I'm bad at my job?"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você precisa recusar uma proposta de emprego após uma entrevista bem-sucedida. Como comunicar isso educadamente?",
+    "correctAnswer": "Thank you sincerely for the offer. After careful consideration, I've decided to pursue another opportunity that aligns more closely with my career objectives at this moment.",
+    "options": [
+      "I don't want the job.",
+      "Thank you sincerely for the offer. After careful consideration, I've decided to pursue another opportunity that aligns more closely with my career objectives at this moment.",
+      "Sorry, your company isn't good enough for me.",
+      "I changed my mind, I'm not taking the job."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Como você explicaria um erro que cometeu no trabalho demonstrando responsabilidade?",
+    "correctAnswer": "I take full responsibility for this oversight. I've identified what went wrong and have implemented measures to prevent this from happening again.",
+    "options": [
+      "It wasn't really my fault.",
+      "I take full responsibility for this oversight. I've identified what went wrong and have implemented measures to prevent this from happening again.",
+      "I made a mistake, but it's not that bad.",
+      "Someone else caused this problem, not me."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você quer oferecer mentoria a um colega mais junior de forma apropriada.",
+    "correctAnswer": "I'd be delighted to share my experience and provide guidance as you develop in your role. Would you be interested in establishing a mentoring relationship?",
+    "options": [
+      "I guess I could help you if you want.",
+      "I'd be delighted to share my experience and provide guidance as you develop in your role. Would you be interested in establishing a mentoring relationship?",
+      "You need someone to teach you how to work.",
+      "I'll help you because you clearly don't know what you're doing."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Como você responderia a uma crítica válida sobre seu trabalho de forma construtiva?",
+    "correctAnswer": "I appreciate the feedback. You've raised a valid point, and I'm committed to implementing these improvements in my future work.",
+    "options": [
+      "I disagree with you completely.",
+      "I appreciate the feedback. You've raised a valid point, and I'm committed to implementing these improvements in my future work.",
+      "That's not fair criticism.",
+      "I don't need to change anything about my work."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Durante uma apresentação, você comete um erro. Como você o abordaria mantendo credibilidade?",
+    "correctAnswer": "I apologize for that inaccuracy. Let me correct that point, as it's crucial we have the accurate information.",
+    "options": [
+      "Oops, I messed up.",
+      "I apologize for that inaccuracy. Let me correct that point, as it's crucial we have the accurate information.",
+      "Never mind that mistake, let's move on.",
+      "I said something wrong but it doesn't really matter."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Como você expressaria preocupação sobre um prazo irrealista sem soar negativo ou insubordinado?",
+    "correctAnswer": "I want to ensure we deliver quality results. Based on the scope of this project, I'd like to discuss whether the proposed timeline allows for thorough execution.",
+    "options": [
+      "This deadline is impossible.",
+      "I want to ensure we deliver quality results. Based on the scope of this project, I'd like to discuss whether the proposed timeline allows for thorough execution.",
+      "You're asking too much in too little time.",
+      "There's no way we can finish this by then."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você precisa informar seu gerente que está considerando deixar a empresa. Como abordaria essa conversa?",
+    "correctAnswer": "I'd like to discuss my career trajectory with you. I've been reflecting on my professional goals and would appreciate your insights on my development here.",
+    "options": [
+      "I'm thinking about quitting.",
+      "I'd like to discuss my career trajectory with you. I've been reflecting on my professional goals and would appreciate your insights on my development here.",
+      "I don't want to work here anymore.",
+      "I'm probably leaving the company soon."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Como você negociaria condições de trabalho mais favoráveis mantendo bom relacionamento?",
+    "correctAnswer": "I'm enthusiastic about contributing to our mutual success. I'd like to explore whether we can revisit certain aspects of my employment terms that would enhance my productivity.",
+    "options": [
+      "I want better conditions or I'll leave.",
+      "I'm enthusiastic about contributing to our mutual success. I'd like to explore whether we can revisit certain aspects of my employment terms that would enhance my productivity.",
+      "Change my contract or I quit.",
+      "Your offer isn't good enough as it is."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você quer questionar uma decisão gerencial de forma respeitosa mas convincente.",
+    "correctAnswer": "I understand the rationale behind this decision. However, I'd like to present some considerations that might provide a broader perspective on this issue.",
+    "options": [
+      "That's a bad decision.",
+      "I understand the rationale behind this decision. However, I'd like to present some considerations that might provide a broader perspective on this issue.",
+      "You're wrong about this.",
+      "This decision doesn't make any sense."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Como você resumiria suas conquistas em uma reunião de avaliação anual de forma apropriada?",
+    "correctAnswer": "Throughout this year, I've been instrumental in delivering key projects while consistently exceeding performance expectations. My contributions have resulted in measurable improvements in team efficiency.",
+    "options": [
+      "I did my job pretty well this year.",
+      "Throughout this year, I've been instrumental in delivering key projects while consistently exceeding performance expectations. My contributions have resulted in measurable improvements in team efficiency.",
+      "I worked hard and did stuff good.",
+      "I accomplished a lot of things at my job."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você precisa esclarecer um mal-entendido com um colega que afetou um projeto. Como você iniciaria essa conversa?",
+    "correctAnswer": "I'd like to clarify a misunderstanding about our recent project. I don't think we had a meeting of the minds on the deliverables, and I'd appreciate the opportunity to align on this.",
+    "options": [
+      "You messed something up in our project.",
+      "I'd like to clarify a misunderstanding about our recent project. I don't think we had a meeting of the minds on the deliverables, and I'd appreciate the opportunity to align on this.",
+      "You're confused about what we were supposed to do.",
+      "We need to talk about your mistakes."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Como você solicitaria confidencialidade sobre uma questão pessoal que afeta seu trabalho?",
+    "correctAnswer": "I'd appreciate the opportunity to discuss a matter that may affect my performance in confidence, as it involves personal circumstances I'd prefer to keep private.",
+    "options": [
+      "Don't tell anyone about my stuff.",
+      "I'd appreciate the opportunity to discuss a matter that may affect my performance in confidence, as it involves personal circumstances I'd prefer to keep private.",
+      "Keep this secret, okay?",
+      "This is private and you can't talk about it to anyone."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você precisa comunicar frustração sobre falta de progressão na carreira sem alienar seu gerente.",
+    "correctAnswer": "I've been reflecting on my career progression and would welcome a discussion about concrete opportunities for advancement that align with my capabilities and aspirations.",
+    "options": [
+      "I'm frustrated because I haven't been promoted.",
+      "I've been reflecting on my career progression and would welcome a discussion about concrete opportunities for advancement that align with my capabilities and aspirations.",
+      "You're not letting me move up in this company.",
+      "I deserve a promotion and you should give it to me."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Como você apresentaria uma ideia inovadora ao seu líder mantendo credibilidade?",
+    "correctAnswer": "I've developed a concept that could streamline our operations. I've conducted preliminary research and would like to present my findings for your consideration.",
+    "options": [
+      "I have a cool idea that might work.",
+      "I've developed a concept that could streamline our operations. I've conducted preliminary research and would like to present my findings for your consideration.",
+      "Check out this idea I thought of.",
+      "You should try doing this new thing I invented."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você precisa reconhecer que alguém o superou em uma competição interna mantendo integridade profissional.",
+    "correctAnswer": "Congratulations on your outstanding performance. Your approach was exemplary, and I look forward to learning from your success.",
+    "options": [
+      "You got lucky in that competition.",
+      "Congratulations on your outstanding performance. Your approach was exemplary, and I look forward to learning from your success.",
+      "You beat me, but only this time.",
+      "I'm mad you won, but okay."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Como você exprimiria desacordo com a direção de uma reunião sem parecer controlador?",
+    "correctAnswer": "I appreciate where we're heading, though I wonder if we might be overlooking some valuable considerations. Could we pause to examine the broader implications?",
+    "options": [
+      "That's not the right direction.",
+      "I appreciate where we're heading, though I wonder if we might be overlooking some valuable considerations. Could we pause to examine the broader implications?",
+      "We're doing this wrong.",
+      "I don't like where this is going."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você quer encorajar um colega desmotivado sem parecer condescendente.",
+    "correctAnswer": "I recognize this project has been challenging, but I genuinely believe your expertise is invaluable to its success. Your perspective could make a significant difference.",
+    "options": [
+      "Come on, you can do this.",
+      "I recognize this project has been challenging, but I genuinely believe your expertise is invaluable to its success. Your perspective could make a significant difference.",
+      "Don't be sad, it's gonna be fine.",
+      "You're better than you think you are."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Como você expressaria discordância substantiva sobre estratégia corporativa respeitando a hierarquia?",
+    "correctAnswer": "I recognize the strategic intent behind this direction. However, I have significant concerns about implementation that I believe warrant deeper analysis before full commitment.",
+    "options": [
+      "This strategy is wrong.",
+      "I recognize the strategic intent behind this direction. However, I have significant concerns about implementation that I believe warrant deeper analysis before full commitment.",
+      "That strategy won't work.",
+      "I completely disagree with what you're planning."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você precisa solicitar uma licença prolongada mantendo seu valor como empregado.",
+    "correctAnswer": "I'd like to discuss the possibility of taking extended leave while ensuring continuity in my responsibilities and demonstrating my commitment to a smooth transition.",
+    "options": [
+      "I need to take a long time off work.",
+      "I'd like to discuss the possibility of taking extended leave while ensuring continuity in my responsibilities and demonstrating my commitment to a smooth transition.",
+      "Can I have a really long vacation?",
+      "I'm gonna be gone for a while."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Como você documentaria uma conversa importante sobre desempenho de forma profissional?",
+    "correctAnswer": "Following our discussion, I'd like to send you a summary of our conversation and the action items we identified to ensure we're aligned moving forward.",
+    "options": [
+      "I'm gonna write down what we said.",
+      "Following our discussion, I'd like to send you a summary of our conversation and the action items we identified to ensure we're aligned moving forward.",
+      "Let me email you about what we talked about.",
+      "I'll remember everything we discussed today."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você precisa questionar a qualificação profissional de um colega mais sênior que está tomando decisões questionáveis.",
+    "correctAnswer": "I've observed some decisions that concern me from a technical standpoint. I wonder if it might be beneficial to bring in an external perspective or additional expertise on this matter.",
+    "options": [
+      "You're not qualified to make these decisions.",
+      "I've observed some decisions that concern me from a technical standpoint. I wonder if it might be beneficial to bring in an external perspective or additional expertise on this matter.",
+      "You don't know what you're doing.",
+      "Your decisions are all wrong."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Como você mediaria um conflito entre dois colegas mantendo neutralidade profissional?",
+    "correctAnswer": "I've noticed some tension in your working relationship. I'd like to facilitate a conversation where both of you can articulate your perspectives constructively.",
+    "options": [
+      "You guys need to stop fighting.",
+      "I've noticed some tension in your working relationship. I'd like to facilitate a conversation where both of you can articulate your perspectives constructively.",
+      "Why are you always arguing?",
+      "You need to figure out your problems."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você quer comunicar a necessidade de recursos adicionais para sucesso de um projeto sem parecer incompetente.",
+    "correctAnswer": "To optimize our deliverables and ensure we maintain our quality standards, I'd like to explore whether additional resources could be allocated to this initiative.",
+    "options": [
+      "We need more people on this project.",
+      "To optimize our deliverables and ensure we maintain our quality standards, I'd like to explore whether additional resources could be allocated to this initiative.",
+      "I can't do this by myself.",
+      "We don't have enough people to finish this."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Como você abordaria descobrir que seu gerente comete um erro fundamental na avaliação de seu desempenho?",
+    "correctAnswer": "I appreciate your assessment. I'd like to respectfully clarify some points regarding specific contributions that I believe may not have been fully reflected in your evaluation.",
+    "options": [
+      "You got my evaluation completely wrong.",
+      "I appreciate your assessment. I'd like to respectfully clarify some points regarding specific contributions that I believe may not have been fully reflected in your evaluation.",
+      "That evaluation is totally unfair.",
+      "You obviously don't know what I've been doing."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você precisa comunicar indisponibilidade para um projeto de grande importância sem prejudicar sua carreira.",
+    "correctAnswer": "While I recognize the significance of this project, I have existing commitments that would compromise my ability to deliver the quality this initiative deserves. I'd recommend considering alternative team members.",
+    "options": [
+      "I'm too busy for that project.",
+      "While I recognize the significance of this project, I have existing commitments that would compromise my ability to deliver the quality this initiative deserves. I'd recommend considering alternative team members.",
+      "I can't do that project right now.",
+      "I'm not available for this."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Como você sugeriria uma mudança de cultura organizacional de forma diplomática?",
+    "correctAnswer": "I believe there's an opportunity to evolve our organizational culture in ways that could enhance innovation and employee engagement. I'd welcome a discussion about potential initiatives.",
+    "options": [
+      "Your company culture is bad.",
+      "I believe there's an opportunity to evolve our organizational culture in ways that could enhance innovation and employee engagement. I'd welcome a discussion about potential initiatives.",
+      "We need to change how we do things here.",
+      "The culture around here needs to improve."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você precisa informar que foi oferecido um emprego em empresa concorrente e quer saber se há contraproposta.",
+    "correctAnswer": "I've received an interesting opportunity elsewhere. Before making a decision, I'd value the opportunity to discuss whether there are possibilities here that align with my career aspirations.",
+    "options": [
+      "Another company wants to hire me.",
+      "I've received an interesting opportunity elsewhere. Before making a decision, I'd value the opportunity to discuss whether there are possibilities here that align with my career aspirations.",
+      "I got a job offer from your competitor.",
+      "Someone else is trying to hire me away from here."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Como você expressaria que um processo organizacional está criando ineficiência sem culpar indivíduos?",
+    "correctAnswer": "I've observed that our current process is creating some bottlenecks that might be impeding efficiency. I'd like to propose a collaborative analysis of how we might streamline operations.",
+    "options": [
+      "This process is broken.",
+      "I've observed that our current process is creating some bottlenecks that might be impeding efficiency. I'd like to propose a collaborative analysis of how we might streamline operations.",
+      "Whoever designed this process did a bad job.",
+      "This system doesn't work properly."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você quer expressar que um colega está invadindo seu espaço profissional mantendo respeito mútuo.",
+    "correctAnswer": "I value our working relationship and your input. However, I'd appreciate maintaining clear boundaries around my decision-making authority in this domain.",
+    "options": [
+      "Stop interfering with my work.",
+      "I value our working relationship and your input. However, I'd appreciate maintaining clear boundaries around my decision-making authority in this domain.",
+      "You're always getting in my business.",
+      "Leave me alone and mind your own stuff."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Como você abordaria explicar por que recusou uma oportunidade de promoção?",
+    "correctAnswer": "I'm honored to be considered. However, after careful reflection, I've determined that this role doesn't align with my current professional objectives, and I believe another candidate might be a more optimal fit.",
+    "options": [
+      "I don't want that job.",
+      "I'm honored to be considered. However, after careful reflection, I've determined that this role doesn't align with my current professional objectives, and I believe another candidate might be a more optimal fit.",
+      "I'm not ready for a promotion.",
+      "That position isn't for me."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você precisa comunicar que um cliente importante está insatisfeito mantendo confiança na relação.",
+    "correctAnswer": "I'm aware of the concerns our client has raised, and I want to assure you that we're treating this with utmost urgency. We've already initiated a comprehensive review to address their needs.",
+    "options": [
+      "Our client is unhappy.",
+      "I'm aware of the concerns our client has raised, and I want to assure you that we're treating this with utmost urgency. We've already initiated a comprehensive review to address their needs.",
+      "The client is angry with us.",
+      "We have a big problem with that client."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Como você sugeriria ao seu gerente que sua liderança poderia ser mais inclusiva e participativa?",
+    "correctAnswer": "I've been reflecting on team dynamics and believe there's an opportunity to foster more collaborative decision-making processes that could leverage our collective expertise more effectively.",
+    "options": [
+      "You should let us have more say in decisions.",
+      "I've been reflecting on team dynamics and believe there's an opportunity to foster more collaborative decision-making processes that could leverage our collective expertise more effectively.",
+      "You're too controlling as a manager.",
+      "You should be more democratic in your leadership style."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você quer oferecer uma crítica construtiva a um padrão de comportamento não produtivo que observou.",
+    "correctAnswer": "I've noticed a pattern that might be undermining our collective effectiveness. I'd like to discuss this collaboratively to identify solutions that support our mutual success.",
+    "options": [
+      "You have a bad habit that's annoying.",
+      "I've noticed a pattern that might be undermining our collective effectiveness. I'd like to discuss this collaboratively to identify solutions that support our mutual success.",
+      "You're doing something wrong that bothers people.",
+      "Your behavior is counterproductive."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Como você expressaria solidariedade com um colega que está passando por dificuldades profissionais mantendo limite apropriado?",
+    "correctAnswer": "I've noticed you've been facing some challenges lately. I want you to know I'm here if you'd like to discuss any work-related matters, though I respect your privacy.",
+    "options": [
+      "You're having a hard time.",
+      "I've noticed you've been facing some challenges lately. I want you to know I'm here if you'd like to discuss any work-related matters, though I respect your privacy.",
+      "Are you okay? Tell me all your problems.",
+      "Don't worry, everything will be fine soon."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você quer sugerir que sua empresa invista em treinamento profissional contínuo de forma persuasiva.",
+    "correctAnswer": "I believe investing in continuous professional development would yield significant returns in terms of team capability and employee retention. I'd like to explore this opportunity.",
+    "options": [
+      "We should do more training.",
+      "I believe investing in continuous professional development would yield significant returns in terms of team capability and employee retention. I'd like to explore this opportunity.",
+      "People need to learn more skills.",
+      "You should spend money on training for us."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Como você abordaria comunicar que não tem experiência em uma tarefa designada mantendo credibilidade?",
+    "correctAnswer": "While I haven't encountered this particular challenge previously, I'm confident in my ability to learn quickly and deliver results. I'd welcome any resources that could facilitate my success.",
+    "options": [
+      "I've never done this before.",
+      "While I haven't encountered this particular challenge previously, I'm confident in my ability to learn quickly and deliver results. I'd welcome any resources that could facilitate my success.",
+      "I don't know how to do that.",
+      "That's totally new to me."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Você precisa pedir desculpas profissionalmente por um comportamento inadequado que afetou colegas.",
+    "correctAnswer": "I sincerely apologize for my recent behavior, which fell short of the standards I hold for myself and our team. I'm committed to ensuring this doesn't happen again.",
+    "options": [
+      "Sorry about that.",
+      "I sincerely apologize for my recent behavior, which fell short of the standards I hold for myself and our team. I'm committed to ensuring this doesn't happen again.",
+      "My bad, I messed up.",
+      "I'm sorry if I bothered you."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "trabalho",
+    "type": "multiple_choice",
+    "questionText": "Como você solicitaria um aumento de responsabilidades mantendo realismo sobre sua carga de trabalho?",
+    "correctAnswer": "I'm eager to take on additional responsibilities that would develop my expertise. I'd like to discuss which areas would benefit most from my involvement, considering my current workload.",
+    "options": [
+      "Give me more stuff to do.",
+      "I'm eager to take on additional responsibilities that would develop my expertise. I'd like to discuss which areas would benefit most from my involvement, considering my current workload.",
+      "I can do way more than what I'm doing now.",
+      "Let me handle more projects immediately."
+    ],
+    "difficulty": "easy"
+  }
+]

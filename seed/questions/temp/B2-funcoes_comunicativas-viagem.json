@@ -1,0 +1,752 @@
+[
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está no aeroporto e precisa perguntar em qual portão de embarque o seu voo vai sair. O que você diz ao funcionário?",
+    "correctAnswer": "Could you tell me which gate my flight departs from?",
+    "options": [
+      "Could you tell me which gate my flight departs from?",
+      "Where is the plane going to land?",
+      "Can I check in my baggage here?",
+      "What time does the airport close?"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você chega ao hotel e quer confirmar que sua reserva foi feita. O que você diz à recepcionista?",
+    "correctAnswer": "I have a reservation under the name Santos.",
+    "options": [
+      "I have a reservation under the name Santos.",
+      "I would like to make a reservation for tonight.",
+      "Is there a room available for next week?",
+      "Can you recommend a good hotel nearby?"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você precisa pedir informações sobre o horário de partida do trem na estação. O que você pergunta?",
+    "correctAnswer": "What time does the train to London depart?",
+    "options": [
+      "What time does the train to London depart?",
+      "How much does a taxi to London cost?",
+      "Where can I buy a bus ticket?",
+      "Is there a ferry to London?"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está num restaurante em outro país e quer pedir a conta. O que você diz ao garçom?",
+    "correctAnswer": "Could we have the bill, please?",
+    "options": [
+      "Could we have the bill, please?",
+      "Can I have the menu again?",
+      "Is service included in the price?",
+      "What do you recommend for dessert?"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "No aeroporto, você quer saber onde fica o balcão de despacho de bagagem. Como você pergunta?",
+    "correctAnswer": "Excuse me, where is the check-in counter for this airline?",
+    "options": [
+      "Excuse me, where is the check-in counter for this airline?",
+      "Can I take this bag on board with me?",
+      "How many bags can I check in for free?",
+      "Is my flight on time?"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir ao recepcionista do hotel para chamar um táxi para o aeroporto. O que você diz?",
+    "correctAnswer": "Could you call a taxi for me to the airport, please?",
+    "options": [
+      "Could you call a taxi for me to the airport, please?",
+      "What is the best way to get to the city centre?",
+      "How far is the airport from here?",
+      "Is there a shuttle bus to the train station?"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está num posto de turismo e quer receber um mapa da cidade. O que você pede?",
+    "correctAnswer": "Could I have a map of the city, please?",
+    "options": [
+      "Could I have a map of the city, please?",
+      "Where is the nearest bus stop?",
+      "Can you book a tour for me?",
+      "What are the opening hours of the museum?"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você perdeu o seu passaporte durante a viagem e precisa reportar o ocorrido à polícia. O que você diz?",
+    "correctAnswer": "I'd like to report a lost passport.",
+    "options": [
+      "I'd like to report a lost passport.",
+      "I need to renew my passport urgently.",
+      "Can you help me find my luggage?",
+      "I want to apply for a new visa."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está no hotel e quer saber se o café da manhã está incluído na diária. O que você pergunta?",
+    "correctAnswer": "Is breakfast included in the room rate?",
+    "options": [
+      "Is breakfast included in the room rate?",
+      "What time is dinner served?",
+      "Do you have a restaurant on site?",
+      "Can I have breakfast in my room?"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer comprar uma passagem de ônibus de ida e volta. O que você diz na bilheteria?",
+    "correctAnswer": "A return ticket to Oxford, please.",
+    "options": [
+      "A return ticket to Oxford, please.",
+      "A single ticket to Oxford, please.",
+      "I'd like to cancel my ticket to Oxford.",
+      "Is there a direct bus to Oxford?"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está num aeroporto estrangeiro e precisa passar pela alfândega. O funcionário pergunta o motivo da sua visita. O que você responde?",
+    "correctAnswer": "I'm here for tourism — I plan to sightsee for two weeks.",
+    "options": [
+      "I'm here for tourism — I plan to sightsee for two weeks.",
+      "I'm just passing through on my way to another country.",
+      "I live here permanently and I'm returning home.",
+      "I'm here to attend a business conference indefinitely."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está no avião e quer pedir ao comissário de bordo uma almofada para dormir. O que você diz?",
+    "correctAnswer": "Could I have a pillow, please?",
+    "options": [
+      "Could I have a pillow, please?",
+      "Can you lower the window shade for me?",
+      "Is there a blanket available in the overhead bin?",
+      "What snacks do you have on this flight?"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer trocar dinheiro no aeroporto e pergunta qual é a taxa de câmbio atual. O que você diz?",
+    "correctAnswer": "What's the current exchange rate for Brazilian reals?",
+    "options": [
+      "What's the current exchange rate for Brazilian reals?",
+      "Can I pay by credit card instead of cash?",
+      "Where is the nearest ATM machine?",
+      "How much does it cost to withdraw money here?"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "No hotel, você precisa pedir ao serviço de quarto que tragam toalhas limpas. O que você diz?",
+    "correctAnswer": "Could you send some fresh towels to room 214, please?",
+    "options": [
+      "Could you send some fresh towels to room 214, please?",
+      "Can I get a late checkout tomorrow?",
+      "Is laundry service available at this hotel?",
+      "I need extra hangers for my clothes."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está num museu e quer saber se há desconto para estudantes. Como você pergunta?",
+    "correctAnswer": "Is there a student discount for the entrance fee?",
+    "options": [
+      "Is there a student discount for the entrance fee?",
+      "Can I take photos inside the museum?",
+      "What are the guided tour times?",
+      "Is the museum open on public holidays?"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você alugou um carro e quer confirmar se o seguro está incluído no preço. O que você pergunta na locadora?",
+    "correctAnswer": "Is insurance included in the rental price?",
+    "options": [
+      "Is insurance included in the rental price?",
+      "What kind of car would you like to rent?",
+      "Can I return the car at a different location?",
+      "What is the speed limit on the motorway?"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está no aeroporto e seu voo foi cancelado. Você quer saber se será realocado em outro voo. O que você diz ao funcionário da companhia aérea?",
+    "correctAnswer": "My flight has been cancelled. Could you rebook me on the next available flight?",
+    "options": [
+      "My flight has been cancelled. Could you rebook me on the next available flight?",
+      "I missed my flight. Can I get a refund?",
+      "My seat has been changed without notice. I want an upgrade.",
+      "The flight is delayed. How long do we have to wait?"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está num hotel e quer fazer uma reclamação porque o ar-condicionado do seu quarto não está funcionando. Como você expressa isso de forma educada na recepção?",
+    "correctAnswer": "I'm afraid there seems to be a problem with the air conditioning in my room.",
+    "options": [
+      "I'm afraid there seems to be a problem with the air conditioning in my room.",
+      "The air conditioning is broken and I want a refund immediately.",
+      "Can you explain why my room has no heating?",
+      "I would like to request a room with a better view."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está num voo de longa duração e quer pedir ao comissário para mudar de assento porque o vizinho está incomodando. Como você se expressa de forma diplomática?",
+    "correctAnswer": "I was wondering if it might be possible to move to a different seat.",
+    "options": [
+      "I was wondering if it might be possible to move to a different seat.",
+      "I demand that you remove this passenger from the plane.",
+      "Tell this person next to me to stop talking.",
+      "I need a seat at the front of the cabin right now."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está negociando com um guia turístico particular e quer saber se ele pode oferecer um preço mais acessível para o tour. Como você pergunta sutilmente?",
+    "correctAnswer": "Is there any flexibility on the price for the private tour?",
+    "options": [
+      "Is there any flexibility on the price for the private tour?",
+      "This tour is too expensive. I won't pay that much.",
+      "Why does this tour cost more than the others?",
+      "Can I get this tour for free if I bring more people?"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você alugou um apartamento pelo Airbnb e, ao chegar, percebe que as condições não correspondem ao que foi anunciado. Como você aborda o anfitrião de forma assertiva mas educada?",
+    "correctAnswer": "The property doesn't quite match what was described in the listing. Could we discuss this?",
+    "options": [
+      "The property doesn't quite match what was described in the listing. Could we discuss this?",
+      "I want a full refund because this place is terrible.",
+      "Your apartment is nothing like the photos. I'm leaving.",
+      "I think you should update your listing to show the real condition."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está num restaurant e quer reclamar gentilmente que o prato que você pediu chegou frio. O que você diz ao garçom?",
+    "correctAnswer": "Excuse me, I think there might be an issue — my meal arrived cold.",
+    "options": [
+      "Excuse me, I think there might be an issue — my meal arrived cold.",
+      "This food is disgusting and I won't pay for it.",
+      "Can I speak to the chef about this terrible dish?",
+      "I ordered something different from what I received."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está na fila de imigração e o oficial pergunta por quanto tempo você pretende ficar no país. Qual resposta é mais adequada e natural?",
+    "correctAnswer": "I'll be staying for approximately ten days, just as a tourist.",
+    "options": [
+      "I'll be staying for approximately ten days, just as a tourist.",
+      "I don't know yet. It depends on how I feel.",
+      "Maybe a long time. I might decide to live here.",
+      "As long as my visa allows, which is none of your business."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está num tour guiado e quer pedir ao guia que repita uma informação porque não entendeu. Como você faz isso de forma educada?",
+    "correctAnswer": "I'm sorry, I didn't quite catch that. Could you go over that point again?",
+    "options": [
+      "I'm sorry, I didn't quite catch that. Could you go over that point again?",
+      "Can you speak slower? I don't understand your accent.",
+      "What did you say? I wasn't listening.",
+      "Please repeat everything from the beginning."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está hospedado num hotel e quer solicitar um check-out tardio. Como você faz esse pedido de forma apropriada?",
+    "correctAnswer": "Would it be possible to arrange a late checkout? I have a late afternoon flight.",
+    "options": [
+      "Would it be possible to arrange a late checkout? I have a late afternoon flight.",
+      "I need to stay in my room until the evening without paying more.",
+      "I'm not leaving at noon. That's too early for me.",
+      "Can you hold my baggage? I'll check out whenever I feel like it."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você quer expressar sua satisfação com uma excursão turística ao guia ao final do passeio. Qual expressão é mais natural e apropriada em inglês?",
+    "correctAnswer": "The tour was absolutely brilliant — we really appreciated all the historical insights you shared.",
+    "options": [
+      "The tour was absolutely brilliant — we really appreciated all the historical insights you shared.",
+      "It was okay. I've seen better tours in other countries.",
+      "The tour was good. Thank you for talking.",
+      "We liked the tour. You did your job well."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está alugando um carro e o atendente pergunta se você deseja proteção adicional contra danos. Como você recusa educadamente mas com segurança?",
+    "correctAnswer": "Thanks, but I'll pass on the extra coverage — my credit card already provides collision protection.",
+    "options": [
+      "Thanks, but I'll pass on the extra coverage — my credit card already provides collision protection.",
+      "No, I don't need insurance. Nothing will happen to the car.",
+      "I don't want to pay for anything extra at all.",
+      "Just give me the cheapest option and don't ask me more questions."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está num voo com escala e precisa confirmar com a comissária se sua bagagem será transferida automaticamente para o próximo voo. Como você pergunta?",
+    "correctAnswer": "Could you confirm whether my checked luggage will be automatically transferred to my connecting flight?",
+    "options": [
+      "Could you confirm whether my checked luggage will be automatically transferred to my connecting flight?",
+      "Do I need to collect my bags at the next stop?",
+      "Will my suitcase arrive on time?",
+      "Is there someone who can carry my bags for me?"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está numa conferência internacional e quer recomendar um hotel a um colega que vai visitar a mesma cidade. Como você formula a recomendação de forma natural?",
+    "correctAnswer": "If you're looking for something central with good amenities, I'd highly recommend the Grand Plaza — the location is unbeatable.",
+    "options": [
+      "If you're looking for something central with good amenities, I'd highly recommend the Grand Plaza — the location is unbeatable.",
+      "The Grand Plaza is a hotel. You should go there.",
+      "I stayed at Grand Plaza. It was fine.",
+      "Grand Plaza has good reviews online."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está discutindo com um amigo sobre qual é a melhor forma de viajar pela Europa — de trem ou de avião — e quer expressar sua preferência explicando o motivo. Qual resposta demonstra domínio B2?",
+    "correctAnswer": "Personally, I'd rather travel by rail — not only is it more scenic, but it's also considerably more eco-friendly than flying.",
+    "options": [
+      "Personally, I'd rather travel by rail — not only is it more scenic, but it's also considerably more eco-friendly than flying.",
+      "I like trains more than planes because trains are nice.",
+      "Planes are fast but I prefer slow travel sometimes.",
+      "Both are good options depending on the destination."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está num hotel de alto padrão e quer reclamar com elegância que o quarto que lhe foi atribuído não corresponde à categoria superior pela qual você pagou. Como você formula essa reclamação?",
+    "correctAnswer": "I believe there may have been a mix-up — I specifically booked a superior room, yet I seem to have been assigned a standard one.",
+    "options": [
+      "I believe there may have been a mix-up — I specifically booked a superior room, yet I seem to have been assigned a standard one.",
+      "My room is wrong. I want a better room now.",
+      "You gave me the wrong room. This is not what I paid for.",
+      "I am very unhappy with my room and demand to see the manager."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você perdeu um voo de conexão porque o voo anterior atrasou. Você precisa solicitar à companhia aérea compensação por gastos adicionais de hospedagem. Qual expressão é mais apropriada?",
+    "correctAnswer": "Given that the missed connection was due to your airline's delay, I'd like to inquire about reimbursement for my overnight accommodation expenses.",
+    "options": [
+      "Given that the missed connection was due to your airline's delay, I'd like to inquire about reimbursement for my overnight accommodation expenses.",
+      "Your delay ruined my trip. Pay for my hotel.",
+      "I want money for the hotel I had to stay in because you were late.",
+      "The airline must compensate me for everything I spent."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está tentando convencer um funcionário da imigração de que sua visita é legítima, após ele questionar o propósito da sua viagem. Qual resposta demonstra fluência e credibilidade em nível B2?",
+    "correctAnswer": "I understand your concern. I have a return ticket booked for the 15th, a hotel reservation, and sufficient funds for my stay — I can provide all the documentation if needed.",
+    "options": [
+      "I understand your concern. I have a return ticket booked for the 15th, a hotel reservation, and sufficient funds for my stay — I can provide all the documentation if needed.",
+      "I am just a tourist. Please let me in.",
+      "I have everything. Don't worry. I will go back to Brazil.",
+      "My visa is valid. That should be enough."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está escrevendo uma avaliação crítica mas equilibrada sobre um hotel em inglês, para uma plataforma de viagens. Qual é a forma mais sofisticada de expressar que o serviço foi inconsistente?",
+    "correctAnswer": "While the facilities were undeniably impressive, the quality of service varied considerably depending on the time of day and which staff member was on duty.",
+    "options": [
+      "While the facilities were undeniably impressive, the quality of service varied considerably depending on the time of day and which staff member was on duty.",
+      "The hotel was nice but the service was sometimes bad.",
+      "Some staff were good and some were not very helpful.",
+      "The hotel has good infrastructure but bad workers."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está tentando obter uma atualização de assento num voo internacional sem pagar pelo upgrade. Qual é a abordagem mais sofisticada e eficaz ao falar com o funcionário no balcão?",
+    "correctAnswer": "I noticed there may be availability in business class. I've been a frequent flyer with your airline for years — is there any possibility of a complimentary upgrade?",
+    "options": [
+      "I noticed there may be availability in business class. I've been a frequent flyer with your airline for years — is there any possibility of a complimentary upgrade?",
+      "Can you give me a free upgrade? The economy seats are uncomfortable.",
+      "I want to sit in business class. Is it possible for free?",
+      "Upgrade me please. I have been flying with you for a long time."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está negociando com um guia local privado a possibilidade de personalizar completamente o roteiro de um tour, incluindo paradas fora do roteiro padrão. Como você formula esse pedido de forma profissional?",
+    "correctAnswer": "We'd be interested in a tailored itinerary rather than the standard route — could we discuss incorporating some off-the-beaten-track stops?",
+    "options": [
+      "We'd be interested in a tailored itinerary rather than the standard route — could we discuss incorporating some off-the-beaten-track stops?",
+      "We don't want the normal tour. We want to go to different places.",
+      "Can you show us things that aren't in your normal tour?",
+      "We want a different program. Can you change it?"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está descrevendo para um amigo brasileiro, em inglês, as diferenças culturais que percebeu ao viajar pelo Japão. Qual resposta demonstra profundidade analítica de nível B2?",
+    "correctAnswer": "What struck me most was the pervasive sense of social harmony — people go to extraordinary lengths to avoid inconveniencing others, which shapes everything from queue etiquette to noise levels on public transport.",
+    "options": [
+      "What struck me most was the pervasive sense of social harmony — people go to extraordinary lengths to avoid inconveniencing others, which shapes everything from queue etiquette to noise levels on public transport.",
+      "Japan is very different. People are very polite and quiet.",
+      "Japanese people don't like to make noise in public places.",
+      "It was interesting to see how polite everyone was in Japan."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está negociando com a companhia de seguros de viagem por telefone, tentando obter cobertura para uma consulta médica que fez durante a viagem. Qual expressão melhor demonstra domínio B2?",
+    "correctAnswer": "According to the terms of my policy, emergency medical consultations abroad should be fully covered. I'd appreciate it if you could clarify why this particular claim is being disputed.",
+    "options": [
+      "According to the terms of my policy, emergency medical consultations abroad should be fully covered. I'd appreciate it if you could clarify why this particular claim is being disputed.",
+      "My insurance should pay for the doctor. Why don't you pay?",
+      "I want my money back for the medical appointment I had.",
+      "The insurance company must pay for everything when I travel."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está escrevendo para o hotel por e-mail para fazer uma solicitação especial antes de chegar, pois é uma viagem de lua de mel. Qual mensagem é mais elegante e eficaz?",
+    "correctAnswer": "As this is our honeymoon, we would be truly grateful if the hotel could arrange any small welcome gesture — flowers or a bottle of sparkling wine would be a wonderful touch.",
+    "options": [
+      "As this is our honeymoon, we would be truly grateful if the hotel could arrange any small welcome gesture — flowers or a bottle of sparkling wine would be a wonderful touch.",
+      "We are coming for our honeymoon. Please put something special in our room.",
+      "We just got married. Can you decorate our room?",
+      "Give us flowers and wine because it is our honeymoon."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está num evento de networking internacional durante uma viagem de negócios e quer iniciar uma conversa com alguém de outro país, mencionando que acabou de chegar. Qual abertura é mais natural e sofisticada?",
+    "correctAnswer": "I've just flown in from São Paulo — this is my first time at this particular conference. Are you based here locally or have you also travelled far?",
+    "options": [
+      "I've just flown in from São Paulo — this is my first time at this particular conference. Are you based here locally or have you also travelled far?",
+      "Hello. I am from Brazil. Where are you from?",
+      "I just arrived. This is a good conference, right?",
+      "I travelled from Brazil. It was a long flight."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está numa discussão sobre turismo sustentável e quer expressar sua opinião de que os destinos turísticos populares sofrem com o excesso de visitantes. Qual expressão demonstra melhor o nível B2?",
+    "correctAnswer": "The issue of overtourism is becoming increasingly pressing — iconic destinations are struggling to preserve their cultural heritage while managing the environmental strain brought by mass tourism.",
+    "options": [
+      "The issue of overtourism is becoming increasingly pressing — iconic destinations are struggling to preserve their cultural heritage while managing the environmental strain brought by mass tourism.",
+      "Too many tourists are bad for famous places.",
+      "Famous tourist spots have too many visitors and this is a problem.",
+      "Overtourism is a problem because there are too many people in some places."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está num hotel fazendo o check-in e o recepcionista informa que seu quarto ainda não está pronto. Você quer perguntar se pode deixar sua bagagem guardada enquanto espera. Como você pergunta?",
+    "correctAnswer": "That's no problem. Would it be possible to leave my luggage here in the meantime?",
+    "options": [
+      "That's no problem. Would it be possible to leave my luggage here in the meantime?",
+      "Where should I put my bags while I wait?",
+      "Can someone carry my luggage to my room later?",
+      "I need to store my bags. Is there a fee for that?"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está num táxi e o motorista tomou um caminho muito longo. Você quer questionar o trajeto de forma polida mas firme. O que você diz?",
+    "correctAnswer": "Excuse me, I'm not entirely sure this is the most direct route — could you explain why we're going this way?",
+    "options": [
+      "Excuse me, I'm not entirely sure this is the most direct route — could you explain why we're going this way?",
+      "You are going the wrong way. Stop and let me out.",
+      "I know a shorter route. Follow my instructions.",
+      "Why is this taxi ride taking so long? Are you lost?"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está planejando uma viagem e pergunta a um amigo que já esteve no destino sobre o melhor período para visitar. Qual pergunta é mais rica e demonstra nível B2?",
+    "correctAnswer": "Bearing in mind that I'd like to avoid the peak season crowds, when would you say is the ideal time to visit?",
+    "options": [
+      "Bearing in mind that I'd like to avoid the peak season crowds, when would you say is the ideal time to visit?",
+      "When is the best time to go there?",
+      "What month should I visit to avoid tourists?",
+      "Is it better to go there in summer or winter?"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você precisa informar ao guia turístico que um membro do seu grupo tem uma deficiência física e precisará de acessibilidade durante o passeio. Como você comunica isso de forma adequada?",
+    "correctAnswer": "I should mention that one of our group has limited mobility — could you ensure that the itinerary includes accessible routes throughout?",
+    "options": [
+      "I should mention that one of our group has limited mobility — could you ensure that the itinerary includes accessible routes throughout?",
+      "One person in our group can't walk well. Can you help?",
+      "We have someone disabled. Please take care of them.",
+      "My friend uses a wheelchair. Is the tour okay for him?"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está chegando num país com regulamentações estritas sobre itens trazidos na bagagem. O oficial de alfândega pergunta se você tem algo para declarar. Como você responde de forma correta e natural?",
+    "correctAnswer": "I have some personal items and a few gifts for friends, all within the duty-free allowance.",
+    "options": [
+      "I have some personal items and a few gifts for friends, all within the duty-free allowance.",
+      "I have nothing to declare. Everything is personal.",
+      "No, I only have my clothes and a few small things.",
+      "I brought some things from Brazil but nothing expensive."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está num cruzeiro e quer saber quais atividades opcionais estão disponíveis durante a parada no porto. Como você pergunta ao coordenador de atividades?",
+    "correctAnswer": "What shore excursions are available during our port stop tomorrow?",
+    "options": [
+      "What shore excursions are available during our port stop tomorrow?",
+      "What time do we arrive at the next island?",
+      "Is it possible to get off the ship at night?",
+      "Can we stay on the ship while others go ashore?"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está tentando negociar uma tarifa mais baixa num hotel porque encontrou um preço melhor online. Como você aborda isso com o recepcionista?",
+    "correctAnswer": "I noticed the rate on your website is lower than what I was quoted. Would you be able to match that price?",
+    "options": [
+      "I noticed the rate on your website is lower than what I was quoted. Would you be able to match that price?",
+      "The price you gave me is wrong. Change it.",
+      "I want the cheapest room you have, no matter what.",
+      "Why is your hotel so expensive compared to others?"
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você viajou e sua mala foi extraviada pela companhia aérea. Você está no balcão de atendimento e quer descrever a situação de forma clara e assertiva. O que você diz?",
+    "correctAnswer": "My luggage didn't arrive on the carousel. I need to file a lost baggage report.",
+    "options": [
+      "My luggage didn't arrive on the carousel. I need to file a lost baggage report.",
+      "Someone took my suitcase by mistake from the belt.",
+      "I think the airline lost my passport as well.",
+      "My bag is damaged. I want to be compensated."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "viagem",
+    "type": "multiple_choice",
+    "questionText": "Você está numa agência de viagens e quer cancelar um pacote de viagem devido a circunstâncias imprevistas. Como você explica a situação ao atendente de forma formal?",
+    "correctAnswer": "I'm afraid I need to cancel my booking due to unforeseen circumstances. Could you walk me through the cancellation policy?",
+    "options": [
+      "I'm afraid I need to cancel my booking due to unforeseen circumstances. Could you walk me through the cancellation policy?",
+      "I changed my mind about the trip. Give me my money back.",
+      "Cancel my trip. I don't want to travel anymore.",
+      "I want to reschedule my trip for next year without any fees."
+    ],
+    "difficulty": "hard"
+  }
+]

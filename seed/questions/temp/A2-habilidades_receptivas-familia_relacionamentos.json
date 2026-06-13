@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Minha mãe trabalha em uma escola.",
+        "difficulty":  "easy",
+        "options":  [
+                        "My mother works in a school.",
+                        "My mother is work in a school.",
+                        "My mother work in school.",
+                        "My mother are working in a school."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "My mother works in a school."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Eu tenho um irmão e uma irmã.",
+        "difficulty":  "easy",
+        "options":  [
+                        "I have a brother and a sister.",
+                        "I has a brother and a sister.",
+                        "I have brothers and sisters.",
+                        "I am having a brother and a sister."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "I have a brother and a sister."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Meu pai é engenheiro.",
+        "difficulty":  "easy",
+        "options":  [
+                        "My father is an engineer.",
+                        "My father is engineer.",
+                        "My father are an engineer.",
+                        "My father engineer is."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "My father is an engineer."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Você tem filhos?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Do you have children?",
+                        "Do you have any children?",
+                        "Are you having children?",
+                        "Does you have children?"
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Do you have children?"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Meu avó é muito velho.",
+        "difficulty":  "easy",
+        "options":  [
+                        "My grandfather is very old.",
+                        "My grandfather are very old.",
+                        "My grandfather very old.",
+                        "My grandfather is very older."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "My grandfather is very old."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Ela é minha melhor amiga.",
+        "difficulty":  "easy",
+        "options":  [
+                        "She is my best friend.",
+                        "She is my better friend.",
+                        "She is my best friends.",
+                        "She best friend of mine."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "She is my best friend."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Minha avó faz bolo.",
+        "difficulty":  "easy",
+        "options":  [
+                        "My grandmother makes cake.",
+                        "My grandmother make cake.",
+                        "My grandmother is making cake.",
+                        "My grandmother made cake."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "My grandmother makes cake."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Ele tem uma namorada.",
+        "difficulty":  "easy",
+        "options":  [
+                        "He has a girlfriend.",
+                        "He has girlfriend.",
+                        "He is having a girlfriend.",
+                        "He had a girlfriend."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "He has a girlfriend."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Você gosta do seu primo?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Do you like your cousin?",
+                        "Do you like your cousins?",
+                        "Are you liking your cousin?",
+                        "Does you like your cousin?"
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Do you like your cousin?"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Meu marido é médico.",
+        "difficulty":  "easy",
+        "options":  [
+                        "My husband is a doctor.",
+                        "My husband is doctor.",
+                        "My husband are a doctor.",
+                        "My husbands is a doctor."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "My husband is a doctor."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Minha esposa estuda música.",
+        "difficulty":  "easy",
+        "options":  [
+                        "My wife studies music.",
+                        "My wife is study music.",
+                        "My wife study music.",
+                        "My wifes studies music."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "My wife studies music."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Ele é um amigo muito legal.",
+        "difficulty":  "easy",
+        "options":  [
+                        "He is a very cool friend.",
+                        "He is very a cool friend.",
+                        "He is cool very friend.",
+                        "He very cool friend is."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "He is a very cool friend."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Meu tio mora em São Paulo.",
+        "difficulty":  "easy",
+        "options":  [
+                        "My uncle lives in São Paulo.",
+                        "My uncle live in São Paulo.",
+                        "My uncle are living in São Paulo.",
+                        "My uncles lives in São Paulo."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "My uncle lives in São Paulo."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Você tem um namorado?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Do you have a boyfriend?",
+                        "Do you have boyfriend?",
+                        "Are you having a boyfriend?",
+                        "Does you have a boyfriend?"
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Do you have a boyfriend?"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Minha filha é linda.",
+        "difficulty":  "easy",
+        "options":  [
+                        "My daughter is beautiful.",
+                        "My daughter are beautiful.",
+                        "My daughter is beautifully.",
+                        "My daughter very beautiful."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "My daughter is beautiful."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Seu irmão trabalha com você?",
+        "difficulty":  "easy",
+        "options":  [
+                        "Does your brother work with you?",
+                        "Do your brother work with you?",
+                        "Your brother work with you?",
+                        "Is your brother working with you?"
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Does your brother work with you?"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Meu filho gosta de jogar futebol.",
+        "difficulty":  "medium",
+        "options":  [
+                        "My son likes to play football.",
+                        "My son like to play football.",
+                        "My son is liking to play football.",
+                        "My sons likes to play football."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "My son likes to play football."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Ela se casou no ano passado.",
+        "difficulty":  "medium",
+        "options":  [
+                        "She got married last year.",
+                        "She married last year.",
+                        "She has married last year.",
+                        "She is married last year."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "She got married last year."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Você conhece a família dele?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Do you know his family?",
+                        "Do you know his families?",
+                        "Are you knowing his family?",
+                        "Does you know his family?"
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Do you know his family?"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Minha avó vive com a gente.",
+        "difficulty":  "medium",
+        "options":  [
+                        "My grandmother lives with us.",
+                        "My grandmother is living with us.",
+                        "My grandmother live with we.",
+                        "My grandmothers lives with us."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "My grandmother lives with us."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Ele é meu sogro.",
+        "difficulty":  "medium",
+        "options":  [
+                        "He is my father-in-law.",
+                        "He is my father in law.",
+                        "He is my father of law.",
+                        "He is my in-law father."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "He is my father-in-law."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Quantos anos seu neto tem?",
+        "difficulty":  "medium",
+        "options":  [
+                        "How old is your grandson?",
+                        "How old your grandson is?",
+                        "How old your grandson have?",
+                        "What age your grandson has?"
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "How old is your grandson?"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Meus pais são divorciados.",
+        "difficulty":  "medium",
+        "options":  [
+                        "My parents are divorced.",
+                        "My parents is divorced.",
+                        "My parent are divorced.",
+                        "My parents being divorced."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "My parents are divorced."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Você é casado?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Are you married?",
+                        "Is you married?",
+                        "Are you marrying?",
+                        "Do you married?"
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Are you married?"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Meu padrasto é muito legal.",
+        "difficulty":  "medium",
+        "options":  [
+                        "My stepfather is very cool.",
+                        "My step-father is very cool.",
+                        "My father step is very cool.",
+                        "My stepfather are very cool."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "My stepfather is very cool."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Ela tem dois filhos do primeiro casamento.",
+        "difficulty":  "medium",
+        "options":  [
+                        "She has two children from her first marriage.",
+                        "She has two children of her first marriage.",
+                        "She have two children from her first marriage.",
+                        "She has two child from her first marriage."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "She has two children from her first marriage."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Seus pais moram perto de você?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Do your parents live near you?",
+                        "Are your parents living near you?",
+                        "Do your parents lives near you?",
+                        "Does your parents live near you?"
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Do your parents live near you?"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Meu genro é advogado.",
+        "difficulty":  "medium",
+        "options":  [
+                        "My son-in-law is a lawyer.",
+                        "My son in law is a lawyer.",
+                        "My son-in-law is lawyer.",
+                        "My son-in-laws is a lawyer."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "My son-in-law is a lawyer."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Você tem boas relações com sua família?",
+        "difficulty":  "medium",
+        "options":  [
+                        "Do you have a good relationship with your family?",
+                        "Do you have good relationships with your family?",
+                        "Are you having good relationship with your family?",
+                        "Does you have good relationship with your family?"
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Do you have a good relationship with your family?"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Minha cunhada é professora.",
+        "difficulty":  "medium",
+        "options":  [
+                        "My sister-in-law is a teacher.",
+                        "My sister in law is a teacher.",
+                        "My sister-in-law is teacher.",
+                        "My sisters-in-law is a teacher."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "My sister-in-law is a teacher."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Quantas pessoas há na sua família?",
+        "difficulty":  "medium",
+        "options":  [
+                        "How many people are there in your family?",
+                        "How many persons are in your family?",
+                        "How many peoples are in your family?",
+                        "How many people is in your family?"
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "How many people are there in your family?"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Meu neto nasceu há dois meses.",
+        "difficulty":  "hard",
+        "options":  [
+                        "My grandson was born two months ago.",
+                        "My grandson is born two months ago.",
+                        "My grandson born two months ago.",
+                        "My grandson has been born two months ago."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "My grandson was born two months ago."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Se você tivesse mais tempo, visitaria sua família?",
+        "difficulty":  "hard",
+        "options":  [
+                        "If you had more time, would you visit your family?",
+                        "If you would have more time, you visit your family?",
+                        "If you have more time, would you visit your family?",
+                        "If you had more time, you would visit your family?"
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "If you had more time, would you visit your family?"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Ele deixou sua esposa por causa do trabalho.",
+        "difficulty":  "hard",
+        "options":  [
+                        "He left his wife because of work.",
+                        "He left his wife because the work.",
+                        "He left his wife because work.",
+                        "He left his wife due to the work."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "He left his wife because of work."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Meu pai e minha mãe se separaram quando eu tinha cinco anos.",
+        "difficulty":  "hard",
+        "options":  [
+                        "My father and mother separated when I was five years old.",
+                        "My father and mother separated when I had five years.",
+                        "My parents separated when I was five years old.",
+                        "My father and my mother separated when I had five."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "My father and mother separated when I was five years old."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Ela se importa muito com o que sua mãe pensa.",
+        "difficulty":  "hard",
+        "options":  [
+                        "She cares a lot about what her mother thinks.",
+                        "She cares much about what her mother thinks.",
+                        "She cares a lot of what her mother thinks.",
+                        "She is caring about what her mother thinks."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "She cares a lot about what her mother thinks."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Meus avós vão completar 50 anos de casamento este ano.",
+        "difficulty":  "hard",
+        "options":  [
+                        "My grandparents will celebrate 50 years of marriage this year.",
+                        "My grandparents will complete 50 years of marriage this year.",
+                        "My grandparents are celebrating 50 years of marriage.",
+                        "My grandparents celebrate 50 years of marriage this year."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "My grandparents will celebrate 50 years of marriage this year."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Você poderia me apresentar à sua namorada?",
+        "difficulty":  "hard",
+        "options":  [
+                        "Could you introduce me to your girlfriend?",
+                        "Could you introduce me your girlfriend?",
+                        "Would you introduce me to your girlfriend?",
+                        "Can you present me to your girlfriend?"
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Could you introduce me to your girlfriend?"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Apesar de vivermos longe, temos uma relação próxima.",
+        "difficulty":  "hard",
+        "options":  [
+                        "Despite living far away, we have a close relationship.",
+                        "Although we live far away, we have a close relationship.",
+                        "In spite of living far away, we have close relationship.",
+                        "Although living far away, we have close relationship."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Despite living far away, we have a close relationship."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Meu padrinho me deu um presente no meu aniversário.",
+        "difficulty":  "hard",
+        "options":  [
+                        "My godfather gave me a gift on my birthday.",
+                        "My godfather gave me a present on my birthday.",
+                        "My godfather gave to me a gift on my birthday.",
+                        "My godfather have given me a gift on my birthday."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "My godfather gave me a gift on my birthday."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Ela pediu desculpas por não ter ido ao casamento do seu primo.",
+        "difficulty":  "hard",
+        "options":  [
+                        "She apologized for not going to her cousin\u0027s wedding.",
+                        "She apologized for not to go to her cousin\u0027s wedding.",
+                        "She apologized for not going at her cousin wedding.",
+                        "She said sorry for not going to her cousin\u0027s wedding."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "She apologized for not going to her cousin\u0027s wedding."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Nosso relacionamento melhorou bastante desde então.",
+        "difficulty":  "hard",
+        "options":  [
+                        "Our relationship has improved a lot since then.",
+                        "Our relationship improved a lot since then.",
+                        "Our relationship has improved much since then.",
+                        "Our relationship improve a lot since then."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Our relationship has improved a lot since then."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Meu sogro não gosta quando chegamos atrasados.",
+        "difficulty":  "hard",
+        "options":  [
+                        "My father-in-law doesn\u0027t like when we arrive late.",
+                        "My father-in-law doesn\u0027t like arriving late.",
+                        "My father-in-law don\u0027t like when we arrive late.",
+                        "My father-in-law is not liking when we arrive late."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "My father-in-law doesn\u0027t like when we arrive late."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Nós nos vemos uma vez por mês quando conseguimos.",
+        "difficulty":  "hard",
+        "options":  [
+                        "We see each other once a month when we can.",
+                        "We are seeing each other once a month when we can.",
+                        "We see us once a month when we can.",
+                        "We are seeing ourselves once a month when we can."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "We see each other once a month when we can."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Minha madrasta é mais jovem que meu pai.",
+        "difficulty":  "hard",
+        "options":  [
+                        "My stepmother is younger than my father.",
+                        "My stepmother is more young than my father.",
+                        "My stepmother younger than my father.",
+                        "My stepmother is younger as my father."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "My stepmother is younger than my father."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Eles têm dois filhos em comum e ela tem um do relacionamento anterior.",
+        "difficulty":  "hard",
+        "options":  [
+                        "They have two children together and she has one from a previous relationship.",
+                        "They have two children in common and she has one from previous relationship.",
+                        "They have two common children and she have one from previous relationship.",
+                        "They are having two children together and she has one from before."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "They have two children together and she has one from a previous relationship."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Quando você se apaixonou pela primeira vez?",
+        "difficulty":  "hard",
+        "options":  [
+                        "When did you fall in love for the first time?",
+                        "When you fall in love for the first time?",
+                        "When did you fall in love the first time?",
+                        "When did you fallen in love for the first time?"
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "When did you fall in love for the first time?"
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Meu primo é engenheiro.",
+        "difficulty":  "easy",
+        "options":  [
+                        "My cousin is an engineer.",
+                        "My cousin are an engineer.",
+                        "My cousin is engineer.",
+                        "My cousins is an engineer."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "My cousin is an engineer."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Nós sempre comemoramos as datas importantes juntos.",
+        "difficulty":  "medium",
+        "options":  [
+                        "We always celebrate important dates together.",
+                        "We always are celebrating important dates together.",
+                        "We always celebrate the important dates together.",
+                        "We celebrate always important dates together."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "We always celebrate important dates together."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "familia_relacionamentos",
+        "type":  "translation",
+        "questionText":  "Minha família é muito importante para mim.",
+        "difficulty":  "medium",
+        "options":  [
+                        "My family is very important to me.",
+                        "My family are very important to me.",
+                        "My family is important very to me.",
+                        "My family important to me very."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "My family is very important to me."
+    }
+]

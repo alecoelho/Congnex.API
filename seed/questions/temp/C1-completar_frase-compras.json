@@ -1,0 +1,522 @@
+[
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Quando você compra algo online, é importante verificar a política de ___ antes de finalizar o pedido.",
+    "correctAnswer": "returns",
+    "options": ["returns", "receipts", "refunds", "rewards"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "O produto estava com defeito, então ela foi à loja para pedir um ___.",
+    "correctAnswer": "refund",
+    "options": ["refund", "receipt", "rebate", "return"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Ele sempre compara os preços antes de fazer uma ___ importante.",
+    "correctAnswer": "purchase",
+    "options": ["purchase", "payment", "profit", "product"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "A loja oferece um ___ de 20% para clientes que compram acima de determinado valor.",
+    "correctAnswer": "discount",
+    "options": ["discount", "deposit", "dividend", "deduction"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Você precisa guardar o ___ caso precise trocar o produto.",
+    "correctAnswer": "receipt",
+    "options": ["receipt", "refund", "record", "report"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "O supermercado está com vários itens em ___ nesta semana.",
+    "correctAnswer": "sale",
+    "options": ["sale", "stock", "supply", "service"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Ela adicionou vários produtos ao seu ___ antes de finalizar a compra online.",
+    "correctAnswer": "cart",
+    "options": ["cart", "case", "catalogue", "counter"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "O produto estava fora de ___, então tivemos que aguardar a reposição.",
+    "correctAnswer": "stock",
+    "options": ["stock", "sale", "supply", "shelf"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Muitas lojas oferecem frete ___ para pedidos acima de certo valor.",
+    "correctAnswer": "free",
+    "options": ["free", "fast", "flat", "fixed"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Ela sempre faz uma lista de ___ antes de ir ao mercado.",
+    "correctAnswer": "groceries",
+    "options": ["groceries", "goods", "gadgets", "gifts"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "O cartão de ___ permite parcelar as compras sem juros.",
+    "correctAnswer": "credit",
+    "options": ["credit", "cash", "coupon", "card"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "A loja faz entregas ___ no mesmo dia para pedidos feitos até o meio-dia.",
+    "correctAnswer": "express",
+    "options": ["express", "exclusive", "extended", "extra"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Antes de comprar, verifique se o produto possui ___ de qualidade.",
+    "correctAnswer": "warranty",
+    "options": ["warranty", "warning", "weight", "wholesale"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "O shopping tem várias lojas ___ com preços mais acessíveis do que as grifes.",
+    "correctAnswer": "outlet",
+    "options": ["outlet", "online", "outdoor", "ordinary"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Ele usou um ___ para obter desconto na sua próxima compra.",
+    "correctAnswer": "voucher",
+    "options": ["voucher", "vendor", "value", "version"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Clientes ___ recebem acesso antecipado às promoções exclusivas da loja.",
+    "correctAnswer": "loyal",
+    "options": ["loyal", "local", "legal", "large"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "A loja aceita vários métodos de ___, incluindo cartão e dinheiro.",
+    "correctAnswer": "payment",
+    "options": ["payment", "purchase", "profit", "product"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "O ___ do produto estava danificado, mas o item em si estava intacto.",
+    "correctAnswer": "packaging",
+    "options": ["packaging", "pricing", "posting", "placing"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "A marca lançou uma edição ___ do produto, disponível por tempo limitado.",
+    "correctAnswer": "limited",
+    "options": ["limited", "licensed", "listed", "linked"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "O consumidor exigiu a ___ total do valor pago após identificar uma prática enganosa.",
+    "correctAnswer": "reimbursement",
+    "options": ["reimbursement", "reinvestment", "redistribution", "renegotiation"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "A empresa adota uma estratégia de ___ dinâmica, ajustando os preços conforme a demanda.",
+    "correctAnswer": "pricing",
+    "options": ["pricing", "placing", "planning", "profiting"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "As avaliações dos clientes têm grande ___ sobre a decisão de compra de novos consumidores.",
+    "correctAnswer": "influence",
+    "options": ["influence", "inference", "income", "instance"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "O varejista decidiu ___ sua linha de produtos para atender a um público mais amplo.",
+    "correctAnswer": "expand",
+    "options": ["expand", "expose", "exhaust", "exploit"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "A tendência de ___ consciente está crescendo entre consumidores preocupados com o meio ambiente.",
+    "correctAnswer": "consumption",
+    "options": ["consumption", "competition", "commission", "construction"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "O produto foi retirado do mercado após uma ___ massiva por problemas de segurança.",
+    "correctAnswer": "recall",
+    "options": ["recall", "refund", "review", "release"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "O cliente negociou um ___ especial por comprar em grande quantidade.",
+    "correctAnswer": "bulk discount",
+    "options": ["bulk discount", "brand deal", "broad sale", "base price"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Muitos consumidores preferem marcas que demonstram ___ social e ambiental.",
+    "correctAnswer": "accountability",
+    "options": ["accountability", "affordability", "adaptability", "accessibility"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "A loja optou por uma estratégia ___ para competir com as grandes redes de varejo.",
+    "correctAnswer": "niche",
+    "options": ["niche", "neutral", "narrow", "natural"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "O preço ___ inclui todos os impostos e taxas adicionais.",
+    "correctAnswer": "all-inclusive",
+    "options": ["all-inclusive", "all-around", "all-purpose", "all-time"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "Ela ficou impressionada com o serviço ___ da loja de luxo.",
+    "correctAnswer": "bespoke",
+    "options": ["bespoke", "basic", "broad", "bundled"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "A plataforma de e-commerce adotou um modelo de ___ para oferecer benefícios exclusivos mensais.",
+    "correctAnswer": "subscription",
+    "options": ["subscription", "substitution", "sublicense", "submission"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "O varejista implementou um programa de ___ para incentivar compras recorrentes.",
+    "correctAnswer": "loyalty",
+    "options": ["loyalty", "liability", "listing", "liquidity"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "A empresa reduziu seus custos ao eliminar ___ na cadeia de distribuição.",
+    "correctAnswer": "intermediaries",
+    "options": ["intermediaries", "investments", "installments", "inventories"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "A tendência de ___ permite que os consumidores experimentem produtos antes de comprá-los.",
+    "correctAnswer": "try-before-you-buy",
+    "options": ["try-before-you-buy", "buy-one-get-one", "pay-as-you-go", "click-and-collect"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "O alto nível de ___ entre os concorrentes forçou a loja a reduzir suas margens de lucro.",
+    "correctAnswer": "competition",
+    "options": ["competition", "consumption", "confusion", "construction"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "A empresa usa análise de dados para personalizar a experiência de ___ de cada cliente.",
+    "correctAnswer": "shopping",
+    "options": ["shopping", "shipping", "sharing", "shifting"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "A marca ganhou vantagem ___ ao ser pioneira em sustentabilidade no setor de moda.",
+    "correctAnswer": "competitive",
+    "options": ["competitive", "comparable", "compatible", "complimentary"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "O comportamento do consumidor moderno é fortemente influenciado por ___ cognitivos que distorcem a percepção de valor.",
+    "correctAnswer": "biases",
+    "options": ["biases", "barriers", "benchmarks", "bundles"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "A estratégia de ___ de preços permite cobrar valores diferentes por segmentos distintos de consumidores.",
+    "correctAnswer": "differential",
+    "options": ["differential", "discretionary", "disruptive", "diversified"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "O conceito de ___ no varejo refere-se à capacidade de rastrear um produto desde sua origem até o consumidor final.",
+    "correctAnswer": "traceability",
+    "options": ["traceability", "transferability", "transactability", "transparency"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "A empresa adotou uma abordagem ___, integrando canais físicos e digitais para oferecer uma experiência de compra unificada.",
+    "correctAnswer": "omnichannel",
+    "options": ["omnichannel", "multichannel", "monochannel", "overchannel"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "A prática de ___ envolve oferecer produtos complementares para aumentar o valor médio por compra.",
+    "correctAnswer": "cross-selling",
+    "options": ["cross-selling", "cross-listing", "cross-loading", "cross-branding"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "O fenômeno de ___ ocorre quando os consumidores compram impulsivamente devido à escassez artificial criada pelo varejista.",
+    "correctAnswer": "scarcity-driven purchasing",
+    "options": ["scarcity-driven purchasing", "surplus-based buying", "demand-led stocking", "supply-chain hoarding"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "A empresa utiliza ___ como estratégia para estimular compras por impulso por meio de ofertas relâmpago.",
+    "correctAnswer": "flash sales",
+    "options": ["flash sales", "flat rates", "floor pricing", "freight deals"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "A alta taxa de ___ em compras online é um desafio significativo para os varejistas digitais.",
+    "correctAnswer": "cart abandonment",
+    "options": ["cart abandonment", "cash allocation", "cost assessment", "channel attribution"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "A empresa implementou um sistema de ___ para monitorar e otimizar sua cadeia de suprimentos em tempo real.",
+    "correctAnswer": "supply chain management",
+    "options": ["supply chain management", "stock cost monitoring", "sales cycle measurement", "service capacity mapping"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "O modelo de negócios ___ permite que os consumidores acessem produtos premium sem necessidade de compra direta.",
+    "correctAnswer": "subscription-based",
+    "options": ["subscription-based", "surplus-oriented", "supply-driven", "sales-focused"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "A transparência nos processos de ___ tornou-se um diferencial competitivo no mercado de moda sustentável.",
+    "correctAnswer": "sourcing",
+    "options": ["sourcing", "shipping", "scaling", "stocking"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "A estratégia de ___ permite que empresas cobrem preços mais altos com base no valor percebido, e não apenas no custo.",
+    "correctAnswer": "value-based pricing",
+    "options": ["value-based pricing", "volume-based selling", "variable cost budgeting", "vendor-led discounting"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "O aumento do ___ está redefinindo o varejo, com consumidores exigindo mais responsabilidade ambiental das marcas.",
+    "correctAnswer": "ethical consumerism",
+    "options": ["ethical consumerism", "economic competition", "efficient consumption", "extended commerce"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "A empresa investiu em tecnologia de ___ para personalizar recomendações de produtos com base no histórico de compras.",
+    "correctAnswer": "machine learning",
+    "options": ["machine learning", "manual labeling", "market listing", "mass marketing"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "completar_frase",
+    "topicDomain": "compras",
+    "type": "complete_sentence",
+    "questionText": "A prática de ___ permite que varejistas vendam produtos de terceiros por meio de sua plataforma sem manter estoque próprio.",
+    "correctAnswer": "dropshipping",
+    "options": ["dropshipping", "direct selling", "demand forecasting", "dynamic bundling"],
+    "difficulty": "hard"
+  }
+]

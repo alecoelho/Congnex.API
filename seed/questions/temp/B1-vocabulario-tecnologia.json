@@ -1,0 +1,522 @@
+[
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'email' em português?",
+    "correctAnswer": "Correio eletrônico",
+    "options": ["Correio eletrônico", "Mensagem postal", "Telefone móvel", "Câmera digital"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Como se chama o dispositivo que conecta o computador à internet?",
+    "correctAnswer": "Roteador",
+    "options": ["Roteador", "Impressora", "Scanner", "Monitor"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução de 'website'?",
+    "correctAnswer": "Sítio da web",
+    "options": ["Sítio da web", "Aplicativo móvel", "Sistema operacional", "Memória RAM"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que é um 'smartphone'?",
+    "correctAnswer": "Telefone inteligente",
+    "options": ["Telefone inteligente", "Computador portátil", "Tablet", "Fone de ouvido"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual é o termo em inglês para 'navegar na internet'?",
+    "correctAnswer": "Browse the internet",
+    "options": ["Browse the internet", "Download files", "Upload documents", "Install software"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'USB' em tecnologia?",
+    "correctAnswer": "Universal Serial Bus",
+    "options": ["Universal Serial Bus", "Universal System Boot", "Ultra Speed Binary", "Universal Software Bundle"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Como se chama a memória rápida do computador?",
+    "correctAnswer": "RAM",
+    "options": ["RAM", "HD", "SSD", "CPU"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que é um 'aplicativo'?",
+    "correctAnswer": "App ou programa de computador",
+    "options": ["App ou programa de computador", "Tipo de vírus", "Tipo de antivírus", "Câmera digital"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução de 'download'?",
+    "correctAnswer": "Descarregar/Baixar arquivos",
+    "options": ["Descarregar/Baixar arquivos", "Carregar arquivos", "Deletar arquivos", "Compartilhar arquivos"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Como se chama a tela do computador?",
+    "correctAnswer": "Monitor",
+    "options": ["Monitor", "Teclado", "Mouse", "Webcam"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'Wi-Fi'?",
+    "correctAnswer": "Rede sem fio",
+    "options": ["Rede sem fio", "Rede com fio", "Rede móvel", "Rede privada"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual é o termo para 'enviar arquivos para a internet'?",
+    "correctAnswer": "Upload",
+    "options": ["Upload", "Download", "Transfer", "Move"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que é um 'navegador da web'?",
+    "correctAnswer": "Software para acessar a internet",
+    "options": ["Software para acessar a internet", "Tipo de antivírus", "Tipo de roteador", "Tipo de servidor"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Como se chama o componente que processa dados do computador?",
+    "correctAnswer": "Processador",
+    "options": ["Processador", "Placa de vídeo", "Fonte de alimentação", "Dissipador de calor"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'password' em português?",
+    "correctAnswer": "Senha",
+    "options": ["Senha", "Usuário", "Login", "Perfil"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução de 'cache'?",
+    "correctAnswer": "Memória temporária",
+    "options": ["Memória temporária", "Memória permanente", "Memória removível", "Memória compartilhada"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que é um 'vírus de computador'?",
+    "correctAnswer": "Programa malicioso que danifica o sistema",
+    "options": ["Programa malicioso que danifica o sistema", "Tipo de antivírus", "Tipo de firewall", "Tipo de backup"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual palavra melhor descreve 'interface do usuário'?",
+    "correctAnswer": "GUI (Graphical User Interface)",
+    "options": ["GUI (Graphical User Interface)", "API (Application Protocol Interface)", "CPU (Central Processing Unit)", "GPU (Graphics Processing Unit)"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'backup' em contexto de tecnologia?",
+    "correctAnswer": "Cópia de segurança de dados",
+    "options": ["Cópia de segurança de dados", "Restauração de sistema", "Limpeza de arquivos", "Atualização de software"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Como se chama a velocidade de transferência de dados?",
+    "correctAnswer": "Bandwidth",
+    "options": ["Bandwidth", "Latency", "Throughput", "Jitter"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que é 'cloud computing'?",
+    "correctAnswer": "Computação em nuvem",
+    "options": ["Computação em nuvem", "Computação distribuída", "Computação quântica", "Computação paralela"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual é a função de um 'firewall'?",
+    "correctAnswer": "Proteger a rede contra acessos não autorizados",
+    "options": ["Proteger a rede contra acessos não autorizados", "Aumentar a velocidade da internet", "Armazenar dados na nuvem", "Fazer backup de arquivos"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'phishing'?",
+    "correctAnswer": "Tentativa de roubar dados pessoais por engano",
+    "options": ["Tentativa de roubar dados pessoais por engano", "Tipo de antivírus", "Tipo de criptografia", "Tipo de servidor"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Como se chama a segurança de conexão com criptografia?",
+    "correctAnswer": "SSL/TLS",
+    "options": ["SSL/TLS", "HTTP", "FTP", "SMTP"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que é 'open source'?",
+    "correctAnswer": "Software com código-fonte aberto e acessível",
+    "options": ["Software com código-fonte aberto e acessível", "Software gratuito", "Software comercial", "Software pirata"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'malware'?",
+    "correctAnswer": "Software malicioso",
+    "options": ["Software malicioso", "Software legítimo", "Software gratuito", "Software comercial"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'streaming'?",
+    "correctAnswer": "Transmissão contínua de dados",
+    "options": ["Transmissão contínua de dados", "Armazenamento de dados", "Compressão de dados", "Criptografia de dados"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Como se chama um programa que faz tarefas repetitivas automaticamente?",
+    "correctAnswer": "Script",
+    "options": ["Script", "Plugin", "Widget", "Module"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que é 'VPN'?",
+    "correctAnswer": "Rede privada virtual",
+    "options": ["Rede privada virtual", "Rede pública virtual", "Rede local virtual", "Rede global virtual"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual é o termo para atualizar software para uma versão mais recente?",
+    "correctAnswer": "Upgrade",
+    "options": ["Upgrade", "Downgrade", "Update", "Patch"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'API'?",
+    "correctAnswer": "Interface de programação de aplicação",
+    "options": ["Interface de programação de aplicação", "Programa de instalação automática", "Arquivo de informações", "Aplicação pública interativa"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Como se chama a memória de armazenamento permanente?",
+    "correctAnswer": "HD ou SSD",
+    "options": ["HD ou SSD", "RAM", "Cache", "ROM"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que é um 'servidor'?",
+    "correctAnswer": "Computador que fornece serviços para outros",
+    "options": ["Computador que fornece serviços para outros", "Tipo de antivírus", "Tipo de navegador", "Tipo de firewall"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual é a tradução de 'middleware'?",
+    "correctAnswer": "Software intermediário entre aplicações",
+    "options": ["Software intermediário entre aplicações", "Software de entrada de dados", "Software de saída de dados", "Software de armazenamento"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'latência'?",
+    "correctAnswer": "Atraso na transferência de dados",
+    "options": ["Atraso na transferência de dados", "Velocidade de conexão", "Qualidade do sinal", "Estabilidade da rede"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Como se chama o código escrito em linguagem de programação?",
+    "correctAnswer": "Código-fonte",
+    "options": ["Código-fonte", "Código binário", "Código de máquina", "Código hexadecimal"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que é 'refactoring' em desenvolvimento?",
+    "correctAnswer": "Reorganização do código sem alterar funcionalidade",
+    "options": ["Reorganização do código sem alterar funcionalidade", "Adição de novas funcionalidades", "Remoção de bugs", "Otimização de performance"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'containerization'?",
+    "correctAnswer": "Isolamento de aplicações em ambientes virtuais",
+    "options": ["Isolamento de aplicações em ambientes virtuais", "Armazenamento de dados", "Compressão de arquivos", "Criptografia de dados"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que é 'blockchain'?",
+    "correctAnswer": "Tecnologia de registro distribuído e criptografado",
+    "options": ["Tecnologia de registro distribuído e criptografado", "Tipo de antivírus", "Tipo de banco de dados", "Tipo de servidor"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Como se chama a arquitetura de software baseada em serviços?",
+    "correctAnswer": "Microserviços",
+    "options": ["Microserviços", "Monolítica", "Modular", "Distribuída"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'CI/CD'?",
+    "correctAnswer": "Integração contínua e entrega contínua",
+    "options": ["Integração contínua e entrega contínua", "Compilação e compressão de dados", "Criptografia e comunicação de dados", "Cache e controle de dados"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual é o termo para 'otimização de velocidade de carregamento'?",
+    "correctAnswer": "Performance tuning",
+    "options": ["Performance tuning", "Code review", "Unit testing", "System integration"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que é 'DevOps'?",
+    "correctAnswer": "Prática de integração entre desenvolvimento e operações",
+    "options": ["Prática de integração entre desenvolvimento e operações", "Desenvolvimento de software", "Operação de servidores", "Gerenciamento de dados"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Como se chama a tecnologia que permite máquinas 'aprender'?",
+    "correctAnswer": "Machine Learning",
+    "options": ["Machine Learning", "Deep Learning", "Artificial Intelligence", "Neural Networks"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que é 'Big Data'?",
+    "correctAnswer": "Análise de grandes volumes de dados",
+    "options": ["Análise de grandes volumes de dados", "Banco de dados relacional", "Armazenamento de dados em nuvem", "Transferência de dados"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual é o significado de 'redundância' em sistemas?",
+    "correctAnswer": "Duplicação de componentes para confiabilidade",
+    "options": ["Duplicação de componentes para confiabilidade", "Eliminação de código desnecessário", "Compressão de dados", "Encriptação de informações"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que é 'IoT' (Internet of Things)?",
+    "correctAnswer": "Internet das Coisas - dispositivos conectados",
+    "options": ["Internet das Coisas - dispositivos conectados", "Rede privada de computadores", "Protocolo de transferência de dados", "Software de comunicação"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Como se chama o teste automático de código?",
+    "correctAnswer": "Unit testing",
+    "options": ["Unit testing", "Integration testing", "Load testing", "Stress testing"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'deprecation'?",
+    "correctAnswer": "Marcação de código/função como obsoleta",
+    "options": ["Marcação de código/função como obsoleta", "Remoção de código", "Adição de código novo", "Atualização de código"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Qual é o termo para 'processo de desenvolvimento ágil'?",
+    "correctAnswer": "Agile methodology",
+    "options": ["Agile methodology", "Waterfall method", "Linear process", "Sequential approach"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que é 'Git' em desenvolvimento?",
+    "correctAnswer": "Sistema de controle de versão",
+    "options": ["Sistema de controle de versão", "Linguagem de programação", "Banco de dados", "Framework web"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "Como se chama a transferência de dados criptografados?",
+    "correctAnswer": "Encrypted transmission",
+    "options": ["Encrypted transmission", "Secure connection", "Protected data", "Safe protocol"],
+    "difficulty": "hard"
+  }
+]

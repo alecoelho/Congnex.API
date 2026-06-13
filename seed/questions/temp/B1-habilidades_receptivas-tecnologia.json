@@ -1,0 +1,502 @@
+﻿[
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Eu preciso baixar um arquivo da internet.",
+    "correctAnswer": "I need to download a file from the internet.",
+    "options": ["I need to upload a file to the internet.", "I need to delete a file from the internet.", "I need to create a file on the internet.", "I need to download a file from the internet."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Qual é sua senha de Wi-Fi?",
+    "correctAnswer": "What is your Wi-Fi password?",
+    "options": ["What is your internet speed?", "What is your Wi-Fi password?", "What is your email address?", "What is your computer name?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "O computador está muito lento hoje.",
+    "correctAnswer": "The computer is very slow today.",
+    "options": ["The computer is very fast today.", "The computer is broken today.", "The computer is old today.", "The computer is very slow today."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Você recebeu um email importante?",
+    "correctAnswer": "Did you receive an important email?",
+    "options": ["Did you send an important email?", "Did you delete an important email?", "Did you receive an important email?", "Did you read an important email?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Meu smartphone não está carregando.",
+    "correctAnswer": "My smartphone is not charging.",
+    "options": ["My smartphone is not working.", "My smartphone is not charging.", "My smartphone is lost.", "My smartphone is broken."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Preciso fazer login na minha conta.",
+    "correctAnswer": "I need to log in to my account.",
+    "options": ["I need to log out of my account.", "I need to delete my account.", "I need to log in to my account.", "I need to create a new account."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "A internet está com problema?",
+    "correctAnswer": "Is the internet having problems?",
+    "options": ["Is the internet fast?", "Is the internet having problems?", "Is the internet good?", "Is the internet safe?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Você tem as atualizações mais recentes?",
+    "correctAnswer": "Do you have the latest updates?",
+    "options": ["Do you have the oldest updates?", "Do you have the latest updates?", "Do you have the best software?", "Do you have new hardware?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Meu navegador está congelado.",
+    "correctAnswer": "My browser is frozen.",
+    "options": ["My browser is open.", "My browser is frozen.", "My browser is fast.", "My browser is closed."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Qual é o seu nome de usuário?",
+    "correctAnswer": "What is your username?",
+    "options": ["What is your password?", "What is your username?", "What is your email?", "What is your account?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Você ativou a autenticação de dois fatores?",
+    "correctAnswer": "Have you enabled two-factor authentication?",
+    "options": ["Have you disabled two-factor authentication?", "Have you enabled two-factor authentication?", "Have you forgotten two-factor authentication?", "Have you checked two-factor authentication?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "A página web não está carregando corretamente.",
+    "correctAnswer": "The webpage is not loading correctly.",
+    "options": ["The webpage is loading quickly.", "The webpage is not loading correctly.", "The webpage is very fast.", "The webpage is outdated."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Você precisa limpar o cache do seu navegador.",
+    "correctAnswer": "You need to clear your browser cache.",
+    "options": ["You need to update your browser.", "You need to clear your browser cache.", "You need to install your browser.", "You need to close your browser."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Meu aplicativo continua travando.",
+    "correctAnswer": "My application keeps crashing.",
+    "options": ["My application is loading.", "My application keeps crashing.", "My application is updating.", "My application is installing."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "O arquivo está salvo na nuvem.",
+    "correctAnswer": "The file is saved in the cloud.",
+    "options": ["The file is stored on the disk.", "The file is saved in the cloud.", "The file is deleted from the cloud.", "The file is backed up locally."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Você já fez backup de seus dados?",
+    "correctAnswer": "Have you backed up your data?",
+    "options": ["Have you restored your data?", "Have you backed up your data?", "Have you lost your data?", "Have you deleted your data?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Este website requer uma conexão segura.",
+    "correctAnswer": "This website requires a secure connection.",
+    "options": ["This website has a weak connection.", "This website requires a secure connection.", "This website is not secure.", "This website is very slow."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Você poderia compartilhar este arquivo comigo?",
+    "correctAnswer": "Could you share this file with me?",
+    "options": ["Could you download this file for me?", "Could you share this file with me?", "Could you save this file for me?", "Could you delete this file for me?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "A senha deve ter pelo menos 8 caracteres.",
+    "correctAnswer": "The password must have at least 8 characters.",
+    "options": ["The password must have 6 characters.", "The password must have at least 8 characters.", "The password must have 12 characters.", "The password must have no characters."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Qual é a velocidade de sua conexão de internet?",
+    "correctAnswer": "What is your internet connection speed?",
+    "options": ["What is your WiFi name?", "What is your internet connection speed?", "What is your bandwidth usage?", "What is your router model?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Você tem permissão para acessar este documento.",
+    "correctAnswer": "You have permission to access this document.",
+    "options": ["You don't have permission to access this document.", "You have permission to access this document.", "You need to request access to this document.", "You can modify this document."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "O seu antivírus está atualizado?",
+    "correctAnswer": "Is your antivirus up to date?",
+    "options": ["Is your antivirus installed?", "Is your antivirus up to date?", "Is your antivirus running?", "Is your antivirus working?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Este software é compatível com seu sistema operacional?",
+    "correctAnswer": "Is this software compatible with your operating system?",
+    "options": ["Is this software free?", "Is this software compatible with your operating system?", "Is this software updated?", "Is this software licensed?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Você precisa verificar suas configurações de privacidade.",
+    "correctAnswer": "You need to check your privacy settings.",
+    "options": ["You need to delete your privacy settings.", "You need to check your privacy settings.", "You need to update your privacy policy.", "You need to change your password settings."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Este é um link suspeito que não devemos abrir.",
+    "correctAnswer": "This is a suspicious link that we should not open.",
+    "options": ["This is a legitimate link that we should open.", "This is a suspicious link that we should not open.", "This is a safe link that we should open.", "This is a useful link that we should check."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Você recebeu um arquivo anexado ao email?",
+    "correctAnswer": "Did you receive an attachment in the email?",
+    "options": ["Did you send an attachment in the email?", "Did you receive an attachment in the email?", "Did you delete the attachment?", "Did you forward the attachment?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "A conexão de Wi-Fi foi desconectada.",
+    "correctAnswer": "The Wi-Fi connection was disconnected.",
+    "options": ["The Wi-Fi connection was established.", "The Wi-Fi connection was disconnected.", "The Wi-Fi connection was slow.", "The Wi-Fi connection was password protected."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Você deveria usar uma VPN para sua segurança online.",
+    "correctAnswer": "You should use a VPN for your online security.",
+    "options": ["You should delete a VPN for your online security.", "You should use a VPN for your online security.", "You should install a browser for your online security.", "You should update your VPN settings."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Você tem espaço suficiente em seu disco rígido?",
+    "correctAnswer": "Do you have enough space on your hard drive?",
+    "options": ["Do you have a hard drive?", "Do you have enough space on your hard drive?", "Do you want to increase your storage?", "Do you need a new hard drive?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Este site utiliza cookies para melhorar sua experiência.",
+    "correctAnswer": "This site uses cookies to improve your experience.",
+    "options": ["This site deletes cookies to improve your experience.", "This site uses cookies to improve your experience.", "This site blocks cookies for security.", "This site stores cookies on your device."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Você recebeu uma notificação de segurança importante.",
+    "correctAnswer": "You received an important security notification.",
+    "options": ["You received an important update.", "You received an important security notification.", "You received an important message.", "You received an important reminder."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "O arquivo está compactado para facilitar o envio.",
+    "correctAnswer": "The file is compressed to facilitate sending.",
+    "options": ["The file is encrypted to facilitate sending.", "The file is compressed to facilitate sending.", "The file is extracted to facilitate sending.", "The file is encoded to facilitate sending."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Você consegue sincronizar seus dispositivos na nuvem?",
+    "correctAnswer": "Can you synchronize your devices in the cloud?",
+    "options": ["Can you backup your devices in the cloud?", "Can you synchronize your devices in the cloud?", "Can you delete your devices in the cloud?", "Can you update your devices in the cloud?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "A taxa de carregamento desta página é muito lenta.",
+    "correctAnswer": "The loading speed of this page is very slow.",
+    "options": ["The loading speed of this page is very fast.", "The loading speed of this page is very slow.", "The loading speed of this page is average.", "The loading speed of this page is optimized."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Este firewall está bloqueando a conexão da rede.",
+    "correctAnswer": "This firewall is blocking the network connection.",
+    "options": ["This firewall is allowing the network connection.", "This firewall is blocking the network connection.", "This firewall is protecting the network.", "This firewall is monitoring the network."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Você pode acessar este arquivo apenas com a permissão do administrador.",
+    "correctAnswer": "You can only access this file with the administrator's permission.",
+    "options": ["You can access this file without permission.", "You can only access this file with the administrator's permission.", "You can share this file with anyone.", "You can delete this file anytime."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "O protocolo SSL garante uma transmissão segura de dados.",
+    "correctAnswer": "The SSL protocol ensures secure data transmission.",
+    "options": ["The SSL protocol prevents data transmission.", "The SSL protocol ensures secure data transmission.", "The SSL protocol encrypts all files.", "The SSL protocol blocks all connections."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Este malware pode danificar seus arquivos e privacidade.",
+    "correctAnswer": "This malware can damage your files and privacy.",
+    "options": ["This malware can protect your files and privacy.", "This malware can damage your files and privacy.", "This malware can improve your system.", "This malware can enhance your security."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "A largura de banda disponível é insuficiente para streaming.",
+    "correctAnswer": "The available bandwidth is insufficient for streaming.",
+    "options": ["The available bandwidth is excellent for streaming.", "The available bandwidth is insufficient for streaming.", "The available bandwidth is unlimited for streaming.", "The available bandwidth is optimized for streaming."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Você precisa atualizar seus drivers de hardware para melhorar o desempenho.",
+    "correctAnswer": "You need to update your hardware drivers to improve performance.",
+    "options": ["You need to uninstall your hardware drivers.", "You need to update your hardware drivers to improve performance.", "You need to delete your hardware drivers.", "You need to downgrade your hardware drivers."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "O servidor está sob manutenção e não está respondendo.",
+    "correctAnswer": "The server is under maintenance and is not responding.",
+    "options": ["The server is operational and responding well.", "The server is under maintenance and is not responding.", "The server is overloaded with requests.", "The server has been upgraded recently."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Este certificado digital expirou e precisa ser renovado.",
+    "correctAnswer": "This digital certificate has expired and needs to be renewed.",
+    "options": ["This digital certificate is valid and secure.", "This digital certificate has expired and needs to be renewed.", "This digital certificate has been recently installed.", "This digital certificate protects your system."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "A criptografia de ponta a ponta protege suas mensagens.",
+    "correctAnswer": "End-to-end encryption protects your messages.",
+    "options": ["Basic encryption protects your messages.", "End-to-end encryption protects your messages.", "No encryption is needed for messages.", "Server-side encryption protects your messages."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Você deveria usar uma autenticação multifator para maior segurança.",
+    "correctAnswer": "You should use multifactor authentication for greater security.",
+    "options": ["You should avoid multifactor authentication.", "You should use multifactor authentication for greater security.", "You should disable multifactor authentication.", "You should ignore multifactor authentication."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "O cache local armazena dados para carregamento mais rápido.",
+    "correctAnswer": "Local cache stores data for faster loading.",
+    "options": ["Local cache deletes data for faster loading.", "Local cache stores data for faster loading.", "Local cache removes data from the server.", "Local cache encrypts all data."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Este aplicativo requer permissões de acesso ao seu microfone.",
+    "correctAnswer": "This application requires access permissions to your microphone.",
+    "options": ["This application denies access to your microphone.", "This application requires access permissions to your microphone.", "This application disables your microphone.", "This application records your microphone automatically."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "A redundância de dados garante que nenhuma informação seja perdida.",
+    "correctAnswer": "Data redundancy ensures that no information is lost.",
+    "options": ["Data redundancy eliminates duplicates.", "Data redundancy ensures that no information is lost.", "Data redundancy reduces storage space.", "Data redundancy slows down systems."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "Você pode restaurar os arquivos deletados?",
+    "correctAnswer": "Can you restore the deleted files?",
+    "options": ["Can you delete the files again?", "Can you restore the deleted files?", "Can you backup the files?", "Can you move the files?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "A latência da rede afeta a velocidade das aplicações.",
+    "correctAnswer": "Network latency affects the speed of applications.",
+    "options": ["Network latency improves the speed of applications.", "Network latency affects the speed of applications.", "Network latency has no impact on speed.", "Network latency only affects downloads."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "tecnologia",
+    "type": "translation",
+    "questionText": "O backup em nuvem oferece proteção contra perda de dados.",
+    "correctAnswer": "Cloud backup offers protection against data loss.",
+    "options": ["Cloud backup causes data loss.", "Cloud backup offers protection against data loss.", "Cloud backup is unnecessary.", "Cloud backup only stores old files."],
+    "difficulty": "medium"
+  }
+]

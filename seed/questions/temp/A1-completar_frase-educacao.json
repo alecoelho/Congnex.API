@@ -1,0 +1,512 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'I go to ___ every day.'",
+    "correctAnswer": "school",
+    "options": ["school", "market", "hospital", "park"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'She reads a ___ in class.'",
+    "correctAnswer": "book",
+    "options": ["book", "door", "chair", "lamp"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'The ___ writes on the board.'",
+    "correctAnswer": "teacher",
+    "options": ["teacher", "driver", "cook", "doctor"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'I write with a ___.'",
+    "correctAnswer": "pen",
+    "options": ["pen", "cup", "shoe", "fork"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'We sit at a ___ in school.'",
+    "correctAnswer": "desk",
+    "options": ["desk", "bed", "tree", "wall"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'I ___ English at school.'",
+    "correctAnswer": "learn",
+    "options": ["learn", "eat", "sleep", "run"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'The ___ has many books.'",
+    "correctAnswer": "library",
+    "options": ["library", "kitchen", "garden", "garage"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'I use a ___ to draw.'",
+    "correctAnswer": "pencil",
+    "options": ["pencil", "bottle", "plate", "bag"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'We ___ in the classroom.'",
+    "correctAnswer": "study",
+    "options": ["study", "swim", "drive", "cook"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'The ___ asks a question.'",
+    "correctAnswer": "student",
+    "options": ["student", "pilot", "farmer", "baker"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'I put my books in my ___.'",
+    "correctAnswer": "backpack",
+    "options": ["backpack", "fridge", "clock", "mirror"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'She ___ her homework after school.'",
+    "correctAnswer": "does",
+    "options": ["does", "eats", "drives", "sings"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'We have ___ at twelve o'clock.'",
+    "correctAnswer": "lunch",
+    "options": ["lunch", "class", "sleep", "rain"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'The ___ starts at eight in the morning.'",
+    "correctAnswer": "class",
+    "options": ["class", "night", "game", "party"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'I ___ my teacher.'",
+    "correctAnswer": "listen to",
+    "options": ["listen to", "jump over", "eat with", "sleep on"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'He ___ his name on the paper.'",
+    "correctAnswer": "writes",
+    "options": ["writes", "drinks", "kicks", "flies"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'The teacher gives us a ___.'",
+    "correctAnswer": "test",
+    "options": ["test", "river", "cloud", "shoe"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'I ___ the answer on the board.'",
+    "correctAnswer": "see",
+    "options": ["see", "smell", "taste", "break"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'She is a new ___ in our class.'",
+    "correctAnswer": "student",
+    "options": ["student", "window", "flower", "bottle"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'We ___ our hands before we speak.'",
+    "correctAnswer": "raise",
+    "options": ["raise", "wash", "paint", "close"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'The teacher ___ a question to the class.'",
+    "correctAnswer": "asks",
+    "options": ["asks", "drinks", "builds", "finds"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'I need a ___ to cut the paper.'",
+    "correctAnswer": "scissors",
+    "options": ["scissors", "spoon", "pillow", "sock"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'He ___ his homework every night.'",
+    "correctAnswer": "finishes",
+    "options": ["finishes", "breaks", "forgets", "loses"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'Our ___ room is very big.'",
+    "correctAnswer": "classroom",
+    "options": ["classroom", "bathroom", "bedroom", "living room"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'I ___ to school by bus.'",
+    "correctAnswer": "go",
+    "options": ["go", "fly", "swim", "fall"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'The teacher ___ us new words.'",
+    "correctAnswer": "teaches",
+    "options": ["teaches", "buys", "breaks", "hides"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'I ___ my pencil in my bag.'",
+    "correctAnswer": "keep",
+    "options": ["keep", "cook", "throw", "paint"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'We play in the ___ at break time.'",
+    "correctAnswer": "playground",
+    "options": ["playground", "kitchen", "bathroom", "garage"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'She ___ very well in her exam.'",
+    "correctAnswer": "does",
+    "options": ["does", "runs", "eats", "sleeps"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'I need ___ to glue the paper.'",
+    "correctAnswer": "glue",
+    "options": ["glue", "salt", "milk", "sand"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'The ___ tells us to sit down.'",
+    "correctAnswer": "teacher",
+    "options": ["teacher", "waiter", "guard", "singer"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'He ___ the book on the shelf.'",
+    "correctAnswer": "puts",
+    "options": ["puts", "drinks", "kicks", "opens"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'We ___ letters of the alphabet.'",
+    "correctAnswer": "learn",
+    "options": ["learn", "build", "drive", "carry"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'The ___ room is next to our class.'",
+    "correctAnswer": "art",
+    "options": ["art", "sleep", "meat", "rain"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'I ___ the answer in my notebook.'",
+    "correctAnswer": "write",
+    "options": ["write", "cut", "hide", "drop"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'The school has a big ___.'",
+    "correctAnswer": "gym",
+    "options": ["gym", "ocean", "forest", "desert"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'She ___ the words from the board.'",
+    "correctAnswer": "copies",
+    "options": ["copies", "sells", "catches", "breaks"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'The teacher ___ the students with a smile.'",
+    "correctAnswer": "greets",
+    "options": ["greets", "bakes", "repairs", "plants"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'I ___ my notes before the test.'",
+    "correctAnswer": "review",
+    "options": ["review", "destroy", "ignore", "paint"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'We ___ in groups to do the project.'",
+    "correctAnswer": "work",
+    "options": ["work", "swim", "fly", "shout"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'She ___ the new student to the class.'",
+    "correctAnswer": "introduces",
+    "options": ["introduces", "repairs", "collects", "bakes"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'The students ___ their projects on the wall.'",
+    "correctAnswer": "display",
+    "options": ["display", "eat", "drive", "wash"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'I feel ___ when I get a good grade.'",
+    "correctAnswer": "proud",
+    "options": ["proud", "hungry", "cold", "lost"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'He ___ the correct answer to the question.'",
+    "correctAnswer": "gives",
+    "options": ["gives", "burns", "closes", "drops"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'The ___ explains the lesson clearly.'",
+    "correctAnswer": "instructor",
+    "options": ["instructor", "mechanic", "gardener", "cashier"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'We use a ___ to measure lines.'",
+    "correctAnswer": "ruler",
+    "options": ["ruler", "kettle", "blanket", "ladder"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'The ___ shows the days of the week.'",
+    "correctAnswer": "calendar",
+    "options": ["calendar", "pillow", "towel", "blanket"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'She ___ the right page in her book.'",
+    "correctAnswer": "finds",
+    "options": ["finds", "melts", "bakes", "jumps"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'The students ___ their hands to answer.'",
+    "correctAnswer": "raise",
+    "options": ["raise", "kick", "fold", "break"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'He ___ a new word in his vocabulary notebook.'",
+    "correctAnswer": "records",
+    "options": ["records", "paints", "repairs", "carries"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Escolha a palavra que completa corretamente a frase: 'Our school has a ___ where we borrow books.'",
+    "correctAnswer": "library",
+    "options": ["library", "stadium", "factory", "airport"],
+    "difficulty": "hard"
+  }
+]

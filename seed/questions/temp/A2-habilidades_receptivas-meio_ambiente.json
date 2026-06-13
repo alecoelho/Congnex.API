@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "O planeta Terra está aquecendo.",
+        "difficulty":  "easy",
+        "options":  [
+                        "The planet Earth is cooling down.",
+                        "The planet Earth is warming up.",
+                        "The planet Earth is staying the same.",
+                        "The planet Earth is getting smaller."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "The planet Earth is warming up."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "As árvores produzem oxigênio.",
+        "difficulty":  "easy",
+        "options":  [
+                        "Trees produce carbon dioxide.",
+                        "Trees produce oxygen.",
+                        "Trees produce water.",
+                        "Trees produce soil."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Trees produce oxygen."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A água é um recurso natural importante.",
+        "difficulty":  "easy",
+        "options":  [
+                        "Water is a man-made product.",
+                        "Water is an important natural resource.",
+                        "Water is not needed by humans.",
+                        "Water is a waste material."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Water is an important natural resource."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Nós devemos reciclar o lixo.",
+        "difficulty":  "easy",
+        "options":  [
+                        "We should burn the garbage.",
+                        "We should recycle the garbage.",
+                        "We should throw away all garbage.",
+                        "We should ignore the garbage."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "We should recycle the garbage."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "O lixo plástico prejudica o oceano.",
+        "difficulty":  "easy",
+        "options":  [
+                        "Plastic waste helps the ocean.",
+                        "Plastic waste harms the ocean.",
+                        "Plastic waste cleans the ocean.",
+                        "Plastic waste is good for fish."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Plastic waste harms the ocean."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A energia solar é limpa.",
+        "difficulty":  "easy",
+        "options":  [
+                        "Solar energy is dirty.",
+                        "Solar energy is clean.",
+                        "Solar energy is expensive always.",
+                        "Solar energy does not exist."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Solar energy is clean."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Os animais vivem na floresta.",
+        "difficulty":  "easy",
+        "options":  [
+                        "Animals live in the city.",
+                        "Animals live in the forest.",
+                        "Animals live in the sky.",
+                        "Animals live in the water only."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Animals live in the forest."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "As flores precisam de luz solar.",
+        "difficulty":  "easy",
+        "options":  [
+                        "Flowers need darkness.",
+                        "Flowers need sunlight.",
+                        "Flowers need cold.",
+                        "Flowers need fire."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Flowers need sunlight."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "O vento move as folhas das árvores.",
+        "difficulty":  "easy",
+        "options":  [
+                        "The sun moves the leaves of the trees.",
+                        "The wind moves the leaves of the trees.",
+                        "The rain moves the leaves of the trees.",
+                        "The snow moves the leaves of the trees."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "The wind moves the leaves of the trees."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A chuva é importante para as plantas.",
+        "difficulty":  "easy",
+        "options":  [
+                        "Snow is important for plants.",
+                        "Rain is important for plants.",
+                        "Wind is important for plants.",
+                        "Heat is important for plants only."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Rain is important for plants."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "O solo é fundamental para a vida das plantas.",
+        "difficulty":  "easy",
+        "options":  [
+                        "Stone is fundamental for plant life.",
+                        "Soil is fundamental for plant life.",
+                        "Sand is fundamental for plant life.",
+                        "Plastic is fundamental for plant life."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Soil is fundamental for plant life."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Os carros emitem gases poluentes.",
+        "difficulty":  "easy",
+        "options":  [
+                        "Cars emit clean air.",
+                        "Cars emit polluting gases.",
+                        "Cars emit water.",
+                        "Cars emit oxygen."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Cars emit polluting gases."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "O lixo pode ser separado por tipo.",
+        "difficulty":  "easy",
+        "options":  [
+                        "Garbage cannot be separated.",
+                        "Garbage can be separated by type.",
+                        "Garbage is always mixed.",
+                        "Garbage should not be touched."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Garbage can be separated by type."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A floresta tropical é importante para o planeta.",
+        "difficulty":  "easy",
+        "options":  [
+                        "The tropical forest is not important.",
+                        "The tropical forest is important for the planet.",
+                        "The tropical forest is bad for the planet.",
+                        "The tropical forest does not produce oxygen."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "The tropical forest is important for the planet."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Os poluentes danificam o ar e a água.",
+        "difficulty":  "easy",
+        "options":  [
+                        "Pollutants clean the air and water.",
+                        "Pollutants damage the air and water.",
+                        "Pollutants are good for nature.",
+                        "Pollutants do not affect the environment."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Pollutants damage the air and water."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "As baterias usadas devem ser recicladas.",
+        "difficulty":  "easy",
+        "options":  [
+                        "Used batteries should be thrown away.",
+                        "Used batteries should be recycled.",
+                        "Used batteries are not dangerous.",
+                        "Used batteries should be buried."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Used batteries should be recycled."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Não jogue lixo na rua.",
+        "difficulty":  "easy",
+        "options":  [
+                        "Don\u0027t throw trash on the street.",
+                        "Don\u0027t put trash in the bag.",
+                        "Don\u0027t clean the street.",
+                        "Don\u0027t carry trash home."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Don\u0027t throw trash on the street."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A biodiversidade é a variedade de seres vivos.",
+        "difficulty":  "medium",
+        "options":  [
+                        "Biodiversity is the lack of living beings.",
+                        "Biodiversity is the variety of living beings.",
+                        "Biodiversity is only about plants.",
+                        "Biodiversity is not important."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Biodiversity is the variety of living beings."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "O aquecimento global causa mudanças no clima.",
+        "difficulty":  "medium",
+        "options":  [
+                        "Global warming prevents climate changes.",
+                        "Global warming causes changes in the climate.",
+                        "Global warming helps the planet.",
+                        "Global warming is not real."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Global warming causes changes in the climate."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "O combustível fóssil contamina o ambiente.",
+        "difficulty":  "medium",
+        "options":  [
+                        "Fossil fuel is clean.",
+                        "Fossil fuel contaminates the environment.",
+                        "Fossil fuel is renewable.",
+                        "Fossil fuel is made of water."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Fossil fuel contaminates the environment."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A conservação dos recursos naturais é essencial.",
+        "difficulty":  "medium",
+        "options":  [
+                        "Conservation of natural resources is not important.",
+                        "Conservation of natural resources is essential.",
+                        "Conservation of natural resources is harmful.",
+                        "Conservation of natural resources is impossible."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Conservation of natural resources is essential."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "O desmatamento reduz a quantidade de árvores.",
+        "difficulty":  "medium",
+        "options":  [
+                        "Deforestation increases trees.",
+                        "Deforestation reduces the number of trees.",
+                        "Deforestation helps forests.",
+                        "Deforestation creates new trees."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Deforestation reduces the number of trees."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Os ecossistemas são comunidades de seres vivos.",
+        "difficulty":  "medium",
+        "options":  [
+                        "Ecosystems are only plants.",
+                        "Ecosystems are communities of living beings.",
+                        "Ecosystems do not have animals.",
+                        "Ecosystems are not natural."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Ecosystems are communities of living beings."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A energia renovável vem de fontes naturais.",
+        "difficulty":  "medium",
+        "options":  [
+                        "Renewable energy comes from fossil fuels.",
+                        "Renewable energy comes from natural sources.",
+                        "Renewable energy does not exist.",
+                        "Renewable energy is unlimited always."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Renewable energy comes from natural sources."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Os oceanos cobrem a maior parte da Terra.",
+        "difficulty":  "medium",
+        "options":  [
+                        "Oceans cover a small part of the Earth.",
+                        "Oceans cover most of the Earth.",
+                        "Oceans do not exist on Earth.",
+                        "Oceans cover only one percent of the Earth."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Oceans cover most of the Earth."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A cadeia alimentar conecta diferentes organismos.",
+        "difficulty":  "medium",
+        "options":  [
+                        "The food chain disconnects organisms.",
+                        "The food chain connects different organisms.",
+                        "The food chain is not important.",
+                        "The food chain only has plants."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "The food chain connects different organisms."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "O efeito estufa retém o calor na atmosfera.",
+        "difficulty":  "medium",
+        "options":  [
+                        "The greenhouse effect releases heat to space.",
+                        "The greenhouse effect traps heat in the atmosphere.",
+                        "The greenhouse effect does not exist.",
+                        "The greenhouse effect cools the planet."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "The greenhouse effect traps heat in the atmosphere."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "As espécies em perigo precisam de proteção.",
+        "difficulty":  "medium",
+        "options":  [
+                        "Endangered species do not need help.",
+                        "Endangered species need protection.",
+                        "Endangered species are safe.",
+                        "Endangered species do not exist."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Endangered species need protection."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Os rios fornecem água para beber e agricultura.",
+        "difficulty":  "medium",
+        "options":  [
+                        "Rivers provide only salt water.",
+                        "Rivers provide water for drinking and agriculture.",
+                        "Rivers do not provide water.",
+                        "Rivers provide only for industry."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Rivers provide water for drinking and agriculture."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A sustentabilidade equilibra economia e ambiente.",
+        "difficulty":  "medium",
+        "options":  [
+                        "Sustainability ignores the environment.",
+                        "Sustainability balances economy and environment.",
+                        "Sustainability only focuses on economy.",
+                        "Sustainability is not possible."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Sustainability balances economy and environment."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Os micro-organismos decompõem a matéria orgânica.",
+        "difficulty":  "medium",
+        "options":  [
+                        "Microorganisms create organic matter.",
+                        "Microorganisms decompose organic matter.",
+                        "Microorganisms do not exist.",
+                        "Microorganisms harm plants."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Microorganisms decompose organic matter."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Precisamos economizar energia em casa.",
+        "difficulty":  "medium",
+        "options":  [
+                        "We need to save energy at home.",
+                        "We want to use energy at home.",
+                        "We need to save water at home.",
+                        "We need to produce energy at home."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "We need to save energy at home."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Os animais selvagens vivem na floresta.",
+        "difficulty":  "medium",
+        "options":  [
+                        "Wild animals live in the forest.",
+                        "Wild animals sleep in the forest.",
+                        "Domestic animals live in the forest.",
+                        "Wild animals live in the jungle."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Wild animals live in the forest."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "O desmatamento destrói o habitat dos animais.",
+        "difficulty":  "medium",
+        "options":  [
+                        "Deforestation destroys animal habitats.",
+                        "Deforestation creates animal habitats.",
+                        "Pollution destroys animal habitats.",
+                        "Deforestation protects animal habitats."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Deforestation destroys animal habitats."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A poluição do ar afeta a saúde dos seres vivos.",
+        "difficulty":  "hard",
+        "options":  [
+                        "Air pollution improves health.",
+                        "Air pollution affects the health of living beings.",
+                        "Air pollution does not exist.",
+                        "Air pollution is beneficial to all organisms."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Air pollution affects the health of living beings."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "As mudanças climáticas afetam padrões de precipitação.",
+        "difficulty":  "hard",
+        "options":  [
+                        "Climate changes have no effects.",
+                        "Climate changes affect precipitation patterns.",
+                        "Climate changes only cause heat.",
+                        "Climate changes are beneficial."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Climate changes affect precipitation patterns."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A fotossíntese transforma luz solar em energia química.",
+        "difficulty":  "hard",
+        "options":  [
+                        "Photosynthesis produces only heat.",
+                        "Photosynthesis transforms sunlight into chemical energy.",
+                        "Photosynthesis does not involve light.",
+                        "Photosynthesis is only in animals."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Photosynthesis transforms sunlight into chemical energy."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A poluição da água reduz os recursos hídricos disponíveis.",
+        "difficulty":  "hard",
+        "options":  [
+                        "Water pollution creates clean water.",
+                        "Water pollution reduces available water resources.",
+                        "Water pollution helps aquatic life.",
+                        "Water pollution improves water quality."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Water pollution reduces available water resources."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "As florestas atuam como pulmões do planeta.",
+        "difficulty":  "hard",
+        "options":  [
+                        "Forests act as the heart of the planet.",
+                        "Forests act as the lungs of the planet.",
+                        "Forests are not important.",
+                        "Forests produce only carbon dioxide."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Forests act as the lungs of the planet."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "O ciclo da água envolve evaporação e precipitação.",
+        "difficulty":  "hard",
+        "options":  [
+                        "The water cycle has only one stage.",
+                        "The water cycle involves evaporation and precipitation.",
+                        "The water cycle does not exist.",
+                        "The water cycle produces only ice."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "The water cycle involves evaporation and precipitation."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A degradação do solo afeta a produtividade agrícola.",
+        "difficulty":  "hard",
+        "options":  [
+                        "Soil degradation improves crops.",
+                        "Soil degradation affects agricultural productivity.",
+                        "Soil degradation is beneficial.",
+                        "Soil degradation does not exist."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Soil degradation affects agricultural productivity."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "Os gases de efeito estufa aumentam a temperatura global.",
+        "difficulty":  "hard",
+        "options":  [
+                        "Greenhouse gases decrease temperature.",
+                        "Greenhouse gases increase global temperature.",
+                        "Greenhouse gases do not affect temperature.",
+                        "Greenhouse gases cool the planet."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Greenhouse gases increase global temperature."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A perda de habitat coloca animais em risco.",
+        "difficulty":  "hard",
+        "options":  [
+                        "Loss of habitat protects animals.",
+                        "Loss of habitat puts animals at risk.",
+                        "Loss of habitat helps species.",
+                        "Loss of habitat has no effects."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Loss of habitat puts animals at risk."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A energia geotérmica utiliza o calor interno da Terra.",
+        "difficulty":  "hard",
+        "options":  [
+                        "Geothermal energy uses solar heat.",
+                        "Geothermal energy uses the internal heat of the Earth.",
+                        "Geothermal energy is not renewable.",
+                        "Geothermal energy comes from wind."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Geothermal energy uses the internal heat of the Earth."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A reciclagem reduz a quantidade de lixo em aterros.",
+        "difficulty":  "hard",
+        "options":  [
+                        "Recycling increases landfill waste.",
+                        "Recycling reduces the amount of waste in landfills.",
+                        "Recycling creates more trash.",
+                        "Recycling does not help the environment."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Recycling reduces the amount of waste in landfills."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A acidificação oceânica prejudica a vida marinha.",
+        "difficulty":  "hard",
+        "options":  [
+                        "Ocean acidification helps fish.",
+                        "Ocean acidification harms marine life.",
+                        "Ocean acidification is beneficial.",
+                        "Ocean acidification does not exist."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Ocean acidification harms marine life."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A absorção de carbono pelas florestas mitiga as mudanças climáticas.",
+        "difficulty":  "hard",
+        "options":  [
+                        "Carbon absorption increases climate change.",
+                        "Carbon absorption by forests mitigates climate changes.",
+                        "Carbon absorption harms forests.",
+                        "Carbon absorption is not important."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Carbon absorption by forests mitigates climate changes."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "A erosão do solo é causada pelo vento e pela água.",
+        "difficulty":  "hard",
+        "options":  [
+                        "Soil erosion is caused by plants.",
+                        "Soil erosion is caused by wind and water.",
+                        "Soil erosion improves soil quality.",
+                        "Soil erosion is not a problem."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Soil erosion is caused by wind and water."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "As áreas protegidas preservam a biodiversidade.",
+        "difficulty":  "hard",
+        "options":  [
+                        "Protected areas harm biodiversity.",
+                        "Protected areas preserve biodiversity.",
+                        "Protected areas have no purpose.",
+                        "Protected areas are not needed."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Protected areas preserve biodiversity."
+    },
+    {
+        "cefrLevel":  "A2",
+        "topicDomain":  "meio_ambiente",
+        "type":  "translation",
+        "questionText":  "O uso excessivo de pesticidas contamina o solo e a água.",
+        "difficulty":  "hard",
+        "options":  [
+                        "Pesticides help agriculture only.",
+                        "Excessive use of pesticides contaminates soil and water.",
+                        "Pesticides are completely safe.",
+                        "Pesticides improve water quality."
+                    ],
+        "questionType":  "habilidades_receptivas",
+        "correctAnswer":  "Excessive use of pesticides contaminates soil and water."
+    }
+]

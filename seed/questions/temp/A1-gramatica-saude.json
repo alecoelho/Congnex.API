@@ -1,0 +1,532 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'I ___ a doctor.' (Eu sou um médico.)",
+    "correctAnswer": "am",
+    "options": ["am", "is", "are", "be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'She ___ sick today.' (Ela está doente hoje.)",
+    "correctAnswer": "is",
+    "options": ["is", "am", "are", "be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'I have ___ headache.' (Eu tenho uma dor de cabeça.)",
+    "correctAnswer": "a",
+    "options": ["a", "an", "the", "some"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'They ___ at the hospital.' (Eles estão no hospital.)",
+    "correctAnswer": "are",
+    "options": ["are", "is", "am", "be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'He ___ water every day.' (Ele bebe água todo dia.)",
+    "correctAnswer": "drinks",
+    "options": ["drinks", "drink", "drinking", "drinked"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'I ___ an apple every morning.' (Eu como uma maçã toda manhã.)",
+    "correctAnswer": "eat",
+    "options": ["eat", "eats", "eating", "ate"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The nurse ___ kind.' (A enfermeira é gentil.)",
+    "correctAnswer": "is",
+    "options": ["is", "are", "am", "were"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'I go ___ the doctor.' (Eu vou ao médico.)",
+    "correctAnswer": "to",
+    "options": ["to", "at", "in", "on"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'She has ___ earache.' (Ela tem uma dor de ouvido.)",
+    "correctAnswer": "an",
+    "options": ["an", "a", "the", "some"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'We ___ tired after exercise.' (Nós estamos cansados depois do exercício.)",
+    "correctAnswer": "are",
+    "options": ["are", "is", "am", "be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'I ___ my medicine every night.' (Eu tomo meu remédio toda noite.)",
+    "correctAnswer": "take",
+    "options": ["take", "takes", "taking", "took"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The hospital ___ big.' (O hospital é grande.)",
+    "correctAnswer": "is",
+    "options": ["is", "are", "am", "was"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'He ___ a stomachache.' (Ele tem dor de barriga.)",
+    "correctAnswer": "has",
+    "options": ["has", "have", "is", "are"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'I feel ___ today.' (Eu me sinto bem hoje.)",
+    "correctAnswer": "good",
+    "options": ["good", "goods", "gooding", "gooder"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'She ___ to the gym on Mondays.' (Ela vai à academia nas segundas-feiras.)",
+    "correctAnswer": "goes",
+    "options": ["goes", "go", "going", "gone"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'I ___ not sick.' (Eu não estou doente.)",
+    "correctAnswer": "am",
+    "options": ["am", "is", "are", "be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The pills ___ on the table.' (Os comprimidos estão na mesa.)",
+    "correctAnswer": "are",
+    "options": ["are", "is", "am", "be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'Do you ___ a fever?' (Você tem febre?)",
+    "correctAnswer": "have",
+    "options": ["have", "has", "having", "had"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'She ___ not eat sugar.' (Ela não come açúcar.)",
+    "correctAnswer": "does",
+    "options": ["does", "do", "is", "are"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'I sleep ___ eight hours.' (Eu durmo por oito horas.)",
+    "correctAnswer": "for",
+    "options": ["for", "at", "in", "of"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The doctor ___ with the patient now.' (O médico está falando com o paciente agora.)",
+    "correctAnswer": "is talking",
+    "options": ["is talking", "talks", "talk", "are talking"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'I ___ exercise three times a week.' (Eu faço exercício três vezes por semana.)",
+    "correctAnswer": "do",
+    "options": ["do", "does", "am", "is"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'He ___ running in the park.' (Ele está correndo no parque.)",
+    "correctAnswer": "is",
+    "options": ["is", "are", "am", "be"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'You ___ drink more water.' (Você deve beber mais água.)",
+    "correctAnswer": "should",
+    "options": ["should", "shoulds", "are", "do"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: '___ she have a cold?' (Ela está resfriada?)",
+    "correctAnswer": "Does",
+    "options": ["Does", "Is", "Are", "Do"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'I wash my hands ___ meals.' (Eu lavo as mãos antes das refeições.)",
+    "correctAnswer": "before",
+    "options": ["before", "after", "during", "between"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The children ___ vitamins every day.' (As crianças tomam vitaminas todo dia.)",
+    "correctAnswer": "take",
+    "options": ["take", "takes", "is taking", "taken"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'My leg ___.' (Minha perna dói.)",
+    "correctAnswer": "hurts",
+    "options": ["hurts", "hurt", "hurting", "is hurt"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'I ___ sleeping now because I am tired.' (Eu estou dormindo agora porque estou cansado.)",
+    "correctAnswer": "am",
+    "options": ["am", "is", "are", "be"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'We ___ go to the dentist twice a year.' (Nós vamos ao dentista duas vezes por ano.)",
+    "correctAnswer": "go",
+    "options": ["go", "goes", "going", "went"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The patient ___ in bed.' (O paciente está na cama.)",
+    "correctAnswer": "is",
+    "options": ["is", "are", "am", "has"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'Do you ___ well?' (Você se sente bem?)",
+    "correctAnswer": "feel",
+    "options": ["feel", "feels", "feeling", "felt"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'She ___ her teeth twice a day.' (Ela escova os dentes duas vezes por dia.)",
+    "correctAnswer": "brushes",
+    "options": ["brushes", "brush", "brushing", "brushed"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'I need ___ see a doctor.' (Eu preciso ver um médico.)",
+    "correctAnswer": "to",
+    "options": ["to", "at", "for", "in"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: '___ you have any allergies?' (Você tem alguma alergia?)",
+    "correctAnswer": "Do",
+    "options": ["Do", "Are", "Is", "Have"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The medicine ___ bad.' (O remédio tem gosto ruim.)",
+    "correctAnswer": "tastes",
+    "options": ["tastes", "taste", "tasting", "tasted"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'He ___ not like vegetables.' (Ele não gosta de vegetais.)",
+    "correctAnswer": "does",
+    "options": ["does", "do", "is", "has"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'I am ___ better today.' (Eu estou me sentindo melhor hoje.)",
+    "correctAnswer": "feeling",
+    "options": ["feeling", "feel", "feels", "felt"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The nurse ___ the patient's temperature.' (A enfermeira está verificando a temperatura do paciente.)",
+    "correctAnswer": "is checking",
+    "options": ["is checking", "checks", "check", "checked"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'You ___ eat more fruits and vegetables.' (Você deveria comer mais frutas e vegetais.)",
+    "correctAnswer": "should",
+    "options": ["should", "must to", "have", "are"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'I always feel tired ___ I don't sleep well.' (Eu sempre me sinto cansado porque não durmo bem.)",
+    "correctAnswer": "because",
+    "options": ["because", "but", "so", "and"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: '___ the doctor in the office?' (O médico está no consultório?)",
+    "correctAnswer": "Is",
+    "options": ["Is", "Are", "Do", "Does"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'She ___ her medicine this morning.' (Ela tomou seu remédio esta manhã.)",
+    "correctAnswer": "took",
+    "options": ["took", "takes", "take", "taking"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'He ___ to the hospital yesterday.' (Ele foi ao hospital ontem.)",
+    "correctAnswer": "went",
+    "options": ["went", "goes", "go", "going"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'I ___ well when I eat healthy food.' (Eu me sinto bem quando como comida saudável.)",
+    "correctAnswer": "feel",
+    "options": ["feel", "am feeling", "feels", "felt"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The doctor told me ___ rest.' (O médico me disse para descansar.)",
+    "correctAnswer": "to",
+    "options": ["to", "for", "that", "and"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'My back ___ after I exercise.' (Minhas costas doem depois que faço exercício.)",
+    "correctAnswer": "hurts",
+    "options": ["hurts", "hurt", "is hurting", "pains"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'We ___ vegetables every day to stay healthy.' (Nós comemos vegetais todos os dias para ficarmos saudáveis.)",
+    "correctAnswer": "eat",
+    "options": ["eat", "eats", "eating", "eaten"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'She ___ to the gym when she has time.' (Ela vai à academia quando tem tempo.)",
+    "correctAnswer": "goes",
+    "options": ["goes", "go", "is going", "went"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The children ___ playing outside for good health.' (As crianças estão brincando lá fora para ter boa saúde.)",
+    "correctAnswer": "are",
+    "options": ["are", "is", "am", "be"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'I ___ not smoke. It is bad for your health.' (Eu não fumo. É ruim para a saúde.)",
+    "correctAnswer": "do",
+    "options": ["do", "does", "am", "is"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'He ___ a cold last week.' (Ele ficou resfriado semana passada.)",
+    "correctAnswer": "had",
+    "options": ["had", "has", "have", "having"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'You ___ not eat fast food every day.' (Você não deve comer fast food todo dia.)",
+    "correctAnswer": "should",
+    "options": ["should", "do", "are", "have"],
+    "difficulty": "hard"
+  }
+]

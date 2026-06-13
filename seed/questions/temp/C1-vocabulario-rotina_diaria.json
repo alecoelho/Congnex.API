@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Qual Ã© o significado de \u0027to unwind\u0027 no contexto de uma rotina diÃ¡ria?",
+        "correctAnswer":  "relaxar",
+        "options":  [
+                        "relaxar",
+                        "acordar",
+                        "caminhar",
+                        "trabalhar"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Como se traduz \u0027to commute\u0027 para o portuguÃªs?",
+        "correctAnswer":  "deslocar-se para o trabalho",
+        "options":  [
+                        "deslocar-se para o trabalho",
+                        "comunicar-se",
+                        "cozinhar",
+                        "dormir cedo"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027to grab a bite\u0027 em inglÃªs coloquial?",
+        "correctAnswer":  "comer alguma coisa rapidamente",
+        "options":  [
+                        "comer alguma coisa rapidamente",
+                        "fazer uma pausa",
+                        "beber Ã¡gua",
+                        "tomar remÃ©dio"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Qual Ã© o significado de \u0027to doze off\u0027 durante uma rotina diÃ¡ria?",
+        "correctAnswer":  "cochilar",
+        "options":  [
+                        "cochilar",
+                        "acordar assustado",
+                        "meditar",
+                        "exercitar-se"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Como se traduz \u0027household chores\u0027 para o portuguÃªs?",
+        "correctAnswer":  "tarefas domÃ©sticas",
+        "options":  [
+                        "tarefas domÃ©sticas",
+                        "hobbies em casa",
+                        "rotina matinal",
+                        "compras mensais"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027to pull an all-nighter\u0027 no contexto de estudos ou trabalho?",
+        "correctAnswer":  "ficar acordado a noite toda trabalhando ou estudando",
+        "options":  [
+                        "ficar acordado a noite toda trabalhando ou estudando",
+                        "dormir muito tarde",
+                        "tirar uma soneca Ã  noite",
+                        "trabalhar em turnos noturnos"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Qual Ã© o significado de \u0027to freshen up\u0027 em inglÃªs?",
+        "correctAnswer":  "dar uma refrescada / se arrumar rapidamente",
+        "options":  [
+                        "dar uma refrescada / se arrumar rapidamente",
+                        "tomar um banho longo",
+                        "fazer uma refeiÃ§Ã£o leve",
+                        "limpar a casa"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Como se traduz \u0027to run errands\u0027 para o portuguÃªs?",
+        "correctAnswer":  "fazer recados / resolver pendÃªncias",
+        "options":  [
+                        "fazer recados / resolver pendÃªncias",
+                        "correr na rua",
+                        "trabalhar de forma remota",
+                        "preparar refeiÃ§Ãµes"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027to keep tabs on something\u0027 no contexto do dia a dia?",
+        "correctAnswer":  "monitorar ou acompanhar algo de perto",
+        "options":  [
+                        "monitorar ou acompanhar algo de perto",
+                        "anotar em uma agenda",
+                        "fazer uma pausa regular",
+                        "organizar documentos"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Qual Ã© o significado de \u0027to hit the sack\u0027 em inglÃªs coloquial?",
+        "correctAnswer":  "ir dormir",
+        "options":  [
+                        "ir dormir",
+                        "sair correndo",
+                        "fazer exercÃ­cios",
+                        "tomar banho"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Como se traduz \u0027to be a morning person\u0027 para o portuguÃªs?",
+        "correctAnswer":  "ser uma pessoa matutina / gostar de acordar cedo",
+        "options":  [
+                        "ser uma pessoa matutina / gostar de acordar cedo",
+                        "trabalhar no turno da manhÃ£",
+                        "ter uma rotina matinal rÃ­gida",
+                        "tomar cafÃ© da manhÃ£ cedo"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027to wind down\u0027 no contexto de uma rotina noturna?",
+        "correctAnswer":  "desacelerar / relaxar antes de dormir",
+        "options":  [
+                        "desacelerar / relaxar antes de dormir",
+                        "terminar o trabalho tarde",
+                        "organizar o ambiente",
+                        "fechar as janelas"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Qual Ã© o significado de \u0027to multitask\u0027 em inglÃªs?",
+        "correctAnswer":  "realizar vÃ¡rias tarefas ao mesmo tempo",
+        "options":  [
+                        "realizar vÃ¡rias tarefas ao mesmo tempo",
+                        "trabalhar em equipe",
+                        "priorizar atividades",
+                        "delegar responsabilidades"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Como se traduz \u0027to oversleep\u0027 para o portuguÃªs?",
+        "correctAnswer":  "dormir mais do que o planejado / acordar tarde demais",
+        "options":  [
+                        "dormir mais do que o planejado / acordar tarde demais",
+                        "ter insÃ´nia",
+                        "cochilar durante o dia",
+                        "dormir muito cedo"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027to get a head start\u0027 em inglÃªs?",
+        "correctAnswer":  "comeÃ§ar algo antes do previsto para ter vantagem",
+        "options":  [
+                        "comeÃ§ar algo antes do previsto para ter vantagem",
+                        "liderar uma equipe",
+                        "acordar mais cedo que o normal",
+                        "priorizar uma tarefa urgente"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Qual Ã© o significado de \u0027to squeeze in\u0027 no contexto de agenda ou rotina?",
+        "correctAnswer":  "encaixar algo na agenda com dificuldade",
+        "options":  [
+                        "encaixar algo na agenda com dificuldade",
+                        "cancelar um compromisso",
+                        "reorganizar prioridades",
+                        "adiar uma tarefa"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Como se traduz \u0027to be on the go\u0027 para o portuguÃªs no contexto do dia a dia?",
+        "correctAnswer":  "estar sempre ocupado / em movimento constante",
+        "options":  [
+                        "estar sempre ocupado / em movimento constante",
+                        "estar pronto para sair",
+                        "iniciar uma nova rotina",
+                        "trabalhar remotamente"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027to procrastinate\u0027 no contexto de tarefas diÃ¡rias?",
+        "correctAnswer":  "adiar tarefas desnecessariamente",
+        "options":  [
+                        "adiar tarefas desnecessariamente",
+                        "organizar o dia com antecedÃªncia",
+                        "trabalhar com pressa",
+                        "concluir tarefas rapidamente"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Qual Ã© o significado da expressÃ£o \u0027to be in a rut\u0027 quando alguÃ©m descreve sua rotina?",
+        "correctAnswer":  "estar preso em uma rotina monÃ³tona e sem mudanÃ§as",
+        "options":  [
+                        "estar preso em uma rotina monÃ³tona e sem mudanÃ§as",
+                        "estar sobrecarregado de trabalho",
+                        "ter dificuldade em cumprir prazos",
+                        "estar em um perÃ­odo de transiÃ§Ã£o profissional"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Como se traduz \u0027to have a lie-in\u0027 para o portuguÃªs no contexto de fins de semana?",
+        "correctAnswer":  "ficar na cama mais tempo do que o habitual pela manhÃ£",
+        "options":  [
+                        "ficar na cama mais tempo do que o habitual pela manhÃ£",
+                        "tirar uma soneca Ã  tarde",
+                        "deitar cedo para descansar",
+                        "descansar sem dormir"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027to be snowed under\u0027 quando alguÃ©m fala sobre sua rotina de trabalho?",
+        "correctAnswer":  "estar sobrecarregado com muito trabalho",
+        "options":  [
+                        "estar sobrecarregado com muito trabalho",
+                        "trabalhar em clima frio",
+                        "ter dificuldade em se concentrar",
+                        "estar em perÃ­odo de fÃ©rias"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Qual Ã© o significado de \u0027to burn the midnight oil\u0027 no contexto de produtividade?",
+        "correctAnswer":  "trabalhar ou estudar atÃ© tarde da noite",
+        "options":  [
+                        "trabalhar ou estudar atÃ© tarde da noite",
+                        "desperdiÃ§ar energia em tarefas inÃºteis",
+                        "trabalhar sob pressÃ£o intensa",
+                        "economizar recursos no trabalho"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Como se traduz \u0027to take stock of one\u0027s day\u0027 para o portuguÃªs?",
+        "correctAnswer":  "avaliar ou refletir sobre o que foi feito no dia",
+        "options":  [
+                        "avaliar ou refletir sobre o que foi feito no dia",
+                        "planejar as atividades do dia seguinte",
+                        "fazer uma pausa para descanso",
+                        "registrar os compromissos em uma agenda"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027to be set in one\u0027s ways\u0027 no contexto de hÃ¡bitos pessoais?",
+        "correctAnswer":  "ser inflexÃ­vel e resistente a mudanÃ§as nos prÃ³prios hÃ¡bitos",
+        "options":  [
+                        "ser inflexÃ­vel e resistente a mudanÃ§as nos prÃ³prios hÃ¡bitos",
+                        "ser muito disciplinado na rotina",
+                        "ter uma agenda bem organizada",
+                        "seguir conselhos de especialistas"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Qual Ã© o significado de \u0027to be strapped for time\u0027 na rotina diÃ¡ria?",
+        "correctAnswer":  "ter muito pouco tempo disponÃ­vel",
+        "options":  [
+                        "ter muito pouco tempo disponÃ­vel",
+                        "estar ocioso durante o dia",
+                        "ter dificuldade em gerenciar o tempo",
+                        "estar atrasado para um compromisso"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Como se traduz \u0027to get into the swing of things\u0027 para o portuguÃªs?",
+        "correctAnswer":  "adaptar-se ao ritmo de algo / entrar no ritmo",
+        "options":  [
+                        "adaptar-se ao ritmo de algo / entrar no ritmo",
+                        "comeÃ§ar uma nova atividade fisica",
+                        "recuperar energia apÃ³s cansaÃ§o",
+                        "reorganizar a rotina apÃ³s fÃ©rias"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027sedentary lifestyle\u0027 no contexto de saÃºde e rotina?",
+        "correctAnswer":  "estilo de vida sedentÃ¡rio com pouca atividade fÃ­sica",
+        "options":  [
+                        "estilo de vida sedentÃ¡rio com pouca atividade fÃ­sica",
+                        "rotina muito agitada e estressante",
+                        "hÃ¡bitos alimentares irregulares",
+                        "trabalho em regime de home office"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Qual Ã© o significado de \u0027to keep up appearances\u0027 no contexto do dia a dia?",
+        "correctAnswer":  "manter as aparÃªncias mesmo quando as coisas nÃ£o vÃ£o bem",
+        "options":  [
+                        "manter as aparÃªncias mesmo quando as coisas nÃ£o vÃ£o bem",
+                        "cuidar bem da higiene pessoal",
+                        "seguir tendÃªncias de moda",
+                        "organizar o ambiente domÃ©stico"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Como se traduz \u0027habitual\u0027 em inglÃªs no contexto de \u0027uma aÃ§Ã£o habitual do dia a dia\u0027?",
+        "correctAnswer":  "habitual",
+        "options":  [
+                        "habitual",
+                        "occasional",
+                        "sporadic",
+                        "compulsory"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027to be up and running\u0027 no contexto de retomar uma rotina?",
+        "correctAnswer":  "estar em pleno funcionamento / de volta Ã  ativa",
+        "options":  [
+                        "estar em pleno funcionamento / de volta Ã  ativa",
+                        "estar acordado e pronto para correr",
+                        "iniciar uma nova rotina de exercÃ­cios",
+                        "retomar um projeto interrompido"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Qual Ã© o significado de \u0027to be a creature of habit\u0027 em inglÃªs?",
+        "correctAnswer":  "ser alguÃ©m que segue a mesma rotina consistentemente",
+        "options":  [
+                        "ser alguÃ©m que segue a mesma rotina consistentemente",
+                        "ser muito disciplinado e produtivo",
+                        "ter hÃ¡bitos extremamente saudÃ¡veis",
+                        "ser capaz de se adaptar rapidamente a mudanÃ§as"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Como se traduz \u0027to catch up on sleep\u0027 para o portuguÃªs?",
+        "correctAnswer":  "recuperar o sono perdido",
+        "options":  [
+                        "recuperar o sono perdido",
+                        "dormir antes do horÃ¡rio habitual",
+                        "ter dificuldade para adormecer",
+                        "monitorar a qualidade do sono"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027to be on autopilot\u0027 quando alguÃ©m descreve suas aÃ§Ãµes diÃ¡rias?",
+        "correctAnswer":  "agir de forma mecÃ¢nica, sem pensar conscientemente",
+        "options":  [
+                        "agir de forma mecÃ¢nica, sem pensar conscientemente",
+                        "ser muito eficiente nas tarefas rotineiras",
+                        "trabalhar de forma independente",
+                        "seguir uma rotina muito rÃ­gida"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Qual Ã© o significado de \u0027to juggle responsibilities\u0027 no contexto da vida adulta?",
+        "correctAnswer":  "equilibrar mÃºltiplas responsabilidades simultaneamente",
+        "options":  [
+                        "equilibrar mÃºltiplas responsabilidades simultaneamente",
+                        "priorizar tarefas urgentes",
+                        "delegar funÃ§Ãµes a outras pessoas",
+                        "reduzir o nÃºmero de compromissos"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027circadian rhythm\u0027 no contexto de saÃºde e sono?",
+        "correctAnswer":  "ritmo biolÃ³gico natural de 24 horas que regula o ciclo sono-vigÃ­lia",
+        "options":  [
+                        "ritmo biolÃ³gico natural de 24 horas que regula o ciclo sono-vigÃ­lia",
+                        "hÃ¡bito de acordar sempre no mesmo horÃ¡rio",
+                        "distÃºrbio do sono causado por estresse",
+                        "padrÃ£o alimentar relacionado aos horÃ¡rios do dia"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Qual Ã© o significado de \u0027to be fastidious about one\u0027s routine\u0027 em inglÃªs?",
+        "correctAnswer":  "ser extremamente meticuloso e exigente com a prÃ³pria rotina",
+        "options":  [
+                        "ser extremamente meticuloso e exigente com a prÃ³pria rotina",
+                        "ser indiferente Ã  prÃ³pria rotina",
+                        "ter dificuldade em manter uma rotina constante",
+                        "ser flexÃ­vel e adaptÃ¡vel na rotina diÃ¡ria"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Como se traduz \u0027quotidian\u0027 para o portuguÃªs no contexto de tarefas do dia a dia?",
+        "correctAnswer":  "cotidiano / do dia a dia",
+        "options":  [
+                        "cotidiano / do dia a dia",
+                        "extraordinÃ¡rio / incomum",
+                        "periÃ³dico / intermitente",
+                        "urgente / prioritÃ¡rio"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027to be indefatigable\u0027 quando se faz referÃªncia Ã  rotina de alguÃ©m?",
+        "correctAnswer":  "ser incansÃ¡vel / nunca parecer se cansar",
+        "options":  [
+                        "ser incansÃ¡vel / nunca parecer se cansar",
+                        "ser preguiÃ§oso e pouco produtivo",
+                        "ser excessivamente perfeccionista",
+                        "ser incapaz de relaxar durante o dia"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Qual Ã© o significado de \u0027to be mired in mundanity\u0027 no contexto da vida cotidiana?",
+        "correctAnswer":  "estar preso na mesmice e monotonia da vida cotidiana",
+        "options":  [
+                        "estar preso na mesmice e monotonia da vida cotidiana",
+                        "estar sobrecarregado com tarefas complexas",
+                        "estar entediado com a falta de atividades",
+                        "ter dificuldade em se adaptar a novas rotinas"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Como se traduz \u0027punctilious\u0027 para o portuguÃªs no contexto de seguir uma rotina?",
+        "correctAnswer":  "extremamente meticuloso e atento a detalhes e formalidades",
+        "options":  [
+                        "extremamente meticuloso e atento a detalhes e formalidades",
+                        "pontual e disciplinado no cumprimento de horÃ¡rios",
+                        "impulsivo e desorganizado nas tarefas diÃ¡rias",
+                        "flexÃ­vel e adaptÃ¡vel a diferentes situaÃ§Ãµes"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027to keep one\u0027s nose to the grindstone\u0027 em inglÃªs?",
+        "correctAnswer":  "trabalhar duro e de forma ininterrupta sem distraÃ§Ãµes",
+        "options":  [
+                        "trabalhar duro e de forma ininterrupta sem distraÃ§Ãµes",
+                        "focar em uma Ãºnica tarefa por vez",
+                        "manter a calma sob pressÃ£o no trabalho",
+                        "ignorar distraÃ§Ãµes durante a rotina matinal"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Qual Ã© o significado de \u0027soporific\u0027 quando aplicado a uma atividade da rotina diÃ¡ria?",
+        "correctAnswer":  "que causa sonolÃªncia ou tende a induzir o sono",
+        "options":  [
+                        "que causa sonolÃªncia ou tende a induzir o sono",
+                        "que estimula a concentraÃ§Ã£o e o foco",
+                        "que Ã© extremamente entediante mas nÃ£o cansativo",
+                        "que Ã© relaxante sem causar sono"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Como se traduz \u0027diurnal\u0027 para o portuguÃªs no contexto de hÃ¡bitos e rotinas?",
+        "correctAnswer":  "diurno / relativo ao perÃ­odo do dia",
+        "options":  [
+                        "diurno / relativo ao perÃ­odo do dia",
+                        "noturno / relativo ao perÃ­odo da noite",
+                        "semanal / que ocorre uma vez por semana",
+                        "eventual / que ocorre de forma irregular"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027to be a stickler for routine\u0027 em inglÃªs?",
+        "correctAnswer":  "ser alguÃ©m que insiste rigidamente em seguir a rotina estabelecida",
+        "options":  [
+                        "ser alguÃ©m que insiste rigidamente em seguir a rotina estabelecida",
+                        "ser muito criativo na elaboraÃ§Ã£o de novas rotinas",
+                        "ser indiferente a horÃ¡rios e compromissos",
+                        "ser eficiente em adaptar rotinas a novas circunstÃ¢ncias"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Qual Ã© o significado de \u0027ablutions\u0027 no contexto de uma rotina matinal?",
+        "correctAnswer":  "rituais de higiene pessoal como lavar o rosto e escovar os dentes",
+        "options":  [
+                        "rituais de higiene pessoal como lavar o rosto e escovar os dentes",
+                        "refeiÃ§Ãµes leves tomadas pela manhÃ£",
+                        "exercÃ­cios fÃ­sicos realizados ao acordar",
+                        "meditaÃ§Ã£o ou prÃ¡ticas espirituais matinais"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Como se traduz \u0027ennui\u0027 para o portuguÃªs no contexto de uma rotina repetitiva?",
+        "correctAnswer":  "tÃ©dio profundo e sensaÃ§Ã£o de vazio causados pela monotonia",
+        "options":  [
+                        "tÃ©dio profundo e sensaÃ§Ã£o de vazio causados pela monotonia",
+                        "cansaÃ§o fÃ­sico acumulado pela rotina excessiva",
+                        "ansiedade gerada pela falta de estrutura no dia",
+                        "frustraÃ§Ã£o causada pela falta de produtividade"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027to be regimented\u0027 quando se fala da rotina de alguÃ©m?",
+        "correctAnswer":  "ter uma rotina muito rÃ­gida e altamente disciplinada",
+        "options":  [
+                        "ter uma rotina muito rÃ­gida e altamente disciplinada",
+                        "seguir orientaÃ§Ãµes mÃ©dicas na vida diÃ¡ria",
+                        "ser militarmente organizado em todas as Ã¡reas",
+                        "ter hÃ¡bitos impostos por terceiros"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Qual Ã© o significado de \u0027desultory\u0027 quando aplicado Ã  forma como alguÃ©m cumpre sua rotina?",
+        "correctAnswer":  "feito de forma aleatÃ³ria, sem mÃ©todo ou propÃ³sito claro",
+        "options":  [
+                        "feito de forma aleatÃ³ria, sem mÃ©todo ou propÃ³sito claro",
+                        "realizado com grande dedicaÃ§Ã£o e foco",
+                        "executado de maneira lenta mas consistente",
+                        "concluÃ­do rapidamente e sem atenÃ§Ã£o aos detalhes"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "Como se traduz \u0027assiduous\u0027 para o portuguÃªs no contexto de alguÃ©m que mantÃ©m bons hÃ¡bitos diÃ¡rios?",
+        "correctAnswer":  "assÃ­duo / diligente e persistente nos hÃ¡bitos",
+        "options":  [
+                        "assÃ­duo / diligente e persistente nos hÃ¡bitos",
+                        "impulsivo e inconsistente nas aÃ§Ãµes",
+                        "perfeccionista ao extremo nas tarefas",
+                        "metÃ³dico mas inflexÃ­vel na rotina"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "C1",
+        "questionType":  "vocabulario",
+        "topicDomain":  "rotina_diaria",
+        "type":  "multiple_choice",
+        "questionText":  "O que significa \u0027to be on a treadmill\u0027 no sentido figurado, aplicado Ã  rotina diÃ¡ria?",
+        "correctAnswer":  "estar preso em um ciclo repetitivo e exaustivo sem progresso real",
+        "options":  [
+                        "estar preso em um ciclo repetitivo e exaustivo sem progresso real",
+                        "incluir exercÃ­cios fÃ­sicos na rotina diÃ¡ria",
+                        "trabalhar em ritmo acelerado e constante",
+                        "seguir uma dieta rigorosa como parte da rotina"
+                    ],
+        "difficulty":  "hard"
+    }
+]

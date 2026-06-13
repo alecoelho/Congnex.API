@@ -1,0 +1,502 @@
+[
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Os alunos do ensino fundamental precisam ___ as regras de gramática antes de avançar para textos mais complexos.",
+    "correctAnswer": "master",
+    "options": ["master", "learn", "study", "read"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "A professora pediu que os estudantes ___ suas redações antes de entregá-las.",
+    "correctAnswer": "proofread",
+    "options": ["proofread", "rewrite", "summarize", "correct"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Para obter boas notas, é fundamental que os alunos ___ regularmente ao longo do semestre.",
+    "correctAnswer": "revise",
+    "options": ["revise", "attend", "practice", "memorize"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "O professor decidiu ___ uma aula de revisão antes da prova final.",
+    "correctAnswer": "schedule",
+    "options": ["schedule", "cancel", "postpone", "record"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "A escola oferece um programa ___ para alunos com dificuldades de aprendizado.",
+    "correctAnswer": "remedial",
+    "options": ["remedial", "advanced", "optional", "standard"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Para ___ em um curso de pós-graduação, é necessário apresentar um portfólio acadêmico.",
+    "correctAnswer": "enroll",
+    "options": ["enroll", "apply", "register", "qualify"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "A biblioteca universitária possui uma vasta ___ de periódicos científicos.",
+    "correctAnswer": "collection",
+    "options": ["collection", "selection", "variety", "range"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "O estudante recebeu uma ___ por excelência acadêmica ao final do ano letivo.",
+    "correctAnswer": "scholarship",
+    "options": ["scholarship", "reward", "grant", "prize"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "O método ___ de ensino incentiva os alunos a aprender por meio de experimentos práticos.",
+    "correctAnswer": "hands-on",
+    "options": ["hands-on", "theoretical", "traditional", "passive"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Os estudantes foram orientados a ___ suas fontes bibliográficas corretamente no trabalho final.",
+    "correctAnswer": "cite",
+    "options": ["cite", "list", "mention", "quote"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "A universidade oferece programas de ___ para ajudar alunos internacionais a se adaptarem ao novo ambiente acadêmico.",
+    "correctAnswer": "orientation",
+    "options": ["orientation", "integration", "accommodation", "supervision"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "A pesquisa ___ realizada pelos professores contribuiu para o avanço do conhecimento na área.",
+    "correctAnswer": "groundbreaking",
+    "options": ["groundbreaking", "ordinary", "basic", "preliminary"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "O aluno demonstrou ___ ao concluir o projeto de pesquisa com semanas de antecedência.",
+    "correctAnswer": "diligence",
+    "options": ["diligence", "laziness", "courage", "patience"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "O programa de educação ___ permite que adultos retomem seus estudos após anos fora da escola.",
+    "correctAnswer": "continuing",
+    "options": ["continuing", "primary", "secondary", "formal"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Os professores precisam ___ o currículo regularmente para acompanhar as mudanças na sociedade.",
+    "correctAnswer": "update",
+    "options": ["update", "follow", "maintain", "create"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "O debate em sala de aula ___ os alunos a pensar criticamente sobre questões complexas.",
+    "correctAnswer": "encourages",
+    "options": ["encourages", "forces", "prevents", "teaches"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "A avaliação ___ é uma ferramenta importante para medir o progresso dos alunos ao longo do curso.",
+    "correctAnswer": "formative",
+    "options": ["formative", "final", "annual", "external"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "A abordagem ___ no ensino de línguas prioriza a comunicação real sobre a memorização de regras gramaticais.",
+    "correctAnswer": "communicative",
+    "options": ["communicative", "structural", "prescriptive", "behaviorist"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "O professor utilizou uma metodologia ___ para engajar os alunos em discussões sobre ética científica.",
+    "correctAnswer": "Socratic",
+    "options": ["Socratic", "didactic", "empirical", "behaviorist"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "A universidade implementou um sistema de avaliação ___ para reduzir a subjetividade nas correções.",
+    "correctAnswer": "standardized",
+    "options": ["standardized", "personalized", "qualitative", "informal"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "O modelo de aprendizagem ___ permite que os alunos avancem no seu próprio ritmo.",
+    "correctAnswer": "self-paced",
+    "options": ["self-paced", "accelerated", "structured", "supervised"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "A ___ acadêmica é uma questão séria que pode resultar na expulsão do estudante da universidade.",
+    "correctAnswer": "misconduct",
+    "options": ["misconduct", "negligence", "incompetence", "disobedience"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "O programa de ___ permitiu que pesquisadores de diferentes países colaborassem em um projeto comum.",
+    "correctAnswer": "exchange",
+    "options": ["exchange", "transfer", "collaboration", "partnership"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "A teoria ___ de Vygotsky sugere que o aprendizado ocorre dentro de uma zona de desenvolvimento proximal.",
+    "correctAnswer": "sociocultural",
+    "options": ["sociocultural", "behaviorist", "cognitivist", "constructivist"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "O professor forneceu um ___ detalhado para ajudar os alunos a entenderem os critérios de avaliação.",
+    "correctAnswer": "rubric",
+    "options": ["rubric", "syllabus", "outline", "guideline"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "A abordagem ___ ao currículo integra diferentes disciplinas em torno de temas comuns.",
+    "correctAnswer": "interdisciplinary",
+    "options": ["interdisciplinary", "monodisciplinary", "extracurricular", "supplementary"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "O relatório ___ da comissão de educação revelou sérias lacunas no sistema de ensino público.",
+    "correctAnswer": "scathing",
+    "options": ["scathing", "favorable", "preliminary", "annual"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "O processo de ___ consiste em avaliar criticamente a própria prática pedagógica para melhorá-la.",
+    "correctAnswer": "self-reflection",
+    "options": ["self-reflection", "self-evaluation", "self-monitoring", "self-correction"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "A universidade adotou um modelo ___ de ensino que combina aulas presenciais com atividades online.",
+    "correctAnswer": "blended",
+    "options": ["blended", "hybrid", "distance", "modular"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "A ___ do conhecimento é facilitada quando os professores criam conexões entre conceitos novos e previamente aprendidos.",
+    "correctAnswer": "retention",
+    "options": ["retention", "acquisition", "production", "application"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "As instituições de ensino superior estão sob pressão crescente para demonstrar o ___ de seus programas acadêmicos.",
+    "correctAnswer": "accountability",
+    "options": ["accountability", "transparency", "efficiency", "credibility"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "O projeto pedagógico ___ busca atender às necessidades individuais de cada aluno dentro de uma mesma turma.",
+    "correctAnswer": "differentiated",
+    "options": ["differentiated", "personalized", "individualized", "customized"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "Os alunos foram encorajados a desenvolver um pensamento ___ ao questionar as premissas dos textos acadêmicos.",
+    "correctAnswer": "analytical",
+    "options": ["analytical", "creative", "logical", "deductive"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "O seminário abordou as implicações ___ das novas políticas educacionais para comunidades marginalizadas.",
+    "correctAnswer": "far-reaching",
+    "options": ["far-reaching", "immediate", "financial", "administrative"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "A tese de doutorado apresentou uma análise ___ que desafiou décadas de teorias estabelecidas no campo.",
+    "correctAnswer": "incisive",
+    "options": ["incisive", "superficial", "broad", "descriptive"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "A ___ epistemológica subjacente ao currículo determina quais formas de conhecimento são valorizadas na educação formal.",
+    "correctAnswer": "underpinning",
+    "options": ["underpinning", "framework", "premise", "assumption"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "O filósofo argumentou que a educação verdadeira não consiste em ___ o aluno de conhecimento, mas em despertar sua capacidade inata.",
+    "correctAnswer": "filling",
+    "options": ["filling", "endowing", "instilling", "imparting"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "A perspectiva ___ na educação critica as estruturas de poder que perpetuam desigualdades no acesso ao conhecimento.",
+    "correctAnswer": "postcolonial",
+    "options": ["postcolonial", "postmodern", "neoliberal", "structuralist"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "O fenômeno do ___ ocorre quando estudantes talentosos de países em desenvolvimento migram para nações mais ricas em busca de melhores oportunidades acadêmicas.",
+    "correctAnswer": "brain drain",
+    "options": ["brain drain", "talent flight", "academic exodus", "intellectual migration"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "A pedagogia ___ de Paulo Freire propõe que a educação deve ser um ato de conscientização política e social.",
+    "correctAnswer": "critical",
+    "options": ["critical", "progressive", "emancipatory", "transformative"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "O conceito de ___ refere-se à capacidade do estudante de regular seu próprio processo de aprendizagem de forma autônoma e reflexiva.",
+    "correctAnswer": "metacognition",
+    "options": ["metacognition", "self-efficacy", "autonomy", "agency"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "A crescente ___ do ensino superior levanta questões sobre a qualidade e acessibilidade da educação universitária.",
+    "correctAnswer": "commodification",
+    "options": ["commodification", "privatization", "marketization", "commercialization"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "A revisão ___ da literatura exige que o pesquisador analise criticamente múltiplas fontes sem deixar que suas próprias crenças distorçam os resultados.",
+    "correctAnswer": "systematic",
+    "options": ["systematic", "comprehensive", "exhaustive", "rigorous"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "O modelo ___ de avaliação pressupõe que os padrões de desempenho devem ser determinados antes do início do processo de ensino.",
+    "correctAnswer": "criterion-referenced",
+    "options": ["criterion-referenced", "norm-referenced", "portfolio-based", "competency-based"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "A teoria da ___ múltipla de Gardner desafia a noção tradicional de inteligência como uma capacidade única e mensurável.",
+    "correctAnswer": "intelligence",
+    "options": ["intelligence", "cognition", "competence", "aptitude"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "A pesquisa ___ em educação envolve a coleta sistemática de dados quantitativos para testar hipóteses sobre práticas pedagógicas.",
+    "correctAnswer": "empirical",
+    "options": ["empirical", "theoretical", "qualitative", "ethnographic"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "O fenômeno conhecido como ___ ocorre quando alunos com alto potencial intelectual são sistematicamente subestimados por pertencerem a grupos historicamente marginalizados.",
+    "correctAnswer": "underachievement",
+    "options": ["underachievement", "underrepresentation", "underperformance", "underprivilege"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "A abordagem ___ ao ensino universitário reconhece que estudantes chegam à sala de aula com experiências e conhecimentos prévios que devem ser valorizados.",
+    "correctAnswer": "constructivist",
+    "options": ["constructivist", "cognitivist", "behaviorist", "essentialist"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "O conceito de ___ refere-se à tendência de pesquisadores de confirmar suas hipóteses iniciais ao interpretar dados ambíguos.",
+    "correctAnswer": "confirmation bias",
+    "options": ["confirmation bias", "selection bias", "anchoring bias", "framing effect"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C2",
+    "questionType": "completar_frase",
+    "topicDomain": "educacao",
+    "type": "complete_sentence",
+    "questionText": "A ___ do conhecimento científico pressupõe que nenhuma teoria pode ser considerada definitivamente verdadeira, apenas ainda não refutada.",
+    "correctAnswer": "fallibility",
+    "options": ["fallibility", "relativity", "subjectivity", "uncertainty"],
+    "difficulty": "hard"
+  }
+]

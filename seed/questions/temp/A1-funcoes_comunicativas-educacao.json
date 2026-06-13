@@ -1,0 +1,512 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer ao professor que não entendeu a explicação. O que você diz?",
+    "correctAnswer": "I don't understand.",
+    "options": ["I don't understand.", "I am hungry.", "I like school.", "I go home."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir ao professor para repetir o que ele disse. O que você diz?",
+    "correctAnswer": "Please repeat.",
+    "options": ["Please repeat.", "Open the door.", "Go to sleep.", "Write your name."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar como se escreve uma palavra em inglês. O que você diz?",
+    "correctAnswer": "How do you spell it?",
+    "options": ["How do you spell it?", "What time is it?", "Where is the bus?", "How old are you?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O professor pergunta se você tem dúvidas. Como você diz que tem uma pergunta?",
+    "correctAnswer": "I have a question.",
+    "options": ["I have a question.", "I have a dog.", "I have a car.", "I have a book bag."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que sabe a resposta para uma pergunta da aula. O que você diz?",
+    "correctAnswer": "I know!",
+    "options": ["I know!", "I sleep.", "I eat.", "I run."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir permissão ao professor para ir ao banheiro durante a aula. O que você diz?",
+    "correctAnswer": "Can I go to the bathroom?",
+    "options": ["Can I go to the bathroom?", "Can I eat lunch?", "Can I drive the car?", "Can I sleep now?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O professor manda você abrir o livro. O que ele diz?",
+    "correctAnswer": "Open your book.",
+    "options": ["Open your book.", "Close the window.", "Eat your food.", "Sit on the floor."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer ao colega que está na página 10 do livro. O que você diz?",
+    "correctAnswer": "We are on page ten.",
+    "options": ["We are on page ten.", "We are in the park.", "We are at the market.", "We are at ten o'clock."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O professor quer que os alunos fiquem quietos. O que ele diz?",
+    "correctAnswer": "Be quiet, please.",
+    "options": ["Be quiet, please.", "Be hungry, please.", "Be tall, please.", "Be cold, please."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que gosta muito da aula de inglês. O que você diz?",
+    "correctAnswer": "I like English class.",
+    "options": ["I like English class.", "I like to drive.", "I like the hospital.", "I like to work."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O professor quer que você escreva seu nome na folha. O que ele diz?",
+    "correctAnswer": "Write your name.",
+    "options": ["Write your name.", "Paint your name.", "Run your name.", "Eat your name."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar ao professor qual é a lição de casa. O que você diz?",
+    "correctAnswer": "What is the homework?",
+    "options": ["What is the homework?", "What is the weather?", "What is the color?", "What is the food?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer ao professor que terminou a atividade. O que você diz?",
+    "correctAnswer": "I'm done!",
+    "options": ["I'm done!", "I'm hungry!", "I'm tired now!", "I'm at home!"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O professor quer que os alunos sentem. O que ele diz?",
+    "correctAnswer": "Sit down, please.",
+    "options": ["Sit down, please.", "Jump up, please.", "Run fast, please.", "Look out, please."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que não sabe a resposta. O que você diz?",
+    "correctAnswer": "I don't know.",
+    "options": ["I don't know.", "I don't eat.", "I don't run.", "I don't swim."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir ao professor para falar mais devagar. O que você diz?",
+    "correctAnswer": "Please speak slowly.",
+    "options": ["Please speak slowly.", "Please eat slowly.", "Please run slowly.", "Please write slowly."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que está estudando inglês. O que você diz?",
+    "correctAnswer": "I study English.",
+    "options": ["I study English.", "I eat English.", "I sleep English.", "I run English."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar ao colega de classe como ele se chama. O que você diz?",
+    "correctAnswer": "What is your name?",
+    "options": ["What is your name?", "What is your book?", "What is your desk?", "What is your pen?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que está na escola todos os dias. O que você diz?",
+    "correctAnswer": "I go to school every day.",
+    "options": ["I go to school every day.", "I go to school every night.", "I go to hospital every day.", "I go to school sometimes."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O professor quer saber se os alunos estão prontos para a aula. O que ele pergunta?",
+    "correctAnswer": "Are you ready?",
+    "options": ["Are you ready?", "Are you hungry?", "Are you sleeping?", "Are you outside?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que seu professor é muito bom. O que você diz?",
+    "correctAnswer": "My teacher is very good.",
+    "options": ["My teacher is very good.", "My teacher is very big.", "My teacher is very fast.", "My teacher is very cold."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar onde fica a biblioteca da escola. O que você diz?",
+    "correctAnswer": "Where is the library?",
+    "options": ["Where is the library?", "Where is the library book?", "What is the library?", "When is the library?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que precisa de um lápis. O que você diz?",
+    "correctAnswer": "I need a pencil.",
+    "options": ["I need a pencil.", "I need a pillow.", "I want a pencil, please.", "I have a pencil."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O professor quer que os alunos leiam em voz alta. O que ele diz?",
+    "correctAnswer": "Read aloud, please.",
+    "options": ["Read aloud, please.", "Sing aloud, please.", "Walk aloud, please.", "Sleep aloud, please."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar quantos alunos há na sala de aula. O que você diz?",
+    "correctAnswer": "How many students are there?",
+    "options": ["How many students are there?", "How many teachers are there?", "How many books are there?", "How many desks there are?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que sua escola é grande. O que você diz?",
+    "correctAnswer": "My school is big.",
+    "options": ["My school is big.", "My school is cold.", "My school is happy.", "My school is hungry."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que aprende palavras novas todo dia. O que você diz?",
+    "correctAnswer": "I learn new words every day.",
+    "options": ["I learn new words every day.", "I eat new words every day.", "I find new words every day.", "I read new words every day."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar ao professor se a prova é difícil. O que você diz?",
+    "correctAnswer": "Is the test difficult?",
+    "options": ["Is the test difficult?", "Is the test beautiful?", "Is the test cold?", "Is the test tall?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O professor pede que você olhe para o quadro. O que ele diz?",
+    "correctAnswer": "Look at the board.",
+    "options": ["Look at the board.", "Look at the door.", "Listen to the board.", "Write on the board."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que gosta de aprender coisas novas. O que você diz?",
+    "correctAnswer": "I like to learn new things.",
+    "options": ["I like to learn new things.", "I like to eat new things.", "I like to buy new things.", "I like to see new things."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que a aula começa às oito da manhã. O que você diz?",
+    "correctAnswer": "Class starts at eight o'clock.",
+    "options": ["Class starts at eight o'clock.", "Class ends at eight o'clock.", "Class is at nine o'clock.", "Class begins at ten o'clock."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar ao professor o significado de uma palavra. O que você diz?",
+    "correctAnswer": "What does this word mean?",
+    "options": ["What does this word mean?", "What is this word?", "How do you say this word?", "Where is this word?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer ao colega que ele errou a resposta. O que você diz?",
+    "correctAnswer": "That's wrong.",
+    "options": ["That's wrong.", "That's hungry.", "That's small.", "That's far."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O professor quer que os alunos façam exercícios em duplas. O que ele diz?",
+    "correctAnswer": "Work in pairs.",
+    "options": ["Work in pairs.", "Work in books.", "Work in desks.", "Work in class."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que pratica inglês em casa. O que você diz?",
+    "correctAnswer": "I practice English at home.",
+    "options": ["I practice English at home.", "I study English at park.", "I learn English at shop.", "I read English at school."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que seu livro didático está em cima da mesa. O que você diz?",
+    "correctAnswer": "My textbook is on the table.",
+    "options": ["My textbook is on the table.", "My textbook is under the table.", "My notebook is on the table.", "My textbook is in the table."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que seu colega é muito inteligente. O que você diz?",
+    "correctAnswer": "My classmate is very smart.",
+    "options": ["My classmate is very smart.", "My classmate is very tall.", "My classmate is very fast.", "My classmate is very clean."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar ao professor se pode responder a pergunta em português. O que você diz?",
+    "correctAnswer": "Can I answer in Portuguese?",
+    "options": ["Can I answer in Portuguese?", "Can I ask in Portuguese?", "Can I write in English?", "Can I speak in Spanish?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que tem dificuldade em pronunciar palavras em inglês. O que você diz?",
+    "correctAnswer": "I have trouble with pronunciation.",
+    "options": ["I have trouble with pronunciation.", "I have problem with grammar.", "I have difficult with words.", "I have bad with speaking."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O professor quer elogiar um aluno por uma boa resposta. O que ele diz?",
+    "correctAnswer": "Well done!",
+    "options": ["Well done!", "Very bad!", "Try again!", "Not right!"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que esqueceu de fazer a lição de casa. O que você diz?",
+    "correctAnswer": "I forgot my homework.",
+    "options": ["I forgot my homework.", "I lost my homework.", "I missed my homework.", "I left my homework."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar ao professor se haverá prova na próxima semana. O que você diz?",
+    "correctAnswer": "Is there a test next week?",
+    "options": ["Is there a test next week?", "Is there a class next week?", "Is there a test this week?", "There is a test next week?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que entendeu a explicação do professor. O que você diz?",
+    "correctAnswer": "I understand now.",
+    "options": ["I understand now.", "I listen now.", "I hear now.", "I learn now."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que prefere estudar de manhã do que à noite. O que você diz?",
+    "correctAnswer": "I prefer to study in the morning.",
+    "options": ["I prefer to study in the morning.", "I prefer to sleep in the morning.", "I like to study in the night.", "I prefer to study at midnight."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "O professor quer explicar que os alunos devem trabalhar sozinhos. O que ele diz?",
+    "correctAnswer": "Work alone, please.",
+    "options": ["Work alone, please.", "Work together, please.", "Work in groups, please.", "Work with me, please."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que a matéria de inglês é interessante para você. O que você diz?",
+    "correctAnswer": "English is interesting.",
+    "options": ["English is interesting.", "English is boring.", "English is interesting for me not.", "English is very hard only."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar ao professor se pode usar o dicionário durante a prova. O que você diz?",
+    "correctAnswer": "Can I use a dictionary?",
+    "options": ["Can I use a dictionary?", "Can I use a calculator?", "Can I read a dictionary?", "Can I borrow a dictionary?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que a aula de hoje foi muito boa. O que você diz?",
+    "correctAnswer": "Today's class was great.",
+    "options": ["Today's class was great.", "Today's class is great.", "Today class was great.", "This day class was great."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que seu professor explica as coisas de forma clara. O que você diz?",
+    "correctAnswer": "My teacher explains clearly.",
+    "options": ["My teacher explains clearly.", "My teacher talks clearly.", "My teacher says very clear.", "My teacher speaks clearly good."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar ao colega se ele entendeu a atividade. O que você diz?",
+    "correctAnswer": "Do you understand the activity?",
+    "options": ["Do you understand the activity?", "Do you like the activity?", "Do you finish the activity?", "Did you understand activities?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "educacao",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que estuda inglês há um mês. O que você diz?",
+    "correctAnswer": "I study English for one month.",
+    "options": ["I study English for one month.", "I study English since one month.", "I learn English for a month ago.", "I studied English one month."],
+    "difficulty": "hard"
+  }
+]

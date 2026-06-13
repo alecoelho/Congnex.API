@@ -1,0 +1,462 @@
+[
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu acordo às sete da manhã.",
+    "correctAnswer": "I wake up at seven in the morning.",
+    "options": ["I wake up at seven in the morning.", "I go to bed at seven in the morning.", "I wake up at seven in the evening.", "I wake up at seven at night."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Ela toma café da manhã todos os dias.",
+    "correctAnswer": "She has breakfast every day.",
+    "options": ["She has breakfast every day.", "She has lunch every day.", "She has dinner every day.", "She has a snack every day."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Ele escova os dentes de manhã.",
+    "correctAnswer": "He brushes his teeth in the morning.",
+    "options": ["He brushes his teeth in the morning.", "He brushes his hair in the morning.", "He washes his face in the morning.", "He combs his teeth in the morning."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Nós vamos ao trabalho de ônibus.",
+    "correctAnswer": "We go to work by bus.",
+    "options": ["We go to work by bus.", "We go to work by car.", "We go to work by train.", "We go to work walking."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eles almoçam ao meio-dia.",
+    "correctAnswer": "They have lunch at noon.",
+    "options": ["They have lunch at noon.", "They have lunch at night.", "They have lunch in the morning.", "They have lunch at midnight."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Ela toma um banho depois do trabalho.",
+    "correctAnswer": "She takes a shower after work.",
+    "options": ["She takes a shower after work.", "She takes a bath before work.", "She takes a shower during work.", "She takes a walk after work."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Ele janta às sete da noite.",
+    "correctAnswer": "He has dinner at seven in the evening.",
+    "options": ["He has dinner at seven in the evening.", "He has dinner at seven in the morning.", "He has lunch at seven in the evening.", "He has breakfast at seven in the evening."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu leio um livro antes de dormir.",
+    "correctAnswer": "I read a book before sleeping.",
+    "options": ["I read a book before sleeping.", "I watch a movie before sleeping.", "I read a book after sleeping.", "I listen to music before sleeping."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Ela se veste para ir à escola.",
+    "correctAnswer": "She gets dressed to go to school.",
+    "options": ["She gets dressed to go to school.", "She gets dressed to go home.", "She gets dressed to go to bed.", "She gets dressed to go shopping."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Nós assistimos televisão à noite.",
+    "correctAnswer": "We watch television at night.",
+    "options": ["We watch television at night.", "We watch television in the morning.", "We watch television at noon.", "We watch television in the afternoon."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Ele faz exercício três vezes por semana.",
+    "correctAnswer": "He exercises three times a week.",
+    "options": ["He exercises three times a week.", "He exercises three times a day.", "He exercises three times a month.", "He exercises three times a year."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Ela lava roupa no fim de semana.",
+    "correctAnswer": "She does laundry on the weekend.",
+    "options": ["She does laundry on the weekend.", "She does laundry on weekdays.", "She does laundry every day.", "She does laundry in the morning."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Ele cozinha o jantar para a família.",
+    "correctAnswer": "He cooks dinner for the family.",
+    "options": ["He cooks dinner for the family.", "He cooks lunch for the family.", "He cooks breakfast for the family.", "He cooks dessert for the family."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu escovo o cabelo todas as manhãs.",
+    "correctAnswer": "I brush my hair every morning.",
+    "options": ["I brush my hair every morning.", "I wash my hair every morning.", "I comb my hair every morning.", "I dry my hair every morning."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Ela coloca a roupa suja na máquina de lavar.",
+    "correctAnswer": "She puts the dirty clothes in the washing machine.",
+    "options": ["She puts the dirty clothes in the washing machine.", "She puts the clean clothes in the washing machine.", "She puts the wet clothes in the washing machine.", "She puts the dry clothes in the washing machine."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Nós vamos dormir por volta das dez da noite.",
+    "correctAnswer": "We go to sleep around ten at night.",
+    "options": ["We go to sleep around ten at night.", "We go to sleep around ten in the morning.", "We go to sleep around ten in the afternoon.", "We go to sleep around ten at noon."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Ele se levanta cedo para pegar o ônibus das oito.",
+    "correctAnswer": "He gets up early to catch the eight o'clock bus.",
+    "options": ["He gets up early to catch the eight o'clock bus.", "He gets up late to catch the eight o'clock bus.", "He gets up early to miss the eight o'clock bus.", "He gets up early to catch the eight o'clock train."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Ela faz sua cama assim que acorda.",
+    "correctAnswer": "She makes her bed as soon as she wakes up.",
+    "options": ["She makes her bed as soon as she wakes up.", "She makes her bed before she sleeps.", "She makes her bed in the afternoon.", "She makes her bed on weekends."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Depois de acordar, ele toma um café rápido.",
+    "correctAnswer": "After waking up, he has a quick coffee.",
+    "options": ["After waking up, he has a quick coffee.", "After waking up, he drinks a glass of milk.", "After waking up, he eats a sandwich.", "After waking up, he takes a shower."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Ela vai ao trabalho em um carro compartilhado.",
+    "correctAnswer": "She goes to work in a carpool.",
+    "options": ["She goes to work in a carpool.", "She goes to work in her own car.", "She goes to work on foot.", "She goes to work by taxi."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Ele para de trabalhar às cinco da tarde e volta para casa.",
+    "correctAnswer": "He stops working at five in the afternoon and goes back home.",
+    "options": ["He stops working at five in the afternoon and goes back home.", "He stops working at five in the morning and goes back home.", "He stops working at five at night and goes back home.", "He stops working at five at noon and goes back home."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Ela prepara a comida enquanto as crianças fazem o dever de casa.",
+    "correctAnswer": "She prepares the food while the children do their homework.",
+    "options": ["She prepares the food while the children do their homework.", "She prepares the food while the children play outside.", "She prepares the food while the children watch television.", "She prepares the food while the children sleep."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Nós limpamos a casa juntos no sábado.",
+    "correctAnswer": "We clean the house together on Saturday.",
+    "options": ["We clean the house together on Saturday.", "We clean the house together on Friday.", "We clean the house together on Sunday.", "We clean the house together on Monday."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Ele se barbeia e se veste antes do café da manhã.",
+    "correctAnswer": "He shaves and gets dressed before breakfast.",
+    "options": ["He shaves and gets dressed before breakfast.", "He shaves and gets dressed after breakfast.", "He shaves and gets dressed after work.", "He shaves and gets dressed at night."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Ela passa a roupa que secou no varal.",
+    "correctAnswer": "She irons the clothes that dried on the clothesline.",
+    "options": ["She irons the clothes that dried on the clothesline.", "She washes the clothes that dried on the clothesline.", "She folds the clothes that dried on the clothesline.", "She hangs the clothes that dried on the clothesline."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu caminho no parque todas as noites por meia hora.",
+    "correctAnswer": "I walk in the park every evening for half an hour.",
+    "options": ["I walk in the park every evening for half an hour.", "I walk in the park every morning for half an hour.", "I walk in the park every afternoon for one hour.", "I walk in the park every night for one hour."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Ele verifica o celular assim que acorda.",
+    "correctAnswer": "He checks his phone as soon as he wakes up.",
+    "options": ["He checks his phone as soon as he wakes up.", "He checks his phone before going to bed.", "He checks his phone during lunch.", "He checks his phone at night."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Ela faz a lista de compras no fim de semana.",
+    "correctAnswer": "She makes the shopping list on the weekend.",
+    "options": ["She makes the shopping list on the weekend.", "She makes the shopping list on weekdays.", "She makes the shopping list in the morning.", "She makes the shopping list at night."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Nós vamos ao supermercado duas vezes por semana.",
+    "correctAnswer": "We go to the supermarket twice a week.",
+    "options": ["We go to the supermarket twice a week.", "We go to the supermarket once a week.", "We go to the supermarket three times a week.", "We go to the supermarket once a day."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Ele lava o carro toda a outra semana.",
+    "correctAnswer": "He washes the car every other week.",
+    "options": ["He washes the car every other week.", "He washes the car every week.", "He washes the car every day.", "He washes the car every month."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Ela tira a maquiagem antes de dormir todas as noites.",
+    "correctAnswer": "She removes her makeup before going to bed every night.",
+    "options": ["She removes her makeup before going to bed every night.", "She removes her makeup after going to bed.", "She removes her makeup in the morning.", "She removes her makeup at noon."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Eu tomo meu medicamento no café da manhã e à noite.",
+    "correctAnswer": "I take my medicine at breakfast and at night.",
+    "options": ["I take my medicine at breakfast and at night.", "I take my medicine at breakfast and at lunch.", "I take my medicine at lunch and at dinner.", "I take my medicine in the morning and at noon."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Antes de sair, ela verifica se tem as chaves da casa.",
+    "correctAnswer": "Before leaving, she checks if she has the house keys.",
+    "options": ["Before leaving, she checks if she has the house keys.", "After leaving, she checks if she has the house keys.", "While leaving, she checks if she has the house keys.", "When arriving, she checks if she has the house keys."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Ele sai de casa mais cedo porque o trânsito está pesado hoje.",
+    "correctAnswer": "He leaves home earlier because traffic is heavy today.",
+    "options": ["He leaves home earlier because traffic is heavy today.", "He leaves home later because traffic is light today.", "He leaves home on time because traffic is normal.", "He leaves home on time because traffic is heavy."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Ela almoça rapidamente no escritório entre as reuniões.",
+    "correctAnswer": "She has lunch quickly in the office between meetings.",
+    "options": ["She has lunch quickly in the office between meetings.", "She has dinner slowly in the office between meetings.", "She has breakfast quickly at home between meetings.", "She has lunch slowly in the office during meetings."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Nós preparamos as coisas para o dia seguinte na noite anterior.",
+    "correctAnswer": "We prepare things for the next day the night before.",
+    "options": ["We prepare things for the next day the night before.", "We prepare things for the next day in the morning.", "We prepare things for the next day at noon.", "We prepare things for the next day in the afternoon."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Ela lê notícias enquanto toma café da manhã com pressa.",
+    "correctAnswer": "She reads the news while having breakfast in a hurry.",
+    "options": ["She reads the news while having breakfast in a hurry.", "She watches television while having breakfast calmly.", "She reads the news while having lunch in a hurry.", "She listens to music while having breakfast in a hurry."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Ele muda de roupa quando chega em casa porque suou muito no trabalho.",
+    "correctAnswer": "He changes clothes when he arrives home because he sweated a lot at work.",
+    "options": ["He changes clothes when he arrives home because he sweated a lot at work.", "He changes clothes before arriving home because he sweated.", "He changes clothes at work because he sweats a lot.", "He changes clothes when he wakes up because he sweated."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Ela coloca o despertador para não adormecer novamente depois de acordar.",
+    "correctAnswer": "She sets the alarm so she doesn't fall asleep again after waking up.",
+    "options": ["She sets the alarm so she doesn't fall asleep again after waking up.", "She sets the alarm so she falls asleep after waking up.", "She sets the alarm so she doesn't wake up.", "She sets the alarm so she sleeps longer."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Nós comemos rápido porque temos que sair em breve.",
+    "correctAnswer": "We eat quickly because we have to leave soon.",
+    "options": ["We eat quickly because we have to leave soon.", "We eat slowly because we have time.", "We eat quickly because we are not hungry.", "We eat slowly because we have to leave soon."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Ele faz o lanche das crianças toda manhã antes que acordem.",
+    "correctAnswer": "He makes the children's snack every morning before they wake up.",
+    "options": ["He makes the children's snack every morning before they wake up.", "He makes the children's snack every evening before they sleep.", "He makes the children's snack every afternoon after they wake up.", "He makes the children's snack every night before they eat dinner."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Ela lava a louça depois de cada refeição para não deixar acumular.",
+    "correctAnswer": "She washes the dishes after each meal so it doesn't pile up.",
+    "options": ["She washes the dishes after each meal so it doesn't pile up.", "She washes the dishes before each meal.", "She washes the dishes once a week.", "She washes the dishes only in the evening."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Quando chove, ele demora mais tempo para chegar ao trabalho.",
+    "correctAnswer": "When it rains, it takes him longer to get to work.",
+    "options": ["When it rains, it takes him longer to get to work.", "When it's sunny, it takes him longer to get to work.", "When it's cold, it takes him longer to get to work.", "When it's windy, it takes him longer to get to work."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Ela organiza o guarda-roupa nos fins de semana para a semana seguinte.",
+    "correctAnswer": "She organizes her wardrobe on weekends for the following week.",
+    "options": ["She organizes her wardrobe on weekends for the following week.", "She organizes her wardrobe every weekday for the current week.", "She organizes her wardrobe every evening for the next day.", "She organizes her wardrobe in the morning for the evening."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Ele se exercita em um horário fixo para manter a consistência.",
+    "correctAnswer": "He exercises at a fixed time to maintain consistency.",
+    "options": ["He exercises at a fixed time to maintain consistency.", "He exercises at different times to stay flexible.", "He exercises when he has time available.", "He exercises only on weekends to stay fit."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "rotina_diaria",
+    "type": "translation",
+    "questionText": "Depois de terminar o trabalho, ela desliga o computador e fecha o escritório.",
+    "correctAnswer": "After finishing work, she turns off the computer and closes the office.",
+    "options": ["After finishing work, she turns off the computer and closes the office.", "Before starting work, she turns on the computer and opens the office.", "During work, she turns off the computer and closes the office.", "At lunch, she turns off the computer and closes the office."],
+    "difficulty": "hard"
+  }
+]

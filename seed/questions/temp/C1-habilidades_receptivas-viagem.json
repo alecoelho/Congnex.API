@@ -1,0 +1,722 @@
+[
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Preciso fazer o check-in no hotel.",
+    "correctAnswer": "I need to check in at the hotel.",
+    "options": [
+      "I need to check in at the hotel.",
+      "I need to check out at the hotel.",
+      "I need to register myself in the hotel.",
+      "I need to enter the hotel room."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O voo foi cancelado por causa do mau tempo.",
+    "correctAnswer": "The flight was cancelled due to bad weather.",
+    "options": [
+      "The flight was cancelled due to bad weather.",
+      "The flight was delayed because of the bad weather.",
+      "The flight was suspended for the bad weather.",
+      "The flight was interrupted owing to bad weather."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Minha bagagem foi extraviada na conexão.",
+    "correctAnswer": "My luggage was lost during the connection.",
+    "options": [
+      "My luggage was lost during the connection.",
+      "My luggage was forgotten in the connection.",
+      "My baggage was stolen at the connection.",
+      "My suitcase was misplaced before the connection."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Você poderia me indicar o caminho para o aeroporto?",
+    "correctAnswer": "Could you show me the way to the airport?",
+    "options": [
+      "Could you show me the way to the airport?",
+      "Could you tell me how to arrive at the airport?",
+      "Can you guide me the direction for the airport?",
+      "Would you indicate me the road toward the airport?"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Quero reservar um quarto com vista para o mar.",
+    "correctAnswer": "I would like to book a room with a sea view.",
+    "options": [
+      "I would like to book a room with a sea view.",
+      "I want to reserve a room that looks at the sea.",
+      "I would like to rent a room facing the sea.",
+      "I wish to book a room overlooking at the ocean."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Qual é o horário de partida do trem?",
+    "correctAnswer": "What is the departure time of the train?",
+    "options": [
+      "What is the departure time of the train?",
+      "What time does the train arrive?",
+      "When does the train schedule leave?",
+      "What is the exit hour of the train?"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O passaporte dele estava vencido.",
+    "correctAnswer": "His passport had expired.",
+    "options": [
+      "His passport had expired.",
+      "His passport was cancelled.",
+      "His passport was too old.",
+      "His passport became invalid."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Ela comprou um seguro viagem antes de embarcar.",
+    "correctAnswer": "She purchased travel insurance before boarding.",
+    "options": [
+      "She purchased travel insurance before boarding.",
+      "She bought a travel insurance before to travel.",
+      "She acquired a trip insurance prior boarding.",
+      "She got travel insurance before she entered the plane."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O guia turístico nos levou até as ruínas antigas.",
+    "correctAnswer": "The tour guide took us to the ancient ruins.",
+    "options": [
+      "The tour guide took us to the ancient ruins.",
+      "The tourist guide brought us near the old ruins.",
+      "The travel guide guided us to the antique ruins.",
+      "The sightseeing guide conducted us toward ancient ruins."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Precisamos trocar dinheiro no aeroporto.",
+    "correctAnswer": "We need to exchange money at the airport.",
+    "options": [
+      "We need to exchange money at the airport.",
+      "We need to change our currency in the airport.",
+      "We must convert money inside of the airport.",
+      "We have to switch money at the airport terminal."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "A viagem de carro durou mais de seis horas.",
+    "correctAnswer": "The road trip lasted more than six hours.",
+    "options": [
+      "The road trip lasted more than six hours.",
+      "The car journey took over six hours.",
+      "The car trip lasted more than six hours.",
+      "The drive lasted over of six hours."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Estou procurando um hotel acessível perto do centro.",
+    "correctAnswer": "I am looking for an affordable hotel near the city centre.",
+    "options": [
+      "I am looking for an affordable hotel near the city centre.",
+      "I am searching a cheap hotel close of downtown.",
+      "I look for a budget hotel nearby the city center.",
+      "I am finding an accessible hotel around the downtown."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O cruzeiro parte do porto às oito da manhã.",
+    "correctAnswer": "The cruise departs from the port at eight in the morning.",
+    "options": [
+      "The cruise departs from the port at eight in the morning.",
+      "The cruise leaves the harbour at eight of the morning.",
+      "The cruise ship exits the port at eight a.m.",
+      "The cruise begins at the harbour eight in morning."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Não esqueça de levar o adaptador de tomada.",
+    "correctAnswer": "Don't forget to bring the plug adapter.",
+    "options": [
+      "Don't forget to bring the plug adapter.",
+      "Don't forget to carry the electrical converter.",
+      "Remember to take the socket connector.",
+      "Do not forget the current adaptor for the trip."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "A excursão inclui transporte e café da manhã.",
+    "correctAnswer": "The excursion includes transport and breakfast.",
+    "options": [
+      "The excursion includes transport and breakfast.",
+      "The tour includes transportation and morning coffee.",
+      "The trip includes transport and morning meal.",
+      "The excursion covers ride and breakfast meal."
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Posso ver o cardápio do restaurante do hotel?",
+    "correctAnswer": "May I see the hotel restaurant's menu?",
+    "options": [
+      "May I see the hotel restaurant's menu?",
+      "Can I look at the menu of the restaurant hotel?",
+      "Could I visualize the hotel's restaurant menu?",
+      "Is it possible to check the card of the hotel restaurant?"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Quantas malas posso despachar sem pagar taxa extra?",
+    "correctAnswer": "How many bags can I check in without paying an extra fee?",
+    "options": [
+      "How many bags can I check in without paying an extra fee?",
+      "How many suitcases can I send without paying additional charges?",
+      "How many luggages can I dispatch not paying extra tax?",
+      "How much bags am I allowed to check without extra charge?"
+    ],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Apesar do atraso, conseguimos pegar o voo de conexão.",
+    "correctAnswer": "Despite the delay, we managed to catch our connecting flight.",
+    "options": [
+      "Despite the delay, we managed to catch our connecting flight.",
+      "Although the delay, we could take the connection flight.",
+      "Even with the delay, we were able to board the transit flight.",
+      "In spite of the delay, we succeeded in getting our connection."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O hotel oferece serviço de concierge vinte e quatro horas por dia.",
+    "correctAnswer": "The hotel offers a round-the-clock concierge service.",
+    "options": [
+      "The hotel offers a round-the-clock concierge service.",
+      "The hotel provides concierge service all the twenty-four hours.",
+      "The hotel has a concierge service twenty-four hours each day.",
+      "The hotel delivers permanent concierge services non-stop."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Recomendo fortemente que você visite os mercados locais para vivenciar a cultura.",
+    "correctAnswer": "I strongly recommend you visit the local markets to experience the culture.",
+    "options": [
+      "I strongly recommend you visit the local markets to experience the culture.",
+      "I highly suggest that you go to the local markets to live the culture.",
+      "I firmly advise you to check the local markets to feel the culture.",
+      "I deeply recommend visiting local markets so as to know the culture."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "A companhia aérea me ofereceu um voucher de hotel por causa do cancelamento.",
+    "correctAnswer": "The airline offered me a hotel voucher because of the cancellation.",
+    "options": [
+      "The airline offered me a hotel voucher because of the cancellation.",
+      "The air company gave to me a hotel coupon due the cancellation.",
+      "The airline provided me a hotel token owing to the cancellation.",
+      "The airline company delivered me a hotel voucher by the cancellation."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Você já esteve em algum lugar que mudou completamente a sua perspectiva de mundo?",
+    "correctAnswer": "Have you ever been to a place that completely changed your worldview?",
+    "options": [
+      "Have you ever been to a place that completely changed your worldview?",
+      "Did you ever go to somewhere that changed your whole world perspective?",
+      "Have you ever visited any place that fully transformed your view of the world?",
+      "Did you ever travel to a location that has completely modified your perspective?"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Eles fizeram a reserva com bastante antecedência para garantir o melhor preço.",
+    "correctAnswer": "They booked well in advance to secure the best price.",
+    "options": [
+      "They booked well in advance to secure the best price.",
+      "They reserved with enough anticipation to guarantee the best price.",
+      "They made the booking very early in order to assure best rates.",
+      "They did the reservation in advance to confirm the lower price."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O jet lag me deixou completamente desorientado nos primeiros dias.",
+    "correctAnswer": "Jet lag left me completely disoriented for the first few days.",
+    "options": [
+      "Jet lag left me completely disoriented for the first few days.",
+      "The jet lag made me fully confused in the first days.",
+      "Jet lag has let me totally disoriented during the initial days.",
+      "The jet lag left me completely lost in the beginning days."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O destino turístico tem sofrido com o excesso de visitantes nos últimos anos.",
+    "correctAnswer": "The tourist destination has been suffering from overtourism in recent years.",
+    "options": [
+      "The tourist destination has been suffering from overtourism in recent years.",
+      "The tourism destination is suffering with excess of visitors in the last years.",
+      "The tourist site has been facing problems with too many tourists recently.",
+      "The touristic destination suffered with overcrowding tourists in recent years."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Ao chegar no país, tive que preencher um formulário de declaração alfandegária.",
+    "correctAnswer": "Upon arriving in the country, I had to fill out a customs declaration form.",
+    "options": [
+      "Upon arriving in the country, I had to fill out a customs declaration form.",
+      "When I arrived in the country, I needed to complete a customs declaration document.",
+      "On arriving at the country, I had to answer a customs declaration formulary.",
+      "After arriving to the country, I was obliged to fill a customs declaration paper."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Prefiro viajar com bagagem de mão para evitar esperar na esteira.",
+    "correctAnswer": "I prefer to travel with carry-on luggage to avoid waiting at the baggage carousel.",
+    "options": [
+      "I prefer to travel with carry-on luggage to avoid waiting at the baggage carousel.",
+      "I prefer to travel with hand luggage for avoiding to wait at the luggage belt.",
+      "I rather travel with cabin baggage to escape waiting at the baggage claim.",
+      "I prefer travelling only with hand bag to avoid the baggage reclaim waiting."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O cruzeiro faz escala em quatro portos diferentes ao longo da rota.",
+    "correctAnswer": "The cruise makes a stop at four different ports along the route.",
+    "options": [
+      "The cruise makes a stop at four different ports along the route.",
+      "The cruise ship stops in four different harbours through the route.",
+      "The cruise does stop at four distinct ports along the travel.",
+      "The cruise visits four different ports throughout the itinerary."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "A alta temporada costuma elevar significativamente o preço das acomodações.",
+    "correctAnswer": "The high season tends to significantly raise the price of accommodation.",
+    "options": [
+      "The high season tends to significantly raise the price of accommodation.",
+      "The high season usually increases considerably the accommodation prices.",
+      "The peak season is used to elevate significantly the housing prices.",
+      "The high season normally lifts considerably the prices of accomodation."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Ela optou por uma estadia em pousada em vez de um hotel convencional.",
+    "correctAnswer": "She opted for a stay at a bed and breakfast rather than a conventional hotel.",
+    "options": [
+      "She opted for a stay at a bed and breakfast rather than a conventional hotel.",
+      "She chose a guesthouse stay instead of a traditional hotel.",
+      "She picked a hostel accommodation rather than a conventional hotel.",
+      "She decided to stay at an inn opposed to staying at a regular hotel."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Você deve verificar se é necessário visto antes de planejar a viagem.",
+    "correctAnswer": "You should check whether a visa is required before planning your trip.",
+    "options": [
+      "You should check whether a visa is required before planning your trip.",
+      "You must verify if visa is necessary before you plan your travel.",
+      "You need to confirm whether visa is needed prior to planning your journey.",
+      "You should check if you need a visa before of planning your trip."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O turismo sustentável busca minimizar o impacto ambiental das viagens.",
+    "correctAnswer": "Sustainable tourism seeks to minimise the environmental impact of travel.",
+    "options": [
+      "Sustainable tourism seeks to minimise the environmental impact of travel.",
+      "Sustainable tourism aims to reduce the ecological impact of the travels.",
+      "Green tourism tries to decrease the environmental impacts of journeys.",
+      "Ecological tourism desires to minimise environmental impact in travels."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O visto de turista permite uma estadia de até noventa dias no país.",
+    "correctAnswer": "The tourist visa allows a stay of up to ninety days in the country.",
+    "options": [
+      "The tourist visa allows a stay of up to ninety days in the country.",
+      "The tourist visa permits staying up to ninety days in the country.",
+      "The tourism visa authorizes a permanency of ninety days in the country.",
+      "The visitor visa allows an stay of up ninety days inside the country."
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Embora o destino seja repleto de atrações turísticas, a infraestrutura local ainda deixa a desejar.",
+    "correctAnswer": "Although the destination is teeming with tourist attractions, the local infrastructure still leaves much to be desired.",
+    "options": [
+      "Although the destination is teeming with tourist attractions, the local infrastructure still leaves much to be desired.",
+      "Even though the destination is full of tourist attractions, the local infrastructure still has much to improve.",
+      "Despite being full of tourist attractions, the destination's local infrastructure remains to be desired.",
+      "While the destination overflows with sightseeing, local infrastructure still lacks considerably."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Viajar de mochila pelas costas exige uma capacidade considerável de adaptabilidade e resiliência.",
+    "correctAnswer": "Backpacking demands a considerable capacity for adaptability and resilience.",
+    "options": [
+      "Backpacking demands a considerable capacity for adaptability and resilience.",
+      "Travelling with a backpack requires considerable ability of adapting and being resilient.",
+      "Travelling with a rucksack demands substantial adaptability capacities and resilience.",
+      "Backpack travelling needs a considerable adaptability and resilience capacity."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O fenômeno do turismo de massa tem gerado consequências irreversíveis em ecossistemas frágeis.",
+    "correctAnswer": "The phenomenon of mass tourism has generated irreversible consequences for fragile ecosystems.",
+    "options": [
+      "The phenomenon of mass tourism has generated irreversible consequences for fragile ecosystems.",
+      "Mass tourism phenomenon has been causing irreparable impacts in fragile ecosystems.",
+      "The mass tourism phenomenon produced irreversible damages to the fragile ecosystems.",
+      "The phenomenon of mass tourism generated permanent consequences over fragile ecosystems."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Ao imergir na cultura local, o viajante consegue transcender a superficialidade da experiência turística comum.",
+    "correctAnswer": "By immersing themselves in the local culture, travellers can transcend the superficiality of the conventional tourist experience.",
+    "options": [
+      "By immersing themselves in the local culture, travellers can transcend the superficiality of the conventional tourist experience.",
+      "When immersing in the local culture, the traveller manages to overcome the superficiality of common tourist experience.",
+      "Through immersion in local culture, the traveller is able to go beyond the superficiality of typical tourism experiences.",
+      "By engaging deeply with local culture, travellers can surpass the shallow nature of ordinary tourism."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "As políticas de reembolso da companhia aérea eram tão restritivas que praticamente impossibilitavam qualquer reclamo legítimo.",
+    "correctAnswer": "The airline's refund policies were so restrictive that they rendered any legitimate claim virtually impossible.",
+    "options": [
+      "The airline's refund policies were so restrictive that they rendered any legitimate claim virtually impossible.",
+      "The airline refund policies were so restrictive that they made any legitimate claim practically impossible.",
+      "The air company's reimbursement policies were too restrictive making any legitimate claim practically unfeasible.",
+      "The airline's refunding policies proved so restrictive as to make any legitimate claim near to impossible."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "A experiência de se hospedar em um ryokan japonês proporcionou uma imersão cultural incomparável.",
+    "correctAnswer": "The experience of staying in a Japanese ryokan provided an unparalleled cultural immersion.",
+    "options": [
+      "The experience of staying in a Japanese ryokan provided an unparalleled cultural immersion.",
+      "The experience of lodging in a Japanese ryokan offered an incomparable cultural immersion.",
+      "The experience to stay at a Japanese ryokan provided an unmatched cultural immersion.",
+      "Staying at a Japanese ryokan experience offered a peerless cultural immersion."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "A gentrificação impulsionada pelo turismo tem deslocado comunidades locais de seus próprios bairros históricos.",
+    "correctAnswer": "Tourism-driven gentrification has been displacing local communities from their own historic neighbourhoods.",
+    "options": [
+      "Tourism-driven gentrification has been displacing local communities from their own historic neighbourhoods.",
+      "The gentrification driven by tourism has displaced local communities of their historical neighbourhoods.",
+      "Gentrification boosted by tourism is expelling local communities from their own historic districts.",
+      "Tourism-induced gentrification has been pushing local communities out of their historical neighbourhoods."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Ele conseguiu negociar um upgrade de cabine ao demonstrar sua fidelidade frequente à companhia.",
+    "correctAnswer": "He managed to negotiate a cabin upgrade by demonstrating his frequent loyalty to the airline.",
+    "options": [
+      "He managed to negotiate a cabin upgrade by demonstrating his frequent loyalty to the airline.",
+      "He was able to negotiate a cabin upgrade when showing his frequent flyer loyalty to the company.",
+      "He succeeded in negotiating a cabin upgrade through demonstrating his frequent flyer status.",
+      "He managed to get a cabin upgrade after demonstrating his frequent loyalty to the air company."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "A decolagem foi adiada indefinidamente em razão de uma falha técnica não especificada pela tripulação.",
+    "correctAnswer": "The takeoff was postponed indefinitely due to a technical fault not specified by the crew.",
+    "options": [
+      "The takeoff was postponed indefinitely due to a technical fault not specified by the crew.",
+      "The departure was delayed indefinitely because of an unspecified technical failure by the crew.",
+      "The take-off was put off indefinitely owing to a technical defect not disclosed by the crew.",
+      "The flight was suspended indefinitely due to a technical issue the crew did not specify."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O itinerário foi meticulosamente elaborado para garantir o equilíbrio entre cultura, gastronomia e descanso.",
+    "correctAnswer": "The itinerary was meticulously crafted to ensure a balance between culture, gastronomy, and relaxation.",
+    "options": [
+      "The itinerary was meticulously crafted to ensure a balance between culture, gastronomy, and relaxation.",
+      "The travel plan was carefully prepared to guarantee balance among culture, gastronomy and rest.",
+      "The itinerary was thoroughly elaborated to assure equilibrium between culture, food and resting.",
+      "The itinerary was meticulously designed for ensuring a balance between cultural, gastronomic and leisure activities."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "A viagem de mochila pelo sudeste asiático se tornou um rito de passagem para muitos jovens viajantes.",
+    "correctAnswer": "Backpacking across Southeast Asia has become a rite of passage for many young travellers.",
+    "options": [
+      "Backpacking across Southeast Asia has become a rite of passage for many young travellers.",
+      "Travelling by backpack through Southeast Asia became a passage ritual for many young tourists.",
+      "Backpack travelling in Southeast Asia turned into a rite of passage for several young travellers.",
+      "Rucksack travelling through Southeast Asia has become a ritual passage for young tourists."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Os viajantes mais experientes sabem que o choque cultural pode ser tanto desconcertante quanto profundamente enriquecedor.",
+    "correctAnswer": "The most seasoned travellers know that culture shock can be both unsettling and profoundly enriching.",
+    "options": [
+      "The most seasoned travellers know that culture shock can be both unsettling and profoundly enriching.",
+      "The most experienced travellers understand that cultural shock can be both disturbing and deeply enriching.",
+      "The most veteran travellers know that culture shock may be both disconcerting and profoundly rewarding.",
+      "More experienced travellers are aware that culture shock can be disorienting and profoundly enriching at the same time."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "Diante da turbulência severa, a comissária pediu que todos os passageiros afivelassem o cinto imediatamente.",
+    "correctAnswer": "Faced with severe turbulence, the flight attendant asked all passengers to fasten their seatbelts immediately.",
+    "options": [
+      "Faced with severe turbulence, the flight attendant asked all passengers to fasten their seatbelts immediately.",
+      "Before the severe turbulence, the stewardess asked that all passengers buckle their belts immediately.",
+      "Confronting severe turbulence, the cabin crew requested all passengers to belt themselves at once.",
+      "Given the severe turbulence, the air hostess instructed all passengers to fasten seatbelts right away."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "A localização privilegiada do hotel garantia vistas panorâmicas deslumbrantes de toda a cidade.",
+    "correctAnswer": "The hotel's privileged location guaranteed breathtaking panoramic views of the entire city.",
+    "options": [
+      "The hotel's privileged location guaranteed breathtaking panoramic views of the entire city.",
+      "The privileged location of the hotel ensured stunning panoramic views of all the city.",
+      "The hotel's privileged positioning assured breath-taking panoramic views of the whole city.",
+      "The excellent location of the hotel guaranteed breathtaking panoramic views over the entire city."
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "C1",
+    "questionType": "habilidades_receptivas",
+    "topicDomain": "viagem",
+    "type": "translation",
+    "questionText": "O regulamento aduaneiro proibia a entrada de determinados alimentos frescos no território nacional.",
+    "correctAnswer": "Customs regulations prohibited the entry of certain fresh foods into the national territory.",
+    "options": [
+      "Customs regulations prohibited the entry of certain fresh foods into the national territory.",
+      "The customs rules forbade the entrance of some fresh foods in national territory.",
+      "The customs regulation prohibited the importation of determined fresh foods to the national territory.",
+      "Customs regulation barred the entry of specific fresh foods into the country's territory."
+    ],
+    "difficulty": "hard"
+  }
+]

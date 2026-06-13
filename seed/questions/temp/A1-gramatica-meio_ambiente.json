@@ -1,0 +1,522 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The tree ___ green.' (A árvore é verde.)",
+    "correctAnswer": "is",
+    "options": ["is", "are", "am", "be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The flowers ___ beautiful.' (As flores são bonitas.)",
+    "correctAnswer": "are",
+    "options": ["are", "is", "am", "be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'I ___ the water.' (Eu bebo a água.)",
+    "correctAnswer": "drink",
+    "options": ["drink", "drinks", "drinking", "drank"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'She ___ the plants every day.' (Ela rega as plantas todos os dias.)",
+    "correctAnswer": "waters",
+    "options": ["waters", "water", "watering", "watered"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The sky ___ blue.' (O céu é azul.)",
+    "correctAnswer": "is",
+    "options": ["is", "are", "am", "be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'We ___ the park clean.' (Nós mantemos o parque limpo.)",
+    "correctAnswer": "keep",
+    "options": ["keep", "keeps", "keeping", "kept"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The bird ___ in the tree.' (O pássaro está na árvore.)",
+    "correctAnswer": "is",
+    "options": ["is", "are", "am", "be"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'They ___ the trash.' (Eles jogam fora o lixo.)",
+    "correctAnswer": "throw",
+    "options": ["throw", "throws", "throwing", "thrown"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The river ___ clean water.' (O rio tem água limpa.)",
+    "correctAnswer": "has",
+    "options": ["has", "have", "had", "having"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'I ___ a tree in my garden.' (Eu tenho uma árvore no meu jardim.)",
+    "correctAnswer": "have",
+    "options": ["have", "has", "had", "having"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The animals ___ in the forest.' (Os animais vivem na floresta.)",
+    "correctAnswer": "live",
+    "options": ["live", "lives", "living", "lived"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'She ___ the environment.' (Ela ama o meio ambiente.)",
+    "correctAnswer": "loves",
+    "options": ["loves", "love", "loving", "loved"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The sun ___ every day.' (O sol brilha todos os dias.)",
+    "correctAnswer": "shines",
+    "options": ["shines", "shine", "shining", "shined"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'We ___ paper.' (Nós reciclamos papel.)",
+    "correctAnswer": "recycle",
+    "options": ["recycle", "recycles", "recycling", "recycled"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The fish ___ in the sea.' (Os peixes vivem no mar.)",
+    "correctAnswer": "live",
+    "options": ["live", "lives", "living", "lived"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'He ___ the lights off.' (Ele apaga as luzes.)",
+    "correctAnswer": "turns",
+    "options": ["turns", "turn", "turning", "turned"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The garden ___ many flowers.' (O jardim tem muitas flores.)",
+    "correctAnswer": "has",
+    "options": ["has", "have", "had", "having"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The cat ___ near the tree.' (O gato está perto da árvore.) Qual preposição está correta?",
+    "correctAnswer": "near",
+    "options": ["near", "on", "under", "behind"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The bird flies ___ the river.' (O pássaro voa sobre o rio.) Qual preposição está correta?",
+    "correctAnswer": "over",
+    "options": ["over", "under", "behind", "between"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'There ___ many trees in the park.' (Há muitas árvores no parque.)",
+    "correctAnswer": "are",
+    "options": ["are", "is", "am", "be"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'There ___ a big lake here.' (Há um grande lago aqui.)",
+    "correctAnswer": "is",
+    "options": ["is", "are", "am", "were"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'I ___ not pollute the river.' (Eu não poluo o rio.) Qual forma negativa está correta?",
+    "correctAnswer": "do",
+    "options": ["do", "does", "did", "am"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'She ___ not cut the trees.' (Ela não corta as árvores.) Qual auxiliar está correto?",
+    "correctAnswer": "does",
+    "options": ["does", "do", "did", "is"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: '___ you recycle at home?' (Você recicla em casa?) Qual auxiliar inicia a pergunta?",
+    "correctAnswer": "Do",
+    "options": ["Do", "Does", "Are", "Is"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: '___ she plant flowers?' (Ela planta flores?) Qual auxiliar inicia a pergunta?",
+    "correctAnswer": "Does",
+    "options": ["Does", "Do", "Is", "Are"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The forest is ___ the mountain.' (A floresta está atrás da montanha.) Qual preposição está correta?",
+    "correctAnswer": "behind",
+    "options": ["behind", "over", "between", "near"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The water is ___ the bottle.' (A água está dentro da garrafa.) Qual preposição está correta?",
+    "correctAnswer": "in",
+    "options": ["in", "on", "at", "under"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'I ___ to the park every Sunday.' (Eu vou ao parque todo domingo.)",
+    "correctAnswer": "go",
+    "options": ["go", "goes", "going", "went"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'He ___ his bike to school.' (Ele anda de bicicleta para a escola.)",
+    "correctAnswer": "rides",
+    "options": ["rides", "ride", "riding", "rided"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual artigo está correto para completar: '___ environment needs our help.' (O meio ambiente precisa da nossa ajuda.)",
+    "correctAnswer": "The",
+    "options": ["The", "A", "An", "Some"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual artigo está correto para completar: 'I see ___ bird in the tree.' (Eu vejo um pássaro na árvore.)",
+    "correctAnswer": "a",
+    "options": ["a", "an", "the", "some"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Qual artigo está correto para completar: 'There is ___ ocean near the city.' (Há um oceano perto da cidade.)",
+    "correctAnswer": "an",
+    "options": ["an", "a", "the", "some"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The leaves ___ from the trees in autumn.' (As folhas caem das árvores no outono.)",
+    "correctAnswer": "fall",
+    "options": ["fall", "falls", "falling", "fallen"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'My family ___ organic food.' (Minha família compra comida orgânica.)",
+    "correctAnswer": "buys",
+    "options": ["buys", "buy", "buying", "bought"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase com o pronome correto: '___ is a big forest.' (É uma grande floresta. — referindo-se ao lugar)",
+    "correctAnswer": "It",
+    "options": ["It", "He", "She", "They"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The children ___ to the beach on weekends.' (As crianças vão à praia nos fins de semana.)",
+    "correctAnswer": "go",
+    "options": ["go", "goes", "going", "went"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'You ___ use plastic bags.' (Você não deve usar sacolas plásticas.) Qual forma negativa com modal está correta?",
+    "correctAnswer": "should not",
+    "options": ["should not", "not should", "do not should", "should don't"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'We ___ save water every day.' (Nós devemos economizar água todos os dias.) Qual modal está correto?",
+    "correctAnswer": "should",
+    "options": ["should", "shoulds", "shoud", "shoulding"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'How ___ trees are in the park?' (Quantas árvores há no parque?)",
+    "correctAnswer": "many",
+    "options": ["many", "much", "some", "any"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'How ___ water do we need?' (Quanta água precisamos?) Qual palavra interrogativa está correta?",
+    "correctAnswer": "much",
+    "options": ["much", "many", "any", "some"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The ocean is ___ than the river.' (O oceano é maior do que o rio.) Qual forma comparativa está correta?",
+    "correctAnswer": "bigger",
+    "options": ["bigger", "more big", "big", "biggest"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The Amazon is the ___ forest in the world.' (A Amazônia é a maior floresta do mundo.) Qual superlativo está correto?",
+    "correctAnswer": "biggest",
+    "options": ["biggest", "bigger", "most big", "more big"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'I ___ like to help the environment.' (Eu gostaria de ajudar o meio ambiente.) Qual modal está correto?",
+    "correctAnswer": "would",
+    "options": ["would", "will", "should", "could"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'She ___ walk to work instead of driving.' (Ela pode caminhar para o trabalho em vez de dirigir.) Qual modal indica possibilidade/capacidade?",
+    "correctAnswer": "can",
+    "options": ["can", "must", "shall", "ought"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The flowers are ___ than the grass.' (As flores são mais coloridas do que a grama.) Qual forma comparativa está correta?",
+    "correctAnswer": "more colorful",
+    "options": ["more colorful", "colorfuler", "most colorful", "colorful more"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: '___ the environment is important for everyone.' (Proteger o meio ambiente é importante para todos.) Qual forma verbal está correta no início da frase?",
+    "correctAnswer": "Protecting",
+    "options": ["Protecting", "Protect", "Protected", "Protects"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'There ___ not enough clean air in the city.' (Não há ar limpo suficiente na cidade.)",
+    "correctAnswer": "is",
+    "options": ["is", "are", "am", "be"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'We must ___ plastic to protect the ocean.' (Devemos reduzir o plástico para proteger o oceano.) Qual forma verbal está correta após o modal?",
+    "correctAnswer": "reduce",
+    "options": ["reduce", "reduces", "reducing", "reduced"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'The pollution makes the air ___ to breathe.' (A poluição torna o ar difícil de respirar.) Qual adjetivo completa corretamente?",
+    "correctAnswer": "hard",
+    "options": ["hard", "hardly", "harder", "hardest"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'Every person ___ help to save the planet.' (Toda pessoa pode ajudar a salvar o planeta.) Qual modal está correto?",
+    "correctAnswer": "can",
+    "options": ["can", "cans", "caning", "musts"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'I go to the park ___ foot.' (Eu vou ao parque a pé.) Qual preposição está correta?",
+    "correctAnswer": "on",
+    "options": ["on", "by", "with", "in"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "gramatica",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Complete a frase: 'My brother ___ by bike to avoid pollution.' (Meu irmão vai de bicicleta para evitar poluição.) Qual forma verbal está correta?",
+    "correctAnswer": "travels",
+    "options": ["travels", "travel", "traveling", "traveled"],
+    "difficulty": "hard"
+  }
+]

@@ -1,0 +1,502 @@
+﻿[
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer sugerir a um amigo para usar bicicleta em vez de carro. O que você diz?",
+    "correctAnswer": "Why don't you use your bike instead?",
+    "options": ["Why don't you use your bike instead?", "You must use a bike now", "Bikes are only for children", "Cars are better than bikes"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Seu colega joga lixo no chão. Como você o avisa?",
+    "correctAnswer": "Please don't throw that on the ground",
+    "options": ["Please don't throw that on the ground", "The ground likes garbage", "Throwing is fun", "I will throw more"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você deseja oferecer uma sacola reutilizável a alguém. O que você diz?",
+    "correctAnswer": "Would you like to use this reusable bag?",
+    "options": ["Would you like to use this reusable bag?", "This bag is only plastic", "Bags are bad for shopping", "You should use paper only"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Um amigo deixou a luz acesa. Como você sugere economizar energia?",
+    "correctAnswer": "Can you turn off the light, please?",
+    "options": ["Can you turn off the light, please?", "Lights are better on", "Electricity is cheap", "Never use lights at all"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer pedir a alguém para desligar a torneira. O que fala?",
+    "correctAnswer": "Could you turn off the tap?",
+    "options": ["Could you turn off the tap?", "Water is unlimited", "Taps should stay on", "Wasting water is good"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer informar sobre a importância de reciclar. Como começa?",
+    "correctAnswer": "Do you know recycling is important?",
+    "options": ["Do you know recycling is important?", "Recycling is bad", "Garbage goes nowhere", "Nothing needs to be recycled"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Alguém quer sair dirigindo. Como você sugere andar a pé?",
+    "correctAnswer": "Why don't we walk instead?",
+    "options": ["Why don't we walk instead?", "Walking is impossible", "Cars are slower", "Only driving is possible"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer sugerir plantar árvores no parque. O que propõe?",
+    "correctAnswer": "How about planting trees in the park?",
+    "options": ["How about planting trees in the park?", "Parks don't need trees", "Trees are ugly", "Planting is not useful"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Um amigo compra muitos produtos plásticos. Como você comenta?",
+    "correctAnswer": "Maybe you should avoid plastic products?",
+    "options": ["Maybe you should avoid plastic products?", "Plastic is always necessary", "We need more plastic", "Plastic is very natural"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você vê alguém desperdiçando comida. Como avisa?",
+    "correctAnswer": "Food shouldn't be wasted",
+    "options": ["Food shouldn't be wasted", "Wasting is fine", "More food helps everyone", "Garbage is food"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer informar sobre mudanças climáticas. Como começa uma conversa?",
+    "correctAnswer": "Have you heard about climate change?",
+    "options": ["Have you heard about climate change?", "The climate never changes", "Weather is always the same", "Nobody cares about climate"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Um colega tira fotos na natureza. Como você o incentiva?",
+    "correctAnswer": "That's a great way to enjoy nature",
+    "options": ["That's a great way to enjoy nature", "Nature photos are boring", "You shouldn't be outside", "Photography harms nature"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer sugerir usar transporte público. O que diz?",
+    "correctAnswer": "Would you consider using the bus?",
+    "options": ["Would you consider using the bus?", "Buses are too slow", "Public transport is bad", "Everyone should drive"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Alguém deixa a porta aberta. Como você sugere fechar?",
+    "correctAnswer": "Could you close the door, please?",
+    "options": ["Could you close the door, please?", "Open doors are good", "Temperature doesn't matter", "We don't need heating"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer sugerir separar lixo. Como faz o convite?",
+    "correctAnswer": "Shall we separate the garbage?",
+    "options": ["Shall we separate the garbage?", "Garbage doesn't need sorting", "Mixed trash is better", "Recycling is not possible"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Um amigo compra água em muitas garrafas plásticas. Como você sugere alternativa?",
+    "correctAnswer": "Why don't you use a refillable bottle?",
+    "options": ["Why don't you use a refillable bottle?", "Plastic bottles are good", "You should buy more bottles", "Water bottles are harmful"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você vê um animal em perigo. Como pede ajuda?",
+    "correctAnswer": "We need to help this animal",
+    "options": ["We need to help this animal", "Animals don't need help", "Let's ignore it", "Helping animals is wrong"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer explicar os benefícios do exercício ao ar livre para a saúde. Como começa?",
+    "correctAnswer": "Exercising outdoors is better for our health",
+    "options": ["Exercising outdoors is better for our health", "Fresh air is bad for you", "Indoor exercise only is healthy", "Nature makes you sick"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Alguém questiona a necessidade de proteger as florestas. Como você responde?",
+    "correctAnswer": "Forests protect our planet",
+    "options": ["Forests protect our planet", "We don't need forests", "Trees are useless", "Destroying forests is good"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer convidar alguém para um projeto de limpeza. Como convida?",
+    "correctAnswer": "Would you like to join a beach cleanup?",
+    "options": ["Would you like to join a beach cleanup?", "Beaches don't need cleaning", "Cleaning is boring", "Trash belongs on beaches"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Um colega compra roupas em excesso. Como você sugere sustentabilidade?",
+    "correctAnswer": "Maybe you could buy less and reuse clothes?",
+    "options": ["Maybe you could buy less and reuse clothes?", "You should buy more clothes", "Reusing is not trendy", "New is always better"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer informar sobre poluição do ar nas cidades. Como expressa preocupação?",
+    "correctAnswer": "Air pollution in cities is becoming worse",
+    "options": ["Air pollution in cities is becoming worse", "Air pollution doesn't exist", "Cars don't pollute", "Pollution is helpful"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Alguém quer jogar lixo eletrônico na lixeira comum. Como você avisa?",
+    "correctAnswer": "Electronic waste should go to special places",
+    "options": ["Electronic waste should go to special places", "Electronics can go anywhere", "Batteries don't need recycling", "All trash is the same"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer discutir consumo responsável com um amigo. Como inicia?",
+    "correctAnswer": "Do you think about where things come from?",
+    "options": ["Do you think about where things come from?", "Consumption doesn't matter", "Buying everything is good", "We don't need to think about it"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Um amigo tira fotos de animais selvagens. Como você o incentiva a compartilhar?",
+    "correctAnswer": "You should show your wildlife photos to others",
+    "options": ["You should show your wildlife photos to others", "Nobody wants to see animals", "Wildlife isn't interesting", "Photos of nature are bad"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer sugerir energia renovável em conversa casual. Como menciona?",
+    "correctAnswer": "Solar panels could save energy",
+    "options": ["Solar panels could save energy", "Solar energy is impossible", "Fossil fuels are eternal", "Renewable isn't real"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Alguém diz que poluição não é grave. Como você discorda respeitosamente?",
+    "correctAnswer": "I think pollution affects our health",
+    "options": ["I think pollution affects our health", "Pollution is just a word", "It doesn't harm anyone", "Pollution is helpful"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer incentivar alguém a se voluntariar em projetos ambientais. Como sugere?",
+    "correctAnswer": "You could volunteer for environmental projects",
+    "options": ["You could volunteer for environmental projects", "Volunteering is a waste of time", "The environment doesn't need help", "Only professionals help nature"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Um colega quer saber por que você escolhe produtos ecológicos. Como explica?",
+    "correctAnswer": "Eco-friendly products help protect the environment",
+    "options": ["Eco-friendly products help protect the environment", "Green products are a scam", "Environment doesn't matter", "Harmful products are better"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer sugerir que reduzir o consumo é importante. Como expressa isso?",
+    "correctAnswer": "We should use less to waste less",
+    "options": ["We should use less to waste less", "Using more is better", "Waste doesn't matter", "Consumption is free"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Alguém não sabe como separar corretamente o lixo. Como você orienta de forma clara?",
+    "correctAnswer": "Plastic and paper go into different bins",
+    "options": ["Plastic and paper go into different bins", "All trash goes in one bin", "Sorting doesn't matter", "Mixing is the right way"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer explicar a conexão entre alimentação e meio ambiente. Como começa?",
+    "correctAnswer": "The food we eat affects the environment",
+    "options": ["The food we eat affects the environment", "Food has no environmental impact", "Eating doesn't matter", "All foods are equal"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Um amigo pensa que pequenas ações não fazem diferença. Como você o motiva?",
+    "correctAnswer": "Small actions together make a big difference",
+    "options": ["Small actions together make a big difference", "Only big changes matter", "Individual efforts are pointless", "One person can't help"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer explicar por que aprender inglês ajuda a comunicar sobre meio ambiente. Como faz?",
+    "correctAnswer": "Learning English helps us understand global environmental issues",
+    "options": ["Learning English helps us understand global environmental issues", "English is useless", "Environment is local only", "Language doesn't matter"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Alguém questiona se reciclagem realmente funciona. Como você defende a prática?",
+    "correctAnswer": "Recycling reduces waste that goes to landfills",
+    "options": ["Recycling reduces waste that goes to landfills", "Recycling is fake", "Landfills are good", "Nothing changes with recycling"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer sugerir uma conferência sobre sustentabilidade. Como convida alguém?",
+    "correctAnswer": "Would you be interested in a sustainability conference?",
+    "options": ["Would you be interested in a sustainability conference?", "Conferences are boring", "Sustainability doesn't matter", "We shouldn't learn about it"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Um colega acha caro comprar produtos sustentáveis. Como você o ajuda a entender o valor?",
+    "correctAnswer": "Sustainable products save money in the long term",
+    "options": ["Sustainable products save money in the long term", "Eco products are always expensive", "Cheap is always better", "Cost doesn't matter"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer informar que os oceanos estão em perigo. Como expressa essa urgência?",
+    "correctAnswer": "Our oceans are facing serious pollution problems",
+    "options": ["Our oceans are facing serious pollution problems", "Oceans don't have problems", "Water is infinite", "Marine pollution doesn't exist"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Alguém nega que humanos causam poluição. Como você apresenta informação de forma respeitosa?",
+    "correctAnswer": "Scientists show that human activities cause pollution",
+    "options": ["Scientists show that human activities cause pollution", "Humans don't pollute", "Science is wrong about this", "Pollution is natural"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer sugerir que educação ambiental é importante para crianças. Como expressa?",
+    "correctAnswer": "Children should learn about environmental protection",
+    "options": ["Children should learn about environmental protection", "Kids don't care about nature", "Education about environment is useless", "Only adults need to know"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Um amigo quer viajar muito de avião. Como você sugere alternativas sustentáveis?",
+    "correctAnswer": "Flying creates carbon emissions, maybe you could travel differently",
+    "options": ["Flying creates carbon emissions, maybe you could travel differently", "Flying has no impact", "Airplanes are perfect", "Travel doesn't pollute"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer discutir a importância de proteger espécies em extinção. Como começa?",
+    "correctAnswer": "We need to protect endangered species from extinction",
+    "options": ["We need to protect endangered species from extinction", "Extinct animals don't matter", "Species disappearance is natural", "Animals don't need protection"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Alguém acha que mudanças climáticas não existem. Como você responde com fatos?",
+    "correctAnswer": "Global temperatures are rising due to greenhouse gases",
+    "options": ["Global temperatures are rising due to greenhouse gases", "Climate change is not real", "Temperature stays the same", "Gases don't affect climate"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer sugerir que empresas sejam mais responsáveis ambientalmente. Como expressa?",
+    "correctAnswer": "Companies should reduce their environmental impact",
+    "options": ["Companies should reduce their environmental impact", "Businesses don't need to care about nature", "Profit matters more than environment", "Industries should pollute freely"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você convida alguém para um passeio na natureza. O que você diz?",
+    "correctAnswer": "Let's go for a walk in the forest",
+    "options": ["Let's go for a walk in the forest", "Forests are dangerous", "Nature is boring", "We should stay inside"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Um amigo não entende por que deveria economizar água em casa. Como você o convence?",
+    "correctAnswer": "Saving water helps protect our environment for the future",
+    "options": ["Saving water helps protect our environment for the future", "Water waste doesn't matter", "We have unlimited water", "Using more water is good"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer sugerir criar um jardim comunitário com seus vizinhos. Como propõe?",
+    "correctAnswer": "We could grow vegetables together in our community",
+    "options": ["We could grow vegetables together in our community", "Community gardens are useless", "Growing food is too hard", "Nobody wants to garden"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Alguém quer saber como começar um estilo de vida mais ecológico. Como você o orienta?",
+    "correctAnswer": "Start by reducing plastic and recycling more",
+    "options": ["Start by reducing plastic and recycling more", "Eco-living is impossible", "No one can change their habits", "Environment is nobody's responsibility"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Você quer chamar atenção para a importância de proteger os oceanos. Como começa?",
+    "correctAnswer": "Did you know that ocean pollution is increasing every year?",
+    "options": ["Did you know that ocean pollution is increasing every year?", "Oceans are always clean", "Fish don't need protection", "Ocean pollution is not serious"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "meio_ambiente",
+    "type": "multiple_choice",
+    "questionText": "Um colega está considerando comprar uma bicicleta para ir ao trabalho. Como você o encoraja?",
+    "correctAnswer": "Cycling is good for your health and the environment",
+    "options": ["Cycling is good for your health and the environment", "Bikes are too slow for work", "Cars are more comfortable", "Cycling doesn't help anything"],
+    "difficulty": "medium"
+  }
+]

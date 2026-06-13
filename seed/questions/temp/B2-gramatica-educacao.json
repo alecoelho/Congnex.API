@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O aluno ___ completado a tarefa de casa antes da aula.",
+        "correctAnswer":  "had",
+        "options":  [
+                        "has",
+                        "had",
+                        "have",
+                        "is having"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Se eu ___ um bom professor, ensinaria melhor.",
+        "correctAnswer":  "were",
+        "options":  [
+                        "was",
+                        "were",
+                        "am",
+                        "would be"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O diretor pediu que todos os alunos ___ suas lições.",
+        "correctAnswer":  "study",
+        "options":  [
+                        "study",
+                        "studies",
+                        "studied",
+                        "studying"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Ele é um professor experiente ___ trabalha há 20 anos.",
+        "correctAnswer":  "who",
+        "options":  [
+                        "which",
+                        "who",
+                        "that",
+                        "whom"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Os estudantes não gostam de ___ lições de casa todos os dias.",
+        "correctAnswer":  "having",
+        "options":  [
+                        "have",
+                        "having",
+                        "to have",
+                        "had"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "A professora insistiu em ___ com os pais sobre o progresso do aluno.",
+        "correctAnswer":  "speaking",
+        "options":  [
+                        "speak",
+                        "speaks",
+                        "speaking",
+                        "to speaking"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Desde que ___ o curso, eu melhorei minhas habilidades.",
+        "correctAnswer":  "started",
+        "options":  [
+                        "start",
+                        "started",
+                        "have started",
+                        "starting"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O diretor permitiu que os alunos ___ o teste novamente.",
+        "correctAnswer":  "take",
+        "options":  [
+                        "taking",
+                        "take",
+                        "takes",
+                        "to take"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Se você tivesse estudado mais, ___ aprovado no exame.",
+        "correctAnswer":  "would have been",
+        "options":  [
+                        "would be",
+                        "would have been",
+                        "will be",
+                        "are"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "A escola oferece diversos programas ___ ajudam alunos com dificuldades.",
+        "correctAnswer":  "that",
+        "options":  [
+                        "who",
+                        "which",
+                        "that",
+                        "whose"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Muitos alunos ___ seus smartphones durante a aula.",
+        "correctAnswer":  "have been using",
+        "options":  [
+                        "use",
+                        "using",
+                        "have been using",
+                        "used"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O professor recomendou que a aluna ___ livros em inglês.",
+        "correctAnswer":  "read",
+        "options":  [
+                        "reads",
+                        "read",
+                        "reading",
+                        "to read"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Quanto mais ___ você estudar, melhor será seu desempenho.",
+        "correctAnswer":  "hard",
+        "options":  [
+                        "hardly",
+                        "hard",
+                        "hardly ever",
+                        "harder"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Os alunos farão o exame ___ semana que vem.",
+        "correctAnswer":  "next",
+        "options":  [
+                        "in the next",
+                        "next",
+                        "on the next",
+                        "at next"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "A princípio, o sistema de ensino ___ difícil de implementar.",
+        "correctAnswer":  "seemed",
+        "options":  [
+                        "seems",
+                        "seemed",
+                        "has seemed",
+                        "would seem"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Nenhum dos alunos ___ pronto para o teste.",
+        "correctAnswer":  "was",
+        "options":  [
+                        "were",
+                        "was",
+                        "are",
+                        "have been"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "A metodologia ___ foi aplicada pelos professores é muito eficaz.",
+        "correctAnswer":  "that",
+        "options":  [
+                        "who",
+                        "that",
+                        "which",
+                        "whom"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Se o aluno tivesse frequentado todas as aulas, ele ___ o conteúdo melhor.",
+        "correctAnswer":  "would have understood",
+        "options":  [
+                        "would understand",
+                        "would have understood",
+                        "understands",
+                        "has understood"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Embora tivesse estudado bastante, o aluno ___ no exame.",
+        "correctAnswer":  "failed",
+        "options":  [
+                        "fails",
+                        "failed",
+                        "would fail",
+                        "have failed"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Os curriculos ___ pelos diretores precisam de aprovação da secretaria.",
+        "correctAnswer":  "designed",
+        "options":  [
+                        "designing",
+                        "designed",
+                        "design",
+                        "to design"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O aluno se alegrou ___ a notícia de aprovação.",
+        "correctAnswer":  "upon hearing",
+        "options":  [
+                        "to hear",
+                        "upon hearing",
+                        "by hearing",
+                        "in hearing"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Não apenas os alunos, mas também os pais ___ responsáveis pelo sucesso educacional.",
+        "correctAnswer":  "are",
+        "options":  [
+                        "is",
+                        "are",
+                        "was",
+                        "have"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "A professora comentou que os alunos ___ as atividades sem dificuldade.",
+        "correctAnswer":  "had completed",
+        "options":  [
+                        "complete",
+                        "completed",
+                        "had completed",
+                        "have completed"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Ao ___ a universidade, o jovem percebeu que precisava estudar mais.",
+        "correctAnswer":  "entering",
+        "options":  [
+                        "to enter",
+                        "entering",
+                        "enter",
+                        "entered"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Ele não apenas ensina, ___ inspira os seus alunos.",
+        "correctAnswer":  "but also",
+        "options":  [
+                        "and also",
+                        "but also",
+                        "yet also",
+                        "though also"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Quanto aos exames, é essencial que os alunos ___ bem preparados.",
+        "correctAnswer":  "be",
+        "options":  [
+                        "are",
+                        "be",
+                        "were",
+                        "have been"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Se eu fosse diretor da escola, ___ um programa de mentoria para os alunos.",
+        "correctAnswer":  "would introduce",
+        "options":  [
+                        "introduce",
+                        "would introduce",
+                        "would have introduced",
+                        "will introduce"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Os alunos têm trabalhado neste projeto ___ três meses.",
+        "correctAnswer":  "for",
+        "options":  [
+                        "during",
+                        "for",
+                        "since",
+                        "while"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "A pesquisa ___ foi realizada mostrou que o ensino online é eficaz.",
+        "correctAnswer":  "that",
+        "options":  [
+                        "which",
+                        "that",
+                        "what",
+                        "where"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Depois de ___ o teste, o aluno saiu correndo da sala.",
+        "correctAnswer":  "completing",
+        "options":  [
+                        "to complete",
+                        "completing",
+                        "complete",
+                        "completed"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "A diretora solicitou que todos os alunos ___ seus documentos até sexta-feira.",
+        "correctAnswer":  "submit",
+        "options":  [
+                        "submits",
+                        "submit",
+                        "submitted",
+                        "submitting"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Ele é o melhor aluno ___ eu nunca ensinei.",
+        "correctAnswer":  "that",
+        "options":  [
+                        "whom",
+                        "that",
+                        "who",
+                        "which"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O currículo foi revisado ___ levar em consideração as novas demandas do mercado.",
+        "correctAnswer":  "so as to",
+        "options":  [
+                        "in order to",
+                        "so as to",
+                        "in order that",
+                        "because"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Se o sistema educacional ___ mudanças, teria melhores resultados.",
+        "correctAnswer":  "had undergone",
+        "options":  [
+                        "would undergo",
+                        "had undergone",
+                        "underwent",
+                        "has undergone"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "A aprendizagem colaborativa, ___ promove o trabalho em equipe, é fundamental.",
+        "correctAnswer":  "which",
+        "options":  [
+                        "that",
+                        "which",
+                        "who",
+                        "what"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Por mais que estudasse, o aluno não ___ compreender a matéria.",
+        "correctAnswer":  "could",
+        "options":  [
+                        "can",
+                        "could",
+                        "would",
+                        "should"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Sem ___ recebido treinamento adequado, o professor não teria conseguido lidar com a turma.",
+        "correctAnswer":  "having",
+        "options":  [
+                        "to have",
+                        "having",
+                        "have",
+                        "has"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "A proposta educacional, ___ foi discutida amplamente, recebeu críticas positivas.",
+        "correctAnswer":  "which",
+        "options":  [
+                        "that",
+                        "which",
+                        "who",
+                        "whose"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Caso o aluno tivesse prestado mais atenção em aula, ___ o exame com facilidade.",
+        "correctAnswer":  "would have passed",
+        "options":  [
+                        "would pass",
+                        "would have passed",
+                        "will pass",
+                        "passes"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O desenvolvimento cognitivo dos alunos depende não apenas de fatores educacionais, mas também ___ apoio familiar.",
+        "correctAnswer":  "of",
+        "options":  [
+                        "in",
+                        "of",
+                        "on",
+                        "at"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Tendo ___ todo o material necessário, os alunos iniciaram o projeto de pesquisa.",
+        "correctAnswer":  "gathered",
+        "options":  [
+                        "to gather",
+                        "gathered",
+                        "gather",
+                        "gathering"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O método pedagógico introduzido pelo professor, ___ revolucionou a forma de ensinar, agora é adotado por outras escolas.",
+        "correctAnswer":  "which",
+        "options":  [
+                        "that",
+                        "which",
+                        "what",
+                        "when"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Não fosse pelo incentivo da mãe, o aluno não ___ seus estudos.",
+        "correctAnswer":  "would have continued",
+        "options":  [
+                        "would have continued",
+                        "had continued",
+                        "has continued",
+                        "would continue"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "A integração do ensino teórico com a prática, ___ aos alunos tanto conhecimento quanto experiência, é essencial.",
+        "correctAnswer":  "providing",
+        "options":  [
+                        "provide",
+                        "providing",
+                        "provided",
+                        "to provide"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Somente ___ implementou-se um sistema de avaliação contínua, observou-se melhorias no aprendizado.",
+        "correctAnswer":  "when",
+        "options":  [
+                        "while",
+                        "when",
+                        "before",
+                        "unless"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "A despeito das dificuldades financeiras, a escola ___ mantém seus padrões de qualidade.",
+        "correctAnswer":  "still",
+        "options":  [
+                        "yet",
+                        "still",
+                        "already",
+                        "anymore"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Se ele ___ participado do programa de bolsas, teria ingressado na universidade.",
+        "correctAnswer":  "had",
+        "options":  [
+                        "would have",
+                        "had",
+                        "has",
+                        "would"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Os alunos foram instruídos a respeitar o código de ética acadêmica, sem o qual nenhuma pesquisa ___ ser realizada.",
+        "correctAnswer":  "can",
+        "options":  [
+                        "could",
+                        "can",
+                        "might",
+                        "would"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "O professor insiste em que cada aluno ___ suas próprias conclusões antes de discutir com a turma.",
+        "correctAnswer":  "draw",
+        "options":  [
+                        "draws",
+                        "draw",
+                        "drawn",
+                        "drawing"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "B2",
+        "questionType":  "gramatica",
+        "topicDomain":  "educacao",
+        "type":  "multiple_choice",
+        "questionText":  "Para que a educação fosse eficaz, seria necessário que os recursos ___ distribuídos de forma equitativa.",
+        "correctAnswer":  "were",
+        "options":  [
+                        "are",
+                        "were",
+                        "would be",
+                        "have been"
+                    ],
+        "difficulty":  "medium"
+    }
+]

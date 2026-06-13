@@ -1,0 +1,492 @@
+[
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como se chama o assistente que trabalha com um ator ou atriz durante as filmagens?",
+    "correctAnswer": "stand-in",
+    "options": ["stand-in", "understudy", "extra", "stunt"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Qual é o termo para a cerimônia que premia os melhores filmes do ano em Hollywood?",
+    "correctAnswer": "Oscars",
+    "options": ["Grammys", "Oscars", "Tonys", "Emmys"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'blockbuster' no contexto do cinema?",
+    "correctAnswer": "Um filme de grande sucesso comercial",
+    "options": ["Um filme de baixo orçamento", "Um filme de grande sucesso comercial", "Um filme de ficção científica", "Um filme de curta metragem"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como se chama um ataque crítico severo a um artista ou trabalho?",
+    "correctAnswer": "roast",
+    "options": ["roast", "toast", "boast", "coast"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Qual é a palavra para descrever quando um ator é famoso por um papel específico?",
+    "correctAnswer": "typecast",
+    "options": ["typeset", "typecast", "typeface", "typename"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que é um 'cameo' em um filme ou série?",
+    "correctAnswer": "Uma aparição breve de um ator famoso",
+    "options": ["Um tipo de câmera especial", "Uma aparição breve de um ator famoso", "Uma cena de ação", "Um efeito especial"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como se chama o período durante o qual novos programas de TV são lançados?",
+    "correctAnswer": "season premiere",
+    "options": ["season finale", "season premiere", "off-season", "mid-season"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'spoiler' em entretenimento?",
+    "correctAnswer": "Uma informação que revela o final da história",
+    "options": ["Um efeito de som", "Uma informação que revela o final da história", "Um tipo de filme", "Um ator secundário"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como se chama a pessoa que escreve o guião de um filme?",
+    "correctAnswer": "screenwriter",
+    "options": ["screenwriter", "scriptwriter", "playwright", "novelist"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que é um 'backstage pass' no contexto de um concerto?",
+    "correctAnswer": "Um passe para entrar nos bastidores do evento",
+    "options": ["Um ingresso para a plateia", "Um passe para entrar nos bastidores do evento", "Um ingresso VIP", "Um passe de estacionamento"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como se chama a música de fundo em um filme?",
+    "correctAnswer": "score",
+    "options": ["score", "soundtrack", "theme", "jingle"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'cliffhanger' em uma série de TV?",
+    "correctAnswer": "Um final de episódio que deixa suspense",
+    "options": ["Uma cena de ação", "Um final de episódio que deixa suspense", "Um diálogo emocionante", "Uma transição de cena"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como se chama o trabalho artístico de criar personagens?",
+    "correctAnswer": "character development",
+    "options": ["character development", "character design", "character art", "character sketch"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que é um 'plot twist'?",
+    "correctAnswer": "Uma reviravolta inesperada na trama",
+    "options": ["Uma reviravolta inesperada na trama", "Uma mudança no elenco", "Um erro de filmagem", "Uma continuidade visual"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como se chama a apresentação teatral que combina música e dança?",
+    "correctAnswer": "musical",
+    "options": ["opera", "musical", "ballet", "symphony"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'box office' no cinema?",
+    "correctAnswer": "A bilheteria de um filme",
+    "options": ["O local onde se vende pipoca", "A bilheteria de um filme", "O estúdio de filmagem", "O elenco principal"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como se chama o texto que aparece no final de um filme com os créditos?",
+    "correctAnswer": "credits",
+    "options": ["credits", "subtitles", "captions", "graphics"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que é 'fanbase' em contexto de entretenimento?",
+    "correctAnswer": "O grupo de fãs dedicados de um artista ou série",
+    "options": ["Uma base de dados de filmes", "O grupo de fãs dedicados de um artista ou série", "Um estúdio de gravação", "Um tipo de festival"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como se chama a versão inicial de um filme antes de ser finalizada?",
+    "correctAnswer": "rough cut",
+    "options": ["final cut", "rough cut", "director's cut", "studio cut"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'avant-garde' na arte e cinema?",
+    "correctAnswer": "Trabalhos experimentais e inovadores",
+    "options": ["Trabalhos clássicos e tradicionais", "Trabalhos experimentais e inovadores", "Trabalhos de baixo orçamento", "Trabalhos independentes"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como se chama um artista que consegue trabalhar em múltiplas formas de arte?",
+    "correctAnswer": "renaissance man",
+    "options": ["versatile artist", "renaissance man", "multi-talented", "jack of all trades"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que é 'cinematography'?",
+    "correctAnswer": "A arte de capturar imagens em filme ou vídeo",
+    "options": ["A direção de um filme", "A arte de capturar imagens em filme ou vídeo", "A edição de um filme", "O som de um filme"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como se chama o período de pausa entre as gravações de uma série?",
+    "correctAnswer": "hiatus",
+    "options": ["hiatus", "recess", "intermission", "break"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'dubbing' em cinema?",
+    "correctAnswer": "A substituição da voz original pelos atores de outra língua",
+    "options": ["A adição de efeitos sonoros", "A substituição da voz original pelos atores de outra língua", "A criação de legendas", "A edição de áudio"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como se chama o estilo de filme que mistura ficção com realidade?",
+    "correctAnswer": "mockumentary",
+    "options": ["documentary", "mockumentary", "reality show", "docudrama"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que é 'mise-en-scène' no cinema?",
+    "correctAnswer": "O arranjo dos elementos visuais na cena",
+    "options": ["O script do filme", "O arranjo dos elementos visuais na cena", "O tema musical", "O elenco do filme"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como se chama a produção teatral que usa apenas palavras para contar a história?",
+    "correctAnswer": "radio play",
+    "options": ["monologue", "radio play", "soliloquy", "narrative"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'auteur' em cinema?",
+    "correctAnswer": "Um diretor que impõe seu estilo único no filme",
+    "options": ["Um roteirista", "Um diretor que impõe seu estilo único no filme", "Um produtor de cinema", "Um ator principal"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como se chama a técnica de animação que usa modelos para criar movimento?",
+    "correctAnswer": "stop-motion",
+    "options": ["rotoscoping", "stop-motion", "cel animation", "motion capture"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que é um 'anthology series'?",
+    "correctAnswer": "Uma série onde cada episódio tem uma história diferente",
+    "options": ["Uma série com um arco narrativo longo", "Uma série onde cada episódio tem uma história diferente", "Uma série baseada em livros", "Uma série com múltiplas temporadas"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como se chama a reinterpretação de uma obra de arte em outro formato?",
+    "correctAnswer": "adaptation",
+    "options": ["remake", "adaptation", "sequel", "reboot"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'aesthetic' no contexto da moda e arte?",
+    "correctAnswer": "Um conceito visual ou estilo unificado",
+    "options": ["Um conceito visual ou estilo unificado", "Uma crítica de arte", "Uma galeria de arte", "Um tipo de movimento artístico"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como se chama a versão alternativa de um acontecimento cultural importante?",
+    "correctAnswer": "alternate ending",
+    "options": ["alternate ending", "extended version", "special edition", "director's cut"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'metáfora visual' em arte cinematográfica?",
+    "correctAnswer": "O uso de imagens para representar conceitos abstratos",
+    "options": ["Uma sequência de cenas rápidas", "O uso de imagens para representar conceitos abstratos", "Uma técnica de transição", "Um efeito especial"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como se chama a análise profunda de um texto ou obra cultural?",
+    "correctAnswer": "deconstruction",
+    "options": ["criticism", "deconstruction", "interpretation", "analysis"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que é 'intertextuality' em literatura e mídia?",
+    "correctAnswer": "A referência a outras obras dentro de uma obra",
+    "options": ["A estrutura de um texto", "A referência a outras obras dentro de uma obra", "O significado literal do texto", "A crítica textual"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como se chama o fenômeno de fãs criarem histórias baseadas em personagens existentes?",
+    "correctAnswer": "fan fiction",
+    "options": ["fan art", "fan fiction", "fan tribute", "fan theory"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'pastiche' na arte?",
+    "correctAnswer": "Uma imitação de um estilo artístico existente",
+    "options": ["Uma crítica severa", "Uma imitação de um estilo artístico existente", "Uma obra original", "Uma colaboração"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como se chama a técnica de filmar em continuidade com múltiplas câmeras?",
+    "correctAnswer": "multi-camera setup",
+    "options": ["single-camera", "multi-camera setup", "handheld camera", "steadicam"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que é 'diegetic sound' em cinema?",
+    "correctAnswer": "Som que faz parte do mundo do filme",
+    "options": ["Som de fundo artificial", "Som que faz parte do mundo do filme", "Som de narração", "Som de efeitos especiais"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como se chama a prática de cancelar ou boicotar um artista ou obra?",
+    "correctAnswer": "cancel culture",
+    "options": ["boycott", "cancel culture", "protest", "petition"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'homage' em arte e cinema?",
+    "correctAnswer": "Uma homenagem ou reconhecimento a outro artista",
+    "options": ["Uma imitação desrespeitosa", "Uma homenagem ou reconhecimento a outro artista", "Uma cópia exata", "Uma crítica"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como se chama a versão de um filme feita especificamente para televisão?",
+    "correctAnswer": "TV cut",
+    "options": ["theatrical cut", "TV cut", "extended cut", "special edition"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que é 'verossimilhança' no contexto narrativo?",
+    "correctAnswer": "A qualidade de parecer verdadeiro ou plausível",
+    "options": ["A qualidade de parecer verdadeiro ou plausível", "A qualidade de ser dramático", "A qualidade de ser engraçado", "A qualidade de ser original"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como se chama a análise das escolhas e técnicas artísticas em uma obra?",
+    "correctAnswer": "close reading",
+    "options": ["close reading", "skimming", "scanning", "proofreading"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que significa 'bildungsroman' em literatura?",
+    "correctAnswer": "Um romance sobre o desenvolvimento pessoal de um protagonista",
+    "options": ["Um romance de mistério", "Um romance sobre o desenvolvimento pessoal de um protagonista", "Um romance de ficção científica", "Um romance histórico"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como se chama a tendência de algo voltar a ser popular após um período de esquecimento?",
+    "correctAnswer": "revival",
+    "options": ["trendy", "nostalgia", "revival", "renaissance"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "O que é 'subtext' em uma obra dramática?",
+    "correctAnswer": "O significado implícito além do que é dito",
+    "options": ["O texto principal", "O significado implícito além do que é dito", "As legendas", "A descrição das cenas"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "vocabulario",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Como se chama o público que aprecia e cultiva as artes e cultura erudita?",
+    "correctAnswer": "intelligentsia",
+    "options": ["intelligentsia", "commoners", "bourgeoisie", "proletariat"],
+    "difficulty": "hard"
+  }
+]

@@ -1,0 +1,752 @@
+﻿[
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "NÃ³s precisamos ___ uma reuniÃ£o para discutir o projeto.",
+        "correctAnswer":  "schedule",
+        "options":  [
+                        "schedule",
+                        "cancel",
+                        "forget",
+                        "avoid"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "O ___ da empresa Ã© de 500 funcionÃ¡rios.",
+        "correctAnswer":  "staff",
+        "options":  [
+                        "staff",
+                        "price",
+                        "product",
+                        "office"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "Ela trabalha no departamento de ___ da empresa.",
+        "correctAnswer":  "sales",
+        "options":  [
+                        "sales",
+                        "weather",
+                        "travel",
+                        "sport"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "O gerente quer ___ os custos do projeto.",
+        "correctAnswer":  "reduce",
+        "options":  [
+                        "reduce",
+                        "cook",
+                        "paint",
+                        "sing"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "Por favor, envie o ___ por e-mail atÃ© amanhÃ£.",
+        "correctAnswer":  "report",
+        "options":  [
+                        "report",
+                        "pizza",
+                        "game",
+                        "flower"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "O ___ do produto Ã© de cinquenta dÃ³lares.",
+        "correctAnswer":  "price",
+        "options":  [
+                        "price",
+                        "color",
+                        "shape",
+                        "weight"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "Ela assinou o ___ com a nova empresa.",
+        "correctAnswer":  "contract",
+        "options":  [
+                        "contract",
+                        "sandwich",
+                        "window",
+                        "carpet"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "O banco abriu uma nova ___ no centro da cidade.",
+        "correctAnswer":  "branch",
+        "options":  [
+                        "branch",
+                        "river",
+                        "mountain",
+                        "cloud"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "Ele recebe seu ___ no final de cada mÃªs.",
+        "correctAnswer":  "salary",
+        "options":  [
+                        "salary",
+                        "hobby",
+                        "dream",
+                        "lunch"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "A empresa vai ___ dez novos funcionÃ¡rios este ano.",
+        "correctAnswer":  "hire",
+        "options":  [
+                        "hire",
+                        "swim",
+                        "dance",
+                        "sleep"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "Por favor, ligue para o ___ para mais informaÃ§Ãµes.",
+        "correctAnswer":  "office",
+        "options":  [
+                        "office",
+                        "beach",
+                        "forest",
+                        "desert"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "Ele Ã© o ___ da empresa hÃ¡ cinco anos.",
+        "correctAnswer":  "manager",
+        "options":  [
+                        "manager",
+                        "driver",
+                        "painter",
+                        "farmer"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "A loja vai ___ Ã s nove da manhÃ£.",
+        "correctAnswer":  "open",
+        "options":  [
+                        "open",
+                        "fly",
+                        "jump",
+                        "swim"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "Precisamos fazer um ___ antes de iniciar o projeto.",
+        "correctAnswer":  "plan",
+        "options":  [
+                        "plan",
+                        "cake",
+                        "song",
+                        "toy"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "O cliente quer ___ um pedido grande.",
+        "correctAnswer":  "place",
+        "options":  [
+                        "place",
+                        "lose",
+                        "break",
+                        "forget"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "Ela trabalha em tempo ___ na empresa.",
+        "correctAnswer":  "full",
+        "options":  [
+                        "full",
+                        "empty",
+                        "cold",
+                        "dark"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "O diretor vai fazer uma ___ sobre os resultados.",
+        "correctAnswer":  "presentation",
+        "options":  [
+                        "presentation",
+                        "vacation",
+                        "celebration",
+                        "decoration"
+                    ],
+        "difficulty":  "easy"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "A empresa precisa aumentar suas ___ este trimestre.",
+        "correctAnswer":  "profits",
+        "options":  [
+                        "profits",
+                        "mistakes",
+                        "problems",
+                        "delays"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "O departamento financeiro faz o ___ das despesas mensais.",
+        "correctAnswer":  "budget",
+        "options":  [
+                        "budget",
+                        "menu",
+                        "ticket",
+                        "recipe"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "Precisamos ___ com nossos fornecedores sobre os preÃ§os.",
+        "correctAnswer":  "negotiate",
+        "options":  [
+                        "negotiate",
+                        "celebrate",
+                        "decorate",
+                        "navigate"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "O cliente solicitou um ___ para o produto danificado.",
+        "correctAnswer":  "refund",
+        "options":  [
+                        "refund",
+                        "reward",
+                        "receipt",
+                        "record"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "A empresa vai ___ seus preÃ§os no prÃ³ximo mÃªs.",
+        "correctAnswer":  "increase",
+        "options":  [
+                        "increase",
+                        "decrease",
+                        "exchange",
+                        "purchase"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "Ele precisa enviar a ___ atÃ© o prazo final.",
+        "correctAnswer":  "invoice",
+        "options":  [
+                        "invoice",
+                        "invite",
+                        "income",
+                        "indeed"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "A empresa tem uma boa ___ no mercado local.",
+        "correctAnswer":  "reputation",
+        "options":  [
+                        "reputation",
+                        "collection",
+                        "decoration",
+                        "navigation"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "O diretor vai ___ a proposta na reuniÃ£o de amanhÃ£.",
+        "correctAnswer":  "present",
+        "options":  [
+                        "present",
+                        "pretend",
+                        "prevent",
+                        "preserve"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "Nosso ___ principal Ã© aumentar as vendas em 20%.",
+        "correctAnswer":  "goal",
+        "options":  [
+                        "goal",
+                        "role",
+                        "hole",
+                        "pole"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "Ela vai fazer uma viagem de ___ para Nova York.",
+        "correctAnswer":  "business",
+        "options":  [
+                        "business",
+                        "pleasure",
+                        "leisure",
+                        "adventure"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "O banco oferece um ___ com juros baixos.",
+        "correctAnswer":  "loan",
+        "options":  [
+                        "loan",
+                        "loss",
+                        "load",
+                        "lock"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "A empresa vai ___ um novo produto no mercado em marÃ§o.",
+        "correctAnswer":  "launch",
+        "options":  [
+                        "launch",
+                        "lunch",
+                        "latch",
+                        "leach"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "Eles tÃªm um ___ de dois anos com a empresa fornecedora.",
+        "correctAnswer":  "deal",
+        "options":  [
+                        "deal",
+                        "meal",
+                        "feel",
+                        "heal"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "O funcionÃ¡rio precisa preencher o formulÃ¡rio de ___ de despesas.",
+        "correctAnswer":  "reimbursement",
+        "options":  [
+                        "reimbursement",
+                        "replacement",
+                        "recruitment",
+                        "requirement"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "O ___ de vendas foi muito bom este mÃªs.",
+        "correctAnswer":  "performance",
+        "options":  [
+                        "performance",
+                        "preference",
+                        "difference",
+                        "conference"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "A empresa vai ___ seu escritÃ³rio para uma cidade maior.",
+        "correctAnswer":  "move",
+        "options":  [
+                        "move",
+                        "prove",
+                        "grove",
+                        "stove"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "Ele Ã© responsÃ¡vel pelo ___ das contas da empresa.",
+        "correctAnswer":  "management",
+        "options":  [
+                        "management",
+                        "measurement",
+                        "movement",
+                        "agreement"
+                    ],
+        "difficulty":  "medium"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "A diretora aprovou o ___ de marketing para o prÃ³ximo ano.",
+        "correctAnswer":  "strategy",
+        "options":  [
+                        "strategy",
+                        "hierarchy",
+                        "category",
+                        "directory"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "O relatÃ³rio mostrou que a empresa tem boa ___ financeira.",
+        "correctAnswer":  "liquidity",
+        "options":  [
+                        "liquidity",
+                        "liability",
+                        "loyalty",
+                        "legality"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "Eles precisam ___ os dados antes de publicar o relatÃ³rio.",
+        "correctAnswer":  "verify",
+        "options":  [
+                        "verify",
+                        "modify",
+                        "notify",
+                        "justify"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "A empresa vai fazer uma ___ para avaliar os concorrentes.",
+        "correctAnswer":  "analysis",
+        "options":  [
+                        "analysis",
+                        "paralysis",
+                        "synthesis",
+                        "diagnosis"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "O gerente pediu um ___ detalhado sobre as despesas do mÃªs.",
+        "correctAnswer":  "breakdown",
+        "options":  [
+                        "breakdown",
+                        "breakthroughdown",
+                        "breakeven",
+                        "breakout"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "A empresa precisa melhorar sua ___ com os clientes.",
+        "correctAnswer":  "relationship",
+        "options":  [
+                        "relationship",
+                        "partnership",
+                        "ownership",
+                        "internship"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "O novo produto tem um grande ___ de mercado.",
+        "correctAnswer":  "potential",
+        "options":  [
+                        "potential",
+                        "material",
+                        "tutorial",
+                        "editorial"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "Eles assinaram um ___ de confidencialidade antes da reuniÃ£o.",
+        "correctAnswer":  "agreement",
+        "options":  [
+                        "agreement",
+                        "arrangement",
+                        "achievement",
+                        "advertisement"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "O departamento de RH vai ___ uma pesquisa de satisfaÃ§Ã£o dos funcionÃ¡rios.",
+        "correctAnswer":  "conduct",
+        "options":  [
+                        "conduct",
+                        "construct",
+                        "contract",
+                        "contact"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "A empresa vai ___ com outra organizaÃ§Ã£o para expandir o negÃ³cio.",
+        "correctAnswer":  "merge",
+        "options":  [
+                        "merge",
+                        "emerge",
+                        "diverge",
+                        "submerge"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "O relatÃ³rio anual mostra o ___ da empresa nos Ãºltimos doze meses.",
+        "correctAnswer":  "revenue",
+        "options":  [
+                        "revenue",
+                        "avenue",
+                        "venue",
+                        "residue"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "O diretor aprovou o ___ para a nova campanha publicitÃ¡ria.",
+        "correctAnswer":  "expenditure",
+        "options":  [
+                        "expenditure",
+                        "adventure",
+                        "furniture",
+                        "literature"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "A empresa precisa ___ seus processos para ser mais eficiente.",
+        "correctAnswer":  "streamline",
+        "options":  [
+                        "streamline",
+                        "deadline",
+                        "headline",
+                        "outline"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "O conselho de administraÃ§Ã£o vai ___ a fusÃ£o das duas empresas.",
+        "correctAnswer":  "approve",
+        "options":  [
+                        "approve",
+                        "improve",
+                        "remove",
+                        "reprove"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "O departamento jurÃ­dico analisou todas as ___ do contrato.",
+        "correctAnswer":  "clauses",
+        "options":  [
+                        "clauses",
+                        "causes",
+                        "cases",
+                        "closes"
+                    ],
+        "difficulty":  "hard"
+    },
+    {
+        "cefrLevel":  "A2",
+        "questionType":  "completar_frase",
+        "topicDomain":  "negocios",
+        "type":  "complete_sentence",
+        "questionText":  "A empresa conseguiu ___ seus custos operacionais em 15%.",
+        "correctAnswer":  "cut",
+        "options":  [
+                        "cut",
+                        "put",
+                        "gut",
+                        "rut"
+                    ],
+        "difficulty":  "hard"
+    }
+]

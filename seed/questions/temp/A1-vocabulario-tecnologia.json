@@ -1,0 +1,512 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'computer' em português?",
+    "correctAnswer": "Computador",
+    "options": ["Computador", "Celular", "Televisão", "Rádio"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'phone' em português?",
+    "correctAnswer": "Telefone",
+    "options": ["Telefone", "Câmera", "Tablet", "Impressora"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'screen' em português?",
+    "correctAnswer": "Tela",
+    "options": ["Tela", "Teclado", "Mouse", "Cabo"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'keyboard' em português?",
+    "correctAnswer": "Teclado",
+    "options": ["Teclado", "Monitor", "Fone de ouvido", "Webcam"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'mouse' em inglês quando usada em tecnologia?",
+    "correctAnswer": "Dispositivo para controlar o cursor no computador",
+    "options": ["Dispositivo para controlar o cursor no computador", "Um animal roedor", "Um tipo de cabo", "Uma porta USB"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'internet' em português?",
+    "correctAnswer": "Rede mundial de computadores",
+    "options": ["Rede mundial de computadores", "Um tipo de arquivo", "Um programa de edição", "Um cabo de dados"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'email' em português?",
+    "correctAnswer": "Correio eletrônico",
+    "options": ["Correio eletrônico", "Chamada de vídeo", "Mensagem de voz", "Carta impressa"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'camera' em português?",
+    "correctAnswer": "Câmera",
+    "options": ["Câmera", "Microfone", "Alto-falante", "Impressora"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'tablet' em português?",
+    "correctAnswer": "Tablet (dispositivo touchscreen portátil)",
+    "options": ["Tablet (dispositivo touchscreen portátil)", "Computador de mesa", "Impressora portátil", "Roteador"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'video' em português?",
+    "correctAnswer": "Vídeo",
+    "options": ["Vídeo", "Áudio", "Imagem estática", "Documento"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'photo' em português?",
+    "correctAnswer": "Foto",
+    "options": ["Foto", "Filme", "Música", "Texto"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'battery' em português?",
+    "correctAnswer": "Bateria",
+    "options": ["Bateria", "Carregador", "Cabo", "Tomada"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'button' em tecnologia?",
+    "correctAnswer": "Botão",
+    "options": ["Botão", "Tela", "Fio", "Porta"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'website' em português?",
+    "correctAnswer": "Site / página na internet",
+    "options": ["Site / página na internet", "Arquivo de música", "Programa instalado", "Cabo de rede"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'speaker' em tecnologia?",
+    "correctAnswer": "Alto-falante",
+    "options": ["Alto-falante", "Microfone", "Fone de ouvido", "Câmera"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'cable' em português?",
+    "correctAnswer": "Cabo",
+    "options": ["Cabo", "Plugue", "Tomada", "Adaptador"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'printer' em português?",
+    "correctAnswer": "Impressora",
+    "options": ["Impressora", "Scanner", "Projetor", "Roteador"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'password' em português?",
+    "correctAnswer": "Senha",
+    "options": ["Senha", "Usuário", "Nome", "Endereço"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'download' em português?",
+    "correctAnswer": "Baixar / transferir arquivo da internet para o computador",
+    "options": ["Baixar / transferir arquivo da internet para o computador", "Enviar arquivo para a internet", "Deletar um arquivo", "Abrir um arquivo"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'upload' em português?",
+    "correctAnswer": "Enviar arquivo do computador para a internet",
+    "options": ["Enviar arquivo do computador para a internet", "Baixar arquivo da internet", "Copiar arquivo", "Imprimir arquivo"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'network' em português?",
+    "correctAnswer": "Rede",
+    "options": ["Rede", "Servidor", "Arquivo", "Programa"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'folder' em tecnologia?",
+    "correctAnswer": "Pasta (para organizar arquivos)",
+    "options": ["Pasta (para organizar arquivos)", "Arquivo de texto", "Programa", "Atalho"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'file' em tecnologia?",
+    "correctAnswer": "Arquivo",
+    "options": ["Arquivo", "Pasta", "Disco", "Programa"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'search' em tecnologia?",
+    "correctAnswer": "Pesquisar / buscar",
+    "options": ["Pesquisar / buscar", "Salvar", "Deletar", "Compartilhar"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'save' em tecnologia?",
+    "correctAnswer": "Salvar",
+    "options": ["Salvar", "Abrir", "Fechar", "Imprimir"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'delete' em tecnologia?",
+    "correctAnswer": "Deletar / apagar",
+    "options": ["Deletar / apagar", "Copiar", "Mover", "Renomear"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'message' em português?",
+    "correctAnswer": "Mensagem",
+    "options": ["Mensagem", "Chamada", "Notificação", "Contato"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'username' em português?",
+    "correctAnswer": "Nome de usuário",
+    "options": ["Nome de usuário", "Senha", "Endereço de email", "Número de telefone"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'link' em tecnologia?",
+    "correctAnswer": "Atalho / endereço clicável na internet",
+    "options": ["Atalho / endereço clicável na internet", "Imagem", "Vídeo", "Arquivo de texto"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'app' em português?",
+    "correctAnswer": "Aplicativo",
+    "options": ["Aplicativo", "Arquivo", "Atualização", "Antivírus"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'login' em português?",
+    "correctAnswer": "Entrar / acessar uma conta",
+    "options": ["Entrar / acessar uma conta", "Sair de uma conta", "Criar uma conta", "Apagar uma conta"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'share' em tecnologia?",
+    "correctAnswer": "Compartilhar",
+    "options": ["Compartilhar", "Salvar", "Deletar", "Editar"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'notification' em português?",
+    "correctAnswer": "Notificação / aviso",
+    "options": ["Notificação / aviso", "Mensagem privada", "Chamada perdida", "Atualização"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'power' em tecnologia?",
+    "correctAnswer": "Energia / ligar",
+    "options": ["Energia / ligar", "Volume", "Brilho", "Velocidade"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'settings' em tecnologia?",
+    "correctAnswer": "Configurações",
+    "options": ["Configurações", "Atualizações", "Downloads", "Aplicativos"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'wifi' em português?",
+    "correctAnswer": "Rede sem fio / internet sem cabo",
+    "options": ["Rede sem fio / internet sem cabo", "Cabo de rede", "Roteador com fio", "Sinal de televisão"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a sigla 'USB' em português?",
+    "correctAnswer": "Tipo de porta/conector para ligar dispositivos ao computador",
+    "options": ["Tipo de porta/conector para ligar dispositivos ao computador", "Tipo de rede sem fio", "Formato de arquivo de vídeo", "Tipo de bateria recarregável"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'browser' em português?",
+    "correctAnswer": "Navegador de internet",
+    "options": ["Navegador de internet", "Mecanismo de busca", "Provedor de internet", "Servidor de email"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'update' em tecnologia?",
+    "correctAnswer": "Atualização / atualizar",
+    "options": ["Atualização / atualizar", "Instalação / instalar", "Remoção / remover", "Backup / fazer cópia"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'storage' em tecnologia?",
+    "correctAnswer": "Armazenamento",
+    "options": ["Armazenamento", "Processamento", "Conexão", "Memória RAM"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'account' em tecnologia?",
+    "correctAnswer": "Conta (de usuário)",
+    "options": ["Conta (de usuário)", "Senha de acesso", "Endereço de email", "Perfil público"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'virus' em tecnologia?",
+    "correctAnswer": "Programa malicioso que danifica o computador",
+    "options": ["Programa malicioso que danifica o computador", "Programa de proteção do computador", "Arquivo de sistema importante", "Tipo de atualização de segurança"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'backup' em tecnologia?",
+    "correctAnswer": "Cópia de segurança de arquivos",
+    "options": ["Cópia de segurança de arquivos", "Exclusão permanente de arquivos", "Compactação de arquivos", "Sincronização de arquivos"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'icon' em tecnologia?",
+    "correctAnswer": "Ícone / imagem pequena que representa um programa ou arquivo",
+    "options": ["Ícone / imagem pequena que representa um programa ou arquivo", "Janela aberta na tela", "Menu de opções", "Barra de ferramentas"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'profile' em tecnologia?",
+    "correctAnswer": "Perfil (de usuário)",
+    "options": ["Perfil (de usuário)", "Configuração do sistema", "Histórico de navegação", "Lista de contatos"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'cursor' em tecnologia?",
+    "correctAnswer": "Ponteiro / símbolo que se move na tela com o mouse",
+    "options": ["Ponteiro / símbolo que se move na tela com o mouse", "Tecla de atalho do teclado", "Barra de rolagem da página", "Botão de fechar janela"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a sigla 'URL' em português?",
+    "correctAnswer": "Endereço de uma página na internet",
+    "options": ["Endereço de uma página na internet", "Nome de um arquivo no computador", "Senha de acesso a uma rede", "Formato de imagem digital"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'menu' em tecnologia?",
+    "correctAnswer": "Lista de opções em um programa ou site",
+    "options": ["Lista de opções em um programa ou site", "Janela principal do programa", "Barra de status do sistema", "Atalho de teclado"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'logout' em português?",
+    "correctAnswer": "Sair / encerrar sessão em uma conta",
+    "options": ["Sair / encerrar sessão em uma conta", "Entrar em uma conta", "Criar uma nova conta", "Recuperar senha de uma conta"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'cloud' em tecnologia?",
+    "correctAnswer": "Armazenamento de arquivos na internet (nuvem)",
+    "options": ["Armazenamento de arquivos na internet (nuvem)", "Programa de edição de fotos", "Tipo de conexão por cabo", "Memória interna do computador"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "vocabulario",
+    "topicDomain": "tecnologia",
+    "type": "multiple_choice",
+    "questionText": "O que significa a palavra 'scroll' em tecnologia?",
+    "correctAnswer": "Rolar a página para cima ou para baixo",
+    "options": ["Rolar a página para cima ou para baixo", "Aumentar o zoom da tela", "Fechar uma janela aberta", "Selecionar um texto na tela"],
+    "difficulty": "hard"
+  }
+]

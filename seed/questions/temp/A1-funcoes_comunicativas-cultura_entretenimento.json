@@ -1,0 +1,512 @@
+[
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer a alguém que gosta de música. O que você fala?",
+    "correctAnswer": "I like music.",
+    "options": ["I like music.", "I have music.", "I am music.", "I go music."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar ao seu amigo se ele gosta de filmes. O que você pergunta?",
+    "correctAnswer": "Do you like movies?",
+    "options": ["Do you like movies?", "Are you like movies?", "Have you like movies?", "You like movies?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que não gosta de televisão. O que você fala?",
+    "correctAnswer": "I don't like TV.",
+    "options": ["I don't like TV.", "I no like TV.", "I not TV.", "I am not TV."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer falar que está assistindo a um filme agora. O que você diz?",
+    "correctAnswer": "I am watching a movie.",
+    "options": ["I am watching a movie.", "I watch a movie now.", "I see a movie.", "I have a movie."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que seu cantor favorito é muito bom. Como você expressa isso?",
+    "correctAnswer": "My favorite singer is very good.",
+    "options": ["My favorite singer is very good.", "My singer is very good favorite.", "The singer I very good.", "Singer my is good very."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer convidar um amigo para ir ao cinema. O que você diz?",
+    "correctAnswer": "Let's go to the cinema!",
+    "options": ["Let's go to the cinema!", "Go we cinema!", "We go cinema, yes?", "Cinema let us!"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que o filme é interessante. Como você fala?",
+    "correctAnswer": "The movie is interesting.",
+    "options": ["The movie is interesting.", "The movie has interesting.", "The movie interesting.", "Is interesting the movie."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que ouve música todos os dias. O que você fala?",
+    "correctAnswer": "I listen to music every day.",
+    "options": ["I listen to music every day.", "I hear music every day.", "I listen music every day.", "I music every day."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que a música é alta. Como você expressa isso?",
+    "correctAnswer": "The music is loud.",
+    "options": ["The music is loud.", "The music is big.", "The music is fast.", "The music is hard."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar qual é o programa favorito de alguém. O que você pergunta?",
+    "correctAnswer": "What is your favorite show?",
+    "options": ["What is your favorite show?", "Who is your favorite show?", "What are your favorite show?", "Which is favorite show?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que lê livros nos fins de semana. Como você fala?",
+    "correctAnswer": "I read books on weekends.",
+    "options": ["I read books on weekends.", "I reading books on weekends.", "I reads books on weekends.", "I am read books on weekends."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que o seu livro favorito é divertido. O que você fala?",
+    "correctAnswer": "My favorite book is fun.",
+    "options": ["My favorite book is fun.", "My favorite book is funny person.", "My book is very fun favorite.", "I like book and is fun."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que não assiste televisão à noite. Como você expressa isso?",
+    "correctAnswer": "I don't watch TV at night.",
+    "options": ["I don't watch TV at night.", "I not watch TV night.", "I no watch TV at night.", "I am not watch TV at night."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar ao amigo se ele toca algum instrumento musical. O que você pergunta?",
+    "correctAnswer": "Do you play an instrument?",
+    "options": ["Do you play an instrument?", "Can you music an instrument?", "Are you play instrument?", "Do you make an instrument?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que o show foi ótimo. O que você fala?",
+    "correctAnswer": "The show was great!",
+    "options": ["The show was great!", "The show is great yesterday!", "The show were great!", "The show did great!"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que gosta de dançar. Como você fala?",
+    "correctAnswer": "I like to dance.",
+    "options": ["I like to dance.", "I like dance to.", "I have like dancing.", "I am like dance."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que o teatro fica perto da sua casa. O que você diz?",
+    "correctAnswer": "The theater is near my house.",
+    "options": ["The theater is near my house.", "The theater is close my house.", "The theater is next house.", "The theater near is my house."],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar que tipo de música a pessoa gosta. O que você pergunta?",
+    "correctAnswer": "What kind of music do you like?",
+    "options": ["What kind of music do you like?", "Which type music you like?", "What music are you like?", "How music do you like?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que prefere filmes de ação a filmes românticos. Como você expressa isso?",
+    "correctAnswer": "I prefer action movies to romantic movies.",
+    "options": ["I prefer action movies to romantic movies.", "I like more action movies than romantic.", "Action movies is better for me than romantic.", "I want action movies, not romantic movies."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer recomendar um livro a alguém. O que você diz?",
+    "correctAnswer": "You should read this book.",
+    "options": ["You should read this book.", "You must to read this book.", "Read this book, you must.", "This book you should to read."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar quando começa o filme. O que você fala?",
+    "correctAnswer": "What time does the movie start?",
+    "options": ["What time does the movie start?", "When the movie starts?", "What hour movie begin?", "What time the movie is start?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que já viu esse filme antes. Como você expressa isso?",
+    "correctAnswer": "I have seen this movie before.",
+    "options": ["I have seen this movie before.", "I see this movie before.", "I saw this movie already.", "I watched already this movie."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que o festival de música acontece no verão. O que você fala?",
+    "correctAnswer": "The music festival happens in summer.",
+    "options": ["The music festival happens in summer.", "The music festival is happen in summer.", "The music festival do in summer.", "The music festival occurring in summer."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar onde fica o cinema mais próximo. O que você pergunta?",
+    "correctAnswer": "Where is the nearest cinema?",
+    "options": ["Where is the nearest cinema?", "Where the near cinema is?", "Which is the closest cinema?", "Where can I find cinema near?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que a série tem dez episódios. Como você fala?",
+    "correctAnswer": "The series has ten episodes.",
+    "options": ["The series has ten episodes.", "The series have ten episodes.", "The series is ten episodes.", "The series with ten episodes."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar se a sua amiga foi ao show ontem. O que você pergunta?",
+    "correctAnswer": "Did you go to the show yesterday?",
+    "options": ["Did you go to the show yesterday?", "Do you go to the show yesterday?", "Were you at the show yesterday?", "Have you go to the show yesterday?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que o ator é muito famoso. Como você expressa isso?",
+    "correctAnswer": "The actor is very famous.",
+    "options": ["The actor is very famous.", "The actor is very fame.", "The actor has very famous.", "The actor very is famous."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que toca violão há dois anos. O que você fala?",
+    "correctAnswer": "I have played guitar for two years.",
+    "options": ["I have played guitar for two years.", "I play guitar since two years.", "I played guitar for two years ago.", "I am playing guitar for two years."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar quantos livros a pessoa leu este mês. O que você pergunta?",
+    "correctAnswer": "How many books did you read this month?",
+    "options": ["How many books did you read this month?", "How much books did you read this month?", "How many books you read this month?", "How many books have you read this month ago?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer contar que foi a um concerto na semana passada. Como você fala?",
+    "correctAnswer": "I went to a concert last week.",
+    "options": ["I went to a concert last week.", "I go to a concert last week.", "I was go to a concert last week.", "I have go to a concert last week."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que a música nova do seu artista favorito é incrível. O que você fala?",
+    "correctAnswer": "My favorite artist's new song is amazing.",
+    "options": ["My favorite artist's new song is amazing.", "My favorite artist new song is amazing.", "The new song of my favorite artist are amazing.", "My artist's favorite new song is amazing."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar a um amigo se ele quer ir a uma peça de teatro. O que você pergunta?",
+    "correctAnswer": "Would you like to go to a play?",
+    "options": ["Would you like to go to a play?", "Do you want go to a play?", "Would you go to a play?", "Can you like to go to a play?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que está procurando algo interessante para fazer no fim de semana. Como você fala?",
+    "correctAnswer": "I am looking for something interesting to do on the weekend.",
+    "options": ["I am looking for something interesting to do on the weekend.", "I look for something interesting to do on the weekend.", "I am looking something interesting to do in the weekend.", "I am looking for something interesting do on the weekend."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que não entendeu a letra da música. O que você fala?",
+    "correctAnswer": "I didn't understand the song lyrics.",
+    "options": ["I didn't understand the song lyrics.", "I don't understand the song lyrics yesterday.", "I not understand the song lyrics.", "I didn't understood the song lyrics."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer expressar que o final do livro foi surpreendente. Como você diz isso?",
+    "correctAnswer": "The end of the book was surprising.",
+    "options": ["The end of the book was surprising.", "The end of book was surprising.", "The ending of the book was surprised.", "The book's end is surprising."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que aprecia diferentes tipos de arte. O que você fala?",
+    "correctAnswer": "I appreciate different types of art.",
+    "options": ["I appreciate different types of art.", "I appreciate different art types.", "I appreciate different arts type.", "I appreciates different types of art."],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você está descrevendo o enredo de um filme e quer dizer que o herói salva o mundo no final. Como você expressa isso em inglês?",
+    "correctAnswer": "The hero saves the world at the end.",
+    "options": ["The hero saves the world at the end.", "The hero save the world at the end.", "The hero is saving world in the end.", "At the end, the hero saves world."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer expressar sua opinião dizendo que o álbum mais recente da banda é melhor do que os anteriores. O que você fala?",
+    "correctAnswer": "The band's latest album is better than their previous ones.",
+    "options": ["The band's latest album is better than their previous ones.", "The latest album of band is more good than previous.", "The band latest album is better than they previous ones.", "The band's latest album is more better than previous."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que o cinema costumava ser sua atividade favorita, mas agora prefere assistir a filmes em casa. Como você expressa isso?",
+    "correctAnswer": "I used to love going to the cinema, but now I prefer watching movies at home.",
+    "options": ["I used to love going to the cinema, but now I prefer watching movies at home.", "I use to love going to the cinema, but now I prefer watch movies at home.", "I used to loved going to cinema, but now I prefer watching movies in home.", "I was love the cinema, but now I prefer to watch movies at home."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer recomendar uma série dizendo que ela é emocionante e tem personagens incríveis. O que você fala?",
+    "correctAnswer": "This series is exciting and has amazing characters.",
+    "options": ["This series is exciting and has amazing characters.", "This series is excited and have amazing characters.", "This series are exciting and has amazing characters.", "This series is exciting and having amazing characters."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar a alguém se ela já ouviu falar do novo álbum de um artista popular. O que você pergunta?",
+    "correctAnswer": "Have you heard about the new album by that popular artist?",
+    "options": ["Have you heard about the new album by that popular artist?", "Did you hear about the new album of that popular artist?", "Have you listened the new album by that popular artist?", "Do you heard about the new album by that popular artist?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que o diretor do filme é conhecido por fazer filmes dramáticos e emocionantes. Como você expressa isso?",
+    "correctAnswer": "The director is known for making dramatic and emotional movies.",
+    "options": ["The director is known for making dramatic and emotional movies.", "The director is known to make dramatic and emotional movies.", "The director is knowing for making dramatic and emotional movies.", "The director know for making dramatic and emotional movies."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer descrever uma experiência dizendo que o concerto foi a melhor coisa que você já fez na vida. O que você fala?",
+    "correctAnswer": "The concert was the best thing I have ever done in my life.",
+    "options": ["The concert was the best thing I have ever done in my life.", "The concert was the better thing I have ever done in my life.", "The concert is the best thing I have ever done in my life.", "The concert was the best thing I ever did in my life."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer expressar que, embora o livro seja longo, é muito interessante e você não consegue parar de ler. Como você fala isso?",
+    "correctAnswer": "Although the book is long, it is very interesting and I can't stop reading.",
+    "options": ["Although the book is long, it is very interesting and I can't stop reading.", "Although the book is long, it is very interesting and I can't stop to read.", "Even the book is long, it is very interesting and I can't stop reading.", "Although the book is long, it very interesting and I can't stop reading."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que vai ao teatro toda vez que um espetáculo novo estreia na cidade. O que você fala?",
+    "correctAnswer": "I go to the theater every time a new show opens in the city.",
+    "options": ["I go to the theater every time a new show opens in the city.", "I go to theater every time that new show opens in city.", "I go to the theater every time a new show is opening in the city.", "I goes to the theater every time a new show opens in the city."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer explicar que aprendeu a tocar piano porque sua mãe era músico. Como você expressa isso?",
+    "correctAnswer": "I learned to play the piano because my mother was a musician.",
+    "options": ["I learned to play the piano because my mother was a musician.", "I learned to play piano because my mother was musician.", "I learn to play the piano because my mother was a musician.", "I learned playing the piano because my mother was a musician."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que o personagem principal do livro muda muito ao longo da história. Como você expressa isso?",
+    "correctAnswer": "The main character in the book changes a lot throughout the story.",
+    "options": ["The main character in the book changes a lot throughout the story.", "The main character in the book change a lot throughout the story.", "The main character of the book changes a lot through the story.", "The main character in the book is changes a lot throughout the story."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer expressar que seu gosto musical mudou desde que começou a estudar inglês. O que você fala?",
+    "correctAnswer": "My taste in music has changed since I started studying English.",
+    "options": ["My taste in music has changed since I started studying English.", "My music taste changed since I start studying English.", "My taste for music has changed since I started to study English.", "My taste in music have changed since I started studying English."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer descrever a cena de abertura de um filme dizendo que começa com uma cidade movimentada à noite. Como você diz isso?",
+    "correctAnswer": "The movie begins with a busy city at night.",
+    "options": ["The movie begins with a busy city at night.", "The movie begin with a busy city at night.", "The movie is begins with a busy city at night.", "The movie begins with busy city in the night."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer dizer que o festival de cinema atrai pessoas de todo o mundo todos os anos. Como você expressa isso?",
+    "correctAnswer": "The film festival attracts people from all over the world every year.",
+    "options": ["The film festival attracts people from all over the world every year.", "The film festival attract people from all over world every year.", "The film festival attracting people from all over the world every year.", "The film festival attracts people from all over the world each years."],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "A1",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "cultura_entretenimento",
+    "type": "multiple_choice",
+    "questionText": "Você quer recomendar que alguém assista a um documentário dizendo que é educativo e também muito divertido. O que você fala?",
+    "correctAnswer": "You should watch this documentary; it is educational and also very entertaining.",
+    "options": ["You should watch this documentary; it is educational and also very entertaining.", "You should to watch this documentary; it is educational and also very entertaining.", "You should watch this documentary; it educational and also very entertaining.", "You should watch this documentary; it is educational and also very entertained."],
+    "difficulty": "hard"
+  }
+]

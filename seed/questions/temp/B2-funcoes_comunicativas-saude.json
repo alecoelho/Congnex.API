@@ -1,0 +1,502 @@
+[
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você está em uma farmácia e quer saber se o medicamento que está com febre será suficiente. O que você diz?",
+    "correctAnswer": "Could you recommend something for my high fever?",
+    "options": ["Could you recommend something for my high fever?", "Do you have medicine?", "I want fever medicine", "Fever is bad"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Um colega está se queixando de dor de cabeça. Como você demonstra empatia?",
+    "correctAnswer": "That sounds really painful. Have you taken anything for it?",
+    "options": ["That sounds really painful. Have you taken anything for it?", "You have headache problem", "Take medicine now", "Headache is common"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você precisa chamar uma ambulância em uma emergência. Qual é a maneira correta de comunicar?",
+    "correctAnswer": "I need an ambulance immediately. My friend is having chest pain.",
+    "options": ["I need an ambulance immediately. My friend is having chest pain.", "Get ambulance, please", "Ambulance is needed", "My friend is very sick"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você polida e gentilmente nega um convite porque não está se sentindo bem?",
+    "correctAnswer": "Thank you for the invitation, but I'm not feeling well today.",
+    "options": ["Thank you for the invitation, but I'm not feeling well today.", "No, I don't want to go", "I can't, I'm sick", "Not today"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Um amigo pergunta sobre seu estado de saúde. Como você responde de forma detalhada?",
+    "correctAnswer": "I've been having trouble sleeping and my back hurts lately.",
+    "options": ["I've been having trouble sleeping and my back hurts lately.", "I'm okay", "Fine, thanks", "Nothing is wrong"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você está no consultório do médico e quer descrever seus sintomas. O que você diz?",
+    "correctAnswer": "I've been feeling dizzy and tired for the past three days.",
+    "options": ["I've been feeling dizzy and tired for the past three days.", "I feel bad", "Dizzy and tired", "It's been long"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você faz uma sugestão de saúde a um amigo de forma delicada?",
+    "correctAnswer": "You might want to consider getting more exercise. It could help you feel better.",
+    "options": ["You might want to consider getting more exercise. It could help you feel better.", "You need to exercise", "Exercise is good for you", "Go exercise now"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer agendar uma consulta com o dentista. Como você faz isso?",
+    "correctAnswer": "I'd like to make an appointment with the dentist. Do you have any available slots next week?",
+    "options": ["I'd like to make an appointment with the dentist. Do you have any available slots next week?", "I want dental appointment", "Dentist appointment needed", "Can I see dentist?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Um colega faltou ao trabalho e você quer saber se está tudo bem. Qual mensagem é apropriada?",
+    "correctAnswer": "I heard you weren't feeling well. Is there anything I can do to help?",
+    "options": ["I heard you weren't feeling well. Is there anything I can do to help?", "Why you didn't come?", "You were absent", "Get well soon"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você pede informações sobre os efeitos colaterais de um medicamento?",
+    "correctAnswer": "Are there any side effects I should be aware of with this medication?",
+    "options": ["Are there any side effects I should be aware of with this medication?", "Does medicine have bad effects?", "What are side effects?", "Tell me side effects"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você está em uma aula de fitness e quer dizer ao instrutor que tem uma lesão. Como você comunica?",
+    "correctAnswer": "I have a shoulder injury, so I might need to modify some exercises.",
+    "options": ["I have a shoulder injury, so I might need to modify some exercises.", "I have shoulder problem", "My shoulder hurts", "I'm injured"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você expressa preocupação com a saúde de um familiar durante uma conversa?",
+    "correctAnswer": "I'm really worried about Dad's health. He's been coughing a lot lately.",
+    "options": ["I'm really worried about Dad's health. He's been coughing a lot lately.", "Dad has cough", "Dad is sick", "I worry about Dad"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer recomendar um estilo de vida mais saudável a um amigo. Como você faz isso construtivamente?",
+    "correctAnswer": "Maybe we could start going to the gym together. It would be great for both of us.",
+    "options": ["Maybe we could start going to the gym together. It would be great for both of us.", "You need exercise", "Start going to gym", "Exercise is necessary"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "No hospital, como você pergunta ao enfermeiro sobre o horário de visitas?",
+    "correctAnswer": "What are the visiting hours? I'd like to see my friend later today.",
+    "options": ["What are the visiting hours? I'd like to see my friend later today.", "When can I visit?", "What time visit?", "Hospital hours?"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você pede ao seu médico para explicar um diagnóstico de forma mais simples?",
+    "correctAnswer": "Could you explain that in simpler terms? I'm not sure I understand what you mean.",
+    "options": ["Could you explain that in simpler terms? I'm not sure I understand what you mean.", "Explain it", "What does it mean?", "I don't understand"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer encorajar um amigo a parar de fumar. Qual abordagem é mais eficaz?",
+    "correctAnswer": "I believe in you. Quitting would be really good for your health and I'd be happy to support you.",
+    "options": ["I believe in you. Quitting would be really good for your health and I'd be happy to support you.", "You should quit smoking", "Stop smoking now", "Smoking is bad"],
+    "difficulty": "easy"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Durante uma consulta online, o médico pergunta sobre seus hábitos alimentares. Como você responde detalhadamente?",
+    "correctAnswer": "I try to eat balanced meals, but I struggle with late-night snacking and don't drink enough water.",
+    "options": ["I try to eat balanced meals, but I struggle with late-night snacking and don't drink enough water.", "I eat food", "My eating is okay", "Food habits are fine"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Um colega de trabalho está sofrendo de estresse. Como você sugere ajuda de forma profissional?",
+    "correctAnswer": "You seem stressed. Have you thought about talking to a counselor? It might really help.",
+    "options": ["You seem stressed. Have you thought about talking to a counselor? It might really help.", "You are stressed", "Get counseling", "Stress is bad"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você precisa informar seu supervisor que precisará de alguns dias de licença para tratar de um problema de saúde. Como você comunica?",
+    "correctAnswer": "I need to take a few days off for a health-related matter. Would that be possible next week?",
+    "options": ["I need to take a few days off for a health-related matter. Would that be possible next week?", "I need days off", "I'm taking vacation", "I'll be absent"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você educadamente declina uma bebida alcoólica em um evento social por razões de saúde?",
+    "correctAnswer": "No thanks, I'm trying to cut back on alcohol for my health. I'll have a water instead.",
+    "options": ["No thanks, I'm trying to cut back on alcohol for my health. I'll have a water instead.", "I don't want drink", "No alcohol", "I can't drink"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você deseja compartilhar um sucesso pessoal relacionado à saúde. Como você o faz de forma apropriada?",
+    "correctAnswer": "I'm really proud of myself. I've finally managed to stick with my diet and exercise routine.",
+    "options": ["I'm really proud of myself. I've finally managed to stick with my diet and exercise routine.", "I did exercise", "I'm healthy now", "I changed habits"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Um amigo está considerando uma cirurgia. Como você oferece apoio emocional apropriado?",
+    "correctAnswer": "That must be a tough decision. I'm here for you no matter what you choose, and I'll support you through it.",
+    "options": ["That must be a tough decision. I'm here for you no matter what you choose, and I'll support you through it.", "Have the surgery", "It's your choice", "Surgery will help"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você pergunta ao farmacêutico sobre a interação entre dois medicamentos?",
+    "correctAnswer": "Could there be any interaction between this medication and my blood pressure pills?",
+    "options": ["Could there be any interaction between this medication and my blood pressure pills?", "Do medicines mix?", "Will they interact?", "Are they compatible?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você precisa informar um restaurante sobre suas restrições dietéticas. Como você faz isso claramente?",
+    "correctAnswer": "I have a severe gluten allergy, so I need to know which dishes are completely gluten-free.",
+    "options": ["I have a severe gluten allergy, so I need to know which dishes are completely gluten-free.", "I can't eat gluten", "No gluten please", "I'm allergic to gluten"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você expressa frustração com o sistema de saúde mantendo um tom respeitoso?",
+    "correctAnswer": "I understand there are waiting lists, but I'm frustrated with how long it's taking to get an appointment.",
+    "options": ["I understand there are waiting lists, but I'm frustrated with how long it's taking to get an appointment.", "The waiting is bad", "I'm frustrated", "This takes too long"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Um colega compartilha que foi diagnosticado com diabetes. Como você responde com sensibilidade?",
+    "correctAnswer": "Thank you for sharing that with me. If you need any support or someone to talk to, I'm here for you.",
+    "options": ["Thank you for sharing that with me. If you need any support or someone to talk to, I'm here for you.", "That's bad", "Diabetes is serious", "I'm sorry to hear that"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer perguntar sobre as opções de tratamento disponíveis para sua condição. Como você estrutura essa conversa?",
+    "correctAnswer": "What are the different treatment options available? Could you explain the pros and cons of each?",
+    "options": ["What are the different treatment options available? Could you explain the pros and cons of each?", "What treatments are there?", "How to treat it?", "Which treatment is best?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você comunica a necessidade de um cuidador ou assistência no dia a dia de forma clara?",
+    "correctAnswer": "I'm having difficulty managing daily tasks on my own. I think I might benefit from some professional care assistance.",
+    "options": ["I'm having difficulty managing daily tasks on my own. I think I might benefit from some professional care assistance.", "I need help", "I need carer", "I can't do things"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você está discutindo com seu médico sobre ajustar sua dose de medicamento. Como você inicia essa conversa?",
+    "correctAnswer": "I feel like my current dose isn't working as well as it did. Should we discuss adjusting it?",
+    "options": ["I feel like my current dose isn't working as well as it did. Should we discuss adjusting it?", "My medicine doesn't work", "Change my dose", "I need different medicine"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Um familiar está em recuperação de uma cirurgia. Como você oferece ajuda prática de forma específica?",
+    "correctAnswer": "I'd like to help with your recovery. Can I cook some meals for you or help with any household tasks?",
+    "options": ["I'd like to help with your recovery. Can I cook some meals for you or help with any household tasks?", "I'll help you", "Let me know if you need help", "I can assist you"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Como você educadamente questiona uma recomendação médica que não entende completamente?",
+    "correctAnswer": "I appreciate the recommendation, but could you help me understand why you think this is the best approach?",
+    "options": ["I appreciate the recommendation, but could you help me understand why you think this is the best approach?", "Why this treatment?", "I don't understand", "Is this necessary?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você está enfrentando uma condição de saúde mental e quer confiar em um amigo. Como você aborda esse assunto delicado?",
+    "correctAnswer": "I've been struggling with anxiety lately, and I thought it would help to talk to someone I trust. I really appreciate you listening.",
+    "options": ["I've been struggling with anxiety lately, and I thought it would help to talk to someone I trust. I really appreciate you listening.", "I have anxiety", "I'm anxious", "Mental health is hard"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você precisa negociar um plano de tratamento que é financeiramente desafiador. Como você comunica suas preocupações?",
+    "correctAnswer": "I understand this treatment is necessary, but I'm concerned about the cost. Are there more affordable alternatives or payment plans?",
+    "options": ["I understand this treatment is necessary, but I'm concerned about the cost. Are there more affordable alternatives or payment plans?", "The treatment is expensive", "I can't afford it", "It costs too much"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Um colega com deficiência pede acomodações no local de trabalho por razões de saúde. Como você demonstra compreensão?",
+    "correctAnswer": "I completely understand your needs. Let's work together to find accommodations that help you work comfortably and productively.",
+    "options": ["I completely understand your needs. Let's work together to find accommodations that help you work comfortably and productively.", "We'll accommodate you", "Just tell me what you need", "No problem with that"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você deseja registrar uma reclamação formal sobre um atendimento inadequado de saúde. Como você estrutura isso apropriadamente?",
+    "correctAnswer": "I'd like to file a formal complaint about my recent visit. The care I received fell below the standard I expected, and I'd like to discuss this with the appropriate department.",
+    "options": ["I'd like to file a formal complaint about my recent visit. The care I received fell below the standard I expected, and I'd like to discuss this with the appropriate department.", "I want to complain", "Your service is bad", "I'm not satisfied"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Um membro da família quer mudar de profissão por questões de saúde. Como você o apoia de forma construtiva na conversa?",
+    "correctAnswer": "I understand why you're considering this change. Let's talk about what would make you happier and healthier in your work life.",
+    "options": ["I understand why you're considering this change. Let's talk about what would make you happier and healthier in your work life.", "Change your job", "Your health is important", "Do what you need to do"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você está discutindo estratégias de prevenção de doenças crônicas com seu médico. Como você engaja nessa conversa proativa?",
+    "correctAnswer": "I want to be proactive about my health. What lifestyle changes or preventive measures would you recommend to reduce my risk of chronic diseases?",
+    "options": ["I want to be proactive about my health. What lifestyle changes or preventive measures would you recommend to reduce my risk of chronic diseases?", "How to prevent disease?", "What should I do?", "Prevention is important"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Um amigo está enfrentando vício em substâncias. Como você oferece apoio sem julgamento?",
+    "correctAnswer": "I care about you very much. I know this is difficult, but I want to support you in getting the help you deserve. What can I do?",
+    "options": ["I care about you very much. I know this is difficult, but I want to support you in getting the help you deserve. What can I do?", "Stop using drugs", "You need help", "This is serious"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você precisa discutir opções de cuidados paliativos com a família. Como você facilita uma conversa tão sensível?",
+    "correctAnswer": "This is a difficult topic, but I think we should discuss what kind of care Mom would want as her condition progresses. Her comfort and dignity are what matter most.",
+    "options": ["This is a difficult topic, but I think we should discuss what kind of care Mom would want as her condition progresses. Her comfort and dignity are what matter most.", "We should decide now", "Let's talk about care", "Mom needs help"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Um colega está retornando ao trabalho após uma longa licença de saúde mental. Como você o reintegra de forma acolhedora?",
+    "correctAnswer": "Welcome back! I'm glad to have you back with us. Don't hesitate to reach out if you need anything as you settle back in.",
+    "options": ["Welcome back! I'm glad to have you back with us. Don't hesitate to reach out if you need anything as you settle back in.", "You're back now", "Glad you're here", "Everything is normal"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você descobre que um colega está tendo dificuldades financeiras para pagar tratamento médico. Como você oferece ajuda de forma sensível?",
+    "correctAnswer": "I've noticed you seem stressed about medical costs. Would it help if we organized a fundraiser or if I could help you explore other resources?",
+    "options": ["I've noticed you seem stressed about medical costs. Would it help if we organized a fundraiser or if I could help you explore other resources?", "You need money", "Let me help pay", "Medical care is expensive"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você quer discutir a importância da saúde mental com seu adolescente. Como você inicia essa conversa de forma aberta?",
+    "correctAnswer": "I know school can be stressful. I want you to know that mental health is just as important as physical health, and I'm always here to listen.",
+    "options": ["I know school can be stressful. I want you to know that mental health is just as important as physical health, and I'm always here to listen.", "You should be happy", "Mental health is important", "Talk to me about problems"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Um paciente idoso não está seguindo o regime de medicamentos recomendado. Como um cuidador aborda isso com sensibilidade?",
+    "correctAnswer": "I've noticed you haven't been taking your medications as prescribed. Can we talk about what's making it difficult? Maybe we can find a way to make it easier for you.",
+    "options": ["I've noticed you haven't been taking your medications as prescribed. Can we talk about what's making it difficult? Maybe we can find a way to make it easier for you.", "You must take medicine", "Take your pills", "Don't forget medication"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você está navegando um diagnóstico terminal e precisa comunicar isso a amigos próximos. Como você o faz com dignidade?",
+    "correctAnswer": "I've been given difficult news about my health, and I wanted to share this with people who matter to me. I'm still myself, and I hope we can continue our friendship as we have.",
+    "options": ["I've been given difficult news about my health, and I wanted to share this with people who matter to me. I'm still myself, and I hope we can continue our friendship as we have.", "I'm very sick", "I don't have much time", "I will not recover"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Um amigo está considerando um procedimento cosmético por razões de saúde emocional. Como você oferece uma perspectiva equilibrada?",
+    "correctAnswer": "I understand this is important to you. Whatever you decide, I support you, but remember that your worth isn't determined by your appearance.",
+    "options": ["I understand this is important to you. Whatever you decide, I support you, but remember that your worth isn't determined by your appearance.", "You don't need surgery", "Just accept yourself", "This is your choice"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você está fazendo um check-up anual e quer discutir fatores de risco genéticos. Como você estrutura essa conversa?",
+    "correctAnswer": "I have a family history of heart disease. Should we discuss screening or preventive measures I could take given that genetic predisposition?",
+    "options": ["I have a family history of heart disease. Should we discuss screening or preventive measures I could take given that genetic predisposition?", "My family has heart disease", "Do I have risk?", "I'm worried about genetics"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Um colega está enfrentando infertilidade e compartilha isso com você. Como você responde com compaixão genuína?",
+    "correctAnswer": "I can only imagine how challenging this must be. Thank you for trusting me with something so personal. Please know I'm here for you throughout this journey.",
+    "options": ["I can only imagine how challenging this must be. Thank you for trusting me with something so personal. Please know I'm here for you throughout this journey.", "You'll get pregnant", "Don't worry about it", "It will happen eventually"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Você está discutindo opções de exercício adaptado com um fisioterapeuta devido a uma lesão. Como você colabora nessa discussão?",
+    "correctAnswer": "I want to get back to exercising, but I'm worried about reinjuring myself. What activities would be safe and beneficial for my recovery?",
+    "options": ["I want to get back to exercising, but I'm worried about reinjuring myself. What activities would be safe and beneficial for my recovery?", "What can I do?", "Is exercise safe?", "How to exercise now?"],
+    "difficulty": "hard"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Em uma clínica, como você pergunta se o médico está disponível para uma consulta hoje?",
+    "correctAnswer": "Is the doctor available for a consultation today?",
+    "options": ["Is the doctor available for a consultation today?", "Can I see doctor today?", "Does doctor work today?", "Is doctor in today?"],
+    "difficulty": "medium"
+  },
+  {
+    "cefrLevel": "B2",
+    "questionType": "funcoes_comunicativas",
+    "topicDomain": "saude",
+    "type": "multiple_choice",
+    "questionText": "Um amigo te pergunta como você está. Como você responde que está com um resfriado leve?",
+    "correctAnswer": "I'm doing okay, but I've got a slight cold.",
+    "options": ["I'm doing okay, but I've got a slight cold.", "I have little cold", "Cold is with me", "I'm having cold slightly"],
+    "difficulty": "easy"
+  }
+]
