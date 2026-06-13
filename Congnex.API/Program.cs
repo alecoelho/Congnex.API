@@ -113,6 +113,8 @@ if (app.Environment.IsDevelopment())
         var db = scope.ServiceProvider.GetRequiredService<CongnexDbContext>();
         await db.Database.MigrateAsync();
         await Congnex.Infrastructure.Persistence.DbSeeder.SeedAsync(db);
+        await Congnex.Infrastructure.Persistence.QuestionBankSeeder.SeedAsync(
+            db, app.Environment.ContentRootPath, app.Logger);
     }
     catch (Exception ex)
     {

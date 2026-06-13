@@ -22,4 +22,20 @@ public interface IXylaService
     /// Fire-and-forget internally; returns immediately.
     /// </summary>
     Task GenerateNextLessonAsync(Guid userId, Guid completedLessonId, CancellationToken ct = default);
+
+    /// <summary>
+    /// Generates questions for all 12 domains for one (cefrLevel × questionType) combination in a single AI call.
+    /// Returns a dictionary: domain → list of questions.
+    /// </summary>
+    Task<Dictionary<string, List<BankQuestionDto>>> GenerateQuestionBankForTipoAsync(
+        string cefrLevel, string questionType, CancellationToken ct = default);
 }
+
+public record BankOptionDto(string OptionText, bool IsCorrect);
+
+public record BankQuestionDto(
+    string Type,
+    string QuestionText,
+    string CorrectAnswer,
+    string Difficulty,
+    List<BankOptionDto> Options);

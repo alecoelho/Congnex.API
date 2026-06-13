@@ -155,6 +155,11 @@ namespace Congnex.Infrastructure.Migrations
                         .HasColumnType("varchar(1000)")
                         .HasColumnName("description");
 
+                    b.Property<string>("Level")
+                        .HasMaxLength(2)
+                        .HasColumnType("varchar(2)")
+                        .HasColumnName("level");
+
                     b.Property<int>("OrderIndex")
                         .HasColumnType("int")
                         .HasColumnName("order_index");
@@ -408,6 +413,114 @@ namespace Congnex.Infrastructure.Migrations
                     b.HasIndex("VideoId");
 
                     b.ToTable("questions", (string)null);
+                });
+
+            modelBuilder.Entity("Congnex.Domain.Entities.QuestionBank", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("char(36)")
+                        .HasColumnName("id");
+
+                    b.Property<string>("CefrLevel")
+                        .IsRequired()
+                        .HasMaxLength(2)
+                        .HasColumnType("varchar(2)")
+                        .HasColumnName("cefr_level");
+
+                    b.Property<string>("CorrectAnswer")
+                        .IsRequired()
+                        .HasMaxLength(500)
+                        .HasColumnType("varchar(500)")
+                        .HasColumnName("correct_answer");
+
+                    b.Property<DateTime>("CreatedAt")
+                        .HasColumnType("datetime(6)")
+                        .HasColumnName("created_at");
+
+                    b.Property<string>("Difficulty")
+                        .IsRequired()
+                        .ValueGeneratedOnAdd()
+                        .HasMaxLength(10)
+                        .HasColumnType("varchar(10)")
+                        .HasDefaultValue("easy")
+                        .HasColumnName("difficulty");
+
+                    b.Property<string>("Domain")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("varchar(50)")
+                        .HasColumnName("domain");
+
+                    b.Property<string>("QuestionText")
+                        .IsRequired()
+                        .HasMaxLength(1000)
+                        .HasColumnType("varchar(1000)")
+                        .HasColumnName("question_text");
+
+                    b.Property<string>("QuestionType")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("varchar(50)")
+                        .HasColumnName("question_type");
+
+                    b.Property<string>("Type")
+                        .IsRequired()
+                        .HasMaxLength(30)
+                        .HasColumnType("varchar(30)")
+                        .HasColumnName("type");
+
+                    b.Property<DateTime>("UpdatedAt")
+                        .HasColumnType("datetime(6)")
+                        .HasColumnName("updated_at");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("Difficulty");
+
+                    b.HasIndex("CefrLevel", "QuestionType", "Domain");
+
+                    b.ToTable("question_bank", (string)null);
+                });
+
+            modelBuilder.Entity("Congnex.Domain.Entities.QuestionBankOption", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("char(36)")
+                        .HasColumnName("id");
+
+                    b.Property<DateTime>("CreatedAt")
+                        .HasColumnType("datetime(6)")
+                        .HasColumnName("created_at");
+
+                    b.Property<bool>("IsCorrect")
+                        .HasColumnType("tinyint(1)")
+                        .HasColumnName("is_correct");
+
+                    b.Property<string>("OptionText")
+                        .IsRequired()
+                        .HasMaxLength(500)
+                        .HasColumnType("varchar(500)")
+                        .HasColumnName("option_text");
+
+                    b.Property<int>("OrderIndex")
+                        .HasColumnType("int")
+                        .HasColumnName("order_index");
+
+                    b.Property<Guid>("QuestionBankId")
+                        .HasColumnType("char(36)")
+                        .HasColumnName("question_bank_id");
+
+                    b.Property<DateTime>("UpdatedAt")
+                        .HasColumnType("datetime(6)")
+                        .HasColumnName("updated_at");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("QuestionBankId");
+
+                    b.ToTable("question_bank_options", (string)null);
                 });
 
             modelBuilder.Entity("Congnex.Domain.Entities.QuestionOption", b =>
@@ -1265,6 +1378,17 @@ namespace Congnex.Infrastructure.Migrations
                     b.Navigation("Video");
                 });
 
+            modelBuilder.Entity("Congnex.Domain.Entities.QuestionBankOption", b =>
+                {
+                    b.HasOne("Congnex.Domain.Entities.QuestionBank", "Question")
+                        .WithMany("Options")
+                        .HasForeignKey("QuestionBankId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Question");
+                });
+
             modelBuilder.Entity("Congnex.Domain.Entities.QuestionOption", b =>
                 {
                     b.HasOne("Congnex.Domain.Entities.Question", "Question")
@@ -1436,6 +1560,11 @@ namespace Congnex.Infrastructure.Migrations
                     b.Navigation("ReviewItems");
 
                     b.Navigation("UserAnswers");
+                });
+
+            modelBuilder.Entity("Congnex.Domain.Entities.QuestionBank", b =>
+                {
+                    b.Navigation("Options");
                 });
 
             modelBuilder.Entity("Congnex.Domain.Entities.Unit", b =>

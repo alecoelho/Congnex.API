@@ -24,6 +24,8 @@ public class CongnexDbContext(DbContextOptions<CongnexDbContext> options)
     public DbSet<DeviceToken> DeviceTokens => Set<DeviceToken>();
     public DbSet<FlashcardReview> FlashcardReviews => Set<FlashcardReview>();
     public DbSet<UserInterviewAnswer> UserInterviewAnswers => Set<UserInterviewAnswer>();
+    public DbSet<QuestionBank> QuestionBankItems => Set<QuestionBank>();
+    public DbSet<QuestionBankOption> QuestionBankOptions => Set<QuestionBankOption>();
 
     protected override void OnModelCreating(ModelBuilder b)
     {

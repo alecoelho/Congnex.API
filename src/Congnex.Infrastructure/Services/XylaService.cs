@@ -855,6 +855,174 @@ public class XylaService : IXylaService
         return null;
     }
 
+    // ── Question bank generation (bulk: all 12 domains in one call) ───────────
+
+    private static readonly string[] BankDomains =
+    [
+        "rotina_diaria", "trabalho", "viagem", "saude", "negocios", "tecnologia",
+        "compras", "educacao", "familia_relacionamentos", "alimentacao",
+        "cultura_entretenimento", "meio_ambiente"
+    ];
+
+    public async Task<Dictionary<string, List<BankQuestionDto>>> GenerateQuestionBankForTipoAsync(
+        string cefrLevel, string questionType, CancellationToken ct = default)
+    {
+        var prompt = BuildBulkBankPrompt(cefrLevel, questionType);
+        var dbType = QuestionBankTypeFor(questionType);
+
+        try
+        {
+#pragma warning disable SKEXP0001
+            var result = await _kernel.InvokePromptAsync(prompt, new KernelArguments(
+                new AzureOpenAIPromptExecutionSettings
+                {
+                    ServiceId   = "xyla-mini",
+                    MaxTokens   = 16000,
+                    Temperature = 0.5
+                }
+            ), cancellationToken: ct);
+#pragma warning restore SKEXP0001
+
+            var usage = result.Metadata?.GetValueOrDefault("Usage");
+            _logger.LogInformation("[BankGen] Bulk {Level}/{Type} usage={Usage}", cefrLevel, questionType, usage);
+
+            var json = (result.GetValue<string>() ?? string.Empty).Trim();
+            if (json.StartsWith("```"))
+            {
+                json = Regex.Replace(json, @"^```(?:json)?\s*", "");
+                json = Regex.Replace(json, @"\s*```$", "");
+                json = json.Trim();
+            }
+
+            var doc = JsonDocument.Parse(json);
+            var result2 = new Dictionary<string, List<BankQuestionDto>>();
+
+            // Expected format: { "domains": { "rotina_diaria": [...], "trabalho": [...], ... } }
+            var domainsEl = doc.RootElement.GetProperty("domains");
+
+            foreach (var domain in BankDomains)
+            {
+                if (!domainsEl.TryGetProperty(domain, out var domainEl)) continue;
+
+                var questions = ParseBankQuestions(domainEl, dbType);
+                if (questions.Count > 0)
+                    result2[domain] = questions;
+            }
+
+            var totalQ = result2.Values.Sum(q => q.Count);
+            _logger.LogInformation("[BankGen] Bulk {Level}/{Type} — {Domains} domains, {Total} questions",
+                cefrLevel, questionType, result2.Count, totalQ);
+
+            return result2;
+        }
+        catch (Exception ex)
+        {
+            _logger.LogError(ex, "[BankGen] Bulk failed for {Level}/{Type}", cefrLevel, questionType);
+            return [];
+        }
+    }
+
+    private static List<BankQuestionDto> ParseBankQuestions(JsonElement domainEl, string dbType)
+    {
+        var questions = new List<BankQuestionDto>();
+
+        foreach (var qEl in domainEl.EnumerateArray())
+        {
+            var questionText  = qEl.TryGetProperty("questionText",  out var qt) ? qt.GetString() ?? "" : "";
+            var correctAnswer = qEl.TryGetProperty("correctAnswer", out var ca) ? ca.GetString() ?? "" : "";
+            var difficulty    = qEl.TryGetProperty("difficulty",    out var d)  ? d.GetString()  ?? "easy" : "easy";
+
+            if (string.IsNullOrWhiteSpace(questionText) || string.IsNullOrWhiteSpace(correctAnswer))
+                continue;
+            if (difficulty != "easy" && difficulty != "medium" && difficulty != "hard")
+                difficulty = "easy";
+            if (dbType == "complete_sentence" && !questionText.Contains("___"))
+                continue;
+
+            var options = new List<BankOptionDto>();
+            if (qEl.TryGetProperty("options", out var optsEl))
+            {
+                foreach (var o in optsEl.EnumerateArray())
+                {
+                    var text = o.GetString() ?? "";
+                    if (!string.IsNullOrWhiteSpace(text))
+                        options.Add(new BankOptionDto(text, string.Equals(text, correctAnswer, StringComparison.OrdinalIgnoreCase)));
+                }
+            }
+
+            questions.Add(new BankQuestionDto(dbType, questionText, correctAnswer, difficulty, options));
+        }
+
+        return questions;
+    }
+
+    private static string QuestionBankTypeFor(string questionType) => questionType switch
+    {
+        "completar_frase"        => "complete_sentence",
+        "habilidades_receptivas" => "translation",
+        _                        => "multiple_choice",
+    };
+
+    private static string BuildBulkBankPrompt(string cefrLevel, string questionType)
+    {
+        var (tipoLabel, instrucoes) = questionType switch
+        {
+            "funcoes_comunicativas" => (
+                "Funções Comunicativas",
+                "Questões de tradução de frases úteis e expressões do dia a dia. questionText em Português, opções em Inglês."),
+            "vocabulario" => (
+                "Vocabulário",
+                "Questões sobre vocabulário, palavras e expressões em Inglês. questionText em Português perguntando o significado ou tradução, opções em Inglês."),
+            "gramatica" => (
+                "Gramática",
+                "Questões gramaticais com frases em Inglês. questionText em Português explicando o contexto, opções em Inglês com diferenças gramaticais."),
+            "habilidades_receptivas" => (
+                "Habilidades Receptivas (Tradução PT→EN)",
+                "Questões de tradução. questionText é uma frase em Português, as 4 opções são traduções em Inglês, apenas uma correta."),
+            "completar_frase" => (
+                "Completar a Frase",
+                "Frases em Inglês com ___ para completar. questionText DEVE conter ___ exatamente. correctAnswer = palavra/expressão que preenche o ___. 4 opções em Inglês."),
+            _ => ("Questões Gerais", "Questões de múltipla escolha sobre Inglês.")
+        };
+
+        return $$"""
+            Você é um designer de currículo de Inglês para alunos brasileiros.
+            Gere questões para o banco de questões do nível CEFR {{cefrLevel}}, categoria: {{tipoLabel}}.
+
+            Instruções: {{instrucoes}}
+
+            Gere EXATAMENTE 10 questões para CADA UM dos 12 domínios listados abaixo.
+            Distribuição por domínio: 3 easy, 4 medium, 3 hard (total 10 por domínio = 120 questões no total).
+
+            REGRAS:
+            1. questionText SEMPRE em Português
+            2. correctAnswer EXATAMENTE igual a uma das 4 opções
+            3. 4 opções distintas por questão
+            4. Questões variadas dentro de cada domínio
+            5. Vocabulário e complexidade adequados ao nível {{cefrLevel}}
+
+            RESPONDA APENAS COM JSON válido (sem markdown):
+            {
+              "domains": {
+                "rotina_diaria": [
+                  { "questionText": "...", "correctAnswer": "...", "options": ["...","...","...","..."], "difficulty": "easy" }
+                ],
+                "trabalho": [...],
+                "viagem": [...],
+                "saude": [...],
+                "negocios": [...],
+                "tecnologia": [...],
+                "compras": [...],
+                "educacao": [...],
+                "familia_relacionamentos": [...],
+                "alimentacao": [...],
+                "cultura_entretenimento": [...],
+                "meio_ambiente": [...]
+              }
+            }
+            """;
+    }
+
     // ── Helpers ────────────────────────────────────────────────────────────────
 
     private static string SessionKey(Guid sessionId) => $"xyla:{sessionId}";
