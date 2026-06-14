@@ -10,6 +10,7 @@ public class Lesson : Entity
     public string Title { get; set; } = string.Empty;
     public string? Description { get; set; }
     public int XpReward { get; set; } = 10;
+    public string? Level { get; set; } // CEFR: A1, A2, B1, B2, C1, C2
 
     public Unit Unit { get; set; } = null!;
     public User? User { get; set; }

@@ -18,6 +18,7 @@ public class LessonConfiguration : IEntityTypeConfiguration<Lesson>
         b.Property(l => l.Title).HasColumnName("title").HasMaxLength(200).IsRequired();
         b.Property(l => l.Description).HasColumnName("description").HasMaxLength(1000);
         b.Property(l => l.XpReward).HasColumnName("xp_reward").HasDefaultValue(10);
+        b.Property(l => l.Level).HasColumnName("level").HasMaxLength(5);
         b.Property(l => l.CreatedAt).HasColumnName("created_at");
         b.Property(l => l.UpdatedAt).HasColumnName("updated_at");
 
