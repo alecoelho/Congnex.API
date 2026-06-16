@@ -1,3 +1,4 @@
+using Congnex.Application.Interfaces;
 using Congnex.Domain.Entities;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
@@ -16,16 +17,19 @@ public record ImportVideoLessonRequest(
     string VideoUrl,
     int XpReward,
     string Level,
+    string? Domain,
     List<TranscriptLineDto> Transcript);
 
-public record ImportVideoLessonResult(Guid LessonId, string Title);
+public record ImportVideoLessonResult(Guid LessonId, string Title, int QuestionsMatched);
 
 // ── Command ──────────────────────────────────────────────────────────────────
 
 public record ImportVideoLessonCommand(ImportVideoLessonRequest Request)
     : IRequest<ImportVideoLessonResult>;
 
-public sealed class ImportVideoLessonCommandHandler(ICongnexDbContext db)
+public sealed class ImportVideoLessonCommandHandler(
+    ICongnexDbContext db,
+    IQuestionMatchingService matchingService)
     : IRequestHandler<ImportVideoLessonCommand, ImportVideoLessonResult>
 {
     public async Task<ImportVideoLessonResult> Handle(
@@ -107,7 +111,17 @@ public sealed class ImportVideoLessonCommandHandler(ICongnexDbContext db)
 
         await db.SaveChangesAsync(ct);
 
-        return new ImportVideoLessonResult(lesson.Id, lesson.Title);
+        // ── 5. Seleciona questões do banco relacionadas ao vídeo e copia ──
+        int matched = 0;
+        var normalizedLevel = NormalizeLevel(req.Level);
+        if (normalizedLevel is not null)
+        {
+            var fullTranscript = string.Join(" ", req.Transcript.Select(t => t.Text));
+            matched = await matchingService.MatchAndCopyAsync(
+                lesson.Id, normalizedLevel, NormalizeDomain(req.Domain), fullTranscript, limit: 60, ct);
+        }
+
+        return new ImportVideoLessonResult(lesson.Id, lesson.Title, matched);
     }
 
     // ── Helpers ───────────────────────────────────────────────────────────────
@@ -120,6 +134,21 @@ public sealed class ImportVideoLessonCommandHandler(ICongnexDbContext db)
             "C1" => "C1", "C2" => "C2",
             _ => null
         };
+
+    private static readonly HashSet<string> ValidDomains = new(StringComparer.OrdinalIgnoreCase)
+    {
+        "rotina_diaria", "trabalho", "viagem", "saude", "negocios", "tecnologia",
+        "compras", "educacao", "familia_relacionamentos", "alimentacao",
+        "cultura_entretenimento", "meio_ambiente"
+    };
+
+    // Domínio inválido/vazio → null (busca usa só nível + transcrição)
+    private static string? NormalizeDomain(string? domain)
+    {
+        if (string.IsNullOrWhiteSpace(domain)) return null;
+        var d = domain.Trim().ToLowerInvariant().Replace(' ', '_');
+        return ValidDomains.Contains(d) ? d : null;
+    }
 
     private static string ExtractYouTubeId(string url)
     {

@@ -176,64 +176,25 @@ public class XylaService : IXylaService
 
                     await channel.Writer.WriteAsync(InterviewComplete, CancellationToken.None);
 
-                    // Fire-and-forget: video → transcript → question generation → DB save
-                    // Uses a new DI scope so the disposed request scope doesn't affect DB operations.
+                    // Salva APENAS a resposta da entrevista. NÃO busca vídeo externo nem gera
+                    // questões — o aluno consome os vídeos/lições já cadastrados no banco (admin).
                     var capturedPlan   = plugin.Plan!;
                     var capturedUserId = userId;
                     var capturedScope  = _scopeFactory;
                     var capturedLogger = _logger;
-                    var capturedTranscript = _transcriptService;
 
                     _ = Task.Run(async () =>
                     {
-                        await using var scope   = capturedScope.CreateAsyncScope();
-                        var dbFactory = scope.ServiceProvider
-                            .GetRequiredService<IDbContextFactory<CongnexDbContext>>();
                         try
                         {
-                            VideoItem? capturedVideo = null;
-                            try
-                            {
-                                capturedVideo = await ResolveVideoItemAsync(
-                                    capturedPlan.VideoTopic, capturedPlan.VideoQuery, CancellationToken.None);
-                            }
-                            catch (Exception ex)
-                            {
-                                capturedLogger.LogWarning(ex, "Failed to resolve video for user {UserId}", capturedUserId);
-                            }
-
-                            string? transcript = null;
-                            if (capturedVideo is not null)
-                                transcript = await capturedTranscript.GetTranscriptAsync(
-                                    capturedVideo.Url, CancellationToken.None);
-
-                            // Generate only Lesson 1 (index 0) — remaining lessons generated lazily on completion
-                            var block = await GenerateSingleLessonAsync(
-                                capturedPlan.CefrLevel,
-                                capturedPlan.StudentGoal,
-                                capturedPlan.Age?.ToString(),
-                                transcript,
-                                lessonIndex: 0,
-                                CancellationToken.None);
-
-                            if (block is not null)
-                            {
-                                var targetStructures = new List<string>();
-                                if (!string.IsNullOrEmpty(capturedPlan.VideoTopic))
-                                    targetStructures.Add(capturedPlan.VideoTopic);
-                                if (!string.IsNullOrEmpty(capturedPlan.StudentGoal))
-                                    targetStructures.Add(capturedPlan.StudentGoal);
-
-                                await SaveSingleLessonAsync(dbFactory, capturedUserId, capturedVideo,
-                                    block, unitOrderIndex: 1, lessonOrderIndex: 1,
-                                    transcript, targetStructures, CancellationToken.None);
-                            }
-
-                            await SaveInterviewAnswerAsync(dbFactory, capturedUserId, capturedPlan, capturedVideo, CancellationToken.None);
+                            await using var scope = capturedScope.CreateAsyncScope();
+                            var dbFactory = scope.ServiceProvider
+                                .GetRequiredService<IDbContextFactory<CongnexDbContext>>();
+                            await SaveInterviewAnswerAsync(dbFactory, capturedUserId, capturedPlan, video: null, CancellationToken.None);
                         }
                         catch (Exception ex)
                         {
-                            capturedLogger.LogError(ex, "Background lesson generation failed for user {UserId}", capturedUserId);
+                            capturedLogger.LogError(ex, "Failed to save interview answer for user {UserId}", capturedUserId);
                         }
                     }, CancellationToken.None);
                 }

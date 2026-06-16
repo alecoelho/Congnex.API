@@ -106,6 +106,9 @@ public static class DependencyInjection
         services.AddScoped<IYouTubeTranscriptService, YouTubeTranscriptService>();
         services.AddSingleton<TranscriptSegmentService>();
 
+        // Seleção de questões do banco por vídeo (nível + domínio + transcrição FULLTEXT)
+        services.AddScoped<IQuestionMatchingService, QuestionMatchingService>();
+
         return services;
     }
 }

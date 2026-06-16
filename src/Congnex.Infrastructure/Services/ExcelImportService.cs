@@ -13,7 +13,7 @@ public static class ExcelImportService
     // ── Vídeo ─────────────────────────────────────────────────────────────────
 
     /// <summary>
-    /// Colunas esperadas: title | description | unitTitle | videoUrl | xpReward | level | transcript
+    /// Colunas esperadas: title | description | unitTitle | videoUrl | xpReward | level | domain | transcript
     /// </summary>
     public static ImportVideoLessonRequest ReadVideoLesson(Stream stream)
     {
@@ -33,16 +33,17 @@ public static class ExcelImportService
         var videoUrl    = Cell(first, 4);
         var xpReward    = int.TryParse(Cell(first, 5), out var xp) ? xp : 10;
         var level       = Cell(first, 6); // A1, A2, B1, B2, C1, C2
+        var domain      = Cell(first, 7); // rotina_diaria, trabalho, viagem, ... (opcional)
 
         if (string.IsNullOrWhiteSpace(title))    throw new InvalidDataException("Coluna 'title' obrigatória.");
         if (string.IsNullOrWhiteSpace(unitTitle)) throw new InvalidDataException("Coluna 'unitTitle' obrigatória.");
         if (string.IsNullOrWhiteSpace(videoUrl)) throw new InvalidDataException("Coluna 'videoUrl' obrigatória.");
 
-        // Todas as linhas contribuem com transcrição (coluna 7)
+        // Todas as linhas contribuem com transcrição (coluna 8)
         var transcript = new List<TranscriptLineDto>();
         foreach (var row in rows)
         {
-            var transcriptCell = Cell(row, 7);
+            var transcriptCell = Cell(row, 8);
             if (string.IsNullOrWhiteSpace(transcriptCell)) continue;
 
             // Cada linha pode ter múltiplos segmentos separados por quebra de linha dentro da célula
@@ -71,7 +72,7 @@ public static class ExcelImportService
             }
         }
 
-        return new ImportVideoLessonRequest(title, description, unitTitle, videoUrl, xpReward, level, transcript);
+        return new ImportVideoLessonRequest(title, description, unitTitle, videoUrl, xpReward, level, domain, transcript);
     }
 
     // ── Multiple Choice / Image Choice ────────────────────────────────────────

@@ -19,6 +19,7 @@ public class AdminController(IMediator mediator) : ControllerBase
     /// Retorna o lessonId para uso nos endpoints de questões.
     /// </summary>
     [HttpPost("videos/import")]
+    [SkipAdminKey]   // cadastro de vídeo não exige admin key
     public async Task<IActionResult> ImportVideo(
         IFormFile file, CancellationToken ct)
     {
@@ -34,9 +35,10 @@ public class AdminController(IMediator mediator) : ControllerBase
             var result = await mediator.Send(new ImportVideoLessonCommand(request), ct);
             return Ok(ApiResponse<object>.Ok(new
             {
-                lessonId = result.LessonId,
-                title    = result.Title,
-                message  = "Vídeo e transcrição importados com sucesso."
+                lessonId         = result.LessonId,
+                title            = result.Title,
+                questionsMatched = result.QuestionsMatched,
+                message          = $"Vídeo importado. {result.QuestionsMatched} questões do banco vinculadas pela transcrição."
             }));
         }
         catch (InvalidDataException ex)
